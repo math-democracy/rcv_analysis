@@ -130,8 +130,9 @@ def validation_test(data):
 def parser(infilepath, output_folder):
     print(infilepath)
     data = parse_file(infilepath)
+    county = data["county"].replace(" ", "").replace("/", "").replace('"', '')
     file_name = os.path.splitext(os.path.basename(infilepath))[0]
-    outfilepath = f'{output_folder}/{file_name}.csv' 
+    outfilepath = f'{output_folder}/{county}_{file_name}.csv' 
     print("Converting blt to csv for " + file_name)
     print(validation_test(data))
     parse_to_csv(data, outfilepath)
