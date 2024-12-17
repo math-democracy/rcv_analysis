@@ -1,6 +1,6 @@
-#rcv_proposal 
+# rcv_proposal 
 
-##Research Questions:
+### Research Questions:
 * For each election, do the methods of Borda, Condorcet, IRV, Bucklin, etc., choose the same winner? If not, why not? Does a method tend to choose a more centrist or fringe candidate?
 * What does ``fringe'' mean?
 * For each election and each method, check for the spoiler effect.
