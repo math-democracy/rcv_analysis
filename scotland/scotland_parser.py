@@ -36,9 +36,8 @@ def parse_file(filepath):
 
 
 def parse_to_csv(data, outfilepath):
-    candidates = [c for c in data['candidates']]
-    for c in candidates:
-        c = normalize_parties(c)
+    candidates = [normalize_parties(c) for c in data['candidates']]
+
     ranks = ["rank" + str(i + 1) for i in range(len(candidates))]
     ballots = [b for b in data['ballots']]
 
@@ -48,11 +47,12 @@ def parse_to_csv(data, outfilepath):
 
     for ballot in ballots:
         for voter in range(ballot[0]):
-            c = {"voter_id": voter_id}
+            c = {"voterId": voter_id}
             c.update({rank: "skipped" for rank in ranks})
             for index, vote in enumerate(ballot[1:-1]):
                 c[ranks[index]] = candidates[vote - 1]
-            c['num_positions'] = data['num_positions']
+            c['numSeats'] = data['num_positions']
+            c['numCands'] = data['num_candidates']
             voter_id += 1
             all_votes.append(c)
     
@@ -67,50 +67,50 @@ def parse_to_csv(data, outfilepath):
 
 def normalize_parties(party):
     replacements = [
-        (r'\(Con\)|\(C\)|Conservative', 'Con'),
-        (r'\(SNP\)|Scottish National', 'SNP'),
-        (r'\(Grn\)|Scottish Green', 'Grn'),
-        (r'Scottish Unionist|\(SU\)', 'SU'),
-        (r'\(Lab\)|Labour', 'Lab'),
-        (r'\(LD\)|Liberal Democrat', 'LD'),
-        (r'\(Ind\)|Independent', 'Ind'),
-        (r'\(Libtn\)|Libertarian', 'Libtn'),
-        (r'\(SC\)|Scottish Christian|\(Chr\)', 'SC'),
-        (r'\(Sol\)|Solidarity', 'Sol'),
-        (r'UK Independence|UKIP', 'UKIP'),
-        (r'SFP|Scottish Family', 'SFP'),
-        (r'Trade Unionist|TUSC', 'TUSC'),
-        (r'\(NF\)|National Front', 'NF'),
-        (r'\(Soc\)|Scottish Trade Unionist and Socialist|Scottish Socialist|SSP', 'Soc'),
-        (r'API|ALBA|Alba', 'Alba'),
-        (r'\(SDP\)|Social Democratic', 'SDP'),
-        (r'\(GF\)|Glasgow First', 'Glasgow First'),
-        (r'Britannica', 'Britannica'),
-        (r'\(Pir\)|Pirate', 'Pir'),
-        (r'\(Comm\)|Communist', 'Comm'),
-        (r'British National Party|BNP', 'BNP'),
-        (r'Christian People|CPA', 'CPA'),
-        (r'\(SSC\)|Scottish Senior', 'SSC'),
-        (r'\(MVR\)|Monster Raving', 'MVR'),
-        (r'Sovereignty', 'Sovereignty'),
-        (r'Volt UK', 'Volt UK'),
-        (r'Freedom Alliance', 'Freedom Alliance'),
-        (r'Vanguard', 'Vanguard'),
-        (r'\(SEFP\)', 'SEFP'),
-        (r'\(Lib\)|Liberal Party', 'Liberal'),
-        (r'East Dunbartonshire|EDIA', 'EDIA'),
-        (r'Borders', 'Scottish Borders'),
-        (r'East Kilbride|EKA', 'EKA'),
-        (r'CICA', 'CICA'),
-        (r'Rubbish', 'Rubbish'),
-        (r'British Unionist', 'British Unionist'),
-        (r'OMG', 'OMG'),
-        (r'West Dunbartonshire|\(WDuns\)|WDCP', 'WDuns')
+        (r' Con | C |Conservatives|Conservative', '(Con)'),
+        (r' SNP |Scottish Nationals|Scottish National', '(SNP)'),
+        (r' Grn |Scottish Greens|Scottish Green', '(Grn)'),
+        (r'Scottish Unionist|Scottish Unionists| SU ', '(SU)'),
+        (r' Lab |Labour', '(Lab)'),
+        (r' LD |Liberal Democrats|Liberal Democrat', '(LD)'),
+        (r' Ind |Independents|Independent', '(Ind)'),
+        (r' Libtn |Libertarians|Libertarian', '(Libtn)'),
+        (r' SC |Scottish Christian| Chr ', '(SC)'),
+        (r' Sol |Solidarity', '(Sol)'),
+        (r'UK Independence|UKIP', '(UKIP)'),
+        (r'SFP|Scottish Family', '(SFP)'),
+        (r'Trade Unionist|TUSC', '(TUSC)'),
+        (r' NF |National Front', '(NF)'),
+        (r' Soc |Scottish Trade Unionist and Socialist|Scottish Socialist|SSP', '(Soc)'),
+        (r'API|ALBA|Alba', '(Alba)'),
+        (r' SDP |Social Democratic', '(SDP)'),
+        (r' GF |Glasgow First', '(Glasgow First)'),
+        (r'Britannica', '(Britannica)'),
+        (r' Pir |Pirate', '(Pir)'),
+        (r' Comm |Communist', '(Comm)'),
+        (r'British National Party|BNP', '(BNP)'),
+        (r'Christian People|CPA', '(CPA)'),
+        (r' SSC |Scottish Senior', '(SSC)'),
+        (r' MVR |Monster Raving', '(MVR)'),
+        (r'Sovereignty', '(Sovereignty)'),
+        (r'Volt UK', '(Volt UK)'),
+        (r'Freedom Alliance', '(Freedom Alliance)'),
+        (r'Vanguard', '(Vanguard)'),
+        (r' SEFP ', '(SEFP)'),
+        (r' Lib |Liberal Party', '(Liberal)'),
+        (r'East Dunbartonshire|EDIA', '(EDIA)'),
+        (r'Borders', '(Scottish Borders)'),
+        (r'East Kilbride|EKA', '(EKA)'),
+        (r'CICA', '(CICA)'),
+        (r'Rubbish', '(Rubbish)'),
+        (r'British Unionist', '(British Unionist)'),
+        (r'OMG', '(OMG)'),
+        (r'West Dunbartonshire| WDuns |WDCP', '(WDuns)')
     ]
 
     for pattern, replacement in replacements:
         party = re.sub(pattern, replacement, party)
-        
+    
     return party
 
 def validation_test(data):
@@ -137,3 +137,8 @@ def parser(infilepath, output_folder):
     print(validation_test(data))
     parse_to_csv(data, outfilepath)
     print("Data exported to " + outfilepath)    
+
+
+test_file = '/Users/belle/Downloads/Scotland data, LEAP parties/eilean-siar22/ward10_preferenceprofile.txt'
+
+# parser(test_file, './data')
