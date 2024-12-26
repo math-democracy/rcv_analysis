@@ -139,6 +139,5 @@ def parser(infilepath, output_folder):
     print("Data exported to " + outfilepath)    
 
 
-test_file = '/Users/belle/Downloads/Scotland data, LEAP parties/eilean-siar22/ward10_preferenceprofile.txt'
-
+# test_file = '/Users/belle/Downloads/Scotland data, LEAP parties/eilean-siar22/ward10_preferenceprofile.txt'
 # parser(test_file, './data')
