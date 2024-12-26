@@ -3,10 +3,12 @@ import numpy as np
 import csv
 import os
 import re
+import random
 
 def parse_file(filepath):
     with open(filepath, 'r') as file:
-        lines = file.readlines()
+        lines = [line.strip() for line in file if line.strip()]
+
 
     lines = [re.sub(r',\s*$', '', line) for line in lines] #to deal with , at the end of csv files
     
@@ -67,50 +69,57 @@ def parse_to_csv(data, outfilepath):
 
 def normalize_parties(party):
     replacements = [
-        (r' Con | C |Conservatives|Conservative', '(Con)'),
-        (r' SNP |Scottish Nationals|Scottish National', '(SNP)'),
-        (r' Grn |Scottish Greens|Scottish Green', '(Grn)'),
+        (r'Labour and Co-operative Party|Labour and Co‐operative Party', '(Labour and Co-operative Party)'),
+        (r'Scottish Conservative and Unionist \(Con\)|Scottish Conservative and Unionist|Conservative and Unionist \(Con\)|\bCon\b|\bC\b|Conservatives|Conservative', '(Con)'),
+        (r'Scottish National Party \(SNP\)|Scottish Nationals|Scottish National|\bSNP\b', '(SNP)'),
+        (r'Scottish Greens - Delivering For Our Community|Scottish Greens - Think Global Act Local|Scottish Greens ‐ Think Global Act Local|Scottish Green Party \(Grn\)|Scottish Green Party|\bGrn\b|Scottish Greens|Scottish Green', '(Grn)'),
         (r'Scottish Unionist|Scottish Unionists| SU ', '(SU)'),
-        (r' Lab |Labour', '(Lab)'),
-        (r' LD |Liberal Democrats|Liberal Democrat', '(LD)'),
-        (r' Ind |Independents|Independent', '(Ind)'),
-        (r' Libtn |Libertarians|Libertarian', '(Libtn)'),
-        (r' SC |Scottish Christian| Chr ', '(SC)'),
-        (r' Sol |Solidarity', '(Sol)'),
-        (r'UK Independence|UKIP', '(UKIP)'),
-        (r'SFP|Scottish Family', '(SFP)'),
+        (r'Scottish Labour Party|Aberdeen Labour \(Lab\)|Aberdeen Labour|\bLab\b|Labour', '(Lab)'),
+        (r'Scottish Liberal Democrats \(LD\)|Scottish Liberal Democrats|\bLD\b|Liberal Democrat Focus Team|Liberal Democrats|Liberal Democrat', '(LD)'),
+        (r'Independent Green Voice - Organic Green Scotland|Independent Green Voice', '(IGV)'),
+        (r'Independents|Independent|\bInd\b', '(Ind)'),
+        (r'Scottish Libertarian Party|\bLibtn\b|Libertarians|Libertarian', '(Libtn)'),
+        (r'\bSC\b|Scottish Christian|\bChr\b', '(SC)'),
+        (r'\bSol\b|Solidarity', '(Sol)'),
+        (r'UK Independence Party|UK Independence|UKIP', '(UKIP)'),
+        (r'Scottish Trade Unionist and Socialist Coalition \(Soc\)|Scottish Trade Unionist and Socialist Coalition|\bSoc\b|Scottish Trade Unionist and Socialist|Scottish Socialist|\bSSP\b', '(Soc)'),
+        (r'Scottish Family Party Pro-Family, Pro-Marriage, Pro-Life \(SFP\)|Scottish Family Party Pro-Family, Pro-Marriage, Pro-Life|Scottish Family Party: Pro‐Family, Pro‐Marriage|Scottish Family Party - Putting Families First|Scottish Family|\bSFP\b', '(SFP)'),
         (r'Trade Unionist|TUSC', '(TUSC)'),
-        (r' NF |National Front', '(NF)'),
-        (r' Soc |Scottish Trade Unionist and Socialist|Scottish Socialist|SSP', '(Soc)'),
-        (r'API|ALBA|Alba', '(Alba)'),
-        (r' SDP |Social Democratic', '(SDP)'),
-        (r' GF |Glasgow First', '(Glasgow First)'),
+        (r'\bNF\b|National Front', '(NF)'),
+        (r'Alba Party: Yes to Scottish Independence|Alba Party for Independence|Alba Party for independence \(API\)|Alba Party for independence|Alba Party for Independence|Alba Party|API|ALBA|Alba', '(Alba)'),
+        (r'\bSDP\b|Social Democratic', '(SDP)'),
+        (r'\bGF\b|Glasgow First', '(Glasgow First)'),
         (r'Britannica', '(Britannica)'),
-        (r' Pir |Pirate', '(Pir)'),
-        (r' Comm |Communist', '(Comm)'),
-        (r'British National Party|BNP', '(BNP)'),
-        (r'Christian People|CPA', '(CPA)'),
-        (r' SSC |Scottish Senior', '(SSC)'),
-        (r' MVR |Monster Raving', '(MVR)'),
+        (r'\bPir\b|Pirate', '(Pir)'),
+        (r'\bComm\b|Communist', '(Comm)'),
+        (r'British National Party|\bBNP\b', '(BNP)'),
+        (r'Christian People|\bCPA\b', '(CPA)'),
+        (r'\bSSC\b|Scottish Senior', '(SSC)'),
+        (r'\bMVR\b|Monster Raving', '(MVR)'),
         (r'Sovereignty', '(Sovereignty)'),
         (r'Volt UK', '(Volt UK)'),
-        (r'Freedom Alliance', '(Freedom Alliance)'),
-        (r'Vanguard', '(Vanguard)'),
-        (r' SEFP ', '(SEFP)'),
-        (r' Lib |Liberal Party', '(Liberal)'),
+        (r'Freedom Alliance. Leave Our Children Alone.|Freedom Alliance', '(Freedom Alliance)'),
+        (r'\bVanguard\b', '(Vanguard)'),
+        (r'\bSEFP\b', '(SEFP)'),
+        (r'\bLib\b|Liberal Party', '(Liberal)'),
         (r'East Dunbartonshire|EDIA', '(EDIA)'),
         (r'Borders', '(Scottish Borders)'),
         (r'East Kilbride|EKA', '(EKA)'),
-        (r'CICA', '(CICA)'),
-        (r'Rubbish', '(Rubbish)'),
-        (r'British Unionist', '(British Unionist)'),
-        (r'OMG', '(OMG)'),
-        (r'West Dunbartonshire| WDuns |WDCP', '(WDuns)')
+        (r'\bCICA\b', '(CICA)'),
+        (r'\bRubbish\b', '(Rubbish)'),
+        (r'\bBritish Unionist\b', '(British Unionist)'),
+        (r'\bOMG\b', '(OMG)'),
+        (r'West Dunbartonshire Community Party|West Dunbartonshire|\bWDuns\b|\bWDCP\b', '(WDuns)')
     ]
-
-    for pattern, replacement in replacements:
-        party = re.sub(pattern, replacement, party)
     
+    # print("old", party)
+    for pattern, replacement in replacements:
+        if re.search(pattern, party):
+            party = re.sub(pattern, replacement, party)
+            break
+    
+    party = party.replace('((', '(').replace('))', ')').replace('  ', '').replace(',', '')
+    # print("new", party)
     return party
 
 def validation_test(data):
@@ -128,6 +137,8 @@ def validation_test(data):
     return {"total_votes": total_votes, "candidate": votes_per_candidate}
 
 def parser(infilepath, output_folder):
+    # random_int = random.randint(1, 15)
+    # if random_int == 2:
     print(infilepath)
     data = parse_file(infilepath)
     county = data["county"].replace(" ", "").replace("/", "").replace('"', '')
@@ -139,5 +150,6 @@ def parser(infilepath, output_folder):
     print("Data exported to " + outfilepath)    
 
 
-# test_file = '/Users/belle/Downloads/Scotland data, LEAP parties/eilean-siar22/ward10_preferenceprofile.txt'
+# test_file = '/Users/belle/Downloads/Scotland data, LEAP parties/e-ayrshire22/Ward2.csv'
+
 # parser(test_file, './data')
