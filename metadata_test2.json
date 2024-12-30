@@ -1,9 +1,7 @@
 {
     "elections_per_country": {
-        "scotland": 1124,
         "america": 498,
-        "australia": 330,
-        "total": 1952
+        "total": 498
     },
     "winners_per_election": {
         "america": [
@@ -13,11 +11,15 @@
             },
             {
                 "num_seats": 2.0,
-                "count": 13
+                "count": 14
             },
             {
                 "num_seats": 3.0,
-                "count": 4
+                "count": 9
+            },
+            {
+                "num_seats": 4.0,
+                "count": 1
             },
             {
                 "num_seats": 6.0,
@@ -26,34 +28,6 @@
             {
                 "num_seats": 9.0,
                 "count": 11
-            }
-        ],
-        "australia": [
-            {
-                "num_seats": 0.0,
-                "count": 330
-            }
-        ],
-        "scotland": [
-            {
-                "num_seats": 1.0,
-                "count": 54
-            },
-            {
-                "num_seats": 2.0,
-                "count": 6
-            },
-            {
-                "num_seats": 3.0,
-                "count": 553
-            },
-            {
-                "num_seats": 4.0,
-                "count": 508
-            },
-            {
-                "num_seats": 5.0,
-                "count": 3
             }
         ]
     },
@@ -67,26 +41,6 @@
             "50%": 14706.5,
             "75%": 26635.75,
             "max": 942031.0
-        },
-        "australia": {
-            "count": 330.0,
-            "mean": 48400.50303030303,
-            "std": 12272.199440519755,
-            "min": 3781.0,
-            "25%": 46625.75,
-            "50%": 48473.5,
-            "75%": 50381.5,
-            "max": 130336.0
-        },
-        "scotland": {
-            "count": 1124.0,
-            "mean": 5051.10231316726,
-            "std": 2086.206337082966,
-            "min": 661.0,
-            "25%": 3789.0,
-            "50%": 4790.0,
-            "75%": 5955.25,
-            "max": 14207.0
         }
     },
     "votes_per_election": {
@@ -497,234 +451,6 @@
             },
             {
                 "voter_category": 943000,
-                "voter_category_count": 1
-            }
-        ],
-        "australia": [
-            {
-                "voter_category": 4000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 9000,
-                "voter_category_count": 2
-            },
-            {
-                "voter_category": 11000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 13000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 14000,
-                "voter_category_count": 2
-            },
-            {
-                "voter_category": 15000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 18000,
-                "voter_category_count": 2
-            },
-            {
-                "voter_category": 19000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 25000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 26000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 27000,
-                "voter_category_count": 2
-            },
-            {
-                "voter_category": 32000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 37000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 38000,
-                "voter_category_count": 2
-            },
-            {
-                "voter_category": 39000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 40000,
-                "voter_category_count": 2
-            },
-            {
-                "voter_category": 41000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 42000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 43000,
-                "voter_category_count": 5
-            },
-            {
-                "voter_category": 44000,
-                "voter_category_count": 7
-            },
-            {
-                "voter_category": 45000,
-                "voter_category_count": 8
-            },
-            {
-                "voter_category": 46000,
-                "voter_category_count": 16
-            },
-            {
-                "voter_category": 47000,
-                "voter_category_count": 33
-            },
-            {
-                "voter_category": 48000,
-                "voter_category_count": 47
-            },
-            {
-                "voter_category": 49000,
-                "voter_category_count": 56
-            },
-            {
-                "voter_category": 50000,
-                "voter_category_count": 38
-            },
-            {
-                "voter_category": 51000,
-                "voter_category_count": 30
-            },
-            {
-                "voter_category": 52000,
-                "voter_category_count": 17
-            },
-            {
-                "voter_category": 53000,
-                "voter_category_count": 23
-            },
-            {
-                "voter_category": 54000,
-                "voter_category_count": 11
-            },
-            {
-                "voter_category": 55000,
-                "voter_category_count": 5
-            },
-            {
-                "voter_category": 56000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 63000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 68000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 86000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 101000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 106000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 116000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 119000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 128000,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 131000,
-                "voter_category_count": 1
-            }
-        ],
-        "scotland": [
-            {
-                "voter_category": 1000,
-                "voter_category_count": 8
-            },
-            {
-                "voter_category": 2000,
-                "voter_category_count": 59
-            },
-            {
-                "voter_category": 3000,
-                "voter_category_count": 55
-            },
-            {
-                "voter_category": 4000,
-                "voter_category_count": 216
-            },
-            {
-                "voter_category": 5000,
-                "voter_category_count": 271
-            },
-            {
-                "voter_category": 6000,
-                "voter_category_count": 240
-            },
-            {
-                "voter_category": 7000,
-                "voter_category_count": 119
-            },
-            {
-                "voter_category": 8000,
-                "voter_category_count": 64
-            },
-            {
-                "voter_category": 9000,
-                "voter_category_count": 36
-            },
-            {
-                "voter_category": 10000,
-                "voter_category_count": 19
-            },
-            {
-                "voter_category": 11000,
-                "voter_category_count": 16
-            },
-            {
-                "voter_category": 12000,
-                "voter_category_count": 13
-            },
-            {
-                "voter_category": 13000,
-                "voter_category_count": 2
-            },
-            {
-                "voter_category": 14000,
-                "voter_category_count": 5
-            },
-            {
-                "voter_category": 15000,
                 "voter_category_count": 1
             }
         ]
