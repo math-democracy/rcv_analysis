@@ -9,11 +9,11 @@ import json
 #      helper methods      #
 ############################
 
-root_dir = '/Users/belle/Desktop/build/rcv_proposal/australia/processed_data' # where the data is
-country = "australia" # country of the dataset
+root_dir = '/Users/belle/Desktop/build/rcv_proposal/civs' # where the data is
+country = "civs" # country of the dataset
 
-data_file = '/Users/belle/Desktop/build/rcv_proposal/metadata.csv' # where you want to put the summary of each election
-metadata_file = '/Users/belle/Desktop/build/rcv_proposal/metadata.json' # where you want to put the overall statistics
+data_file = '/Users/belle/Desktop/build/rcv_proposal/metadata_civs.csv' # where you want to put the summary of each election
+metadata_file = '/Users/belle/Desktop/build/rcv_proposal/metadata_civs.json' # where you want to put the overall statistics
 
 def process_files():
     data = read_folders(root_dir)
@@ -22,7 +22,7 @@ def process_files():
 def generate_data():
     df = pd.read_csv(data_file)
     get_insights(df)
-    # get_summary_insights(df)
+    get_summary_insights(df)
 
 
 #################################
@@ -118,11 +118,14 @@ def get_file_data(filename, full_path):
 
             if len(rows) >= 1: 
                 if country == "america": 
-                    num_cands = rows[1].get("Num cands", None) 
-                    num_seats = rows[1].get("Num seats", None) 
+                    num_cands = rows[0].get("Num cands", None) 
+                    num_seats = rows[0].get("Num seats", None) 
+                if country == "civs":
+                    num_cands = rows[0].get("Num Cands", None) 
+                    num_seats = rows[0].get("Num Seats", None) 
                 if country == "scotland":
-                    num_cands = rows[1].get("numCands", None) 
-                    num_seats = rows[1].get("numSeats", None) 
+                    num_cands = rows[0].get("numCands", None) 
+                    num_seats = rows[0].get("numSeats", None) 
                 if country == "australia":
                     header = reader.fieldnames
                     rank_numbers = [
@@ -153,4 +156,4 @@ def write_to_data_file(data):
             row = [d.get(key, '') for key in keys]
             writer.writerow(row)
 
-process_files()
+generate_data()

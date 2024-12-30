@@ -1,0 +1,69 @@
+{
+    "elections_per_country": {
+        "civs": 521
+    },
+    "winners_per_election": {
+        "civs": [
+            {
+                "num_seats": "1.0",
+                "count": 490
+            },
+            {
+                "num_seats": "Unknown",
+                "count": 31
+            }
+        ]
+    },
+    "aggregate_voters": {
+        "civs": {
+            "count": 521.0,
+            "mean": 140.10940499040308,
+            "std": 350.65227890295745,
+            "min": 31.0,
+            "25%": 39.0,
+            "50%": 54.0,
+            "75%": 121.0,
+            "max": 6580.0
+        }
+    },
+    "votes_per_election": {
+        "civs": [
+            {
+                "voter_category": 200,
+                "voter_category_count": 437
+            },
+            {
+                "voter_category": 400,
+                "voter_category_count": 42
+            },
+            {
+                "voter_category": 600,
+                "voter_category_count": 26
+            },
+            {
+                "voter_category": 800,
+                "voter_category_count": 10
+            },
+            {
+                "voter_category": 1000,
+                "voter_category_count": 2
+            },
+            {
+                "voter_category": 1600,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 2400,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 2600,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 6600,
+                "voter_category_count": 1
+            }
+        ]
+    }
+}
