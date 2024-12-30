@@ -1,15 +1,15 @@
 voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
-0,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Jim KYLE (Lab),Stef MCNAMARA ,Tracey CLARK (Con),Lorraine POLLOCK (SNP),1,7
-1,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),skipped,skipped,1,7
-2,Tracey CLARK (Con),Stef MCNAMARA ,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
-3,Tracey CLARK (Con),Stef MCNAMARA ,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
-4,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,1,7
-5,Jim IRELAND (Ind),Tracey CLARK (Con),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-6,Jim IRELAND (Ind),Tracey CLARK (Con),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-7,Jim IRELAND (Ind),Tracey CLARK (Con),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-8,Jim IRELAND (Ind),Tracey CLARK (Con),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-9,Jim IRELAND (Ind),Tracey CLARK (Con),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-10,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
+0,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),Lorraine POLLOCK (SNP),1,7
+1,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),skipped,skipped,1,7
+2,Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
+3,Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
+4,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,1,7
+5,Jim IRELAND (Ind),Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+6,Jim IRELAND (Ind),Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+7,Jim IRELAND (Ind),Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+8,Jim IRELAND (Ind),Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+9,Jim IRELAND (Ind),Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+10,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
 11,Trevor Gordon GRANT (LD),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 12,Trevor Gordon GRANT (LD),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 13,Trevor Gordon GRANT (LD),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
@@ -28,27 +28,27 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 26,Jim KYLE (Lab),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,skipped,1,7
 27,Jim KYLE (Lab),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,skipped,1,7
 28,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
-29,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
+29,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
 30,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 31,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 32,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 33,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
-34,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,1,7
-35,Lorraine POLLOCK (SNP),Stef MCNAMARA ,Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
-36,Lorraine POLLOCK (SNP),Stef MCNAMARA ,Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
-37,Lorraine POLLOCK (SNP),Stef MCNAMARA ,Jim IRELAND (Ind),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),1,7
-38,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-39,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Stef MCNAMARA ,Lorraine POLLOCK (SNP),1,7
-40,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,skipped,skipped,skipped,1,7
+34,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),1,7
+35,Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
+36,Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
+37,Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),1,7
+38,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+39,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),1,7
+40,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,1,7
 41,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,1,7
-42,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Jim IRELAND (Ind),skipped,skipped,1,7
-43,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Stef MCNAMARA ,skipped,skipped,skipped,1,7
-44,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Stef MCNAMARA ,skipped,skipped,skipped,1,7
+42,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),skipped,skipped,1,7
+43,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,1,7
+44,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,1,7
 45,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,1,7
 46,Lorraine POLLOCK (SNP),Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),skipped,skipped,skipped,1,7
-47,Tracey CLARK (Con),Stef MCNAMARA ,Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
+47,Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 48,Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
-49,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),1,7
+49,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),1,7
 50,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
 51,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
 52,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
@@ -56,7 +56,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 54,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
 55,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
 56,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
-57,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Tracey CLARK (Con),1,7
+57,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),1,7
 58,Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 59,Jim KYLE (Lab),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 60,Jim KYLE (Lab),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,1,7
@@ -78,15 +78,15 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 76,Jim KYLE (Lab),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 77,Jim KYLE (Lab),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 78,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),skipped,skipped,1,7
-79,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Tracey CLARK (Con),1,7
-80,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Tracey CLARK (Con),1,7
-81,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Tracey CLARK (Con),1,7
+79,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Tracey CLARK (Con),1,7
+80,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Tracey CLARK (Con),1,7
+81,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Tracey CLARK (Con),1,7
 82,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
-83,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Stef MCNAMARA ,Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Tracey CLARK (Con),1,7
-84,Jim IRELAND (Ind),Stef MCNAMARA ,Trevor Gordon GRANT (LD),Jim KYLE (Lab),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
-85,Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Tracey CLARK (Con),Stef MCNAMARA ,Jim IRELAND (Ind),1,7
-86,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
-87,Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA ,Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Tracey CLARK (Con),1,7
+83,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Tracey CLARK (Con),1,7
+84,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
+85,Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),1,7
+86,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
+87,Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Tracey CLARK (Con),1,7
 88,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 89,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 90,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
@@ -101,14 +101,14 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 99,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 100,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 101,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
-102,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Tracey CLARK (Con),Lorraine POLLOCK (SNP),Jim KYLE (Lab),1,7
-103,Lorraine POLLOCK (SNP),Stef MCNAMARA ,Jim IRELAND (Ind),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
-104,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),1,7
+102,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),Lorraine POLLOCK (SNP),Jim KYLE (Lab),1,7
+103,Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
+104,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),1,7
 105,Lorraine POLLOCK (SNP),Tracey CLARK (Con),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 106,Lorraine POLLOCK (SNP),Tracey CLARK (Con),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 107,Lorraine POLLOCK (SNP),Tracey CLARK (Con),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 108,Lorraine POLLOCK (SNP),Tracey CLARK (Con),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
-109,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Tracey CLARK (Con),Stef MCNAMARA ,Jim IRELAND (Ind),1,7
+109,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),1,7
 110,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 111,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 112,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
@@ -117,19 +117,19 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 115,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 116,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 117,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
-118,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),1,7
-119,Jim IRELAND (Ind),Stef MCNAMARA ,Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
+118,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),1,7
+119,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
 120,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 121,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 122,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 123,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 124,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 125,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
-126,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Trevor Gordon GRANT (LD),Jim KYLE (Lab),skipped,skipped,1,7
-127,Jim IRELAND (Ind),Stef MCNAMARA ,Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
-128,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Tracey CLARK (Con),1,7
-129,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Jim KYLE (Lab),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
-130,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Jim KYLE (Lab),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
+126,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),Jim KYLE (Lab),skipped,skipped,1,7
+127,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
+128,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),1,7
+129,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
+130,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
 131,Tracey CLARK (Con),Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 132,Tracey CLARK (Con),Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 133,Tracey CLARK (Con),Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
@@ -138,22 +138,22 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 136,Tracey CLARK (Con),Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 137,Tracey CLARK (Con),Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 138,Tracey CLARK (Con),Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
-139,Jim KYLE (Lab),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),1,7
-140,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
-141,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Jim IRELAND (Ind),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
-142,Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
-143,Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
-144,Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
-145,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Tracey CLARK (Con),Stef MCNAMARA ,Jim IRELAND (Ind),1,7
-146,Jim IRELAND (Ind),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Jim KYLE (Lab),skipped,skipped,skipped,1,7
-147,Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Stef MCNAMARA ,1,7
-148,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Tracey CLARK (Con),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
-149,Tracey CLARK (Con),Stef MCNAMARA ,Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
-150,Tracey CLARK (Con),Stef MCNAMARA ,Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
-151,Tracey CLARK (Con),Stef MCNAMARA ,Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
-152,Tracey CLARK (Con),Stef MCNAMARA ,Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
-153,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,1,7
-154,Jim KYLE (Lab),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Tracey CLARK (Con),1,7
+139,Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),1,7
+140,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
+141,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
+142,Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
+143,Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
+144,Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
+145,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),1,7
+146,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Jim KYLE (Lab),skipped,skipped,skipped,1,7
+147,Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),1,7
+148,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
+149,Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
+150,Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
+151,Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
+152,Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
+153,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,1,7
+154,Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Tracey CLARK (Con),1,7
 155,Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 156,Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 157,Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,skipped,skipped,skipped,1,7
@@ -165,13 +165,13 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 163,Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 164,Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 165,Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,skipped,skipped,skipped,1,7
-166,Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),1,7
+166,Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),1,7
 167,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Jim IRELAND (Ind),skipped,skipped,skipped,1,7
 168,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Jim IRELAND (Ind),skipped,skipped,skipped,1,7
 169,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Jim IRELAND (Ind),skipped,skipped,skipped,1,7
-170,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),1,7
-171,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Tracey CLARK (Con),Jim KYLE (Lab),1,7
-172,Tracey CLARK (Con),Lorraine POLLOCK (SNP),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
+170,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),1,7
+171,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),Jim KYLE (Lab),1,7
+172,Tracey CLARK (Con),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
 173,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 174,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 175,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
@@ -184,19 +184,19 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 182,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 183,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 184,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
-185,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-186,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-187,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
+185,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+186,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+187,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
 188,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,1,7
-189,Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Tracey CLARK (Con),Jim KYLE (Lab),1,7
+189,Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Tracey CLARK (Con),Jim KYLE (Lab),1,7
 190,Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,skipped,1,7
 191,Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,skipped,1,7
 192,Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,skipped,1,7
 193,Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,skipped,1,7
-194,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Tracey CLARK (Con),1,7
-195,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Tracey CLARK (Con),1,7
-196,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Jim KYLE (Lab),1,7
-197,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Tracey CLARK (Con),Lorraine POLLOCK (SNP),Stef MCNAMARA ,1,7
+194,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),1,7
+195,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),1,7
+196,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Jim KYLE (Lab),1,7
+197,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Tracey CLARK (Con),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),1,7
 198,Tracey CLARK (Con),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 199,Tracey CLARK (Con),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 200,Tracey CLARK (Con),skipped,skipped,skipped,skipped,skipped,skipped,1,7
@@ -398,7 +398,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 396,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,skipped,1,7
 397,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,skipped,1,7
 398,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,skipped,1,7
-399,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,1,7
+399,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,1,7
 400,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
 401,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
 402,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
@@ -415,14 +415,14 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 413,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 414,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 415,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
-416,Jim IRELAND (Ind),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Trevor Gordon GRANT (LD),1,7
+416,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Trevor Gordon GRANT (LD),1,7
 417,Trevor Gordon GRANT (LD),Jim KYLE (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 418,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),skipped,skipped,skipped,1,7
 419,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,skipped,1,7
 420,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,skipped,1,7
-421,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
+421,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
 422,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
-423,Jim KYLE (Lab),Stef MCNAMARA ,Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
+423,Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
 424,Jim KYLE (Lab),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 425,Jim KYLE (Lab),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 426,Jim KYLE (Lab),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
@@ -431,61 +431,61 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 429,Jim KYLE (Lab),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 430,Jim KYLE (Lab),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 431,Jim KYLE (Lab),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
-432,Tracey CLARK (Con),Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Jim KYLE (Lab),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),skipped,1,7
-433,Stef MCNAMARA ,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
-434,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-435,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-436,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-437,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-438,Lorraine POLLOCK (SNP),Stef MCNAMARA ,Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,1,7
-439,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Stef MCNAMARA ,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
-440,Jim KYLE (Lab),Stef MCNAMARA ,Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
-441,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-442,Jim KYLE (Lab),Stef MCNAMARA ,Trevor Gordon GRANT (LD),Tracey CLARK (Con),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),1,7
+432,Tracey CLARK (Con),Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),skipped,1,7
+433,Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
+434,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+435,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+436,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+437,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+438,Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,1,7
+439,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
+440,Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
+441,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+442,Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),1,7
 443,Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Jim KYLE (Lab),Lorraine POLLOCK (SNP),skipped,skipped,skipped,1,7
 444,Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,1,7
-445,Jim IRELAND (Ind),Stef MCNAMARA ,Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
-446,Jim IRELAND (Ind),Stef MCNAMARA ,Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
-447,Jim IRELAND (Ind),Stef MCNAMARA ,Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
-448,Jim IRELAND (Ind),Stef MCNAMARA ,Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
-449,Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-450,Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-451,Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
+445,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
+446,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
+447,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
+448,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
+449,Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+450,Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+451,Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
 452,Jim IRELAND (Ind),Tracey CLARK (Con),Jim KYLE (Lab),Trevor Gordon GRANT (LD),skipped,skipped,skipped,1,7
 453,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
-454,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Tracey CLARK (Con),Stef MCNAMARA ,Jim IRELAND (Ind),1,7
+454,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),1,7
 455,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 456,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 457,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
-458,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Stef MCNAMARA ,Jim IRELAND (Ind),1,7
-459,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Tracey CLARK (Con),1,7
-460,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Lorraine POLLOCK (SNP),1,7
-461,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Lorraine POLLOCK (SNP),1,7
-462,Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Jim KYLE (Lab),Lorraine POLLOCK (SNP),1,7
+458,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),1,7
+459,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Tracey CLARK (Con),1,7
+460,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Lorraine POLLOCK (SNP),1,7
+461,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Lorraine POLLOCK (SNP),1,7
+462,Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Jim KYLE (Lab),Lorraine POLLOCK (SNP),1,7
 463,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 464,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 465,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 466,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 467,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
-468,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Tracey CLARK (Con),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Jim KYLE (Lab),1,7
-469,Jim KYLE (Lab),Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,1,7
-470,Jim KYLE (Lab),Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,1,7
+468,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Tracey CLARK (Con),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Jim KYLE (Lab),1,7
+469,Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+470,Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
 471,Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
-472,Tracey CLARK (Con),Jim KYLE (Lab),Stef MCNAMARA ,Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,1,7
-473,Jim KYLE (Lab),Stef MCNAMARA ,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Lorraine POLLOCK (SNP),1,7
-474,Tracey CLARK (Con),Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,1,7
-475,Tracey CLARK (Con),Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,1,7
-476,Stef MCNAMARA ,Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
-477,Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Lorraine POLLOCK (SNP),1,7
+472,Tracey CLARK (Con),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,1,7
+473,Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Lorraine POLLOCK (SNP),1,7
+474,Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+475,Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+476,Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
+477,Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),1,7
 478,Jim IRELAND (Ind),Jim KYLE (Lab),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 479,Jim IRELAND (Ind),Jim KYLE (Lab),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
-480,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
+480,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
 481,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Tracey CLARK (Con),skipped,skipped,skipped,1,7
-482,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim KYLE (Lab),1,7
+482,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim KYLE (Lab),1,7
 483,Tracey CLARK (Con),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 484,Tracey CLARK (Con),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 485,Tracey CLARK (Con),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
-486,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Jim IRELAND (Ind),1,7
+486,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),1,7
 487,Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 488,Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 489,Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,skipped,skipped,1,7
@@ -504,33 +504,33 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 502,Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 503,Tracey CLARK (Con),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 504,Tracey CLARK (Con),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
-505,Jim IRELAND (Ind),Stef MCNAMARA ,Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
-506,Jim IRELAND (Ind),Stef MCNAMARA ,Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
-507,Jim IRELAND (Ind),Stef MCNAMARA ,Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
-508,Jim IRELAND (Ind),Stef MCNAMARA ,Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
-509,Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-510,Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-511,Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-512,Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-513,Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-514,Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-515,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Jim KYLE (Lab),Tracey CLARK (Con),1,7
-516,Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-517,Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-518,Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-519,Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-520,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Tracey CLARK (Con),skipped,1,7
+505,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
+506,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
+507,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
+508,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
+509,Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+510,Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+511,Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+512,Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+513,Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+514,Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+515,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Jim KYLE (Lab),Tracey CLARK (Con),1,7
+516,Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+517,Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+518,Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+519,Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+520,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Tracey CLARK (Con),skipped,1,7
 521,Trevor Gordon GRANT (LD),Tracey CLARK (Con),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
 522,Jim KYLE (Lab),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),skipped,1,7
-523,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),1,7
+523,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),1,7
 524,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),skipped,skipped,skipped,1,7
-525,Jim KYLE (Lab),Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,1,7
+525,Jim KYLE (Lab),Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),1,7
 526,Tracey CLARK (Con),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),skipped,skipped,skipped,1,7
-527,Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Stef MCNAMARA ,Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Jim KYLE (Lab),Tracey CLARK (Con),1,7
-528,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Lorraine POLLOCK (SNP),1,7
-529,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Stef MCNAMARA ,Jim IRELAND (Ind),skipped,skipped,skipped,1,7
-530,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),1,7
-531,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),1,7
+527,Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Jim KYLE (Lab),Tracey CLARK (Con),1,7
+528,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),1,7
+529,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),skipped,skipped,skipped,1,7
+530,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),1,7
+531,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),1,7
 532,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,skipped,1,7
 533,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,skipped,1,7
 534,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,skipped,1,7
@@ -538,28 +538,28 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 536,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,skipped,1,7
 537,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,skipped,1,7
 538,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,skipped,1,7
-539,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
+539,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
 540,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Trevor Gordon GRANT (LD),skipped,skipped,skipped,1,7
 541,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
 542,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
-543,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Stef MCNAMARA ,Tracey CLARK (Con),1,7
-544,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,1,7
-545,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Lorraine POLLOCK (SNP),1,7
-546,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Stef MCNAMARA ,Jim IRELAND (Ind),Tracey CLARK (Con),1,7
-547,Jim IRELAND (Ind),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Stef MCNAMARA ,Trevor Gordon GRANT (LD),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),1,7
-548,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Jim IRELAND (Ind),1,7
-549,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Lorraine POLLOCK (SNP),Stef MCNAMARA ,skipped,1,7
-550,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-551,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-552,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-553,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-554,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-555,Jim KYLE (Lab),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
+543,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),1,7
+544,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Jim KYLE (Lab),skipped,skipped,1,7
+545,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Lorraine POLLOCK (SNP),1,7
+546,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Tracey CLARK (Con),1,7
+547,Jim IRELAND (Ind),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),1,7
+548,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),1,7
+549,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),skipped,1,7
+550,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+551,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+552,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+553,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+554,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+555,Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 556,Jim KYLE (Lab),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 557,Jim KYLE (Lab),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 558,Jim KYLE (Lab),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 559,Lorraine POLLOCK (SNP),Tracey CLARK (Con),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
-560,Jim KYLE (Lab),Tracey CLARK (Con),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
+560,Jim KYLE (Lab),Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
 561,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 562,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 563,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
@@ -587,9 +587,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 585,Tracey CLARK (Con),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,skipped,1,7
 586,Tracey CLARK (Con),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,skipped,1,7
 587,Tracey CLARK (Con),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,skipped,1,7
-588,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Jim IRELAND (Ind),skipped,skipped,1,7
-589,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Jim KYLE (Lab),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
-590,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Tracey CLARK (Con),Jim KYLE (Lab),1,7
+588,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),skipped,skipped,1,7
+589,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Jim KYLE (Lab),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
+590,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Tracey CLARK (Con),Jim KYLE (Lab),1,7
 591,Jim KYLE (Lab),Jim IRELAND (Ind),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
 592,Jim KYLE (Lab),Jim IRELAND (Ind),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
 593,Jim KYLE (Lab),Jim IRELAND (Ind),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
@@ -627,7 +627,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 625,Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 626,Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 627,Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,skipped,skipped,1,7
-628,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Tracey CLARK (Con),Jim KYLE (Lab),Jim IRELAND (Ind),1,7
+628,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),Jim KYLE (Lab),Jim IRELAND (Ind),1,7
 629,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 630,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 631,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,1,7
@@ -637,10 +637,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 635,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 636,Jim IRELAND (Ind),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 637,Jim IRELAND (Ind),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
-638,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,Tracey CLARK (Con),1,7
-639,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,Tracey CLARK (Con),1,7
-640,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,Tracey CLARK (Con),1,7
-641,Jim IRELAND (Ind),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
+638,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),1,7
+639,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),1,7
+640,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),1,7
+641,Jim IRELAND (Ind),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
 642,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 643,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 644,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
@@ -650,7 +650,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 648,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 649,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 650,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
-651,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Stef MCNAMARA ,Lorraine POLLOCK (SNP),skipped,skipped,1,7
+651,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),skipped,skipped,1,7
 652,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 653,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 654,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
@@ -661,7 +661,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 659,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 660,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 661,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
-662,Jim IRELAND (Ind),Stef MCNAMARA ,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
+662,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
 663,Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 664,Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 665,Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
@@ -669,11 +669,11 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 667,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 668,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 669,Trevor Gordon GRANT (LD),Jim KYLE (Lab),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
-670,Tracey CLARK (Con),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
+670,Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 671,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),skipped,skipped,skipped,1,7
 672,Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 673,Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
-674,Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Tracey CLARK (Con),1,7
+674,Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Tracey CLARK (Con),1,7
 675,Tracey CLARK (Con),Jim KYLE (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 676,Tracey CLARK (Con),Jim KYLE (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 677,Tracey CLARK (Con),Jim KYLE (Lab),skipped,skipped,skipped,skipped,skipped,1,7
@@ -691,20 +691,20 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 689,Tracey CLARK (Con),Jim KYLE (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 690,Tracey CLARK (Con),Jim KYLE (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 691,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),skipped,skipped,1,7
-692,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-693,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-694,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-695,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-696,Tracey CLARK (Con),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Stef MCNAMARA ,Lorraine POLLOCK (SNP),1,7
-697,Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),1,7
-698,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Stef MCNAMARA ,skipped,1,7
+692,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+693,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+694,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+695,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+696,Tracey CLARK (Con),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),1,7
+697,Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),1,7
+698,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),skipped,1,7
 699,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 700,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 701,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 702,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
-703,Jim IRELAND (Ind),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
+703,Jim IRELAND (Ind),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
 704,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,1,7
-705,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),1,7
+705,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),1,7
 706,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),skipped,skipped,skipped,1,7
 707,Jim KYLE (Lab),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 708,Jim KYLE (Lab),skipped,skipped,skipped,skipped,skipped,skipped,1,7
@@ -954,8 +954,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 952,Jim KYLE (Lab),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 953,Jim KYLE (Lab),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 954,Jim KYLE (Lab),skipped,skipped,skipped,skipped,skipped,skipped,1,7
-955,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Stef MCNAMARA ,Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
-956,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Stef MCNAMARA ,Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
+955,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
+956,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
 957,Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Trevor Gordon GRANT (LD),skipped,skipped,skipped,1,7
 958,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,skipped,1,7
 959,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,skipped,1,7
@@ -979,19 +979,19 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 977,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,skipped,1,7
 978,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,skipped,1,7
 979,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),skipped,skipped,1,7
-980,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,skipped,skipped,skipped,1,7
-981,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,skipped,skipped,skipped,1,7
-982,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Stef MCNAMARA ,Lorraine POLLOCK (SNP),1,7
-983,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-984,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-985,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
+980,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,1,7
+981,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,1,7
+982,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),1,7
+983,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+984,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+985,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
 986,Jim KYLE (Lab),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,1,7
 987,Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,skipped,1,7
 988,Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,skipped,1,7
-989,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),1,7
-990,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),1,7
-991,Tracey CLARK (Con),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
-992,Tracey CLARK (Con),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
+989,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),1,7
+990,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),1,7
+991,Tracey CLARK (Con),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
+992,Tracey CLARK (Con),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
 993,Jim KYLE (Lab),Tracey CLARK (Con),skipped,skipped,skipped,skipped,skipped,1,7
 994,Jim KYLE (Lab),Tracey CLARK (Con),skipped,skipped,skipped,skipped,skipped,1,7
 995,Jim KYLE (Lab),Tracey CLARK (Con),skipped,skipped,skipped,skipped,skipped,1,7
@@ -1004,27 +1004,27 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1002,Jim KYLE (Lab),Tracey CLARK (Con),skipped,skipped,skipped,skipped,skipped,1,7
 1003,Jim KYLE (Lab),Tracey CLARK (Con),skipped,skipped,skipped,skipped,skipped,1,7
 1004,Jim KYLE (Lab),Tracey CLARK (Con),skipped,skipped,skipped,skipped,skipped,1,7
-1005,Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,1,7
-1006,Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,1,7
+1005,Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1006,Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
 1007,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
 1008,Trevor Gordon GRANT (LD),Jim KYLE (Lab),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
-1009,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Tracey CLARK (Con),1,7
-1010,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Tracey CLARK (Con),1,7
+1009,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),1,7
+1010,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),1,7
 1011,Trevor Gordon GRANT (LD),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Tracey CLARK (Con),skipped,1,7
-1012,Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Stef MCNAMARA ,Jim IRELAND (Ind),1,7
+1012,Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),1,7
 1013,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 1014,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 1015,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 1016,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 1017,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),skipped,skipped,skipped,1,7
-1018,Tracey CLARK (Con),Stef MCNAMARA ,Jim KYLE (Lab),Trevor Gordon GRANT (LD),skipped,skipped,skipped,1,7
-1019,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Stef MCNAMARA ,Tracey CLARK (Con),1,7
-1020,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,1,7
-1021,Stef MCNAMARA ,Jim IRELAND (Ind),skipped,skipped,skipped,skipped,skipped,1,7
-1022,Stef MCNAMARA ,Jim IRELAND (Ind),skipped,skipped,skipped,skipped,skipped,1,7
+1018,Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),Jim KYLE (Lab),Trevor Gordon GRANT (LD),skipped,skipped,skipped,1,7
+1019,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),1,7
+1020,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,1,7
+1021,Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,skipped,1,7
+1022,Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,skipped,1,7
 1023,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),skipped,skipped,1,7
-1024,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Tracey CLARK (Con),Jim KYLE (Lab),Stef MCNAMARA ,Jim IRELAND (Ind),1,7
-1025,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
+1024,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Tracey CLARK (Con),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),1,7
+1025,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
 1026,Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 1027,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,skipped,1,7
 1028,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,skipped,1,7
@@ -1043,38 +1043,38 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1041,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,skipped,1,7
 1042,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,skipped,1,7
 1043,Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,skipped,1,7
-1044,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1045,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1046,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1047,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1048,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1049,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1050,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1051,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1052,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1053,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1054,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1055,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Stef MCNAMARA ,1,7
+1044,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1045,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1046,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1047,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1048,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1049,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1050,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1051,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1052,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1053,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1054,Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1055,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),1,7
 1056,Jim IRELAND (Ind),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),skipped,skipped,skipped,1,7
-1057,Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Stef MCNAMARA ,Jim IRELAND (Ind),Tracey CLARK (Con),1,7
+1057,Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Tracey CLARK (Con),1,7
 1058,Jim KYLE (Lab),Jim IRELAND (Ind),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
 1059,Jim KYLE (Lab),Jim IRELAND (Ind),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
-1060,Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,1,7
-1061,Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,1,7
-1062,Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,1,7
-1063,Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,1,7
-1064,Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,1,7
-1065,Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,1,7
-1066,Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,1,7
-1067,Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,1,7
-1068,Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,1,7
-1069,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
+1060,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1061,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1062,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1063,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1064,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1065,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1066,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1067,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1068,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1069,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
 1070,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
 1071,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
-1072,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),1,7
-1073,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Jim KYLE (Lab),1,7
-1074,Jim KYLE (Lab),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),1,7
-1075,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Stef MCNAMARA ,Jim IRELAND (Ind),Tracey CLARK (Con),1,7
+1072,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),1,7
+1073,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Jim KYLE (Lab),1,7
+1074,Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),1,7
+1075,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Tracey CLARK (Con),1,7
 1076,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 1077,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 1078,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
@@ -1088,8 +1088,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1086,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 1087,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 1088,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,1,7
-1089,Lorraine POLLOCK (SNP),Stef MCNAMARA ,Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
-1090,Lorraine POLLOCK (SNP),Stef MCNAMARA ,Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
+1089,Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
+1090,Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
 1091,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 1092,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 1093,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
@@ -1106,35 +1106,35 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1104,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 1105,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 1106,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
-1107,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1108,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1109,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1110,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1111,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Stef MCNAMARA ,1,7
-1112,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Stef MCNAMARA ,1,7
+1107,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1108,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1109,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1110,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1111,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),1,7
+1112,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),1,7
 1113,Jim IRELAND (Ind),Jim KYLE (Lab),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
 1114,Tracey CLARK (Con),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
-1115,Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Stef MCNAMARA ,Trevor Gordon GRANT (LD),Jim KYLE (Lab),Tracey CLARK (Con),Lorraine POLLOCK (SNP),1,7
-1116,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,skipped,skipped,skipped,1,7
+1115,Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Tracey CLARK (Con),Lorraine POLLOCK (SNP),1,7
+1116,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,1,7
 1117,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),skipped,skipped,skipped,1,7
-1118,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Tracey CLARK (Con),1,7
-1119,Lorraine POLLOCK (SNP),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),1,7
-1120,Lorraine POLLOCK (SNP),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),1,7
-1121,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
-1122,Jim KYLE (Lab),Jim IRELAND (Ind),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Lorraine POLLOCK (SNP),1,7
+1118,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),1,7
+1119,Lorraine POLLOCK (SNP),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),1,7
+1120,Lorraine POLLOCK (SNP),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),1,7
+1121,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
+1122,Jim KYLE (Lab),Jim IRELAND (Ind),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),1,7
 1123,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),skipped,skipped,skipped,1,7
 1124,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
 1125,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
-1126,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),1,7
-1127,Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Stef MCNAMARA ,Tracey CLARK (Con),1,7
-1128,Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,1,7
+1126,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),1,7
+1127,Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),1,7
+1128,Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,1,7
 1129,Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),skipped,skipped,skipped,1,7
-1130,Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Stef MCNAMARA ,Jim IRELAND (Ind),1,7
-1131,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Tracey CLARK (Con),Stef MCNAMARA ,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
-1132,Jim IRELAND (Ind),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
-1133,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim KYLE (Lab),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
-1134,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim KYLE (Lab),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
-1135,Jim IRELAND (Ind),Jim KYLE (Lab),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Lorraine POLLOCK (SNP),1,7
+1130,Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),1,7
+1131,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
+1132,Jim IRELAND (Ind),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
+1133,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
+1134,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
+1135,Jim IRELAND (Ind),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Lorraine POLLOCK (SNP),1,7
 1136,Lorraine POLLOCK (SNP),Jim KYLE (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 1137,Lorraine POLLOCK (SNP),Jim KYLE (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 1138,Lorraine POLLOCK (SNP),Jim KYLE (Lab),skipped,skipped,skipped,skipped,skipped,1,7
@@ -1160,9 +1160,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1158,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
 1159,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
 1160,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
-1161,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Jim KYLE (Lab),Stef MCNAMARA ,Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),1,7
-1162,Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
-1163,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,1,7
+1161,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),1,7
+1162,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
+1163,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,1,7
 1164,Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 1165,Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 1166,Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,skipped,1,7
@@ -1320,8 +1320,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1318,Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 1319,Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 1320,Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,skipped,1,7
-1321,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,1,7
-1322,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),1,7
+1321,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),1,7
+1322,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),1,7
 1323,Tracey CLARK (Con),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 1324,Tracey CLARK (Con),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 1325,Tracey CLARK (Con),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,skipped,1,7
@@ -1333,10 +1333,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1331,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 1332,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 1333,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
-1334,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Tracey CLARK (Con),1,7
-1335,Tracey CLARK (Con),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),1,7
+1334,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),1,7
+1335,Tracey CLARK (Con),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),1,7
 1336,Jim IRELAND (Ind),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
-1337,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),1,7
+1337,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),1,7
 1338,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 1339,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 1340,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
@@ -1392,37 +1392,37 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1390,Jim IRELAND (Ind),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 1391,Jim IRELAND (Ind),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 1392,Jim IRELAND (Ind),skipped,skipped,skipped,skipped,skipped,skipped,1,7
-1393,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Jim IRELAND (Ind),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),1,7
-1394,Jim KYLE (Lab),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Stef MCNAMARA ,Lorraine POLLOCK (SNP),1,7
-1395,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim KYLE (Lab),1,7
-1396,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim KYLE (Lab),1,7
-1397,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim KYLE (Lab),1,7
+1393,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Jim IRELAND (Ind),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),1,7
+1394,Jim KYLE (Lab),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),1,7
+1395,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim KYLE (Lab),1,7
+1396,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim KYLE (Lab),1,7
+1397,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim KYLE (Lab),1,7
 1398,Jim IRELAND (Ind),Tracey CLARK (Con),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 1399,Jim IRELAND (Ind),Tracey CLARK (Con),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 1400,Jim IRELAND (Ind),Tracey CLARK (Con),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 1401,Jim IRELAND (Ind),Tracey CLARK (Con),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 1402,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
 1403,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
-1404,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,1,7
-1405,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,1,7
-1406,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,1,7
-1407,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),1,7
+1404,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,1,7
+1405,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,1,7
+1406,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,1,7
+1407,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),1,7
 1408,Lorraine POLLOCK (SNP),Tracey CLARK (Con),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
-1409,Trevor Gordon GRANT (LD),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),1,7
-1410,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Jim KYLE (Lab),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
+1409,Trevor Gordon GRANT (LD),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),1,7
+1410,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
 1411,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 1412,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 1413,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 1414,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
-1415,Jim KYLE (Lab),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
-1416,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim KYLE (Lab),1,7
+1415,Jim KYLE (Lab),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
+1416,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim KYLE (Lab),1,7
 1417,Jim KYLE (Lab),Tracey CLARK (Con),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 1418,Jim KYLE (Lab),Tracey CLARK (Con),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 1419,Jim KYLE (Lab),Tracey CLARK (Con),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 1420,Jim KYLE (Lab),Tracey CLARK (Con),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 1421,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),skipped,skipped,1,7
-1422,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,Lorraine POLLOCK (SNP),1,7
-1423,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,Lorraine POLLOCK (SNP),1,7
+1422,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),1,7
+1423,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),1,7
 1424,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
 1425,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
 1426,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
@@ -1437,12 +1437,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1435,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
 1436,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
 1437,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
-1438,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,skipped,skipped,skipped,1,7
+1438,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,1,7
 1439,Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
-1440,Jim KYLE (Lab),Stef MCNAMARA ,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),skipped,skipped,1,7
-1441,Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Jim KYLE (Lab),1,7
+1440,Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),skipped,skipped,1,7
+1441,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Jim KYLE (Lab),1,7
 1442,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),skipped,skipped,skipped,1,7
-1443,Tracey CLARK (Con),Jim KYLE (Lab),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
+1443,Tracey CLARK (Con),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
 1444,Jim IRELAND (Ind),Tracey CLARK (Con),skipped,skipped,skipped,skipped,skipped,1,7
 1445,Jim IRELAND (Ind),Tracey CLARK (Con),skipped,skipped,skipped,skipped,skipped,1,7
 1446,Jim IRELAND (Ind),Tracey CLARK (Con),skipped,skipped,skipped,skipped,skipped,1,7
@@ -1458,31 +1458,31 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1456,Jim IRELAND (Ind),Tracey CLARK (Con),skipped,skipped,skipped,skipped,skipped,1,7
 1457,Jim IRELAND (Ind),Tracey CLARK (Con),skipped,skipped,skipped,skipped,skipped,1,7
 1458,Jim IRELAND (Ind),Tracey CLARK (Con),skipped,skipped,skipped,skipped,skipped,1,7
-1459,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1460,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1461,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1462,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
+1459,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1460,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1461,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1462,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
 1463,Jim IRELAND (Ind),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,1,7
-1464,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
+1464,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
 1465,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,skipped,1,7
 1466,Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,skipped,1,7
 1467,Tracey CLARK (Con),Jim KYLE (Lab),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 1468,Tracey CLARK (Con),Jim KYLE (Lab),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
-1469,Jim KYLE (Lab),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Tracey CLARK (Con),1,7
-1470,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Jim KYLE (Lab),Stef MCNAMARA ,Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),1,7
-1471,Tracey CLARK (Con),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
-1472,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Stef MCNAMARA ,1,7
+1469,Jim KYLE (Lab),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Tracey CLARK (Con),1,7
+1470,Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),1,7
+1471,Tracey CLARK (Con),Jim KYLE (Lab),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
+1472,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),1,7
 1473,Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 1474,Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
-1475,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Jim KYLE (Lab),Tracey CLARK (Con),1,7
+1475,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Jim KYLE (Lab),Tracey CLARK (Con),1,7
 1476,Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),skipped,skipped,skipped,1,7
 1477,Jim KYLE (Lab),Tracey CLARK (Con),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
 1478,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,skipped,1,7
 1479,Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 1480,Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
-1481,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1482,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1483,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
+1481,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1482,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1483,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
 1484,Tracey CLARK (Con),Jim KYLE (Lab),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 1485,Tracey CLARK (Con),Jim KYLE (Lab),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 1486,Tracey CLARK (Con),Jim KYLE (Lab),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
@@ -1490,17 +1490,17 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1488,Tracey CLARK (Con),Jim KYLE (Lab),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 1489,Tracey CLARK (Con),Jim KYLE (Lab),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 1490,Tracey CLARK (Con),Jim KYLE (Lab),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
-1491,Jim KYLE (Lab),Jim IRELAND (Ind),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
-1492,Tracey CLARK (Con),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),1,7
+1491,Jim KYLE (Lab),Jim IRELAND (Ind),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),1,7
+1492,Tracey CLARK (Con),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),1,7
 1493,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
-1494,Jim KYLE (Lab),Stef MCNAMARA ,Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
-1495,Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,1,7
-1496,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
-1497,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Stef MCNAMARA ,Jim IRELAND (Ind),skipped,1,7
-1498,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Jim IRELAND (Ind),Tracey CLARK (Con),Stef MCNAMARA ,1,7
-1499,Jim IRELAND (Ind),Jim KYLE (Lab),Stef MCNAMARA ,skipped,skipped,skipped,skipped,1,7
-1500,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,1,7
-1501,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,1,7
+1494,Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),1,7
+1495,Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),1,7
+1496,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
+1497,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Jim IRELAND (Ind),skipped,1,7
+1498,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Jim IRELAND (Ind),Tracey CLARK (Con),Stef MCNAMARA  (UNKNOWN),1,7
+1499,Jim IRELAND (Ind),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1500,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),1,7
+1501,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),1,7
 1502,Tracey CLARK (Con),Jim KYLE (Lab),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),skipped,skipped,skipped,1,7
 1503,Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 1504,Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
@@ -1513,16 +1513,16 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1511,Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 1512,Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
 1513,Tracey CLARK (Con),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),skipped,skipped,skipped,skipped,1,7
-1514,Trevor Gordon GRANT (LD),Jim KYLE (Lab),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Stef MCNAMARA ,Lorraine POLLOCK (SNP),1,7
+1514,Trevor Gordon GRANT (LD),Jim KYLE (Lab),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),1,7
 1515,Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 1516,Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 1517,Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
-1518,Jim IRELAND (Ind),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Tracey CLARK (Con),1,7
+1518,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Tracey CLARK (Con),1,7
 1519,Lorraine POLLOCK (SNP),Tracey CLARK (Con),skipped,skipped,skipped,skipped,skipped,1,7
-1520,Tracey CLARK (Con),Jim KYLE (Lab),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),1,7
+1520,Tracey CLARK (Con),Jim KYLE (Lab),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),1,7
 1521,Trevor Gordon GRANT (LD),Tracey CLARK (Con),skipped,skipped,skipped,skipped,skipped,1,7
 1522,Trevor Gordon GRANT (LD),Tracey CLARK (Con),skipped,skipped,skipped,skipped,skipped,1,7
-1523,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Stef MCNAMARA ,Tracey CLARK (Con),1,7
+1523,Jim KYLE (Lab),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),Tracey CLARK (Con),1,7
 1524,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 1525,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 1526,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
@@ -1537,13 +1537,13 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1535,Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 1536,Jim IRELAND (Ind),Jim KYLE (Lab),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
 1537,Jim IRELAND (Ind),Jim KYLE (Lab),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
-1538,Jim IRELAND (Ind),Stef MCNAMARA ,Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Tracey CLARK (Con),1,7
+1538,Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Jim KYLE (Lab),Lorraine POLLOCK (SNP),Tracey CLARK (Con),1,7
 1539,Trevor Gordon GRANT (LD),Jim KYLE (Lab),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
 1540,Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,1,7
 1541,Tracey CLARK (Con),Jim KYLE (Lab),Lorraine POLLOCK (SNP),skipped,skipped,skipped,skipped,1,7
-1542,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Stef MCNAMARA ,skipped,1,7
-1543,Lorraine POLLOCK (SNP),Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,1,7
-1544,Lorraine POLLOCK (SNP),Stef MCNAMARA ,skipped,skipped,skipped,skipped,skipped,1,7
+1542,Jim KYLE (Lab),Trevor Gordon GRANT (LD),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),skipped,1,7
+1543,Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1544,Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
 1545,Tracey CLARK (Con),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,skipped,1,7
 1546,Tracey CLARK (Con),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,skipped,1,7
 1547,Tracey CLARK (Con),Jim IRELAND (Ind),skipped,skipped,skipped,skipped,skipped,1,7
@@ -1585,19 +1585,19 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1583,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 1584,Tracey CLARK (Con),Lorraine POLLOCK (SNP),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
 1585,Tracey CLARK (Con),Lorraine POLLOCK (SNP),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
-1586,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),1,7
-1587,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),1,7
-1588,Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),1,7
-1589,Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Jim KYLE (Lab),1,7
-1590,Jim KYLE (Lab),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Stef MCNAMARA ,skipped,skipped,skipped,1,7
+1586,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim IRELAND (Ind),Lorraine POLLOCK (SNP),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),1,7
+1587,Jim KYLE (Lab),Tracey CLARK (Con),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Lorraine POLLOCK (SNP),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),1,7
+1588,Trevor Gordon GRANT (LD),Lorraine POLLOCK (SNP),Jim KYLE (Lab),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),1,7
+1589,Trevor Gordon GRANT (LD),Tracey CLARK (Con),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Jim KYLE (Lab),1,7
+1590,Jim KYLE (Lab),Tracey CLARK (Con),Korin Matthew VALLANCE (Grn),Stef MCNAMARA  (UNKNOWN),skipped,skipped,skipped,1,7
 1591,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),skipped,skipped,1,7
-1592,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
+1592,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Trevor Gordon GRANT (LD),Tracey CLARK (Con),1,7
 1593,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
 1594,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
 1595,Lorraine POLLOCK (SNP),Jim KYLE (Lab),Tracey CLARK (Con),skipped,skipped,skipped,skipped,1,7
 1596,Tracey CLARK (Con),Trevor Gordon GRANT (LD),Jim KYLE (Lab),Lorraine POLLOCK (SNP),skipped,skipped,skipped,1,7
-1597,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Jim IRELAND (Ind),1,7
-1598,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Stef MCNAMARA ,Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Jim IRELAND (Ind),1,7
+1597,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Jim IRELAND (Ind),1,7
+1598,Jim KYLE (Lab),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Stef MCNAMARA  (UNKNOWN),Korin Matthew VALLANCE (Grn),Tracey CLARK (Con),Jim IRELAND (Ind),1,7
 1599,Jim KYLE (Lab),Jim IRELAND (Ind),Korin Matthew VALLANCE (Grn),skipped,skipped,skipped,skipped,1,7
 1600,Korin Matthew VALLANCE (Grn),Lorraine POLLOCK (SNP),Jim KYLE (Lab),skipped,skipped,skipped,skipped,1,7
-1601,Tracey CLARK (Con),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Stef MCNAMARA ,Jim KYLE (Lab),1,7
+1601,Tracey CLARK (Con),Lorraine POLLOCK (SNP),Trevor Gordon GRANT (LD),Korin Matthew VALLANCE (Grn),Jim IRELAND (Ind),Stef MCNAMARA  (UNKNOWN),Jim KYLE (Lab),1,7

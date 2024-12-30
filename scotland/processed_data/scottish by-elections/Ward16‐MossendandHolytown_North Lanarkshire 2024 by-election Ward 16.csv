@@ -1,13 +1,13 @@
 voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
-0,Duncan MACMILLAN Reform UK,John COLE (LD),Neil WILSON (UKIP),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),Helena GRAY (Lab),1,6
-1,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-2,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-3,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-4,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-5,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-6,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-7,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-8,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
+0,Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Neil WILSON (UKIP),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),Helena GRAY (Lab),1,6
+1,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+2,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+3,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+4,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+5,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+6,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+7,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+8,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
 9,Shahnawaz KHAN (SNP),Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
 10,Shahnawaz KHAN (SNP),Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
 11,Shahnawaz KHAN (SNP),Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
@@ -78,52 +78,52 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 76,Shahnawaz KHAN (SNP),John COLE (LD),Helena GRAY (Lab),skipped,skipped,skipped,1,6
 77,Shahnawaz KHAN (SNP),John COLE (LD),Helena GRAY (Lab),skipped,skipped,skipped,1,6
 78,Shahnawaz KHAN (SNP),John COLE (LD),Helena GRAY (Lab),skipped,skipped,skipped,1,6
-79,Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,Helena GRAY (Lab),skipped,skipped,skipped,1,6
-80,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),1,6
-81,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),1,6
-82,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),1,6
-83,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),1,6
+79,Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),skipped,skipped,skipped,1,6
+80,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),1,6
+81,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),1,6
+82,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),1,6
+83,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),1,6
 84,John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
 85,John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-86,Aimee ALEXANDER (Con),Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),John COLE (LD),Neil WILSON (UKIP),1,6
-87,Aimee ALEXANDER (Con),Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),John COLE (LD),Neil WILSON (UKIP),1,6
-88,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Neil WILSON (UKIP),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,1,6
-89,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),John COLE (LD),Shahnawaz KHAN (SNP),1,6
-90,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,John COLE (LD),skipped,skipped,skipped,1,6
-91,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,John COLE (LD),skipped,skipped,skipped,1,6
-92,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,John COLE (LD),skipped,skipped,skipped,1,6
-93,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,John COLE (LD),skipped,skipped,skipped,1,6
-94,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,John COLE (LD),skipped,skipped,skipped,1,6
-95,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,John COLE (LD),Helena GRAY (Lab),Neil WILSON (UKIP),skipped,1,6
-96,Duncan MACMILLAN Reform UK,Helena GRAY (Lab),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-97,Duncan MACMILLAN Reform UK,Helena GRAY (Lab),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-98,Duncan MACMILLAN Reform UK,Helena GRAY (Lab),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
+86,Aimee ALEXANDER (Con),Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),John COLE (LD),Neil WILSON (UKIP),1,6
+87,Aimee ALEXANDER (Con),Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),John COLE (LD),Neil WILSON (UKIP),1,6
+88,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Neil WILSON (UKIP),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),1,6
+89,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),John COLE (LD),Shahnawaz KHAN (SNP),1,6
+90,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),skipped,skipped,skipped,1,6
+91,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),skipped,skipped,skipped,1,6
+92,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),skipped,skipped,skipped,1,6
+93,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),skipped,skipped,skipped,1,6
+94,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),skipped,skipped,skipped,1,6
+95,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Helena GRAY (Lab),Neil WILSON (UKIP),skipped,1,6
+96,Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
+97,Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
+98,Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
 99,Shahnawaz KHAN (SNP),Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
 100,Shahnawaz KHAN (SNP),Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-101,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,1,6
-102,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,1,6
-103,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,1,6
-104,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,1,6
-105,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,1,6
-106,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,1,6
-107,Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
-108,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-109,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-110,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-111,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-112,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-113,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-114,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-115,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-116,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-117,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-118,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-119,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-120,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-121,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-122,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-123,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-124,John COLE (LD),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),skipped,skipped,1,6
+101,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),1,6
+102,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),1,6
+103,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),1,6
+104,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),1,6
+105,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),1,6
+106,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),1,6
+107,Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
+108,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+109,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+110,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+111,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+112,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+113,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+114,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+115,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+116,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+117,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+118,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+119,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+120,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+121,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+122,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+123,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+124,John COLE (LD),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),skipped,skipped,1,6
 125,Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
 126,Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
 127,Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
@@ -134,25 +134,25 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 132,Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
 133,Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
 134,Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-135,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),Neil WILSON (UKIP),1,6
-136,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),Neil WILSON (UKIP),1,6
-137,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),John COLE (LD),Neil WILSON (UKIP),1,6
-138,Aimee ALEXANDER (Con),John COLE (LD),Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
-139,Aimee ALEXANDER (Con),John COLE (LD),Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
-140,Duncan MACMILLAN Reform UK,Helena GRAY (Lab),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-141,Helena GRAY (Lab),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),John COLE (LD),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,1,6
-142,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-143,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-144,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-145,Aimee ALEXANDER (Con),John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-146,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,John COLE (LD),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),Helena GRAY (Lab),1,6
-147,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
-148,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
-149,Aimee ALEXANDER (Con),Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-150,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,John COLE (LD),Aimee ALEXANDER (Con),1,6
-151,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,John COLE (LD),Aimee ALEXANDER (Con),1,6
-152,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Helena GRAY (Lab),skipped,skipped,skipped,1,6
-153,John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
+135,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),1,6
+136,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),1,6
+137,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),John COLE (LD),Neil WILSON (UKIP),1,6
+138,Aimee ALEXANDER (Con),John COLE (LD),Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
+139,Aimee ALEXANDER (Con),John COLE (LD),Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
+140,Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+141,Helena GRAY (Lab),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),John COLE (LD),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),1,6
+142,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
+143,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
+144,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
+145,Aimee ALEXANDER (Con),John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+146,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),Helena GRAY (Lab),1,6
+147,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
+148,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
+149,Aimee ALEXANDER (Con),Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+150,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Aimee ALEXANDER (Con),1,6
+151,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Aimee ALEXANDER (Con),1,6
+152,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),skipped,skipped,skipped,1,6
+153,John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
 154,Helena GRAY (Lab),Shahnawaz KHAN (SNP),skipped,skipped,skipped,skipped,1,6
 155,Helena GRAY (Lab),Shahnawaz KHAN (SNP),skipped,skipped,skipped,skipped,1,6
 156,Helena GRAY (Lab),Shahnawaz KHAN (SNP),skipped,skipped,skipped,skipped,1,6
@@ -202,12 +202,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 200,Helena GRAY (Lab),Shahnawaz KHAN (SNP),skipped,skipped,skipped,skipped,1,6
 201,Helena GRAY (Lab),Shahnawaz KHAN (SNP),skipped,skipped,skipped,skipped,1,6
 202,Helena GRAY (Lab),Shahnawaz KHAN (SNP),skipped,skipped,skipped,skipped,1,6
-203,Duncan MACMILLAN Reform UK,John COLE (LD),skipped,skipped,skipped,skipped,1,6
-204,Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,1,6
-205,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),John COLE (LD),Helena GRAY (Lab),1,6
-206,John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Helena GRAY (Lab),Shahnawaz KHAN (SNP),1,6
-207,Helena GRAY (Lab),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-208,Helena GRAY (Lab),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
+203,Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),skipped,skipped,skipped,skipped,1,6
+204,Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),1,6
+205,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),John COLE (LD),Helena GRAY (Lab),1,6
+206,John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Helena GRAY (Lab),Shahnawaz KHAN (SNP),1,6
+207,Helena GRAY (Lab),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+208,Helena GRAY (Lab),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
 209,Helena GRAY (Lab),John COLE (LD),skipped,skipped,skipped,skipped,1,6
 210,Helena GRAY (Lab),John COLE (LD),skipped,skipped,skipped,skipped,1,6
 211,Helena GRAY (Lab),John COLE (LD),skipped,skipped,skipped,skipped,1,6
@@ -287,21 +287,21 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 285,Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,skipped,1,6
 286,Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,skipped,1,6
 287,Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,skipped,1,6
-288,Duncan MACMILLAN Reform UK,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
+288,Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
 289,John COLE (LD),Helena GRAY (Lab),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),skipped,skipped,1,6
-290,Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-291,Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-292,Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-293,Helena GRAY (Lab),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),John COLE (LD),skipped,1,6
+290,Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+291,Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+292,Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+293,Helena GRAY (Lab),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),John COLE (LD),skipped,1,6
 294,John COLE (LD),Shahnawaz KHAN (SNP),skipped,skipped,skipped,skipped,1,6
-295,Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),1,6
-296,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Helena GRAY (Lab),skipped,skipped,1,6
-297,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Neil WILSON (UKIP),John COLE (LD),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),1,6
-298,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-299,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-300,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-301,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-302,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+295,Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),1,6
+296,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Helena GRAY (Lab),skipped,skipped,1,6
+297,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Neil WILSON (UKIP),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),1,6
+298,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+299,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+300,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+301,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+302,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
 303,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),skipped,skipped,skipped,1,6
 304,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),skipped,skipped,skipped,1,6
 305,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),skipped,skipped,skipped,1,6
@@ -349,52 +349,52 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 347,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),skipped,skipped,skipped,1,6
 348,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),skipped,skipped,skipped,1,6
 349,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),skipped,skipped,skipped,1,6
-350,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),1,6
-351,Duncan MACMILLAN Reform UK,Helena GRAY (Lab),John COLE (LD),skipped,skipped,skipped,1,6
-352,Duncan MACMILLAN Reform UK,Helena GRAY (Lab),John COLE (LD),skipped,skipped,skipped,1,6
-353,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),Shahnawaz KHAN (SNP),1,6
-354,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Helena GRAY (Lab),skipped,skipped,skipped,1,6
-355,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Helena GRAY (Lab),skipped,skipped,skipped,1,6
-356,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Helena GRAY (Lab),skipped,skipped,skipped,1,6
-357,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Helena GRAY (Lab),skipped,skipped,skipped,1,6
-358,Aimee ALEXANDER (Con),Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
-359,Aimee ALEXANDER (Con),Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
-360,Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),skipped,skipped,skipped,skipped,1,6
-361,Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),skipped,skipped,skipped,skipped,1,6
+350,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),1,6
+351,Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),John COLE (LD),skipped,skipped,skipped,1,6
+352,Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),John COLE (LD),skipped,skipped,skipped,1,6
+353,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),Shahnawaz KHAN (SNP),1,6
+354,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),skipped,skipped,skipped,1,6
+355,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),skipped,skipped,skipped,1,6
+356,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),skipped,skipped,skipped,1,6
+357,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),skipped,skipped,skipped,1,6
+358,Aimee ALEXANDER (Con),Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
+359,Aimee ALEXANDER (Con),Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
+360,Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),skipped,skipped,skipped,skipped,1,6
+361,Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),skipped,skipped,skipped,skipped,1,6
 362,John COLE (LD),Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
-363,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-364,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-365,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-366,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-367,Neil WILSON (UKIP),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,skipped,skipped,1,6
-368,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,1,6
-369,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,1,6
-370,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,1,6
-371,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),1,6
-372,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Neil WILSON (UKIP),John COLE (LD),skipped,1,6
-373,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-374,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-375,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-376,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-377,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-378,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-379,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-380,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-381,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-382,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-383,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Helena GRAY (Lab),John COLE (LD),Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
-384,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Helena GRAY (Lab),John COLE (LD),Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
-385,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-386,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-387,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-388,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-389,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-390,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-391,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-392,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-393,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-394,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),John COLE (LD),Helena GRAY (Lab),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
-395,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),John COLE (LD),Helena GRAY (Lab),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
+363,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+364,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+365,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+366,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+367,Neil WILSON (UKIP),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,1,6
+368,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),1,6
+369,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),1,6
+370,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),1,6
+371,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),1,6
+372,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Neil WILSON (UKIP),John COLE (LD),skipped,1,6
+373,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+374,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+375,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+376,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+377,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+378,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+379,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+380,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+381,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+382,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+383,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),John COLE (LD),Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
+384,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),John COLE (LD),Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
+385,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+386,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+387,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+388,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+389,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+390,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+391,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+392,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+393,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+394,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),John COLE (LD),Helena GRAY (Lab),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
+395,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),John COLE (LD),Helena GRAY (Lab),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
 396,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),skipped,skipped,skipped,1,6
 397,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),skipped,skipped,skipped,1,6
 398,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),skipped,skipped,skipped,1,6
@@ -423,23 +423,23 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 421,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),skipped,skipped,skipped,1,6
 422,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),skipped,skipped,skipped,1,6
 423,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),skipped,skipped,skipped,1,6
-424,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Neil WILSON (UKIP),John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),1,6
-425,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Neil WILSON (UKIP),John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),1,6
-426,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-427,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-428,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-429,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-430,Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-431,Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-432,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-433,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-434,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-435,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-436,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-437,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-438,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-439,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-440,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
+424,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Neil WILSON (UKIP),John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),1,6
+425,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Neil WILSON (UKIP),John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),1,6
+426,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+427,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+428,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+429,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+430,Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+431,Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+432,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+433,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+434,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+435,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+436,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+437,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+438,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+439,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+440,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
 441,John COLE (LD),skipped,skipped,skipped,skipped,skipped,1,6
 442,John COLE (LD),skipped,skipped,skipped,skipped,skipped,1,6
 443,John COLE (LD),skipped,skipped,skipped,skipped,skipped,1,6
@@ -470,152 +470,152 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 468,John COLE (LD),skipped,skipped,skipped,skipped,skipped,1,6
 469,John COLE (LD),skipped,skipped,skipped,skipped,skipped,1,6
 470,John COLE (LD),skipped,skipped,skipped,skipped,skipped,1,6
-471,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-472,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-473,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-474,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-475,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-476,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-477,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-478,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-479,Shahnawaz KHAN (SNP),John COLE (LD),Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Neil WILSON (UKIP),1,6
-480,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-481,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-482,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-483,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-484,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-485,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-486,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-487,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-488,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-489,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-490,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-491,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-492,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-493,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-494,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-495,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-496,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-497,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-498,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-499,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-500,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-501,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-502,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-503,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-504,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-505,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-506,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-507,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-508,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-509,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-510,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-511,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-512,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-513,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-514,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-515,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-516,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-517,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-518,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-519,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-520,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-521,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-522,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-523,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-524,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-525,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-526,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-527,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-528,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-529,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-530,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-531,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-532,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-533,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-534,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-535,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-536,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-537,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-538,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-539,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-540,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-541,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-542,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-543,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-544,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-545,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-546,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-547,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-548,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-549,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-550,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-551,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-552,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-553,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-554,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-555,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-556,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-557,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-558,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-559,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-560,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-561,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-562,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-563,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-564,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-565,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-566,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-567,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-568,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-569,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-570,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-571,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-572,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-573,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-574,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-575,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-576,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-577,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-578,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-579,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-580,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-581,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-582,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-583,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-584,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-585,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-586,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-587,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-588,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-589,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-590,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-591,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-592,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-593,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-594,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-595,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-596,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-597,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-598,Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-599,Duncan MACMILLAN Reform UK,John COLE (LD),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),Helena GRAY (Lab),1,6
+471,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+472,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+473,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+474,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+475,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+476,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+477,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+478,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+479,Shahnawaz KHAN (SNP),John COLE (LD),Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Neil WILSON (UKIP),1,6
+480,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+481,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+482,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+483,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+484,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+485,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+486,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+487,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+488,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+489,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+490,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+491,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+492,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+493,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+494,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+495,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+496,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+497,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+498,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+499,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+500,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+501,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+502,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+503,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+504,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+505,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+506,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+507,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+508,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+509,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+510,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+511,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+512,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+513,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+514,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+515,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+516,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+517,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+518,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+519,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+520,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+521,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+522,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+523,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+524,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+525,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+526,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+527,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+528,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+529,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+530,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+531,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+532,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+533,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+534,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+535,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+536,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+537,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+538,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+539,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+540,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+541,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+542,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+543,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+544,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+545,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+546,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+547,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+548,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+549,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+550,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+551,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+552,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+553,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+554,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+555,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+556,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+557,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+558,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+559,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+560,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+561,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+562,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+563,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+564,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+565,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+566,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+567,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+568,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+569,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+570,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+571,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+572,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+573,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+574,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+575,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+576,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+577,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+578,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+579,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+580,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+581,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+582,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+583,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+584,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+585,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+586,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+587,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+588,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+589,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+590,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+591,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+592,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+593,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+594,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+595,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+596,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+597,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+598,Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+599,Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),Helena GRAY (Lab),1,6
 600,Shahnawaz KHAN (SNP),John COLE (LD),Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,1,6
-601,Shahnawaz KHAN (SNP),John COLE (LD),Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,1,6
-602,Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,John COLE (LD),skipped,skipped,skipped,1,6
-603,Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,John COLE (LD),skipped,skipped,skipped,1,6
-604,Aimee ALEXANDER (Con),Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,John COLE (LD),Neil WILSON (UKIP),1,6
-605,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Helena GRAY (Lab),John COLE (LD),skipped,skipped,1,6
-606,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),1,6
-607,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),1,6
-608,John COLE (LD),Helena GRAY (Lab),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-609,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),John COLE (LD),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
-610,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),John COLE (LD),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
-611,Shahnawaz KHAN (SNP),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Helena GRAY (Lab),1,6
-612,John COLE (LD),Shahnawaz KHAN (SNP),Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-613,Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
+601,Shahnawaz KHAN (SNP),John COLE (LD),Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,1,6
+602,Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),skipped,skipped,skipped,1,6
+603,Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),skipped,skipped,skipped,1,6
+604,Aimee ALEXANDER (Con),Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Neil WILSON (UKIP),1,6
+605,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),John COLE (LD),skipped,skipped,1,6
+606,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),1,6
+607,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),1,6
+608,John COLE (LD),Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+609,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),John COLE (LD),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
+610,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),John COLE (LD),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
+611,Shahnawaz KHAN (SNP),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Helena GRAY (Lab),1,6
+612,John COLE (LD),Shahnawaz KHAN (SNP),Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+613,Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
 614,Helena GRAY (Lab),John COLE (LD),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-615,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),1,6
-616,Duncan MACMILLAN Reform UK,John COLE (LD),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),Helena GRAY (Lab),1,6
+615,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),1,6
+616,Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),Helena GRAY (Lab),1,6
 617,Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,skipped,1,6
 618,Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,skipped,1,6
 619,Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,skipped,1,6
@@ -649,44 +649,44 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 647,Shahnawaz KHAN (SNP),John COLE (LD),skipped,skipped,skipped,skipped,1,6
 648,Shahnawaz KHAN (SNP),John COLE (LD),skipped,skipped,skipped,skipped,1,6
 649,Shahnawaz KHAN (SNP),John COLE (LD),skipped,skipped,skipped,skipped,1,6
-650,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,John COLE (LD),skipped,skipped,skipped,1,6
-651,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,John COLE (LD),skipped,skipped,skipped,1,6
-652,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,John COLE (LD),skipped,skipped,skipped,1,6
-653,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,John COLE (LD),skipped,skipped,skipped,1,6
-654,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,John COLE (LD),skipped,skipped,skipped,1,6
-655,Shahnawaz KHAN (SNP),John COLE (LD),Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
-656,Shahnawaz KHAN (SNP),John COLE (LD),Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
-657,Aimee ALEXANDER (Con),John COLE (LD),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Helena GRAY (Lab),1,6
-658,Aimee ALEXANDER (Con),John COLE (LD),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Helena GRAY (Lab),1,6
-659,Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),John COLE (LD),skipped,skipped,skipped,1,6
-660,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),John COLE (LD),Shahnawaz KHAN (SNP),1,6
+650,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),skipped,skipped,skipped,1,6
+651,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),skipped,skipped,skipped,1,6
+652,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),skipped,skipped,skipped,1,6
+653,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),skipped,skipped,skipped,1,6
+654,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),skipped,skipped,skipped,1,6
+655,Shahnawaz KHAN (SNP),John COLE (LD),Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
+656,Shahnawaz KHAN (SNP),John COLE (LD),Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
+657,Aimee ALEXANDER (Con),John COLE (LD),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Helena GRAY (Lab),1,6
+658,Aimee ALEXANDER (Con),John COLE (LD),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Helena GRAY (Lab),1,6
+659,Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),John COLE (LD),skipped,skipped,skipped,1,6
+660,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),John COLE (LD),Shahnawaz KHAN (SNP),1,6
 661,Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
 662,Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
-663,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
-664,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
-665,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),1,6
-666,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),1,6
-667,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),1,6
+663,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
+664,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
+665,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),1,6
+666,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),1,6
+667,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),1,6
 668,Aimee ALEXANDER (Con),Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),skipped,skipped,1,6
 669,Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),skipped,skipped,skipped,skipped,1,6
 670,Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),skipped,skipped,skipped,skipped,1,6
-671,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),John COLE (LD),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),1,6
-672,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-673,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-674,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-675,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-676,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-677,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-678,Duncan MACMILLAN Reform UK,John COLE (LD),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-679,Duncan MACMILLAN Reform UK,John COLE (LD),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-680,Duncan MACMILLAN Reform UK,John COLE (LD),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-681,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,John COLE (LD),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
-682,Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),John COLE (LD),Helena GRAY (Lab),1,6
-683,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-684,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-685,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-686,Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Helena GRAY (Lab),Shahnawaz KHAN (SNP),1,6
-687,Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Helena GRAY (Lab),Shahnawaz KHAN (SNP),1,6
+671,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),John COLE (LD),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),1,6
+672,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+673,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+674,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+675,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+676,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+677,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+678,Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
+679,Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
+680,Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
+681,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
+682,Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),John COLE (LD),Helena GRAY (Lab),1,6
+683,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+684,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+685,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+686,Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Helena GRAY (Lab),Shahnawaz KHAN (SNP),1,6
+687,Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Helena GRAY (Lab),Shahnawaz KHAN (SNP),1,6
 688,Shahnawaz KHAN (SNP),skipped,skipped,skipped,skipped,skipped,1,6
 689,Shahnawaz KHAN (SNP),skipped,skipped,skipped,skipped,skipped,1,6
 690,Shahnawaz KHAN (SNP),skipped,skipped,skipped,skipped,skipped,1,6
@@ -1040,8 +1040,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1038,Shahnawaz KHAN (SNP),skipped,skipped,skipped,skipped,skipped,1,6
 1039,Shahnawaz KHAN (SNP),skipped,skipped,skipped,skipped,skipped,1,6
 1040,Shahnawaz KHAN (SNP),skipped,skipped,skipped,skipped,skipped,1,6
-1041,Duncan MACMILLAN Reform UK,John COLE (LD),Neil WILSON (UKIP),Helena GRAY (Lab),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),1,6
-1042,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,John COLE (LD),Aimee ALEXANDER (Con),skipped,1,6
+1041,Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Neil WILSON (UKIP),Helena GRAY (Lab),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),1,6
+1042,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Aimee ALEXANDER (Con),skipped,1,6
 1043,Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),skipped,skipped,1,6
 1044,John COLE (LD),Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
 1045,John COLE (LD),Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
@@ -1049,53 +1049,53 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1047,John COLE (LD),Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
 1048,John COLE (LD),Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
 1049,John COLE (LD),Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
-1050,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),John COLE (LD),Neil WILSON (UKIP),skipped,skipped,1,6
-1051,John COLE (LD),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-1052,John COLE (LD),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-1053,John COLE (LD),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-1054,John COLE (LD),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-1055,Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),Neil WILSON (UKIP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),1,6
-1056,John COLE (LD),Helena GRAY (Lab),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,1,6
-1057,Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),Helena GRAY (Lab),skipped,skipped,skipped,1,6
-1058,Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),Helena GRAY (Lab),skipped,skipped,skipped,1,6
+1050,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),John COLE (LD),Neil WILSON (UKIP),skipped,skipped,1,6
+1051,John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1052,John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1053,John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1054,John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1055,Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),1,6
+1056,John COLE (LD),Helena GRAY (Lab),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),1,6
+1057,Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),Helena GRAY (Lab),skipped,skipped,skipped,1,6
+1058,Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),Helena GRAY (Lab),skipped,skipped,skipped,1,6
 1059,John COLE (LD),Shahnawaz KHAN (SNP),Helena GRAY (Lab),skipped,skipped,skipped,1,6
 1060,John COLE (LD),Shahnawaz KHAN (SNP),Helena GRAY (Lab),skipped,skipped,skipped,1,6
 1061,John COLE (LD),Shahnawaz KHAN (SNP),Helena GRAY (Lab),skipped,skipped,skipped,1,6
-1062,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-1063,Shahnawaz KHAN (SNP),John COLE (LD),Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-1064,Shahnawaz KHAN (SNP),John COLE (LD),Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-1065,Duncan MACMILLAN Reform UK,John COLE (LD),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-1066,Duncan MACMILLAN Reform UK,John COLE (LD),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+1062,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
+1063,Shahnawaz KHAN (SNP),John COLE (LD),Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+1064,Shahnawaz KHAN (SNP),John COLE (LD),Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+1065,Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+1066,Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
 1067,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,1,6
-1068,Duncan MACMILLAN Reform UK,Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
-1069,Duncan MACMILLAN Reform UK,Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
-1070,Duncan MACMILLAN Reform UK,Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
-1071,Duncan MACMILLAN Reform UK,Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
-1072,Duncan MACMILLAN Reform UK,Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
-1073,John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,1,6
-1074,Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-1075,Helena GRAY (Lab),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-1076,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Helena GRAY (Lab),skipped,skipped,skipped,1,6
-1077,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Helena GRAY (Lab),skipped,skipped,skipped,1,6
-1078,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Helena GRAY (Lab),skipped,skipped,skipped,1,6
-1079,Duncan MACMILLAN Reform UK,John COLE (LD),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Helena GRAY (Lab),Shahnawaz KHAN (SNP),1,6
-1080,Aimee ALEXANDER (Con),Helena GRAY (Lab),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-1081,Aimee ALEXANDER (Con),Helena GRAY (Lab),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-1082,Aimee ALEXANDER (Con),Helena GRAY (Lab),Duncan MACMILLAN Reform UK,John COLE (LD),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),1,6
+1068,Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
+1069,Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
+1070,Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
+1071,Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
+1072,Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
+1073,John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),1,6
+1074,Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+1075,Helena GRAY (Lab),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+1076,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Helena GRAY (Lab),skipped,skipped,skipped,1,6
+1077,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Helena GRAY (Lab),skipped,skipped,skipped,1,6
+1078,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Helena GRAY (Lab),skipped,skipped,skipped,1,6
+1079,Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Helena GRAY (Lab),Shahnawaz KHAN (SNP),1,6
+1080,Aimee ALEXANDER (Con),Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1081,Aimee ALEXANDER (Con),Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1082,Aimee ALEXANDER (Con),Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),1,6
 1083,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
 1084,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
 1085,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
 1086,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-1087,John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-1088,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-1089,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-1090,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-1091,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-1092,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-1093,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-1094,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-1095,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
-1096,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,skipped,1,6
+1087,John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1088,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1089,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1090,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1091,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1092,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1093,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1094,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1095,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1096,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
 1097,John COLE (LD),Helena GRAY (Lab),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
 1098,John COLE (LD),Helena GRAY (Lab),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
 1099,John COLE (LD),Helena GRAY (Lab),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
@@ -1104,9 +1104,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1102,John COLE (LD),Helena GRAY (Lab),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
 1103,John COLE (LD),Helena GRAY (Lab),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
 1104,John COLE (LD),Helena GRAY (Lab),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-1105,Duncan MACMILLAN Reform UK,Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Neil WILSON (UKIP),1,6
-1106,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,skipped,1,6
-1107,Helena GRAY (Lab),John COLE (LD),Neil WILSON (UKIP),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),1,6
+1105,Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Neil WILSON (UKIP),1,6
+1106,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,1,6
+1107,Helena GRAY (Lab),John COLE (LD),Neil WILSON (UKIP),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),1,6
 1108,Helena GRAY (Lab),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
 1109,Helena GRAY (Lab),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
 1110,Helena GRAY (Lab),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
@@ -1114,87 +1114,87 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1112,Helena GRAY (Lab),Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
 1113,Aimee ALEXANDER (Con),John COLE (LD),Helena GRAY (Lab),skipped,skipped,skipped,1,6
 1114,Aimee ALEXANDER (Con),John COLE (LD),Helena GRAY (Lab),skipped,skipped,skipped,1,6
-1115,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-1116,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,1,6
-1117,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,1,6
-1118,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,1,6
-1119,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,1,6
-1120,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,1,6
-1121,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
-1122,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
-1123,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
-1124,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
-1125,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
-1126,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
-1127,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
-1128,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
-1129,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
-1130,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
-1131,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
-1132,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
+1115,Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+1116,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,1,6
+1117,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,1,6
+1118,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,1,6
+1119,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,1,6
+1120,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,1,6
+1121,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
+1122,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
+1123,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
+1124,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
+1125,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
+1126,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
+1127,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
+1128,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
+1129,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
+1130,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
+1131,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
+1132,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,skipped,1,6
 1133,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
 1134,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
 1135,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
 1136,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-1137,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
-1138,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
-1139,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
-1140,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
-1141,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
-1142,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
-1143,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
-1144,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
-1145,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
-1146,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
-1147,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
-1148,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,John COLE (LD),skipped,skipped,skipped,1,6
-1149,John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,1,6
-1150,John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Shahnawaz KHAN (SNP),Helena GRAY (Lab),1,6
-1151,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,John COLE (LD),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
-1152,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,John COLE (LD),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
-1153,Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),John COLE (LD),Aimee ALEXANDER (Con),Neil WILSON (UKIP),1,6
-1154,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Helena GRAY (Lab),John COLE (LD),skipped,skipped,1,6
+1137,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
+1138,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
+1139,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
+1140,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
+1141,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
+1142,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
+1143,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
+1144,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
+1145,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
+1146,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
+1147,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
+1148,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),skipped,skipped,skipped,1,6
+1149,John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,1,6
+1150,John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),Helena GRAY (Lab),1,6
+1151,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
+1152,Helena GRAY (Lab),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
+1153,Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),John COLE (LD),Aimee ALEXANDER (Con),Neil WILSON (UKIP),1,6
+1154,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Helena GRAY (Lab),John COLE (LD),skipped,skipped,1,6
 1155,Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),Shahnawaz KHAN (SNP),skipped,skipped,1,6
 1156,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Aimee ALEXANDER (Con),skipped,skipped,1,6
 1157,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),skipped,skipped,1,6
 1158,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),skipped,skipped,1,6
-1159,John COLE (LD),Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),Helena GRAY (Lab),skipped,skipped,1,6
-1160,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),1,6
-1161,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
-1162,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
-1163,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
-1164,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
-1165,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
-1166,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
-1167,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
-1168,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
-1169,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
-1170,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
-1171,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
-1172,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
-1173,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
-1174,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
-1175,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
-1176,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
-1177,Aimee ALEXANDER (Con),John COLE (LD),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,skipped,skipped,1,6
+1159,John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),Helena GRAY (Lab),skipped,skipped,1,6
+1160,Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),1,6
+1161,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
+1162,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
+1163,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
+1164,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
+1165,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
+1166,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
+1167,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
+1168,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
+1169,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
+1170,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
+1171,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
+1172,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
+1173,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
+1174,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
+1175,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
+1176,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
+1177,Aimee ALEXANDER (Con),John COLE (LD),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,1,6
 1178,Neil WILSON (UKIP),skipped,skipped,skipped,skipped,skipped,1,6
 1179,Neil WILSON (UKIP),skipped,skipped,skipped,skipped,skipped,1,6
 1180,Neil WILSON (UKIP),skipped,skipped,skipped,skipped,skipped,1,6
 1181,Neil WILSON (UKIP),skipped,skipped,skipped,skipped,skipped,1,6
 1182,Neil WILSON (UKIP),skipped,skipped,skipped,skipped,skipped,1,6
-1183,John COLE (LD),Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),1,6
-1184,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-1185,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-1186,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),1,6
-1187,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-1188,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-1189,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-1190,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-1191,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-1192,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-1193,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-1194,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-1195,Shahnawaz KHAN (SNP),John COLE (LD),Duncan MACMILLAN Reform UK,Helena GRAY (Lab),Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
+1183,John COLE (LD),Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),1,6
+1184,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+1185,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+1186,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),1,6
+1187,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
+1188,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
+1189,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
+1190,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
+1191,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
+1192,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
+1193,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
+1194,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
+1195,Shahnawaz KHAN (SNP),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
 1196,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),skipped,skipped,1,6
 1197,Helena GRAY (Lab),skipped,skipped,skipped,skipped,skipped,1,6
 1198,Helena GRAY (Lab),skipped,skipped,skipped,skipped,skipped,1,6
@@ -1528,12 +1528,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1526,Helena GRAY (Lab),skipped,skipped,skipped,skipped,skipped,1,6
 1527,Helena GRAY (Lab),skipped,skipped,skipped,skipped,skipped,1,6
 1528,Helena GRAY (Lab),skipped,skipped,skipped,skipped,skipped,1,6
-1529,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,John COLE (LD),Aimee ALEXANDER (Con),1,6
-1530,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,John COLE (LD),Aimee ALEXANDER (Con),1,6
-1531,John COLE (LD),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Helena GRAY (Lab),Aimee ALEXANDER (Con),1,6
-1532,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Helena GRAY (Lab),Neil WILSON (UKIP),skipped,skipped,1,6
-1533,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,1,6
-1534,Duncan MACMILLAN Reform UK,John COLE (LD),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),Helena GRAY (Lab),Neil WILSON (UKIP),1,6
+1529,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Aimee ALEXANDER (Con),1,6
+1530,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Aimee ALEXANDER (Con),1,6
+1531,John COLE (LD),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Helena GRAY (Lab),Aimee ALEXANDER (Con),1,6
+1532,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Helena GRAY (Lab),Neil WILSON (UKIP),skipped,skipped,1,6
+1533,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),1,6
+1534,Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),Helena GRAY (Lab),Neil WILSON (UKIP),1,6
 1535,Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
 1536,Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
 1537,Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
@@ -1550,42 +1550,42 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1548,Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
 1549,Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
 1550,Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),skipped,skipped,skipped,1,6
-1551,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-1552,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-1553,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-1554,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-1555,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-1556,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-1557,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-1558,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-1559,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),John COLE (LD),Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,1,6
-1560,Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Shahnawaz KHAN (SNP),Helena GRAY (Lab),1,6
-1561,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),John COLE (LD),skipped,skipped,skipped,1,6
-1562,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),John COLE (LD),skipped,skipped,skipped,1,6
-1563,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),John COLE (LD),skipped,skipped,skipped,1,6
-1564,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),John COLE (LD),skipped,skipped,skipped,1,6
-1565,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),John COLE (LD),skipped,skipped,skipped,1,6
-1566,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),John COLE (LD),skipped,skipped,skipped,1,6
-1567,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),John COLE (LD),skipped,skipped,skipped,1,6
-1568,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),John COLE (LD),skipped,skipped,skipped,1,6
-1569,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),John COLE (LD),skipped,skipped,skipped,1,6
-1570,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),John COLE (LD),skipped,skipped,skipped,1,6
-1571,Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,John COLE (LD),Aimee ALEXANDER (Con),Helena GRAY (Lab),Shahnawaz KHAN (SNP),1,6
-1572,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Neil WILSON (UKIP),1,6
-1573,Duncan MACMILLAN Reform UK,John COLE (LD),Helena GRAY (Lab),skipped,skipped,skipped,1,6
-1574,Duncan MACMILLAN Reform UK,John COLE (LD),Helena GRAY (Lab),skipped,skipped,skipped,1,6
-1575,Duncan MACMILLAN Reform UK,Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
-1576,Duncan MACMILLAN Reform UK,Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
-1577,Shahnawaz KHAN (SNP),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),Helena GRAY (Lab),1,6
+1551,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1552,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1553,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1554,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1555,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1556,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1557,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1558,Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1559,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),John COLE (LD),Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,1,6
+1560,Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),Helena GRAY (Lab),1,6
+1561,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),John COLE (LD),skipped,skipped,skipped,1,6
+1562,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),John COLE (LD),skipped,skipped,skipped,1,6
+1563,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),John COLE (LD),skipped,skipped,skipped,1,6
+1564,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),John COLE (LD),skipped,skipped,skipped,1,6
+1565,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),John COLE (LD),skipped,skipped,skipped,1,6
+1566,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),John COLE (LD),skipped,skipped,skipped,1,6
+1567,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),John COLE (LD),skipped,skipped,skipped,1,6
+1568,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),John COLE (LD),skipped,skipped,skipped,1,6
+1569,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),John COLE (LD),skipped,skipped,skipped,1,6
+1570,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),John COLE (LD),skipped,skipped,skipped,1,6
+1571,Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Aimee ALEXANDER (Con),Helena GRAY (Lab),Shahnawaz KHAN (SNP),1,6
+1572,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Neil WILSON (UKIP),1,6
+1573,Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Helena GRAY (Lab),skipped,skipped,skipped,1,6
+1574,Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Helena GRAY (Lab),skipped,skipped,skipped,1,6
+1575,Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
+1576,Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),Aimee ALEXANDER (Con),John COLE (LD),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
+1577,Shahnawaz KHAN (SNP),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),Helena GRAY (Lab),1,6
 1578,Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,1,6
 1579,Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,1,6
-1580,Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Neil WILSON (UKIP),1,6
-1581,John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Helena GRAY (Lab),1,6
-1582,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),John COLE (LD),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),Helena GRAY (Lab),1,6
-1583,Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Helena GRAY (Lab),skipped,1,6
+1580,Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Neil WILSON (UKIP),1,6
+1581,John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Helena GRAY (Lab),1,6
+1582,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),John COLE (LD),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),Helena GRAY (Lab),1,6
+1583,Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Helena GRAY (Lab),skipped,1,6
 1584,Shahnawaz KHAN (SNP),John COLE (LD),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-1585,Shahnawaz KHAN (SNP),John COLE (LD),Helena GRAY (Lab),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,1,6
-1586,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),John COLE (LD),1,6
+1585,Shahnawaz KHAN (SNP),John COLE (LD),Helena GRAY (Lab),Aimee ALEXANDER (Con),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),1,6
+1586,Shahnawaz KHAN (SNP),Helena GRAY (Lab),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),John COLE (LD),1,6
 1587,Helena GRAY (Lab),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
 1588,Helena GRAY (Lab),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
 1589,Helena GRAY (Lab),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
@@ -1605,17 +1605,17 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1603,Helena GRAY (Lab),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
 1604,Helena GRAY (Lab),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
 1605,John COLE (LD),Aimee ALEXANDER (Con),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-1606,Shahnawaz KHAN (SNP),John COLE (LD),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-1607,Shahnawaz KHAN (SNP),John COLE (LD),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-1608,Shahnawaz KHAN (SNP),John COLE (LD),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-1609,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),1,6
-1610,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Helena GRAY (Lab),John COLE (LD),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
+1606,Shahnawaz KHAN (SNP),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1607,Shahnawaz KHAN (SNP),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1608,Shahnawaz KHAN (SNP),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1609,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),1,6
+1610,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Helena GRAY (Lab),John COLE (LD),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
 1611,John COLE (LD),Helena GRAY (Lab),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),skipped,skipped,1,6
-1612,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
-1613,Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-1614,Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-1615,Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-1616,Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
+1612,Shahnawaz KHAN (SNP),Helena GRAY (Lab),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
+1613,Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1614,Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1615,Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1616,Aimee ALEXANDER (Con),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
 1617,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
 1618,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
 1619,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
@@ -1633,37 +1633,37 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1631,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
 1632,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
 1633,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-1634,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
-1635,Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),John COLE (LD),Helena GRAY (Lab),Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
-1636,Aimee ALEXANDER (Con),John COLE (LD),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,Shahnawaz KHAN (SNP),Helena GRAY (Lab),1,6
-1637,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-1638,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-1639,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-1640,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,skipped,skipped,skipped,1,6
-1641,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),1,6
-1642,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),1,6
-1643,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,1,6
+1634,Helena GRAY (Lab),John COLE (LD),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),1,6
+1635,Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),John COLE (LD),Helena GRAY (Lab),Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
+1636,Aimee ALEXANDER (Con),John COLE (LD),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),Shahnawaz KHAN (SNP),Helena GRAY (Lab),1,6
+1637,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1638,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1639,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1640,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1641,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),1,6
+1642,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Neil WILSON (UKIP),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),1,6
+1643,Helena GRAY (Lab),Shahnawaz KHAN (SNP),John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,1,6
 1644,John COLE (LD),Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,1,6
 1645,John COLE (LD),Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,1,6
 1646,John COLE (LD),Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,1,6
 1647,Aimee ALEXANDER (Con),Helena GRAY (Lab),John COLE (LD),skipped,skipped,skipped,1,6
 1648,Aimee ALEXANDER (Con),Helena GRAY (Lab),John COLE (LD),skipped,skipped,skipped,1,6
 1649,Aimee ALEXANDER (Con),Helena GRAY (Lab),John COLE (LD),skipped,skipped,skipped,1,6
-1650,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,John COLE (LD),Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
+1650,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Neil WILSON (UKIP),Aimee ALEXANDER (Con),1,6
 1651,John COLE (LD),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
 1652,John COLE (LD),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
 1653,John COLE (LD),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
 1654,John COLE (LD),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
 1655,John COLE (LD),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
 1656,John COLE (LD),Aimee ALEXANDER (Con),skipped,skipped,skipped,skipped,1,6
-1657,Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK,Helena GRAY (Lab),John COLE (LD),Neil WILSON (UKIP),1,6
-1658,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),John COLE (LD),Aimee ALEXANDER (Con),1,6
-1659,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),John COLE (LD),Aimee ALEXANDER (Con),1,6
-1660,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),John COLE (LD),Aimee ALEXANDER (Con),1,6
+1657,Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),Duncan MACMILLAN Reform UK (UNKNOWN),Helena GRAY (Lab),John COLE (LD),Neil WILSON (UKIP),1,6
+1658,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),John COLE (LD),Aimee ALEXANDER (Con),1,6
+1659,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),John COLE (LD),Aimee ALEXANDER (Con),1,6
+1660,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),John COLE (LD),Aimee ALEXANDER (Con),1,6
 1661,Helena GRAY (Lab),Shahnawaz KHAN (SNP),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
 1662,John COLE (LD),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
-1663,Duncan MACMILLAN Reform UK,John COLE (LD),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-1664,Duncan MACMILLAN Reform UK,John COLE (LD),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1663,Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1664,Duncan MACMILLAN Reform UK (UNKNOWN),John COLE (LD),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
 1665,Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
 1666,Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
 1667,Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
@@ -1671,17 +1671,17 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1669,Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
 1670,Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
 1671,Aimee ALEXANDER (Con),Helena GRAY (Lab),skipped,skipped,skipped,skipped,1,6
-1672,John COLE (LD),Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
+1672,John COLE (LD),Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),skipped,skipped,skipped,1,6
 1673,Aimee ALEXANDER (Con),Neil WILSON (UKIP),Shahnawaz KHAN (SNP),skipped,skipped,skipped,1,6
-1674,Duncan MACMILLAN Reform UK,Neil WILSON (UKIP),Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),1,6
-1675,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-1676,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-1677,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-1678,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-1679,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-1680,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-1681,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-1682,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-1683,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-1684,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
-1685,Duncan MACMILLAN Reform UK,Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1674,Duncan MACMILLAN Reform UK (UNKNOWN),Neil WILSON (UKIP),Helena GRAY (Lab),John COLE (LD),Shahnawaz KHAN (SNP),Aimee ALEXANDER (Con),1,6
+1675,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1676,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1677,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1678,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1679,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1680,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1681,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1682,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1683,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1684,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6
+1685,Duncan MACMILLAN Reform UK (UNKNOWN),Aimee ALEXANDER (Con),Neil WILSON (UKIP),skipped,skipped,skipped,1,6

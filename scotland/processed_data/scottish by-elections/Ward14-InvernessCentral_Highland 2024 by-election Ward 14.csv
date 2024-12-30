@@ -30,20 +30,20 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 28,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
 29,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
 30,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
-31,Iain RICHMOND Reform UK,Michael GREGSON (Lab),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
-32,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-33,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-34,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-35,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-36,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-37,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-38,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-39,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-40,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-41,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-42,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-43,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-44,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
+31,Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
+32,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+33,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+34,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
+35,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
+36,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
+37,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
+38,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
+39,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
+40,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
+41,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
+42,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
+43,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
+44,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 45,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
 46,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
 47,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
@@ -54,35 +54,35 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 52,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
 53,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
 54,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
-55,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),1,6
-56,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),1,6
-57,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,1,6
-58,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),1,6
-59,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-60,Iain RICHMOND Reform UK,Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
-61,Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
-62,Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
-63,Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
-64,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
-65,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
-66,Michael GREGSON (Lab),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
-67,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-68,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-69,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-70,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-71,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-72,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-73,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-74,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Michael GREGSON (Lab),1,6
-75,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),1,6
-76,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),1,6
-77,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),1,6
-78,Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),1,6
-79,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
-80,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
-81,Michael GREGSON (Lab),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),1,6
-82,Michael GREGSON (Lab),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),1,6
-83,Michael GREGSON (Lab),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,1,6
+55,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),1,6
+56,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),1,6
+57,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),1,6
+58,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),1,6
+59,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+60,Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
+61,Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
+62,Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
+63,Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
+64,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
+65,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
+66,Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
+67,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+68,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+69,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+70,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+71,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+72,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+73,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+74,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Michael GREGSON (Lab),1,6
+75,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),1,6
+76,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),1,6
+77,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),1,6
+78,Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),1,6
+79,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
+80,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
+81,Michael GREGSON (Lab),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),1,6
+82,Michael GREGSON (Lab),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),1,6
+83,Michael GREGSON (Lab),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),1,6
 84,Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
 85,Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
 86,Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
@@ -93,34 +93,34 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 91,Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
 92,Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
 93,Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
-94,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
-95,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
-96,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
-97,Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,1,6
-98,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Michael GREGSON (Lab),Iain RICHMOND Reform UK,1,6
-99,Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Michael GREGSON (Lab),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),1,6
-100,Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-101,Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-102,Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-103,Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
-104,Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
-105,Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
-106,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-107,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-108,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-109,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-110,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-111,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-112,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-113,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),1,6
-114,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),1,6
-115,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Michael GREGSON (Lab),skipped,skipped,skipped,1,6
-116,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Michael GREGSON (Lab),skipped,skipped,skipped,1,6
-117,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),Donald MACKENZIE (Con),1,6
-118,Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-119,Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-120,Iain RICHMOND Reform UK,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
-121,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Michael GREGSON (Lab),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),1,6
+94,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
+95,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
+96,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
+97,Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),1,6
+98,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),1,6
+99,Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),1,6
+100,Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+101,Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+102,Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+103,Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
+104,Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
+105,Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
+106,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+107,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+108,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+109,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+110,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+111,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+112,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+113,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),1,6
+114,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),1,6
+115,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
+116,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
+117,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),Donald MACKENZIE (Con),1,6
+118,Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+119,Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+120,Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
+121,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),1,6
 122,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
 123,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
 124,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
@@ -128,12 +128,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 126,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
 127,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
 128,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
-129,Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),Donald MACKENZIE (Con),1,6
-130,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Andrew BARNETT (Grn),1,6
-131,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Donald MACKENZIE (Con),1,6
-132,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-133,Iain RICHMOND Reform UK,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Donald MACKENZIE (Con),1,6
-134,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
+129,Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),Donald MACKENZIE (Con),1,6
+130,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Andrew BARNETT (Grn),1,6
+131,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Donald MACKENZIE (Con),1,6
+132,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+133,Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Donald MACKENZIE (Con),1,6
+134,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
 135,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,1,6
 136,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,1,6
 137,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,1,6
@@ -144,11 +144,11 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 142,Donald MACKENZIE (Con),Michael GREGSON (Lab),skipped,skipped,skipped,skipped,1,6
 143,Andrew BARNETT (Grn),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,1,6
 144,Andrew BARNETT (Grn),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,1,6
-145,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Michael GREGSON (Lab),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),1,6
-146,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Michael GREGSON (Lab),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),1,6
-147,Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
-148,Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
-149,Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
+145,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),1,6
+146,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),1,6
+147,Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
+148,Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
+149,Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
 150,Andrew BARNETT (Grn),skipped,skipped,skipped,skipped,skipped,1,6
 151,Andrew BARNETT (Grn),skipped,skipped,skipped,skipped,skipped,1,6
 152,Andrew BARNETT (Grn),skipped,skipped,skipped,skipped,skipped,1,6
@@ -201,13 +201,13 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 199,Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,skipped,skipped,1,6
 200,Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,skipped,skipped,1,6
 201,Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,skipped,skipped,1,6
-202,Michael GREGSON (Lab),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
-203,Michael GREGSON (Lab),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
-204,Michael GREGSON (Lab),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
-205,Michael GREGSON (Lab),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
-206,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-207,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-208,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
+202,Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
+203,Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
+204,Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
+205,Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
+206,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+207,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+208,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
 209,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),skipped,skipped,1,6
 210,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),skipped,skipped,1,6
 211,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),skipped,skipped,1,6
@@ -219,9 +219,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 217,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,1,6
 218,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,1,6
 219,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,1,6
-220,Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-221,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
-222,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
+220,Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+221,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
+222,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
 223,Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,1,6
 224,Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,1,6
 225,Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,1,6
@@ -229,8 +229,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 227,Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,1,6
 228,Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,1,6
 229,Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,1,6
-230,Andrew BARNETT (Grn),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-231,Andrew BARNETT (Grn),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
+230,Andrew BARNETT (Grn),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+231,Andrew BARNETT (Grn),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
 232,Michael GREGSON (Lab),Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,1,6
 233,Michael GREGSON (Lab),Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,1,6
 234,Michael GREGSON (Lab),Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,1,6
@@ -250,11 +250,11 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 248,Michael GREGSON (Lab),Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,1,6
 249,Michael GREGSON (Lab),Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,1,6
 250,Michael GREGSON (Lab),Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,1,6
-251,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,1,6
-252,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,1,6
-253,Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),1,6
+251,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),1,6
+252,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),1,6
+253,Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),1,6
 254,Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,1,6
-255,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Donald MACKENZIE (Con),1,6
+255,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Donald MACKENZIE (Con),1,6
 256,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 257,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 258,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
@@ -281,30 +281,30 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 279,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 280,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 281,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
-282,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),1,6
-283,Chris LEWCOCK (LD),Michael GREGSON (Lab),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Andrew BARNETT (Grn),1,6
+282,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),1,6
+283,Chris LEWCOCK (LD),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Andrew BARNETT (Grn),1,6
 284,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 285,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 286,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 287,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 288,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Donald MACKENZIE (Con),skipped,1,6
-289,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),skipped,1,6
-290,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),skipped,1,6
-291,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,1,6
-292,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,1,6
+289,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),skipped,1,6
+290,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),skipped,1,6
+291,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),1,6
+292,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),1,6
 293,Donald MACKENZIE (Con),Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,1,6
-294,Michael GREGSON (Lab),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-295,Michael GREGSON (Lab),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-296,Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Michael GREGSON (Lab),skipped,skipped,skipped,1,6
+294,Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+295,Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+296,Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 297,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),skipped,skipped,1,6
-298,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-299,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-300,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-301,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-302,Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),1,6
-303,Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),1,6
-304,Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Michael GREGSON (Lab),1,6
-305,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Martin MACGREGOR (SNP),1,6
+298,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+299,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+300,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+301,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+302,Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),1,6
+303,Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),1,6
+304,Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Michael GREGSON (Lab),1,6
+305,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),1,6
 306,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,1,6
 307,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,1,6
 308,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),skipped,skipped,1,6
@@ -312,9 +312,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 310,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
 311,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
 312,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
-313,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Michael GREGSON (Lab),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),1,6
-314,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,1,6
-315,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,1,6
+313,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),1,6
+314,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),1,6
+315,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),1,6
 316,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 317,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 318,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
@@ -323,11 +323,11 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 321,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 322,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 323,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
-324,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-325,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-326,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-327,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-328,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
+324,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+325,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+326,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+327,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+328,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
 329,Michael GREGSON (Lab),skipped,skipped,skipped,skipped,skipped,1,6
 330,Michael GREGSON (Lab),skipped,skipped,skipped,skipped,skipped,1,6
 331,Michael GREGSON (Lab),skipped,skipped,skipped,skipped,skipped,1,6
@@ -470,12 +470,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 468,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 469,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 470,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
-471,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-472,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-473,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,1,6
-474,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,1,6
-475,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),Martin MACGREGOR (SNP),1,6
-476,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Michael GREGSON (Lab),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Chris LEWCOCK (LD),1,6
+471,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+472,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+473,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),1,6
+474,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),1,6
+475,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),Martin MACGREGOR (SNP),1,6
+476,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Chris LEWCOCK (LD),1,6
 477,Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,skipped,1,6
 478,Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,skipped,1,6
 479,Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,skipped,1,6
@@ -521,22 +521,22 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 519,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Andrew BARNETT (Grn),skipped,skipped,1,6
 520,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Andrew BARNETT (Grn),skipped,skipped,1,6
 521,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Andrew BARNETT (Grn),skipped,skipped,1,6
-522,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),Michael GREGSON (Lab),1,6
-523,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),1,6
+522,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),Michael GREGSON (Lab),1,6
+523,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),1,6
 524,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),skipped,skipped,1,6
 525,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,1,6
 526,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,1,6
 527,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,1,6
 528,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,1,6
 529,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,1,6
-530,Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
-531,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),1,6
-532,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),1,6
-533,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,1,6
-534,Michael GREGSON (Lab),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),1,6
-535,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
-536,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
-537,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Michael GREGSON (Lab),Martin MACGREGOR (SNP),1,6
+530,Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
+531,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),1,6
+532,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),1,6
+533,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,1,6
+534,Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),1,6
+535,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
+536,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
+537,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),Martin MACGREGOR (SNP),1,6
 538,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
 539,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
 540,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
@@ -565,31 +565,31 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 563,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),skipped,skipped,1,6
 564,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),skipped,skipped,1,6
 565,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),skipped,skipped,1,6
-566,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Michael GREGSON (Lab),1,6
-567,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Michael GREGSON (Lab),Iain RICHMOND Reform UK,skipped,skipped,1,6
-568,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),1,6
+566,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Michael GREGSON (Lab),1,6
+567,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,1,6
+568,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),1,6
 569,Michael GREGSON (Lab),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 570,Michael GREGSON (Lab),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 571,Michael GREGSON (Lab),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 572,Michael GREGSON (Lab),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 573,Michael GREGSON (Lab),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 574,Michael GREGSON (Lab),Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-575,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-576,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-577,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-578,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-579,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-580,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),1,6
+575,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+576,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+577,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+578,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+579,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+580,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),1,6
 581,Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),skipped,skipped,1,6
 582,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
-583,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,1,6
+583,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),1,6
 584,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Donald MACKENZIE (Con),skipped,1,6
 585,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Donald MACKENZIE (Con),skipped,1,6
-586,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
+586,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
 587,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),skipped,skipped,1,6
 588,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),skipped,skipped,1,6
-589,Chris LEWCOCK (LD),Michael GREGSON (Lab),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-590,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),skipped,1,6
+589,Chris LEWCOCK (LD),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+590,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),skipped,1,6
 591,Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,skipped,skipped,1,6
 592,Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,skipped,skipped,1,6
 593,Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,skipped,skipped,1,6
@@ -599,9 +599,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 597,Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,skipped,skipped,1,6
 598,Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,skipped,skipped,1,6
 599,Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,skipped,skipped,1,6
-600,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),1,6
-601,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Martin MACGREGOR (SNP),1,6
-602,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
+600,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),1,6
+601,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),1,6
+602,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
 603,Martin MACGREGOR (SNP),Michael GREGSON (Lab),skipped,skipped,skipped,skipped,1,6
 604,Martin MACGREGOR (SNP),Michael GREGSON (Lab),skipped,skipped,skipped,skipped,1,6
 605,Martin MACGREGOR (SNP),Michael GREGSON (Lab),skipped,skipped,skipped,skipped,1,6
@@ -625,10 +625,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 623,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 624,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 625,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
-626,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Michael GREGSON (Lab),1,6
-627,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Michael GREGSON (Lab),1,6
+626,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),1,6
+627,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),1,6
 628,Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
-629,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Michael GREGSON (Lab),Martin MACGREGOR (SNP),1,6
+629,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),Martin MACGREGOR (SNP),1,6
 630,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 631,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 632,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
@@ -647,16 +647,16 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 645,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 646,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 647,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
-648,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),1,6
-649,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
-650,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
-651,Iain RICHMOND Reform UK,Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),1,6
-652,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-653,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Michael GREGSON (Lab),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
+648,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),1,6
+649,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
+650,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
+651,Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),1,6
+652,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+653,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
 654,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,1,6
 655,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,1,6
-656,Michael GREGSON (Lab),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Andrew BARNETT (Grn),Chris LEWCOCK (LD),skipped,1,6
-657,Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
+656,Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Chris LEWCOCK (LD),skipped,1,6
+657,Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
 658,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),skipped,skipped,1,6
 659,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),skipped,skipped,1,6
 660,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,1,6
@@ -695,8 +695,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 693,Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
 694,Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
 695,Donald MACKENZIE (Con),Michael GREGSON (Lab),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
-696,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),1,6
-697,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Andrew BARNETT (Grn),1,6
+696,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),1,6
+697,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Andrew BARNETT (Grn),1,6
 698,Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,skipped,1,6
 699,Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,skipped,1,6
 700,Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,skipped,1,6
@@ -926,14 +926,14 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 924,Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,skipped,1,6
 925,Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,skipped,1,6
 926,Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,skipped,1,6
-927,Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
+927,Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
 928,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,1,6
 929,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),skipped,skipped,1,6
-930,Iain RICHMOND Reform UK,Chris LEWCOCK (LD),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
-931,Iain RICHMOND Reform UK,Chris LEWCOCK (LD),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
-932,Iain RICHMOND Reform UK,Chris LEWCOCK (LD),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
-933,Iain RICHMOND Reform UK,Chris LEWCOCK (LD),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
-934,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Donald MACKENZIE (Con),Michael GREGSON (Lab),1,6
+930,Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
+931,Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
+932,Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
+933,Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
+934,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Michael GREGSON (Lab),1,6
 935,Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
 936,Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
 937,Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
@@ -1003,12 +1003,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1001,Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
 1002,Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
 1003,Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
-1004,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,1,6
-1005,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,1,6
-1006,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,1,6
-1007,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Michael GREGSON (Lab),1,6
-1008,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),Michael GREGSON (Lab),1,6
-1009,Andrew BARNETT (Grn),Michael GREGSON (Lab),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),1,6
+1004,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1005,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1006,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1007,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Michael GREGSON (Lab),1,6
+1008,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),Michael GREGSON (Lab),1,6
+1009,Andrew BARNETT (Grn),Michael GREGSON (Lab),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),1,6
 1010,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),skipped,skipped,skipped,skipped,1,6
 1011,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),skipped,skipped,skipped,skipped,1,6
 1012,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),skipped,skipped,skipped,skipped,1,6
@@ -1068,7 +1068,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1066,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),skipped,skipped,skipped,skipped,1,6
 1067,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),skipped,skipped,skipped,skipped,1,6
 1068,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),skipped,skipped,skipped,skipped,1,6
-1069,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,1,6
+1069,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),1,6
 1070,Michael GREGSON (Lab),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
 1071,Michael GREGSON (Lab),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
 1072,Michael GREGSON (Lab),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
@@ -1080,18 +1080,18 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1078,Michael GREGSON (Lab),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
 1079,Michael GREGSON (Lab),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
 1080,Michael GREGSON (Lab),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
-1081,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1082,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1083,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1084,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1085,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1086,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1087,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1088,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1089,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1090,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1091,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
-1092,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
+1081,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1082,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1083,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1084,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1085,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1086,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1087,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1088,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1089,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1090,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1091,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
+1092,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
 1093,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1094,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1095,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
@@ -1107,26 +1107,26 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1105,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1106,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1107,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-1108,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1109,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1110,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1111,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),1,6
-1112,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),1,6
-1113,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
-1114,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
-1115,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
-1116,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
+1108,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1109,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1110,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1111,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),1,6
+1112,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),1,6
+1113,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
+1114,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
+1115,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
+1116,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
 1117,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,1,6
 1118,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,1,6
 1119,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,1,6
-1120,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1121,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1122,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1123,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1124,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1125,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1126,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1127,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),1,6
+1120,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1121,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1122,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1123,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1124,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1125,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1126,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1127,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),1,6
 1128,Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
 1129,Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
 1130,Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
@@ -1153,28 +1153,28 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1151,Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
 1152,Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
 1153,Donald MACKENZIE (Con),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
-1154,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,1,6
-1155,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,1,6
-1156,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,1,6
-1157,Michael GREGSON (Lab),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,1,6
-1158,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1159,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-1160,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-1161,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-1162,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-1163,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
+1154,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1155,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1156,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1157,Michael GREGSON (Lab),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,1,6
+1158,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1159,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
+1160,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
+1161,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
+1162,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
+1163,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1164,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,1,6
-1165,Iain RICHMOND Reform UK,Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
-1166,Iain RICHMOND Reform UK,Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
-1167,Iain RICHMOND Reform UK,Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
-1168,Iain RICHMOND Reform UK,Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
-1169,Iain RICHMOND Reform UK,Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
+1165,Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
+1166,Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
+1167,Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
+1168,Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
+1169,Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
 1170,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
 1171,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
-1172,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),1,6
-1173,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),1,6
-1174,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),1,6
-1175,Iain RICHMOND Reform UK,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),1,6
+1172,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),1,6
+1173,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),1,6
+1174,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),1,6
+1175,Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),1,6
 1176,Michael GREGSON (Lab),Andrew BARNETT (Grn),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
 1177,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1178,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
@@ -1221,8 +1221,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1219,Chris LEWCOCK (LD),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
 1220,Chris LEWCOCK (LD),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
 1221,Chris LEWCOCK (LD),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
-1222,Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,skipped,skipped,1,6
-1223,Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,skipped,skipped,1,6
+1222,Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,1,6
+1223,Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,1,6
 1224,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1225,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1226,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
@@ -1235,18 +1235,18 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1233,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1234,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1235,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
-1236,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,skipped,skipped,1,6
-1237,Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Michael GREGSON (Lab),Martin MACGREGOR (SNP),skipped,1,6
-1238,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1239,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1240,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
+1236,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,1,6
+1237,Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Michael GREGSON (Lab),Martin MACGREGOR (SNP),skipped,1,6
+1238,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1239,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1240,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
 1241,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
 1242,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
-1243,Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-1244,Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-1245,Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-1246,Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-1247,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
+1243,Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1244,Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1245,Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1246,Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1247,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1248,Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1249,Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1250,Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
@@ -1265,26 +1265,26 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1263,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1264,Donald MACKENZIE (Con),Andrew BARNETT (Grn),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1265,Donald MACKENZIE (Con),Andrew BARNETT (Grn),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-1266,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),1,6
-1267,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-1268,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-1269,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-1270,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-1271,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-1272,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-1273,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-1274,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-1275,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-1276,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-1277,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-1278,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
+1266,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),1,6
+1267,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1268,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1269,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1270,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1271,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1272,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1273,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1274,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1275,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1276,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1277,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1278,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
 1279,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1280,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1281,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1282,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1283,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
-1284,Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),1,6
-1285,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Michael GREGSON (Lab),Andrew BARNETT (Grn),1,6
+1284,Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),1,6
+1285,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),Andrew BARNETT (Grn),1,6
 1286,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 1287,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 1288,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
@@ -1293,71 +1293,71 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1291,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 1292,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 1293,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
-1294,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,1,6
-1295,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,1,6
-1296,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,1,6
-1297,Donald MACKENZIE (Con),Michael GREGSON (Lab),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),1,6
+1294,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1295,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,1,6
+1296,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,1,6
+1297,Donald MACKENZIE (Con),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),1,6
 1298,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),Martin MACGREGOR (SNP),skipped,skipped,1,6
 1299,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),Martin MACGREGOR (SNP),skipped,skipped,1,6
-1300,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Michael GREGSON (Lab),1,6
-1301,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Michael GREGSON (Lab),1,6
+1300,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Michael GREGSON (Lab),1,6
+1301,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Michael GREGSON (Lab),1,6
 1302,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Andrew BARNETT (Grn),skipped,skipped,1,6
-1303,Chris LEWCOCK (LD),Michael GREGSON (Lab),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
-1304,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1305,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
+1303,Chris LEWCOCK (LD),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),1,6
+1304,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1305,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
 1306,Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),skipped,skipped,1,6
 1307,Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),skipped,skipped,1,6
 1308,Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),skipped,skipped,1,6
-1309,Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,1,6
-1310,Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,1,6
-1311,Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),1,6
-1312,Andrew BARNETT (Grn),Michael GREGSON (Lab),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),skipped,skipped,1,6
+1309,Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,1,6
+1310,Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),skipped,skipped,skipped,skipped,1,6
+1311,Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),1,6
+1312,Andrew BARNETT (Grn),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),skipped,skipped,1,6
 1313,Donald MACKENZIE (Con),Andrew BARNETT (Grn),skipped,skipped,skipped,skipped,1,6
-1314,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1315,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1316,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1317,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1318,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1319,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1320,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1321,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1322,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1323,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1324,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1325,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1326,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1327,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1328,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1329,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1330,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1331,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1332,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1333,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1334,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1335,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1336,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1337,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1338,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1339,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1340,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1341,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1342,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1343,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1344,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1345,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1346,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1347,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1348,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1349,Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,skipped,1,6
-1350,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
-1351,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Martin MACGREGOR (SNP),1,6
-1352,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),1,6
-1353,Andrew BARNETT (Grn),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-1354,Andrew BARNETT (Grn),Iain RICHMOND Reform UK,skipped,skipped,skipped,skipped,1,6
-1355,Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),skipped,skipped,1,6
-1356,Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),skipped,skipped,1,6
-1357,Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-1358,Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
+1314,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1315,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1316,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1317,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1318,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1319,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1320,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1321,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1322,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1323,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1324,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1325,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1326,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1327,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1328,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1329,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1330,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1331,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1332,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1333,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1334,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1335,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1336,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1337,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1338,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1339,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1340,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1341,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1342,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1343,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1344,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1345,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1346,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1347,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1348,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1349,Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,6
+1350,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
+1351,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),1,6
+1352,Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),1,6
+1353,Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1354,Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,6
+1355,Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),skipped,skipped,1,6
+1356,Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),skipped,skipped,1,6
+1357,Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1358,Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
 1359,Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,skipped,1,6
 1360,Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,skipped,1,6
 1361,Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,skipped,1,6
@@ -1456,32 +1456,32 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1454,Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,skipped,1,6
 1455,Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,skipped,1,6
 1456,Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,skipped,1,6
-1457,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),1,6
-1458,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),Donald MACKENZIE (Con),1,6
-1459,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),Andrew BARNETT (Grn),1,6
+1457,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),1,6
+1458,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),1,6
+1459,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),Andrew BARNETT (Grn),1,6
 1460,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 1461,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 1462,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 1463,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 1464,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 1465,Chris LEWCOCK (LD),Andrew BARNETT (Grn),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
-1466,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),1,6
-1467,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),1,6
-1468,Iain RICHMOND Reform UK,Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
-1469,Iain RICHMOND Reform UK,Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
-1470,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1471,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1472,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1473,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1474,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1475,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1476,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1477,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,1,6
-1478,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Michael GREGSON (Lab),skipped,skipped,skipped,1,6
-1479,Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Michael GREGSON (Lab),skipped,skipped,skipped,1,6
-1480,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,skipped,1,6
-1481,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),1,6
-1482,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Michael GREGSON (Lab),1,6
+1466,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Donald MACKENZIE (Con),1,6
+1467,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),1,6
+1468,Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
+1469,Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
+1470,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1471,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1472,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1473,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1474,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1475,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1476,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1477,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1478,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
+1479,Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
+1480,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),skipped,1,6
+1481,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),1,6
+1482,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),1,6
 1483,Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1484,Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1485,Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
@@ -1489,8 +1489,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1487,Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1488,Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1489,Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-1490,Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,1,6
-1491,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),1,6
+1490,Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,1,6
+1491,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),1,6
 1492,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1493,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1494,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
@@ -1506,11 +1506,11 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1504,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1505,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1506,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-1507,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,skipped,skipped,1,6
-1508,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
-1509,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Michael GREGSON (Lab),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,1,6
-1510,Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,1,6
-1511,Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),1,6
+1507,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,1,6
+1508,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
+1509,Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Michael GREGSON (Lab),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1510,Chris LEWCOCK (LD),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1511,Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Chris LEWCOCK (LD),1,6
 1512,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1513,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1514,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
@@ -1529,9 +1529,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1527,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1528,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1529,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
-1530,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),1,6
-1531,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),1,6
-1532,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Michael GREGSON (Lab),1,6
+1530,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),1,6
+1531,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),1,6
+1532,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Michael GREGSON (Lab),1,6
 1533,Chris LEWCOCK (LD),Andrew BARNETT (Grn),skipped,skipped,skipped,skipped,1,6
 1534,Chris LEWCOCK (LD),Andrew BARNETT (Grn),skipped,skipped,skipped,skipped,1,6
 1535,Chris LEWCOCK (LD),Andrew BARNETT (Grn),skipped,skipped,skipped,skipped,1,6
@@ -1557,9 +1557,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1555,Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
 1556,Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
 1557,Michael GREGSON (Lab),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
-1558,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
+1558,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
 1559,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Donald MACKENZIE (Con),skipped,skipped,1,6
-1560,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),1,6
+1560,Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),1,6
 1561,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1562,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1563,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
@@ -1567,24 +1567,24 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1565,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1566,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1567,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-1568,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),1,6
-1569,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Andrew BARNETT (Grn),1,6
-1570,Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-1571,Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-1572,Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-1573,Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-1574,Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-1575,Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-1576,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-1577,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-1578,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-1579,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-1580,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-1581,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-1582,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Michael GREGSON (Lab),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),1,6
+1568,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Michael GREGSON (Lab),Andrew BARNETT (Grn),Chris LEWCOCK (LD),1,6
+1569,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),Donald MACKENZIE (Con),Andrew BARNETT (Grn),1,6
+1570,Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1571,Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1572,Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1573,Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1574,Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1575,Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1576,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1577,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1578,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1579,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1580,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1581,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1582,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Michael GREGSON (Lab),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),1,6
 1583,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),skipped,skipped,1,6
-1584,Donald MACKENZIE (Con),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Michael GREGSON (Lab),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),1,6
-1585,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),1,6
+1584,Donald MACKENZIE (Con),Andrew BARNETT (Grn),Chris LEWCOCK (LD),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),1,6
+1585,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),1,6
 1586,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 1587,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
 1588,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
@@ -1614,12 +1614,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1612,Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1613,Chris LEWCOCK (LD),Michael GREGSON (Lab),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1614,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),skipped,skipped,skipped,1,6
-1615,Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),1,6
-1616,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),1,6
-1617,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,1,6
-1618,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),1,6
-1619,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Donald MACKENZIE (Con),1,6
-1620,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Andrew BARNETT (Grn),1,6
+1615,Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),1,6
+1616,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),1,6
+1617,Chris LEWCOCK (LD),Donald MACKENZIE (Con),Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),1,6
+1618,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),1,6
+1619,Martin MACGREGOR (SNP),Michael GREGSON (Lab),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Donald MACKENZIE (Con),1,6
+1620,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Michael GREGSON (Lab),Andrew BARNETT (Grn),1,6
 1621,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,1,6
 1622,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,1,6
 1623,Andrew BARNETT (Grn),Chris LEWCOCK (LD),Michael GREGSON (Lab),skipped,skipped,skipped,1,6
@@ -1650,14 +1650,14 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1648,Michael GREGSON (Lab),Andrew BARNETT (Grn),skipped,skipped,skipped,skipped,1,6
 1649,Michael GREGSON (Lab),Andrew BARNETT (Grn),skipped,skipped,skipped,skipped,1,6
 1650,Michael GREGSON (Lab),Andrew BARNETT (Grn),skipped,skipped,skipped,skipped,1,6
-1651,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),1,6
-1652,Iain RICHMOND Reform UK,Andrew BARNETT (Grn),skipped,skipped,skipped,skipped,1,6
-1653,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
-1654,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,skipped,skipped,1,6
-1655,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-1656,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-1657,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
-1658,Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),1,6
+1651,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Donald MACKENZIE (Con),1,6
+1652,Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),skipped,skipped,skipped,skipped,1,6
+1653,Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),Michael GREGSON (Lab),Donald MACKENZIE (Con),1,6
+1654,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,1,6
+1655,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
+1656,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
+1657,Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
+1658,Andrew BARNETT (Grn),Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),1,6
 1659,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1660,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1661,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
@@ -1669,21 +1669,21 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1667,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1668,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1669,Michael GREGSON (Lab),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
-1670,Michael GREGSON (Lab),Iain RICHMOND Reform UK,Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
+1670,Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Chris LEWCOCK (LD),skipped,skipped,skipped,1,6
 1671,Donald MACKENZIE (Con),Chris LEWCOCK (LD),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
-1672,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
-1673,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
-1674,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
-1675,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
-1676,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
-1677,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
-1678,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
-1679,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
-1680,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
-1681,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
-1682,Iain RICHMOND Reform UK,Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
-1683,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),1,6
-1684,Donald MACKENZIE (Con),Michael GREGSON (Lab),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
+1672,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
+1673,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
+1674,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
+1675,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
+1676,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
+1677,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
+1678,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
+1679,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
+1680,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
+1681,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
+1682,Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),skipped,skipped,skipped,skipped,1,6
+1683,Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),1,6
+1684,Donald MACKENZIE (Con),Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
 1685,Michael GREGSON (Lab),Donald MACKENZIE (Con),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1686,Michael GREGSON (Lab),Donald MACKENZIE (Con),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
 1687,Michael GREGSON (Lab),Donald MACKENZIE (Con),Andrew BARNETT (Grn),skipped,skipped,skipped,1,6
@@ -1702,8 +1702,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1700,Andrew BARNETT (Grn),Michael GREGSON (Lab),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
 1701,Andrew BARNETT (Grn),Michael GREGSON (Lab),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
 1702,Andrew BARNETT (Grn),Michael GREGSON (Lab),Martin MACGREGOR (SNP),skipped,skipped,skipped,1,6
-1703,Michael GREGSON (Lab),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),1,6
-1704,Michael GREGSON (Lab),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK,Martin MACGREGOR (SNP),Andrew BARNETT (Grn),1,6
+1703,Michael GREGSON (Lab),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),1,6
+1704,Michael GREGSON (Lab),Donald MACKENZIE (Con),Chris LEWCOCK (LD),Iain RICHMOND Reform UK (UNKNOWN),Martin MACGREGOR (SNP),Andrew BARNETT (Grn),1,6
 1705,Andrew BARNETT (Grn),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
 1706,Andrew BARNETT (Grn),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
 1707,Andrew BARNETT (Grn),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
@@ -1711,8 +1711,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1709,Andrew BARNETT (Grn),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
 1710,Andrew BARNETT (Grn),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
 1711,Andrew BARNETT (Grn),Chris LEWCOCK (LD),skipped,skipped,skipped,skipped,1,6
-1712,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,skipped,skipped,1,6
-1713,Michael GREGSON (Lab),Iain RICHMOND Reform UK,Donald MACKENZIE (Con),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),1,6
-1714,Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-1715,Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK,skipped,skipped,skipped,1,6
-1716,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK,Andrew BARNETT (Grn),1,6
+1712,Michael GREGSON (Lab),Chris LEWCOCK (LD),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,1,6
+1713,Michael GREGSON (Lab),Iain RICHMOND Reform UK (UNKNOWN),Donald MACKENZIE (Con),Andrew BARNETT (Grn),Martin MACGREGOR (SNP),Chris LEWCOCK (LD),1,6
+1714,Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1715,Donald MACKENZIE (Con),Andrew BARNETT (Grn),Iain RICHMOND Reform UK (UNKNOWN),skipped,skipped,skipped,1,6
+1716,Michael GREGSON (Lab),Chris LEWCOCK (LD),Martin MACGREGOR (SNP),Donald MACKENZIE (Con),Iain RICHMOND Reform UK (UNKNOWN),Andrew BARNETT (Grn),1,6

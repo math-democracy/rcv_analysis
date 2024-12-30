@@ -1,17 +1,17 @@
 voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
-0,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-2,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-3,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-4,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-5,Robert REID (Alba),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Carol MAIR (SNP),1,7
-6,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Robert REID (Alba),Carol MAIR (SNP),1,7
-7,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Robert REID (Alba),Carol MAIR (SNP),Caitlin RIPLEY (Grn),1,7
-8,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),1,7
-9,Robert REID (Alba),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-10,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Aziz REHMAN (Con),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,1,7
-11,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),1,7
-12,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
+0,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+2,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+3,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+4,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+5,Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Carol MAIR (SNP),1,7
+6,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Robert REID (Alba),Carol MAIR (SNP),1,7
+7,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Robert REID (Alba),Carol MAIR (SNP),Caitlin RIPLEY (Grn),1,7
+8,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),1,7
+9,Robert REID (Alba),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+10,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Aziz REHMAN (Con),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+11,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),1,7
+12,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
 13,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 14,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 15,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
@@ -26,7 +26,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 24,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 25,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 26,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-27,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),1,7
+27,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),1,7
 28,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 29,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 30,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
@@ -51,9 +51,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 49,Robert REID (Alba),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 50,Robert REID (Alba),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 51,Robert REID (Alba),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-52,Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Robert REID (Alba),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
-53,Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Carol MAIR (SNP),1,7
-54,Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,1,7
+52,Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Robert REID (Alba),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
+53,Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Carol MAIR (SNP),1,7
+54,Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
 55,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,1,7
 56,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 57,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
@@ -64,11 +64,11 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 62,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 63,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 64,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
-65,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),1,7
-66,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),1,7
-67,Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-68,Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-69,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Robert REID (Alba),Caitlin RIPLEY (Grn),1,7
+65,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),1,7
+66,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),1,7
+67,Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
+68,Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
+69,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Robert REID (Alba),Caitlin RIPLEY (Grn),1,7
 70,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 71,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 72,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
@@ -96,8 +96,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 94,Caitlin RIPLEY (Grn),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 95,Caitlin RIPLEY (Grn),Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 96,Caitlin RIPLEY (Grn),Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-97,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Robert REID (Alba),1,7
-98,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
+97,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Robert REID (Alba),1,7
+98,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
 99,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),skipped,skipped,1,7
 100,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 101,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
@@ -107,28 +107,28 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 105,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 106,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 107,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-108,Tina Jane NG-A-MANN (LD),Robert REID (Alba),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,skipped,skipped,1,7
+108,Tina Jane NG-A-MANN (LD),Robert REID (Alba),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,1,7
 109,Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 110,Carol MAIR (SNP),Aziz REHMAN (Con),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
 111,Carol MAIR (SNP),Aziz REHMAN (Con),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
 112,Carol MAIR (SNP),Aziz REHMAN (Con),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-113,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
-114,Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Carol MAIR (SNP),1,7
+113,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
+114,Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Carol MAIR (SNP),1,7
 115,Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 116,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 117,Robert REID (Alba),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
-118,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),1,7
-119,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),1,7
-120,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
-121,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
-122,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
-123,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),skipped,skipped,skipped,1,7
+118,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),1,7
+119,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),1,7
+120,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
+121,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
+122,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
+123,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),skipped,skipped,skipped,1,7
 124,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),skipped,skipped,skipped,1,7
-125,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),1,7
-126,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-127,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-128,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-129,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+125,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),1,7
+126,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+127,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+128,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+129,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 130,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
 131,Aziz REHMAN (Con),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 132,Aziz REHMAN (Con),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
@@ -137,21 +137,21 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 135,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 136,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 137,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
-138,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),1,7
-139,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Robert REID (Alba),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),1,7
-140,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),1,7
-141,Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Robert REID (Alba),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),1,7
+138,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),1,7
+139,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),1,7
+140,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),1,7
+141,Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Robert REID (Alba),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),1,7
 142,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,skipped,1,7
-143,Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
-144,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,1,7
-145,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-146,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-147,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-148,Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),1,7
-149,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Robert REID (Alba),Aziz REHMAN (Con),Carol MAIR (SNP),1,7
-150,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),1,7
-151,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),1,7
-152,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,1,7
+143,Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
+144,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,1,7
+145,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+146,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+147,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+148,Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),1,7
+149,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Aziz REHMAN (Con),Carol MAIR (SNP),1,7
+150,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),1,7
+151,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),1,7
+152,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
 153,Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,skipped,1,7
 154,Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,skipped,1,7
 155,Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,skipped,1,7
@@ -216,103 +216,103 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 214,Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 215,Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 216,Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
-217,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-218,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-219,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-220,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-221,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-222,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-223,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-224,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-225,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-226,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-227,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-228,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-229,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-230,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-231,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-232,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-233,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-234,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-235,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-236,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-237,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-238,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-239,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-240,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-241,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-242,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-243,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-244,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-245,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-246,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-247,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-248,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-249,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-250,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-251,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-252,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-253,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-254,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-255,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-256,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-257,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-258,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-259,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-260,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-261,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-262,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-263,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-264,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-265,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-266,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-267,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-268,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-269,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-270,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-271,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-272,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-273,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-274,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-275,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-276,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-277,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-278,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-279,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-280,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-281,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-282,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-283,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-284,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-285,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-286,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-287,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-288,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-289,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-290,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-291,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-292,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-293,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
-294,Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,skipped,1,7
+217,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+218,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+219,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+220,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+221,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+222,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+223,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+224,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+225,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+226,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+227,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+228,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+229,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+230,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+231,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+232,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+233,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+234,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+235,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+236,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+237,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+238,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+239,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+240,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+241,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+242,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+243,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+244,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+245,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+246,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+247,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+248,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+249,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+250,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+251,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+252,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+253,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+254,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+255,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+256,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+257,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+258,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+259,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+260,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+261,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+262,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+263,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+264,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+265,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+266,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+267,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+268,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+269,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+270,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+271,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+272,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+273,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+274,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+275,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+276,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+277,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+278,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+279,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+280,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+281,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+282,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+283,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+284,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+285,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+286,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+287,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+288,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+289,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+290,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+291,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+292,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+293,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
+294,Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 295,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Tina Jane NG-A-MANN (LD),skipped,skipped,1,7
 296,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 297,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 298,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-299,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-300,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-301,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-302,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-303,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-304,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-305,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-306,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-307,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
+299,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+300,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+301,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+302,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+303,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+304,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+305,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+306,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+307,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
 308,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-309,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Robert REID (Alba),1,7
-310,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),1,7
-311,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Carol MAIR (SNP),Robert REID (Alba),1,7
-312,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Robert REID (Alba),Carol MAIR (SNP),1,7
-313,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),skipped,skipped,1,7
+309,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),1,7
+310,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),1,7
+311,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Carol MAIR (SNP),Robert REID (Alba),1,7
+312,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Robert REID (Alba),Carol MAIR (SNP),1,7
+313,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),skipped,skipped,1,7
 314,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 315,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 316,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
@@ -343,12 +343,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 341,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 342,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 343,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
-344,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Sonia DAVIDSON Reform UK,1,7
-345,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Robert REID (Alba),Aziz REHMAN (Con),1,7
-346,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-347,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Robert REID (Alba),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
+344,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+345,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Aziz REHMAN (Con),1,7
+346,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+347,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
 348,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),skipped,skipped,skipped,1,7
-349,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
+349,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
 350,Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
 351,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 352,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
@@ -367,14 +367,14 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 365,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 366,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 367,Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,1,7
-368,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Robert REID (Alba),Aziz REHMAN (Con),Carol MAIR (SNP),1,7
+368,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Robert REID (Alba),Aziz REHMAN (Con),Carol MAIR (SNP),1,7
 369,Caitlin RIPLEY (Grn),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
 370,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-371,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),1,7
-372,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),1,7
-373,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),1,7
-374,Robert REID (Alba),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Carol MAIR (SNP),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
-375,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Robert REID (Alba),Sonia DAVIDSON Reform UK,1,7
+371,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),1,7
+372,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),1,7
+373,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),1,7
+374,Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Carol MAIR (SNP),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
+375,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
 376,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,1,7
 377,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 378,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
@@ -386,12 +386,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 384,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 385,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 386,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
-387,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),1,7
-388,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),1,7
-389,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),1,7
-390,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),1,7
-391,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,1,7
-392,Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),1,7
+387,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),1,7
+388,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),1,7
+389,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),1,7
+390,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),1,7
+391,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+392,Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),1,7
 393,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 394,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 395,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
@@ -399,9 +399,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 397,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 398,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 399,Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),skipped,skipped,skipped,1,7
-400,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),1,7
-401,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),1,7
-402,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Carol MAIR (SNP),Robert REID (Alba),1,7
+400,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),1,7
+401,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),1,7
+402,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Carol MAIR (SNP),Robert REID (Alba),1,7
 403,Carol MAIR (SNP),Robert REID (Alba),skipped,skipped,skipped,skipped,skipped,1,7
 404,Carol MAIR (SNP),Robert REID (Alba),skipped,skipped,skipped,skipped,skipped,1,7
 405,Carol MAIR (SNP),Robert REID (Alba),skipped,skipped,skipped,skipped,skipped,1,7
@@ -452,17 +452,17 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 450,Carol MAIR (SNP),Robert REID (Alba),skipped,skipped,skipped,skipped,skipped,1,7
 451,Carol MAIR (SNP),Robert REID (Alba),skipped,skipped,skipped,skipped,skipped,1,7
 452,Carol MAIR (SNP),Robert REID (Alba),skipped,skipped,skipped,skipped,skipped,1,7
-453,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Robert REID (Alba),Carol MAIR (SNP),1,7
+453,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Robert REID (Alba),Carol MAIR (SNP),1,7
 454,Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
-455,Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),skipped,skipped,skipped,1,7
+455,Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),skipped,skipped,skipped,1,7
 456,Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-457,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),1,7
-458,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Caitlin RIPLEY (Grn),1,7
-459,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Robert REID (Alba),Sonia DAVIDSON Reform UK,Carol MAIR (SNP),1,7
+457,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),1,7
+458,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Caitlin RIPLEY (Grn),1,7
+459,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),1,7
 460,Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-461,Carol MAIR (SNP),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),1,7
-462,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK,1,7
-463,Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Aziz REHMAN (Con),1,7
+461,Carol MAIR (SNP),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),1,7
+462,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+463,Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Aziz REHMAN (Con),1,7
 464,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
 465,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
 466,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
@@ -479,21 +479,21 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 477,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
 478,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
 479,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
-480,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,1,7
+480,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,1,7
 481,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,1,7
-482,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
-483,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
-484,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
-485,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
-486,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
-487,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
-488,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
-489,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
-490,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
-491,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
-492,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
-493,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
-494,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
+482,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
+483,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
+484,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
+485,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
+486,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
+487,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
+488,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
+489,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
+490,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
+491,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
+492,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
+493,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
+494,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
 495,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 496,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 497,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
@@ -512,32 +512,32 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 510,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 511,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 512,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-513,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-514,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-515,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-516,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-517,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-518,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-519,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-520,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-521,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Robert REID (Alba),1,7
-522,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
+513,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+514,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+515,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+516,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+517,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+518,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+519,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+520,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+521,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Robert REID (Alba),1,7
+522,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
 523,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-524,Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-525,Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-526,Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-527,Robert REID (Alba),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),1,7
-528,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
-529,Sonia DAVIDSON Reform UK,Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-530,Sonia DAVIDSON Reform UK,Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-531,Sonia DAVIDSON Reform UK,Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-532,Sonia DAVIDSON Reform UK,Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-533,Sonia DAVIDSON Reform UK,Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-534,Sonia DAVIDSON Reform UK,Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-535,Sonia DAVIDSON Reform UK,Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-536,Sonia DAVIDSON Reform UK,Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-537,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Robert REID (Alba),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),1,7
-538,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Robert REID (Alba),1,7
+524,Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
+525,Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
+526,Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
+527,Robert REID (Alba),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),1,7
+528,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
+529,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
+530,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
+531,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
+532,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
+533,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
+534,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
+535,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
+536,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
+537,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),1,7
+538,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Robert REID (Alba),1,7
 539,Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 540,Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 541,Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,skipped,1,7
@@ -891,15 +891,15 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 889,Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 890,Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 891,Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,skipped,1,7
-892,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-893,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-894,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-895,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-896,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-897,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,1,7
-898,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-899,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-900,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+892,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+893,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+894,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+895,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+896,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+897,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,1,7
+898,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+899,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+900,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 901,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
 902,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
 903,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
@@ -1059,30 +1059,30 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1057,Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 1058,Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 1059,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Robert REID (Alba),skipped,skipped,skipped,1,7
-1060,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-1061,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-1062,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-1063,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-1064,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-1065,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-1066,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-1067,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Caitlin RIPLEY (Grn),1,7
-1068,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Caitlin RIPLEY (Grn),1,7
+1060,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
+1061,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
+1062,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
+1063,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
+1064,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
+1065,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
+1066,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
+1067,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),1,7
+1068,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),1,7
 1069,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),skipped,skipped,skipped,1,7
 1070,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),skipped,skipped,skipped,1,7
 1071,Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 1072,Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 1073,Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1074,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
-1075,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Carol MAIR (SNP),1,7
-1076,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Carol MAIR (SNP),1,7
-1077,Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),1,7
+1074,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
+1075,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Carol MAIR (SNP),1,7
+1076,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Carol MAIR (SNP),1,7
+1077,Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),1,7
 1078,Carol MAIR (SNP),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 1079,Carol MAIR (SNP),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 1080,Carol MAIR (SNP),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 1081,Carol MAIR (SNP),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
-1082,Robert REID (Alba),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
-1083,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Robert REID (Alba),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,1,7
+1082,Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
+1083,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Robert REID (Alba),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
 1084,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
 1085,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
 1086,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
@@ -1126,47 +1126,47 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1124,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,skipped,1,7
 1125,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,skipped,1,7
 1126,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,skipped,1,7
-1127,Sonia DAVIDSON Reform UK,Robert REID (Alba),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),1,7
+1127,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),1,7
 1128,Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-1129,Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1129,Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 1130,Robert REID (Alba),Aziz REHMAN (Con),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 1131,Robert REID (Alba),Aziz REHMAN (Con),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-1132,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-1133,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-1134,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-1135,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
-1136,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
-1137,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Robert REID (Alba),Aziz REHMAN (Con),1,7
-1138,Robert REID (Alba),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,1,7
-1139,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-1140,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-1141,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
+1132,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
+1133,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
+1134,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
+1135,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
+1136,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
+1137,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Robert REID (Alba),Aziz REHMAN (Con),1,7
+1138,Robert REID (Alba),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1139,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1140,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1141,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
 1142,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
 1143,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
 1144,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
-1145,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-1146,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-1147,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
-1148,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
-1149,Robert REID (Alba),Sonia DAVIDSON Reform UK,Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-1150,Robert REID (Alba),Sonia DAVIDSON Reform UK,Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-1151,Robert REID (Alba),Sonia DAVIDSON Reform UK,Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-1152,Robert REID (Alba),Sonia DAVIDSON Reform UK,Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-1153,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-1154,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-1155,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-1156,Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-1157,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Aziz REHMAN (Con),1,7
-1158,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Aziz REHMAN (Con),1,7
-1159,Caitlin RIPLEY (Grn),Robert REID (Alba),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-1160,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
-1161,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
-1162,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
-1163,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
-1164,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
-1165,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
+1145,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+1146,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+1147,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
+1148,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
+1149,Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
+1150,Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
+1151,Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
+1152,Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
+1153,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+1154,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+1155,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+1156,Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
+1157,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Aziz REHMAN (Con),1,7
+1158,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Aziz REHMAN (Con),1,7
+1159,Caitlin RIPLEY (Grn),Robert REID (Alba),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1160,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
+1161,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
+1162,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
+1163,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
+1164,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
+1165,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 1166,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,1,7
-1167,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Robert REID (Alba),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),1,7
+1167,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),1,7
 1168,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 1169,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 1170,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
@@ -1181,13 +1181,13 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1179,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 1180,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 1181,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
-1182,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-1183,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-1184,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-1185,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-1186,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-1187,Robert REID (Alba),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Carol MAIR (SNP),1,7
-1188,Carol MAIR (SNP),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),1,7
+1182,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+1183,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+1184,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+1185,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+1186,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+1187,Robert REID (Alba),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Carol MAIR (SNP),1,7
+1188,Carol MAIR (SNP),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),1,7
 1189,Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 1190,Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 1191,Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,skipped,skipped,1,7
@@ -1204,9 +1204,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1202,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 1203,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 1204,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-1205,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Robert REID (Alba),skipped,skipped,1,7
-1206,Robert REID (Alba),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
-1207,Robert REID (Alba),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),1,7
+1205,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Robert REID (Alba),skipped,skipped,1,7
+1206,Robert REID (Alba),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
+1207,Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),1,7
 1208,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1209,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1210,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
@@ -1214,20 +1214,20 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1212,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1213,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1214,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),skipped,skipped,skipped,1,7
-1215,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,1,7
-1216,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,1,7
-1217,Carol MAIR (SNP),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
-1218,Carol MAIR (SNP),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
-1219,Carol MAIR (SNP),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
-1220,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-1221,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-1222,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
+1215,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1216,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1217,Carol MAIR (SNP),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
+1218,Carol MAIR (SNP),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
+1219,Carol MAIR (SNP),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
+1220,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
+1221,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
+1222,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 1223,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 1224,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 1225,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 1226,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1227,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
-1228,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
+1227,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
+1228,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
 1229,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
 1230,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
 1231,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
@@ -1244,17 +1244,17 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1242,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
 1243,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
 1244,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-1245,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK,1,7
+1245,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
 1246,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 1247,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 1248,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 1249,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-1250,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Robert REID (Alba),Caitlin RIPLEY (Grn),1,7
-1251,Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
-1252,Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
-1253,Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
-1254,Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
-1255,Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
+1250,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Caitlin RIPLEY (Grn),1,7
+1251,Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
+1252,Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
+1253,Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
+1254,Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
+1255,Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,1,7
 1256,Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
 1257,Aziz REHMAN (Con),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 1258,Aziz REHMAN (Con),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
@@ -1265,12 +1265,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1263,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,1,7
 1264,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,1,7
 1265,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,1,7
-1266,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Caitlin RIPLEY (Grn),Carol MAIR (SNP),1,7
+1266,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Caitlin RIPLEY (Grn),Carol MAIR (SNP),1,7
 1267,Robert REID (Alba),Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1268,Robert REID (Alba),Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1269,Robert REID (Alba),Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-1270,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Robert REID (Alba),Carol MAIR (SNP),1,7
-1271,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Robert REID (Alba),Caitlin RIPLEY (Grn),1,7
+1270,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Robert REID (Alba),Carol MAIR (SNP),1,7
+1271,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Robert REID (Alba),Caitlin RIPLEY (Grn),1,7
 1272,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,1,7
 1273,Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 1274,Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,skipped,1,7
@@ -1380,9 +1380,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1378,Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 1379,Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 1380,Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,skipped,skipped,1,7
-1381,Robert REID (Alba),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-1382,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Robert REID (Alba),1,7
-1383,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
+1381,Robert REID (Alba),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1382,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),1,7
+1383,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
 1384,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
 1385,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
 1386,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
@@ -1391,16 +1391,16 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1389,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
 1390,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
 1391,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
-1392,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Robert REID (Alba),1,7
-1393,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK,1,7
-1394,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Robert REID (Alba),Aziz REHMAN (Con),1,7
-1395,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Robert REID (Alba),Aziz REHMAN (Con),1,7
+1392,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),1,7
+1393,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1394,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Aziz REHMAN (Con),1,7
+1395,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Aziz REHMAN (Con),1,7
 1396,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,1,7
 1397,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,1,7
 1398,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,1,7
-1399,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Carol MAIR (SNP),skipped,skipped,skipped,1,7
-1400,Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,skipped,1,7
-1401,Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Carol MAIR (SNP),1,7
+1399,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),skipped,skipped,skipped,1,7
+1400,Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,skipped,1,7
+1401,Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),1,7
 1402,Carol MAIR (SNP),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
 1403,Carol MAIR (SNP),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
 1404,Carol MAIR (SNP),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
@@ -1408,16 +1408,16 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1406,Carol MAIR (SNP),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
 1407,Carol MAIR (SNP),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
 1408,Carol MAIR (SNP),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
-1409,Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1410,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1411,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1412,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-1413,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1414,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1415,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),1,7
-1416,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),1,7
-1417,Robert REID (Alba),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-1418,Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
+1409,Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1410,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1411,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1412,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
+1413,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1414,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1415,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),1,7
+1416,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),1,7
+1417,Robert REID (Alba),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1418,Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
 1419,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 1420,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 1421,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
@@ -1455,28 +1455,28 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1453,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 1454,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 1455,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-1456,Robert REID (Alba),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),1,7
-1457,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),skipped,skipped,skipped,1,7
-1458,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
-1459,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
-1460,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
-1461,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
-1462,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
+1456,Robert REID (Alba),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),1,7
+1457,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),skipped,skipped,skipped,1,7
+1458,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
+1459,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
+1460,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
+1461,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
+1462,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 1463,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
 1464,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
 1465,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
 1466,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
-1467,Aziz REHMAN (Con),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
+1467,Aziz REHMAN (Con),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
 1468,Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,1,7
 1469,Robert REID (Alba),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 1470,Robert REID (Alba),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 1471,Robert REID (Alba),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 1472,Robert REID (Alba),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 1473,Robert REID (Alba),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
-1474,Sonia DAVIDSON Reform UK,Robert REID (Alba),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),1,7
-1475,Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Aziz REHMAN (Con),1,7
-1476,Sonia DAVIDSON Reform UK,Robert REID (Alba),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Caitlin RIPLEY (Grn),1,7
-1477,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
+1474,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),1,7
+1475,Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Aziz REHMAN (Con),1,7
+1476,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Caitlin RIPLEY (Grn),1,7
+1477,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
 1478,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
 1479,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
 1480,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
@@ -1490,15 +1490,15 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1488,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
 1489,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
 1490,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
-1491,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1492,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1493,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1494,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1495,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-1496,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
-1497,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),1,7
+1491,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1492,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1493,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1494,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1495,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1496,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
+1497,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),1,7
 1498,Aziz REHMAN (Con),Robert REID (Alba),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1499,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Robert REID (Alba),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),1,7
+1499,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
 1500,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
 1501,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
 1502,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
@@ -1506,25 +1506,25 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1504,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
 1505,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
 1506,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
-1507,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
-1508,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
-1509,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
-1510,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
-1511,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
-1512,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
-1513,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
+1507,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
+1508,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
+1509,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
+1510,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
+1511,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
+1512,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
+1513,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
 1514,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),skipped,skipped,skipped,1,7
-1515,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
+1515,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
 1516,Caitlin RIPLEY (Grn),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
 1517,Caitlin RIPLEY (Grn),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
 1518,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Robert REID (Alba),skipped,skipped,skipped,1,7
-1519,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Robert REID (Alba),Carol MAIR (SNP),1,7
-1520,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1521,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1522,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1523,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1524,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1525,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
+1519,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Carol MAIR (SNP),1,7
+1520,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1521,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1522,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1523,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1524,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1525,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
 1526,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
 1527,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
 1528,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
@@ -1532,16 +1532,16 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1530,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
 1531,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
 1532,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
-1533,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1534,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1535,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-1536,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-1537,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Aziz REHMAN (Con),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),1,7
-1538,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),1,7
-1539,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-1540,Aziz REHMAN (Con),Carol MAIR (SNP),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),1,7
+1533,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1534,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1535,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1536,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1537,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Aziz REHMAN (Con),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),1,7
+1538,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),1,7
+1539,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1540,Aziz REHMAN (Con),Carol MAIR (SNP),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),1,7
 1541,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Aziz REHMAN (Con),Robert REID (Alba),skipped,skipped,skipped,1,7
-1542,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),1,7
+1542,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),1,7
 1543,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1544,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1545,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
@@ -1556,87 +1556,87 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1554,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1555,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1556,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-1557,Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
-1558,Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1559,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),1,7
-1560,Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1561,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Robert REID (Alba),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),1,7
-1562,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1563,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1564,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1565,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1566,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1567,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1568,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1569,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1570,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1571,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1572,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1573,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1574,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1575,Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),1,7
-1576,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,1,7
-1577,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
-1578,Sonia DAVIDSON Reform UK,Robert REID (Alba),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-1579,Sonia DAVIDSON Reform UK,Robert REID (Alba),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-1580,Sonia DAVIDSON Reform UK,Robert REID (Alba),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-1581,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1582,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
-1583,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-1584,Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
-1585,Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
-1586,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-1587,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
+1557,Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
+1558,Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1559,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),1,7
+1560,Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1561,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),1,7
+1562,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1563,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1564,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1565,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1566,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1567,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1568,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1569,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1570,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1571,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1572,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1573,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1574,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1575,Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),1,7
+1576,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1577,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
+1578,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+1579,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+1580,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+1581,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1582,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
+1583,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
+1584,Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
+1585,Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
+1586,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1587,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
 1588,Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,skipped,1,7
-1589,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Aziz REHMAN (Con),Robert REID (Alba),1,7
-1590,Aziz REHMAN (Con),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,1,7
-1591,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-1592,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Robert REID (Alba),1,7
+1589,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Aziz REHMAN (Con),Robert REID (Alba),1,7
+1590,Aziz REHMAN (Con),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1591,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1592,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Robert REID (Alba),1,7
 1593,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
 1594,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
-1595,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
-1596,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
-1597,Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),skipped,1,7
-1598,Sonia DAVIDSON Reform UK,Robert REID (Alba),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1599,Sonia DAVIDSON Reform UK,Robert REID (Alba),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1600,Sonia DAVIDSON Reform UK,Robert REID (Alba),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1601,Sonia DAVIDSON Reform UK,Robert REID (Alba),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1602,Carol MAIR (SNP),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),1,7
-1603,Carol MAIR (SNP),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),1,7
-1604,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Carol MAIR (SNP),Caitlin RIPLEY (Grn),1,7
-1605,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Carol MAIR (SNP),Caitlin RIPLEY (Grn),1,7
-1606,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Robert REID (Alba),Tina Jane NG-A-MANN (LD),1,7
-1607,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Sonia DAVIDSON Reform UK,1,7
+1595,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
+1596,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
+1597,Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),skipped,1,7
+1598,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1599,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1600,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1601,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1602,Carol MAIR (SNP),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),1,7
+1603,Carol MAIR (SNP),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),1,7
+1604,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Carol MAIR (SNP),Caitlin RIPLEY (Grn),1,7
+1605,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Carol MAIR (SNP),Caitlin RIPLEY (Grn),1,7
+1606,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Tina Jane NG-A-MANN (LD),1,7
+1607,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
 1608,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
 1609,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,1,7
 1610,Carol MAIR (SNP),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
 1611,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),skipped,skipped,skipped,1,7
 1612,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1613,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-1614,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1615,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1616,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1617,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1618,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1619,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1620,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1621,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1622,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1623,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1624,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1625,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1626,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1627,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1628,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1629,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1630,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1631,Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
+1614,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1615,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1616,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1617,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1618,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1619,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1620,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1621,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1622,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1623,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1624,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1625,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1626,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1627,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1628,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1629,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1630,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1631,Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
 1632,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,1,7
 1633,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,1,7
-1634,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),1,7
-1635,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),1,7
-1636,Aziz REHMAN (Con),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,skipped,skipped,1,7
-1637,Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Carol MAIR (SNP),1,7
+1634,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),1,7
+1635,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),1,7
+1636,Aziz REHMAN (Con),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,1,7
+1637,Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Carol MAIR (SNP),1,7
 1638,Robert REID (Alba),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 1639,Robert REID (Alba),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 1640,Robert REID (Alba),skipped,skipped,skipped,skipped,skipped,skipped,1,7
@@ -1690,12 +1690,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1688,Robert REID (Alba),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 1689,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),skipped,skipped,1,7
 1690,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,skipped,1,7
-1691,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-1692,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-1693,Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),1,7
-1694,Sonia DAVIDSON Reform UK,Robert REID (Alba),skipped,skipped,skipped,skipped,skipped,1,7
-1695,Sonia DAVIDSON Reform UK,Robert REID (Alba),skipped,skipped,skipped,skipped,skipped,1,7
-1696,Sonia DAVIDSON Reform UK,Robert REID (Alba),skipped,skipped,skipped,skipped,skipped,1,7
+1691,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1692,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1693,Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),1,7
+1694,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),skipped,skipped,skipped,skipped,skipped,1,7
+1695,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),skipped,skipped,skipped,skipped,skipped,1,7
+1696,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),skipped,skipped,skipped,skipped,skipped,1,7
 1697,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1698,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1699,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
@@ -1706,8 +1706,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1704,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1705,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1706,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Caitlin RIPLEY (Grn),skipped,skipped,1,7
-1707,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Carol MAIR (SNP),1,7
-1708,Aziz REHMAN (Con),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,1,7
+1707,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),1,7
+1708,Aziz REHMAN (Con),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
 1709,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 1710,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 1711,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,skipped,1,7
@@ -1734,49 +1734,49 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1732,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 1733,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,skipped,1,7
 1734,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,skipped,1,7
-1735,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
-1736,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
-1737,Robert REID (Alba),Caitlin RIPLEY (Grn),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,1,7
-1738,Robert REID (Alba),Caitlin RIPLEY (Grn),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,1,7
-1739,Robert REID (Alba),Caitlin RIPLEY (Grn),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,1,7
-1740,Robert REID (Alba),Caitlin RIPLEY (Grn),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,1,7
-1741,Caitlin RIPLEY (Grn),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Aziz REHMAN (Con),1,7
-1742,Robert REID (Alba),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1743,Robert REID (Alba),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1744,Robert REID (Alba),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1745,Robert REID (Alba),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1746,Robert REID (Alba),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
+1735,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
+1736,Carol MAIR (SNP),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
+1737,Robert REID (Alba),Caitlin RIPLEY (Grn),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,1,7
+1738,Robert REID (Alba),Caitlin RIPLEY (Grn),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,1,7
+1739,Robert REID (Alba),Caitlin RIPLEY (Grn),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,1,7
+1740,Robert REID (Alba),Caitlin RIPLEY (Grn),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,1,7
+1741,Caitlin RIPLEY (Grn),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Aziz REHMAN (Con),1,7
+1742,Robert REID (Alba),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1743,Robert REID (Alba),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1744,Robert REID (Alba),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1745,Robert REID (Alba),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1746,Robert REID (Alba),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
 1747,Robert REID (Alba),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 1748,Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1749,Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1750,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Robert REID (Alba),Tina Jane NG-A-MANN (LD),skipped,skipped,1,7
-1751,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
+1751,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
 1752,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 1753,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 1754,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 1755,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 1756,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 1757,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
-1758,Aziz REHMAN (Con),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),1,7
-1759,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Robert REID (Alba),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
+1758,Aziz REHMAN (Con),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
+1759,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
 1760,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,1,7
 1761,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,1,7
 1762,Aziz REHMAN (Con),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 1763,Aziz REHMAN (Con),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 1764,Aziz REHMAN (Con),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1765,Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Aziz REHMAN (Con),1,7
-1766,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1767,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1768,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Robert REID (Alba),Sonia DAVIDSON Reform UK,Carol MAIR (SNP),1,7
-1769,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,1,7
-1770,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),1,7
-1771,Robert REID (Alba),Caitlin RIPLEY (Grn),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
-1772,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Robert REID (Alba),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),1,7
-1773,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Carol MAIR (SNP),1,7
-1774,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,1,7
+1765,Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Aziz REHMAN (Con),1,7
+1766,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1767,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1768,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),1,7
+1769,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1770,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),1,7
+1771,Robert REID (Alba),Caitlin RIPLEY (Grn),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
+1772,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),1,7
+1773,Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Carol MAIR (SNP),1,7
+1774,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,1,7
 1775,Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
 1776,Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-1777,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
+1777,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
 1778,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1779,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1780,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
@@ -1822,15 +1822,15 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1820,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1821,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 1822,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-1823,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
-1824,Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
-1825,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Robert REID (Alba),Sonia DAVIDSON Reform UK,1,7
-1826,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Robert REID (Alba),Caitlin RIPLEY (Grn),1,7
+1823,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
+1824,Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
+1825,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1826,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Robert REID (Alba),Caitlin RIPLEY (Grn),1,7
 1827,Robert REID (Alba),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
-1828,Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1829,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Robert REID (Alba),Caitlin RIPLEY (Grn),1,7
+1828,Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1829,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Caitlin RIPLEY (Grn),1,7
 1830,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
-1831,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
+1831,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 1832,Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 1833,Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 1834,Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
@@ -1847,27 +1847,27 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1845,Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 1846,Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 1847,Robert REID (Alba),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
-1848,Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-1849,Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-1850,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
-1851,Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1852,Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1853,Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1854,Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1855,Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1856,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
+1848,Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+1849,Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+1850,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
+1851,Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1852,Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1853,Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1854,Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1855,Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1856,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
 1857,Robert REID (Alba),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),skipped,1,7
-1858,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Robert REID (Alba),1,7
+1858,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),1,7
 1859,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
 1860,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-1861,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Sonia DAVIDSON Reform UK,1,7
-1862,Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),1,7
-1863,Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Robert REID (Alba),Carol MAIR (SNP),1,7
-1864,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
-1865,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
-1866,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
+1861,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1862,Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),1,7
+1863,Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Robert REID (Alba),Carol MAIR (SNP),1,7
+1864,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
+1865,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1866,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
 1867,Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),skipped,skipped,1,7
-1868,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,1,7
+1868,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,1,7
 1869,Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 1870,Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 1871,Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
@@ -1883,9 +1883,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1881,Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 1882,Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
 1883,Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,skipped,skipped,skipped,1,7
-1884,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
-1885,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Robert REID (Alba),Sonia DAVIDSON Reform UK,1,7
-1886,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Caitlin RIPLEY (Grn),1,7
+1884,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
+1885,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1886,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Caitlin RIPLEY (Grn),1,7
 1887,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 1888,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 1889,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
@@ -1903,12 +1903,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1901,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 1902,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 1903,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
-1904,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Robert REID (Alba),Caitlin RIPLEY (Grn),Carol MAIR (SNP),1,7
-1905,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
-1906,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
-1907,Sonia DAVIDSON Reform UK,Robert REID (Alba),Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,skipped,1,7
-1908,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Robert REID (Alba),Carol MAIR (SNP),Sonia DAVIDSON Reform UK,1,7
-1909,Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
+1904,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Robert REID (Alba),Caitlin RIPLEY (Grn),Carol MAIR (SNP),1,7
+1905,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
+1906,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
+1907,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,skipped,1,7
+1908,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Robert REID (Alba),Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),1,7
+1909,Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 1910,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
 1911,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
 1912,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
@@ -1916,18 +1916,18 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1914,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
 1915,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
 1916,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
-1917,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Robert REID (Alba),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Carol MAIR (SNP),1,7
-1918,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),1,7
-1919,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Robert REID (Alba),1,7
-1920,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Robert REID (Alba),1,7
+1917,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Caitlin RIPLEY (Grn),Aziz REHMAN (Con),Carol MAIR (SNP),1,7
+1918,Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),1,7
+1919,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Robert REID (Alba),1,7
+1920,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Robert REID (Alba),1,7
 1921,Aziz REHMAN (Con),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,skipped,1,7
 1922,Aziz REHMAN (Con),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,skipped,1,7
-1923,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Robert REID (Alba),1,7
+1923,Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),1,7
 1924,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,1,7
 1925,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,1,7
 1926,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Caitlin RIPLEY (Grn),skipped,skipped,skipped,1,7
-1927,Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),1,7
-1928,Robert REID (Alba),Caitlin RIPLEY (Grn),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),1,7
+1927,Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),1,7
+1928,Robert REID (Alba),Caitlin RIPLEY (Grn),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),1,7
 1929,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Carol MAIR (SNP),Caitlin RIPLEY (Grn),skipped,skipped,skipped,1,7
 1930,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
 1931,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
@@ -1939,83 +1939,83 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1937,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
 1938,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,1,7
 1939,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),skipped,skipped,skipped,1,7
-1940,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1941,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1942,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1943,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1944,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1940,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1941,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1942,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1943,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
+1944,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 1945,Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 1946,Aziz REHMAN (Con),Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 1947,Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,1,7
-1948,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1949,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1950,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1951,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1952,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1953,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1954,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1955,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1956,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1957,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1958,Robert REID (Alba),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1959,Robert REID (Alba),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,skipped,1,7
-1960,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,1,7
-1961,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Carol MAIR (SNP),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
-1962,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
+1948,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1949,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1950,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1951,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1952,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1953,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1954,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1955,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1956,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1957,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1958,Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1959,Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,skipped,1,7
+1960,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,1,7
+1961,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Carol MAIR (SNP),Aziz REHMAN (Con),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
+1962,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
 1963,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
 1964,Carol MAIR (SNP),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,1,7
-1965,Robert REID (Alba),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-1966,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),1,7
-1967,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
-1968,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
+1965,Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
+1966,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Robert REID (Alba),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),1,7
+1967,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
+1968,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),1,7
 1969,Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 1970,Kirsten NKWOCHA-DYER Scottish (Lab),Robert REID (Alba),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1971,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1972,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1973,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1974,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1975,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1976,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1977,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1978,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1979,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
+1971,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1972,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1973,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1974,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1975,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1976,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1977,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1978,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1979,Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
 1980,Carol MAIR (SNP),Robert REID (Alba),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 1981,Carol MAIR (SNP),Robert REID (Alba),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 1982,Carol MAIR (SNP),Robert REID (Alba),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 1983,Carol MAIR (SNP),Robert REID (Alba),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
 1984,Carol MAIR (SNP),Robert REID (Alba),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,1,7
-1985,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1986,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1987,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1988,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
+1985,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1986,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1987,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1988,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
 1989,Caitlin RIPLEY (Grn),Carol MAIR (SNP),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
 1990,Caitlin RIPLEY (Grn),Carol MAIR (SNP),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
 1991,Robert REID (Alba),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
 1992,Robert REID (Alba),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,skipped,1,7
 1993,Aziz REHMAN (Con),Carol MAIR (SNP),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-1994,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),1,7
-1995,Carol MAIR (SNP),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-1996,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
-1997,Sonia DAVIDSON Reform UK,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
-1998,Sonia DAVIDSON Reform UK,Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
-1999,Sonia DAVIDSON Reform UK,Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
-2000,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
-2001,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
-2002,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
-2003,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
-2004,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
-2005,Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
+1994,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),1,7
+1995,Carol MAIR (SNP),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+1996,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
+1997,Sonia DAVIDSON Reform UK (UNKNOWN),Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
+1998,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
+1999,Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),skipped,skipped,skipped,skipped,1,7
+2000,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
+2001,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
+2002,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
+2003,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
+2004,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
+2005,Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),skipped,skipped,skipped,skipped,skipped,1,7
 2006,Robert REID (Alba),Caitlin RIPLEY (Grn),Carol MAIR (SNP),skipped,skipped,skipped,skipped,1,7
 2007,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,1,7
 2008,Carol MAIR (SNP),Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,1,7
-2009,Carol MAIR (SNP),Sonia DAVIDSON Reform UK,Caitlin RIPLEY (Grn),Robert REID (Alba),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
-2010,Caitlin RIPLEY (Grn),Robert REID (Alba),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
+2009,Carol MAIR (SNP),Sonia DAVIDSON Reform UK (UNKNOWN),Caitlin RIPLEY (Grn),Robert REID (Alba),Aziz REHMAN (Con),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),1,7
+2010,Caitlin RIPLEY (Grn),Robert REID (Alba),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
 2011,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),skipped,skipped,skipped,1,7
 2012,Carol MAIR (SNP),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 2013,Carol MAIR (SNP),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 2014,Carol MAIR (SNP),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 2015,Carol MAIR (SNP),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-2016,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK,Aziz REHMAN (Con),Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),1,7
+2016,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Sonia DAVIDSON Reform UK (UNKNOWN),Aziz REHMAN (Con),Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),1,7
 2017,Carol MAIR (SNP),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),Caitlin RIPLEY (Grn),skipped,skipped,skipped,1,7
 2018,Carol MAIR (SNP),Robert REID (Alba),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
 2019,Carol MAIR (SNP),Robert REID (Alba),Aziz REHMAN (Con),skipped,skipped,skipped,skipped,1,7
@@ -2024,9 +2024,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 2022,Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,skipped,1,7
 2023,Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,skipped,1,7
 2024,Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,skipped,1,7
-2025,Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,skipped,skipped,skipped,skipped,1,7
-2026,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),1,7
-2027,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Carol MAIR (SNP),1,7
+2025,Robert REID (Alba),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),skipped,skipped,skipped,skipped,1,7
+2026,Carol MAIR (SNP),Robert REID (Alba),Caitlin RIPLEY (Grn),Kirsten NKWOCHA-DYER Scottish (Lab),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Aziz REHMAN (Con),1,7
+2027,Kirsten NKWOCHA-DYER Scottish (Lab),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),Robert REID (Alba),Carol MAIR (SNP),1,7
 2028,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 2029,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 2030,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
@@ -2046,6 +2046,6 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 2044,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 2045,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
 2046,Kirsten NKWOCHA-DYER Scottish (Lab),Tina Jane NG-A-MANN (LD),Caitlin RIPLEY (Grn),skipped,skipped,skipped,skipped,1,7
-2047,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-2048,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
-2049,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Carol MAIR (SNP),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK,1,7
+2047,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
+2048,Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),Robert REID (Alba),skipped,skipped,skipped,skipped,1,7
+2049,Kirsten NKWOCHA-DYER Scottish (Lab),Caitlin RIPLEY (Grn),Tina Jane NG-A-MANN (LD),Robert REID (Alba),Carol MAIR (SNP),Aziz REHMAN (Con),Sonia DAVIDSON Reform UK (UNKNOWN),1,7

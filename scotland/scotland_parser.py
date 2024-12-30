@@ -112,14 +112,14 @@ def normalize_parties(party):
         (r'West Dunbartonshire Community Party|West Dunbartonshire|\bWDuns\b|\bWDCP\b', '(WDuns)')
     ]
     
-    # print("old", party)
     for pattern, replacement in replacements:
         if re.search(pattern, party):
             party = re.sub(pattern, replacement, party)
             break
+    else:  
+        return (party + " (UNKNOWN)")
     
     party = party.replace('((', '(').replace('))', ')').replace('  ', '').replace(',', '')
-    # print("new", party)
     return party
 
 def validation_test(data):
@@ -150,6 +150,6 @@ def parser(infilepath, output_folder):
     print("Data exported to " + outfilepath)    
 
 
-# test_file = '/Users/belle/Downloads/Scotland data, LEAP parties/e-ayrshire22/Ward2.csv'
+# test_file = '/Users/belle/Downloads/Scotland data, LEAP parties/n-lanarks22/Preference Profile WArd 7 Coatbridge North.csv'
 
 # parser(test_file, './data')
