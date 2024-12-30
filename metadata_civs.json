@@ -1,6 +1,7 @@
 {
     "elections_per_country": {
-        "civs": 521
+        "civs": 521,
+        "total": 521
     },
     "winners_per_election": {
         "civs": [
@@ -29,39 +30,19 @@
     "votes_per_election": {
         "civs": [
             {
-                "voter_category": 200,
-                "voter_category_count": 437
-            },
-            {
-                "voter_category": 400,
-                "voter_category_count": 42
-            },
-            {
-                "voter_category": 600,
-                "voter_category_count": 26
-            },
-            {
-                "voter_category": 800,
-                "voter_category_count": 10
-            },
-            {
                 "voter_category": 1000,
+                "voter_category_count": 517
+            },
+            {
+                "voter_category": 2000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 3000,
                 "voter_category_count": 2
             },
             {
-                "voter_category": 1600,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 2400,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 2600,
-                "voter_category_count": 1
-            },
-            {
-                "voter_category": 6600,
+                "voter_category": 7000,
                 "voter_category_count": 1
             }
         ]

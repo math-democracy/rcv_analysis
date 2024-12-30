@@ -9,11 +9,11 @@ import json
 #      helper methods      #
 ############################
 
-root_dir = '/Users/belle/Desktop/build/rcv_proposal/civs' # where the data is
-country = "civs" # country of the dataset
+root_dir = '/Users/belle/Desktop/build/rcv_proposal/american' # where the data is
+country = "america" # country of the dataset
 
-data_file = '/Users/belle/Desktop/build/rcv_proposal/metadata_civs.csv' # where you want to put the summary of each election
-metadata_file = '/Users/belle/Desktop/build/rcv_proposal/metadata_civs.json' # where you want to put the overall statistics
+data_file = '/Users/belle/Desktop/build/rcv_proposal/metadata_test2.csv' # where you want to put the summary of each election
+metadata_file = '/Users/belle/Desktop/build/rcv_proposal/metadata_test2.json' # where you want to put the overall statistics
 
 def process_files():
     data = read_folders(root_dir)
@@ -37,6 +37,7 @@ def read_file(filename):
 def get_insights(df):
     # elections per country
     elections_per_country = df['country'].value_counts().to_dict()
+    elections_per_country["total"] = df.shape[0]
 
     # num of winners per election
     winners_per_election = df.groupby(['country', 'num_seats']).size().reset_index(name='count').groupby('country').apply(lambda x: x[['num_seats', 'count']].to_dict(orient='records')).to_dict()
@@ -66,16 +67,16 @@ def get_summary_insights(df):
     top_voters = df.sort_values(by='num_voters', ascending=False).head(30)
     print(top_voters)
 
-    df['one_skipped_p'] = df['one_skipped'] / df['num_voters']
-    skipped = df[['file_name', 'num_voters', 'one_skipped', 'one_skipped_p']]
-    top_skipped = skipped.sort_values(by='one_skipped_p', ascending=False).head(30)
-    print(top_skipped)
+    # df['one_skipped_p'] = df['one_skipped'] / df['num_voters']
+    # skipped = df[['file_name', 'num_voters', 'one_skipped', 'one_skipped_p']]
+    # top_skipped = skipped.sort_values(by='one_skipped_p', ascending=False).head(30)
+    # print(top_skipped)
 
-    bottom_skipped = skipped.sort_values(by='one_skipped_p', ascending=True).head(30)
-    print(bottom_skipped)
+    # bottom_skipped = skipped.sort_values(by='one_skipped_p', ascending=True).head(30)
+    # print(bottom_skipped)
 
-
-
+    truncated = df['truncated'].sum()
+    print(truncated)
 
 #################################
 # helper methods: process files #
@@ -101,11 +102,13 @@ def get_file_data(filename, full_path):
         "no_skipped": 0,
         "one_skipped": 0,
         "two_skipped": 0,
-        "three_skipped": 0
+        "three_skipped": 0,
+        "truncated": 0
     }
    
     if filename.endswith(".csv"):
         with open(full_path, 'r') as file:
+            
             reader = csv.DictReader(file)
             rows = list(reader) 
             file_data["num_voters"] = len(rows)
@@ -120,6 +123,17 @@ def get_file_data(filename, full_path):
                 if country == "america": 
                     num_cands = rows[0].get("Num cands", None) 
                     num_seats = rows[0].get("Num seats", None) 
+                    header = reader.fieldnames
+                    rank_numbers = [
+                        int(match.group(1))
+                        for column in header
+                        if (match := re.search(r"rank(\d+)", column))
+                    ]
+                    largest_rank_number = max(rank_numbers, default=0)
+
+                    if largest_rank_number + 1 < int(num_cands):
+                        file_data['truncated'] = 1
+
                 if country == "civs":
                     num_cands = rows[0].get("Num Cands", None) 
                     num_seats = rows[0].get("Num Seats", None) 
@@ -143,7 +157,14 @@ def get_file_data(filename, full_path):
                 file_data["one_skipped"] = one_skipped
                 file_data["two_skipped"] = two_skipped
                 file_data["three_skipped"] = three_skipped
-            
+        
+        # test for truncation? no results.
+        # df = pd.read_csv(full_path)   
+        # skipped_columns = [col for col in df.columns if (df[col] == 'skipped').all()]
+        # length = len(skipped_columns)
+        # if length != 0:
+        #     print(full_path + ": " + str(length))
+        
     return file_data
 
 def write_to_data_file(data):
