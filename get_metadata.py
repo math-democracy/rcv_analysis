@@ -10,13 +10,12 @@ import json
 ############################
 
 root_dir = '/Users/belle/Desktop/build/rcv_proposal/australia/processed_data' 
-data_file = '/Users/belle/Desktop/build/rcv_proposal/metadata.csv'
+data_file = '/Users/belle/Desktop/build/rcv_proposal/metadata2.csv'
 metadata_file = '/Users/belle/Desktop/build/rcv_proposal/metadata.json'
-data = []
 country = "australia"
 
 def process_files():
-    read_folders(root_dir)
+    data = read_folders(root_dir)
     write_to_data_file(data)
 
 def generate_data():
@@ -82,11 +81,14 @@ def get_summary_insights(df):
 #################################
     
 def read_folders(root_dir):
+    data = []
     for dirpath, dirnames, filenames in os.walk(root_dir):
         for filename in filenames:
             if filename.endswith('.blt') or filename.endswith('.csv') or filename.endswith('.txt'):
                 full_path = os.path.join(dirpath, filename)
-                get_file_data(filename, full_path)
+                data.append(get_file_data(filename, full_path))
+
+    return data
 
 def get_file_data(filename, full_path):
     file_data = {
@@ -138,7 +140,7 @@ def get_file_data(filename, full_path):
                 file_data["two_skipped"] = two_skipped
                 file_data["three_skipped"] = three_skipped
             
-    data.append(file_data)
+    return file_data
 
 def write_to_data_file(data):
     keys = data[0].keys()
@@ -150,4 +152,4 @@ def write_to_data_file(data):
             row = [d.get(key, '') for key in keys]
             writer.writerow(row)
 
-generate_data()
+process_files()
