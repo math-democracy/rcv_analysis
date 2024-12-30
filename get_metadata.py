@@ -9,10 +9,11 @@ import json
 #      helper methods      #
 ############################
 
-root_dir = '/Users/belle/Desktop/build/rcv_proposal/australia/processed_data' 
-data_file = '/Users/belle/Desktop/build/rcv_proposal/metadata2.csv'
-metadata_file = '/Users/belle/Desktop/build/rcv_proposal/metadata.json'
-country = "australia"
+root_dir = '/Users/belle/Desktop/build/rcv_proposal/australia/processed_data' # where the data is
+country = "australia" # country of the dataset
+
+data_file = '/Users/belle/Desktop/build/rcv_proposal/metadata.csv' # where you want to put the summary of each election
+metadata_file = '/Users/belle/Desktop/build/rcv_proposal/metadata.json' # where you want to put the overall statistics
 
 def process_files():
     data = read_folders(root_dir)
