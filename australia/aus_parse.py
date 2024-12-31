@@ -68,6 +68,9 @@ def parse_to_csv(df, outfilepath):
     pivot_index.remove('PrefCounted')
     pivot_index.remove('CandidateName')
 
+    # get numCands
+    num_candidates = len(df['CandidateName'].unique())
+
     # drop any entries where the preference counted is NaN - these are error rows?
         # how are we dealing with these types of votes in other files
         # By doing this, we are left with only Formal votes
@@ -88,6 +91,8 @@ def parse_to_csv(df, outfilepath):
 
     # fill skipped votes with "skipped"
     df.fillna(value='skipped',inplace=True)
+    df['numSeats'] = 1
+    df['numCands'] = num_candidates
 
     # reset indices to be columns
     df = df.reset_index()
