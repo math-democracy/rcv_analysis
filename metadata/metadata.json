@@ -5,6 +5,254 @@
         "australia": 330,
         "total": 1952
     },
+    "aggregate_candidates": {
+        "america": {
+            "count": 498.0,
+            "mean": 5.668674698795181,
+            "std": 4.761163166579692,
+            "min": 1.0,
+            "25%": 3.0,
+            "50%": 4.0,
+            "75%": 6.0,
+            "max": 36.0
+        },
+        "australia": {
+            "count": 330.0,
+            "mean": 7.027272727272727,
+            "std": 1.6909867853926193,
+            "min": 3.0,
+            "25%": 6.0,
+            "50%": 7.0,
+            "75%": 8.0,
+            "max": 15.0
+        },
+        "scotland": {
+            "count": 1124.0,
+            "mean": 7.233985765124555,
+            "std": 1.7182333033002721,
+            "min": 3.0,
+            "25%": 6.0,
+            "50%": 7.0,
+            "75%": 8.0,
+            "max": 14.0
+        }
+    },
+    "candidates_per_election": {
+        "america": [
+            {
+                "num_cands": 1,
+                "count": 8
+            },
+            {
+                "num_cands": 2,
+                "count": 53
+            },
+            {
+                "num_cands": 3,
+                "count": 112
+            },
+            {
+                "num_cands": 4,
+                "count": 100
+            },
+            {
+                "num_cands": 5,
+                "count": 85
+            },
+            {
+                "num_cands": 6,
+                "count": 23
+            },
+            {
+                "num_cands": 7,
+                "count": 28
+            },
+            {
+                "num_cands": 8,
+                "count": 17
+            },
+            {
+                "num_cands": 9,
+                "count": 13
+            },
+            {
+                "num_cands": 10,
+                "count": 11
+            },
+            {
+                "num_cands": 11,
+                "count": 6
+            },
+            {
+                "num_cands": 12,
+                "count": 6
+            },
+            {
+                "num_cands": 13,
+                "count": 6
+            },
+            {
+                "num_cands": 14,
+                "count": 3
+            },
+            {
+                "num_cands": 15,
+                "count": 1
+            },
+            {
+                "num_cands": 16,
+                "count": 2
+            },
+            {
+                "num_cands": 17,
+                "count": 2
+            },
+            {
+                "num_cands": 18,
+                "count": 2
+            },
+            {
+                "num_cands": 19,
+                "count": 3
+            },
+            {
+                "num_cands": 20,
+                "count": 1
+            },
+            {
+                "num_cands": 21,
+                "count": 3
+            },
+            {
+                "num_cands": 22,
+                "count": 3
+            },
+            {
+                "num_cands": 23,
+                "count": 3
+            },
+            {
+                "num_cands": 24,
+                "count": 1
+            },
+            {
+                "num_cands": 26,
+                "count": 2
+            },
+            {
+                "num_cands": 27,
+                "count": 1
+            },
+            {
+                "num_cands": 31,
+                "count": 2
+            },
+            {
+                "num_cands": 36,
+                "count": 1
+            }
+        ],
+        "australia": [
+            {
+                "num_cands": 3,
+                "count": 5
+            },
+            {
+                "num_cands": 4,
+                "count": 6
+            },
+            {
+                "num_cands": 5,
+                "count": 28
+            },
+            {
+                "num_cands": 6,
+                "count": 97
+            },
+            {
+                "num_cands": 7,
+                "count": 86
+            },
+            {
+                "num_cands": 8,
+                "count": 61
+            },
+            {
+                "num_cands": 9,
+                "count": 29
+            },
+            {
+                "num_cands": 10,
+                "count": 7
+            },
+            {
+                "num_cands": 11,
+                "count": 6
+            },
+            {
+                "num_cands": 13,
+                "count": 1
+            },
+            {
+                "num_cands": 14,
+                "count": 2
+            },
+            {
+                "num_cands": 15,
+                "count": 2
+            }
+        ],
+        "scotland": [
+            {
+                "num_cands": 3,
+                "count": 3
+            },
+            {
+                "num_cands": 4,
+                "count": 39
+            },
+            {
+                "num_cands": 5,
+                "count": 124
+            },
+            {
+                "num_cands": 6,
+                "count": 219
+            },
+            {
+                "num_cands": 7,
+                "count": 296
+            },
+            {
+                "num_cands": 8,
+                "count": 210
+            },
+            {
+                "num_cands": 9,
+                "count": 119
+            },
+            {
+                "num_cands": 10,
+                "count": 70
+            },
+            {
+                "num_cands": 11,
+                "count": 27
+            },
+            {
+                "num_cands": 12,
+                "count": 10
+            },
+            {
+                "num_cands": 13,
+                "count": 6
+            },
+            {
+                "num_cands": 14,
+                "count": 1
+            }
+        ]
+    },
     "winners_per_election": {
         "america": [
             {
@@ -13,11 +261,15 @@
             },
             {
                 "num_seats": 2.0,
-                "count": 13
+                "count": 14
             },
             {
                 "num_seats": 3.0,
-                "count": 4
+                "count": 9
+            },
+            {
+                "num_seats": 4.0,
+                "count": 1
             },
             {
                 "num_seats": 6.0,
@@ -30,7 +282,7 @@
         ],
         "australia": [
             {
-                "num_seats": 0.0,
+                "num_seats": 1.0,
                 "count": 330
             }
         ],
@@ -60,8 +312,8 @@
     "aggregate_voters": {
         "america": {
             "count": 498.0,
-            "mean": 38892.56626506024,
-            "std": 87606.60437433145,
+            "mean": 38888.93574297189,
+            "std": 87607.30054212121,
             "min": 121.0,
             "25%": 6857.25,
             "50%": 14706.5,
@@ -70,8 +322,8 @@
         },
         "australia": {
             "count": 330.0,
-            "mean": 48400.50303030303,
-            "std": 12272.199440519755,
+            "mean": 48400.5,
+            "std": 12272.182075784884,
             "min": 3781.0,
             "25%": 46625.75,
             "50%": 48473.5,
@@ -177,11 +429,11 @@
             },
             {
                 "voter_category": 22000,
-                "voter_category_count": 6
+                "voter_category_count": 7
             },
             {
                 "voter_category": 23000,
-                "voter_category_count": 7
+                "voter_category_count": 6
             },
             {
                 "voter_category": 24000,

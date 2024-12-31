@@ -9,11 +9,11 @@ import json
 #      helper methods      #
 ############################
 
-root_dir = '/Users/belle/Desktop/build/rcv_proposal/american' # where the data is
-country = "america" # country of the dataset
+root_dir = '/Users/belle/Desktop/build/rcv_proposal/civs' # where the data is
+country = "civs" # country of the dataset
 
-data_file = '/Users/belle/Desktop/build/rcv_proposal/metadata.csv' # where you want to put the summary of each election
-metadata_file = '/Users/belle/Desktop/build/rcv_proposal/metadata2.json' # where you want to put the overall statistics
+data_file = '/Users/belle/Desktop/build/rcv_proposal/metadata/metadata_civs.csv' # where you want to put the summary of each election
+metadata_file = '/Users/belle/Desktop/build/rcv_proposal/metadata/metadata_civs.json' # where you want to put the overall statistics
 
 def process_files():
     data = read_folders(root_dir)
@@ -22,7 +22,7 @@ def process_files():
 def generate_data():
     df = pd.read_csv(data_file)
     get_insights(df)
-    get_summary_insights(df)
+    # get_summary_insights(df)
 
 
 #################################
@@ -109,6 +109,7 @@ def get_file_data(filename, full_path):
         "one_skipped": 0,
         "two_skipped": 0,
         "three_skipped": 0,
+        "write_in": 0,
         "truncated": 0
     }
    
@@ -118,12 +119,32 @@ def get_file_data(filename, full_path):
             reader = csv.DictReader(file)
             rows = list(reader) 
             file_data["num_voters"] = len(rows)
-            no_skipped = sum(1 for row in rows if not any("skipped" in cell.strip().lower() for cell in row.values()))
-            one_skipped = sum(1 for row in rows if sum("skipped" in cell.strip().lower() for cell in row.values()) == 1)
-            two_skipped = sum(1 for row in rows if sum("skipped" in cell.strip().lower() for cell in row.values()) == 2)
-            three_skipped = sum(1 for row in rows if sum("skipped" in cell.strip().lower() for cell in row.values()) == 3)
+            no_skipped = one_skipped = two_skipped = three_skipped = 0
+            unique_write_ins = set()
+
+            for row in rows:
+                skipped_count = 0 
+                for cell in row.values():
+                    cell_value = cell.strip().lower()
+                    if "skipped" in cell_value:
+                        skipped_count += 1
+                    if "UWI" in cell_value or "uwi" in cell_value or "Write-in" in cell_value or "Write in" in cell_value or "Write-In" in cell_value or "writein" in cell_value or "Uncertified Write In" in cell_value:
+                        unique_write_ins.add(cell_value)
+                
+                if skipped_count == 0:
+                    no_skipped += 1
+                elif skipped_count == 1:
+                    one_skipped += 1
+                elif skipped_count == 2:
+                    two_skipped += 1
+                elif skipped_count == 3:
+                    three_skipped += 1
+
+            unique_write_in = len(unique_write_ins)
+            
             num_cands = 0
             num_seats = 0
+            largest_rank_number = 0
 
             if len(rows) >= 1: 
                 if country == "america": 
@@ -147,6 +168,8 @@ def get_file_data(filename, full_path):
                     num_cands = rows[0].get("numCands", None) 
                     num_seats = rows[0].get("numSeats", None) 
                 if country == "australia":
+                    num_cands = rows[0].get("numCands", None) 
+                    num_seats = rows[0].get("numSeats", None) 
                     header = reader.fieldnames
                     rank_numbers = [
                         int(match.group(1))
@@ -154,8 +177,9 @@ def get_file_data(filename, full_path):
                         if (match := re.search(r"rank(\d+)", column))
                     ]
                     largest_rank_number = max(rank_numbers, default=0)
-                    num_cands = largest_rank_number
-                    num_seats = 0
+
+                    if largest_rank_number + 1 < int(num_cands):
+                        file_data['truncated'] = 1
 
                 file_data["num_cands"] = num_cands
                 file_data["num_seats"] = num_seats
@@ -163,12 +187,13 @@ def get_file_data(filename, full_path):
                 file_data["one_skipped"] = one_skipped
                 file_data["two_skipped"] = two_skipped
                 file_data["three_skipped"] = three_skipped
+                file_data["write_in"] = unique_write_in
         
-        # test for truncation? no results.
+       # test for truncation? no results.
         # df = pd.read_csv(full_path)   
         # skipped_columns = [col for col in df.columns if (df[col] == 'skipped').all()]
         # length = len(skipped_columns)
-        # if length != 0:
+        # if largest_rank_number <= int(num_cands) and length != 0:
         #     print(full_path + ": " + str(length))
         
     return file_data

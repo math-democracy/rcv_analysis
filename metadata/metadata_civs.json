@@ -1,48 +1,452 @@
 {
     "elections_per_country": {
-        "civs": 521,
-        "total": 521
+        "civs": 2618,
+        "total": 2618
+    },
+    "aggregate_candidates": {
+        "civs": {
+            "count": 2618.0,
+            "mean": 12.142857142857142,
+            "std": 20.35292893543552,
+            "min": 3.0,
+            "25%": 4.0,
+            "50%": 7.0,
+            "75%": 13.0,
+            "max": 679.0
+        }
+    },
+    "candidates_per_election": {
+        "civs": [
+            {
+                "num_cands": 3.0,
+                "count": 416
+            },
+            {
+                "num_cands": 4.0,
+                "count": 264
+            },
+            {
+                "num_cands": 5.0,
+                "count": 296
+            },
+            {
+                "num_cands": 6.0,
+                "count": 218
+            },
+            {
+                "num_cands": 7.0,
+                "count": 165
+            },
+            {
+                "num_cands": 8.0,
+                "count": 165
+            },
+            {
+                "num_cands": 9.0,
+                "count": 122
+            },
+            {
+                "num_cands": 10.0,
+                "count": 120
+            },
+            {
+                "num_cands": 11.0,
+                "count": 92
+            },
+            {
+                "num_cands": 12.0,
+                "count": 99
+            },
+            {
+                "num_cands": 13.0,
+                "count": 61
+            },
+            {
+                "num_cands": 14.0,
+                "count": 50
+            },
+            {
+                "num_cands": 15.0,
+                "count": 66
+            },
+            {
+                "num_cands": 16.0,
+                "count": 41
+            },
+            {
+                "num_cands": 17.0,
+                "count": 43
+            },
+            {
+                "num_cands": 18.0,
+                "count": 33
+            },
+            {
+                "num_cands": 19.0,
+                "count": 27
+            },
+            {
+                "num_cands": 20.0,
+                "count": 31
+            },
+            {
+                "num_cands": 21.0,
+                "count": 22
+            },
+            {
+                "num_cands": 22.0,
+                "count": 14
+            },
+            {
+                "num_cands": 23.0,
+                "count": 13
+            },
+            {
+                "num_cands": 24.0,
+                "count": 21
+            },
+            {
+                "num_cands": 25.0,
+                "count": 18
+            },
+            {
+                "num_cands": 26.0,
+                "count": 14
+            },
+            {
+                "num_cands": 27.0,
+                "count": 8
+            },
+            {
+                "num_cands": 28.0,
+                "count": 10
+            },
+            {
+                "num_cands": 29.0,
+                "count": 7
+            },
+            {
+                "num_cands": 30.0,
+                "count": 7
+            },
+            {
+                "num_cands": 31.0,
+                "count": 9
+            },
+            {
+                "num_cands": 32.0,
+                "count": 14
+            },
+            {
+                "num_cands": 33.0,
+                "count": 3
+            },
+            {
+                "num_cands": 34.0,
+                "count": 5
+            },
+            {
+                "num_cands": 35.0,
+                "count": 5
+            },
+            {
+                "num_cands": 36.0,
+                "count": 9
+            },
+            {
+                "num_cands": 37.0,
+                "count": 7
+            },
+            {
+                "num_cands": 38.0,
+                "count": 2
+            },
+            {
+                "num_cands": 39.0,
+                "count": 2
+            },
+            {
+                "num_cands": 40.0,
+                "count": 7
+            },
+            {
+                "num_cands": 41.0,
+                "count": 2
+            },
+            {
+                "num_cands": 42.0,
+                "count": 3
+            },
+            {
+                "num_cands": 44.0,
+                "count": 3
+            },
+            {
+                "num_cands": 45.0,
+                "count": 1
+            },
+            {
+                "num_cands": 46.0,
+                "count": 4
+            },
+            {
+                "num_cands": 47.0,
+                "count": 1
+            },
+            {
+                "num_cands": 48.0,
+                "count": 4
+            },
+            {
+                "num_cands": 49.0,
+                "count": 2
+            },
+            {
+                "num_cands": 50.0,
+                "count": 4
+            },
+            {
+                "num_cands": 51.0,
+                "count": 5
+            },
+            {
+                "num_cands": 52.0,
+                "count": 7
+            },
+            {
+                "num_cands": 53.0,
+                "count": 3
+            },
+            {
+                "num_cands": 55.0,
+                "count": 2
+            },
+            {
+                "num_cands": 56.0,
+                "count": 1
+            },
+            {
+                "num_cands": 57.0,
+                "count": 2
+            },
+            {
+                "num_cands": 58.0,
+                "count": 3
+            },
+            {
+                "num_cands": 59.0,
+                "count": 1
+            },
+            {
+                "num_cands": 60.0,
+                "count": 5
+            },
+            {
+                "num_cands": 61.0,
+                "count": 5
+            },
+            {
+                "num_cands": 62.0,
+                "count": 2
+            },
+            {
+                "num_cands": 63.0,
+                "count": 2
+            },
+            {
+                "num_cands": 66.0,
+                "count": 1
+            },
+            {
+                "num_cands": 67.0,
+                "count": 1
+            },
+            {
+                "num_cands": 68.0,
+                "count": 2
+            },
+            {
+                "num_cands": 69.0,
+                "count": 2
+            },
+            {
+                "num_cands": 71.0,
+                "count": 1
+            },
+            {
+                "num_cands": 72.0,
+                "count": 2
+            },
+            {
+                "num_cands": 73.0,
+                "count": 1
+            },
+            {
+                "num_cands": 74.0,
+                "count": 4
+            },
+            {
+                "num_cands": 75.0,
+                "count": 2
+            },
+            {
+                "num_cands": 76.0,
+                "count": 1
+            },
+            {
+                "num_cands": 77.0,
+                "count": 1
+            },
+            {
+                "num_cands": 79.0,
+                "count": 2
+            },
+            {
+                "num_cands": 80.0,
+                "count": 1
+            },
+            {
+                "num_cands": 81.0,
+                "count": 2
+            },
+            {
+                "num_cands": 82.0,
+                "count": 1
+            },
+            {
+                "num_cands": 83.0,
+                "count": 1
+            },
+            {
+                "num_cands": 84.0,
+                "count": 2
+            },
+            {
+                "num_cands": 85.0,
+                "count": 1
+            },
+            {
+                "num_cands": 87.0,
+                "count": 1
+            },
+            {
+                "num_cands": 89.0,
+                "count": 1
+            },
+            {
+                "num_cands": 94.0,
+                "count": 1
+            },
+            {
+                "num_cands": 102.0,
+                "count": 1
+            },
+            {
+                "num_cands": 104.0,
+                "count": 2
+            },
+            {
+                "num_cands": 105.0,
+                "count": 2
+            },
+            {
+                "num_cands": 110.0,
+                "count": 1
+            },
+            {
+                "num_cands": 113.0,
+                "count": 1
+            },
+            {
+                "num_cands": 115.0,
+                "count": 1
+            },
+            {
+                "num_cands": 119.0,
+                "count": 1
+            },
+            {
+                "num_cands": 123.0,
+                "count": 1
+            },
+            {
+                "num_cands": 132.0,
+                "count": 1
+            },
+            {
+                "num_cands": 133.0,
+                "count": 1
+            },
+            {
+                "num_cands": 136.0,
+                "count": 1
+            },
+            {
+                "num_cands": 155.0,
+                "count": 1
+            },
+            {
+                "num_cands": 161.0,
+                "count": 1
+            },
+            {
+                "num_cands": 169.0,
+                "count": 2
+            },
+            {
+                "num_cands": 176.0,
+                "count": 1
+            },
+            {
+                "num_cands": 679.0,
+                "count": 1
+            }
+        ]
     },
     "winners_per_election": {
         "civs": [
             {
                 "num_seats": "1.0",
-                "count": 490
+                "count": 2497
             },
             {
                 "num_seats": "Unknown",
-                "count": 31
+                "count": 121
             }
         ]
     },
     "aggregate_voters": {
         "civs": {
-            "count": 521.0,
-            "mean": 140.10940499040308,
-            "std": 350.65227890295745,
+            "count": 2618.0,
+            "mean": 130.6398013750955,
+            "std": 365.7775514838831,
             "min": 31.0,
             "25%": 39.0,
-            "50%": 54.0,
-            "75%": 121.0,
-            "max": 6580.0
+            "50%": 55.0,
+            "75%": 114.0,
+            "max": 13016.0
         }
     },
     "votes_per_election": {
         "civs": [
             {
                 "voter_category": 1000,
-                "voter_category_count": 517
+                "voter_category_count": 2592
             },
             {
                 "voter_category": 2000,
-                "voter_category_count": 1
+                "voter_category_count": 18
             },
             {
                 "voter_category": 3000,
-                "voter_category_count": 2
+                "voter_category_count": 5
             },
             {
                 "voter_category": 7000,
+                "voter_category_count": 2
+            },
+            {
+                "voter_category": 14000,
                 "voter_category_count": 1
             }
         ]
