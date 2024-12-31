@@ -12,8 +12,8 @@ import json
 root_dir = '/Users/belle/Desktop/build/rcv_proposal/american' # where the data is
 country = "america" # country of the dataset
 
-data_file = '/Users/belle/Desktop/build/rcv_proposal/metadata_test2.csv' # where you want to put the summary of each election
-metadata_file = '/Users/belle/Desktop/build/rcv_proposal/metadata_test2.json' # where you want to put the overall statistics
+data_file = '/Users/belle/Desktop/build/rcv_proposal/metadata.csv' # where you want to put the summary of each election
+metadata_file = '/Users/belle/Desktop/build/rcv_proposal/metadata2.json' # where you want to put the overall statistics
 
 def process_files():
     data = read_folders(root_dir)
@@ -42,6 +42,10 @@ def get_insights(df):
     # num of winners per election
     winners_per_election = df.groupby(['country', 'num_seats']).size().reset_index(name='count').groupby('country').apply(lambda x: x[['num_seats', 'count']].to_dict(orient='records')).to_dict()
 
+    # num of candidates per election
+    candidates_per_election = df.groupby(['country', 'num_cands']).size().reset_index(name='count').groupby('country').apply(lambda x: x[['num_cands', 'count']].to_dict(orient='records')).to_dict()
+    aggregate_candidates = df.groupby('country')['num_cands'].describe().to_dict(orient='index')
+
     # descriptive statistics about voters per elections in each country
     aggregate_voters = df.groupby('country')['num_voters'].describe().to_dict(orient='index')
 
@@ -56,6 +60,8 @@ def get_insights(df):
     # export data
     all_insights = {
         "elections_per_country": elections_per_country, 
+        "aggregate_candidates": aggregate_candidates,
+        "candidates_per_election": candidates_per_election,
         "winners_per_election": winners_per_election, 
         "aggregate_voters": aggregate_voters,
         "votes_per_election": votes_per_election
@@ -75,8 +81,8 @@ def get_summary_insights(df):
     # bottom_skipped = skipped.sort_values(by='one_skipped_p', ascending=True).head(30)
     # print(bottom_skipped)
 
-    truncated = df['truncated'].sum()
-    print(truncated)
+    # truncated = df['truncated'].sum()
+    # print(truncated)
 
 #################################
 # helper methods: process files #
