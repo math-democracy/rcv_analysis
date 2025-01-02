@@ -73,7 +73,7 @@ def normalize_parties(party):
         (r'Socialist Labour|SocLab', '(Soc Lab)'),
         (r'Scottish Conservative and Unionist \(Con\)|Scottish Conservative and Unionist|Conservative and Unionist \(C\)|\bCon\b|\(Con\)|\bC\b$|\(C\)|Conservatives|Conservative', '(Con)'),
         (r'Scottish National Party \(SNP\)|Scottish Nationals|Scottish National|\bSNP\b', '(SNP)'),
-        (r'Scottish Greens - Delivering For Our Community|Scottish Greens - Think Global Act Local|Scottish Greens ‐ Think Global Act Local|Scottish Green Party \(Grn\)|Scottish Green Party|\bGrn\b|Scottish Greens|Scottish Green', '(Grn)'),
+        (r'Elect a Scottish Green Councillor|Scottish Greens - Delivering For Our Community|Scottish Greens - Think Global Act Local|Scottish Greens ‐ Think Global Act Local|Scottish Green Party \(Grn\)|Scottish Green Party|\bGrn\b|Scottish Greens|Scottish Green', '(Grn)'),
         (r'\(Scottish Unionist\) \(SU\)|Scottish Unionist|Scottish Unionists| SU |\bSU\b|\(SU\)', '(SU)'),
         (r'Scottish Labour Party|Aberdeen Labour \(Lab\)|Aberdeen Labour|\bSLP\b|\(SLP\)|\(L\)|\bLab\b|Labour', '(Lab)'),
         (r'Scottish Liberal Democrats \(LD\)|Scottish Liberal Democrats|\bLD\b|Liberal Democrat Focus Team|Liberal Democrats|Liberal Democrat', '(LD)'),

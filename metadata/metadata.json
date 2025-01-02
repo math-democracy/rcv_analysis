@@ -1,9 +1,9 @@
 {
     "elections_per_country": {
-        "scotland": 1124,
+        "scotland": 1128,
         "america": 498,
         "australia": 330,
-        "total": 1952
+        "total": 1956
     },
     "aggregate_candidates": {
         "america": {
@@ -27,9 +27,9 @@
             "max": 15.0
         },
         "scotland": {
-            "count": 1124.0,
-            "mean": 7.233985765124555,
-            "std": 1.7182333033002721,
+            "count": 1128.0,
+            "mean": 7.2313829787234045,
+            "std": 1.7165122814018459,
             "min": 3.0,
             "25%": 6.0,
             "50%": 7.0,
@@ -213,7 +213,7 @@
             },
             {
                 "num_cands": 5,
-                "count": 124
+                "count": 125
             },
             {
                 "num_cands": 6,
@@ -221,7 +221,7 @@
             },
             {
                 "num_cands": 7,
-                "count": 296
+                "count": 299
             },
             {
                 "num_cands": 8,
@@ -289,7 +289,7 @@
         "scotland": [
             {
                 "num_seats": 1.0,
-                "count": 54
+                "count": 58
             },
             {
                 "num_seats": 2.0,
@@ -331,13 +331,13 @@
             "max": 130336.0
         },
         "scotland": {
-            "count": 1124.0,
-            "mean": 5051.10231316726,
-            "std": 2086.206337082966,
+            "count": 1128.0,
+            "mean": 5044.1586879432625,
+            "std": 2086.588879974373,
             "min": 661.0,
-            "25%": 3789.0,
-            "50%": 4790.0,
-            "75%": 5955.25,
+            "25%": 3785.0,
+            "50%": 4783.0,
+            "75%": 5950.5,
             "max": 14207.0
         }
     },
@@ -925,19 +925,19 @@
             },
             {
                 "voter_category": 2000,
-                "voter_category_count": 59
+                "voter_category_count": 60
             },
             {
                 "voter_category": 3000,
-                "voter_category_count": 55
+                "voter_category_count": 56
             },
             {
                 "voter_category": 4000,
-                "voter_category_count": 216
+                "voter_category_count": 217
             },
             {
                 "voter_category": 5000,
-                "voter_category_count": 271
+                "voter_category_count": 272
             },
             {
                 "voter_category": 6000,
