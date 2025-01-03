@@ -29,7 +29,7 @@ def process_file(full_path, filename):
     with open(data_file, mode='a', newline='') as file:
         writer = csv.writer(file)
         keys = all_data[0].keys()
-        row = [data.get(key, '') for key in keys]
+        row = [datda.get(key, '') for key in keys]
         writer.writerow(row)
 
     with open(processed_file, "a") as ef:
