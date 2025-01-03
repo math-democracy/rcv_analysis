@@ -9,8 +9,8 @@ import json
 #      helper methods      #
 ############################
 
-root_dir = '/Users/belle/Desktop/build/rcv_proposal/scotland/processed_data' # where the data is
-country = "scotland" # country of the dataset
+root_dir = '/Users/belle/Desktop/build/rcv_proposal/american' # where the data is
+country = "america" # country of the dataset
 
 data_file = '/Users/belle/Desktop/build/rcv_proposal/metadata/metadata.csv' # where you want to put the summary of each election
 metadata_file = '/Users/belle/Desktop/build/rcv_proposal/metadata/metadata.json' # where you want to put the overall statistics

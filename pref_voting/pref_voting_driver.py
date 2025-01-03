@@ -4,11 +4,11 @@ import csv
 import time
 import multiprocessing
 
-data_file = '/Users/belle/Desktop/build/rcv_proposal/pref_voting/australian_results.csv'
-root_dir = '/Users/belle/Desktop/build/rcv_proposal/australia/processed_data'
+data_file = '/Users/belle/Desktop/build/rcv_proposal/pref_voting/processed_results/american_results.csv'
+root_dir = '/Users/belle/Desktop/build/rcv_proposal/american'
 
-error_file = '/Users/belle/Desktop/build/rcv_proposal/pref_voting/australian_error.txt'
-processed_file = '/Users/belle/Desktop/build/rcv_proposal/pref_voting/australian_processed.txt'
+error_file = '/Users/belle/Desktop/build/rcv_proposal/pref_voting/processed_results/supporting_files/american_error.txt'
+processed_file = '/Users/belle/Desktop/build/rcv_proposal/pref_voting/processed_results/supporting_files/american_processed.txt'
 all_data = []
 
 def file_less_than_3mb(file_path):
@@ -29,7 +29,7 @@ def process_file(full_path, filename):
     with open(data_file, mode='a', newline='') as file:
         writer = csv.writer(file)
         keys = all_data[0].keys()
-        row = [datda.get(key, '') for key in keys]
+        row = [data.get(key, '') for key in keys]
         writer.writerow(row)
 
     with open(processed_file, "a") as ef:

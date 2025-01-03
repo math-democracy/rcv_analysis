@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "america": 104,
+        "america": 135,
         "australia": 150,
         "scotland": 665
     },
@@ -173,8 +173,157 @@
                 "daunou"
             ]
         },
+        "american/Alaska/Alaska_11052024_StateHouseD33.csv": {
+            "Prax, Glenn \"Mike\"": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "bottom_two_runoff_instant_runoff_put",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties",
+                "daunou"
+            ],
+            "NaN": [
+                "plurality_with_runoff_put",
+                "condorcet",
+                "weak_condorcet",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland"
+            ],
+            "ERROR": [
+                "condorcet_irv",
+                "benham"
+            ]
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD26.csv": {
+            "Tilton, Cathy": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "Write-in": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD1.csv": {
+            "Bynum, Jeremy T.": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "Moran, Agnes C.": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD3.csv": {
+            "Story, Andrea \"Andi\"": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "Write-in": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD24.csv": {
+            "Saddler, Dan": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "Write-in": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD18.csv": {
+            "Nelson, David": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "Groh, Cliff": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
         "american/Alaska/Alaska_11082022_HouseDistrict3.csv": {
             "Story, Andrea \"Andi\"": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "Write-in": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD25.csv": {
+            "Johnson, DeLena M.": [
                 "plurality",
                 "instant_runoff_for_truncated_linear_orders",
                 "instant_runoff_put",
@@ -236,6 +385,27 @@
                 "daunou"
             ]
         },
+        "american/Alaska/Alaska_11052024_StateHouseD6.csv": {
+            "Vance, Sarah L.": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "Johnson, Brent": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
         "american/Alaska/Alaska_11082022_HouseDistrict7.csv": {
             "Ruffridge, Justin": [
                 "plurality",
@@ -265,6 +435,69 @@
                 "borda_for_profile_with_ties"
             ],
             "Flora, Louis A. \"Louie\"": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD36.csv": {
+            "Schwanke, Rebecca A.": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "Kowalski, Brandon P. \"Putuuqti\"": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD4.csv": {
+            "Hannan, Sara": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "Write-in": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
+        "american/Alaska/Alaska_11052024_StateSenateB.csv": {
+            "Kiehl, Jesse": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "Write-in": [
                 "plurality_with_runoff_put",
                 "bottom_two_runoff_instant_runoff_put",
                 "condorcet",
@@ -320,6 +553,27 @@
                 "daunou"
             ]
         },
+        "american/Alaska/Alaska_11052024_StateHouseD11.csv": {
+            "Coulombe, Julie": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "Featherly, Walter T.": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
         "american/Alaska/Alaska_11082022_SenateDistrictO.csv": {
             "Shower, Michael K.": [
                 "plurality",
@@ -328,6 +582,153 @@
                 "borda_for_profile_with_ties"
             ],
             "Massie, Doug A.": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD28.csv": {
+            "Moore, Elexie": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "Menard, Steve": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD15.csv": {
+            "Costello, Mia": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "Wells, Denny": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD29.csv": {
+            "Rauscher, George": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "Write-in": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
+        "american/Alaska/Alaska_11052024_StateSenateR.csv": {
+            "Cronk, Mike": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "Fletcher, Savannah": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD17.csv": {
+            "Fields, William Z. \"Zack\"": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "Write-in": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
+        "american/Alaska/Alaska_11052024_StateSenateF.csv": {
+            "Kaufman, James D.": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "Park, Janice L.": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
+        "american/Alaska/Alaska_11052024_President.csv": {
+            "Trump/Vance": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "Harris/Walz": [
                 "plurality_with_runoff_put",
                 "bottom_two_runoff_instant_runoff_put",
                 "condorcet",
@@ -356,11 +757,9 @@
                 "copeland",
                 "daunou"
             ],
-            "NaN": [
-                "instant_runoff_for_truncated_linear_orders",
-                "instant_runoff_put"
-            ],
             "McKay, Thomas W. \"Tom\"": [
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
                 "borda_for_profile_with_ties"
             ]
         },
@@ -469,6 +868,27 @@
                 "daunou"
             ]
         },
+        "american/Alaska/Alaska_11052024_US_House.csv": {
+            "Begich, Nick": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "Peltola, Mary S.": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
         "american/Minneapolis/Minneapolis_11072017_BoardofEstimateandTaxation.csv": {
             "Carol Becker": [
                 "plurality",
@@ -538,6 +958,29 @@
                 "benham"
             ]
         },
+        "american/Minneapolis/Minneapolis_11072017_Mayor.csv": {
+            "Jacob Frey": [
+                "plurality",
+                "plurality_with_runoff_put",
+                "instant_runoff_for_truncated_linear_orders",
+                "bottom_two_runoff_instant_runoff_put",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties",
+                "weak_condorcet",
+                "minimax",
+                "copeland",
+                "daunou"
+            ],
+            "NaN": [
+                "condorcet",
+                "top_cycle"
+            ],
+            "ERROR": [
+                "condorcet_irv",
+                "benham",
+                "ranked_pairs"
+            ]
+        },
         "american/Minneapolis/Minneapolis_11022021_BoardofEstimateandTaxationAtLarge.csv": {
             "Steve Brandt": [
                 "plurality",
@@ -601,6 +1044,29 @@
                 "top_cycle",
                 "copeland",
                 "daunou"
+            ]
+        },
+        "american/Minneapolis/Minneapolis_11022021_Mayor.csv": {
+            "Jacob Frey": [
+                "plurality",
+                "plurality_with_runoff_put",
+                "instant_runoff_for_truncated_linear_orders",
+                "bottom_two_runoff_instant_runoff_put",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties",
+                "weak_condorcet",
+                "minimax",
+                "copeland",
+                "daunou"
+            ],
+            "NaN": [
+                "condorcet",
+                "top_cycle"
+            ],
+            "ERROR": [
+                "condorcet_irv",
+                "benham",
+                "ranked_pairs"
             ]
         },
         "american/Minneapolis/Minneapolis_11022021_ParkBoardAtLarge.csv": {
@@ -904,14 +1370,12 @@
             ]
         },
         "american/Minneapolis/Minneapolis 2013-board of estimation and taxation cvr.csv": {
-            "undervote": [
-                "plurality",
-                "borda_for_profile_with_ties"
-            ],
             "CAROL J. BECKER": [
+                "plurality",
                 "plurality_with_runoff_put",
                 "instant_runoff_for_truncated_linear_orders",
                 "bottom_two_runoff_instant_runoff_put",
+                "borda_for_profile_with_ties",
                 "condorcet",
                 "condorcet_irv",
                 "weak_condorcet",
@@ -1259,6 +1723,27 @@
                 "borda_for_profile_with_ties"
             ]
         },
+        "american/Alameda County/Berkeley_11052024_Mayor.csv": {
+            "ADENA ISHII": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "SOPHIE HAHN": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
         "american/Alameda County/Oakland_11082016_SchoolDirectorDistrict3.csv": {
             "JUMOKE HINTON HODGE": [
                 "plurality",
@@ -1519,6 +2004,27 @@
                 "daunou"
             ]
         },
+        "american/Alameda County/Oakland_11052024_School_Director_D3.csv": {
+            "VANCEDRIC WILLIAMS": [
+                "plurality",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "DWAYNE AIKENS JR.": [
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
         "american/Alameda County/Berkeley_11082016_CityCouncilDistrict2.csv": {
             "DARRYL MOORE": [
                 "plurality",
@@ -1674,6 +2180,48 @@
                 "daunou"
             ]
         },
+        "american/San Francisco/SanFrancisco_11052024_BoS_D11.csv": {
+            "MICHAEL LAI": [
+                "plurality",
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ],
+            "CHYANNE CHEN": [
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ]
+        },
+        "american/San Francisco/SanFrancisco_11052024_BoS_D5.csv": {
+            "DEAN PRESTON": [
+                "plurality"
+            ],
+            "BILAL MAHMOOD": [
+                "plurality_with_runoff_put",
+                "instant_runoff_for_truncated_linear_orders",
+                "bottom_two_runoff_instant_runoff_put",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties",
+                "condorcet",
+                "condorcet_irv",
+                "weak_condorcet",
+                "benham",
+                "minimax",
+                "ranked_pairs",
+                "top_cycle",
+                "copeland",
+                "daunou"
+            ]
+        },
         "american/San Francisco/SanFrancisco_11082005_AssessorRecorder.csv": {
             "Phil Ting": [
                 "plurality",
@@ -1785,6 +2333,31 @@
                 "borda_for_profile_with_ties"
             ]
         },
+        "american/San Francisco/SanFrancisco_11062007_Mayor.csv": {
+            "Gavin Newsom": [
+                "plurality",
+                "plurality_with_runoff_put",
+                "instant_runoff_for_truncated_linear_orders",
+                "bottom_two_runoff_instant_runoff_put",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties",
+                "daunou"
+            ],
+            "NaN": [
+                "condorcet",
+                "weak_condorcet",
+                "minimax",
+                "top_cycle"
+            ],
+            "ERROR": [
+                "condorcet_irv",
+                "benham",
+                "ranked_pairs"
+            ],
+            "Harold M. Hoogasian": [
+                "copeland"
+            ]
+        },
         "american/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict9.csv": {
             "Tom Ammiano": [
                 "plurality",
@@ -1831,6 +2404,31 @@
                 "daunou"
             ]
         },
+        "american/San Francisco/SanFrancisco_11032015_Mayor.csv": {
+            "ED LEE": [
+                "plurality",
+                "plurality_with_runoff_put",
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties",
+                "daunou"
+            ],
+            "WRITE-IN - MICHAEL PETRELIS": [
+                "bottom_two_runoff_instant_runoff_put",
+                "weak_condorcet",
+                "minimax",
+                "copeland"
+            ],
+            "NaN": [
+                "condorcet",
+                "top_cycle"
+            ],
+            "ERROR": [
+                "condorcet_irv",
+                "benham",
+                "ranked_pairs"
+            ]
+        },
         "american/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT11.csv": {
             "AHSHA SAFAI": [
                 "plurality",
@@ -1853,6 +2451,29 @@
             ],
             "JASON CHUYUAN ZENG": [
                 "minimax",
+                "ranked_pairs"
+            ]
+        },
+        "american/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict11.csv": {
+            "JOHN AVALOS": [
+                "plurality",
+                "plurality_with_runoff_put",
+                "instant_runoff_for_truncated_linear_orders",
+                "bottom_two_runoff_instant_runoff_put",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties",
+                "copeland",
+                "daunou"
+            ],
+            "NaN": [
+                "condorcet",
+                "weak_condorcet",
+                "minimax",
+                "top_cycle"
+            ],
+            "ERROR": [
+                "condorcet_irv",
+                "benham",
                 "ranked_pairs"
             ]
         },
@@ -2238,6 +2859,56 @@
                 "top_cycle",
                 "copeland",
                 "daunou"
+            ]
+        },
+        "american/Cambridge, MA/Cambridge_11062007_SchoolCommittee.csv": {
+            "McGovern, Marc C.": [
+                "plurality",
+                "plurality_with_runoff_put",
+                "instant_runoff_for_truncated_linear_orders",
+                "bottom_two_runoff_instant_runoff_put",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties",
+                "copeland",
+                "daunou"
+            ],
+            "NaN": [
+                "condorcet",
+                "weak_condorcet",
+                "top_cycle"
+            ],
+            "ERROR": [
+                "condorcet_irv",
+                "benham",
+                "ranked_pairs"
+            ],
+            "Write-In 1": [
+                "minimax"
+            ]
+        },
+        "american/Cambridge, MA/Cambridge_11082005_SchoolCommittee.csv": {
+            "Nolan, Patricia M.": [
+                "plurality",
+                "plurality_with_runoff_put",
+                "bottom_two_runoff_instant_runoff_put",
+                "weak_condorcet",
+                "minimax",
+                "copeland",
+                "daunou"
+            ],
+            "Walser, Nancy": [
+                "instant_runoff_for_truncated_linear_orders",
+                "instant_runoff_put",
+                "borda_for_profile_with_ties"
+            ],
+            "NaN": [
+                "condorcet",
+                "top_cycle"
+            ],
+            "ERROR": [
+                "condorcet_irv",
+                "benham",
+                "ranked_pairs"
             ]
         },
         "american/Corvallis, OR/Corvallis_11082022_Mayor.csv": {

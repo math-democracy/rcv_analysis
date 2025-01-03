@@ -1,8 +1,8 @@
 import pandas as pd
 import json
 
-data_file = '/Users/belle/Desktop/build/rcv_proposal/pref_voting/australian_results.csv'
-results_file = '/Users/belle/Desktop/build/rcv_proposal/pref_voting/unique.json'
+data_file = '/Users/belle/Desktop/build/rcv_proposal/pref_voting/processed_results/american_results.csv'
+results_file = '/Users/belle/Desktop/build/rcv_proposal/pref_voting/unique2.json'
 
 def read_data(data_file):
     data = pd.read_csv(data_file, header=None)
@@ -31,4 +31,4 @@ def export_data(res):
 
 data = read_data(data_file)
 results = find_not_unanimous_results(data)
-
+export_data(results)
