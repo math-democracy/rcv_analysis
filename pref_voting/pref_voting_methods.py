@@ -170,9 +170,10 @@ def run_voting_methods(profile, file_path, candidates_with_indices):
         data['minimax'] = "ERROR"
 
     ## Ranked Pairs ##
+    # ranked_pairs_with_test returns null if it takes too long to run
     try:
-        if len(ranked_pairs(profile)) == 1:
-            data['ranked_pairs'] = candidates_with_indices[ranked_pairs(profile)[0]]
+        if len(ranked_pairs_with_test(profile)) == 1:
+            data['ranked_pairs'] = candidates_with_indices[ranked_pairs_with_test(profile)[0]]
         else:
             data['ranked_pairs'] = "NULL"
     except Exception as e:
