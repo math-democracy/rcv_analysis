@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 
-data_file = '/Users/belle/Desktop/build/rcv_proposal/pref_voting/processed_results/american_results.csv'
+data_file = '/Users/belle/Desktop/build/rcv_proposal/pref_voting/processed_results/civs_results.csv'
 results_file = '/Users/belle/Desktop/build/rcv_proposal/pref_voting/unique2.json'
 
 def read_data(data_file):
@@ -13,15 +13,16 @@ def read_data(data_file):
 def find_not_unanimous_results(data):
     results = {}
     for index, row in data.iterrows():
-        file_name = row[0]
-        result = {}
-        for col_index, value in row[1:].items():
-            if value:
-                if value not in result:
-                    result[value] = []
-                result[value].append(col_index)
-        if len(result) > 1:
-            results[f'{file_name}'] = result
+        if 'Skipped' not in row.values and 'ERROR' not in row.values and 'NULL' not in row.values:
+            file_name = row[0]
+            result = {}
+            for col_index, value in row[1:].items():
+                if value:
+                    if value not in result:
+                        result[value] = []
+                    result[value].append(col_index)
+            if len(result) > 1:
+                results[f'{file_name}'] = result
     print(len(results))
     return results
 

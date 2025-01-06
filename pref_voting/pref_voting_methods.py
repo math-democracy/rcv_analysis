@@ -32,7 +32,7 @@ def create_profile(file_path):
         
         for i in range(1, num_ranks+1):
             candidate = row[f'rank{i}']
-            if candidate != 'overvote' and candidate != 'skipped' and candidate not in seen_candidates:
+            if candidate != 'overvote' and candidate != 'skipped' and candidate != 'Skipped' and candidate not in seen_candidates:
                 ranking[rank].append(candidate)
                 seen_candidates.add(candidate)
                 rank += 1
