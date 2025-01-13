@@ -1,13 +1,13 @@
 {
     "metadata": {
-        "total_elections": 477,
-        "elections_with_no_changes": 431,
+        "total_elections": 492,
+        "elections_with_no_changes": 441,
         "method_counts": {
-            "plurality": 40,
+            "plurality": 51,
             "IRV": 5,
-            "top-two": 6,
-            "borda-pm": 16,
-            "top-3-truncation": 25,
+            "top-two": 18,
+            "borda-pm": 30,
+            "top-3-truncation": 26,
             "condorcet": 17,
             "minimax": 6,
             "smith-minimax": 6,
@@ -1507,6 +1507,343 @@
                     "top-3-truncation": {
                         "baseline_winner": "Andrew Struthers",
                         "new_winner": "Charles Maughan"
+                    }
+                }
+            }
+        ],
+        "american/Alaska/Alaska_11052024_President.csv": [],
+        "american/Portland, ME/Portland_06082021_charter_commission_at_large.csv": [
+            {
+                "candidate_removed": "Washburn, Patricia J.",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "Sheikh-Yousef, Nasreen A.",
+                        "new_winner": "Chann, Marpheen S."
+                    }
+                }
+            },
+            {
+                "candidate_removed": "DiMillo, Steven A.",
+                "changes": {
+                    "top-two": {
+                        "baseline_winner": "Sheikh-Yousef, Nasreen A.",
+                        "new_winner": "Chann, Marpheen S."
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Bailey, William M.",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "Sheikh-Yousef, Nasreen A.",
+                        "new_winner": "DiMillo, Steven A."
+                    }
+                }
+            }
+        ],
+        "american/Maine/Maine_06122018_DemocraticPrimaryforGovernor.csv": [],
+        "american/Utah cities/Lehi_11022021_CityCouncil.csv": [],
+        "american/Alameda County/Oakland_11082022_Mayor.csv": [
+            {
+                "candidate_removed": "ALLYSSA VICTORY VILLANUEVA",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "LOREN MANUEL TAYLOR",
+                        "new_winner": "SHENG THAO"
+                    },
+                    "borda-pm": {
+                        "baseline_winner": "SHENG THAO",
+                        "new_winner": "LOREN MANUEL TAYLOR"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "GREGORY HODGE",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "SHENG THAO",
+                        "new_winner": "LOREN MANUEL TAYLOR"
+                    },
+                    "top-3-truncation": {
+                        "baseline_winner": "SHENG THAO",
+                        "new_winner": "LOREN MANUEL TAYLOR"
+                    }
+                }
+            }
+        ],
+        "american/Alameda County/Oakland_11052024_CityCouncil_AtLarge.csv": [],
+        "american/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT7.csv": [
+            {
+                "candidate_removed": "MYRNA MELGAR",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "JOEL ENGARDIO",
+                        "new_winner": "VILASKA NGUYEN"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "EMILY MURASE",
+                "changes": {
+                    "top-two": {
+                        "baseline_winner": "JOEL ENGARDIO",
+                        "new_winner": "MYRNA MELGAR"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "VILASKA NGUYEN",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "JOEL ENGARDIO",
+                        "new_winner": "MYRNA MELGAR"
+                    },
+                    "top-two": {
+                        "baseline_winner": "JOEL ENGARDIO",
+                        "new_winner": "MYRNA MELGAR"
+                    }
+                }
+            }
+        ],
+        "american/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict10.csv": [
+            {
+                "candidate_removed": "CHRIS JACKSON",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "LYNETTE SWEET",
+                        "new_winner": "TONY KELLY"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "DEWITT M. LACY",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "LYNETTE SWEET",
+                        "new_winner": "MALIA COHEN"
+                    },
+                    "top-two": {
+                        "baseline_winner": "LYNETTE SWEET",
+                        "new_winner": "MALIA COHEN"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "STEVE MOSS",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "LYNETTE SWEET",
+                        "new_winner": "TONY KELLY"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "JACKIE NORMAN",
+                "changes": {
+                    "top-two": {
+                        "baseline_winner": "LYNETTE SWEET",
+                        "new_winner": "MALIA COHEN"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "GEOFFREA MORRIS",
+                "changes": {
+                    "top-two": {
+                        "baseline_winner": "LYNETTE SWEET",
+                        "new_winner": "MALIA COHEN"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "RODNEY HAMPTON, JR.",
+                "changes": {
+                    "top-two": {
+                        "baseline_winner": "LYNETTE SWEET",
+                        "new_winner": "MALIA COHEN"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "TERESA DUQUE",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "LYNETTE SWEET",
+                        "new_winner": "MARLENE TRAN"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "ED DONALDSON",
+                "changes": {
+                    "top-two": {
+                        "baseline_winner": "LYNETTE SWEET",
+                        "new_winner": "MALIA COHEN"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "ERIC SMITH",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "LYNETTE SWEET",
+                        "new_winner": "TONY KELLY"
+                    },
+                    "top-two": {
+                        "baseline_winner": "LYNETTE SWEET",
+                        "new_winner": "MALIA COHEN"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "DIANE WESLEY SMITH",
+                "changes": {
+                    "top-two": {
+                        "baseline_winner": "LYNETTE SWEET",
+                        "new_winner": "MALIA COHEN"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "JAMES M. CALLOWAY",
+                "changes": {
+                    "top-two": {
+                        "baseline_winner": "LYNETTE SWEET",
+                        "new_winner": "MALIA COHEN"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "TONY KELLY",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "LYNETTE SWEET",
+                        "new_winner": "STEVE MOSS"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "ASHLEY H RHODES",
+                "changes": {
+                    "top-two": {
+                        "baseline_winner": "LYNETTE SWEET",
+                        "new_winner": "MALIA COHEN"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "MARLENE TRAN",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "LYNETTE SWEET",
+                        "new_winner": "TERESA DUQUE"
+                    }
+                }
+            }
+        ],
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember27thCouncilDistrict.csv": [],
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember49thCouncilDistrict.csv": [],
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember29thCouncilDistrict.csv": [],
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember1stCouncilDistrict.csv": [],
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember40thCouncilDistrict.csv": [],
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember7thCouncilDistrict.csv": [],
+        "american/Cambridge, MA/Cambridge_11042003_SchoolCommittee.csv": [
+            {
+                "candidate_removed": "Write-In 1",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "skipped",
+                        "new_winner": "Walser, Nancy"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Grassi, Joseph G.",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "skipped",
+                        "new_winner": "Walser, Nancy"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Price, Alan C.",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "skipped",
+                        "new_winner": "Walser, Nancy"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Lummis, Ben",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "skipped",
+                        "new_winner": "Walser, Nancy"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Craig, Christopher",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "skipped",
+                        "new_winner": "Walser, Nancy"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "UWI",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "skipped",
+                        "new_winner": "Walser, Nancy"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Walser, Nancy",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "skipped",
+                        "new_winner": "Harding, Richard, Jr."
+                    }
+                }
+            },
+            {
+                "candidate_removed": "McGovern, Marc C.",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "skipped",
+                        "new_winner": "Walser, Nancy"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Write-In 2",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "skipped",
+                        "new_winner": "Walser, Nancy"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Fantini, Alfred B.",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "skipped",
+                        "new_winner": "Walser, Nancy"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Harding, Richard, Jr.",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "skipped",
+                        "new_winner": "Walser, Nancy"
                     }
                 }
             }

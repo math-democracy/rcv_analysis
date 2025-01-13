@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 
-file_path = '/Users/belle/Desktop/build/rcv_proposal/analysis/results/australian_results.csv'  # Replace with your actual file path
+file_path = '/Users/belle/Desktop/build/rcv_proposal/analysis/results/america_results2.csv'  # Replace with your actual file path
 df = pd.read_csv(file_path)
 
 # get row where no candidates were removed
