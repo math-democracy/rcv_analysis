@@ -1,11 +1,11 @@
 {
     "metadata": {
         "total_elections": 1127,
-        "elections_with_no_changes": 788,
+        "elections_with_no_changes": 790,
         "method_counts": {
             "plurality": 192,
             "IRV": 2,
-            "top-two": 68,
+            "top-two": 65,
             "borda-pm": 75,
             "top-3-truncation": 120,
             "condorcet": 21,
@@ -2513,12 +2513,7 @@
         "scotland/processed_data/eilean-siar17-ballots/SteornabhaghaDeas_eilean-siar17-06.csv": {},
         "scotland/processed_data/eilean-siar17-ballots/AnTaobhSiaragusNis_eilean-siar17-09.csv": {},
         "scotland/processed_data/eilean-siar17-ballots/Barraigh,Bhatarsaigh,EirisgeighagusUibhistaDeas_eilean-siar17-01.csv": {},
-        "scotland/processed_data/eilean-siar17-ballots/LochaTuath_eilean-siar17-08.csv": {
-            "top-two": {
-                "baseline_winner": "unknown",
-                "top4": "Donald Finlayson CRICHTON (Ind)"
-            }
-        },
+        "scotland/processed_data/eilean-siar17-ballots/LochaTuath_eilean-siar17-08.csv": {},
         "scotland/processed_data/eilean-siar17-ballots/NaHearadhagusCeannaDeasnanLoch_eilean-siar17-03.csv": {},
         "scotland/processed_data/eilean-siar17-ballots/Ste\u00f2rnabhaghaTuath_eilean-siar17-07.csv": {
             "borda-pm": {
@@ -2905,12 +2900,7 @@
         "scotland/processed_data/scottish by-elections/Ward9-AlmondandEarn_Perth Kinross 2016 by-election ward 9.csv": {},
         "scotland/processed_data/scottish by-elections/Ward5-InverclydeWest_Inverclyde 2024 by-election ward 5.csv": {},
         "scotland/processed_data/scottish by-elections/Ward7-TainandEasterRoss_Highland 2024 by-election Ward 7.csv": {},
-        "scotland/processed_data/scottish by-elections/Ward2-KintyreandtheIslands_Argyll and Bute 2024 by-election Ward 2.csv": {
-            "top-two": {
-                "baseline_winner": "unknown",
-                "top4": "Anne HORN (SNP)"
-            }
-        },
+        "scotland/processed_data/scottish by-elections/Ward2-KintyreandtheIslands_Argyll and Bute 2024 by-election Ward 2.csv": {},
         "scotland/processed_data/scottish by-elections/Ward3-DunblaneandBridgeofAllan_Stirling 2024 August by-election ward 3.csv": {},
         "scotland/processed_data/scottish by-elections/Ward19-MotherwellSouthEastandRavenscraig_North Lanarkshire 2023 by-election Motherweel South East and Ravenscraig.csv": {},
         "scotland/processed_data/scottish by-elections/Dyce\u2010Bucksburn\u2010DanestoneWard_Aberdeen_2023_by_election_Dyce_Bucksburn_Danestone.csv": {},
@@ -3387,10 +3377,6 @@
         "scotland/processed_data/dumgal12-ballots/AnnandaleSouthWard_dumgal12-11.csv": {},
         "scotland/processed_data/dumgal12-ballots/MidGallowayWard_dumgal12-03.csv": {},
         "scotland/processed_data/dumgal12-ballots/CastleDouglasandGlenkensWard_dumgal12-05.csv": {
-            "top-two": {
-                "baseline_winner": "unknown",
-                "top4": "(Con) Finlay CARSON"
-            },
             "borda-pm": {
                 "baseline_winner": "(Ind) George N PRENTICE",
                 "top4": "(Con) Finlay CARSON"

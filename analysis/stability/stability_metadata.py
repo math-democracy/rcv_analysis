@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 
-file_path = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/scotland_results_top4.csv'  # Replace with file path
+file_path = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/american_results_top4.csv'  # Replace with file path
 df = pd.read_csv(file_path)
 
 methods = ['plurality', 'IRV', 'top-two', 'borda-pm', 'top-3-truncation', 'condorcet', 'minimax', 'smith', 'smith-minimax', 'ranked-pairs']
@@ -15,7 +15,7 @@ for _, row in df.iterrows():
     changes = {}
 
     for method in methods:
-        if row[method] != row[f'top{num_cands_kept}_{method}']:
+        if row[method] != "unknown" and row[method] != row[f'top{num_cands_kept}_{method}']:
             changes[method] = {
                 "baseline_winner": row[method],
                 f"top{num_cands_kept}":row[f'top{num_cands_kept}_{method}']
@@ -42,7 +42,7 @@ output_data = {
 }
 
 # write to output file
-output_file = "/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/scotland.json"
+output_file = "/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/american.json"
 with open(output_file, "w") as f:
     json.dump(output_data, f, indent=4)
 
