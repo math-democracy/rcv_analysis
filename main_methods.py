@@ -1,15 +1,18 @@
 import json
 import pandas as pd
 import numpy as np
+from typing import Optional
+
 import os
 import sys
 sys.path.append(os.path.abspath('pref_voting/'))
+
+#for loading files and converting into profiles for both votekit and pref_voting packages
 from new_csv_loader import new_loader
 import pref_voting_methods as creator
 
 #existing voting methods in both votekit and pref_voting. Default packages should ideally be assigned based on which package does each method better!
 import votekit.elections as v
-
 import pref_voting.voting_methods as p #
 
 #cleaning and other logistics
@@ -87,9 +90,9 @@ def TopTwo(
         
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 #Borda methods - we use votekit
+#right now Borda is the only method that takes in cands_to_keep. Must change so that every single method does this. 
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 
-#right now this is the only method that takes in cands_to_keep. Must change so that every single method does this. 
 def Borda_PM(
     filename: str,
     cands_to_keep: list[str] #include UWI in this if we want to keep it. If we want to keep everyone feed in full list of candidates
@@ -103,32 +106,122 @@ def Borda_PM(
         prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
 
     max_score=len(prof.candidates)-1 ##this will be equal to len(non_UWI_cands)-1 if UWI not in cands_to_keep, and to len(cands_to_keep)-1 if UWI is in cands_to_keep
-    vector = []
-    for i in range(len(prof.candidates)):
-        vector.append(max_score-i)
-    elected = list(v.Borda(profile = prof, score_vector = vector).election_states[-1].elected[0])[0]
+    ballots = prof.ballots
+    el_scores= {c:0 for c in cands}
+    for i in range(1,len(prof.candidates)+1):
+        bal = [b for b in ballots if len(b.ranking) == i]
+        for b in bal:
+            cands_in_b = []
+            for c in cands:
+                for y in b.ranking:
+                    if c in y:
+                        cands_in_b.append(c)
+                        break
+            not_in_b = [{c} for c in cands if c not in cands_in_b]
+            b=Ballot(ranking = list(b.ranking) + not_in_b, weight = b.weight)
+            vector = list(range(max_score,max_score-i,-1))+[0 for k in range(len(cands)-i)] 
+        p = PreferenceProfile(ballots = bal)
+        el = v.Borda(profile = p, score_vector = vector).election_states[0].scores
+        for c in cands:
+            if c not in el:
+                el[c]=0
+            el_scores[c]+=el[c]
+    winning_score = max(el_scores.values())
+    elected = [c for c in cands if el_scores[c]==winning_score]
     return elected
-  
+    
 #Borda OM
+def Borda_OM(
+    filename: str,
+    cands_to_keep: list[str] 
+):
+    prof= v_profile(filename)
+    if 'skipped' in cands_to_keep:
+        cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
+        
+    if len(cands_to_keep)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in cands_to_keep]
+        prof = remove_noncands(prof, noncands)
 
+    max_score=len(prof.candidates)-1 
+    ballots = prof.ballots
+    el_scores= {c:0 for c in cands}
+    for i in range(1,len(prof.candidates)+1):
+        bal = [b for b in ballots if len(b.ranking) == i]
+        for b in bal:
+            cands_in_b = []
+            for c in cands:
+                for y in b.ranking:
+                    if c in y:
+                        cands_in_b.append(c)
+                        break
+            not_in_b = [{c} for c in cands if c not in cands_in_b]
+            b=Ballot(ranking = list(b.ranking) + not_in_b, weight = b.weight)
+            vector = list(range(max_score,max_score-i,-1))+[max_score-i for k in range(len(cands)-i)] 
+        p = PreferenceProfile(ballots = bal)
+        el = v.Borda(profile = p, score_vector = vector).election_states[0].scores
+        for c in cands:
+            if c not in el:
+                el[c]=0
+            el_scores[c]+=el[c]
+    winning_score = max(el_scores.values())
+    elected = [c for c in cands if el_scores[c]==winning_score]
+    return elected
 
 
 
 #Borda AVG
+def Borda_AVG(
+    filename: str,
+    cands_to_keep: list[str] 
+):
+    prof= v_profile(filename)
+    if 'skipped' in cands_to_keep:
+        cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
+        
+    if len(cands_to_keep)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in cands_to_keep]
+        prof = remove_noncands(prof, noncands) 
+
+    max_score=len(prof.candidates)-1 
+    ballots = prof.ballots
+    el_scores= {c:0 for c in cands}
+    for i in range(1,len(prof.candidates)+1):
+        bal = [b for b in ballots if len(b.ranking) == i]
+        for b in bal:
+            cands_in_b = []
+            for c in cands:
+                for y in b.ranking:
+                    if c in y:
+                        cands_in_b.append(c)
+                        break
+            not_in_b = [{c} for c in cands if c not in cands_in_b]
+            b=Ballot(ranking = list(b.ranking) + not_in_b, weight = b.weight)
+            vector = list(range(max_score,max_score-i,-1))+[(max_score-i)/2 for k in range(len(cands)-i)] 
+        p = PreferenceProfile(ballots = bal)
+        el = v.Borda(profile = p, score_vector = vector).election_states[0].scores
+        for c in cands:
+            if c not in el:
+                el[c]=0
+            el_scores[c]+=el[c]
+    winning_score = max(el_scores.values())
+    elected = [c for c in cands if el_scores[c]==winning_score]
+    return elected
+
 
 
 #top3 truncation using 3-2-1. converts to 2-1 if we are only keeping 2 candidates
 def Top3Truncation(
     filename: str,
-    cands_to_keep: list[str] #include UWI in this if we want to keep it. If we want to keep everyone feed in full list of candidates
+    cands_to_keep: list[str]
 ):
     prof= v_profile(filename)
-    if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
+    if 'skipped' in cands_to_keep:
         cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
         
     if len(cands_to_keep)<len(prof.candidates):
         noncands = [c for c in prof.candidates if c not in cands_to_keep]
-        prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
+        prof = remove_noncands(prof, noncands) 
     if len(prof.candidates)==0:
         return 'skipped'
     elif len(prof.candidates)==1:
@@ -177,16 +270,16 @@ def Smith(
     return elected
 
 
-#Smith-IRV: this one is causing errors
+#Smith-IRV: this one is causing errors if we just use pref_voting, so I modified it by 
 def Smith_IRV(
     filename: str
 ):
     prof, file_path, candidates_with_indices = p_profile(filename)
-    el = p.smith_irv(prof)
-    elected = [candidates_with_indices[x] for x in el]
-    
+    el = p.top_cycle(prof)
+    elected = [candidates_with_indices[c] for c in p.instant_runoff_for_truncated_linear_orders(prof, curr_cands=el)]
     return elected
-    
+
+
 #Smith-minimax
 def Smith_minimax(
     filename: str
@@ -208,19 +301,30 @@ def Ranked_Pairs(
 
 
 #Condorcet plurality
+
+
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
-#Bucklin - this is causing errors. Currently uses pref_voting
+#Bucklin - custom, but uses votekit. Returns list of winners
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 
 def Bucklin(
     filename: str,
-    package: str = "pref_voting"
 ):
-    elected = []
-    prof, file_path, candidates_with_indices = p_profile(filename)
-    el = p.bucklin(prof)
-    elected = [candidates_with_indices[x] for x in el]
-    
+    elected =[]
+    prof = v_profile(filename)
+    num_cands = len(prof.candidates)
+    maj = sum(b.weight for b in prof.ballots)/2
+    for i in range(num_cands):
+        bal = prof.ballots
+        for b in bal:
+            b= Ballot(ranking = b.ranking[:i+1], weight = b.weight)
+        new_prof = PreferenceProfile(ballots = bal)
+        el_scores = v.Borda(profile = prof, score_vector = [1 for k in range(i+1)]).election_states[0].scores
+        if max(el_scores.values())>maj:
+            elected = [c for c in el_scores if el_scores[c]>maj and c!="skipped"]
+            break
+    if elected == []:
+        elected = [c for c in el_scores if el_scores[c]==max(el_scores.values()) and c!="skipped"] ##I'm not sure this can happen
     return elected
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 #Approval
@@ -230,5 +334,3 @@ def Bucklin(
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 #Others
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
-    
-    

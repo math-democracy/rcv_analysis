@@ -1,19 +1,21 @@
-from analysis.process.main_methods2 import *
+from main_methods2 import *
 import multiprocessing
 import csv
 import os
 
-data_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/results/australian_results.csv'
-root_dir = '/Users/belle/Desktop/build/rcv_proposal/australia/processed_data'
+data_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/civs_results.csv'
+root_dir = '/Users/belle/Desktop/build/rcv_proposal/civs/processed_data'
 
-error_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/results/australian_error.txt'
-processed_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/results/australian_processed.txt'
+error_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/civs_error.txt'
+processed_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/civs_processed.txt'
 all_data = []
 
 def run_voting_methods(full_path):
     # create profile + candidate list
     v =  v_profile(full_path)
+
     profile, file_path, candidates_with_indices, candidates = p_profile(full_path)
+
     candidates_index = list(range(len(candidates)))
     grouped_data = []
 
@@ -21,10 +23,10 @@ def run_voting_methods(full_path):
     data = {'file': full_path.replace('/Users/belle/Desktop/build/rcv_proposal/', ''), 'candidate_removed': 'none'}
         
     data['plurality'] = Plurality(prof=profile, cands_to_keep=candidates_index, candidates_with_indices=candidates_with_indices, package="pref_voting")
-    data['IRV'] = IRV(prof=v, cands_to_keep=candidates, candidates_with_indices=candidates_with_indices, package="votekit")
-    data['top-two'] = TopTwo(prof=v, cands_to_keep=candidates)
-    data['borda-pm'] = Borda_PM(prof=v, cands_to_keep=candidates)
-    data['top-3-truncation'] = Top3Truncation(prof=v, cands_to_keep=candidates)
+    data['IRV'] = IRV(prof=profile, cands_to_keep=candidates_index, candidates_with_indices=candidates_with_indices, package="pref_voting")
+    # data['top-two'] = TopTwo(prof=v, cands_to_keep=candidates)
+    # data['borda-pm'] = Borda_PM(prof=v, cands_to_keep=candidates)
+    # data['top-3-truncation'] = Top3Truncation(prof=v, cands_to_keep=candidates)
     data['condorcet'] = Condorcet(prof=profile, candidates_with_indices=candidates_with_indices, cands_to_keep=candidates_index)
     data['minimax'] = Minimax(prof=profile, candidates_with_indices=candidates_with_indices, cands_to_keep=candidates_index)
     data['smith'] = Smith(prof=profile, candidates_with_indices=candidates_with_indices, cands_to_keep=candidates_index)
@@ -35,20 +37,23 @@ def run_voting_methods(full_path):
 
     # check for spoiler effect by removing one candidate each time
     if len(candidates) > 1:
+        print(candidates)
         for index, c in enumerate(candidates):
             new_candidates = candidates.copy()
             new_candidates.remove(c)
             new_candidates_index = candidates_index.copy()
             new_candidates_index.remove(index)
-
+            print(c)
+            print(new_candidates)
+            print(new_candidates_index)
        
             data = {'file': full_path.replace('/Users/belle/Desktop/build/rcv_proposal/', ''), 'candidate_removed': c}
             
             data['plurality'] = Plurality(prof=profile, cands_to_keep=new_candidates_index, candidates_with_indices=candidates_with_indices, package="pref_voting")
-            data['IRV'] = IRV(prof=v, cands_to_keep=new_candidates, candidates_with_indices=candidates_with_indices, package="votekit")
-            data['top-two'] = TopTwo(prof=v, cands_to_keep=new_candidates)
-            data['borda-pm'] = Borda_PM(prof=v, cands_to_keep=new_candidates)
-            data['top-3-truncation'] = Top3Truncation(prof=v, cands_to_keep=new_candidates)
+            data['IRV'] = IRV(prof=profile, cands_to_keep=new_candidates_index, candidates_with_indices=candidates_with_indices, package="pref_voting")
+            # data['top-two'] = TopTwo(prof=v, cands_to_keep=new_candidates)
+            data['borda-pm'] = Borda_PM(prof=profile, cands_to_keep=new_candidates, candidates_with_indices=candidates_with_indices)
+            # data['top-3-truncation'] = Top3Truncation(prof=v, cands_to_keep=new_candidates)
             data['condorcet'] = Condorcet(prof=profile, candidates_with_indices=candidates_with_indices, cands_to_keep=new_candidates_index)
             data['minimax'] = Minimax(prof=profile, candidates_with_indices=candidates_with_indices, cands_to_keep=new_candidates_index)
             data['smith'] = Smith(prof=profile, candidates_with_indices=candidates_with_indices, cands_to_keep=new_candidates_index)
@@ -106,3 +111,4 @@ def main():
 if __name__ == '__main__':
     main()
             
+# process_file('/Users/belle/Desktop/build/rcv_proposal/test.csv', 'test.csv')

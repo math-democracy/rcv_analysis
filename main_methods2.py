@@ -104,20 +104,25 @@ def TopTwo(
 #right now this is the only method that takes in cands_to_keep. Must change so that every single method does this. 
 def Borda_PM(
     prof,
-    cands_to_keep: list[str] #include UWI in this if we want to keep it. If we want to keep everyone feed in full list of candidates
+    cands_to_keep, #include UWI in this if we want to keep it. If we want to keep everyone feed in full list of candidates
+    candidates_with_indices = None
 ):
-    if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
-        cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
+    # if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
+    #     cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
         
-    prof = process_cands(prof, cands_to_keep)
+    # prof = process_cands(prof, cands_to_keep)
 
-    max_score=len(prof.candidates)-1 ##this will be equal to len(non_UWI_cands)-1 if UWI not in cands_to_keep, and to len(cands_to_keep)-1 if UWI is in cands_to_keep
-    vector = []
-    for i in range(len(prof.candidates)):
-        vector.append(max_score-i)
+    # max_score=len(prof.candidates)-1 ##this will be equal to len(non_UWI_cands)-1 if UWI not in cands_to_keep, and to len(cands_to_keep)-1 if UWI is in cands_to_keep
+    # vector = []
+    # for i in range(len(prof.candidates)):
+    #     vector.append(max_score-i)
 
-    elected = list(v.Borda(profile = prof, score_vector = vector).election_states[-1].elected[0])[0]
-    return elected
+    # elected = list(v.Borda(profile = prof, score_vector = vector).election_states[-1].elected[0])[0]
+    # return elected
+    if len(p.borda_for_profile_with_ties(prof)) == 1:
+        return candidates_with_indices[p.borda_for_profile_with_ties(prof)[0]]
+    else:
+        return "unknown"
   
 #Borda OM
 
