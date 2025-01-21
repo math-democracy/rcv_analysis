@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 import re
-file_path = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/results/australian_results.csv'  # Replace with your actual file path
+file_path = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/results/civs_results.csv'  # Replace with your actual file path
 df = pd.read_csv(file_path)
 
 # Get row where no candidates were removed
@@ -21,6 +21,18 @@ def extract_party(candidate_name):
     match = re.search(party_regex, candidate_name)
     return match.group(1) if match else None
 
+def normalize(value):
+    try:
+        # Convert numeric strings to floats first
+        value = float(value)
+        # Convert to int if it has no decimal part
+        if value.is_integer():
+            return int(value)
+        return value
+    except ValueError:
+        # Handle non-numeric strings
+        return str(value)
+
 for _, row in df.iterrows():
     file = row['file']
     candidate_removed = row['candidate_removed']
@@ -34,7 +46,7 @@ for _, row in df.iterrows():
 
         for method in original_winners[file]:
             # Skip if original winner is the candidate removed since that will definitely change winner
-            if original_winners[file][method] == candidate_removed or row[method] == "unknown":
+            if normalize(original_winners[file][method]) == normalize(candidate_removed) or row[method] == "unknown":
                 continue
             if row[method] != original_winners[file][method]:
                 # new_winner_party = extract_party(row[method])
