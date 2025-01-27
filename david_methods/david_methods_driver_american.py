@@ -7,13 +7,14 @@ import os
 import pandas as pd
 import numpy as np
 
-data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/david_methods/processed_results/australia_results.csv' # output file
-root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/australia/processed_data' # data (ex: /Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/australia/processed_data)
+data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/david_methods/processed_results/american_results.csv' # output file
+root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/american/processed_data' # data (ex: /Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/australia/processed_data)
 
 error_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/david_methods/processed_results/american_error.txt'
 processed_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/david_methods/processed_results/american_processed.txt'
 all_data = []
 
+processed = []
 error_d = []
 
 def file_less_than_3mb(file_path):
@@ -33,7 +34,11 @@ def read_file(filepath):
     profile = profile.value_counts().reset_index(name='Count')
 
     rank = [c for c in columns if 'rank' in c]
+
     candidates = list(np.unique(profile[rank].values))
+
+    if 'skipped' in candidates:
+        candidates.remove('skipped')
 
     return profile, candidates, num_cands
     
@@ -47,15 +52,21 @@ def run_voting_methods(full_path):
 
     data['irv'] = IRV(profile, candidates, num_cands)
     data['plurality'] = plurality(profile, candidates, num_cands)
-    data['plurality_runoff'] = plurality_runoff(profile, candidates, num_cands)
+
+    try:
+        data['plurality_runoff'] = plurality_runoff(profile, candidates, num_cands)
+    except Exception as e:
+        data['plurality_runoff'] = "ERROR"
+
     data['borda_pm'] = Borda_PM(profile, candidates, num_cands)
-    data['borda_om'] = Borda_OM(profile, candidates, num_cands)
-    data['borda_avg_keep_uwi'] = Borda_AVG(profile, candidates, num_cands, False)
-    data['borda_avg_no_uwi'] = Borda_AVG(profile, candidates, num_cands, True)
-    #data['borda_trunc_points_scheme'] = Borda_trunc_points_scheme(profile, candidates, num_cands,)
+    #data['borda_om_keep_uwi'] = Borda_OM(profile, candidates, num_cands, True)
+    data['borda_om_no_uwi'] = Borda_OM(profile, candidates, num_cands, False)
+    # data['borda_avg_keep_uwi'] = Borda_AVG(profile, candidates, num_cands, True)
+    data['borda_avg_no_uwi'] = Borda_AVG(profile, candidates, num_cands, False)
+    data['borda_trunc_points_scheme'] = Borda_trunc_points_scheme(profile, candidates, num_cands,[3,2,1])
     data['condorcet'] = Condorcet_winner(profile, candidates, num_cands, None, matrix)
-    data['weak_condorcet'] = Weak_Condorcet_winner(profile, candidates, num_cands, None)
-    data['minimix'] = minimax_winner(profile, candidates, num_cands, None, matrix)
+    #data['weak_condorcet'] = Weak_Condorcet_winner(profile, candidates, num_cands, None)
+    data['minimax'] = minimax_winner(profile, candidates, num_cands, None, matrix)
     data['smith_set'] = Smith_set(profile, candidates, num_cands, None, matrix)
     data['bucklin'] = Bucklin(profile, candidates, num_cands)
     grouped_data.append(data)
@@ -88,9 +99,10 @@ def process_file(full_path, filename):
 def main():
     for dirpath, dirnames, filenames in os.walk(root_dir):
         for filename in filenames:
-            print(filename)
-            if (filename.endswith('.blt') or filename.endswith('.csv') or filename.endswith('.txt')):
+            
+            if filename not in processed and filename not in error_d and (filename.endswith('.blt') or filename.endswith('.csv') or filename.endswith('.txt')):
                 full_path = os.path.join(dirpath, filename)
+                print(full_path)
                 if __name__ == '__main__':
                     p = multiprocessing.Process(target=process_file, args=(full_path,filename))
                     p.start()

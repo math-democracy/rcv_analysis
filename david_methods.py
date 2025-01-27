@@ -141,7 +141,7 @@ def Borda_OM(pref_profile, cands_to_keep, num_cands, keep_UWI):
         ]
         for unranked_cand in unranked_candidates:
             cand_scores[unranked_cand] += max(0, (max_score - cutoff_rank+1)) * count
-    print(cand_scores)
+    #print(cand_scores)
     # Find the winner(s)
     max_score = max(cand_scores.values())
     winners = [cand for cand, score in cand_scores.items() if score == max_score]
