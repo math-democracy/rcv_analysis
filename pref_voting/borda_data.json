@@ -1,0 +1,100 @@
+[
+    {
+        "keys": [
+            "borda_om_no_uwi"
+        ],
+        "value": 209
+    },
+    {
+        "keys": [
+            "borda_avg_no_uwi",
+            "borda_pm",
+            "borda_trunc_points_scheme"
+        ],
+        "value": 198
+    },
+    {
+        "keys": [
+            "borda_trunc_points_scheme"
+        ],
+        "value": 96
+    },
+    {
+        "keys": [
+            "borda_avg_no_uwi",
+            "borda_om_no_uwi",
+            "borda_pm"
+        ],
+        "value": 85
+    },
+    {
+        "keys": [
+            "borda_avg_no_uwi",
+            "borda_pm"
+        ],
+        "value": 64
+    },
+    {
+        "keys": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "value": 53
+    },
+    {
+        "keys": [
+            "borda_om_no_uwi",
+            "borda_pm",
+            "borda_trunc_points_scheme"
+        ],
+        "value": 14
+    },
+    {
+        "keys": [
+            "borda_avg_no_uwi"
+        ],
+        "value": 14
+    },
+    {
+        "keys": [
+            "borda_pm"
+        ],
+        "value": 3
+    },
+    {
+        "keys": [
+            "borda_avg_no_uwi",
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "value": 3
+    },
+    {
+        "keys": [
+            "borda_pm",
+            "borda_trunc_points_scheme"
+        ],
+        "value": 1
+    },
+    {
+        "keys": [
+            "borda_avg_no_uwi",
+            "borda_om_no_uwi"
+        ],
+        "value": 1
+    },
+    {
+        "keys": [
+            "borda_om_no_uwi",
+            "borda_pm"
+        ],
+        "value": 1
+    },
+    {
+        "keys": [
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "value": 1
+    }
+]

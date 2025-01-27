@@ -1,0 +1,254 @@
+[
+    {
+        "methods": [
+            "borda_avg_no_uwi",
+            "borda_pm"
+        ],
+        "elections": 545
+    },
+    {
+        "methods": [
+            "condorcet",
+            "minimax"
+        ],
+        "elections": 545
+    },
+    {
+        "methods": [
+            "condorcet",
+            "smith_set"
+        ],
+        "elections": 545
+    },
+    {
+        "methods": [
+            "minimax",
+            "smith_set"
+        ],
+        "elections": 545
+    },
+    {
+        "methods": [
+            "minimax",
+            "plurality_runoff"
+        ],
+        "elections": 466
+    },
+    {
+        "methods": [
+            "plurality_runoff",
+            "smith_set"
+        ],
+        "elections": 463
+    },
+    {
+        "methods": [
+            "condorcet",
+            "plurality_runoff"
+        ],
+        "elections": 462
+    },
+    {
+        "methods": [
+            "borda_pm",
+            "minimax"
+        ],
+        "elections": 446
+    },
+    {
+        "methods": [
+            "borda_pm",
+            "smith_set"
+        ],
+        "elections": 445
+    },
+    {
+        "methods": [
+            "borda_pm",
+            "condorcet"
+        ],
+        "elections": 444
+    },
+    {
+        "methods": [
+            "borda_avg_no_uwi",
+            "minimax"
+        ],
+        "elections": 433
+    },
+    {
+        "methods": [
+            "borda_avg_no_uwi",
+            "smith_set"
+        ],
+        "elections": 432
+    },
+    {
+        "methods": [
+            "borda_avg_no_uwi",
+            "condorcet"
+        ],
+        "elections": 431
+    },
+    {
+        "methods": [
+            "borda_pm",
+            "borda_trunc_points_scheme"
+        ],
+        "elections": 414
+    },
+    {
+        "methods": [
+            "borda_trunc_points_scheme",
+            "minimax"
+        ],
+        "elections": 410
+    },
+    {
+        "methods": [
+            "borda_trunc_points_scheme",
+            "smith_set"
+        ],
+        "elections": 407
+    },
+    {
+        "methods": [
+            "borda_trunc_points_scheme",
+            "condorcet"
+        ],
+        "elections": 406
+    },
+    {
+        "methods": [
+            "borda_trunc_points_scheme",
+            "plurality_runoff"
+        ],
+        "elections": 404
+    },
+    {
+        "methods": [
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "elections": 399
+    },
+    {
+        "methods": [
+            "borda_pm",
+            "plurality_runoff"
+        ],
+        "elections": 388
+    },
+    {
+        "methods": [
+            "borda_avg_no_uwi",
+            "plurality_runoff"
+        ],
+        "elections": 375
+    },
+    {
+        "methods": [
+            "borda_om_no_uwi",
+            "minimax"
+        ],
+        "elections": 332
+    },
+    {
+        "methods": [
+            "borda_om_no_uwi",
+            "condorcet"
+        ],
+        "elections": 326
+    },
+    {
+        "methods": [
+            "borda_om_no_uwi",
+            "smith_set"
+        ],
+        "elections": 326
+    },
+    {
+        "methods": [
+            "borda_trunc_points_scheme",
+            "plurality"
+        ],
+        "elections": 308
+    },
+    {
+        "methods": [
+            "borda_om_no_uwi",
+            "borda_pm"
+        ],
+        "elections": 305
+    },
+    {
+        "methods": [
+            "borda_avg_no_uwi",
+            "borda_om_no_uwi"
+        ],
+        "elections": 292
+    },
+    {
+        "methods": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "elections": 276
+    },
+    {
+        "methods": [
+            "borda_om_no_uwi",
+            "plurality_runoff"
+        ],
+        "elections": 275
+    },
+    {
+        "methods": [
+            "plurality",
+            "plurality_runoff"
+        ],
+        "elections": 266
+    },
+    {
+        "methods": [
+            "minimax",
+            "plurality"
+        ],
+        "elections": 213
+    },
+    {
+        "methods": [
+            "plurality",
+            "smith_set"
+        ],
+        "elections": 209
+    },
+    {
+        "methods": [
+            "condorcet",
+            "plurality"
+        ],
+        "elections": 208
+    },
+    {
+        "methods": [
+            "borda_pm",
+            "plurality"
+        ],
+        "elections": 199
+    },
+    {
+        "methods": [
+            "borda_avg_no_uwi",
+            "plurality"
+        ],
+        "elections": 186
+    },
+    {
+        "methods": [
+            "borda_om_no_uwi",
+            "plurality"
+        ],
+        "elections": 78
+    }
+]

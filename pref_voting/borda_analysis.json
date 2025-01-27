@@ -1,0 +1,3689 @@
+{"america": {
+    "american/processed_data/Alaska/Alaska_11082022_HouseDistrict21.csv": {
+        "['Mears, Donna C.']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Wolfe, Forrest M.']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11082022_HouseDistrict18.csv": {
+        "['Nelson, David']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Groh, Cliff']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11082022_HouseDistrict40.csv": {
+        "['Patkotak, Josiah B. \"Aullaqsruaq\"']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Write-in']": [
+            "borda_avg_no_uwi"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11052024_StateHouseD33.csv": {
+        "['Prax, Glenn \"Mike\"']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Prax, Glenn \"Mike\"', 'Write-in']": [
+            "borda_avg_no_uwi"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11052024_StateHouseD26.csv": {
+        "['Tilton, Cathy']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Write-in']": [
+            "borda_avg_no_uwi"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11052024_StateHouseD3.csv": {
+        "['Story, Andrea \"Andi\"']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Write-in']": [
+            "borda_avg_no_uwi"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11052024_StateHouseD24.csv": {
+        "['Saddler, Dan']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Write-in']": [
+            "borda_avg_no_uwi"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11082022_HouseDistrict3.csv": {
+        "['Story, Andrea \"Andi\"']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Write-in']": [
+            "borda_avg_no_uwi"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11052024_StateHouseD25.csv": {
+        "['Johnson, DeLena M.']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Write-in']": [
+            "borda_avg_no_uwi"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11082022_SenateDistrictB.csv": {
+        "['Kiehl, Jesse']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Write-in']": [
+            "borda_avg_no_uwi"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11052024_StateHouseD6.csv": {
+        "['Vance, Sarah L.']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Johnson, Brent']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11082022_HouseDistrict6.csv": {
+        "['Vance, Sarah L.']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Flora, Louis A. \"Louie\"']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11082022_SenateDistrictP.csv": {
+        "['Kawasaki, Scott']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Matherly, Jim']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11052024_StateHouseD4.csv": {
+        "['Hannan, Sara']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Write-in']": [
+            "borda_avg_no_uwi"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11052024_StateSenateB.csv": {
+        "['Kiehl, Jesse']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Write-in']": [
+            "borda_avg_no_uwi"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11082022_HouseDistrict8.csv": {
+        "['Carpenter, Ben']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Write-in']": [
+            "borda_avg_no_uwi"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11052024_StateHouseD15.csv": {
+        "['Costello, Mia']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Wells, Denny']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11052024_StateHouseD29.csv": {
+        "['Rauscher, George']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Write-in']": [
+            "borda_avg_no_uwi"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11052024_StateSenateP.csv": {
+        "['Kawasaki, Scott']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Hajdukovich, Leslie W.']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11052024_StateHouseD17.csv": {
+        "['Fields, William Z. \"Zack\"']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Write-in']": [
+            "borda_avg_no_uwi"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11082022_HouseDistrict15.csv": {
+        "['Wells, Denny']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['McKay, Thomas W. \"Tom\"']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11082022_HouseDistrict38.csv": {
+        "['McCormick, Conrad J. \"C.J.\"']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Write-in']": [
+            "borda_avg_no_uwi"
+        ]
+    },
+    "american/processed_data/Alaska/Alaska_11052024_US_House.csv": {
+        "['Begich, Nick']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Peltola, Mary S.']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/Minneapolis/Minneapolis_11022021_CityCouncilWard2.csv": {
+        "['Yusra Arab']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Robin Wonsley Worlobah']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/Minneapolis/Minneapolis_11072017_PRBoardDistrict4.csv": {
+        "['Tom Nordyke']": [
+            "borda_pm",
+            "borda_trunc_points_scheme"
+        ],
+        "['Jono Cowgill']": [
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ]
+    },
+    "american/processed_data/Minneapolis/Minneapolis_11052013_Ward13CityCouncil.csv": {
+        "['MATT PERRY']": [
+            "borda_pm"
+        ],
+        "['LINEA PALMISANO']": [
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "american/processed_data/Pierce County, WA/PierceCounty_11042008_CountyExecutiveMember.csv": {
+        "['Pat McCarthy']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Shawn Bunney']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "american/processed_data/Pierce County, WA/PierceCounty_11042008_CountyAssessorTreasurer.csv": {
+        "['Jan Shabro']": [
+            "borda_pm"
+        ],
+        "['Dale Washam']": [
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "american/processed_data/Utah cities/Moab_11022021_CityCouncil.csv": {
+        "['JASON TAYLOR']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['LUKE WOJCIECHOWSKI']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/APA/APA 2018 BOD race2.csv": {
+        "['Shannon L. Wiltsey Stirman PhD']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Kim E. Dixon PhD']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/APA/APA 2009.csv": {
+        "['Cand 4']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Cand 0']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/Alameda County/Oakland_11022010_Mayor.csv": {
+        "['JEAN QUAN']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['DON PERATA']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/Alameda County/Oakland_11082022_Schoolboarddistrict4.csv": {
+        "['NICK RESNICK']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['MIKE HUTCHINSON']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/Alameda County/SanLeandro_11062012_CountyCouncilDistrict2.csv": {
+        "['URSULA REED']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['MORGAN MACK-ROSE']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/Alameda County/SanLeandro_11062018_CountyCouncilDistrict3.csv": {
+        "['VICTOR AGUILAR, JR.']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['LEE THOMAS']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "american/processed_data/San Francisco/SanFrancisco_11052024_BoS_D7.csv": {
+        "['MYRNA MELGAR']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['MATT BOSCHETTO']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/San Francisco/SanFrancisco_06052018_Mayor.csv": {
+        "['MARK LENO']": [
+            "borda_pm"
+        ],
+        "['LONDON BREED']": [
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "american/processed_data/San Francisco/SanFrancisco_11052024_BoS_D11.csv": {
+        "['CHYANNE CHEN']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['MICHAEL LAI']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/San Francisco/SanFrancisco_11052024_BoS_D1.csv": {
+        "['CONNIE CHAN']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['MARJAN PHILHOUR']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/San Francisco/SanFrancisco_11052019_DistrictAttorney.csv": {
+        "['CHESA BOUDIN']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['SUZY LOFTUS']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict11.csv": {
+        "['KIM ALVARENGA']": [
+            "borda_pm",
+            "borda_om_no_uwi"
+        ],
+        "['AHSHA SAFAI']": [
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "american/processed_data/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT1.csv": {
+        "['MARJAN PHILHOUR']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['CONNIE CHAN']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "american/processed_data/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT3.csv": {
+        "['AARON PESKIN']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['DANNY SAUTER']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict1.csv": {
+        "['SUE LEE']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['ERIC MAR']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "american/processed_data/New York City/NewYorkCity_06222021_REPBoroughPresidentRichmond.csv": {
+        "['Vito Fossella']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Steven Matteo']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv": {
+        "['Vanessa L. Gibson']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Fernando Cabrera']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv": {
+        "['Marko Kepi']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['David M. Carr']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember36thCouncilDistrict.csv": {
+        "['Chi A. Osse']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Tahirah A. Moore']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "american/processed_data/Cambridge, MA/Cambridge_11082005_SchoolCommittee.csv": {
+        "['Walser, Nancy']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Nolan, Patricia M.']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "american/processed_data/Corvallis, OR/Corvallis_11082022_Mayor.csv": {
+        "['Andrew Struthers']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Charles Maughan']": [
+            "borda_om_no_uwi"
+        ]
+    }
+},
+"scotland": {
+    "scotland/processed_data/dumgal17-ballots/Nith_dumgal17-09.csv": {
+        "['Elaine MURRAY (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Malcolm JOHNSTONE (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/dumgal17-ballots/AnnandaleSouth_dumgal17-10.csv": {
+        "['Ian CARRUTHERS (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Richard BRODIE (LD)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/dumgal17-ballots/AnnandaleNorth_dumgal17-11.csv": {
+        "['Doug FAIRBAIRN (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Gail MACGREGOR (Con)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/dumgal17-ballots/MidGallowayandWigtownWest_dumgal17-02.csv": {
+        "['David INGLIS (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Jim MCCOLM (Ind)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/dumgal17-ballots/CastleDouglasandCrocketford_dumgal17-04.csv": {
+        "['Iain HOWIE (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['David JAMES (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/dumgal17-ballots/NorthWestDumfries_dumgal17-06.csv": {
+        "['David MCKIE (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Graham BELL (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/dumgal17-ballots/DeeandGlenkens_dumgal17-03.csv": {
+        "['Patsy GILROY (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Jane MAITLAND (Ind)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/dumgal17-ballots/Abbey_dumgal17-05.csv": {
+        "['Ian BLAKE (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Davie STITT (Lab)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/w-lothian17-ballots/Ward5-EastLivingstonandEastCalder_w-lothian17-05.csv": {
+        "['Dave KING (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Carl JOHN (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/glasgow12/Ward7Langside_glasgow12-07-recalc.csv": {
+        "['Archie GRAHAM (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Susan AITKEN (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/glasgow12/Ward5Govan_glasgow12-05.csv": {
+        "['James ADAMS (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Allison HUNTER (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/glasgow12/Ward11Hillhead_glasgow12-11.csv": {
+        "['Martha WARDROP (Grn)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Ken ANDREW (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/stirling12-ballots/BannockburnWard_stirling12-07.csv": {
+        "['Margaret BRISLEY (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Alasdair MACPHERSON (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/glasgow2007 preflib/govan_govan.csv": {
+        "['# ALTERNATIVE NAME 6: Allison Hunter (SNP)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['# ALTERNATIVE NAME 3: Stephen Dornan (Lab)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/glasgow2007 preflib/Pollokshields_pollokshields.csv": {
+        "['# ALTERNATIVE NAME 6: Irfan Rabbani (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['# ALTERNATIVE NAME 3: Khalil Malik (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/glasgow2007 preflib/SouthsideCentral_southsidecentral.csv": {
+        "['# ALTERNATIVE NAME 7: Anne Marie Millar (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['# ALTERNATIVE NAME 2: Jahangir Hanif (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/glasgow2007 preflib/Langside_langside.csv": {
+        "['# ALTERNATIVE NAME 4: Archie Graham (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['# ALTERNATIVE NAME 2: James Dornan (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/glasgow2007 preflib/Craigtonward_craigton.csv": {
+        "['# ALTERNATIVE NAME 10: Alistair Watson (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['# ALTERNATIVE NAME 5: Matthew John Kerr (Lab)']": [
+            "borda_om_no_uwi"
+        ],
+        "['# ALTERNATIVE NAME 4: Iris Gibson (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/glasgow2007 preflib/Canalward_canal.csv": {
+        "['# ALTERNATIVE NAME 4: Ellen Hurcombe (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['# ALTERNATIVE NAME 8: Billy Mcallister (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/glasgow2007 preflib/Andersonward_anderston.csv": {
+        "['# ALTERNATIVE NAME 3: Philip Braat (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['# ALTERNATIVE NAME 7: Craig Mackay (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/glasgow2007 preflib/Partick_partick.csv": {
+        "['# ALTERNATIVE NAME 6: Christopher Mason (LD)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['# ALTERNATIVE NAME 7: Kenny Mclean (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/glasgow2007 preflib/Newlands_newlands.csv": {
+        "['# ALTERNATIVE NAME 7: Jim Mcnally (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['# ALTERNATIVE NAME 5: Colin Deans (SNP)']": [
+            "borda_om_no_uwi"
+        ],
+        "['# ALTERNATIVE NAME 4: Stephen Curran (Lab)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/fife12-ballots/GlenrothesCentralAndThorntonWard_fife12-16.csv": {
+        "['Ian SLOAN (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Ross VETTRAINO (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/e-renfs17-ballots/Clarkston,NetherleeandWilliamwood_e-renfs17-4.csv": {
+        "['David MACDONALD (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Stewart MILLER (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/e-renfs17-ballots/GiffnockandThornliebank_e-renfs17-3.csv": {
+        "['Gordon WALLACE (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Jim FLETCHER (Lab)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/moray22/Ward2-KeithandCullen_file141894.csv": {
+        "['Theresa COULL (SNP)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Donald GATT (Con)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/moray22/Ward4-FochabersLhanbryde_file141896.csv": {
+        "['Marc MACRAE (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Shona MORRISON (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/moray22/Ward1-SpeysideGlenlivet_file141884.csv": {
+        "['Derek ROSS (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Juli HARRIS (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/glasgow22/Ward15Maryhill_Ward15.csv": {
+        "[\"Keiran O'NEILL Glasgow (Lab)\"]": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Franny SCALLY (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/glasgow22/Ward16Canal_Ward16.csv": {
+        "['Fiona E HIGGINS Glasgow (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Allan GOW (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/glasgow22/Ward18EastCentre_Ward18.csv": {
+        "['Ann JENKINS Glasgow (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Annette CHRISTIE (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/glasgow22/Ward6Pollokshields_Ward6.csv": {
+        "['Zen GHANI (SNP)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Jon MOLYNEUX Re-elect your (Grn) Councillor']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/glasgow22/Ward14Drumchapel-Anniesland_Ward14.csv": {
+        "['Paul CAREY Glasgow (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Anne MCTAGGART (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/glasgow22/Ward2Newlands-Auldburn_Ward2.csv": {
+        "['Stephen CURRAN Glasgow (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Sean FERGUSON (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/glasgow22/Ward7Langside_Ward7.csv": {
+        "['Holly BRUCE (Grn)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Susan AITKEN (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/glasgow22/Ward13Garscadden-Scotstounhill_Ward13.csv": {
+        "['Bill BUTLER Glasgow (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Chris CUNNINGHAM (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/glasgow22/Ward4Cardonald_Ward4.csv": {
+        "['Jim KAVANAGH Glasgow (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Elaine MCSPORRAN (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/aberdeenshire12-ballots/MearnsWard_aberdeenshire12-19.csv": {
+        "['Bill HOWATSON (LD)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Jean DICK (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/aberdeenshire12-ballots/BanchoryandMidDeesideWard_aberdeenshire12-16.csv": {
+        "['Jill WEBSTER (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['KAREN CLARK (LD)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/aberdeenshire12-ballots/AboyneUpperDeesideandDonsideWard_aberdeenshire12-15.csv": {
+        "['Katrina FARQUHAR (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Peter ARGYLE (LD)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/aberdeenshire12-ballots/HuntlyStrathbogieandHoweofAlfordWard_aberdeenshire12-14.csv": {
+        "['Joanna STRATHDEE (SNP)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Moira INGLEBY (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/sc-borders22/Ward2-TweeddaleEast_sc borders,2022,ward 2.csv": {
+        "['Robin TATLER (Ind)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Marshall Neil DOUGLAS (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/inverclyde17-ballots/InverclydeEastCentral_inverclyde17-02.csv": {
+        "['Robert MORAN (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Jim MACLEOD (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/e-lothian22/Ward1-Musselburgh_Ward1.csv": {
+        "['Andy FORREST (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Cher CASSINI (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/s-ayrshire12-ballots/Ward2-Prestwick_s-ayrshire12-02.csv": {
+        "['Hugh HUNTER (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Ian COCHRANE (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/e-duns17-ballots/BishopbriggsSouth_e-duns17-05.csv": {
+        "['Alan MOIR (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Gordan LOW (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/e-duns17-ballots/BishopbriggsNorthandCampsie_e-duns17-04.csv": {
+        "['Billy HENDRY (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Paul FERRETTI (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/angus17-ballots/MontroseandDistrict_angus17-08.csv": {
+        "['Mark SALMOND (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Ron STURROCK (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/angus17-ballots/BrechinandEdzell_angus17-02.csv": {
+        "['Bob MYLES (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Gavin NICOL (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/moray12-ballots/HeldonandLaichWard_moray12-05.csv": {
+        "['Eric MCGILLIVRAY (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Carolle RALPH (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/moray12-ballots/ElginCityNorthWard_moray12-06.csv": {
+        "['Barry Alexander JARVIS (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Mike SHAND (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/n-ayrshire22/Ward04-Arran_Preference-Profile-Arran_copy.csv": {
+        "['Timothy BILLINGS (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Steve GARRAWAY (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/n-ayrshire22/Ward03-Ardrossan_Preference-Profile-Ardrossan_copy.csv": {
+        "['Amanda KERR (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Tony GURNEY (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/n-ayrshire22/Ward09-IrvineSouth_Preference-Profile-Irvine-South_copy.csv": {
+        "['Robert FOSTER (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Christina LARSEN (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/n-ayrshire22/Ward01-NorthCoast_Preference-Profile-North-Coast_copy.csv": {
+        "['Ian MURDOCH (Ind)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Alan HILL (SNP)']": [
+            "borda_om_no_uwi"
+        ],
+        "['Eleanor COLLIER (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/highland17-ballots/Ward19-InvernessSouth_highland17-19.csv": {
+        "['Carolyn CADDICK (LD)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['KEN GOWANS (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/highland17-ballots/Ward1-North,WestandCentralSutherland_highland17-01.csv": {
+        "['Linda MUNRO (LD)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Hugh MORRISON (Ind)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/highland17-ballots/Ward5-WesterRoss,StrathpefferandLochalsh_highland17-05.csv": {
+        "['Biz CAMPBELL (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Ian COCKBURN (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/s-lanarks17-ballots/Ward18-HamiltonWestandEarnock_s-lanarks17-18.csv": {
+        "['Allan FALCONER (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Mary DONNELLY (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/s-lanarks17-ballots/Ward16-BothwellandUddingston_s-lanarks17-16.csv": {
+        "['Maureen DEVLIN (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Kenny MCCREARY (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/s-lanarks17-ballots/Ward5-AvondaleandStonehouse_s-lanarks17-05.csv": {
+        "['Graeme CAMPBELL (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Margaret COOPER (Lab)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/s-lanarks17-ballots/Ward9-EastKilbrideWest_s-lanarks17-09.csv": {
+        "['Ian HARROW (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['David WATSON (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/s-lanarks17-ballots/Ward12-RutherglenCentralandNorth_s-lanarks17-12.csv": {
+        "['Gerard KILLEN (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Janine CALIKES (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/s-lanarks17-ballots/Ward19-HamiltonSouth_s-lanarks17-19.csv": {
+        "['Joe LOWE (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['John ROSS (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/s-lanarks17-ballots/Ward13-CambuslangWest_s-lanarks17-13.csv": {
+        "['Margaret WALKER (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Clare MCCOLL (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/eilean-siar12-ballots/SteornabhaghaTuath_eilean-siar12-07.csv": {
+        "['RODDIE MACKAY (Ind)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Iain MACKENZIE (Ind)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/e-ayrshire17-ballots/Annick_e-ayrshire17-01.csv": {
+        "['John MCFADZEAN (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Gordon JENKINS (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/e-ayrshire17-ballots/Ballochmyle_e-ayrshire17-07.csv": {
+        "['Neil MCGHEE (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Claire LEITCH (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/e-ayrshire17-ballots/KilmarnockWestandCrosshouse_e-ayrshire17-03.csv": {
+        "['Iain LINTON (SNP)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Tom COOK (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/angus22/Ward3-ForfarandDistrict_ward3.csv": {
+        "['Ian MCLAREN (Ind)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Linda CLARK (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/angus22/Ward5-CarnoustieandDistrict_ward5.csv": {
+        "['David CHEAPE (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Mark James MCDONALD (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/w-lothian22/Ward7-WhitburnandBlackburn_west lothian,2022,ward 7.csv": {
+        "['George PAUL (Labour and Co-operative Party)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['JIM DICKSON (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/w-lothian22/Ward6-FauldhouseandtheBreichValley_west lothian,2022,ward 6.csv": {
+        "['Cathy MULDOON (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Pauline CLARK (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/w-lothian22/Ward4-LivingstonSouth_west lothian,2022,ward 4.csv": {
+        "['Lawrence FITZPATRICK (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Maria MACAULAY (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/renfs12-ballots/10.BishoptonBridgeofWeir&LangbankWard_renfs12-10.csv": {
+        "['Mike HOLMES (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Maria BROWN (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/perth-kinross12-ballots/Strathallan_perth-kinross12-07.csv": {
+        "['Murray LYLE (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Tom GRAY (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/perth-kinross12-ballots/Strathearn_perth-kinross12-06.csv": {
+        "['Ann COWAN (Con)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Anne YOUNGER (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/renfs22/Ward7-PaisleySouthwest_Preference_profile_for_Ward_7_Paisley_Southwest_copy.csv": {
+        "['Lorraine CAMERON (SNP)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Stephen BURNS (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/renfs22/Ward11-BishoptonBridgeofWeirandLangbank_Preference_profile_for_Ward_11_Bishopton_Bridge_of_Weir_and_Langbank_copy.csv": {
+        "['Colin Alan MCCULLOCH (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Fiona AIRLIE-NICOLSON (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/argyll-bute17-ballots/KintyreandtheIslands_argyll-bute17-02.csv": {
+        "['Robin CURRIE (LD)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Anne HORN (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/argyll-bute17-ballots/ObanSouthandtheIsles_argyll-bute17-04.csv": {
+        "['Roddy MCCUISH (Ind)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Mary-Jean DEVON (Ind)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/argyll-bute17-ballots/LomondNorth_argyll-bute17-09.csv": {
+        "['Barbara MORGAN (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['George FREEMAN (Ind)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/shetland17/Ward1-NorthIsles_shetland17-01.csv": {
+        "['Ryan James Andrew THOMSON (Ind)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Ryan James Andrew THOMSON (Ind)', 'Alec George PRIEST (Ind)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/n-ayrshire17-ballots/NorthCoastandCumbraes_n-ayrshire17-08.csv": {
+        "['Tom MARSHALL (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Alan HILL (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/n-ayrshire17-ballots/Stevenston_n-ayrshire17-04.csv": {
+        "['John SWEENEY (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Davina MCTIERNAN (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/n-ayrshire17-ballots/ArdrossanandArran_n-ayrshire17-05.csv": {
+        "['Tony GURNEY (SNP)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Timothy BILLINGS (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/n-ayrshire17-ballots/IrvineSouth_n-ayrshire17-10.csv": {
+        "['Robert FOSTER (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Christina LARSEN (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/aberdeenshire22/Ward16-BanchoryandMidDeeside_preferenceprofile_v0001_ward-16-banchory-and-mid-deeside_06052022_172124.csv": {
+        "['Yi-pei CHOU TURVEY (LD)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Ann ROSS (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/aberdeenshire22/Ward4-CentralBuchan_preferenceprofile_v0001_ward-4-central-buchan_06052022_172124.csv": {
+        "['Hannah POWELL (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['David MAIR (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/aberdeenshire22/Ward10-WestGarioch_preferenceprofile_v0001_ward-10-west-garioch_06052022_172124.csv": {
+        "['Hazel Linda SMITH (LD)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Moray Charles GRANT (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/aberdeenshire22/Ward1-BanffandDistrict_ward1.csv": {
+        "[' John Barclay COX(Ind) ']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "[' Glen David REYNOLDS (SNP) ']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/aberdeenshire22/Ward14-HuntlyStrathbogieandHoweofAlford_preferenceprofile_v0001_ward-14-huntly-strathbogie-and-howe-of-alford_06052022_172124.csv": {
+        "['Lauren KNIGHT (Con)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Gwyneth Elaine PETRIE (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/aberdeenshire22/Ward8-MidFormartine_preferenceprofile_v0001_ward-8-mid-formartine_06052022_172123.csv": {
+        "['Paul JOHNSTON (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Jenny NICOL (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/aberdeenshire22/Ward7-TurriffandDistrict_preferenceprofile_v0001_ward-7-turriff-and-district_06052022_172118.csv": {
+        "['Anne STIRLING (LD)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Iain Walker TAYLOR (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/aberdeenshire22/Ward6-PeterheadSouthandCruden_preferenceprofile_v0001_ward-6-peterhead-south-and-cruden_06052022_172115.csv": {
+        "['Stephen William SMITH (SNP)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['George HALL (Con)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/edinburgh22/Ward2-PentlandHills_ward2.csv": {
+        "['Stephen Philip JENKINSON (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Neil Thomas GARDINER (SNP)']": [
+            "borda_om_no_uwi"
+        ],
+        "['Graeme BRUCE (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/edinburgh22/Ward4-Forth_ward4.csv": {
+        "['Cammy DAY (Labour and Co-operative Party)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Stuart DOBBIN (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/edinburgh22/Ward13-Leith_ward13.csv": {
+        "['Chas BOOTH (Grn)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Adam MCVEY (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/perth-kinross22/Ward3-BlairgowrieandGlens_Ward3.csv": {
+        "['Caroline SHIERS (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Tom MCEWAN (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/falkirk17-ballots/Ward9-UpperBraes_falkirk17-09.csv": {
+        "['John MCLUCKIE (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['James KERR (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/falkirk17-ballots/Ward8-LowerBraes_falkirk17-08.csv": {
+        "['Malcolm NICOL (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Adanna Bridget MCCUE (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/n-lanarks17-ballots/Ward17-MotherwellWest_n-lanarks17-017.csv": {
+        "['Paul KELLY (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Annette VALENTINE (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/n-lanarks17-ballots/Ward18-MotherwellNorth_n-lanarks17-018.csv": {
+        "[\"Pat O'ROURKE (Lab)\"]": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Olivia CARSON (Lab)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/n-lanarks17-ballots/Ward7-CoatbridgeNorth_n-lanarks17-007.csv": {
+        "['Alex MCVEY (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Kirsten LARSON (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/highland22/CromartyFirth_PreferenceProfile_V0001_Cromarty_Firth_06052022_161538.csv": {
+        "['Molly NOLAN (LD)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Pauline MUNRO (Ind)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/highland22/BlackIsle_PreferenceProfile_V0001_Black_Isle_06052022_161539.csv": {
+        "['Morven-May MACCALLUM (LD)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Lyndsey JOHNSTON (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/highland22/InvernessSouth_PreferenceProfile_V0001_Inverness_South_06052022_161540.csv": {
+        "['Duncan MACPHERSON (Ind)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Ken GOWANS (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/edinburgh12-ballots/Craigentinny_DuddingstonWard_edinburgh12-14.csv": {
+        "['Joan GRIFFITHS (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Stefan TYMKEWYCZ(SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/e-duns22-ballots/Ward6-Lenzie&KirkintillochSouth_ward6.csv": {
+        "['Callum MCNALLY (Labour and Co-operative Party)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Gillian RENWICK (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/e-duns22-ballots/Ward4-BishopbriggsNorth&Campsie_ward4.csv": {
+        "['Colette MCDIARMID (Labour and Co-operative Party)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Paul FERRETTI (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/stirling22/Ward5-StirlingWest_preferenceprofile_v0001_ward-5-stirling-west_06052022_124253.csv": {
+        "['Jen PRESTON (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Neil BENNY (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/stirling22/Ward3-DunblaneandBridgeofAllan_preferenceprofile_v0001_ward-3-dunblane-and-bridge-of-allan_06052022_124253.csv": {
+        "['Alasdair TOLLEMACHE Re-elect your (Grn) Councillor']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Douglas DODDS (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/s-lanarks22/Ward5-AvondaleandStonehouse_ward_5_avondale_and_stonehouse_preference_profile.csv": {
+        "['Margaret COOPER (Ind)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Elise FRAME (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/s-lanarks22/Ward8-EastKilbrideCentralNorth_ward_8_east_kilbride_central_north_preference_profile.csv": {
+        "['Joe FAGAN (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Grant FERGUSON (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/s-lanarks22/Ward18-HamiltonWestandEarnock_ward_18_hamilton_west_and_earnock_preference_profile.csv": {
+        "['Allan FALCONER (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Mary DONNELLY (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/s-lanarks22/Ward4-ClydesdaleSouth_ward_4_clydesdale_south_preference_profile.csv": {
+        "['Ross GOWLAND (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Mark HORSHAM (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/s-lanarks22/Ward3-ClydesdaleEast_ward_3_clydesdale_east_preference_profile.csv": {
+        "['Alex ALLISON (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Ian MCALLAN (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/aberdeen2017/TorryFerryhillWard_aberdeen17-12.csv": {
+        "['Yvonne ALLAN (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Christian Guy ALLARD (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/aberdeen2017/DyceBucksburnDanestoneWard_aberdeen17-01.csv": {
+        "['Neil MACGREGOR (SNP)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Avril MACKENZIE (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/aberdeen2017/GeorgeStHarbourWard_aberdeen17-08.csv": {
+        "['Michael Frederick HUTCHISON (SNP)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Dell HENRICKSON (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/sc-borders12-ballots/JedburghandDistrictWard_sc-borders12-09.csv": {
+        "['Len WYSE (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Jim BROWN (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/argyll22/Ward9-LomondNorth_ward9.csv": {
+        "['George FREEMAN (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Maurice CORRY (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/argyll22/Ward2-KintyreandtheIslands_ward2.csv": {
+        "['John MCALPINE (Ind)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Robin CURRIE (LD)']": [
+            "borda_om_no_uwi"
+        ],
+        "['Dougie MCFADZEAN (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/argyll22/Ward10-HelensburghCentral_ward10.csv": {
+        "['Fiona HOWARD (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Gary MULVANEY (Con)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/n-lanarks22/Ward17-MotherwellWest_Preference Profile Ward 17 Motherwell West.csv": {
+        "['Paul KELLY (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['David CRICHTON (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/n-lanarks22/Ward1-Kilsyth_Preference Profile Ward 1 Kilsyth.csv": {
+        "['Jean JONES (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Heather BRANNAN-MCVEY (Lab)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/n-lanarks22/Ward8-AirdrieNorth_Preference Profile Ward 8 Airdrie North.csv": {
+        "['Henry Emerson DUNBAR (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Sophia COYLE (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/n-lanarks22/Ward12-AirdrieSouth_Preference Profile Ward 12 Airdrie South.csv": {
+        "['Michael Joseph COYLE (SNP)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Michael MCBRIDE (Lab)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/n-lanarks22/Ward9-AirdrieCentral_Preference Profile WArd 9 Airdrie Central.csv": {
+        "['Jim LOGUE (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Lesley JARVIE (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/n-lanarks22/Ward21-Wishaw_Preference Profile Ward 21 Wishaw.csv": {
+        "['Frank MCKAY (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Fiona FOTHERINGHAM (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/n-lanarks22/Ward18-MotherwellNorth_Preference Profile Ward 18 Motherwell North.csv": {
+        "['Andrew DUFFY-LAWSON (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Gerry BRENNAN (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/n-lanarks22/Ward5-SteppsChrystonandMuirhead_Preference Profile Ward 5 Stepps, Chryston and Muirhead.csv": {
+        "['John MCLAREN (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Josh CAIRNS (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/sc-borders17/Ward1-TweeddaleWest_sc-borders17-01.csv": {
+        "['Eric SMALL (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Kris CHAPMAN (LD)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/sc-borders17/Ward3-GalashielsandDistrict_sc-borders17-03.csv": {
+        "['Euan JARDINE (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Sandy AITCHISON (Ind)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/edinburgh17-ballots/Ward5-Inverleith_edinburgh17-05.csv": {
+        "['Hal OSLER (LD)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Max MITCHELL (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/edinburgh17-ballots/Ward15-Southside-Newington_edinburgh17-15.csv": {
+        "['Ian PERRY (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Steve BURGESS (Grn)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/edinburgh17-ballots/Ward10-Morningside_edinburgh17-10.csv": {
+        "['Neil ROSS (LD)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Melanie MAIN (Grn)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/edinburgh17-ballots/Ward4-Forth_edinburgh17-04.csv": {
+        "['Cammy DAY (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Eleanor BIRD (SNP)']": [
+            "borda_om_no_uwi"
+        ],
+        "['Jim CAMPBELL (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/edinburgh17-ballots/Ward12-LeithWalk_edinburgh17-12.csv": {
+        "['Susan RAE (Grn)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Amy MCNEESE-MECHAN (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/midlothian17-ballots/MidlothianWest_midlothian17-04.csv": {
+        "['Russell IMRIE (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Kelly PARRY (SNP)']": [
+            "borda_om_no_uwi"
+        ],
+        "['Pauline WINCHESTER (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/midlothian17-ballots/Penicuik_midlothian17-01.csv": {
+        "['Adam MONTGOMERY (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Debbi MCCALL (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/n-lanarks12-ballots/Ward2CumbernauldNorth_n-lanarks12-02.csv": {
+        "['Bob CHADHA (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Alan MASTERTON (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/n-lanarks12-ballots/Ward17MotherwellNorth_n-lanarks12-17.csv": {
+        "['Peter NOLAN (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Helen MCKENNA (Lab)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/n-lanarks12-ballots/Ward11AirdrieSouth_n-lanarks12-11.csv": {
+        "['Tom CURLEY (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['MICHAEL COYLE (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/n-lanarks12-ballots/Ward7AirdrieNorth_n-lanarks12-07.csv": {
+        "['Tommy MORGAN (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Sophia COYLE (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/glasgow17-ballots/Ward14DrumchapelAnniesland_glasgow17-014.csv": {
+        "['Paul CAREY (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Malcolm BALFOUR (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/glasgow17-ballots/Ward17SpringburnRobroyston_glasgow17-017.csv": {
+        "['Martin MCELROY (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Christina CANNON (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/glasgow17-ballots/Ward19Shettleston_glasgow17-019.csv": {
+        "['Frank MCAVEETY (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Laura DOHERTY (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv": {
+        "['Maureen BURKE (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Ruairi KELLY (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/glasgow17-ballots/Ward23PartickEastKelvindale_glasgow17-023.csv": {
+        "['Martin BARTOS (Grn)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Kenny MCLEAN (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/glasgow17-ballots/Ward18EastCentre_glasgow17-018.csv": {
+        "['Frank DOCHERTY (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Annette CHRISTIE (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/glasgow17-ballots/Ward4Cardonald_glasgow17-004.csv": {
+        "['Matt KERR (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Elaine MCSPORRAN (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/n-ayrshire12-ballots/Ward01-IrvineWest_n-ayrshire12-01.csv": {
+        "['Ian CLARKSON (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Matthew BROWN (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/perth-kinross17-ballots/Ward6-Strathearn_perth-kinross17-06.csv": {
+        "['Rhona BROCK (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Roz MCCALL (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/perth-kinross17-ballots/Ward8-Kinross-shire_perth-kinross17-08.csv": {
+        "['Willie ROBERTSON (LD)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Callum PURVES (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/perth-kinross17-ballots/Ward12-PerthCityCentre_perth-kinross17-12.csv": {
+        "['Chris AHERN (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Peter Anthony BARRETT (LD)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/clackmannanshire22/Ward4ClackmannanshireSouth_ward4.csv": {
+        "['Craig HOLDEN (SNP)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Ellen FORSON (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/renfs17-ballots/Ward10-Houston,CrossleeandLinwood_renfs17-10.csv": {
+        "['Alison Jean DOWLING (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Audrey DOIG (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/renfs17-ballots/Ward1-RenfrewNorthandBraehead_renfs17-01.csv": {
+        "['Bill BROWN (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['John SHAW (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/renfs17-ballots/Ward3-PaisleyNortheastandRalston_renfs17-03.csv": {
+        "['JIM SHARKEY (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Jennifer Marion ADAM-MCGREGOR (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/renfs17-ballots/Ward7-PaisleySouthwest_renfs17-07.csv": {
+        "['Kevin MONTGOMERY (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Lorraine CAMERON (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/argyll-bute12-ballots/COWALWARD_argyll-bute12-06.csv": {
+        "['Alex MCNAUGHTON (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['William Gordon BLAIR (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/argyll-bute12-ballots/HELENSBURGHCENTRALWARD_argyll-bute12-10.csv": {
+        "['Aileen MORTON (LD)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Vivien DANCE (Ind)', 'Aileen MORTON (LD)']": [
+            "borda_om_no_uwi"
+        ],
+        "['Vivien DANCE (Ind)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/eilean-siar17-ballots/Ste\u00f2rnabhaghaTuath_eilean-siar17-07.csv": {
+        "['Gordon MURRAY (SNP)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Roddie MACKAY (Ind)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/highland12-ballots/InvernessSouthWard_highland12-20.csv": {
+        "['Carolyn CADDICK (LD)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Ken GOWANS (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/highland12-ballots/NorthWestandCentralSutherlandWard_highland12-01.csv": {
+        "['Hugh MORRISON (Ind)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['George FARLOW (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/highland12-ballots/InvernessWestWard_highland12-14.csv": {
+        "['Graham ROSS (Ind)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Alex GRAHAM (LD)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/highland12-ballots/FortWilliamandArdnamurchanWard_highland12-22.csv": {
+        "['Thomas MACLENNAN (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Bren GORMLEY (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/s-lanarks12-ballots/Ward7-EastKilbrideCentralSouth_s-lanarks12-07.csv": {
+        "['Gerry CONVERY (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['John ANDERSON (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/falkirk22/Ward5-BonnybridgeandLarbert_ward5.csv": {
+        "['Billy BUCHANAN (Ind)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Bryan DEAKIN (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/falkirk22/Ward8-LowerBraes_ward8.csv": {
+        "['Anne HANNAH (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Gordon FORREST (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/dumgal22/Ward1-StranraerandtheRhins_ward1.csv": {
+        "['Willie SCOBIE (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Andrew GIUSTI (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/dumgal22/Ward3-DeeandGlenkens_ward3.csv": {
+        "['Dougie CAMPBELL (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Andy MCFARLANE (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/dumgal22/Ward9-Nith_ward9.csv": {
+        "['John Gillespie CAMPBELL (SNP)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Keith WALTERS (Lab)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/dumgal22/Ward10-AnnandaleSouth_ward10.csv": {
+        "['Richard John BRODIE (LD)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Ian CARRUTHERS (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/dumgal22/Ward8-Lochar_ward8.csv": {
+        "['Linda DORWARD (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Tracey LITTLE (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/dumgal22/Ward11-AnnandaleNorth_ward11.csv": {
+        "['Gail MACGREGOR (Con)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Stephen THOMPSON (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/dumgal22/Ward6-NorthWestDumfries_ward6.csv": {
+        "['Andy FERGUSON (SNP)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Emma JORDAN (Lab)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/s-ayrshire22/Ward2-Prestwick_south ayrshire,2022ward 2.csv": {
+        "['Hugh HUNTER (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Ian COCHRANE (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/s-ayrshire22/Ward6-Kyle_south ayrshire,2022ward 6.csv": {
+        "['Duncan TOWNSON (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Julie DETTBARN (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/s-ayrshire22/Ward7-MayboleNorthCarrickandCoylton_south ayrshire,2022ward 7.csv": {
+        "['Brian CONNOLLY (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['William James GRANT (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/s-ayrshire17-ballots/Maybole,NorthCarrickandCoylton_s-ayrshire17-07.csv": {
+        "['Brian CONNOLLY (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Iain CAMPBELL (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/s-ayrshire17-ballots/AyrEast_s-ayrshire17-04.csv": {
+        "['Mary KILPATRICK (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Chris CULLEN (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/fife22/Ward11-KirkcaldyCentral_PreferenceProfile_V0001_Ward-11-Kirkcaldy-Central_06052022_145551.csv": {
+        "['Judy HAMILTON (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Alistair CAMERON (Lab)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/fife22/Ward5-Rosyth_PreferenceProfile_V0001_Ward-5-Rosyth_06052022_145544.csv": {
+        "['Andrew VERRECCHIA (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Brian John GOODALL (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/fife22/Ward9-BurntislandKinghorn&WesternKirkcaldy_PreferenceProfile_V0001_Ward-9-Burntisland-Kinghorn-and-Western-Kirkcaldy_06052022_145551.csv": {
+        "['Julie MACDOUGALL (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Lesley Rankin BACKHOUSE (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/fife22/Ward3-DunfermlineCentral_PreferenceProfile_V0001_Ward-3-Dunfermline-Central_06052022_145551.csv": {
+        "['Aude BOUBAKER-CALDER (LD)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Derek Gareth GLEN (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/scottish by-elections/Ward6-CromartyFirth_Highland 2023 by-election Ward 6.csv": {
+        "['John EDMONDSON (LD)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Sinclair COGHILL (Ind)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/scottish by-elections/Ward1-Strathmartine_Dundee 2024 by-election Starthmartine.csv": {
+        "['Jimmy BLACK (SNP)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Jenny BLAIN (LD)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/scottish by-elections/Ward11Hillhead_Glasgow 2023 by-election Hillhead.csv": {
+        "['Ruth HALL Glasgow (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Seonad HOY (Grn)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/scottish by-elections/Ward14-InvernessCentral_Highland 2024 by-election Ward 14.csv": {
+        "['Michael GREGSON (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Martin MACGREGOR (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/scottish by-elections/Ward2-Lochee_Dundee 2024 by-election Lochee.csv": {
+        "['Marty SMITH (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Lee MILLS (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/scottish by-elections/Ward19-Mearns_aberdeenshire 2024 by-election ward 19.csv": {
+        "['Tracey SMITH (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Isobel KNIGHTS (LD)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/scottish by-elections/Ward8-IsleofBute_Argyll Bute by-election Isle of Bute 2021.csv": {
+        "['Kim FINDLAY (UNKNOWN)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Liz MCCABE (UNKNOWN)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/scottish by-elections/Ward9LomondNorth_Argyll Bute by-election 2021 Lomond North.csv": {
+        "['Paul Collins (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Mark Irvine (Ind)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/scottish by-elections/Ward5-LeaderdaleandMelrose_Scottish Borders 2021 by-elction Ward 5.csv": {
+        "['Jenny LINEHAN (UNKNOWN)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Jonny ADAMSON (UNKNOWN)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/scottish by-elections/Ward12-LeithWalk_edinburgh 2019 by-election Leith Walk.csv": {
+        "['Lorna SLATER (UNKNOWN)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Rob MUNN (UNKNOWN)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/scottish by-elections/Ward19-InvernessSouth_Highland 2024 by-election Ward 19.csv": {
+        "['Duncan Cameron MCDONALD (Ind)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Jonathan CHARTIER (LD)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/angus12-ballots/ArbroathEastandLunan_angus12-07.csv": {
+        "['(Ind) Bob SPINK']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['(SNP) Sheena WELSH']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/angus12-ballots/ForfarandDistrict_angus12-03.csv": {
+        "['(SNP) Glennis MIDDLETON']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['(Ind) COLIN BROWN']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/moray17-ballots/Buckie_moray17-03.csv": {
+        "['Tim EAGLE (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Gordon MCDONALD (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/moray17-ballots/KeithandCullen_moray17-02.csv": {
+        "['Donald GATT (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Theresa Ann COULL (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/moray17-ballots/Forres_moray17-08.csv": {
+        "['Claire FEAVER (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['George ALEXANDER (Ind)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/orkney17-ballots/NorthIslesWard_orkney17-06.csv": {
+        "['Kevin WOODBRIDGE (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Graham SINCLAIR (Ind)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/orkney17-ballots/KirkwallEastWard_orkney17-01.csv": {
+        "['Gwenda SHEARER (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Steven HEDDLE (Ind)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/inverclyde22/Ward2-InverclydeEastCentral_PreferenceProfile_Ward-2.csv": {
+        "['Robert MORAN (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Jim MACLEOD (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/inverclyde22/Ward3-InverclydeCentral_PreferenceProfile_Ward-3.csv": {
+        "['Michael MCCORMICK (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Pam ARMSTRONG (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/aberdeenshire17-ballots/Ward7-TurriffandDistrict_aberdeenshire17-07.csv": {
+        "['Iain TAYLOR (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Anne ROBERTSON (LD)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/aberdeenshire17-ballots/Ward12-EastGarioch_aberdeenshire17-12.csv": {
+        "['Fergus HOOD (LD)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Dominic LONCHAY (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/aberdeenshire17-ballots/Ward4-CentralBuchan_aberdeenshire17-04.csv": {
+        "['Marion Anne BUCHAN (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Jim INGRAM (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/aberdeenshire17-ballots/Ward8-MidFormartine_aberdeenshire17-08.csv": {
+        "['Jim GIFFORD (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Paul JOHNSTON (Ind)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/aberdeenshire17-ballots/Ward1-BanffandDistrict_aberdeenshire17-01.csv": {
+        "['Mike ROY (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['John COX (Ind)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/aberdeenshire17-ballots/Ward3-FraserburghandDistrict_aberdeenshire17-03.csv": {
+        "['Doreen MAIR (Ind)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Andy KILLE (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/aberdeenshire17-ballots/Ward9-EllonandDistrict_aberdeenshire17-09.csv": {
+        "['Gillian OWEN (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Isobel DAVIDSON (LD)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/aberdeenshire17-ballots/Ward10-WestGarioch_aberdeenshire17-10.csv": {
+        "['Sebastian LESLIE (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Hazel SMITH (LD)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/aberdeen2012/Ward2-BridgeofDon_aberdeen12-02.csv": {
+        "['(SNP) Muriel JAFFREY']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['(Ind) John REYNOLDS']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/fife17-ballots/Ward4-DunfermlineSouth_fife17-04.csv": {
+        "['James CALDER (LD)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Ross PATERSON (Lab)']": [
+            "borda_om_no_uwi"
+        ],
+        "['Brian John GOODALL (SNP)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/fife17-ballots/Ward3-DunfermlineCentral_fife17-03.csv": {
+        "['Jim LEISHMAN (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Alan CRAIG (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/fife17-ballots/Ward12-KirkcaldyEast_fife17-12.csv": {
+        "['IAN JOHN CAMERON (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Rod CAVANAGH (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/fife17-ballots/Ward22-Buckhaven,Methil&WemyssVillages_fife17-22.csv": {
+        "['David GRAHAM (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Ken CALDWELL (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/fife17-ballots/Ward9-Burntisland,Kinghorn&WesternKirkcaldy_fife17-09.csv": {
+        "['SUSAN LESLIE (LD)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Lesley BACKHOUSE (SNP)']": [
+            "borda_om_no_uwi"
+        ],
+        "['KATHLEEN LESLIE (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/fife17-ballots/Ward2-DunfermlineNorth_fife17-02.csv": {
+        "['Helen LAW (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Ian FERGUSON (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/e-renfs12-ballots/NeilstonUplawmoorandNewtonMearnsNorthWard_e-renfs12-01.csv": {
+        "['Elaine GREEN (Lab)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Charlie GILBERT (Con)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/w-duns22/Ward2-Leven_west dunbartonshire,2022,ward 2.csv": {
+        "['John Kelly MILLAR (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Ian DICKSON (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/e-renfs22/Ward5\u2010NewtonMearnsSouthandEaglesham_ward5_copy.csv": {
+        "['Jim MCLEAN (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Paul EDLIN (Con)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/w-duns17-ballots/Leven_w-duns17-02.csv": {
+        "['Jim BOLLAN (WDuns)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Ian DICKSON (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/w-duns17-ballots/Lomond_w-duns17-01.csv": {
+        "['Martin ROONEY (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['Jonathan MCCOLL (SNP)']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/stirling17-ballots/StirlingWest_stirling17-05.csv": {
+        "['Neil BENNY (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Scott FARMER (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/stirling17-ballots/DunblaneandBridgeofAllan_stirling17-03.csv": {
+        "['Douglas DODDS (Con)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Alastair MAJURY (Con)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/dumgal12-ballots/CastleDouglasandGlenkensWard_dumgal12-05.csv": {
+        "['(Ind) George N PRENTICE']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['(Con) Finlay CARSON']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/dumgal12-ballots/AnnandaleEastandEskdaleWard_dumgal12-13.csv": {
+        "['(Con) Denis MALE']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['(Lab) Archie DRYBURGH']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/dumgal12-ballots/AnnandaleNorthWard_dumgal12-12.csv": {
+        "['(Con) Gail MACGREGOR']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['(Con) Roger GRANT']": [
+            "borda_om_no_uwi"
+        ],
+        "['(Lab) Ted BROWN']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/w-lothian12-ballots/Bathgate_w-lothian12-08.csv": {
+        "['Jim WALKER (SNP)']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['John MCGINTY (Lab)']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/e-ayrshire22/Ward3-KilmarnockWestandCrosshouse_Ward3.csv": {
+        "['Lillian JONES (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Iain LINTON (SNP)']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "scotland/processed_data/e-ayrshire22/Ward7-Ballochmyle_Ward7.csv": {
+        "['Linda HOLLAND (Lab) ']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['Claire LEITCH (SNP) ']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "scotland/processed_data/e-ayrshire22/Ward1-Annick_Ward1.csv": {
+        "['John MCGHEE (Lab)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['Ellen FREEL (Ind)']": [
+            "borda_om_no_uwi"
+        ]
+    }
+},
+"australia": {
+    "australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Shoalhaven-mayoral-finalpreferencedatafile.csv": {
+        "['FINDLEY Amanda']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['GREEN Paul']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Hunters_Hill-mayoral-finalpreferencedatafile.csv": {
+        "['MILES Zac']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['QUINN Richard']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Kempsey-mayoral-finalpreferencedatafile.csv": {
+        "['HAUVILLE Leo']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['CAMPBELL Liz']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Wollongong-mayoral-finalpreferencedatafile.csv": {
+        "['BRADBERY Gordon']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['BROWN Tania']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Liverpool-mayoral-finalpreferencedatafile.csv": {
+        "['MANNOUN Ned']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['HAGARTY Nathan']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NSW_LegAssembly_2017_ByElections/SB1702 LA Pref Data_NA_Murray.csv": {
+        "['EVANS Austin']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['DALTON Helen']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NSW_LegAssembly_2017_ByElections/SB1701 LA Pref Data_NA_North Shore.csv": {
+        "['WILSON Felicity']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['CORRIGAN Carolyn']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NSW_LegAssembly_2017_ByElections/SB1701 LA Pref Data_NA_Manly.csv": {
+        "['GRIFFIN James']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['RIDGE Kathryn']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Camden.csv": {
+        "['SIDGREAVES Peter']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['QUINNELL Sally']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Bega.csv": {
+        "['CONSTANCE Andrew']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['ATKINSON Leanne']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Wollondilly.csv": {
+        "['SMITH Nathaniel']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['HANNAN Judy']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Coogee.csv": {
+        "['NOTLEY-SMITH Bruce']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "[\"O'NEILL Marjorie\"]": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Pittwater.csv": {
+        "['STOKES Robert']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['KORZY Miranda']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data East Hills.csv": {
+        "['LINDSAY Wendy']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['MURPHY Cameron']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Monaro.csv": {
+        "['BARILARO John']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['WILSON Bryce']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Parramatta.csv": {
+        "['LEE Geoffrey']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['SCULLY Liz']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data North Shore.csv": {
+        "['WILSON Felicity']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['CORRIGAN Carolyn']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Penrith.csv": {
+        "['AYRES Stuart']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['McKEOWN Karen']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Terrigal.csv": {
+        "['CROUCH Adam']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['SUNDSTROM Jeff']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Dubbo.csv": {
+        "['SAUNDERS Dugald']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['DICKERSON Mathew']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lane Cove.csv": {
+        "['ROBERTS Anthony']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['ZBIK Andrew']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Tweed.csv": {
+        "['PROVEST Geoff']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['ELLIOT Craig']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Manly.csv": {
+        "['GRIFFIN James']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['GLANVILLE Kristyn']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Upper Hunter.csv": {
+        "['JOHNSEN Michael']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['DAGG Melanie']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Coffs Harbour.csv": {
+        "['SINGH Gurmesh']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['TOWNLEY Sally']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lismore.csv": {
+        "['CURTIN Austin']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['SAFFIN Janelle']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Hawkesbury.csv": {
+        "['PRESTON Robyn']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['REYNOLDS Peter']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Heathcote.csv": {
+        "['EVANS Lee']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['STUART Maryanne']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Myall Lakes.csv": {
+        "['BROMHEAD Stephen']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['KEEGAN David']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Vaucluse.csv": {
+        "['UPTON Gabrielle']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['McEWIN Megan']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Willoughby.csv": {
+        "['JAMES Tim']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['PENN Larissa']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Monaro.csv": {
+        "['OVERALL Nichole']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['WILSON Bryce']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Holsworthy.csv": {
+        "['GIBBONS Melanie']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['KALIYANDA Charishma']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Wollongong.csv": {
+        "['HAY Noreen']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['RORRIS Arthur']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Penrith.csv": {
+        "['AYRES Stuart']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['HUSAR Emma']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Upper Hunter.csv": {
+        "['JOHNSEN Michael']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['RUSH Martin']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Tweed.csv": {
+        "['PROVEST Geoff']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['GOODMAN Ron']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Gosford.csv": {
+        "['HOLSTEIN Chris']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['SMITH Kathy']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Goulburn.csv": {
+        "['GOWARD Pru']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['STEPHENS Ursula']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Miranda.csv": {
+        "['PETINOS Eleni']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['HOLLAND Greg']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Bega.csv": {
+        "['CONSTANCE Andrew']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['ATKINSON Leanne']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Heathcote.csv": {
+        "['EVANS Lee']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['STUART Maryanne']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Seven Hills.csv": {
+        "['TAYLOR Mark']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['BENJAMIN Susai']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Terrigal.csv": {
+        "['CROUCH Adam']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['SUNDSTROM Jeff']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Kiama.csv": {
+        "['WARD Gareth']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['KOLOMEITZ Glenn']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_The Entrance.csv": {
+        "['SHARPE Michael']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['MEHAN David']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Ballina.csv": {
+        "['SMITH Tamara']": [
+            "borda_pm",
+            "borda_om_no_uwi",
+            "borda_avg_no_uwi"
+        ],
+        "['BEAVIS Kris']": [
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Lismore.csv": {
+        "['GEORGE Thomas']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['SMITH Isaac']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Monaro.csv": {
+        "['BARILARO John']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['WHAN Steve']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Clarence.csv": {
+        "['GULAPTIS Chris']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['GILBERT Trent']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Tamworth.csv": {
+        "['ANDERSON Kevin']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['DRAPER Peter']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Myall Lakes.csv": {
+        "['BROMHEAD Stephen']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['KEEGAN David']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Coogee.csv": {
+        "['NOTLEY-SMITH Bruce']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['PEARCE Paul']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Oatley.csv": {
+        "['COURE Mark']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "[\"SMITH O'Bray\"]": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Parramatta.csv": {
+        "['LEE Geoff']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['SHAW James']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_East Hills.csv": {
+        "['BROOKES Glenn']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['MURPHY Cameron']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Oatley.csv": {
+        "['COURE Mark']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['AMBIHAIPAHAR Ash']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Pittwater.csv": {
+        "['AMON Roderick (Rory)']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['SCRUBY Jacqui']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Balmain.csv": {
+        "['SCOTT Philippa']": [
+            "borda_pm",
+            "borda_avg_no_uwi"
+        ],
+        "['SHETTY Kobi']": [
+            "borda_om_no_uwi",
+            "borda_trunc_points_scheme"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Miranda.csv": {
+        "['PETINOS Eleni']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['EARLE Simon']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wahroonga.csv": {
+        "['HENSKENS Alister']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['ABEDINI Parsia']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Myall Lakes.csv": {
+        "['THOMPSON Tanya']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['BENDALL Jason']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Kiama.csv": {
+        "['WARD Gareth']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['McINERNEY Katelin']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Epping.csv": {
+        "['PERROTTET Dominic']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['MASCARENHAS Alan']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Vaucluse.csv": {
+        "['SLOANE Kellie']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['FREYER Karen']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wollondilly.csv": {
+        "['SMITH Nathaniel']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['HANNAN Judy']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Goulburn.csv": {
+        "['TUCKERMAN Wendy']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['PILBROW Michael']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Upper Hunter.csv": {
+        "['LAYZELL Dave']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['WATSON Peree']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Hornsby.csv": {
+        "['KEAN Matt']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['HOILE Melissa']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Willoughby.csv": {
+        "['JAMES Tim']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['PENN Larissa']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Drummoyne.csv": {
+        "['DI PASQUA Stephanie']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['LITTLE Julia']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Coffs Harbour.csv": {
+        "['SINGH Gurmesh']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['JUDGE Tony']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Winston Hills.csv": {
+        "['TAYLOR Mark']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['PANDEY Sameer']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data North Shore.csv": {
+        "['WILSON Felicity']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['CONWAY Helen']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Lane Cove.csv": {
+        "['ROBERTS Anthony']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['DAVIDSON Victoria']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Tweed.csv": {
+        "['PROVEST Geoff']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['ELLIOT Craig']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ryde.csv": {
+        "['LANE Jordan']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['HOWISON Lyndal']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Terrigal.csv": {
+        "['CROUCH Adam']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['BOUGHTON Sam']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Holsworthy.csv": {
+        "['AYYAD Tina']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['MARONEY Mick']": [
+            "borda_om_no_uwi"
+        ]
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Manly.csv": {
+        "['GRIFFIN James']": [
+            "borda_pm",
+            "borda_avg_no_uwi",
+            "borda_trunc_points_scheme"
+        ],
+        "['HACKMAN Joeline']": [
+            "borda_om_no_uwi"
+        ]
+    }
+}
+}
