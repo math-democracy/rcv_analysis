@@ -12,7 +12,7 @@ def read_data(data_file):
     data = pd.read_csv(data_file, header=None)
     data.columns = data.iloc[0]
     data = data.drop(0).reset_index(drop=True)
-    # data = data.drop(columns=['numCands'])
+    # for analyzing w/ david's data: data = data.drop(columns=['numCands'])
     data = data[['file', 'plurality','plurality_with_runoff_put','instant_runoff_for_truncated_linear_orders','bottom_two_runoff_instant_runoff_put','instant_runoff_put','borda_for_profile_with_ties','condorcet','minimax','top_cycle']]
     return data
 

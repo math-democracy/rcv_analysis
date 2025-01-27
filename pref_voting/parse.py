@@ -31,11 +31,9 @@ print(df2)
 df1['file'] = df1['file'].str.strip()
 df2['file'] = df2['file'].str.strip() #for american: str.replace('processed_data/', '', regex=False)
 
-# Merge the DataFrames on the 'file' column
 merged_df = pd.merge(df1, df2, on='file', suffixes=('_file1', '_file2'))
 
 print(merged_df)
-# Compare the methods
 comparison_results = []
 
 count = Counter()
@@ -44,11 +42,9 @@ for _, row in merged_df.iterrows():
     result = {"file": file_path, "matches": {}}
 
     for method1, method2 in method_mapping.items():
-        # Get the results from both DataFrames
         result1 = row.get(f"{method1}_file1", "[]")
         result2 = row.get(f"{method2}_file2", "[]")
 
-        # Convert strings to lists for comparison if necessary
         if isinstance(result1, str):
             result1 = eval(result1) if result1.startswith('[') else [result1]
         if isinstance(result2, str):
@@ -64,10 +60,8 @@ for _, row in merged_df.iterrows():
     comparison_results.append(result)
 
 print(count)
-# Convert comparison results to a DataFrame for easier viewing or export
 results_df = pd.DataFrame(comparison_results)
 
-# Save to a new CSV or JSON
 results_df.to_json('comparison_results.json', orient='records', indent=4)
 
 print("Comparison completed. Results saved to 'comparison_results.csv' and 'comparison_results.json'.")
@@ -75,13 +69,11 @@ print("Comparison completed. Results saved to 'comparison_results.csv' and 'comp
 with open('comparison_results.json', "r") as f:
     data = json.load(f)
 
-# Filter entries where any value in 'matches' is not True
 filtered_data = [
     entry for entry in data
     if any(value is not True for value in entry["matches"].values())
 ]
 
-# Save the filtered results to a new file
 with open('difference_comparison_results.json', "w") as f:
     json.dump(filtered_data, f, indent=4)
 
