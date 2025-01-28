@@ -1,0 +1,858 @@
+{
+    "metadata": {
+        "total_elections": 537,
+        "num_elections_with_difference_bw_irv_condorcet": 90,
+        "num_elections_with_condorcet_error": 0,
+        "elections_with_writein_condorcet": 16
+    },
+    "elections_with_no_condorcet_winner": [
+        "american/Alaska/Alaska_11052024_StateHouseD33.csv",
+        "american/Minneapolis/Minneapolis_11072017_Ward6CityCouncil.csv",
+        "american/Minneapolis/Minneapolis_11072017_Mayor.csv",
+        "american/Minneapolis/Minneapolis_11022021_Mayor.csv",
+        "american/Minneapolis/Minneapolis_11022021_CityCouncilWard9.csv",
+        "american/Minneapolis/Minneapolis_11022021_ParkBoardDistrict6.csv",
+        "american/Alameda County/Berkeley_11042014_CityCouncilDistrict8.csv",
+        "american/Alameda County/Oakland_11062018_CityCouncilDistrict4.csv",
+        "american/Alameda County/Oakland_11062012_CityCouncilDistrict1.csv",
+        "american/Alameda County/SanLeandro_11022010_Mayor.csv",
+        "american/Alameda County/SanLeandro_11022010_CountyCouncilDistrict1.csv",
+        "american/San Francisco/SanFrancisco_11082005_AssessorRecorder.csv",
+        "american/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict8.csv",
+        "american/San Francisco/SanFrancisco_11062007_Mayor.csv",
+        "american/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict9.csv",
+        "american/San Francisco/SanFrancisco_11032015_Mayor.csv",
+        "american/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT11.csv",
+        "american/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict11.csv",
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember20thCouncilDistrict.csv",
+        "american/Cambridge, MA/Cambridge_11062007_SchoolCommittee.csv",
+        "american/Cambridge, MA/Cambridge_11082005_SchoolCommittee.csv"
+    ],
+    "elections_with_condorcet_error": [],
+    "elections_with_writein_condorcet": [
+        "american/Alaska/Alaska_11082022_HouseDistrict19.csv",
+        "american/Alaska/Alaska_11082022_HouseDistrict27.csv",
+        "american/Alaska/Alaska_11082022_HouseDistrict40.csv",
+        "american/Alaska/Alaska_11052024_StateHouseD26.csv",
+        "american/Alaska/Alaska_11052024_StateHouseD3.csv",
+        "american/Alaska/Alaska_11052024_StateHouseD24.csv",
+        "american/Alaska/Alaska_11082022_HouseDistrict3.csv",
+        "american/Alaska/Alaska_11052024_StateHouseD25.csv",
+        "american/Alaska/Alaska_11082022_SenateDistrictB.csv",
+        "american/Alaska/Alaska_11052024_StateHouseD4.csv",
+        "american/Alaska/Alaska_11052024_StateSenateB.csv",
+        "american/Alaska/Alaska_11082022_HouseDistrict8.csv",
+        "american/Alaska/Alaska_11052024_StateHouseD29.csv",
+        "american/Alaska/Alaska_11052024_StateHouseD17.csv",
+        "american/Alaska/Alaska_11082022_HouseDistrict28.csv",
+        "american/Alaska/Alaska_11082022_HouseDistrict38.csv"
+    ],
+    "changes": {
+        "american/Eastpointe, MI/Eastpointe_11022021_CityCouncil.csv": {},
+        "american/Eastpointe, MI/Eastpointe_11052019_CityCouncil.csv": {},
+        "american/St Louis Park/StLouisPark_11022021_CityCouncilWard3.csv": {},
+        "american/St Louis Park/StLouisPark_11022021_CityCouncilWard2.csv": {
+            "irv": "Lynette Lungay Dumalag",
+            "condorcet": "John Basill"
+        },
+        "american/St Louis Park/StLouisPark_11022021_CityCouncilWard1.csv": {},
+        "american/St Louis Park/StLouisPark_11022021_CityCouncilWard4.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict23.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict37.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict36.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict22.csv": {
+            "irv": "Wright, Stanley A.",
+            "condorcet": "Eischeid, Ted J."
+        },
+        "american/Alaska/Alaska_08162022_HouseofRepresentativesSpecial.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict34.csv": {
+            "irv": "Tomaszewski, Frank J.",
+            "condorcet": "Hopkins, Grier H."
+        },
+        "american/Alaska/Alaska_11082022_HouseDistrict20.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict21.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict35.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict19.csv": {
+            "irv": "Mina, Genevieve G.",
+            "condorcet": "Write-in"
+        },
+        "american/Alaska/Alaska_11082022_HouseDistrict31.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict25.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict24.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict30.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict18.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict26.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict32.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD40.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict33.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict27.csv": {
+            "irv": "Eastman, David",
+            "condorcet": "Write-in"
+        },
+        "american/Alaska/Alaska_11082022_HouseDistrict40.csv": {
+            "irv": "Patkotak, Josiah B. \"Aullaqsruaq\"",
+            "condorcet": "Write-in"
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD33.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD27.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict1.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD26.csv": {
+            "irv": "Tilton, Cathy",
+            "condorcet": "Write-in"
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD32.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD1.csv": {
+            "irv": "Bynum, Jeremy T.",
+            "condorcet": "Moran, Agnes C."
+        },
+        "american/Alaska/Alaska_11082022_SenateDistrictA.csv": {},
+        "american/Alaska/Alaska_11052024_StateSenateJ.csv": {},
+        "american/Alaska/Alaska_11052024_StateSenateH.csv": {},
+        "american/Alaska/Alaska_11082022_SenateDistrictC.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD3.csv": {
+            "irv": "Story, Andrea \"Andi\"",
+            "condorcet": "Write-in"
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD24.csv": {
+            "irv": "Saddler, Dan",
+            "condorcet": "Write-in"
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD30.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD18.csv": {
+            "irv": "Nelson, David",
+            "condorcet": "Groh, Cliff"
+        },
+        "american/Alaska/Alaska_11082022_HouseDistrict2.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict3.csv": {
+            "irv": "Story, Andrea \"Andi\"",
+            "condorcet": "Write-in"
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD19.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD31.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD25.csv": {
+            "irv": "Johnson, DeLena M.",
+            "condorcet": "Write-in"
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD2.csv": {},
+        "american/Alaska/Alaska_11082022_SenateDistrictB.csv": {
+            "irv": "Kiehl, Jesse",
+            "condorcet": "Write-in"
+        },
+        "american/Alaska/Alaska_11082022_GovernorLieutenantGovernor.csv": {},
+        "american/Alaska/Alaska_11082022_SenateDistrictQ.csv": {},
+        "american/Alaska/Alaska_11082022_SenateDistrictF.csv": {
+            "irv": "Kaufman, James D.",
+            "condorcet": "Park, Janice L."
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD6.csv": {
+            "irv": "Vance, Sarah L.",
+            "condorcet": "Johnson, Brent"
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD21.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD35.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict7.csv": {
+            "irv": "Ruffridge, Justin",
+            "condorcet": "Gillham, Ronald D. \"Ron\""
+        },
+        "american/Alaska/Alaska_11082022_HouseDistrict6.csv": {
+            "irv": "Vance, Sarah L.",
+            "condorcet": "Flora, Louis A. \"Louie\""
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD34.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD20.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD7.csv": {},
+        "american/Alaska/Alaska_11082022_SenateDistrictG.csv": {},
+        "american/Alaska/Alaska_11082022_SenateDistrictP.csv": {},
+        "american/Alaska/Alaska_11052024_StateSenateL.csv": {},
+        "american/Alaska/Alaska_11052024_StateSenateN.csv": {},
+        "american/Alaska/Alaska_11082022_SenateDistrictR.csv": {},
+        "american/Alaska/Alaska_11082022_SenateDistrictE.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD5.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD36.csv": {
+            "irv": "Schwanke, Rebecca A.",
+            "condorcet": "Kowalski, Brandon P. \"Putuuqti\""
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD22.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict4.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict5.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD23.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD37.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD4.csv": {
+            "irv": "Hannan, Sara",
+            "condorcet": "Write-in"
+        },
+        "american/Alaska/Alaska_11082022_SenateDistrictD.csv": {},
+        "american/Alaska/Alaska_11082022_SenateDistrictS.csv": {},
+        "american/Alaska/Alaska_11052024_StateSenateB.csv": {
+            "irv": "Kiehl, Jesse",
+            "condorcet": "Write-in"
+        },
+        "american/Alaska/Alaska_11082022_SenateDistrictI.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD9.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD12.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict8.csv": {
+            "irv": "Carpenter, Ben",
+            "condorcet": "Write-in"
+        },
+        "american/Alaska/Alaska_11082022_HouseDistrict9.csv": {
+            "irv": "Shaw, Laddie H.",
+            "condorcet": "Schaff, David L."
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD13.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD8.csv": {},
+        "american/Alaska/Alaska_11082022_SenateDistrictH.csv": {},
+        "american/Alaska/Alaska_11082022_USRepresentative.csv": {},
+        "american/Alaska/Alaska_11052024_StateSenateT.csv": {},
+        "american/Alaska/Alaska_11082022_SenateDistrictJ.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD11.csv": {
+            "irv": "Coulombe, Julie",
+            "condorcet": "Featherly, Walter T."
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD39.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD38.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD10.csv": {},
+        "american/Alaska/Alaska_11082022_SenateDistrictK.csv": {},
+        "american/Alaska/Alaska_11052024_StateSenateD.csv": {},
+        "american/Alaska/Alaska_11082022_SenateDistrictO.csv": {
+            "irv": "Shower, Michael K.",
+            "condorcet": "Massie, Doug A."
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD28.csv": {
+            "irv": "Moore, Elexie",
+            "condorcet": "Menard, Steve"
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD14.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD15.csv": {
+            "irv": "Costello, Mia",
+            "condorcet": "Wells, Denny"
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD29.csv": {
+            "irv": "Rauscher, George",
+            "condorcet": "Write-in"
+        },
+        "american/Alaska/Alaska_11082022_SenateDistrictN.csv": {},
+        "american/Alaska/Alaska_11052024_StateSenateR.csv": {
+            "irv": "Cronk, Mike",
+            "condorcet": "Fletcher, Savannah"
+        },
+        "american/Alaska/Alaska_11052024_StateSenateP.csv": {},
+        "american/Alaska/Alaska_11082022_SenateDistrictL.csv": {},
+        "american/Alaska/Alaska_11082022_USSenator.csv": {},
+        "american/Alaska/Alaska_11052024_StateHouseD17.csv": {
+            "irv": "Fields, William Z. \"Zack\"",
+            "condorcet": "Write-in"
+        },
+        "american/Alaska/Alaska_11052024_StateHouseD16.csv": {},
+        "american/Alaska/Alaska_11082022_SenateDistrictM.csv": {},
+        "american/Alaska/Alaska_11052024_StateSenateF.csv": {
+            "irv": "Kaufman, James D.",
+            "condorcet": "Park, Janice L."
+        },
+        "american/Alaska/Alaska_11052024_President.csv": {
+            "irv": "Trump/Vance",
+            "condorcet": "Harris/Walz"
+        },
+        "american/Alaska/Alaska_11082022_HouseDistrict16.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict17.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict15.csv": {
+            "irv": "McKay, Thomas W. \"Tom\"",
+            "condorcet": "Wells, Denny"
+        },
+        "american/Alaska/Alaska_11082022_HouseDistrict29.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict28.csv": {
+            "irv": "Sumner, Jesse M.",
+            "condorcet": "Write-in"
+        },
+        "american/Alaska/Alaska_11082022_HouseDistrict14.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict38.csv": {
+            "irv": "McCormick, Conrad J. \"C.J.\"",
+            "condorcet": "Write-in"
+        },
+        "american/Alaska/Alaska_11082022_HouseDistrict10.csv": {
+            "irv": "Johnson, Craig W.",
+            "condorcet": "Storm, Caroline"
+        },
+        "american/Alaska/Alaska_11082022_HouseDistrict11.csv": {
+            "irv": "Coulombe, Julie",
+            "condorcet": "Featherly, Walter T."
+        },
+        "american/Alaska/Alaska_11082022_HouseDistrict39.csv": {
+            "irv": "Foster, Neal W.",
+            "condorcet": "Ivanoff, Tyler L."
+        },
+        "american/Alaska/Alaska_11052024_US_House.csv": {
+            "irv": "Begich, Nick",
+            "condorcet": "Peltola, Mary S."
+        },
+        "american/Alaska/Alaska_11082022_HouseDistrict13.csv": {},
+        "american/Alaska/Alaska_11082022_HouseDistrict12.csv": {},
+        "american/Minneapolis/Minneapolis_11072023_CityCouncilWard12.csv": {},
+        "american/Minneapolis/Minneapolis_11072017_BoardofEstimateandTaxation.csv": {
+            "irv": "Carol Becker",
+            "condorcet": "John Edwards"
+        },
+        "american/Minneapolis/Minneapolis_11072017_ParkBoardAtLarge.csv": {},
+        "american/Minneapolis/Minneapolis_11072017_Ward6CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11072017_Mayor.csv": {},
+        "american/Minneapolis/Minneapolis_11062009_PRBoardDistrict6.csv": {},
+        "american/Minneapolis/Minneapolis_11072023_CityCouncilWard13.csv": {},
+        "american/Minneapolis/Minneapolis_11022021_BoardofEstimateandTaxationAtLarge.csv": {
+            "irv": "Steve Brandt",
+            "condorcet": "Pine Salica"
+        },
+        "american/Minneapolis/Minneapolis_11072017_Ward1CityCouncil.csv": {
+            "irv": "Kevin Reich",
+            "condorcet": "Jillia Pessenda"
+        },
+        "american/Minneapolis/Minneapolis_11062009_PRBoardDistrict5.csv": {
+            "irv": "Carol Kummer",
+            "condorcet": "Jason Stone"
+        },
+        "american/Minneapolis/Minneapolis_11062009_PRBoardDistrict4.csv": {},
+        "american/Minneapolis/Minneapolis_11072017_Ward9CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11072023_CityCouncilWard10.csv": {},
+        "american/Minneapolis/Minneapolis_11062009_BoardofEstimateandTaxation.csv": {},
+        "american/Minneapolis/Minneapolis_11072017_Ward8CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11022021_Mayor.csv": {},
+        "american/Minneapolis/Minneapolis_11062009_PRBoardDistrict1.csv": {},
+        "american/Minneapolis/Minneapolis_11022021_ParkBoardAtLarge.csv": {
+            "irv": "Meg Forney",
+            "condorcet": "Tom Olsen"
+        },
+        "american/Minneapolis/Minneapolis_11062009_Ward11CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11052013_PRBoardDistrict6.csv": {},
+        "american/Minneapolis/Minneapolis_11062009_PRBoardDistrict3.csv": {},
+        "american/Minneapolis/Minneapolis_11062009_PRBoardDistrict2.csv": {},
+        "american/Minneapolis/Minneapolis_11072017_Ward7CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11022021_CityCouncilWard4.csv": {},
+        "american/Minneapolis/Minneapolis_11062009_Ward13CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11072017_Ward5CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11022021_CityCouncilWard10.csv": {},
+        "american/Minneapolis/Minneapolis_11022021_CityCouncilWard12.csv": {},
+        "american/Minneapolis/Minneapolis_11022021_CityCouncilWard7.csv": {},
+        "american/Minneapolis/Minneapolis_11022021_CityCouncilWard6.csv": {},
+        "american/Minneapolis/Minneapolis_11072017_Ward2CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11022021_CityCouncilWard13.csv": {},
+        "american/Minneapolis/Minneapolis_11072017_Ward3CityCouncil.csv": {
+            "irv": "Steve Fletcher",
+            "condorcet": "Ginger Jentzen"
+        },
+        "american/Minneapolis/Minneapolis_11022021_CityCouncilWard2.csv": {},
+        "american/Minneapolis/Minneapolis_11022021_CityCouncilWard3.csv": {
+            "irv": "Michael Rainville",
+            "condorcet": "Steve Fletcher"
+        },
+        "american/Minneapolis/Minneapolis_11072017_Ward4CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11022021_CityCouncilWard1.csv": {},
+        "american/Minneapolis/Minneapolis_11072023_CityCouncilWard8.csv": {
+            "irv": "Andrea Jenkins",
+            "condorcet": "Soren Stevenson"
+        },
+        "american/Minneapolis/Minneapolis_11062009_Ward12CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11072023_CityCouncilWard5.csv": {},
+        "american/Minneapolis/Minneapolis_11072017_PRBoardDistrict3.csv": {},
+        "american/Minneapolis/Minneapolis_11072017_PRBoardDistrict2.csv": {},
+        "american/Minneapolis/Minneapolis_08112020_Ward6CityCouncilSpecialElection.csv": {
+            "irv": "Jamal Osman",
+            "condorcet": "AJ Awed"
+        },
+        "american/Minneapolis/Minneapolis_11072023_CityCouncilWard4.csv": {},
+        "american/Minneapolis/Minneapolis_11062009_Ward7CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11052013_ParkRecBoardAtLarge.csv": {},
+        "american/Minneapolis/Minneapolis_11072023_CityCouncilWard6.csv": {
+            "irv": "Jamal Osman",
+            "condorcet": "Kayseh Magan"
+        },
+        "american/Minneapolis/Minneapolis_11062009_Ward8CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11062009_Mayor.csv": {},
+        "american/Minneapolis/Minneapolis_11072017_Ward12CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11052013_Ward9CityCouncil.csv": {
+            "irv": "ALONDRA CANO",
+            "condorcet": "TY MOORE"
+        },
+        "american/Minneapolis/Minneapolis_11072017_PRBoardDistrict1.csv": {},
+        "american/Minneapolis/Minneapolis_11072023_CityCouncilWard7.csv": {},
+        "american/Minneapolis/Minneapolis_11072017_PRBoardDistrict5.csv": {},
+        "american/Minneapolis/Minneapolis_11062009_Ward1CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11062009_Ward9CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11072017_PRBoardDistrict4.csv": {},
+        "american/Minneapolis/Minneapolis_11062009_MinneapolisParkRecBoard.csv": {
+            "irv": "Annie Young",
+            "condorcet": "Bob Fine"
+        },
+        "american/Minneapolis/Minneapolis_11072017_Ward13CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11022021_CityCouncilWard8.csv": {},
+        "american/Minneapolis/Minneapolis_11062009_Ward6CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11072017_PRBoardDistrict6.csv": {},
+        "american/Minneapolis/Minneapolis_11022021_CityCouncilWard9.csv": {},
+        "american/Minneapolis/Minneapolis_11052013_Ward13CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11062009_Ward4CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11052013_Ward5CityCouncil.csv": {
+            "irv": "BLONG YANG",
+            "condorcet": "IAN ALEXANDER"
+        },
+        "american/Minneapolis/Minneapolis_11022021_ParkBoardDistrict3.csv": {},
+        "american/Minneapolis/Minneapolis_11062009_Ward3CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11022021_ParkBoardDistrict1.csv": {},
+        "american/Minneapolis/Minneapolis_11072017_Ward11CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11072017_Ward10CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11022021_ParkBoardDistrict4.csv": {},
+        "american/Minneapolis/Minneapolis_11062009_Ward2CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11022021_ParkBoardDistrict5.csv": {},
+        "american/Minneapolis/Minneapolis_11062009_Ward5CityCouncil.csv": {},
+        "american/Minneapolis/Minneapolis_11022021_ParkBoardDistrict6.csv": {},
+        "american/Pierce County, WA/PierceCounty_11042008_CountyExecutiveMember.csv": {
+            "irv": "Pat McCarthy",
+            "condorcet": "Shawn Bunney"
+        },
+        "american/Pierce County, WA/PierceCounty_11032009_CountyAuditor.csv": {},
+        "american/Pierce County, WA/PierceCounty_11042008_CountyAssessorTreasurer.csv": {},
+        "american/Pierce County, WA/PierceCounty_11042008_CountyCouncilDistrict2.csv": {},
+        "american/Portland, ME/Portland_06142022_SchoolboardAL-1.csv": {},
+        "american/Portland, ME/Portland_06142022_Schoolboarddistrict5-1.csv": {},
+        "american/Portland, ME/Portland_06082021_charter_commission_at_large.csv": {},
+        "american/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict90.csv": {},
+        "american/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict47.csv": {},
+        "american/Maine/Maine_11082022_CongressionalDistrict2.csv": {},
+        "american/Maine/Maine_11062018_CongressionalDistrict2.csv": {},
+        "american/Maine/Maine_06122018_DemocraticPrimaryforCD2.csv": {},
+        "american/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict41.csv": {},
+        "american/Maine/Maine_07142020_RepublicanCandidateforUSHouseofRepresentativesDistrict2.csv": {},
+        "american/Maine/Maine_07142020_DemocraticCandidateforMaineStateSenateDistrict11.csv": {},
+        "american/Maine/Maine_06122018_DemocraticPrimaryforGovernor.csv": {},
+        "american/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict49.csv": {},
+        "american/Takoma Park, MD/TakomaPark_11082022_Mayor.csv": {},
+        "american/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard4.csv": {},
+        "american/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard5.csv": {},
+        "american/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard6.csv": {},
+        "american/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard2.csv": {},
+        "american/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard3.csv": {},
+        "american/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard1.csv": {},
+        "american/Bloomington/Bloomington_11072023_SpecialCityCouncilAtLarge.csv": {},
+        "american/Bloomington/Bloomington_11072023_CityCouncilDistrict4.csv": {},
+        "american/Utah cities/Springville_11022021_Mayor.csv": {},
+        "american/Utah cities/WoodlandHills_11022021_CityCouncil.csv": {},
+        "american/Utah cities/Springville_11022021_CityCouncil4yr.csv": {},
+        "american/Utah cities/WoodlandHills_11022021_Mayor.csv": {},
+        "american/Utah cities/Vineyard_11022021_CityCouncil.csv": {},
+        "american/Utah cities/Genola_11022021_CityCouncil.csv": {},
+        "american/Utah cities/Vineyard_11052019_CityCouncil.csv": {},
+        "american/Utah cities/Moab_11022021_CityCouncil.csv": {
+            "irv": "JASON TAYLOR",
+            "condorcet": "LUKE WOJCIECHOWSKI"
+        },
+        "american/Utah cities/Payson_11052019_CityCouncil.csv": {},
+        "american/Utah cities/ElkRidge_11022021_Mayor.csv": {},
+        "american/Utah cities/Lehi_11022021_CityCouncil.csv": {},
+        "american/Utah cities/Vineyard_11022021_Mayor.csv": {},
+        "american/Minnetonka/Minnetonka_11022021_CityCouncilAtLargeSeatA.csv": {},
+        "american/Minnetonka/Minnetonka_11022021_CityCouncilAtLargeSeatB.csv": {},
+        "american/Minnetonka/Minnetonka_11072023_CityCouncilWard4.csv": {},
+        "american/Minnetonka/Minnetonka_11072023_CityCouncilWard1.csv": {},
+        "american/Minnetonka/Minnetonka_11072023_CityCouncilWard3.csv": {},
+        "american/Minnetonka/Minnetonka_11022021_Mayor.csv": {},
+        "american/Burlington/Burlington_03072023_CityCouncilEastDistrict.csv": {
+            "irv": "TIMOTHY C. DOHERTY,JR",
+            "condorcet": "JAKE SCHUMANN"
+        },
+        "american/Burlington/Burlington_03052024_Mayor.csv": {},
+        "american/Burlington/Burlington_03072006_Mayor.csv": {},
+        "american/Burlington/Burlington_03072023_CityCouncilSouthDistrict.csv": {},
+        "american/Burlington/Burlington_03072023_CityCouncilCentralDistrict.csv": {},
+        "american/Burlington/Burlington_03072023_CityCouncilNorthDistrict.csv": {},
+        "american/Burlington/Burlington_03032009_Mayor.csv": {
+            "irv": "Bob Kiss",
+            "condorcet": "Andy Montroll"
+        },
+        "american/APA/APA 2002.csv": {},
+        "american/APA/APA 2003.csv": {},
+        "american/APA/APA 2001.csv": {},
+        "american/APA/APA 2000.csv": {},
+        "american/APA/APA 2004.csv": {},
+        "american/APA/APA 2018 President.csv": {},
+        "american/APA/APA 2005.csv": {},
+        "american/APA/APA 2021 President.csv": {},
+        "american/APA/APA 2007.csv": {},
+        "american/APA/APA 2006.csv": {},
+        "american/APA/APA 1999.csv": {},
+        "american/APA/APA 1998.csv": {},
+        "american/APA/APA 2021 BOD race1.csv": {},
+        "american/APA/APA 2018 BOD race1.csv": {},
+        "american/APA/APA 2021 BOD race2.csv": {},
+        "american/APA/APA 2018 BOD race2.csv": {
+            "irv": "Shannon L. Wiltsey Stirman PhD",
+            "condorcet": "Kim E. Dixon PhD"
+        },
+        "american/APA/APA 2019 BOD race1.csv": {},
+        "american/APA/APA 2020 BOD race1.csv": {},
+        "american/APA/APA 2019 BOD race2.csv": {},
+        "american/APA/APA 2020 BOD race2.csv": {},
+        "american/APA/APA 2017 President.csv": {},
+        "american/APA/APA 2020 President.csv": {},
+        "american/APA/APA 2019 President.csv": {},
+        "american/APA/APA 2008.csv": {},
+        "american/APA/APA 2009.csv": {
+            "irv": "Cand 4",
+            "condorcet": "Cand 0"
+        },
+        "american/APA/APA 2017 BOD race2.csv": {},
+        "american/APA/APA 2017 BOD race1.csv": {},
+        "american/Alameda County/Oakland_11042014_SchoolDirectorDistrict2.csv": {},
+        "american/Alameda County/Berkeley_11032020_MemberCityCouncilDist2BerkeleyRCV.csv": {},
+        "american/Alameda County/Berkeley_11042014_CityAuditor.csv": {},
+        "american/Alameda County/Berkeley_11042014_CityCouncilDistrict8.csv": {},
+        "american/Alameda County/Oakland_11082016_CouncilAtLrg.csv": {},
+        "american/Alameda County/Berkeley_11062018_CityCouncilDistrict1.csv": {},
+        "american/Alameda County/Oakland_11062012_CityAttorney.csv": {},
+        "american/Alameda County/Berkeley_11082016_Mayor.csv": {},
+        "american/Alameda County/SanLeandro_11062018_Mayor.csv": {},
+        "american/Alameda County/Oakland_11022010_SchoolDirectorDistrict6.csv": {},
+        "american/Alameda County/Oakland_11022010_SchoolDirectorDistrict4.csv": {},
+        "american/Alameda County/Berkeley_11032020_MemberCityCouncilDist5BerkeleyRCV.csv": {},
+        "american/Alameda County/Oakland_11042014_SchoolDirectorDistrict4.csv": {},
+        "american/Alameda County/Oakland_11082022_CityAuditor.csv": {},
+        "american/Alameda County/Berkeley_11062018_CityCouncilDistrict7.csv": {},
+        "american/Alameda County/Oakland_11022010_Mayor.csv": {
+            "irv": "JEAN QUAN",
+            "condorcet": "DON PERATA"
+        },
+        "american/Alameda County/Berkeley_11052024_Mayor.csv": {
+            "irv": "ADENA ISHII",
+            "condorcet": "SOPHIE HAHN"
+        },
+        "american/Alameda County/Oakland_11022010_SchoolDirectorDistrict2.csv": {},
+        "american/Alameda County/Oakland_11032020_MemberCityCouncilDist5OaklandRCV.csv": {},
+        "american/Alameda County/Berkeley_11062018_CityCouncilDistrict4.csv": {},
+        "american/Alameda County/Oakland_11052024_CityAttorney.csv": {},
+        "american/Alameda County/Berkeley_03072017_CityCouncilDistrict4.csv": {},
+        "american/Alameda County/Berkeley_11032020_MemberCityCouncilDist3BerkeleyRCV.csv": {},
+        "american/Alameda County/Oakland_11032020_MemberCityCouncilDist1OaklandRCV.csv": {},
+        "american/Alameda County/Oakland_11042014_SchoolDirectorDistrict6.csv": {},
+        "american/Alameda County/Oakland_11082016_SchoolDirectorDistrict3.csv": {
+            "irv": "JUMOKE HINTON HODGE",
+            "condorcet": "MISTY CROSS"
+        },
+        "american/Alameda County/Oakland_11032020_SchoolDirectorDist3OaklandRCV.csv": {},
+        "american/Alameda County/Berkeley_11052024_CityCouncilD6.csv": {},
+        "american/Alameda County/Oakland_11032020_SchoolDirectorDist7OaklandRCV.csv": {},
+        "american/Alameda County/Oakland_11062012_SchoolDirectorDistrict1.csv": {},
+        "american/Alameda County/Oakland_11062018_SchoolDirectorDistrict6.csv": {
+            "irv": "SHANTHI GONZALES",
+            "condorcet": "ANTHONY WILSON"
+        },
+        "american/Alameda County/Oakland_11062018_CityCouncilDistrict2.csv": {},
+        "american/Alameda County/SanLeandro_11042014_CountyCouncilDistrict5.csv": {},
+        "american/Alameda County/Berkeley_11052024_CityCouncilD5.csv": {},
+        "american/Alameda County/Oakland_11062018_SchoolDirectorDistrict4.csv": {},
+        "american/Alameda County/Oakland_11062012_SchoolDirectorDistrict3.csv": {},
+        "american/Alameda County/SanLeandro_11032020_MemberCityCouncilDist4SanLeandroRCV.csv": {},
+        "american/Alameda County/Berkeley_11032020_MemberCityCouncilDist6BerkeleyRCV.csv": {},
+        "american/Alameda County/Oakland_11082016_SchoolDirectorDistrict1.csv": {},
+        "american/Alameda County/Oakland_11042014_Mayor.csv": {},
+        "american/Alameda County/Berkeley_11022010_CityCouncilDistrict8.csv": {},
+        "american/Alameda County/Oakland_11082016_SchoolDirectorDistrict5.csv": {
+            "irv": "ROSIE TORRES",
+            "condorcet": "HUBER TRENADO"
+        },
+        "american/Alameda County/Oakland_11062012_SchoolDirectorDistrict7.csv": {},
+        "american/Alameda County/SanLeandro_11042014_CountyCouncilDistrict1.csv": {},
+        "american/Alameda County/Oakland_11032020_CityAttorneyOaklandRCV.csv": {},
+        "american/Alameda County/Oakland_11062018_CityCouncilDistrict4.csv": {},
+        "american/Alameda County/Oakland_11062018_CityCouncilDistrict6.csv": {
+            "irv": "LOREN TAYLOR",
+            "condorcet": "DESLEY BROOKS"
+        },
+        "american/Alameda County/SanLeandro_11042014_CountyCouncilDistrict3.csv": {},
+        "american/Alameda County/Oakland_11022010_CityAuditor.csv": {},
+        "american/Alameda County/Oakland_11062018_SchoolDirectorDistrict2.csv": {},
+        "american/Alameda County/Berkeley_11052024_CityCouncilD3.csv": {},
+        "american/Alameda County/Oakland_11062012_SchoolDirectorDistrict5.csv": {},
+        "american/Alameda County/Berkeley_11052024_CityCouncilD2.csv": {},
+        "american/Alameda County/Oakland_11082016_CityAttorney.csv": {},
+        "american/Alameda County/Oakland_11062018_CityAuditor.csv": {},
+        "american/Alameda County/Oakland_11082016_SchoolDirectorDistrict7.csv": {},
+        "american/Alameda County/Berkeley_11022010_CityCouncilDistrict7.csv": {},
+        "american/Alameda County/SanLeandro_11082016_CountyCouncilDistrict4.csv": {},
+        "american/Alameda County/SanLeandro_11042014_Mayor.csv": {
+            "irv": "PAULINE RUSSO CUTTER",
+            "condorcet": "GREGG DALY"
+        },
+        "american/Alameda County/Oakland_11052024_CityCouncilD3.csv": {},
+        "american/Alameda County/Oakland_11082016_CityCouncilDistrict3.csv": {},
+        "american/Alameda County/Berkeley_11032020_MayorBerkeleyRCV.csv": {},
+        "american/Alameda County/SanLeandro_11062012_CountyCouncilDistrict6.csv": {},
+        "american/Alameda County/Oakland_11062012_CityCouncilDistrict3.csv": {
+            "irv": "LYNETTE GIBSON-MCELHANEY",
+            "condorcet": "SEAN SULLIVAN"
+        },
+        "american/Alameda County/Oakland_11082022_Schoolboarddistrict2.csv": {},
+        "american/Alameda County/Oakland_11042014_CityCouncilDistrict2.csv": {},
+        "american/Alameda County/Berkeley_11022010_CityCouncilDistrict4.csv": {},
+        "american/Alameda County/Oakland_11062012_CityCouncilDistrict1.csv": {},
+        "american/Alameda County/SanLeandro_11062012_CountyCouncilDistrict4.csv": {},
+        "american/Alameda County/Berkeley_05282024_Citycouncildistrict4specialelection.csv": {},
+        "american/Alameda County/Oakland_11082016_CityCouncilDistrict1.csv": {},
+        "american/Alameda County/Oakland_11052024_CityCouncilD1.csv": {},
+        "american/Alameda County/SanLeandro_11082016_CountyCouncilDistrict6.csv": {},
+        "american/Alameda County/Oakland_11032020_SchoolDirectorDist1OaklandRCV.csv": {},
+        "american/Alameda County/Berkeley_11022010_CityCouncilDistrict1.csv": {},
+        "american/Alameda County/SanLeandro_11082016_CountyCouncilDistrict2.csv": {},
+        "american/Alameda County/Berkeley_11062018_CityAuditor.csv": {},
+        "american/Alameda County/Oakland_11052024_CityCouncilD5.csv": {},
+        "american/Alameda County/Oakland_11082016_CityCouncilDistrict5.csv": {},
+        "american/Alameda County/Oakland_11032020_MemberCityCouncilAtLargeOaklandRCV.csv": {
+            "irv": "REBECCA KAPLAN",
+            "condorcet": "DERRECK B. JOHNSON"
+        },
+        "american/Alameda County/Berkeley_11022010_CityAuditor.csv": {},
+        "american/Alameda County/Oakland_11062012_CityCouncilDistrict5.csv": {},
+        "american/Alameda County/Oakland_11042014_CityCouncilDistrict4.csv": {},
+        "american/Alameda County/Oakland_11082022_Schoolboarddistrict4.csv": {
+            "irv": "MIKE HUTCHINSON",
+            "condorcet": "NICK RESNICK"
+        },
+        "american/Alameda County/Oakland_11042014_CityCouncilDistrict6.csv": {
+            "irv": "DESLEY BROOKS",
+            "condorcet": "VICENTE CRUZ"
+        },
+        "american/Alameda County/Oakland_11082022_Schoolboarddistrict6.csv": {},
+        "american/Alameda County/Oakland_11062012_CityCouncilDistrict7.csv": {},
+        "american/Alameda County/SanLeandro_11062012_CountyCouncilDistrict2.csv": {
+            "irv": "URSULA REED",
+            "condorcet": "MORGAN MACK-ROSE"
+        },
+        "american/Alameda County/Oakland_11082016_CityCouncilDistrict7.csv": {},
+        "american/Alameda County/Oakland_11052024_CityCouncilD7.csv": {},
+        "american/Alameda County/Berkeley_11042014_CityCouncilDistrict1.csv": {},
+        "american/Alameda County/SanLeandro_11032020_MemberCityCouncilDist6SanLeandroRCV.csv": {},
+        "american/Alameda County/Berkeley_11062018_CityCouncilDistrict8.csv": {},
+        "american/Alameda County/SanLeandro_11062018_CountyCouncilDistrict5.csv": {},
+        "american/Alameda County/SanLeandro_11022010_CountyCouncilDistrict5.csv": {},
+        "american/Alameda County/Oakland_11052024_School_Director_D3.csv": {
+            "irv": "VANCEDRIC WILLIAMS",
+            "condorcet": "DWAYNE AIKENS JR."
+        },
+        "american/Alameda County/Oakland_11062012_CityCouncilAtLarge.csv": {},
+        "american/Alameda County/Oakland_11022010_CityCouncilDistrict4.csv": {},
+        "american/Alameda County/Oakland_11082022_CityCouncilmemberDistrict6.csv": {},
+        "american/Alameda County/Oakland_11082022_CityCouncilmemberDistrict4.csv": {},
+        "american/Alameda County/Berkeley_11082016_CityCouncilDistrict2.csv": {
+            "irv": "CHERYL DAVILA",
+            "condorcet": "DARRYL MOORE"
+        },
+        "american/Alameda County/Oakland_11022010_CityCouncilDistrict6.csv": {},
+        "american/Alameda County/Berkeley_11062012_CityCouncilDistrict3.csv": {},
+        "american/Alameda County/Oakland_11052024_School_Director_D1.csv": {},
+        "american/Alameda County/Oakland_11062018_Mayor.csv": {},
+        "american/Alameda County/Berkeley_11062012_Mayor.csv": {},
+        "american/Alameda County/Oakland_11042014_CityAuditor.csv": {},
+        "american/Alameda County/Berkeley_11082016_CityCouncilDistrict3.csv": {},
+        "american/Alameda County/Berkeley_11042014_CityCouncilDistrict7.csv": {},
+        "american/Alameda County/Berkeley_11062012_CityCouncilDistrict6.csv": {
+            "irv": "SUSAN WENGRAF",
+            "condorcet": "PHOEBE SORGEN"
+        },
+        "american/Alameda County/SanLeandro_11062018_CountyCouncilDistrict3.csv": {},
+        "american/Alameda County/Oakland_11032020_MemberCityCouncilDist3OaklandRCV.csv": {},
+        "american/Alameda County/Oakland_11052024_School_Director_D5.csv": {},
+        "american/Alameda County/SanLeandro_11022010_CountyCouncilDistrict3.csv": {},
+        "american/Alameda County/Oakland_11022010_CityCouncilDistrict2.csv": {},
+        "american/Alameda County/Oakland_11032020_MemberCityCouncilDist7OaklandRCV.csv": {},
+        "american/Alameda County/Berkeley_11082016_CityCouncilDistrict6.csv": {},
+        "american/Alameda County/SanLeandro_11022010_Mayor.csv": {},
+        "american/Alameda County/Berkeley_11062012_CityCouncilDistrict5.csv": {},
+        "american/Alameda County/SanLeandro_11022010_CountyCouncilDistrict1.csv": {},
+        "american/Alameda County/Oakland_11052024_School_Director_D7.csv": {},
+        "american/Alameda County/SanLeandro_11062018_CountyCouncilDistrict1.csv": {},
+        "american/Alameda County/Berkeley_11082016_CityCouncilDistrict5.csv": {},
+        "american/Alameda County/SanLeandro_11032020_MemberCityCouncilDist2SanLeandroRCV.csv": {},
+        "american/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict6.csv": {
+            "irv": "JANE KIM",
+            "condorcet": "DEBRA WALKER"
+        },
+        "american/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict7.csv": {},
+        "american/San Francisco/SanFrancisco_11052024_BoS_D7.csv": {},
+        "american/San Francisco/SanFrancisco_06052018_Mayor.csv": {},
+        "american/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT9.csv": {
+            "irv": "HILLARY RONEN",
+            "condorcet": "BUD RYERSON"
+        },
+        "american/San Francisco/SanFrancisco_11052024_BoS_D11.csv": {
+            "irv": "CHYANNE CHEN",
+            "condorcet": "MICHAEL LAI"
+        },
+        "american/San Francisco/SanFrancisco_11052024_BoS_D5.csv": {},
+        "american/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict5.csv": {},
+        "american/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict10.csv": {},
+        "american/San Francisco/SanFrancisco_11082005_AssessorRecorder.csv": {},
+        "american/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict8.csv": {},
+        "american/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict1.csv": {},
+        "american/San Francisco/SanFrancisco_11052019_CityAttorney.csv": {},
+        "american/San Francisco/SanFrancisco_11052024_BoS_D1.csv": {},
+        "american/San Francisco/SanFrancisco_11052024_Treasurer.csv": {},
+        "american/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict9.csv": {},
+        "american/San Francisco/SanFrancisco_11052024_BoS_D3.csv": {},
+        "american/San Francisco/SanFrancisco_11082022_PublicDefender.csv": {},
+        "american/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict3.csv": {},
+        "american/San Francisco/SanFrancisco_11052019_Treasurer.csv": {},
+        "american/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict2.csv": {
+            "irv": "MARK FARRELL",
+            "condorcet": "JANET REILLY"
+        },
+        "american/San Francisco/SanFrancisco_11082022_BoardofSupervisorsD8.csv": {},
+        "american/San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict5.csv": {},
+        "american/San Francisco/SanFrancisco_11052019_DistrictAttorney.csv": {},
+        "american/San Francisco/SanFrancisco_11052019_PublicDefender.csv": {},
+        "american/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict2.csv": {},
+        "american/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict3.csv": {},
+        "american/San Francisco/SanFrancisco_11052024_DistrictAttorney.csv": {},
+        "american/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict8.csv": {},
+        "american/San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict7.csv": {},
+        "american/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict11.csv": {},
+        "american/San Francisco/SanFrancisco_11082005_Treasurer.csv": {},
+        "american/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict7.csv": {},
+        "american/San Francisco/SanFrancisco_11062007_Mayor.csv": {},
+        "american/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict10.csv": {},
+        "american/San Francisco/SanFrancisco_11082011_DistrictAttorney.csv": {},
+        "american/San Francisco/SanFrancisco_11052019_Sheriff.csv": {},
+        "american/San Francisco/SanFrancisco_11062018_PublicDefender.csv": {},
+        "american/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict9.csv": {},
+        "american/San Francisco/SanFrancisco_11052004_BoardofSupervisorsDistrict1.csv": {},
+        "american/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict2.csv": {
+            "irv": "Michela Alioto-pier",
+            "condorcet": "Write-In"
+        },
+        "american/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict6.csv": {},
+        "american/San Francisco/SanFrancisco_11032015_BoardofSupervisorsDistrict3.csv": {},
+        "american/San Francisco/SanFrancisco_11082022_AssessorRecorder.csv": {},
+        "american/San Francisco/SanFrancisco_11082022_BoardofSupervisorsD10.csv": {},
+        "american/San Francisco/SanFrancisco_11032015_Mayor.csv": {},
+        "american/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT11.csv": {},
+        "american/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict11.csv": {},
+        "american/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict4.csv": {
+            "irv": "Ed Jew",
+            "condorcet": "Ron Dudum"
+        },
+        "american/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict11.csv": {},
+        "american/San Francisco/SanFrancisco_11062018_AssessorRecorder.csv": {},
+        "american/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict5.csv": {},
+        "american/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT1.csv": {},
+        "american/San Francisco/SanFrancisco_11052024_Sheriff.csv": {},
+        "american/San Francisco/SanFrancisco_11082022_DistrictAttorney.csv": {},
+        "american/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict4.csv": {},
+        "american/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict6.csv": {},
+        "american/San Francisco/SanFrancisco_11082022_BoardofSupervisorsD4.csv": {},
+        "american/San Francisco/SanFrancisco_11082022_BoardofSupervisorsD6.csv": {},
+        "american/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict4.csv": {},
+        "american/San Francisco/SanFrancisco_11042014_BoardofSupervisorsDistrict10.csv": {},
+        "american/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT3.csv": {},
+        "american/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict7.csv": {},
+        "american/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict3.csv": {},
+        "american/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT7.csv": {},
+        "american/San Francisco/SanFrancisco_11052024_BoS_D9.csv": {},
+        "american/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict9.csv": {},
+        "american/San Francisco/SanFrancisco_11032015_Sheriff.csv": {},
+        "american/San Francisco/SanFrancisco_11082011_Sheriff.csv": {},
+        "american/San Francisco/SanFrancisco_06052018_BoardofSupervisorsDistrict8.csv": {},
+        "american/San Francisco/SanFrancisco_11082022_BoardofSupervisorsD2.csv": {},
+        "american/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict8.csv": {},
+        "american/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict2.csv": {
+            "irv": "CATHERINE STEFANI",
+            "condorcet": "NICK JOSEFOWITZ"
+        },
+        "american/San Francisco/SanFrancisco_11052024_CityAttorney.csv": {},
+        "american/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT5.csv": {},
+        "american/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict1.csv": {},
+        "american/New York City/NewYorkCity_06222021_REPCouncilMember23rdCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember33rdCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_REPBoroughPresidentRichmond.csv": {
+            "irv": "Vito Fossella",
+            "condorcet": "Steven Matteo"
+        },
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember10thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember28thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember15thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember46thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember31stCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember35thCouncilDistrict.csv": {
+            "irv": "Crystal Hudson",
+            "condorcet": "Michael Hollingsworth"
+        },
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember32ndCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember30thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember49thCouncilDistrict.csv": {
+            "irv": "Kamillah Hanks",
+            "condorcet": "Amoy Barnes"
+        },
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember29thCouncilDistrict.csv": {
+            "irv": "Lynn C. Schulman",
+            "condorcet": "Aleda F. Gagarin"
+        },
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember11thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember1stCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember14thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember5thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember2ndCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember34thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember48thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember47thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMBoroughPresidentQueens.csv": {
+            "irv": "Donovan J. Richards Jr.",
+            "condorcet": "Elizabeth S. Crowley"
+        },
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember3rdCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_REPCouncilMember24thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_REPCouncilMember19thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMPublicAdvocateCitywide.csv": {},
+        "american/New York City/NewYorkCity_06222021_REPMayorCitywide.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember38thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember23rdCouncilDistrict.csv": {
+            "irv": "Linda Lee",
+            "condorcet": "Jaslin Kaur"
+        },
+        "american/New York City/NewYorkCity_06222021_DEMBoroughPresidentRichmond.csv": {},
+        "american/New York City/NewYorkCity_06222021_REPCouncilMember15thCouncilDistrict.csv": {
+            "irv": "Ariel Rivera-Diaz",
+            "condorcet": "Aramis Ocasio"
+        },
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember37thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember22ndCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember25thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember6thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember18thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMBoroughPresidentNewYork.csv": {
+            "irv": "Mark D. Levine",
+            "condorcet": "Brad M. Hoylman"
+        },
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember20thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_REPCouncilMember32ndCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember17thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_CONCouncilMember19thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember21stCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember12thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember41stCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember36thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember40thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember39thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember42ndCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember45thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember16thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember8thCouncilDistrict.csv": {},
+        "american/New York City/NewYorkCity_06222021_REPBoroughPresidentQueens.csv": {},
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember24thCouncilDistrict.csv": {
+            "irv": "James F. Gennaro",
+            "condorcet": "Moumita Ahmed"
+        },
+        "american/New York City/NewYorkCity_06222021_DEMCouncilMember19thCouncilDistrict.csv": {
+            "irv": "Tony Avella",
+            "condorcet": "Richard J. Lee"
+        },
+        "american/Cambridge, MA/Cambridge_11062007_SchoolCommittee.csv": {},
+        "american/Cambridge, MA/Cambridge_11042003_SchoolCommittee.csv": {},
+        "american/Cambridge, MA/Cambridge_11082005_SchoolCommittee.csv": {},
+        "american/Corvallis, OR/Corvallis_11082022_CityCouncilWard9.csv": {},
+        "american/Corvallis, OR/Corvallis_11082022_Mayor.csv": {}
+    }
+}
