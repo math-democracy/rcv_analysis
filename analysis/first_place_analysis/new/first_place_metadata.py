@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 
-file_path = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/results/scotland.csv'  # Replace with file path
+file_path = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/scotland.csv'  # Replace with file path
 df = pd.read_csv(file_path)
 
 methods = ['plurality', 'IRV', 'top-two', 'borda-pm', 'top-3-truncation', 'condorcet', 'minimax', 'smith', 'smith-minimax', 'ranked-pairs']
@@ -15,7 +15,7 @@ for _, row in df.iterrows():
     changes = {}
 
     for method in methods:
-        if row[method] != "unknown" and row[method] != "writein" and row['numCands'] > 3 and row[f'{method}_rank'] > 3:
+        if row[method] != "unknown" and row['numCands'] > 3 and row[f'{method}_rank'] > 3:
             changes[method] = {
                 "winner": row[method],
                 "rank (out of first place votes)": row[f'{method}_rank']
