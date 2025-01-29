@@ -1,7 +1,9 @@
 import pandas as pd
 import json
 import re
-file_path = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/results/civs_results.csv'  # Replace with your actual file path
+from collections import defaultdict
+
+file_path = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/results/america_results2.csv'  # Replace with your actual file path
 df = pd.read_csv(file_path)
 
 # Get row where no candidates were removed
@@ -63,58 +65,61 @@ for _, row in df.iterrows():
             del winners[file]
     
 
-# Calculate file statistics
 election_with_changes = len(winners)
 # elections_with_no_changes = sum(1 for changes in winners.values() if not changes)
-method_counts = {}
-method_combinations = {}
+method_counts = defaultdict(set)
+method_combinations = defaultdict(set)
 spoiler_counts = {}
 # party = {
 #     "same": {},
 #     "diff": {}
 # }
 
-for file_changes in winners.values():
-    for change in file_changes:
-        methods_changed = list(change['changes'].keys())
-        
-        # Count individual methods
-        for method in methods_changed:
-            method_counts[method] = method_counts.get(method, 0) + 1
-        
-        # Count combinations of methods
-        if methods_changed:
-            methods_changed.sort()  # Ensure consistent ordering
-            combination_key = ", ".join(methods_changed)
-            method_combinations[combination_key] = method_combinations.get(combination_key, 0) + 1
-        
-        # for c in change["changes"]:
-        #     # print(c)
-        #     if change["changes"][c]["same_party"]:
-        #         try:
-        #             party["same"][c] += 1
-        #         except:
-        #             party["same"][c] = 1
-                
-        #     else:
-        #         try:
-        #             party["diff"][c] += 1
-        #         except:
-        #             party["diff"][c] = 1
+for election, changes in winners.items():
+    all_methods = set()
+    for change in changes:
+        all_methods.update(change['changes'].keys())  # Add all methods to a set for the election
 
+    for method in all_methods:
+        method_counts[method].add(election)
+
+    if all_methods:
+        sorted_methods = sorted(all_methods)  # Ensure consistent ordering
+        combination_key = ", ".join(sorted_methods)
+        method_combinations[combination_key].add(election)
+
+final_method_counts = {method: len(elections) for method, elections in method_counts.items()}
+final_combination_counts = {combination: len(elections) for combination, elections in method_combinations.items()}
+        
+for file_changes in winners.values():
     num_spoilers = len(file_changes)
     if (num_spoilers == 14):
         for c in file_changes:
             print(c['changes'])
     spoiler_counts[num_spoilers] = spoiler_counts.get(num_spoilers, 0) + 1
+    # for change in file_changes:
+    #     for c in change["changes"]:
+    #     # print(c)
+    #         if change["changes"][c]["same_party"]:
+    #             try:
+    #                 party["same"][c] += 1
+    #             except:
+    #                 party["same"][c] = 1
+                
+    #         else:
+    #             try:
+    #                 party["diff"][c] += 1
+    #             except:
+    #                 party["diff"][c] = 1
+
 
 metadata = {
     "total_elections": len(total_files),
     "election_with_changes": election_with_changes,
-    "spoiler_counts": spoiler_counts,
+    "spoiler_counts": dict(sorted(spoiler_counts.items(), key=lambda x: x[1], reverse=True)),
     # "party": party,
-    "method_counts": method_counts,
-    "method_combinations": method_combinations
+    "method_counts": dict(sorted(final_method_counts.items(), key=lambda x: x[1], reverse=True)),
+    "method_combinations": dict(sorted(final_combination_counts.items(), key=lambda x: x[1], reverse=True))
 }
 
 output_data = {
