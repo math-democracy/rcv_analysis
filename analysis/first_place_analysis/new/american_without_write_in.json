@@ -1,16 +1,39 @@
 {
     "metadata": {
         "total_elections": 503,
-        "elections_with_no_changes": 492,
-        "method_counts": {
+        "total_method_counts_third_or_lower": {
+            "plurality": 0,
+            "IRV": 2,
+            "top-two": 0,
+            "borda-pm": 7,
+            "top-3-truncation": 2,
+            "condorcet": 8,
+            "minimax": 8,
+            "smith": 15,
+            "smith-minimax": 15,
+            "ranked-pairs": 15
+        },
+        "method_counts_third_place": {
+            "plurality": 0,
+            "IRV": 2,
+            "top-two": 0,
+            "borda-pm": 4,
+            "top-3-truncation": 2,
+            "condorcet": 5,
+            "minimax": 5,
+            "smith": 8,
+            "smith-minimax": 7,
+            "ranked-pairs": 7
+        },
+        "method_counts_lower": {
             "plurality": 0,
             "IRV": 0,
             "top-two": 0,
-            "borda-pm": 2,
+            "borda-pm": 3,
             "top-3-truncation": 0,
-            "condorcet": 2,
-            "minimax": 2,
-            "smith": 6,
+            "condorcet": 3,
+            "minimax": 3,
+            "smith": 7,
             "smith-minimax": 8,
             "ranked-pairs": 8
         }
@@ -120,13 +143,39 @@
         "american/processed_data/Alaska/Alaska_11082022_HouseDistrict13.csv": {},
         "american/processed_data/Alaska/Alaska_11082022_HouseDistrict12.csv": {},
         "american/processed_data/Minneapolis/Minneapolis_11072023_CityCouncilWard12.csv": {},
-        "american/processed_data/Minneapolis/Minneapolis_11072017_BoardofEstimateandTaxation.csv": {},
+        "american/processed_data/Minneapolis/Minneapolis_11072017_BoardofEstimateandTaxation.csv": {
+            "smith": {
+                "winner": "John Edwards",
+                "rank (out of first place votes)": 3
+            },
+            "smith-minimax": {
+                "winner": "John Edwards",
+                "rank (out of first place votes)": 3
+            },
+            "ranked-pairs": {
+                "winner": "John Edwards",
+                "rank (out of first place votes)": 3
+            }
+        },
         "american/processed_data/Minneapolis/Minneapolis_11072017_ParkBoardAtLarge.csv": {},
         "american/processed_data/Minneapolis/Minneapolis_11072017_Ward6CityCouncil.csv": {},
         "american/processed_data/Minneapolis/Minneapolis_11062009_PRBoardDistrict6.csv": {},
         "american/processed_data/Minneapolis/Minneapolis_11062009_Ward10CityCouncil.csv": {},
         "american/processed_data/Minneapolis/Minneapolis_11072023_CityCouncilWard13.csv": {},
-        "american/processed_data/Minneapolis/Minneapolis_11022021_BoardofEstimateandTaxationAtLarge.csv": {},
+        "american/processed_data/Minneapolis/Minneapolis_11022021_BoardofEstimateandTaxationAtLarge.csv": {
+            "smith": {
+                "winner": "Pine Salica",
+                "rank (out of first place votes)": 3
+            },
+            "smith-minimax": {
+                "winner": "Pine Salica",
+                "rank (out of first place votes)": 3
+            },
+            "ranked-pairs": {
+                "winner": "Pine Salica",
+                "rank (out of first place votes)": 3
+            }
+        },
         "american/processed_data/Minneapolis/Minneapolis_11072017_Ward1CityCouncil.csv": {},
         "american/processed_data/Minneapolis/Minneapolis_11062009_PRBoardDistrict5.csv": {},
         "american/processed_data/Minneapolis/Minneapolis_11062009_PRBoardDistrict4.csv": {},
@@ -174,7 +223,20 @@
         "american/processed_data/Minneapolis/Minneapolis_11062009_Ward1CityCouncil.csv": {},
         "american/processed_data/Minneapolis/Minneapolis_11062009_Ward9CityCouncil.csv": {},
         "american/processed_data/Minneapolis/Minneapolis_11072017_PRBoardDistrict4.csv": {},
-        "american/processed_data/Minneapolis/Minneapolis_11062009_MinneapolisParkRecBoard.csv": {},
+        "american/processed_data/Minneapolis/Minneapolis_11062009_MinneapolisParkRecBoard.csv": {
+            "borda-pm": {
+                "winner": "writein",
+                "rank (out of first place votes)": 9
+            },
+            "condorcet": {
+                "winner": "writein",
+                "rank (out of first place votes)": 9
+            },
+            "minimax": {
+                "winner": "writein",
+                "rank (out of first place votes)": 9
+            }
+        },
         "american/processed_data/Minneapolis/Minneapolis_11072017_Ward13CityCouncil.csv": {},
         "american/processed_data/Minneapolis/Minneapolis_11022021_CityCouncilWard8.csv": {},
         "american/processed_data/Minneapolis/Minneapolis_11062009_Ward6CityCouncil.csv": {},
@@ -196,9 +258,27 @@
         "american/processed_data/Minneapolis/Minneapolis_11022021_ParkBoardDistrict6.csv": {},
         "american/processed_data/Pierce County, WA/PierceCounty_11042008_CountyExecutiveMember.csv": {},
         "american/processed_data/Pierce County, WA/PierceCounty_11032009_CountyAuditor.csv": {},
-        "american/processed_data/Pierce County, WA/PierceCounty_11042008_CountyAssessorTreasurer.csv": {},
+        "american/processed_data/Pierce County, WA/PierceCounty_11042008_CountyAssessorTreasurer.csv": {
+            "borda-pm": {
+                "winner": "Jan Shabro",
+                "rank (out of first place votes)": 3
+            }
+        },
         "american/processed_data/Pierce County, WA/PierceCounty_11042008_CountyCouncilDistrict2.csv": {},
-        "american/processed_data/Portland, OR/PortlandOR_110524_Mayor.csv": {},
+        "american/processed_data/Portland, OR/PortlandOR_110524_Mayor.csv": {
+            "borda-pm": {
+                "winner": "Rene Gonzalez",
+                "rank (out of first place votes)": 3
+            },
+            "condorcet": {
+                "winner": "Rene Gonzalez",
+                "rank (out of first place votes)": 3
+            },
+            "minimax": {
+                "winner": "Rene Gonzalez",
+                "rank (out of first place votes)": 3
+            }
+        },
         "american/processed_data/Portland, ME/Portland_06142022_SchoolboardAL-1.csv": {
             "borda-pm": {
                 "winner": "Mancini, Kimberly A.",
@@ -214,7 +294,20 @@
             }
         },
         "american/processed_data/Portland, ME/Portland_06142022_Schoolboarddistrict5-1.csv": {},
-        "american/processed_data/Portland, ME/Portland_06082021_charter_commission_at_large.csv": {},
+        "american/processed_data/Portland, ME/Portland_06082021_charter_commission_at_large.csv": {
+            "IRV": {
+                "winner": "Chann, Marpheen S.",
+                "rank (out of first place votes)": 3
+            },
+            "condorcet": {
+                "winner": "Chann, Marpheen S.",
+                "rank (out of first place votes)": 3
+            },
+            "minimax": {
+                "winner": "Chann, Marpheen S.",
+                "rank (out of first place votes)": 3
+            }
+        },
         "american/processed_data/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict90.csv": {},
         "american/processed_data/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict47.csv": {},
         "american/processed_data/Maine/Maine_11082022_CongressionalDistrict2.csv": {},
@@ -241,7 +334,28 @@
         "american/processed_data/Utah cities/Vineyard_11022021_CityCouncil.csv": {},
         "american/processed_data/Utah cities/Genola_11022021_CityCouncil.csv": {},
         "american/processed_data/Utah cities/Vineyard_11052019_CityCouncil.csv": {},
-        "american/processed_data/Utah cities/Moab_11022021_CityCouncil.csv": {},
+        "american/processed_data/Utah cities/Moab_11022021_CityCouncil.csv": {
+            "condorcet": {
+                "winner": "LUKE WOJCIECHOWSKI",
+                "rank (out of first place votes)": 3
+            },
+            "minimax": {
+                "winner": "LUKE WOJCIECHOWSKI",
+                "rank (out of first place votes)": 3
+            },
+            "smith": {
+                "winner": "LUKE WOJCIECHOWSKI",
+                "rank (out of first place votes)": 3
+            },
+            "smith-minimax": {
+                "winner": "LUKE WOJCIECHOWSKI",
+                "rank (out of first place votes)": 3
+            },
+            "ranked-pairs": {
+                "winner": "LUKE WOJCIECHOWSKI",
+                "rank (out of first place votes)": 3
+            }
+        },
         "american/processed_data/Utah cities/Payson_11052019_CityCouncil.csv": {
             "borda-pm": {
                 "winner": "CARY KENNETH STOCKWELL",
@@ -270,7 +384,36 @@
         "american/processed_data/Burlington/Burlington_03072006_Mayor.csv": {},
         "american/processed_data/Burlington/Burlington_03072023_CityCouncilSouthDistrict.csv": {},
         "american/processed_data/Burlington/Burlington_03072023_CityCouncilCentralDistrict.csv": {},
-        "american/processed_data/Burlington/Burlington_03032009_Mayor.csv": {},
+        "american/processed_data/Burlington/Burlington_03032009_Mayor.csv": {
+            "borda-pm": {
+                "winner": "Andy Montroll",
+                "rank (out of first place votes)": 3
+            },
+            "top-3-truncation": {
+                "winner": "Andy Montroll",
+                "rank (out of first place votes)": 3
+            },
+            "condorcet": {
+                "winner": "Andy Montroll",
+                "rank (out of first place votes)": 3
+            },
+            "minimax": {
+                "winner": "Andy Montroll",
+                "rank (out of first place votes)": 3
+            },
+            "smith": {
+                "winner": "Andy Montroll",
+                "rank (out of first place votes)": 3
+            },
+            "smith-minimax": {
+                "winner": "Andy Montroll",
+                "rank (out of first place votes)": 3
+            },
+            "ranked-pairs": {
+                "winner": "Andy Montroll",
+                "rank (out of first place votes)": 3
+            }
+        },
         "american/processed_data/APA/APA 2002.csv": {},
         "american/processed_data/APA/APA 2003.csv": {},
         "american/processed_data/APA/APA 2001.csv": {},
@@ -300,7 +443,20 @@
         "american/processed_data/APA/APA 2017 BOD race1.csv": {},
         "american/processed_data/Alameda County/Oakland_11042014_SchoolDirectorDistrict2.csv": {},
         "american/processed_data/Alameda County/Berkeley_11032020_MemberCityCouncilDist2BerkeleyRCV.csv": {},
-        "american/processed_data/Alameda County/Berkeley_11042014_CityCouncilDistrict8.csv": {},
+        "american/processed_data/Alameda County/Berkeley_11042014_CityCouncilDistrict8.csv": {
+            "smith": {
+                "winner": "MIKE ALVAREZ COHEN",
+                "rank (out of first place votes)": 3
+            },
+            "smith-minimax": {
+                "winner": "MIKE ALVAREZ COHEN",
+                "rank (out of first place votes)": 3
+            },
+            "ranked-pairs": {
+                "winner": "MIKE ALVAREZ COHEN",
+                "rank (out of first place votes)": 3
+            }
+        },
         "american/processed_data/Alameda County/Oakland_11082016_CouncilAtLrg.csv": {},
         "american/processed_data/Alameda County/Berkeley_11062018_CityCouncilDistrict1.csv": {},
         "american/processed_data/Alameda County/Oakland_11062012_CityAttorney.csv": {},
@@ -453,7 +609,12 @@
         "american/processed_data/Alameda County/Oakland_11022010_CityCouncilDistrict2.csv": {},
         "american/processed_data/Alameda County/Oakland_11032020_MemberCityCouncilDist7OaklandRCV.csv": {},
         "american/processed_data/Alameda County/Berkeley_11082016_CityCouncilDistrict6.csv": {},
-        "american/processed_data/Alameda County/SanLeandro_11022010_Mayor.csv": {},
+        "american/processed_data/Alameda County/SanLeandro_11022010_Mayor.csv": {
+            "smith": {
+                "winner": "writein",
+                "rank (out of first place votes)": 6
+            }
+        },
         "american/processed_data/Alameda County/Berkeley_11062012_CityCouncilDistrict5.csv": {},
         "american/processed_data/Alameda County/SanLeandro_11022010_CountyCouncilDistrict1.csv": {
             "smith": {
@@ -510,6 +671,10 @@
         "american/processed_data/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict3.csv": {},
         "american/processed_data/San Francisco/SanFrancisco_11052024_DistrictAttorney.csv": {},
         "american/processed_data/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict8.csv": {
+            "smith": {
+                "winner": "Starchild",
+                "rank (out of first place votes)": 3
+            },
             "smith-minimax": {
                 "winner": "Write-In",
                 "rank (out of first place votes)": 4
@@ -546,6 +711,10 @@
         "american/processed_data/San Francisco/SanFrancisco_11032015_BoardofSupervisorsDistrict3.csv": {},
         "american/processed_data/San Francisco/SanFrancisco_11082022_BoardofSupervisorsD10.csv": {},
         "american/processed_data/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT11.csv": {
+            "smith": {
+                "winner": "MARCELO COLUSSI",
+                "rank (out of first place votes)": 3
+            },
             "smith-minimax": {
                 "winner": "JASON CHUYUAN ZENG",
                 "rank (out of first place votes)": 4
@@ -571,7 +740,40 @@
         "american/processed_data/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT3.csv": {},
         "american/processed_data/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict7.csv": {},
         "american/processed_data/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict3.csv": {},
-        "american/processed_data/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT7.csv": {},
+        "american/processed_data/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT7.csv": {
+            "IRV": {
+                "winner": "MYRNA MELGAR",
+                "rank (out of first place votes)": 3
+            },
+            "borda-pm": {
+                "winner": "MYRNA MELGAR",
+                "rank (out of first place votes)": 3
+            },
+            "top-3-truncation": {
+                "winner": "MYRNA MELGAR",
+                "rank (out of first place votes)": 3
+            },
+            "condorcet": {
+                "winner": "MYRNA MELGAR",
+                "rank (out of first place votes)": 3
+            },
+            "minimax": {
+                "winner": "MYRNA MELGAR",
+                "rank (out of first place votes)": 3
+            },
+            "smith": {
+                "winner": "MYRNA MELGAR",
+                "rank (out of first place votes)": 3
+            },
+            "smith-minimax": {
+                "winner": "MYRNA MELGAR",
+                "rank (out of first place votes)": 3
+            },
+            "ranked-pairs": {
+                "winner": "MYRNA MELGAR",
+                "rank (out of first place votes)": 3
+            }
+        },
         "american/processed_data/San Francisco/SanFrancisco_11052024_BoS_D9.csv": {},
         "american/processed_data/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict9.csv": {},
         "american/processed_data/San Francisco/SanFrancisco_11032015_Sheriff.csv": {},
@@ -620,7 +822,16 @@
         "american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember6thCouncilDistrict.csv": {},
         "american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember18thCouncilDistrict.csv": {},
         "american/processed_data/New York City/NewYorkCity_06222021_DEMBoroughPresidentNewYork.csv": {},
-        "american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember20thCouncilDistrict.csv": {},
+        "american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember20thCouncilDistrict.csv": {
+            "smith-minimax": {
+                "winner": "John Choe",
+                "rank (out of first place votes)": 3
+            },
+            "ranked-pairs": {
+                "winner": "John Choe",
+                "rank (out of first place votes)": 3
+            }
+        },
         "american/processed_data/New York City/NewYorkCity_06222021_REPCouncilMember32ndCouncilDistrict.csv": {},
         "american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember17thCouncilDistrict.csv": {},
         "american/processed_data/New York City/NewYorkCity_06222021_CONCouncilMember19thCouncilDistrict.csv": {},
