@@ -17,7 +17,7 @@ for _, row in df.iterrows():
     changes = {}
 
     for method in methods:
-        if row[method] != "unknown" and row['numCands'] > 3 and row[f'{method}_rank'] >= 3:
+        if row[method] != "unknown" and row[method] != "writein" and row['numCands'] > 3 and row[f'{method}_rank'] >= 3:
             changes[method] = {
                 "winner": row[method],
                 "rank (out of first place votes)": row[f'{method}_rank']

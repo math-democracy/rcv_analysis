@@ -5,11 +5,11 @@
             "plurality": 0,
             "IRV": 2,
             "top-two": 0,
-            "borda-pm": 7,
+            "borda-pm": 6,
             "top-3-truncation": 2,
-            "condorcet": 8,
-            "minimax": 8,
-            "smith": 15,
+            "condorcet": 7,
+            "minimax": 7,
+            "smith": 14,
             "smith-minimax": 15,
             "ranked-pairs": 15
         },
@@ -29,11 +29,11 @@
             "plurality": 0,
             "IRV": 0,
             "top-two": 0,
-            "borda-pm": 3,
+            "borda-pm": 2,
             "top-3-truncation": 0,
-            "condorcet": 3,
-            "minimax": 3,
-            "smith": 7,
+            "condorcet": 2,
+            "minimax": 2,
+            "smith": 6,
             "smith-minimax": 8,
             "ranked-pairs": 8
         }
@@ -223,20 +223,7 @@
         "american/processed_data/Minneapolis/Minneapolis_11062009_Ward1CityCouncil.csv": {},
         "american/processed_data/Minneapolis/Minneapolis_11062009_Ward9CityCouncil.csv": {},
         "american/processed_data/Minneapolis/Minneapolis_11072017_PRBoardDistrict4.csv": {},
-        "american/processed_data/Minneapolis/Minneapolis_11062009_MinneapolisParkRecBoard.csv": {
-            "borda-pm": {
-                "winner": "writein",
-                "rank (out of first place votes)": 9
-            },
-            "condorcet": {
-                "winner": "writein",
-                "rank (out of first place votes)": 9
-            },
-            "minimax": {
-                "winner": "writein",
-                "rank (out of first place votes)": 9
-            }
-        },
+        "american/processed_data/Minneapolis/Minneapolis_11062009_MinneapolisParkRecBoard.csv": {},
         "american/processed_data/Minneapolis/Minneapolis_11072017_Ward13CityCouncil.csv": {},
         "american/processed_data/Minneapolis/Minneapolis_11022021_CityCouncilWard8.csv": {},
         "american/processed_data/Minneapolis/Minneapolis_11062009_Ward6CityCouncil.csv": {},
@@ -609,12 +596,7 @@
         "american/processed_data/Alameda County/Oakland_11022010_CityCouncilDistrict2.csv": {},
         "american/processed_data/Alameda County/Oakland_11032020_MemberCityCouncilDist7OaklandRCV.csv": {},
         "american/processed_data/Alameda County/Berkeley_11082016_CityCouncilDistrict6.csv": {},
-        "american/processed_data/Alameda County/SanLeandro_11022010_Mayor.csv": {
-            "smith": {
-                "winner": "writein",
-                "rank (out of first place votes)": 6
-            }
-        },
+        "american/processed_data/Alameda County/SanLeandro_11022010_Mayor.csv": {},
         "american/processed_data/Alameda County/Berkeley_11062012_CityCouncilDistrict5.csv": {},
         "american/processed_data/Alameda County/SanLeandro_11022010_CountyCouncilDistrict1.csv": {
             "smith": {
