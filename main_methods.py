@@ -19,7 +19,6 @@ import pref_voting.voting_methods as p #
 from votekit.cleaning import remove_noncands
 from votekit.ballot import Ballot
 from votekit.pref_profile import PreferenceProfile
-from votekit.graphs import PairwiseComparisonGraph
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 #profile conversion for both votekit and pref_voting packages
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
@@ -31,9 +30,9 @@ def v_profile(filename, to_remove = ["undervote", "overvote", "UWI"]):
 #pref_voting
 def p_profile(filename):
     return creator.create_profile(filename)
-#
+#--------------------------------------------------------------------------------------------------------------------------------------------------#
 # Head-to-Head counts for a votekit profile - borrowed from votekit.PairwiseComparisonGraph
-#  
+#--------------------------------------------------------------------------------------------------------------------------------------------------#
 
 def head2head_count(
     prof: PreferenceProfile, 
@@ -51,48 +50,57 @@ def head2head_count(
             elif cand_2 in s:
                 break
     return count
+
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
-#Plurality - can choose package
+# Dominating tiers for a votekit profile - borrowed from votekit.PairwiseComparisonGraph
+#--------------------------------------------------------------------------------------------------------------------------------------------------#
+
+def dominating_tiers(
+    prof: PreferenceProfile
+):
+    beat_set_size_dict = {}
+    cands = [c for c in prof.candidates if c!="skipped"]
+    for c in cands:
+        beat_set = set()
+        for y in cands:
+            if c!=y:
+                if head2head_count(prof,c,y)>head2head_count(prof,y,c):
+                    beat_set.add(y)
+        beat_set_size_dict[c] = len(beat_set)
+    # We want to return candidates sorted and grouped by beat set size
+    tier_dict: dict = {}
+    for k, v in beat_set_size_dict.items():
+        if v in tier_dict.keys():
+            tier_dict[v].add(k)
+        else:
+            tier_dict[v] = {k}
+    tier_list = [tier_dict[k] for k in sorted(tier_dict.keys(), reverse=True)]
+    return tier_list
+#--------------------------------------------------------------------------------------------------------------------------------------------------#
+#Plurality 
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 
 def Plurality(
     filename: str,
-    package: str = "pref_voting"
 ):
-    
-    elected="unknown"
-    if package=="pref_voting":
-        prof, file_path, candidates_with_indices = p_profile(filename)
-        el = p.plurality(prof, candidates_with_indices)[0]
-        elected = candidates_with_indices[el]
-    
-    else:
-        prof= v_profile(filename)
-        elected = list(v.Plurality(profile = prof).election_states[-1].elected[0])[0]
+    prof= v_profile(filename)
+    elected = list(v.Plurality(profile = prof).election_states[-1].elected[0])[0]
 
     
     return elected
     
 #-------------------------------------------------------------------------------------------------------------------------------------------------  
-#IRV - can choose package
+#IRV 
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 
 def IRV(
     filename: str, 
     package :str = "votekit"
 ):
-    elected = "unknown"
-    if package=="votekit":
-        prof= v_profile(filename)
-        elected = list(v.IRV(profile = prof).election_states[-1].elected[0])[0]
+    prof= v_profile(filename)
+    elected = list(v.IRV(profile = prof).election_states[-1].elected[0])[0]
     
         
-    else:
-        prof, file_path, candidates_with_indices = p_profile(filename)
-        el = p.instant_runoff_for_truncated_linear_orders(prof, candidates_with_indices)[0]
-        elected = candidates_with_indices[el]
-        
-      
     return elected
         
 
@@ -263,7 +271,7 @@ def Condorcet(
     filename: str
 ):
     prof= v_profile(filename)
-    elected = list(v.DominatingSets(profile = prof).election_states[-1].elected[0])[0]
+    elected = dominating_tiers(prof)[0]
     if len(elected)>1:
         elected = []
     return elected
@@ -274,7 +282,7 @@ def Smith(
     filename: str
 ):
     prof= v_profile(filename)
-    elected = list(v.DominatingSets(profile = prof).election_states[-1].elected[0])[0]
+    elected = dominating_tiers(prof)[0]
     return elected
 
 #Smith Plurality
@@ -282,7 +290,7 @@ def Smith_Plurality(
     filename: str
 ):
     prof= v_profile(filename)
-    smith = list(v.DominatingSets(profile = prof).election_states[-1].elected[0])[0]
+    smith = dominating_tiers(prof)[0]
     if len(smith)<len(prof.candidates):
         noncands = [c for c in prof.candidates if c not in smith]
         prof = remove_noncands(prof, noncands) 
@@ -295,7 +303,7 @@ def Smith_IRV(
     filename: str
 ):
     prof= v_profile(filename)
-    smith = list(v.DominatingSets(profile = prof).election_states[-1].elected[0])[0]
+    smith = dominating_tiers(prof)[0]
     if len(smith)<len(prof.candidates):
         noncands = [c for c in prof.candidates if c not in smith]
         prof = remove_noncands(prof, noncands) 
@@ -325,7 +333,7 @@ def Smith_Minimax(
     filename: str
 ):
     prof= v_profile(filename)
-    smith = list(v.DominatingSets(profile = prof).election_states[-1].elected[0])[0]
+    smith = dominating_tiers(prof)[0]
     if len(smith)<len(prof.candidates):
         noncands = [c for c in prof.candidates if c not in smith]
         prof = remove_noncands(prof, noncands) 
@@ -343,15 +351,14 @@ def Smith_Minimax(
 
 
 #ranked pairs
-#def Ranked_Pairs(
- #   filename: str
-#):
-#    prof, file_path, candidates_with_indices = p_profile(filename)
-#    el = p.ranked_pairs(prof)
-#    elected = [candidates_with_indices[c] for c in el]
-#   return elected
+def Ranked_Pairs(
+    filename: str
+):
+    prof = v_profile(filename)
+    elected = []
+    return elected
 
-
+    
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 #Bucklin - custom, but uses votekit. Returns list of winners
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
