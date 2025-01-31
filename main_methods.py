@@ -9,7 +9,7 @@ import networkx as nx
 #-------------------------------------------------------------------------------------------
 
 #for loading files and converting into profiles for votekit
-from new_csv_loader import new_loader
+from helper.new_csv_loader import new_loader
 #import pref_voting_methods as creator
 
 #-------------------------------------------------------------------------------------------

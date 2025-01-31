@@ -3,7 +3,7 @@ import csv
 import asyncio
 import aiofiles
 from asyncio.exceptions import TimeoutError
-from pref_voting_methods import create_profile, run_voting_methods
+from helper.pref_voting.pref_voting_methods import create_profile, run_voting_methods
 
 # File paths
 data_file = '/Users/belle/Desktop/build/rcv_proposal/pref_voting/processed_results/civs_results_test.csv'

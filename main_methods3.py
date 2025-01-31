@@ -8,8 +8,8 @@ import sys
 sys.path.append(os.path.abspath('pref_voting/'))
 
 #for loading files and converting into profiles for both votekit and pref_voting packages
-from new_csv_loader import new_loader
-import pref_voting_methods as creator
+from helper.new_csv_loader import new_loader
+import helper.pref_voting.pref_voting_methods as creator
 
 #existing voting methods in both votekit and pref_voting. Default packages should ideally be assigned based on which package does each method better!
 import votekit.elections as v

@@ -10,7 +10,7 @@ from collections import Counter, defaultdict
 from pref_voting.profiles import Profile
 
 from votekit.cleaning import remove_noncands
-from new_csv_loader import new_loader
+from helper.new_csv_loader import new_loader
 import votekit.elections as v
 
 

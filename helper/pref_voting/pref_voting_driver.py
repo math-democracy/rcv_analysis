@@ -1,4 +1,4 @@
-from pref_voting_methods import create_profile, run_voting_methods
+from helper.pref_voting.pref_voting_methods import create_profile, run_voting_methods
 import os
 import csv
 import time
