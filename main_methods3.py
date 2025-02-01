@@ -1,21 +1,23 @@
-import json
-import pandas as pd
-import numpy as np
+#required
 from typing import Optional
 import networkx as nx
 
-import os
-import sys
-sys.path.append(os.path.abspath('pref_voting/'))
+#-------------------------------------------------------------------------------------------
+#import os
+#import sys
+#sys.path.append(os.path.abspath('pref_voting/'))
+#-------------------------------------------------------------------------------------------
 
-#for loading files and converting into profiles for both votekit and pref_voting packages
+#for loading files and converting into profiles for votekit
 from helper.new_csv_loader import new_loader
-import helper.pref_voting.pref_voting_methods as creator
+#import pref_voting_methods as creator
 
-#existing voting methods in both votekit and pref_voting. Default packages should ideally be assigned based on which package does each method better!
+#-------------------------------------------------------------------------------------------
+#existing voting methods in votekit 
 import votekit.elections as v
-import pref_voting.voting_methods as p #
+#import pref_voting.voting_methods as p #
 
+#-------------------------------------------------------------------------------------------
 #cleaning and other logistics
 from votekit.cleaning import remove_noncands
 from votekit.ballot import Ballot
@@ -37,8 +39,8 @@ def v_profile(filename, to_remove = ["undervote", "overvote", "UWI"]):
     return remove_noncands(new_loader(filename)[0], to_remove)
 
 #pref_voting
-def p_profile(filename):
-    return creator.create_profile(filename)
+#def p_profile(filename):
+#    return creator.create_profile(filename)
 
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 # Head-to-Head counts for a votekit profile - borrowed from votekit.PairwiseComparisonGraph
@@ -91,7 +93,7 @@ def dominating_tiers(
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 
 def Plurality(
-    prof,
+    prof: PreferenceProfile,
     cands_to_keep: Optional[list[str]] = None
 ):
     if not cands_to_keep:
@@ -114,7 +116,7 @@ def Plurality(
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 
 def IRV(
-    prof,
+    prof: PreferenceProfile,
     cands_to_keep: Optional[list[str]] = None
 ):
     if not cands_to_keep:
@@ -136,7 +138,7 @@ def IRV(
 
 def TopTwo(
     #filename: str,
-    prof,
+    prof: PreferenceProfile,
     cands_to_keep: Optional[list[str]] = None
 ):  
     if not cands_to_keep:
@@ -160,7 +162,7 @@ def TopTwo(
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 
 def Borda_PM(
-    prof,
+    prof: PreferenceProfile,
     cands_to_keep: Optional[list[str]] = None #include UWI in this if we want to keep it. If we want to keep everyone feed in full list of candidates
 ):
     if not cands_to_keep:
@@ -199,7 +201,7 @@ def Borda_PM(
     
 #Borda OM
 def Borda_OM(
-    prof,
+    prof: PreferenceProfile,
     cands_to_keep: Optional[list[str]] = None
 ):
     if not cands_to_keep:
@@ -239,7 +241,7 @@ def Borda_OM(
 #Borda AVG
 def Borda_AVG(
     #filename: str,
-    prof,
+    prof: PreferenceProfile,
     cands_to_keep: Optional[list[str]] = None 
 ):
     if not cands_to_keep:
@@ -278,7 +280,7 @@ def Borda_AVG(
 
 #top3 truncation using 3-2-1. converts to 2-1 if we are only keeping 2 candidates
 def Top3Truncation(
-    prof,
+    prof: PreferenceProfile,
     cands_to_keep: Optional[list[str]] = None
 ):
     if not cands_to_keep:
@@ -313,7 +315,7 @@ def Top3Truncation(
 
 #regular Condorcet: returns Condorcet winner if there exists once, else returns []
 def Condorcet(
-    prof,
+    prof: PreferenceProfile,
     cands_to_keep: Optional[list[str]] = None
 ):
     if not cands_to_keep:
@@ -333,7 +335,7 @@ def Condorcet(
 
 #Smith set: returns Smith set as a list
 def Smith(
-    prof,
+    prof: PreferenceProfile,
     cands_to_keep: Optional[list[str]] = None
 ):
     if not cands_to_keep:
@@ -351,7 +353,7 @@ def Smith(
 #Smith Plurality
 def Smith_Plurality(
     #filename: str
-    prof,
+    prof: PreferenceProfile,
     cands_to_keep: Optional[list[str]] = None
 ):
     if not cands_to_keep:
@@ -373,7 +375,7 @@ def Smith_Plurality(
 #Smith-IRV
 def Smith_IRV(
     #filename: str
-    prof,
+    prof: PreferenceProfile,
     cands_to_keep: Optional[list[str]] = None
 ):
     if not cands_to_keep:
@@ -394,7 +396,7 @@ def Smith_IRV(
 #minimax: returns list of minimax winners
 def Minimax(
     #filename: str
-    prof,
+    prof: PreferenceProfile,
     cands_to_keep: Optional[list[str]] = None
 ):
     if not cands_to_keep:
@@ -421,7 +423,7 @@ def Minimax(
 #Smith-minimax
 def Smith_Minimax(
     #filename: str
-    prof,
+    prof: PreferenceProfile,
     cands_to_keep: Optional[list[str]] = None
 ):
     if not cands_to_keep:
@@ -452,7 +454,7 @@ def Smith_Minimax(
 
 #ranked pairs
 def Ranked_Pairs(
-    filename: str,
+    prof: PreferenceProfile,
     cands_to_keep: Optional[list[str]] = None
 ):
     if not cands_to_keep:
@@ -498,8 +500,7 @@ def Ranked_Pairs(
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 
 def Bucklin(
-    #filename: str,
-    prof,
+    prof: PreferenceProfile,
     cands_to_keep: Optional[list[str]] = None
 ):
     if not cands_to_keep:
@@ -528,7 +529,7 @@ def Bucklin(
 #Approval
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 def Approval(
-    prof,
+    prof: PreferenceProfile,
     cands_to_keep: Optional[list[str]] = None
 ):
     if not cands_to_keep:
