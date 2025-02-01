@@ -32,8 +32,8 @@ def v_profile(filename, to_remove = ["undervote", "overvote", "UWI"]):
     return remove_noncands(new_loader(filename)[0], to_remove)
 
 #pref_voting
-def p_profile(filename):
-    return creator.create_profile(filename)
+# def p_profile(filename):
+#     return creator.create_profile(filename)
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 # Head-to-Head counts for a votekit profile - borrowed from votekit.PairwiseComparisonGraph
 #--------------------------------------------------------------------------------------------------------------------------------------------------#

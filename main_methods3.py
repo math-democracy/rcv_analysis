@@ -2,6 +2,7 @@ import json
 import pandas as pd
 import numpy as np
 from typing import Optional
+import networkx as nx
 
 import os
 import sys
@@ -90,13 +91,21 @@ def dominating_tiers(
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 
 def Plurality(
-    #filename: str,
-    prof
+    prof,
+    cands_to_keep: Optional[list[str]] = None
 ):
-    #prof= v_profile(filename)
+    if not cands_to_keep:
+        cands_to_keep = prof.candidates
+    if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
+        cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
+
+    if len(cands_to_keep)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in cands_to_keep]
+        prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
 
     elected = list(v.Plurality(profile = prof).election_states[-1].elected[0])[0]
-
+    if not type(elected) is set:
+        elected = set([elected])
     
     return elected
     
@@ -105,12 +114,21 @@ def Plurality(
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 
 def IRV(
-    #filename: str, 
-    prof
+    prof,
+    cands_to_keep: Optional[list[str]] = None
 ):
-    #prof= v_profile(filename)
+    if not cands_to_keep:
+        cands_to_keep = prof.candidates
+    if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
+        cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
+
+    if len(cands_to_keep)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in cands_to_keep]
+        prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
+
     elected = list(v.IRV(profile = prof).election_states[-1].elected[0])[0]
-    
+    if not type(elected) is set:
+        elected = set([elected])    
     return elected
         
 
@@ -118,12 +136,22 @@ def IRV(
 
 def TopTwo(
     #filename: str,
-    prof
+    prof,
+    cands_to_keep: Optional[list[str]] = None
 ):  
-    elected = "unknown"
-    #prof=v_profile(filename)
+    if not cands_to_keep:
+        cands_to_keep = prof.candidates
+    if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
+        cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
+
+    if len(cands_to_keep)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in cands_to_keep]
+        prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
+
     elected = list(v.TopTwo(profile = prof).election_states[-1].elected[0])[0]
-        
+    if not type(elected) is set:
+        elected = set([elected])
+
     return elected
         
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
@@ -132,16 +160,17 @@ def TopTwo(
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 
 def Borda_PM(
-    #filename: str,
     prof,
-    cands_to_keep: list[str] #include UWI in this if we want to keep it. If we want to keep everyone feed in full list of candidates
+    cands_to_keep: Optional[list[str]] = None #include UWI in this if we want to keep it. If we want to keep everyone feed in full list of candidates
 ):
-    #prof= v_profile(filename)
-
+    if not cands_to_keep:
+        cands_to_keep = prof.candidates
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
         cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
-        
-    prof = process_cands(prof, cands_to_keep)
+
+    if len(cands_to_keep)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in cands_to_keep]
+        prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
 
     max_score=len(prof.candidates)-1 ##this will be equal to len(non_UWI_cands)-1 if UWI not in cands_to_keep, and to len(cands_to_keep)-1 if UWI is in cands_to_keep
     ballots = prof.ballots
@@ -165,21 +194,22 @@ def Borda_PM(
                 el[c]=0
             el_scores[c]+=el[c]
     winning_score = max(el_scores.values())
-    elected = [c for c in cands_to_keep if el_scores[c]==winning_score]
+    elected = set([c for c in cands_to_keep if el_scores[c]==winning_score])
     return elected
     
 #Borda OM
 def Borda_OM(
-    #filename: str,
     prof,
-    cands_to_keep: list[str] 
+    cands_to_keep: Optional[list[str]] = None
 ):
-    #prof= v_profile(filename)
-
-    if 'skipped' in cands_to_keep:
+    if not cands_to_keep:
+        cands_to_keep = prof.candidates
+    if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
         cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
-        
-    prof = process_cands(prof, cands_to_keep)
+
+    if len(cands_to_keep)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in cands_to_keep]
+        prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
 
     max_score=len(prof.candidates)-1 
     ballots = prof.ballots
@@ -203,22 +233,23 @@ def Borda_OM(
                 el[c]=0
             el_scores[c]+=el[c]
     winning_score = max(el_scores.values())
-    elected = [c for c in cands_to_keep if el_scores[c]==winning_score]
+    elected = set([c for c in cands_to_keep if el_scores[c]==winning_score])
     return elected
-
-
 
 #Borda AVG
 def Borda_AVG(
     #filename: str,
     prof,
-    cands_to_keep: list[str] 
+    cands_to_keep: Optional[list[str]] = None 
 ):
-    #prof= v_profile(filename)
-    if 'skipped' in cands_to_keep:
+    if not cands_to_keep:
+        cands_to_keep = prof.candidates
+    if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
         cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
-        
-    prof = process_cands(prof, cands_to_keep)
+
+    if len(cands_to_keep)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in cands_to_keep]
+        prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
 
     max_score=len(prof.candidates)-1 
     ballots = prof.ballots
@@ -242,22 +273,22 @@ def Borda_AVG(
                 el[c]=0
             el_scores[c]+=el[c]
     winning_score = max(el_scores.values())
-    elected = [c for c in cands_to_keep if el_scores[c]==winning_score]
+    elected = set([c for c in cands_to_keep if el_scores[c]==winning_score])
     return elected
-
-
 
 #top3 truncation using 3-2-1. converts to 2-1 if we are only keeping 2 candidates
 def Top3Truncation(
-    #filename: str,
     prof,
-    cands_to_keep: list[str]
+    cands_to_keep: Optional[list[str]] = None
 ):
-    #prof= v_profile(filename)
-    if 'skipped' in cands_to_keep:
+    if not cands_to_keep:
+        cands_to_keep = prof.candidates
+    if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
         cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
-        
-    prof = process_cands(prof, cands_to_keep)
+
+    if len(cands_to_keep)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in cands_to_keep]
+        prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
 
     if len(prof.candidates)==0:
         return 'skipped'
@@ -270,7 +301,11 @@ def Top3Truncation(
     else:
         vector = [3,2,1]+[0 for i in range(len(prof.candidates) -3)]
     elected = list(v.Borda(profile = prof, score_vector = vector).election_states[-1].elected[0])[0]
+    if not type(elected) is set:
+        elected = set([elected])
+    
     return elected
+    
     
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 #Condorcet methods - we use votekit
@@ -278,25 +313,37 @@ def Top3Truncation(
 
 #regular Condorcet: returns Condorcet winner if there exists once, else returns []
 def Condorcet(
-    #filename: str
     prof,
-    cands_to_keep: list[str]
+    cands_to_keep: Optional[list[str]] = None
 ):
-    #prof= v_profile(filename)
-    prof = process_cands(prof, cands_to_keep)
+    if not cands_to_keep:
+        cands_to_keep = prof.candidates
+    if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
+        cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
+
+    if len(cands_to_keep)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in cands_to_keep]
+        prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
 
     elected = dominating_tiers(prof)[0]
     if len(elected)>1:
-        elected = []
+        elected = set()
     return elected
 
 
 #Smith set: returns Smith set as a list
 def Smith(
-    #filename: str
-    prof
+    prof,
+    cands_to_keep: Optional[list[str]] = None
 ):
-    #prof= v_profile(filename)
+    if not cands_to_keep:
+        cands_to_keep = prof.candidates
+    if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
+        cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
+
+    if len(cands_to_keep)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in cands_to_keep]
+        prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
 
     elected = dominating_tiers(prof)[0]
     return elected
@@ -305,15 +352,21 @@ def Smith(
 def Smith_Plurality(
     #filename: str
     prof,
-    cands_to_keep: list[str]
+    cands_to_keep: Optional[list[str]] = None
 ):
-    #prof= v_profile(filename)
-    prof = process_cands(prof, cands_to_keep)
+    if not cands_to_keep:
+        cands_to_keep = prof.candidates
+    if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
+        cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
 
-    smith = dominating_tiers(prof)[0]
-    prof = process_cands(prof, smith)
+    if len(cands_to_keep)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in cands_to_keep]
+        prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
 
     elected = list(v.Plurality(profile = prof).election_states[-1].elected[0])[0]
+    if not type(elected) is set:
+        elected = set([elected])
+    
     return elected
 
 
@@ -321,28 +374,39 @@ def Smith_Plurality(
 def Smith_IRV(
     #filename: str
     prof,
-    cands_to_keep: list[str]
+    cands_to_keep: Optional[list[str]] = None
 ):
-    #prof= v_profile(filename)
-    prof = process_cands(prof, cands_to_keep)
+    if not cands_to_keep:
+        cands_to_keep = prof.candidates
+    if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
+        cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
 
-    smith = dominating_tiers(prof)[0]
-    prof = process_cands(prof, smith)
+    if len(cands_to_keep)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in cands_to_keep]
+        prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
 
     elected = list(v.IRV(profile = prof).election_states[-1].elected[0])[0]
+    if not type(elected) is set:
+        elected = set([elected])
+    
     return elected
-
 
 #minimax: returns list of minimax winners
 def Minimax(
     #filename: str
     prof,
-    cands_to_keep: list[str]
+    cands_to_keep: Optional[list[str]] = None
 ):
-    #prof= v_profile(filename)
-    prof = process_cands(prof, cands_to_keep)
+    if not cands_to_keep:
+        cands_to_keep = prof.candidates
+    if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
+        cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
 
-    cands = [c for c in prof.candidates if c!="skipped"]
+    if len(cands_to_keep)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in cands_to_keep]
+        prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
+
+    cands = [c for c in prof.candidates]
     defeat_margins={c:0 for c in cands}
     for c in cands:
         defeat_margins[c] = 0
@@ -350,7 +414,7 @@ def Minimax(
             margin = head2head_count(prof,y,c) - head2head_count(prof,c,y)
             if margin> defeat_margins[c]:
                     defeat_margins[c] = margin
-    elected = [c for c in defeat_margins if defeat_margins[c]==min(defeat_margins.values())]          
+    elected = set([c for c in defeat_margins if defeat_margins[c]==min(defeat_margins.values())])         
     return elected
     
 
@@ -358,15 +422,22 @@ def Minimax(
 def Smith_Minimax(
     #filename: str
     prof,
-    cands_to_keep: list[str]
+    cands_to_keep: Optional[list[str]] = None
 ):
-    #prof= v_profile(filename)
-    prof = process_cands(prof, cands_to_keep)
+    if not cands_to_keep:
+        cands_to_keep = prof.candidates
+    if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
+        cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
+
+    if len(cands_to_keep)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in cands_to_keep]
+        prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
 
     smith = dominating_tiers(prof)[0]
-    prof = process_cands(prof, smith)
-
-    cands = [c for c in prof.candidates if c!="skipped"]
+    if len(smith)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in smith]
+        prof = remove_noncands(prof, noncands) 
+    cands = prof.candidates
     defeat_margins={c:0 for c in cands}
     for c in cands:
         defeat_margins[c] = 0
@@ -374,17 +445,51 @@ def Smith_Minimax(
             margin = head2head_count(prof,y,c) - head2head_count(prof,c,y)
             if margin>defeat_margins[c]:
                     defeat_margins[c] = margin
-    elected = [x for x in defeat_margins if defeat_margins[x]==min(defeat_margins.values())]          
+    elected = set([x for x in defeat_margins if defeat_margins[x]==min(defeat_margins.values())])          
     
     return elected
 
 
 #ranked pairs
 def Ranked_Pairs(
-    filename: str
+    filename: str,
+    cands_to_keep: Optional[list[str]] = None
 ):
-    prof = v_profile(filename)
-    elected = []
+    if not cands_to_keep:
+        cands_to_keep = prof.candidates
+    if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
+        cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
+
+    if len(cands_to_keep)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in cands_to_keep]
+        prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
+
+    cands = prof.candidates
+    victory_margins : dict = {}
+    for c in cands:
+        for y in cands:
+            if ((c,y) not in victory_margins.keys()) and ((y,c) not in victory_margins.keys()):
+                margin = head2head_count(prof,c,y) - head2head_count(prof,y,c)
+                if margin>0:
+                    victory_margins[(c,y)] = margin
+                elif margin<0:
+                    victory_margins[(y,c)]=-1*margin
+
+    sorted_pairs = sorted(zip(victory_margins.values(),victory_margins.keys()),reverse = True)
+    gr = nx.DiGraph()
+    present = set()
+    for (v,p) in sorted_pairs:
+        present.add(p[0])
+        present.add(p[1])
+    gr.add_nodes_from(list(present))
+    for (v,p) in sorted_pairs:
+        if not nx.has_path(gr, p[1],p[0]):
+            gr.add_edge(p[0],p[1])
+    elected = set()
+    for c in gr.nodes:
+        if gr.in_degree(c)==0:
+            elected.add(c)
+            break
     return elected
 
     
@@ -395,11 +500,16 @@ def Ranked_Pairs(
 def Bucklin(
     #filename: str,
     prof,
-    cands_to_keep: list[str]
+    cands_to_keep: Optional[list[str]] = None
 ):
-    elected =[]
-    #prof = v_profile(filename)
-    prof = process_cands(prof, cands_to_keep)
+    if not cands_to_keep:
+        cands_to_keep = prof.candidates
+    if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
+        cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
+
+    if len(cands_to_keep)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in cands_to_keep]
+        prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
 
     num_cands = len(prof.candidates)
     maj = sum(b.weight for b in prof.ballots)/2
@@ -407,28 +517,29 @@ def Bucklin(
         bal = prof.ballots
         for b in bal:
             b= Ballot(ranking = b.ranking[:i+1], weight = b.weight)
-        new_prof = PreferenceProfile(ballots = bal)
         el_scores = v.Borda(profile = prof, score_vector = [1 for k in range(i+1)]).election_states[0].scores
         if max(el_scores.values())>maj:
-            elected = [c for c in el_scores if el_scores[c]>maj and c!="skipped"]
+            elected = set([c for c in el_scores if el_scores[c]>maj and c!="skipped"])
             break
-    if elected == []:
-        elected = [c for c in el_scores if el_scores[c]==max(el_scores.values()) and c!="skipped"] ##I'm not sure this can happen
+    if elected == set():
+        elected = set([c for c in el_scores if el_scores[c]==max(el_scores.values()) and c!="skipped"]) ##I'm not sure this can happen
     return elected
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 #Approval
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 def Approval(
-    #filename: str,
     prof,
-    cands_to_keep: list[str]
+    cands_to_keep: Optional[list[str]] = None
 ):
-    #prof= v_profile(filename)
+    if not cands_to_keep:
+        cands_to_keep = prof.candidates
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
         cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
-        
-    prof = process_cands(prof, cands_to_keep)
-    
+
+    if len(cands_to_keep)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in cands_to_keep]
+        prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
+
     ballots = prof.ballots
     el_scores= {c:0 for c in cands_to_keep}
     for b in ballots:
@@ -436,7 +547,7 @@ def Approval(
             for c in list(s):
                 el_scores[c]+=b.weight
     winning_score = max(el_scores.values())
-    elected = [c for c in cands_to_keep if el_scores[c]==winning_score]
+    elected = set([c for c in cands_to_keep if el_scores[c]==winning_score])
     return elected
 
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
