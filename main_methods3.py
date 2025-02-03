@@ -147,7 +147,7 @@ def TopTwo(
         cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
 
     if len(cands_to_keep)<2:
-        return set((None))
+        return set([None])
     else:
         if len(cands_to_keep)<len(prof.candidates):
             noncands = [c for c in prof.candidates if c not in cands_to_keep]
@@ -496,7 +496,7 @@ def Ranked_Pairs(
             elected.add(c)
             break
     if len(cands_to_keep)<2:
-        return set((None))
+        return set([None])
     else:
         return elected
 
