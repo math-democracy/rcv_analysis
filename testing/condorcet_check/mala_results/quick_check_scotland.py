@@ -5,13 +5,15 @@ import main_methods3 as mm
 import david_methods as dm
 import pandas as pd
 
-root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/australia/processed_data'
-diff_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/david_methods/condorcet_check/mala_results/australia_diff.txt'
-processed_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/david_methods/condorcet_check/mala_results/australia_processed.txt'
-error_d = ["BallotPaperDetails-Northcote with candidates.csv", "BallotPaperDetails-Werribee with candidates.csv", "BallotPaperDetails-Point Cook with candidates.csv", "BallotPaperDetails-Preston with Candidates.csv", "BallotPaperDetails-Melton with candidates.csv", "SB2101 LA Pref Data_NA_Upper Hunter.csv"]
+root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/scotland/processed_data'
+diff_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/david_methods/condorcet_check/mala_results/scotland_diff.txt'
+processed_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/david_methods/condorcet_check/mala_results/scotland_processed.txt'
+error_d = []
+processed = []
+
 for dirpath, dirnames, filenames in os.walk(root_dir):
     for filename in filenames:
-        if filename not in error_d and filename.endswith('.csv'):
+        if filename not in error_d and filename not in processed and filename.endswith('.csv'):
             print(filename)
             full_path = os.path.join(dirpath, filename)
 
