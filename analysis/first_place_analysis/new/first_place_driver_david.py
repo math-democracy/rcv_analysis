@@ -1,6 +1,6 @@
 import sys
 sys.path.append('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal')
-import main_methods2 as mm
+import main_methods3 as mm
 import david_methods as dm
 import multiprocessing
 import csv
