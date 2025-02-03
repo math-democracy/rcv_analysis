@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "total_elections": 4,
+        "election_with_changes": 2,
+        "spoiler_counts": {
+            "4": 1,
+            "1": 1
+        },
+        "method_counts": {
+            "bucklin": 1,
+            "top-3-truncation": 1,
+            "top-two": 1,
+            "ranked-pairs": 1
+        },
+        "method_combinations": {
+            "bucklin": 1,
+            "ranked-pairs, top-3-truncation, top-two": 1
+        }
+    },
+    "winners": {
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Ballina-mayoral-finalpreferencedatafile (1).csv": [
+            {
+                "candidate_removed": "JOHNSON Jeff",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "CADWALLADER Sharon",
+                        "baseline_winner_irv_round": 5,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "CADWALLADER Sharon', 'JOHNSTON Eoin",
+                        "new_winner_irv_round": "N/A",
+                        "new_winner_irv_winner": false
+                    }
+                }
+            },
+            {
+                "candidate_removed": "JOHNSTON Eoin",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "CADWALLADER Sharon",
+                        "baseline_winner_irv_round": 5,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "CADWALLADER Sharon', 'JOHNSON Jeff",
+                        "new_winner_irv_round": "N/A",
+                        "new_winner_irv_winner": false
+                    }
+                }
+            },
+            {
+                "candidate_removed": "MCCARTHY Steve",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "CADWALLADER Sharon",
+                        "baseline_winner_irv_round": 5,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "CADWALLADER Sharon', 'JOHNSON Jeff",
+                        "new_winner_irv_round": "N/A",
+                        "new_winner_irv_winner": false
+                    }
+                }
+            },
+            {
+                "candidate_removed": "WILLIAMS Keith",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "CADWALLADER Sharon",
+                        "baseline_winner_irv_round": 5,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "CADWALLADER Sharon', 'JOHNSON Jeff",
+                        "new_winner_irv_round": "N/A",
+                        "new_winner_irv_winner": false
+                    }
+                }
+            }
+        ],
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Nambucca_Valley-mayoral-finalpreferencedatafile.csv": [
+            {
+                "candidate_removed": "JENVEY Susan",
+                "changes": {
+                    "top-two": {
+                        "baseline_winner": "HOBAN Rhonda",
+                        "baseline_winner_irv_round": 1,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "L', 'e', 'n', 'w', 'o', ' ', 's', 't', 'h', 'a",
+                        "new_winner_irv_round": "N/A",
+                        "new_winner_irv_winner": false
+                    },
+                    "top-3-truncation": {
+                        "baseline_winner": "HOBAN Rhonda",
+                        "baseline_winner_irv_round": 1,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "HOBAN Rhonda",
+                        "new_winner_irv_round": 1,
+                        "new_winner_irv_winner": true
+                    },
+                    "ranked-pairs": {
+                        "baseline_winner": "HOBAN Rhonda",
+                        "baseline_winner_irv_round": 1,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "set()",
+                        "new_winner_irv_round": "N/A",
+                        "new_winner_irv_winner": false
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,889 @@
+{
+    "metadata": {
+        "total_elections": 29,
+        "election_with_changes": 14,
+        "spoiler_counts": {
+            "4": 5,
+            "3": 3,
+            "6": 2,
+            "2": 2,
+            "1": 1,
+            "7": 1
+        },
+        "method_counts": {
+            "bucklin": 14,
+            "plurality": 2,
+            "smith-plurality": 2,
+            "top-3-truncation": 1,
+            "IRV": 1,
+            "top-two": 1,
+            "smith-irv": 1
+        },
+        "method_combinations": {
+            "bucklin": 11,
+            "bucklin, plurality, smith-plurality": 2,
+            "IRV, bucklin, smith-irv, top-3-truncation, top-two": 1
+        },
+        "baseline_winner_irv_count": 16,
+        "baseline_winner_irv_ranks": {
+            "5": 5,
+            "4 3 ": 4,
+            "6 5 ": 8,
+            "5 4 6 ": 6,
+            "4 3 2 ": 3,
+            "2": 1,
+            "4": 5,
+            "3 4 ": 4,
+            "1 2 3 ": 3,
+            "6 7 ": 6,
+            "6": 8,
+            "4 5 ": 2,
+            "5 6 ": 3
+        },
+        "new_winner_irv_count": 18,
+        "new_winner_irv_ranks": {
+            "4 5 ": 3,
+            "5 2 ": 1,
+            "3 4 1 ": 1,
+            "4": 5,
+            "3 2 1 ": 2,
+            "4 2 3 ": 1,
+            "5": 6,
+            "6": 9,
+            "2 5 6 3 4 ": 1,
+            "1 2 5 3 4 ": 1,
+            "1 5 6 3 4 ": 1,
+            "1 2 5 6 4 ": 1,
+            "1 2 6 3 4 ": 1,
+            "1 2 5 6 3 ": 1,
+            "3 2 ": 1,
+            "4 3 1 ": 1,
+            "2": 4,
+            "4 1 2 ": 1,
+            "3 2 4 ": 1,
+            "5 5 ": 1,
+            "3": 2,
+            "6 7 5 ": 4,
+            "7": 3,
+            "6 5 ": 4,
+            "4 4 ": 2
+        }
+    },
+    "winners": {
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Ballina-mayoral-finalpreferencedatafile (1).csv": [
+            {
+                "candidate_removed": "MCCARTHY Steve",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "CADWALLADER Sharon",
+                        "baseline_winner_irv_round": 5,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "JOHNSON Jeff', 'CADWALLADER Sharon",
+                        "new_winner_irv_round": "4 5 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 5
+                    }
+                }
+            },
+            {
+                "candidate_removed": "WILLIAMS Keith",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "CADWALLADER Sharon",
+                        "baseline_winner_irv_round": 5,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "JOHNSON Jeff', 'CADWALLADER Sharon",
+                        "new_winner_irv_round": "4 5 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 5
+                    }
+                }
+            },
+            {
+                "candidate_removed": "JOHNSON Jeff",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "CADWALLADER Sharon",
+                        "baseline_winner_irv_round": 5,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "CADWALLADER Sharon', 'JOHNSTON Eoin",
+                        "new_winner_irv_round": "5 2 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 5
+                    }
+                }
+            },
+            {
+                "candidate_removed": "JOHNSTON Eoin",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "CADWALLADER Sharon",
+                        "baseline_winner_irv_round": 5,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "JOHNSON Jeff', 'CADWALLADER Sharon",
+                        "new_winner_irv_round": "4 5 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 5
+                    }
+                }
+            }
+        ],
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Singleton-mayoral-finalpreferencedatafile.csv": [
+            {
+                "candidate_removed": "JARRETT Tony",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "MOORE Sue', 'THOMPSON Danny",
+                        "baseline_winner_irv_round": "4 3 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "THOMPSON Danny', 'MOORE Sue', 'CHARLTON Belinda",
+                        "new_winner_irv_round": "3 4 1 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 4
+                    }
+                }
+            },
+            {
+                "candidate_removed": "THOMPSON Danny",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "MOORE Sue', 'THOMPSON Danny",
+                        "baseline_winner_irv_round": "4 3 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "MOORE Sue",
+                        "new_winner_irv_round": 4,
+                        "new_winner_irv_winner": true,
+                        "irv_rounds": 4
+                    }
+                }
+            },
+            {
+                "candidate_removed": "MOORE Sue",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "MOORE Sue', 'THOMPSON Danny",
+                        "baseline_winner_irv_round": "4 3 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "THOMPSON Danny', 'JARRETT Tony', 'CHARLTON Belinda",
+                        "new_winner_irv_round": "3 2 1 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 4
+                    }
+                }
+            },
+            {
+                "candidate_removed": "CHARLTON Belinda",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "MOORE Sue', 'THOMPSON Danny",
+                        "baseline_winner_irv_round": "4 3 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "MOORE Sue', 'JARRETT Tony', 'THOMPSON Danny",
+                        "new_winner_irv_round": "4 2 3 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 4
+                    }
+                }
+            }
+        ],
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Shoalhaven-mayoral-finalpreferencedatafile.csv": [
+            {
+                "candidate_removed": "FINDLEY Amanda",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "FINDLEY Amanda', 'GREEN Paul",
+                        "baseline_winner_irv_round": "6 5 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "GREEN Paul",
+                        "new_winner_irv_round": 5,
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 6
+                    }
+                }
+            },
+            {
+                "candidate_removed": "WATSON Greg",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "FINDLEY Amanda', 'GREEN Paul",
+                        "baseline_winner_irv_round": "6 5 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "FINDLEY Amanda",
+                        "new_winner_irv_round": 6,
+                        "new_winner_irv_winner": true,
+                        "irv_rounds": 6
+                    }
+                }
+            },
+            {
+                "candidate_removed": "DIGIGLIO Nina",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "FINDLEY Amanda', 'GREEN Paul",
+                        "baseline_winner_irv_round": "6 5 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "FINDLEY Amanda",
+                        "new_winner_irv_round": 6,
+                        "new_winner_irv_winner": true,
+                        "irv_rounds": 6
+                    }
+                }
+            },
+            {
+                "candidate_removed": "GREEN Paul",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "FINDLEY Amanda', 'GREEN Paul",
+                        "baseline_winner_irv_round": "6 5 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "FINDLEY Amanda",
+                        "new_winner_irv_round": 6,
+                        "new_winner_irv_winner": true,
+                        "irv_rounds": 6
+                    }
+                }
+            },
+            {
+                "candidate_removed": "WHITE Patricia",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "FINDLEY Amanda', 'GREEN Paul",
+                        "baseline_winner_irv_round": "6 5 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "FINDLEY Amanda",
+                        "new_winner_irv_round": 6,
+                        "new_winner_irv_winner": true,
+                        "irv_rounds": 6
+                    }
+                }
+            },
+            {
+                "candidate_removed": "KITCHENER Mark",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "FINDLEY Amanda', 'GREEN Paul",
+                        "baseline_winner_irv_round": "6 5 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "FINDLEY Amanda",
+                        "new_winner_irv_round": 6,
+                        "new_winner_irv_winner": true,
+                        "irv_rounds": 6
+                    }
+                }
+            }
+        ],
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Wollondilly-mayoral-finalpreferencedatafile.csv": [
+            {
+                "candidate_removed": "KHAN Robert",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "HANNAN Judy', 'DEETH Matthew', 'GOULD Matt",
+                        "baseline_winner_irv_round": "5 4 6 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "BANASIK Michael', 'HANNAN Judy', 'GOULD Matt', 'LAW Ray', 'DEETH Matthew",
+                        "new_winner_irv_round": "2 5 6 3 4 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 6
+                    }
+                }
+            },
+            {
+                "candidate_removed": "GOULD Matt",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "HANNAN Judy', 'DEETH Matthew', 'GOULD Matt",
+                        "baseline_winner_irv_round": "5 4 6 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "KHAN Robert', 'BANASIK Michael', 'HANNAN Judy', 'LAW Ray', 'DEETH Matthew",
+                        "new_winner_irv_round": "1 2 5 3 4 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 6
+                    }
+                }
+            },
+            {
+                "candidate_removed": "BANASIK Michael",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "HANNAN Judy', 'DEETH Matthew', 'GOULD Matt",
+                        "baseline_winner_irv_round": "5 4 6 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "KHAN Robert', 'HANNAN Judy', 'GOULD Matt', 'LAW Ray', 'DEETH Matthew",
+                        "new_winner_irv_round": "1 5 6 3 4 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 6
+                    }
+                }
+            },
+            {
+                "candidate_removed": "LAW Ray",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "HANNAN Judy', 'DEETH Matthew', 'GOULD Matt",
+                        "baseline_winner_irv_round": "5 4 6 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "KHAN Robert', 'BANASIK Michael', 'HANNAN Judy', 'GOULD Matt', 'DEETH Matthew",
+                        "new_winner_irv_round": "1 2 5 6 4 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 6
+                    }
+                }
+            },
+            {
+                "candidate_removed": "HANNAN Judy",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "HANNAN Judy', 'DEETH Matthew', 'GOULD Matt",
+                        "baseline_winner_irv_round": "5 4 6 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "KHAN Robert', 'BANASIK Michael', 'GOULD Matt', 'LAW Ray', 'DEETH Matthew",
+                        "new_winner_irv_round": "1 2 6 3 4 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 6
+                    }
+                }
+            },
+            {
+                "candidate_removed": "DEETH Matthew",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "HANNAN Judy', 'DEETH Matthew', 'GOULD Matt",
+                        "baseline_winner_irv_round": "5 4 6 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "KHAN Robert', 'BANASIK Michael', 'HANNAN Judy', 'GOULD Matt', 'LAW Ray",
+                        "new_winner_irv_round": "1 2 5 6 3 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 6
+                    }
+                }
+            }
+        ],
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Hunters_Hill-mayoral-finalpreferencedatafile.csv": [
+            {
+                "candidate_removed": "MILES Zac",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "MILES Zac', 'WILLIAMS Ross', 'QUINN Richard",
+                        "baseline_winner_irv_round": "4 3 2 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "WILLIAMS Ross', 'QUINN Richard",
+                        "new_winner_irv_round": "3 2 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 4
+                    }
+                }
+            },
+            {
+                "candidate_removed": "GUAZZAROTTO David",
+                "changes": {
+                    "top-3-truncation": {
+                        "baseline_winner": "QUINN Richard",
+                        "baseline_winner_irv_round": 2,
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "MILES Zac",
+                        "new_winner_irv_round": 4,
+                        "new_winner_irv_winner": true,
+                        "irv_rounds": 4
+                    }
+                }
+            },
+            {
+                "candidate_removed": "QUINN Richard",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "MILES Zac', 'WILLIAMS Ross', 'QUINN Richard",
+                        "baseline_winner_irv_round": "4 3 2 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "MILES Zac', 'WILLIAMS Ross', 'GUAZZAROTTO David",
+                        "new_winner_irv_round": "4 3 1 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 4
+                    }
+                }
+            },
+            {
+                "candidate_removed": "WILLIAMS Ross",
+                "changes": {
+                    "IRV": {
+                        "baseline_winner": "MILES Zac",
+                        "baseline_winner_irv_round": 4,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "QUINN Richard",
+                        "new_winner_irv_round": 2,
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 4
+                    },
+                    "top-two": {
+                        "baseline_winner": "MILES Zac",
+                        "baseline_winner_irv_round": 4,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "QUINN Richard",
+                        "new_winner_irv_round": 2,
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 4
+                    },
+                    "smith-irv": {
+                        "baseline_winner": "MILES Zac",
+                        "baseline_winner_irv_round": 4,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "QUINN Richard",
+                        "new_winner_irv_round": 2,
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 4
+                    },
+                    "bucklin": {
+                        "baseline_winner": "MILES Zac', 'WILLIAMS Ross', 'QUINN Richard",
+                        "baseline_winner_irv_round": "4 3 2 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "MILES Zac', 'GUAZZAROTTO David', 'QUINN Richard",
+                        "new_winner_irv_round": "4 1 2 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 4
+                    }
+                }
+            }
+        ],
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Cessnock-mayoral-finalpreferencedatafile.csv": [
+            {
+                "candidate_removed": "OLSEN Ian",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "OLSEN Ian', 'SUVAAL Jay",
+                        "baseline_winner_irv_round": "3 4 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "SUVAAL Jay",
+                        "new_winner_irv_round": 4,
+                        "new_winner_irv_winner": true,
+                        "irv_rounds": 4
+                    }
+                }
+            },
+            {
+                "candidate_removed": "SUVAAL Jay",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "OLSEN Ian', 'SUVAAL Jay",
+                        "baseline_winner_irv_round": "3 4 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "OLSEN Ian', 'MOORES John', 'MURRAY Janet",
+                        "new_winner_irv_round": "3 2 1 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 4
+                    }
+                }
+            },
+            {
+                "candidate_removed": "MOORES John",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "OLSEN Ian', 'SUVAAL Jay",
+                        "baseline_winner_irv_round": "3 4 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "SUVAAL Jay",
+                        "new_winner_irv_round": 4,
+                        "new_winner_irv_winner": true,
+                        "irv_rounds": 4
+                    }
+                }
+            },
+            {
+                "candidate_removed": "MURRAY Janet",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "OLSEN Ian', 'SUVAAL Jay",
+                        "baseline_winner_irv_round": "3 4 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "OLSEN Ian', 'MOORES John', 'SUVAAL Jay",
+                        "new_winner_irv_round": "3 2 4 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 4
+                    }
+                }
+            }
+        ],
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Newcastle-mayoral-finalpreferencedatafile.csv": [
+            {
+                "candidate_removed": "MACKENZIE John",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "NELMES Nuatali",
+                        "baseline_winner_irv_round": 5,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "CHURCH John', 'NELMES Nuatali",
+                        "new_winner_irv_round": "5 5 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 5
+                    }
+                }
+            }
+        ],
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Willoughby-mayoral-finalpreferencedatafile.csv": [
+            {
+                "candidate_removed": "CAMPBELL Craig",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "CAMPBELL Craig', 'ROZOS Angelo', 'TAYLOR Tanya",
+                        "baseline_winner_irv_round": "1 2 3 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "TAYLOR Tanya",
+                        "new_winner_irv_round": 3,
+                        "new_winner_irv_winner": true,
+                        "irv_rounds": 3
+                    }
+                }
+            },
+            {
+                "candidate_removed": "ROZOS Angelo",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "CAMPBELL Craig', 'ROZOS Angelo', 'TAYLOR Tanya",
+                        "baseline_winner_irv_round": "1 2 3 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "TAYLOR Tanya",
+                        "new_winner_irv_round": 3,
+                        "new_winner_irv_winner": true,
+                        "irv_rounds": 3
+                    }
+                }
+            },
+            {
+                "candidate_removed": "TAYLOR Tanya",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "CAMPBELL Craig', 'ROZOS Angelo', 'TAYLOR Tanya",
+                        "baseline_winner_irv_round": "1 2 3 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "ROZOS Angelo",
+                        "new_winner_irv_round": 2,
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 3
+                    }
+                }
+            }
+        ],
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Kempsey-mayoral-finalpreferencedatafile.csv": [
+            {
+                "candidate_removed": "IRWIN Troy",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "CAMPBELL Liz', 'HAUVILLE Leo",
+                        "baseline_winner_irv_round": "6 7 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "CAMPBELL Liz', 'HAUVILLE Leo', 'BAIN Arthur",
+                        "new_winner_irv_round": "6 7 5 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 7
+                    }
+                }
+            },
+            {
+                "candidate_removed": "EVANS Andrew",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "CAMPBELL Liz', 'HAUVILLE Leo",
+                        "baseline_winner_irv_round": "6 7 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "CAMPBELL Liz', 'HAUVILLE Leo', 'BAIN Arthur",
+                        "new_winner_irv_round": "6 7 5 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 7
+                    }
+                }
+            },
+            {
+                "candidate_removed": "RAEBURN Bruce",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "CAMPBELL Liz', 'HAUVILLE Leo",
+                        "baseline_winner_irv_round": "6 7 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "CAMPBELL Liz', 'HAUVILLE Leo', 'BAIN Arthur",
+                        "new_winner_irv_round": "6 7 5 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 7
+                    }
+                }
+            },
+            {
+                "candidate_removed": "HAUVILLE Leo",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "CAMPBELL Liz', 'HAUVILLE Leo",
+                        "baseline_winner_irv_round": "6 7 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "CAMPBELL Liz",
+                        "new_winner_irv_round": 6,
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 7
+                    }
+                }
+            },
+            {
+                "candidate_removed": "BAIN Arthur",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "CAMPBELL Liz",
+                        "baseline_winner_irv_round": 6,
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "HAUVILLE Leo",
+                        "new_winner_irv_round": 7,
+                        "new_winner_irv_winner": true,
+                        "irv_rounds": 7
+                    },
+                    "smith-plurality": {
+                        "baseline_winner": "CAMPBELL Liz",
+                        "baseline_winner_irv_round": 6,
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "HAUVILLE Leo",
+                        "new_winner_irv_round": 7,
+                        "new_winner_irv_winner": true,
+                        "irv_rounds": 7
+                    }
+                }
+            },
+            {
+                "candidate_removed": "SAUL Dean",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "CAMPBELL Liz', 'HAUVILLE Leo",
+                        "baseline_winner_irv_round": "6 7 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "CAMPBELL Liz', 'HAUVILLE Leo', 'BAIN Arthur",
+                        "new_winner_irv_round": "6 7 5 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 7
+                    }
+                }
+            },
+            {
+                "candidate_removed": "CAMPBELL Liz",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "CAMPBELL Liz', 'HAUVILLE Leo",
+                        "baseline_winner_irv_round": "6 7 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "HAUVILLE Leo",
+                        "new_winner_irv_round": 7,
+                        "new_winner_irv_winner": true,
+                        "irv_rounds": 7
+                    }
+                }
+            }
+        ],
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Wollongong-mayoral-finalpreferencedatafile.csv": [
+            {
+                "candidate_removed": "BROWN Tania",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "BRADBERY Gordon', 'BROWN Tania",
+                        "baseline_winner_irv_round": "6 5 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "BRADBERY Gordon",
+                        "new_winner_irv_round": 6,
+                        "new_winner_irv_winner": true,
+                        "irv_rounds": 6
+                    }
+                }
+            },
+            {
+                "candidate_removed": "BRADBERY Gordon",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "BRADBERY Gordon', 'BROWN Tania",
+                        "baseline_winner_irv_round": "6 5 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "BROWN Tania",
+                        "new_winner_irv_round": 5,
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 6
+                    }
+                }
+            },
+            {
+                "candidate_removed": "COX Mithra",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "BRADBERY Gordon",
+                        "baseline_winner_irv_round": 6,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "BROWN Tania",
+                        "new_winner_irv_round": 5,
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 6
+                    },
+                    "smith-plurality": {
+                        "baseline_winner": "BRADBERY Gordon",
+                        "baseline_winner_irv_round": 6,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "BROWN Tania",
+                        "new_winner_irv_round": 5,
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 6
+                    }
+                }
+            }
+        ],
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Liverpool-mayoral-finalpreferencedatafile.csv": [
+            {
+                "candidate_removed": "MANNOUN Ned",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "HAGARTY Nathan', 'MANNOUN Ned",
+                        "baseline_winner_irv_round": "4 5 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "HAGARTY Nathan",
+                        "new_winner_irv_round": 4,
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 5
+                    }
+                }
+            },
+            {
+                "candidate_removed": "HAGARTY Nathan",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "HAGARTY Nathan', 'MANNOUN Ned",
+                        "baseline_winner_irv_round": "4 5 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "MANNOUN Ned",
+                        "new_winner_irv_round": 5,
+                        "new_winner_irv_winner": true,
+                        "irv_rounds": 5
+                    }
+                }
+            }
+        ],
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_2017_ByElections/SB1702 LA Pref Data_NA_Murray.csv": [
+            {
+                "candidate_removed": "GOODLASS Ray",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "EVANS Austin",
+                        "baseline_winner_irv_round": 6,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "EVANS Austin', 'DALTON Helen",
+                        "new_winner_irv_round": "6 5 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 6
+                    }
+                }
+            },
+            {
+                "candidate_removed": "MILLS Brian",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "EVANS Austin",
+                        "baseline_winner_irv_round": 6,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "EVANS Austin', 'DALTON Helen",
+                        "new_winner_irv_round": "6 5 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 6
+                    }
+                }
+            },
+            {
+                "candidate_removed": "ROBINSON Peter",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "EVANS Austin",
+                        "baseline_winner_irv_round": 6,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "EVANS Austin', 'DALTON Helen",
+                        "new_winner_irv_round": "6 5 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 6
+                    }
+                }
+            },
+            {
+                "candidate_removed": "KIDD Michael",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "EVANS Austin",
+                        "baseline_winner_irv_round": 6,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "EVANS Austin', 'DALTON Helen",
+                        "new_winner_irv_round": "6 5 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 6
+                    }
+                }
+            }
+        ],
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Balmain.csv": [
+            {
+                "candidate_removed": "ZHANG Wenjie (Ben)",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "HOWSE Elly', 'PARKER Jamie",
+                        "baseline_winner_irv_round": "5 6 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "PARKER Jamie",
+                        "new_winner_irv_round": 6,
+                        "new_winner_irv_winner": true,
+                        "irv_rounds": 6
+                    }
+                }
+            },
+            {
+                "candidate_removed": "PARKER Jamie",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "HOWSE Elly', 'PARKER Jamie",
+                        "baseline_winner_irv_round": "5 6 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "HOWSE Elly",
+                        "new_winner_irv_round": 5,
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 6
+                    }
+                }
+            },
+            {
+                "candidate_removed": "HOWSE Elly",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "HOWSE Elly', 'PARKER Jamie",
+                        "baseline_winner_irv_round": "5 6 ",
+                        "baseline_winner_irv_winner": false,
+                        "new_winner": "PARKER Jamie",
+                        "new_winner_irv_round": 6,
+                        "new_winner_irv_winner": true,
+                        "irv_rounds": 6
+                    }
+                }
+            }
+        ],
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Bega.csv": [
+            {
+                "candidate_removed": "SHOOBRIDGE Joshua",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "CONSTANCE Andrew",
+                        "baseline_winner_irv_round": 4,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "CONSTANCE Andrew', 'ATKINSON Leanne",
+                        "new_winner_irv_round": "4 4 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 4
+                    }
+                }
+            },
+            {
+                "candidate_removed": "ANDERSON Coral",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "CONSTANCE Andrew",
+                        "baseline_winner_irv_round": 4,
+                        "baseline_winner_irv_winner": true,
+                        "new_winner": "CONSTANCE Andrew', 'ATKINSON Leanne",
+                        "new_winner_irv_round": "4 4 ",
+                        "new_winner_irv_winner": false,
+                        "irv_rounds": 4
+                    }
+                }
+            }
+        ]
+    }
+}

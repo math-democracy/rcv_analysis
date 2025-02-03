@@ -1,10 +1,12 @@
+import sys
+sys.path.append('/Users/belle/Desktop/build/rcv_proposal')
 from main_methods3 import *
 import multiprocessing
 import csv
 import os
 
 data_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/australian_results.csv'
-root_dir = '/Users/belle/Desktop/build/rcv_proposal/civs/processed_data'
+root_dir = '/Users/belle/Desktop/build/rcv_proposal/raw_data/australia/processed_data'
 
 error_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/australian_error.txt'
 processed_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/australian_processed.txt'
@@ -14,60 +16,76 @@ def run_voting_methods(full_path):
     # create profile + candidate list
     votekit_profile =  v_profile(full_path)
 
-    profile, file_path, candidates_with_indices, candidates = p_profile(full_path)
+    # profile, file_path, candidates_with_indices, candidates = p_profile(full_path)
 
-    candidates_index = list(range(len(candidates)))
+    # candidates_index = list(range(len(candidates)))
+    candidates = list(votekit_profile.candidates)
+
+    if 'skipped' in candidates:## remove 'skipped' from cands_to_keep
+        candidates = list(filter(lambda c: c != 'skipped', candidates))
+
     grouped_data = []
 
     # calculate original winners for each method
     data = {'file': full_path.replace('/Users/belle/Desktop/build/rcv_proposal/', ''), 'candidate_removed': 'none'}
         
-    data['plurality'] = Plurality(prof=profile, cands_to_keep=candidates_index, candidates_with_indices=candidates_with_indices, package="pref_voting")
-    data['IRV'] = IRV(prof=profile, cands_to_keep=candidates_index, candidates_with_indices=candidates_with_indices, package="pref_voting")
-    # data['top-two'] = TopTwo(prof=v, cands_to_keep=candidates)
-    # data['borda-pm'] = Borda_PM(prof=v, cands_to_keep=candidates)
-    # data['top-3-truncation'] = Top3Truncation(prof=v, cands_to_keep=candidates)
-    data['condorcet'] = Condorcet(prof=profile, candidates_with_indices=candidates_with_indices, cands_to_keep=candidates_index)
-    data['minimax'] = Minimax(prof=profile, candidates_with_indices=candidates_with_indices, cands_to_keep=candidates_index)
-    data['smith'] = Smith(prof=profile, candidates_with_indices=candidates_with_indices, cands_to_keep=candidates_index)
-    data['smith-minimax'] = Smith_minimax(prof=profile, candidates_with_indices=candidates_with_indices,cands_to_keep=candidates_index)
-    data['ranked-pairs'] = Ranked_Pairs(prof=profile, candidates_with_indices=candidates_with_indices,cands_to_keep=candidates_index)
+    data['plurality'] = Plurality(votekit_profile)
+    data['IRV'] = IRV(votekit_profile)
+    data['top-two'] = TopTwo(votekit_profile)
+    # data['borda-pm'] = Borda_PM(votekit_profile)
+    # data['borda-om'] = Borda_OM(votekit_profile)
+    # data['borda-avg'] = Borda_AVG(votekit_profile)
+    data['top-3-truncation'] = Top3Truncation(votekit_profile)
+    data['condorcet'] = Condorcet(votekit_profile)
+    data['smith'] = Smith(votekit_profile)
+    data['smith-plurality'] = Smith_Plurality(votekit_profile)
+    data['smith-irv'] = Smith_IRV(votekit_profile)
+    data['minimax'] = Minimax(votekit_profile)
+    data['smith-minimax'] = Smith_Minimax(votekit_profile)
+    data['ranked-pairs'] = Ranked_Pairs(votekit_profile)
+    data['bucklin'] = Bucklin(votekit_profile)
+    data['approval'] = Approval(votekit_profile)
+    irv_with_exp = IRV_With_Explaination(votekit_profile)
+    data['irv-rank'] = irv_with_exp
     print(data)
     grouped_data.append(data)
 
-    # check for spoiler effect by removing one candidate each time
+    # # check for spoiler effect by removing one candidate each time
     if len(candidates) > 1:
         print(candidates)
         for index, c in enumerate(candidates):
             new_candidates = candidates.copy()
             new_candidates.remove(c)
-            new_candidates_index = candidates_index.copy()
-            new_candidates_index.remove(index)
             print(c)
             print(new_candidates)
-            print(new_candidates_index)
        
             data = {'file': full_path.replace('/Users/belle/Desktop/build/rcv_proposal/', ''), 'candidate_removed': c}
             
-            data['plurality'] = Plurality(prof=profile, cands_to_keep=new_candidates_index, candidates_with_indices=candidates_with_indices, package="pref_voting")
-            data['IRV'] = IRV(prof=profile, cands_to_keep=new_candidates_index, candidates_with_indices=candidates_with_indices, package="pref_voting")
-            # data['top-two'] = TopTwo(prof=v, cands_to_keep=new_candidates)
-            data['borda-pm'] = Borda_PM(prof=profile, cands_to_keep=new_candidates, candidates_with_indices=candidates_with_indices)
-            # data['top-3-truncation'] = Top3Truncation(prof=v, cands_to_keep=new_candidates)
-            data['condorcet'] = Condorcet(prof=profile, candidates_with_indices=candidates_with_indices, cands_to_keep=new_candidates_index)
-            data['minimax'] = Minimax(prof=profile, candidates_with_indices=candidates_with_indices, cands_to_keep=new_candidates_index)
-            data['smith'] = Smith(prof=profile, candidates_with_indices=candidates_with_indices, cands_to_keep=new_candidates_index)
-            # data['smith-irv'] = Smith_IRV(prof=profile, candidates_with_indices=candidates_with_indices)
-            data['smith-minimax'] = Smith_minimax(prof=profile, candidates_with_indices=candidates_with_indices,cands_to_keep=new_candidates_index)
-            data['ranked-pairs'] = Ranked_Pairs(prof=profile, candidates_with_indices=candidates_with_indices,cands_to_keep=new_candidates_index)
-            # data['bucklin'] = Bucklin(prof=profile, candidates_with_indices=candidates_with_indices, package="pref_voting")
+            data['plurality'] = Plurality(votekit_profile, new_candidates)
+            data['IRV'] = IRV(votekit_profile, new_candidates)
+            data['top-two'] = TopTwo(votekit_profile, new_candidates)
+            # data['borda-pm'] = Borda_PM(votekit_profile, new_candidates)
+            # data['borda-om'] = Borda_OM(votekit_profile, new_candidates)
+            # data['borda-avg'] = Borda_AVG(votekit_profile, new_candidates)
+            data['top-3-truncation'] = Top3Truncation(votekit_profile, new_candidates)
+            data['condorcet'] = Condorcet(votekit_profile, new_candidates)
+            data['smith'] = Smith(votekit_profile, new_candidates)
+            data['smith-plurality'] = Smith_Plurality(votekit_profile, new_candidates)
+            data['smith-irv'] = Smith_IRV(votekit_profile, new_candidates)
+            data['minimax'] = Minimax(votekit_profile, new_candidates)
+            data['smith-minimax'] = Smith_Minimax(votekit_profile, new_candidates)
+            data['ranked-pairs'] = Ranked_Pairs(votekit_profile, new_candidates)
+            data['bucklin'] = Bucklin(votekit_profile, new_candidates)
+            data['approval'] = Approval(votekit_profile, new_candidates)
+            data['irv-rank'] = irv_with_exp
+
             print(data)
             grouped_data.append(data)
     
     return grouped_data
 
 def process_file(full_path, filename):
-    print("RUNNING ", filename, "\n")
+    print("RUNNING ", full_path, "\n")
     all_data = run_voting_methods(full_path)
     print("DONE", "\n")
 
@@ -87,11 +105,13 @@ def process_file(full_path, filename):
     with open(processed_file, "a") as ef:
         ef.write(f"{filename}, ")
 
+
 def main():
     # loop through data files
+    error_files = ['BallotPaperDetails-Brighton with candidates.csv', 'BallotPaperDetails-Northcote with candidates.csv', 'BallotPaperDetails-Werribee with candidates.csv', 'BallotPaperDetails-Point Cook with candidates.csv', 'BallotPaperDetails-Hawthorn with candidates.csv', 'BallotPaperDetails-Preston with Candidates.csv', 'BallotPaperDetails-Melton with candidates.csv']
     for dirpath, dirnames, filenames in os.walk(root_dir):
         for filename in filenames:
-            if filename.endswith('.blt') or filename.endswith('.csv') or filename.endswith('.txt'):
+            if filename not in error_files and (filename.endswith('.blt') or filename.endswith('.csv') or filename.endswith('.txt')):
                 full_path = os.path.join(dirpath, filename)
 
                 # ensure that if it runs for more than x seconds, kill the process
