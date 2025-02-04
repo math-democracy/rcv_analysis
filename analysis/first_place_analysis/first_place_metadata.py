@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 
-file_path = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/newest/results/american.csv'  # Replace with file path
+file_path = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/newest/results/scotland.csv'  # Replace with file path
 df = pd.read_csv(file_path)
 
 methods = ['plurality','IRV','top-two','borda-pm','borda-om-no-uwi','borda-avg-no-uwi','top-3-truncation','condorcet','minimax','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','approval']
@@ -14,6 +14,8 @@ third_or_fewer_hits = dict.fromkeys(methods, 0)
 
 third_place_num_cands = set()
 third_or_fewer_num_cands = set()
+
+num_elections_with_hits = 0
 
 places = set()
 
@@ -38,14 +40,18 @@ for _, row in df.iterrows():
                 third_or_fewer_num_cands.add(row['numCands'])
 
             places.add(int(row[f'{method}_rank']))
+            
     
     files[row['file']] = changes
+    if len(changes) > 0:
+        num_elections_with_hits += 1
 
 # calculate file statistics
 total_files = len(df)
 
 metadata = {
     "total_elections": total_files,
+    "total_elections_with_hits": num_elections_with_hits,
     "total_method_counts_third_or_lower": method_counts,
     "method_counts_third_place": third_place_hits,
     "method_counts_lower": third_or_fewer_hits,
@@ -60,7 +66,7 @@ output_data = {
 }
 
 # write to output file
-output_file = "/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/newest/results/american.json"
+output_file = "/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/newest/results/scotland.json"
 with open(output_file, "w") as f:
     json.dump(output_data, f, indent=4)
 

@@ -1,6 +1,7 @@
 {
     "metadata": {
         "total_elections": 567,
+        "total_elections_with_hits": 12,
         "total_method_counts_third_or_lower": {
             "plurality": 0,
             "IRV": 7,
