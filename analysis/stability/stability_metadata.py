@@ -1,10 +1,10 @@
 import pandas as pd
 import json
 
-file_path = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/american_results_top4.csv'  # Replace with file path
+file_path = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/new/results/american_results_top4.csv'  # Replace with file path
 df = pd.read_csv(file_path)
 
-methods = ['plurality', 'IRV', 'top-two', 'borda-pm', 'top-3-truncation', 'condorcet', 'minimax', 'smith', 'smith-minimax', 'ranked-pairs']
+methods = ['plurality','IRV','top-two','borda-pm','borda-om-no-uwi','borda-avg-no-uwi','top-3-truncation','condorcet','minimax','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','approval']
 num_cands_kept = 4
 
 files = {}
@@ -42,7 +42,7 @@ output_data = {
 }
 
 # write to output file
-output_file = "/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/american.json"
+output_file = "/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/new/results/american_results_top4.json"
 with open(output_file, "w") as f:
     json.dump(output_data, f, indent=4)
 
