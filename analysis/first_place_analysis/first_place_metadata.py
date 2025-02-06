@@ -1,5 +1,6 @@
 import pandas as pd
 import json
+from collections import Counter
 
 file_path = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/newest/results/scotland.csv'  # Replace with file path
 df = pd.read_csv(file_path)
@@ -17,19 +18,25 @@ third_or_fewer_num_cands = set()
 
 num_elections_with_hits = 0
 
+cands_vs_place = []
+
 places = set()
 
 for _, row in df.iterrows():
     changes = {}
 
+    none_types = [None,'[None]','[]']
+
     for method in methods:
         #print(row[f'{method}_rank'])
-        if row[method] is not None and row[method] != "unknown" and row[method] != "writein" and row['numCands'] > 3 and row[f'{method}_rank'] != 'multiple' and int(row[f'{method}_rank']) >= 3:
+        if row[method] not in none_types and row[method] != "unknown" and row[method] != "writein" and row['numCands'] > 3 and row[f'{method}_rank'] != 'multiple' and int(row[f'{method}_rank']) >= 3:
             changes[method] = {
                 "num_cands": row['numCands'],
                 "winner": row[method],
                 "rank (out of first place votes)": row[f'{method}_rank']
             }
+
+            cands_vs_place.append(f"{int(row['numCands'])}:{int(row[f'{method}_rank'])}")
             method_counts[method] += 1
 
             if int(row[f'{method}_rank']) == 3:  
@@ -57,7 +64,8 @@ metadata = {
     "method_counts_lower": third_or_fewer_hits,
     "num_cands_for_third_place_hits": list(third_place_num_cands),
     "num_cands_for_third_or_lower_hits": list(third_or_fewer_num_cands),
-    "places": list(places)
+    "places": list(places),
+    "num_cands:place": Counter(cands_vs_place)
 }
 
 output_data = {

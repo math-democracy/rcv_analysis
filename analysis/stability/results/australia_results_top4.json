@@ -1,7 +1,7 @@
 {
     "metadata": {
         "total_elections": 327,
-        "elections_with_no_changes": 225,
+        "elections_with_changes": 102,
         "method_counts": {
             "plurality": 1,
             "IRV": 0,

@@ -1,32 +1,76 @@
 {
     "metadata": {
-        "total_elections": 563,
-        "elections_with_no_changes": 457,
-        "method_counts": {
-            "plurality": 8,
-            "IRV": 0,
-            "top-two": 4,
-            "borda-pm": 17,
+        "total_elections": 567,
+        "total_elections_with_hits": 12,
+        "total_method_counts_third_or_lower": {
+            "plurality": 0,
+            "IRV": 7,
+            "top-two": 0,
+            "borda-pm": 9,
             "borda-om-no-uwi": 8,
-            "borda-avg-no-uwi": 13,
-            "top-3-truncation": 9,
-            "condorcet": 0,
-            "minimax": 0,
-            "smith_plurality": 8,
-            "smith_irv": 0,
-            "smith-minimax": 0,
-            "ranked-pairs": 0,
-            "bucklin": 85,
-            "approval": 0
-        }
+            "borda-avg-no-uwi": 6,
+            "top-3-truncation": 6,
+            "condorcet": 9,
+            "minimax": 10,
+            "smith_plurality": 0,
+            "smith_irv": 7,
+            "smith-minimax": 10,
+            "ranked-pairs": 10,
+            "bucklin": 4,
+            "approval": 10
+        },
+        "method_counts_third_place": {
+            "plurality": 0,
+            "IRV": 6,
+            "top-two": 0,
+            "borda-pm": 9,
+            "borda-om-no-uwi": 8,
+            "borda-avg-no-uwi": 6,
+            "top-3-truncation": 6,
+            "condorcet": 8,
+            "minimax": 9,
+            "smith_plurality": 0,
+            "smith_irv": 6,
+            "smith-minimax": 9,
+            "ranked-pairs": 9,
+            "bucklin": 4,
+            "approval": 9
+        },
+        "method_counts_lower": {
+            "plurality": 0,
+            "IRV": 1,
+            "top-two": 0,
+            "borda-pm": 0,
+            "borda-om-no-uwi": 0,
+            "borda-avg-no-uwi": 0,
+            "top-3-truncation": 0,
+            "condorcet": 1,
+            "minimax": 1,
+            "smith_plurality": 0,
+            "smith_irv": 1,
+            "smith-minimax": 1,
+            "ranked-pairs": 1,
+            "bucklin": 0,
+            "approval": 1
+        },
+        "num_cands_for_third_place_hits": [
+            5,
+            7,
+            8,
+            12,
+            14,
+            23
+        ],
+        "num_cands_for_third_or_lower_hits": [
+            20
+        ],
+        "places": [
+            3,
+            4
+        ]
     },
     "changes": {
-        "raw_data/american/processed_data/Eastpointe, MI/Eastpointe_11022021_CityCouncil.csv": {
-            "bucklin": {
-                "baseline_winner": "['Cardi DeMonaco Jr.']",
-                "top4": "['Cardi DeMonaco Jr.', 'Rob Baker']"
-            }
-        },
+        "raw_data/american/processed_data/Eastpointe, MI/Eastpointe_11022021_CityCouncil.csv": {},
         "raw_data/american/processed_data/Eastpointe, MI/Eastpointe_11052019_CityCouncil.csv": {},
         "raw_data/american/processed_data/St Louis Park/StLouisPark_11022021_CityCouncilWard3.csv": {},
         "raw_data/american/processed_data/St Louis Park/StLouisPark_11022021_CityCouncilWard2.csv": {},
@@ -36,7 +80,53 @@
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict37.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict36.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict22.csv": {},
-        "raw_data/american/processed_data/Alaska/Alaska_08162022_HouseofRepresentativesSpecial.csv": {},
+        "raw_data/american/processed_data/Alaska/Alaska_08162022_HouseofRepresentativesSpecial.csv": {
+            "borda-pm": {
+                "num_cands": 5,
+                "winner": "['Begich, Nick']",
+                "rank (out of first place votes)": 3
+            },
+            "borda-om-no-uwi": {
+                "num_cands": 5,
+                "winner": "['Begich, Nick']",
+                "rank (out of first place votes)": 3
+            },
+            "borda-avg-no-uwi": {
+                "num_cands": 5,
+                "winner": "['Begich, Nick']",
+                "rank (out of first place votes)": 3
+            },
+            "top-3-truncation": {
+                "num_cands": 5,
+                "winner": "['Begich, Nick']",
+                "rank (out of first place votes)": 3
+            },
+            "condorcet": {
+                "num_cands": 5,
+                "winner": "['Begich, Nick']",
+                "rank (out of first place votes)": 3.0
+            },
+            "minimax": {
+                "num_cands": 5,
+                "winner": "['Begich, Nick']",
+                "rank (out of first place votes)": 3
+            },
+            "smith-minimax": {
+                "num_cands": 5,
+                "winner": "['Begich, Nick']",
+                "rank (out of first place votes)": 3
+            },
+            "ranked-pairs": {
+                "num_cands": 5,
+                "winner": "['Begich, Nick']",
+                "rank (out of first place votes)": 3.0
+            },
+            "approval": {
+                "num_cands": 5,
+                "winner": "['Begich, Nick']",
+                "rank (out of first place votes)": 3.0
+            }
+        },
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict34.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict20.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict21.csv": {},
@@ -46,12 +136,7 @@
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict25.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict24.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict30.csv": {},
-        "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict18.csv": {
-            "borda-avg-no-uwi": {
-                "baseline_winner": "['Groh, Cliff']",
-                "top4": "['Nelson, David']"
-            }
-        },
+        "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict18.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict26.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict32.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11052024_StateHouseD40.csv": {},
@@ -91,12 +176,7 @@
         "raw_data/american/processed_data/Alaska/Alaska_11052024_StateHouseD20.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11052024_StateHouseD7.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_SenateDistrictG.csv": {},
-        "raw_data/american/processed_data/Alaska/Alaska_11082022_SenateDistrictP.csv": {
-            "borda-avg-no-uwi": {
-                "baseline_winner": "['Matherly, Jim']",
-                "top4": "['Kawasaki, Scott']"
-            }
-        },
+        "raw_data/american/processed_data/Alaska/Alaska_11082022_SenateDistrictP.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11052024_StateSenateL.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11052024_StateSenateN.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_SenateDistrictR.csv": {},
@@ -120,12 +200,7 @@
         "raw_data/american/processed_data/Alaska/Alaska_11052024_StateHouseD13.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11052024_StateHouseD8.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_SenateDistrictH.csv": {},
-        "raw_data/american/processed_data/Alaska/Alaska_11082022_USRepresentative.csv": {
-            "bucklin": {
-                "baseline_winner": "['Begich, Nick', 'Peltola, Mary S.']",
-                "top4": "['Palin, Sarah', 'Begich, Nick', 'Peltola, Mary S.']"
-            }
-        },
+        "raw_data/american/processed_data/Alaska/Alaska_11082022_USRepresentative.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11052024_StateSenateT.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_SenateDistrictJ.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11052024_StateHouseD11.csv": {},
@@ -151,16 +226,7 @@
         "raw_data/american/processed_data/Alaska/Alaska_11052024_President.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict16.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict17.csv": {},
-        "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict15.csv": {
-            "borda-pm": {
-                "baseline_winner": "['McKay, Thomas W. \"Tom\"']",
-                "top4": "['Wells, Denny']"
-            },
-            "borda-avg-no-uwi": {
-                "baseline_winner": "['McKay, Thomas W. \"Tom\"']",
-                "top4": "['Wells, Denny']"
-            }
-        },
+        "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict15.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict29.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict28.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict14.csv": {},
@@ -168,71 +234,26 @@
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict10.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict11.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict39.csv": {},
-        "raw_data/american/processed_data/Alaska/Alaska_11052024_US_House.csv": {
-            "top-3-truncation": {
-                "baseline_winner": "['Begich, Nick']",
-                "top4": "['Peltola, Mary S.']"
-            }
-        },
+        "raw_data/american/processed_data/Alaska/Alaska_11052024_US_House.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict13.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_HouseDistrict12.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072023_CityCouncilWard12.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_BoardofEstimateandTaxation.csv": {},
-        "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_ParkBoardAtLarge.csv": {
-            "plurality": {
-                "baseline_winner": "['Meg Forney']",
-                "top4": "['Latrisha Vetaw']"
-            },
-            "borda-pm": {
-                "baseline_winner": "['Meg Forney']",
-                "top4": "['Latrisha Vetaw']"
-            },
-            "borda-avg-no-uwi": {
-                "baseline_winner": "['Meg Forney']",
-                "top4": "['Latrisha Vetaw']"
-            },
-            "top-3-truncation": {
-                "baseline_winner": "['Meg Forney']",
-                "top4": "['Latrisha Vetaw']"
-            },
-            "smith_plurality": {
-                "baseline_winner": "['Meg Forney']",
-                "top4": "['Latrisha Vetaw']"
-            },
-            "bucklin": {
-                "baseline_winner": "['Meg Forney', 'Latrisha Vetaw']",
-                "top4": "['Latrisha Vetaw', 'Meg Forney']"
-            }
-        },
+        "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_ParkBoardAtLarge.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_Ward6CityCouncil.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_Mayor.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11062009_PRBoardDistrict6.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11062009_Ward10CityCouncil.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072023_CityCouncilWard13.csv": {},
-        "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_BoardofEstimateandTaxationAtLarge.csv": {
-            "bucklin": {
-                "baseline_winner": "['Steve Brandt', 'Samantha \"Sam\" Pree-Stinson']",
-                "top4": "['Steve Brandt', 'Pine Salica', 'Samantha \"Sam\" Pree-Stinson']"
-            }
-        },
+        "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_BoardofEstimateandTaxationAtLarge.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_Ward1CityCouncil.csv": {},
-        "raw_data/american/processed_data/Minneapolis/Minneapolis_11062009_PRBoardDistrict5.csv": {
-            "bucklin": {
-                "baseline_winner": "['Carol Kummer', 'Jason Stone']",
-                "top4": "['Carol Kummer', 'Steve Barland', 'Jason Stone']"
-            }
-        },
+        "raw_data/american/processed_data/Minneapolis/Minneapolis_11062009_PRBoardDistrict5.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11062009_PRBoardDistrict4.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_Ward9CityCouncil.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072023_CityCouncilWard10.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11062009_BoardofEstimateandTaxation.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_Ward8CityCouncil.csv": {},
-        "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_Mayor.csv": {
-            "bucklin": {
-                "baseline_winner": "['Jacob Frey']",
-                "top4": "['Kate Knuth', 'Jacob Frey', 'Sheila Nezhad']"
-            }
-        },
+        "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_Mayor.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11062009_PRBoardDistrict1.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_ParkBoardAtLarge.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11062009_Ward11CityCouncil.csv": {},
@@ -243,54 +264,25 @@
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_CityCouncilWard4.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11062009_Ward13CityCouncil.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_Ward5CityCouncil.csv": {},
-        "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_CityCouncilWard10.csv": {
-            "bucklin": {
-                "baseline_winner": "['Aisha Chughtai']",
-                "top4": "['Katie Jones', 'Aisha Chughtai']"
-            }
-        },
+        "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_CityCouncilWard10.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_CityCouncilWard12.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_CityCouncilWard7.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_CityCouncilWard6.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_Ward2CityCouncil.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_CityCouncilWard13.csv": {},
-        "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_Ward3CityCouncil.csv": {
-            "bucklin": {
-                "baseline_winner": "['Steve Fletcher']",
-                "top4": "['Steve Fletcher', 'Tim Bildsoe']"
-            }
-        },
-        "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_CityCouncilWard2.csv": {
-            "bucklin": {
-                "baseline_winner": "['Cam Gordon', 'Yusra Arab', 'Robin Wonsley Worlobah']",
-                "top4": "['Cam Gordon', 'Robin Wonsley Worlobah', 'Yusra Arab']"
-            }
-        },
+        "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_Ward3CityCouncil.csv": {},
+        "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_CityCouncilWard2.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_CityCouncilWard3.csv": {},
-        "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_Ward4CityCouncil.csv": {
-            "bucklin": {
-                "baseline_winner": "['Phillipe M. Cunningham', 'Barbara A. \"Barb\" Johnson']",
-                "top4": "['Stephanie Gasca', 'Phillipe M. Cunningham', 'Barbara A. \"Barb\" Johnson']"
-            }
-        },
+        "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_Ward4CityCouncil.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_CityCouncilWard1.csv": {},
-        "raw_data/american/processed_data/Minneapolis/Minneapolis_11052013_Mayor.csv": {
-            "bucklin": {
-                "baseline_winner": "['BETSY HODGES']",
-                "top4": "['BETSY HODGES', 'MARK ANDREW']"
-            }
-        },
+        "raw_data/american/processed_data/Minneapolis/Minneapolis_11052013_Mayor.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072023_CityCouncilWard8.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11062009_Ward12CityCouncil.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072023_CityCouncilWard5.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_PRBoardDistrict3.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_PRBoardDistrict2.csv": {},
-        "raw_data/american/processed_data/Minneapolis/Minneapolis_08112020_Ward6CityCouncilSpecialElection.csv": {
-            "bucklin": {
-                "baseline_winner": "['Jamal Osman']",
-                "top4": "['Jamal Osman', 'AJ Awed']"
-            }
-        },
+        "raw_data/american/processed_data/Minneapolis/Minneapolis_08112020_Ward6CityCouncilSpecialElection.csv": {},
+        "raw_data/american/processed_data/Minneapolis/Minneapolis_11072023_CityCouncilWard4.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11062009_Ward7CityCouncil.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11052013_ParkRecBoardAtLarge.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072023_CityCouncilWard6.csv": {},
@@ -299,12 +291,7 @@
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_Ward12CityCouncil.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11052013_Ward9CityCouncil.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_PRBoardDistrict1.csv": {},
-        "raw_data/american/processed_data/Minneapolis/Minneapolis_11072023_CityCouncilWard7.csv": {
-            "borda-pm": {
-                "baseline_winner": "['Scott Graham']",
-                "top4": "['Katie Cashman']"
-            }
-        },
+        "raw_data/american/processed_data/Minneapolis/Minneapolis_11072023_CityCouncilWard7.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_PRBoardDistrict5.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11062009_Ward1CityCouncil.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11062009_Ward9CityCouncil.csv": {},
@@ -315,123 +302,88 @@
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11062009_Ward6CityCouncil.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_PRBoardDistrict6.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_CityCouncilWard9.csv": {},
-        "raw_data/american/processed_data/Minneapolis/Minneapolis_11052013_Ward13CityCouncil.csv": {
-            "borda-pm": {
-                "baseline_winner": "['MATT PERRY']",
-                "top4": "['LINEA PALMISANO']"
-            }
-        },
+        "raw_data/american/processed_data/Minneapolis/Minneapolis_11052013_Ward13CityCouncil.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11062009_Ward4CityCouncil.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11052013_Ward5CityCouncil.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_ParkBoardDistrict3.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11062009_Ward3CityCouncil.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_ParkBoardDistrict1.csv": {},
-        "raw_data/american/processed_data/Minneapolis/Minneapolis 2013-board of estimation and taxation cvr.csv": {
-            "bucklin": {
-                "baseline_winner": "['DAVID B WHEELER', 'CAROL J. BECKER']",
-                "top4": "['CAROL J. BECKER']"
-            }
-        },
+        "raw_data/american/processed_data/Minneapolis/Minneapolis 2013-board of estimation and taxation cvr.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_Ward11CityCouncil.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11072017_Ward10CityCouncil.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_ParkBoardDistrict4.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11062009_Ward2CityCouncil.csv": {},
         "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_ParkBoardDistrict5.csv": {},
-        "raw_data/american/processed_data/Minneapolis/Minneapolis_11062009_Ward5CityCouncil.csv": {
-            "bucklin": {
-                "baseline_winner": "['Don Samuels', 'Natalie Johnson Lee']",
-                "top4": "['Don Samuels', 'Natalie Johnson Lee', 'Kenya McKnight']"
-            }
-        },
-        "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_ParkBoardDistrict6.csv": {
-            "bucklin": {
-                "baseline_winner": "['Cathy Abene']",
-                "top4": "['Cathy Abene', 'Barb Schlaefer']"
-            }
-        },
-        "raw_data/american/processed_data/Pierce County, WA/PierceCounty_11042008_CountyExecutiveMember.csv": {
-            "borda-pm": {
-                "baseline_winner": "['Pat McCarthy']",
-                "top4": "['Shawn Bunney']"
-            },
-            "borda-avg-no-uwi": {
-                "baseline_winner": "['Pat McCarthy']",
-                "top4": "['Shawn Bunney']"
-            }
-        },
+        "raw_data/american/processed_data/Minneapolis/Minneapolis_11062009_Ward5CityCouncil.csv": {},
+        "raw_data/american/processed_data/Minneapolis/Minneapolis_11022021_ParkBoardDistrict6.csv": {},
+        "raw_data/american/processed_data/Pierce County, WA/PierceCounty_11042008_CountyExecutiveMember.csv": {},
         "raw_data/american/processed_data/Pierce County, WA/PierceCounty_11032009_CountyAuditor.csv": {},
         "raw_data/american/processed_data/Pierce County, WA/PierceCounty_11042008_CountyAssessorTreasurer.csv": {
             "borda-pm": {
-                "baseline_winner": "['Jan Shabro']",
-                "top4": "['Dale Washam']"
-            },
-            "bucklin": {
-                "baseline_winner": "['Barbara Gelman', 'Dale Washam', 'Terry Lee', 'Jan Shabro']",
-                "top4": "['Dale Washam', 'Terry Lee', 'Jan Shabro']"
+                "num_cands": 8,
+                "winner": "['Jan Shabro']",
+                "rank (out of first place votes)": 3
             }
         },
         "raw_data/american/processed_data/Pierce County, WA/PierceCounty_11042008_CountyCouncilDistrict2.csv": {},
-        "raw_data/american/processed_data/Portland, OR/Portland_D1_2024.csv": {
-            "bucklin": {
-                "baseline_winner": "['Candace Avalos']",
-                "top4": "['Candace Avalos', 'Jamie Dunphy']"
-            }
-        },
-        "raw_data/american/processed_data/Portland, ME/Portland_06142022_SchoolboardAL-1.csv": {
-            "borda-pm": {
-                "baseline_winner": "['Grant, Benjamin K.']",
-                "top4": "['Lentz, Sarah M.']"
-            },
-            "borda-avg-no-uwi": {
-                "baseline_winner": "['Grant, Benjamin K.']",
-                "top4": "['Lentz, Sarah M.']"
-            }
-        },
+        "raw_data/american/processed_data/Portland, OR/Portland_D1_2024.csv": {},
+        "raw_data/american/processed_data/Portland, ME/Portland_06142022_SchoolboardAL-1.csv": {},
         "raw_data/american/processed_data/Portland, ME/Portland_06142022_Schoolboarddistrict5-1.csv": {},
         "raw_data/american/processed_data/Portland, ME/Portland_06082021_charter_commission_at_large.csv": {
+            "IRV": {
+                "num_cands": 12,
+                "winner": "['Chann, Marpheen S.']",
+                "rank (out of first place votes)": 3
+            },
             "borda-pm": {
-                "baseline_winner": "['Chann, Marpheen S.']",
-                "top4": "['Sheikh-Yousef, Nasreen A.']"
+                "num_cands": 12,
+                "winner": "['Chann, Marpheen S.']",
+                "rank (out of first place votes)": 3
             },
-            "borda-om-no-uwi": {
-                "baseline_winner": "['Sheikh-Yousef, Nasreen A.']",
-                "top4": "['Chann, Marpheen S.']"
+            "condorcet": {
+                "num_cands": 12,
+                "winner": "['Chann, Marpheen S.']",
+                "rank (out of first place votes)": 3.0
             },
-            "top-3-truncation": {
-                "baseline_winner": "['Sheikh-Yousef, Nasreen A.']",
-                "top4": "['Chann, Marpheen S.']"
+            "minimax": {
+                "num_cands": 12,
+                "winner": "['Chann, Marpheen S.']",
+                "rank (out of first place votes)": 3
             },
-            "bucklin": {
-                "baseline_winner": "['Chann, Marpheen S.', 'Buxton, Catherine A.', 'Sheikh-Yousef, Nasreen A.']",
-                "top4": "['Chann, Marpheen S.', 'Sheikh-Yousef, Nasreen A.']"
+            "smith_irv": {
+                "num_cands": 12,
+                "winner": "['Chann, Marpheen S.']",
+                "rank (out of first place votes)": 3
+            },
+            "smith-minimax": {
+                "num_cands": 12,
+                "winner": "['Chann, Marpheen S.']",
+                "rank (out of first place votes)": 3
+            },
+            "ranked-pairs": {
+                "num_cands": 12,
+                "winner": "['Chann, Marpheen S.']",
+                "rank (out of first place votes)": 3.0
+            },
+            "approval": {
+                "num_cands": 12,
+                "winner": "['Chann, Marpheen S.']",
+                "rank (out of first place votes)": 3.0
             }
         },
         "raw_data/american/processed_data/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict90.csv": {},
         "raw_data/american/processed_data/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict47.csv": {},
         "raw_data/american/processed_data/Maine/Maine_11082022_CongressionalDistrict2.csv": {},
-        "raw_data/american/processed_data/Maine/Maine_11062018_CongressionalDistrict2.csv": {
-            "borda-pm": {
-                "baseline_winner": "['REP Poliquin, Bruce']",
-                "top4": "['DEM Golden, Jared F.']"
-            },
-            "borda-avg-no-uwi": {
-                "baseline_winner": "['REP Poliquin, Bruce']",
-                "top4": "['DEM Golden, Jared F.']"
-            }
-        },
+        "raw_data/american/processed_data/Maine/Maine_11062018_CongressionalDistrict2.csv": {},
         "raw_data/american/processed_data/Maine/Maine_06122018_DemocraticPrimaryforCD2.csv": {},
         "raw_data/american/processed_data/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict41.csv": {},
         "raw_data/american/processed_data/Maine/Maine_07142020_RepublicanCandidateforUSHouseofRepresentativesDistrict2.csv": {},
         "raw_data/american/processed_data/Maine/Maine_07142020_DemocraticCandidateforMaineStateSenateDistrict11.csv": {},
-        "raw_data/american/processed_data/Maine/Maine_06122018_DemocraticPrimaryforGovernor.csv": {
-            "bucklin": {
-                "baseline_winner": "['Mills, Janet T.']",
-                "top4": "['Mills, Janet T.', 'Cote, Adam Roland']"
-            }
-        },
+        "raw_data/american/processed_data/Maine/Maine_06122018_DemocraticPrimaryforGovernor.csv": {},
         "raw_data/american/processed_data/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict49.csv": {},
         "raw_data/american/processed_data/Takoma Park, MD/TakomaPark_11082022_Mayor.csv": {},
         "raw_data/american/processed_data/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard4.csv": {},
+        "raw_data/american/processed_data/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard5.csv": {},
         "raw_data/american/processed_data/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard6.csv": {},
         "raw_data/american/processed_data/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard2.csv": {},
         "raw_data/american/processed_data/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard3.csv": {},
@@ -444,40 +396,52 @@
         "raw_data/american/processed_data/Utah cities/WoodlandHills_11022021_Mayor.csv": {},
         "raw_data/american/processed_data/Utah cities/Vineyard_11022021_CityCouncil.csv": {},
         "raw_data/american/processed_data/Utah cities/Genola_11022021_CityCouncil.csv": {},
-        "raw_data/american/processed_data/Utah cities/Vineyard_11052019_CityCouncil.csv": {
-            "bucklin": {
-                "baseline_winner": "['CRISTY WELSH']",
-                "top4": "['G. TYCE FLAKE', 'CRISTY WELSH']"
-            }
-        },
+        "raw_data/american/processed_data/Utah cities/Vineyard_11052019_CityCouncil.csv": {},
         "raw_data/american/processed_data/Utah cities/Moab_11022021_CityCouncil.csv": {
-            "top-3-truncation": {
-                "baseline_winner": "['JASON TAYLOR']",
-                "top4": "['LUKE WOJCIECHOWSKI']"
+            "borda-om-no-uwi": {
+                "num_cands": 7,
+                "winner": "['LUKE WOJCIECHOWSKI']",
+                "rank (out of first place votes)": 3
+            },
+            "condorcet": {
+                "num_cands": 7,
+                "winner": "['LUKE WOJCIECHOWSKI']",
+                "rank (out of first place votes)": 3.0
+            },
+            "minimax": {
+                "num_cands": 7,
+                "winner": "['LUKE WOJCIECHOWSKI']",
+                "rank (out of first place votes)": 3
+            },
+            "smith-minimax": {
+                "num_cands": 7,
+                "winner": "['LUKE WOJCIECHOWSKI']",
+                "rank (out of first place votes)": 3
+            },
+            "ranked-pairs": {
+                "num_cands": 7,
+                "winner": "['LUKE WOJCIECHOWSKI']",
+                "rank (out of first place votes)": 3.0
             },
             "bucklin": {
-                "baseline_winner": "['LUKE WOJCIECHOWSKI']",
-                "top4": "['JASON TAYLOR', 'LUKE WOJCIECHOWSKI', 'JOSIE KOVASH']"
+                "num_cands": 7,
+                "winner": "['LUKE WOJCIECHOWSKI']",
+                "rank (out of first place votes)": "3"
+            },
+            "approval": {
+                "num_cands": 7,
+                "winner": "['LUKE WOJCIECHOWSKI']",
+                "rank (out of first place votes)": 3.0
             }
         },
         "raw_data/american/processed_data/Utah cities/Payson_11052019_CityCouncil.csv": {},
         "raw_data/american/processed_data/Utah cities/ElkRidge_11022021_Mayor.csv": {},
-        "raw_data/american/processed_data/Utah cities/Lehi_11022021_CityCouncil.csv": {
-            "bucklin": {
-                "baseline_winner": "['NICOLE KUNZE', 'PAUL HANCOCK', 'LORI MCINTOSH LE', 'CHRIS CONDIE']",
-                "top4": "['PAUL HANCOCK', 'CHRIS CONDIE']"
-            }
-        },
+        "raw_data/american/processed_data/Utah cities/Lehi_11022021_CityCouncil.csv": {},
         "raw_data/american/processed_data/Utah cities/Vineyard_11022021_Mayor.csv": {},
         "raw_data/american/processed_data/Minnetonka/Minnetonka_11022021_CityCouncilAtLargeSeatA.csv": {},
         "raw_data/american/processed_data/Minnetonka/Minnetonka_11022021_CityCouncilAtLargeSeatB.csv": {},
         "raw_data/american/processed_data/Minnetonka/Minnetonka_11072023_CityCouncilWard4.csv": {},
-        "raw_data/american/processed_data/Minnetonka/Minnetonka_11072023_CityCouncilWard1.csv": {
-            "bucklin": {
-                "baseline_winner": "['Patsy Foster-Bolton', 'Bonnie Burton']",
-                "top4": "['Dana Minion', 'Patsy Foster-Bolton', 'Bonnie Burton']"
-            }
-        },
+        "raw_data/american/processed_data/Minnetonka/Minnetonka_11072023_CityCouncilWard1.csv": {},
         "raw_data/american/processed_data/Minnetonka/Minnetonka_11072023_CityCouncilWard3.csv": {},
         "raw_data/american/processed_data/Minnetonka/Minnetonka_11022021_Mayor.csv": {},
         "raw_data/american/processed_data/Burlington/Burlington_03072023_CityCouncilEastDistrict.csv": {},
@@ -486,47 +450,69 @@
         "raw_data/american/processed_data/Burlington/Burlington_03072023_CityCouncilSouthDistrict.csv": {},
         "raw_data/american/processed_data/Burlington/Burlington_03072023_CityCouncilCentralDistrict.csv": {},
         "raw_data/american/processed_data/Burlington/Burlington_03072023_CityCouncilNorthDistrict.csv": {},
-        "raw_data/american/processed_data/Burlington/Burlington_03032009_Mayor.csv": {},
-        "raw_data/american/processed_data/APA/APA 2002.csv": {
+        "raw_data/american/processed_data/Burlington/Burlington_03032009_Mayor.csv": {
+            "borda-pm": {
+                "num_cands": 7,
+                "winner": "['Andy Montroll']",
+                "rank (out of first place votes)": 3
+            },
+            "borda-om-no-uwi": {
+                "num_cands": 7,
+                "winner": "['Andy Montroll']",
+                "rank (out of first place votes)": 3
+            },
+            "borda-avg-no-uwi": {
+                "num_cands": 7,
+                "winner": "['Andy Montroll']",
+                "rank (out of first place votes)": 3
+            },
+            "top-3-truncation": {
+                "num_cands": 7,
+                "winner": "['Andy Montroll']",
+                "rank (out of first place votes)": 3
+            },
+            "condorcet": {
+                "num_cands": 7,
+                "winner": "['Andy Montroll']",
+                "rank (out of first place votes)": 3.0
+            },
+            "minimax": {
+                "num_cands": 7,
+                "winner": "['Andy Montroll']",
+                "rank (out of first place votes)": 3
+            },
+            "smith-minimax": {
+                "num_cands": 7,
+                "winner": "['Andy Montroll']",
+                "rank (out of first place votes)": 3
+            },
+            "ranked-pairs": {
+                "num_cands": 7,
+                "winner": "['Andy Montroll']",
+                "rank (out of first place votes)": 3.0
+            },
             "bucklin": {
-                "baseline_winner": "['Cand 4']",
-                "top4": "['Cand 4', 'Cand 3']"
+                "num_cands": 7,
+                "winner": "['Andy Montroll']",
+                "rank (out of first place votes)": "3"
+            },
+            "approval": {
+                "num_cands": 7,
+                "winner": "['Andy Montroll']",
+                "rank (out of first place votes)": 3.0
             }
         },
-        "raw_data/american/processed_data/APA/APA 2003.csv": {
-            "bucklin": {
-                "baseline_winner": "['Cand 3']",
-                "top4": "['Cand 1', 'Cand 3']"
-            }
-        },
+        "raw_data/american/processed_data/APA/APA 2002.csv": {},
+        "raw_data/american/processed_data/APA/APA 2003.csv": {},
         "raw_data/american/processed_data/APA/APA 2001.csv": {},
         "raw_data/american/processed_data/APA/APA 2000.csv": {},
         "raw_data/american/processed_data/APA/APA 2004.csv": {},
-        "raw_data/american/processed_data/APA/APA 2018 President.csv": {
-            "bucklin": {
-                "baseline_winner": "['Sandra L. Shullman PhD']",
-                "top4": "['Sandra L. Shullman PhD', 'Susan Krauss Whitbourne PhD']"
-            }
-        },
+        "raw_data/american/processed_data/APA/APA 2018 President.csv": {},
         "raw_data/american/processed_data/APA/APA 2005.csv": {},
         "raw_data/american/processed_data/APA/APA 2021 President.csv": {},
-        "raw_data/american/processed_data/APA/APA 2007.csv": {
-            "borda-pm": {
-                "baseline_winner": "['Cand 2']",
-                "top4": "['Cand 1']"
-            },
-            "borda-avg-no-uwi": {
-                "baseline_winner": "['Cand 2']",
-                "top4": "['Cand 1']"
-            }
-        },
+        "raw_data/american/processed_data/APA/APA 2007.csv": {},
         "raw_data/american/processed_data/APA/APA 2006.csv": {},
-        "raw_data/american/processed_data/APA/APA 1999.csv": {
-            "bucklin": {
-                "baseline_winner": "['Cand 0', 'Cand 3', 'Cand 1', 'Cand 2']",
-                "top4": "['Cand 2', 'Cand 3']"
-            }
-        },
+        "raw_data/american/processed_data/APA/APA 1999.csv": {},
         "raw_data/american/processed_data/APA/APA 1998.csv": {},
         "raw_data/american/processed_data/APA/APA 2021 BOD race1.csv": {},
         "raw_data/american/processed_data/APA/APA 2018 BOD race1.csv": {},
@@ -538,23 +524,9 @@
         "raw_data/american/processed_data/APA/APA 2020 BOD race2.csv": {},
         "raw_data/american/processed_data/APA/APA 2017 President.csv": {},
         "raw_data/american/processed_data/APA/APA 2020 President.csv": {},
-        "raw_data/american/processed_data/APA/APA 2019 President.csv": {
-            "bucklin": {
-                "baseline_winner": "['Jennifer F. Kelly PhD ABPP']",
-                "top4": "['Susan Krauss Whitbourne PhD ABPP', 'Jennifer F. Kelly PhD ABPP']"
-            }
-        },
+        "raw_data/american/processed_data/APA/APA 2019 President.csv": {},
         "raw_data/american/processed_data/APA/APA 2008.csv": {},
-        "raw_data/american/processed_data/APA/APA 2009.csv": {
-            "top-3-truncation": {
-                "baseline_winner": "['Cand 4']",
-                "top4": "['Cand 0']"
-            },
-            "bucklin": {
-                "baseline_winner": "['Cand 4', 'Cand 0', 'Cand 1', 'Cand 2']",
-                "top4": "['Cand 4', 'Cand 0', 'Cand 2']"
-            }
-        },
+        "raw_data/american/processed_data/APA/APA 2009.csv": {},
         "raw_data/american/processed_data/APA/APA 2017 BOD race2.csv": {},
         "raw_data/american/processed_data/APA/APA 2017 BOD race1.csv": {},
         "raw_data/american/processed_data/Easthampton, MA/Easthampton_11022021_Mayor.csv": {},
@@ -573,30 +545,11 @@
         "raw_data/american/processed_data/Alameda County/Oakland_11042014_SchoolDirectorDistrict4.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11082022_CityAuditor.csv": {},
         "raw_data/american/processed_data/Alameda County/Berkeley_11062018_CityCouncilDistrict7.csv": {},
-        "raw_data/american/processed_data/Alameda County/Oakland_11022010_Mayor.csv": {
-            "borda-om-no-uwi": {
-                "baseline_winner": "['DON PERATA']",
-                "top4": "['JEAN QUAN']"
-            }
-        },
-        "raw_data/american/processed_data/Alameda County/Berkeley_11052024_Mayor.csv": {
-            "bucklin": {
-                "baseline_winner": "['ADENA ISHII', 'SOPHIE HAHN']",
-                "top4": "['ADENA ISHII', 'KATE HARRISON', 'SOPHIE HAHN']"
-            }
-        },
+        "raw_data/american/processed_data/Alameda County/Oakland_11022010_Mayor.csv": {},
+        "raw_data/american/processed_data/Alameda County/Berkeley_11052024_Mayor.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11022010_SchoolDirectorDistrict2.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11032020_MemberCityCouncilDist5OaklandRCV.csv": {},
-        "raw_data/american/processed_data/Alameda County/Oakland_11082022_Mayor.csv": {
-            "borda-pm": {
-                "baseline_winner": "['SHENG THAO']",
-                "top4": "['LOREN MANUEL TAYLOR']"
-            },
-            "borda-avg-no-uwi": {
-                "baseline_winner": "['SHENG THAO']",
-                "top4": "['LOREN MANUEL TAYLOR']"
-            }
-        },
+        "raw_data/american/processed_data/Alameda County/Oakland_11082022_Mayor.csv": {},
         "raw_data/american/processed_data/Alameda County/Berkeley_11062018_CityCouncilDistrict4.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11052024_CityAttorney.csv": {},
         "raw_data/american/processed_data/Alameda County/Berkeley_03072017_CityCouncilDistrict4.csv": {},
@@ -604,19 +557,9 @@
         "raw_data/american/processed_data/Alameda County/Oakland_11032020_MemberCityCouncilDist1OaklandRCV.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11042014_SchoolDirectorDistrict6.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11082016_SchoolDirectorDistrict3.csv": {},
-        "raw_data/american/processed_data/Alameda County/Oakland_11032020_SchoolDirectorDist3OaklandRCV.csv": {
-            "bucklin": {
-                "baseline_winner": "['VANCEDRIC WILLIAMS']",
-                "top4": "['MAIYA EDGERLY', 'VANCEDRIC WILLIAMS']"
-            }
-        },
+        "raw_data/american/processed_data/Alameda County/Oakland_11032020_SchoolDirectorDist3OaklandRCV.csv": {},
         "raw_data/american/processed_data/Alameda County/Berkeley_11052024_CityCouncilD6.csv": {},
-        "raw_data/american/processed_data/Alameda County/Oakland_11032020_SchoolDirectorDist7OaklandRCV.csv": {
-            "bucklin": {
-                "baseline_winner": "['CLIFFORD THOMPSON']",
-                "top4": "['BEN \"COACH\" TAPSCOTT', 'CLIFFORD THOMPSON']"
-            }
-        },
+        "raw_data/american/processed_data/Alameda County/Oakland_11032020_SchoolDirectorDist7OaklandRCV.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11062012_SchoolDirectorDistrict1.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11062018_SchoolDirectorDistrict6.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11062018_CityCouncilDistrict2.csv": {},
@@ -627,12 +570,7 @@
         "raw_data/american/processed_data/Alameda County/SanLeandro_11032020_MemberCityCouncilDist4SanLeandroRCV.csv": {},
         "raw_data/american/processed_data/Alameda County/Berkeley_11032020_MemberCityCouncilDist6BerkeleyRCV.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11082016_SchoolDirectorDistrict1.csv": {},
-        "raw_data/american/processed_data/Alameda County/Oakland_11042014_Mayor.csv": {
-            "bucklin": {
-                "baseline_winner": "['LIBBY SCHAAF']",
-                "top4": "['LIBBY SCHAAF', 'REBECCA KAPLAN']"
-            }
-        },
+        "raw_data/american/processed_data/Alameda County/Oakland_11042014_Mayor.csv": {},
         "raw_data/american/processed_data/Alameda County/Berkeley_11022010_CityCouncilDistrict8.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11082016_SchoolDirectorDistrict5.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11062012_SchoolDirectorDistrict7.csv": {},
@@ -660,28 +598,9 @@
         "raw_data/american/processed_data/Alameda County/Oakland_11082022_Schoolboarddistrict2.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11042014_CityCouncilDistrict2.csv": {},
         "raw_data/american/processed_data/Alameda County/Berkeley_11022010_CityCouncilDistrict4.csv": {},
-        "raw_data/american/processed_data/Alameda County/Oakland_11062012_CityCouncilDistrict1.csv": {
-            "bucklin": {
-                "baseline_winner": "['DAN KALB', 'AMY LEMLEY', 'RICHARD RAYA']",
-                "top4": "['DAN KALB', 'AMY LEMLEY']"
-            }
-        },
-        "raw_data/american/processed_data/Alameda County/SanLeandro_11062012_CountyCouncilDistrict4.csv": {
-            "bucklin": {
-                "baseline_winner": "['BENNY LEE']",
-                "top4": "['CHRIS CROW', 'DARLENE DAEVU', 'BENNY LEE']"
-            }
-        },
-        "raw_data/american/processed_data/Alameda County/Berkeley_05282024_Citycouncildistrict4specialelection.csv": {
-            "plurality": {
-                "baseline_winner": "['IGOR A. TREGUB']",
-                "top4": "['RUBEN STORY']"
-            },
-            "smith_plurality": {
-                "baseline_winner": "['IGOR A. TREGUB']",
-                "top4": "['RUBEN STORY']"
-            }
-        },
+        "raw_data/american/processed_data/Alameda County/Oakland_11062012_CityCouncilDistrict1.csv": {},
+        "raw_data/american/processed_data/Alameda County/SanLeandro_11062012_CountyCouncilDistrict4.csv": {},
+        "raw_data/american/processed_data/Alameda County/Berkeley_05282024_Citycouncildistrict4specialelection.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11032020_SchoolDirectorDist5OaklandRCV.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11082016_CityCouncilDistrict1.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11052024_CityCouncilD1.csv": {},
@@ -697,9 +616,50 @@
         "raw_data/american/processed_data/Alameda County/Oakland_11062012_CityCouncilDistrict5.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11042014_CityCouncilDistrict4.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11082022_Schoolboarddistrict4.csv": {
+            "IRV": {
+                "num_cands": 5,
+                "winner": "['MIKE HUTCHINSON']",
+                "rank (out of first place votes)": 3
+            },
             "borda-pm": {
-                "baseline_winner": "['MIKE HUTCHINSON']",
-                "top4": "['NICK RESNICK']"
+                "num_cands": 5,
+                "winner": "['MIKE HUTCHINSON']",
+                "rank (out of first place votes)": 3
+            },
+            "borda-om-no-uwi": {
+                "num_cands": 5,
+                "winner": "['MIKE HUTCHINSON']",
+                "rank (out of first place votes)": 3
+            },
+            "top-3-truncation": {
+                "num_cands": 5,
+                "winner": "['MIKE HUTCHINSON']",
+                "rank (out of first place votes)": 3
+            },
+            "minimax": {
+                "num_cands": 5,
+                "winner": "['MIKE HUTCHINSON']",
+                "rank (out of first place votes)": 3
+            },
+            "smith_irv": {
+                "num_cands": 5,
+                "winner": "['MIKE HUTCHINSON']",
+                "rank (out of first place votes)": 3
+            },
+            "smith-minimax": {
+                "num_cands": 5,
+                "winner": "['MIKE HUTCHINSON']",
+                "rank (out of first place votes)": 3
+            },
+            "ranked-pairs": {
+                "num_cands": 5,
+                "winner": "['MIKE HUTCHINSON']",
+                "rank (out of first place votes)": 3.0
+            },
+            "approval": {
+                "num_cands": 5,
+                "winner": "['MIKE HUTCHINSON']",
+                "rank (out of first place votes)": 3.0
             }
         },
         "raw_data/american/processed_data/Alameda County/Oakland_11042014_CityCouncilDistrict6.csv": {},
@@ -715,18 +675,8 @@
         "raw_data/american/processed_data/Alameda County/SanLeandro_11062018_CountyCouncilDistrict5.csv": {},
         "raw_data/american/processed_data/Alameda County/SanLeandro_11022010_CountyCouncilDistrict5.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11052024_School_Director_D3.csv": {},
-        "raw_data/american/processed_data/Alameda County/Oakland_11062012_CityCouncilAtLarge.csv": {
-            "bucklin": {
-                "baseline_winner": "['REBECCA KAPLAN']",
-                "top4": "['IGNACIO DE LA FUENTE', 'REBECCA KAPLAN']"
-            }
-        },
-        "raw_data/american/processed_data/Alameda County/Oakland_11022010_CityCouncilDistrict4.csv": {
-            "bucklin": {
-                "baseline_winner": "['LIBBY SCHAAF']",
-                "top4": "['JILL BROADHURST', 'LIBBY SCHAAF']"
-            }
-        },
+        "raw_data/american/processed_data/Alameda County/Oakland_11062012_CityCouncilAtLarge.csv": {},
+        "raw_data/american/processed_data/Alameda County/Oakland_11022010_CityCouncilDistrict4.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11082022_CityCouncilmemberDistrict6.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11082022_CityCouncilmemberDistrict4.csv": {},
         "raw_data/american/processed_data/Alameda County/Berkeley_11082016_CityCouncilDistrict2.csv": {},
@@ -741,12 +691,7 @@
         "raw_data/american/processed_data/Alameda County/Berkeley_11042014_CityCouncilDistrict7.csv": {},
         "raw_data/american/processed_data/Alameda County/Berkeley_11062012_CityCouncilDistrict6.csv": {},
         "raw_data/american/processed_data/Alameda County/SanLeandro_11062018_CountyCouncilDistrict3.csv": {},
-        "raw_data/american/processed_data/Alameda County/Oakland_11032020_MemberCityCouncilDist3OaklandRCV.csv": {
-            "bucklin": {
-                "baseline_winner": "['CARROLL FIFE', 'LYNETTE GIBSON MCELHANEY']",
-                "top4": "['CARROLL FIFE']"
-            }
-        },
+        "raw_data/american/processed_data/Alameda County/Oakland_11032020_MemberCityCouncilDist3OaklandRCV.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11052024_School_Director_D5.csv": {},
         "raw_data/american/processed_data/Alameda County/SanLeandro_11022010_CountyCouncilDistrict3.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11022010_CityCouncilDistrict2.csv": {},
@@ -759,65 +704,22 @@
         "raw_data/american/processed_data/Alameda County/SanLeandro_11062018_CountyCouncilDistrict1.csv": {},
         "raw_data/american/processed_data/Alameda County/Berkeley_11082016_CityCouncilDistrict5.csv": {},
         "raw_data/american/processed_data/Alameda County/SanLeandro_11032020_MemberCityCouncilDist2SanLeandroRCV.csv": {},
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict6.csv": {
-            "bucklin": {
-                "baseline_winner": "['JANE KIM']",
-                "top4": "['DEBRA WALKER', 'JANE KIM']"
-            }
-        },
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict7.csv": {
-            "bucklin": {
-                "baseline_winner": "['NORMAN YEE']",
-                "top4": "['BEN MATRANGA', 'NORMAN YEE']"
-            }
-        },
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict6.csv": {},
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict7.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11052024_BoS_D7.csv": {},
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_06052018_Mayor.csv": {
-            "borda-pm": {
-                "baseline_winner": "['MARK LENO']",
-                "top4": "['LONDON BREED']"
-            },
-            "bucklin": {
-                "baseline_winner": "['LONDON BREED', 'MARK LENO']",
-                "top4": "['MARK LENO', 'LONDON BREED', 'JANE KIM']"
-            }
-        },
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_06052018_Mayor.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT9.csv": {},
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11052024_BoS_D11.csv": {
-            "borda-om-no-uwi": {
-                "baseline_winner": "['MICHAEL LAI']",
-                "top4": "['CHYANNE CHEN']"
-            },
-            "bucklin": {
-                "baseline_winner": "['CHYANNE CHEN']",
-                "top4": "['MICHAEL LAI', 'CHYANNE CHEN', 'ERNEST \"EJ\" JONES']"
-            }
-        },
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11052024_BoS_D11.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11052024_BoS_D5.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict5.csv": {},
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict10.csv": {
-            "bucklin": {
-                "baseline_winner": "['SHAMANN WALTON']",
-                "top4": "['SHAMANN WALTON', 'THEO ELLINGTON']"
-            }
-        },
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict10.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11082005_AssessorRecorder.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict8.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict1.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11052019_CityAttorney.csv": {},
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11052024_BoS_D1.csv": {
-            "borda-om-no-uwi": {
-                "baseline_winner": "['MARJAN PHILHOUR']",
-                "top4": "['CONNIE CHAN']"
-            }
-        },
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11052024_BoS_D1.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11052024_Treasurer.csv": {},
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict9.csv": {
-            "bucklin": {
-                "baseline_winner": "['DAVID CAMPOS', 'MARK SANCHEZ']",
-                "top4": "['DAVID CAMPOS', 'ERIC QUEZADA', 'MARK SANCHEZ']"
-            }
-        },
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict9.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11052024_BoS_D3.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11082022_PublicDefender.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict3.csv": {},
@@ -831,31 +733,11 @@
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict3.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11052024_DistrictAttorney.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict8.csv": {},
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict7.csv": {
-            "borda-om-no-uwi": {
-                "baseline_winner": "['NORMAN YEE']",
-                "top4": "['F. X. FRANCIS XAVIER CROWLEY']"
-            }
-        },
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict11.csv": {
-            "borda-avg-no-uwi": {
-                "baseline_winner": "['AHSHA SAFAI']",
-                "top4": "['KIM ALVARENGA']"
-            }
-        },
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict5.csv": {
-            "bucklin": {
-                "baseline_winner": "['Ross Mirkarimi']",
-                "top4": "['Robert Haaland', 'Ross Mirkarimi']"
-            }
-        },
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict7.csv": {},
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict11.csv": {},
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict5.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11082005_Treasurer.csv": {},
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict7.csv": {
-            "bucklin": {
-                "baseline_winner": "['Sean R. Elsbernd']",
-                "top4": "['Sean R. Elsbernd', 'Christine Linnenbach']"
-            }
-        },
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict7.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11062007_Mayor.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict10.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11082011_Mayor.csv": {},
@@ -863,294 +745,220 @@
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11052019_Sheriff.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11062018_PublicDefender.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict9.csv": {},
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11052004_BoardofSupervisorsDistrict1.csv": {
-            "bucklin": {
-                "baseline_winner": "['Jake McGoldrick']",
-                "top4": "['Lillian Sing', 'Jake McGoldrick']"
-            }
-        },
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11052004_BoardofSupervisorsDistrict1.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict2.csv": {},
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict6.csv": {
-            "bucklin": {
-                "baseline_winner": "['Rob Black', 'Chris Daly']",
-                "top4": "['Chris Daly']"
-            }
-        },
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict6.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11032015_BoardofSupervisorsDistrict3.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11082022_AssessorRecorder.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11082022_BoardofSupervisorsD10.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11032015_Mayor.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT11.csv": {},
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict11.csv": {
-            "bucklin": {
-                "baseline_winner": "['JOHN AVALOS', 'JULIO RAMOS', 'AHSHA SAFAI']",
-                "top4": "['AHSHA SAFAI', 'JOHN AVALOS']"
-            }
-        },
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict4.csv": {
-            "plurality": {
-                "baseline_winner": "['Ed Jew']",
-                "top4": "['Ron Dudum']"
-            },
-            "smith_plurality": {
-                "baseline_winner": "['Ed Jew']",
-                "top4": "['Ron Dudum']"
-            },
-            "bucklin": {
-                "baseline_winner": "['Jaynry Mak', 'Doug Chan', 'Ed Jew', 'Ron Dudum']",
-                "top4": "['Jaynry Mak', 'Ed Jew']"
-            }
-        },
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict11.csv": {},
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict4.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict11.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11062018_AssessorRecorder.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict5.csv": {},
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT1.csv": {
-            "borda-pm": {
-                "baseline_winner": "['MARJAN PHILHOUR']",
-                "top4": "['CONNIE CHAN']"
-            },
-            "borda-avg-no-uwi": {
-                "baseline_winner": "['MARJAN PHILHOUR']",
-                "top4": "['CONNIE CHAN']"
-            },
-            "bucklin": {
-                "baseline_winner": "['CONNIE CHAN', 'MARJAN PHILHOUR']",
-                "top4": "['CONNIE CHAN', 'MARJAN PHILHOUR', 'DAVID E. LEE']"
-            }
-        },
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT1.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11052024_Sheriff.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11082022_DistrictAttorney.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict4.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict6.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11082022_BoardofSupervisorsD4.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11082022_BoardofSupervisorsD6.csv": {},
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict4.csv": {
-            "bucklin": {
-                "baseline_winner": "['GORDON MAR']",
-                "top4": "['GORDON MAR', 'JESSICA HO']"
-            }
-        },
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11042014_BoardofSupervisorsDistrict10.csv": {
-            "bucklin": {
-                "baseline_winner": "['MALIA COHEN']",
-                "top4": "['MALIA COHEN', 'TONY KELLY']"
-            }
-        },
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict4.csv": {},
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11042014_BoardofSupervisorsDistrict10.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT3.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict7.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict3.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT7.csv": {
-            "bucklin": {
-                "baseline_winner": "['JOEL ENGARDIO', 'MYRNA MELGAR']",
-                "top4": "['MYRNA MELGAR']"
+            "IRV": {
+                "num_cands": 8,
+                "winner": "['MYRNA MELGAR']",
+                "rank (out of first place votes)": 3
+            },
+            "borda-pm": {
+                "num_cands": 8,
+                "winner": "['MYRNA MELGAR']",
+                "rank (out of first place votes)": 3
+            },
+            "borda-om-no-uwi": {
+                "num_cands": 8,
+                "winner": "['MYRNA MELGAR']",
+                "rank (out of first place votes)": 3
+            },
+            "borda-avg-no-uwi": {
+                "num_cands": 8,
+                "winner": "['MYRNA MELGAR']",
+                "rank (out of first place votes)": 3
+            },
+            "top-3-truncation": {
+                "num_cands": 8,
+                "winner": "['MYRNA MELGAR']",
+                "rank (out of first place votes)": 3
+            },
+            "condorcet": {
+                "num_cands": 8,
+                "winner": "['MYRNA MELGAR']",
+                "rank (out of first place votes)": 3.0
+            },
+            "minimax": {
+                "num_cands": 8,
+                "winner": "['MYRNA MELGAR']",
+                "rank (out of first place votes)": 3
+            },
+            "smith_irv": {
+                "num_cands": 8,
+                "winner": "['MYRNA MELGAR']",
+                "rank (out of first place votes)": 3
+            },
+            "smith-minimax": {
+                "num_cands": 8,
+                "winner": "['MYRNA MELGAR']",
+                "rank (out of first place votes)": 3
+            },
+            "ranked-pairs": {
+                "num_cands": 8,
+                "winner": "['MYRNA MELGAR']",
+                "rank (out of first place votes)": 3.0
+            },
+            "approval": {
+                "num_cands": 8,
+                "winner": "['MYRNA MELGAR']",
+                "rank (out of first place votes)": 3.0
             }
         },
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11052024_BoS_D9.csv": {
-            "bucklin": {
-                "baseline_winner": "['JACKIE FIELDER']",
-                "top4": "['ROBERTO HERNANDEZ', 'JACKIE FIELDER']"
-            }
-        },
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11052024_BoS_D9.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict9.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict10.csv": {
-            "plurality": {
-                "baseline_winner": "['LYNETTE SWEET']",
-                "top4": "['MALIA COHEN']"
+            "IRV": {
+                "num_cands": 23,
+                "winner": "['MALIA COHEN']",
+                "rank (out of first place votes)": 3
             },
-            "top-two": {
-                "baseline_winner": "['LYNETTE SWEET']",
-                "top4": "['MALIA COHEN']"
+            "borda-pm": {
+                "num_cands": 23,
+                "winner": "['MALIA COHEN']",
+                "rank (out of first place votes)": 3
             },
-            "smith_plurality": {
-                "baseline_winner": "['LYNETTE SWEET']",
-                "top4": "['MALIA COHEN']"
+            "borda-om-no-uwi": {
+                "num_cands": 23,
+                "winner": "['MALIA COHEN']",
+                "rank (out of first place votes)": 3
+            },
+            "borda-avg-no-uwi": {
+                "num_cands": 23,
+                "winner": "['MALIA COHEN']",
+                "rank (out of first place votes)": 3
+            },
+            "top-3-truncation": {
+                "num_cands": 23,
+                "winner": "['MALIA COHEN']",
+                "rank (out of first place votes)": 3
+            },
+            "condorcet": {
+                "num_cands": 23,
+                "winner": "['MALIA COHEN']",
+                "rank (out of first place votes)": 3.0
+            },
+            "minimax": {
+                "num_cands": 23,
+                "winner": "['MALIA COHEN']",
+                "rank (out of first place votes)": 3
+            },
+            "smith_irv": {
+                "num_cands": 23,
+                "winner": "['MALIA COHEN']",
+                "rank (out of first place votes)": 3
+            },
+            "smith-minimax": {
+                "num_cands": 23,
+                "winner": "['MALIA COHEN']",
+                "rank (out of first place votes)": 3
+            },
+            "ranked-pairs": {
+                "num_cands": 23,
+                "winner": "['MALIA COHEN']",
+                "rank (out of first place votes)": 3.0
             },
             "bucklin": {
-                "baseline_winner": "['MALIA COHEN']",
-                "top4": "['LYNETTE SWEET', 'MALIA COHEN']"
+                "num_cands": 23,
+                "winner": "['MALIA COHEN']",
+                "rank (out of first place votes)": "3"
+            },
+            "approval": {
+                "num_cands": 23,
+                "winner": "['MALIA COHEN']",
+                "rank (out of first place votes)": 3.0
             }
         },
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11032015_Sheriff.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11082011_Sheriff.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_06052018_BoardofSupervisorsDistrict8.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11082022_BoardofSupervisorsD2.csv": {},
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict8.csv": {
-            "bucklin": {
-                "baseline_winner": "['REBECCA PROZAN', 'SCOTT WIENER', 'RAFAEL MANDELMAN']",
-                "top4": "['SCOTT WIENER', 'REBECCA PROZAN', 'RAFAEL MANDELMAN']"
-            }
-        },
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict8.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict2.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11052024_CityAttorney.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT5.csv": {},
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict1.csv": {
-            "bucklin": {
-                "baseline_winner": "['ERIC MAR', 'SUE LEE']",
-                "top4": "['ERIC MAR', 'ALICIA WANG', 'SUE LEE']"
-            }
-        },
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict1.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_REPCouncilMember23rdCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember27thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember33rdCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_REPBoroughPresidentRichmond.csv": {},
-        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember10thCouncilDistrict.csv": {
-            "bucklin": {
-                "baseline_winner": "['Carmen N. De La Rosa']",
-                "top4": "['Carmen N. De La Rosa', 'Johanna Garcia']"
-            }
-        },
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember10thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember28thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember15thCouncilDistrict.csv": {},
-        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember46thCouncilDistrict.csv": {
-            "bucklin": {
-                "baseline_winner": "['Mercedes Narcisse']",
-                "top4": "['Mercedes Narcisse', 'Shirley S. Paul']"
-            }
-        },
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember46thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember31stCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember35thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember32ndCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember30thCouncilDistrict.csv": {},
-        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember49thCouncilDistrict.csv": {
-            "bucklin": {
-                "baseline_winner": "['Kamillah Hanks']",
-                "top4": "['Amoy Barnes', 'Kamillah Hanks']"
-            }
-        },
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember49thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember29thCouncilDistrict.csv": {},
-        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember11thCouncilDistrict.csv": {
-            "bucklin": {
-                "baseline_winner": "['Eric Dinowitz']",
-                "top4": "['Mino Lora', 'Eric Dinowitz']"
-            }
-        },
-        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember1stCouncilDistrict.csv": {
-            "bucklin": {
-                "baseline_winner": "['Christopher Marte']",
-                "top4": "['Gigi Li', 'Christopher Marte', 'Jenny L. Low']"
-            }
-        },
-        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember14thCouncilDistrict.csv": {
-            "bucklin": {
-                "baseline_winner": "['Pierina Ana Sanchez']",
-                "top4": "['Pierina Ana Sanchez', 'Yudelka Tapia']"
-            }
-        },
-        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember5thCouncilDistrict.csv": {
-            "bucklin": {
-                "baseline_winner": "['Julie Menin']",
-                "top4": "['Julie Menin', 'Tricia M. Shimamura']"
-            }
-        },
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember11thCouncilDistrict.csv": {},
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember1stCouncilDistrict.csv": {},
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember14thCouncilDistrict.csv": {},
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember5thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember2ndCouncilDistrict.csv": {},
-        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember26thCouncilDistrict.csv": {
-            "bucklin": {
-                "baseline_winner": "['Julie Won']",
-                "top4": "['Amit S. Bagga', 'Julie Won']"
-            }
-        },
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember26thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember34thCouncilDistrict.csv": {},
-        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember48thCouncilDistrict.csv": {
-            "bucklin": {
-                "baseline_winner": "['Steven Saperstein']",
-                "top4": "['Mariya Markh', 'Steven Saperstein']"
-            }
-        },
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember48thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember47thCouncilDistrict.csv": {},
-        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMBoroughPresidentQueens.csv": {
-            "borda-pm": {
-                "baseline_winner": "['Donovan J. Richards Jr.']",
-                "top4": "['Elizabeth S. Crowley']"
-            },
-            "borda-avg-no-uwi": {
-                "baseline_winner": "['Donovan J. Richards Jr.']",
-                "top4": "['Elizabeth S. Crowley']"
-            }
-        },
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMBoroughPresidentQueens.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember3rdCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_REPCouncilMember24thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_REPCouncilMember19thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMPublicAdvocateCitywide.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_REPMayorCitywide.csv": {},
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMComptrollerCitywide.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember38thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember23rdCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMBoroughPresidentRichmond.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_REPCouncilMember15thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember37thCouncilDistrict.csv": {},
-        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv": {
-            "borda-om-no-uwi": {
-                "baseline_winner": "['Fernando Cabrera']",
-                "top4": "['Vanessa L. Gibson']"
-            },
-            "bucklin": {
-                "baseline_winner": "['Fernando Cabrera', 'Vanessa L. Gibson']",
-                "top4": "['Vanessa L. Gibson', 'Fernando Cabrera']"
-            }
-        },
-        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember22ndCouncilDistrict.csv": {
-            "bucklin": {
-                "baseline_winner": "['Evie Hantzopoulos', 'Tiffany Caban']",
-                "top4": "['Tiffany Caban']"
-            }
-        },
-        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember25thCouncilDistrict.csv": {
-            "bucklin": {
-                "baseline_winner": "['Shekar Krishnan']",
-                "top4": "['Carolyn Tran', 'Yi Andy Chen', 'Shekar Krishnan']"
-            }
-        },
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv": {},
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember22ndCouncilDistrict.csv": {},
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember25thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember6thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember18thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMBoroughPresidentNewYork.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember20thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_REPCouncilMember32ndCouncilDistrict.csv": {},
-        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember9thCouncilDistrict.csv": {
-            "borda-pm": {
-                "baseline_winner": "['Kristin Richardson Jordan']",
-                "top4": "['Bill Perkins']"
-            },
-            "top-3-truncation": {
-                "baseline_winner": "['Bill Perkins']",
-                "top4": "['Kristin Richardson Jordan']"
-            },
-            "bucklin": {
-                "baseline_winner": "['Kristin Richardson Jordan', 'Athena Moore']",
-                "top4": "['Kristin Richardson Jordan', 'Bill Perkins', 'Athena Moore']"
-            }
-        },
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember9thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember17thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_CONCouncilMember19thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember21stCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember12thCouncilDistrict.csv": {},
-        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv": {
-            "top-3-truncation": {
-                "baseline_winner": "['Marko Kepi']",
-                "top4": "['David M. Carr']"
-            },
-            "bucklin": {
-                "baseline_winner": "['David M. Carr', 'Marko Kepi']",
-                "top4": "['David M. Carr', 'Marko Kepi', 'Sam T. Pirozzolo']"
-            }
-        },
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember41stCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember36thCouncilDistrict.csv": {
             "borda-om-no-uwi": {
-                "baseline_winner": "['Tahirah A. Moore']",
-                "top4": "['Chi A. Osse']"
+                "num_cands": 7,
+                "winner": "['Tahirah A. Moore']",
+                "rank (out of first place votes)": 3
             }
         },
-        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember40thCouncilDistrict.csv": {
-            "bucklin": {
-                "baseline_winner": "['Rita C. Joseph']",
-                "top4": "['Rita C. Joseph', 'Kenya Handy-Hilliard']"
-            }
-        },
-        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember39thCouncilDistrict.csv": {
-            "bucklin": {
-                "baseline_winner": "['Shahana K. Hanif']",
-                "top4": "['Shahana K. Hanif', 'Brandon West']"
-            }
-        },
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember40thCouncilDistrict.csv": {},
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember39thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember42ndCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember45thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember16thCouncilDistrict.csv": {},
@@ -1158,142 +966,165 @@
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember13thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_REPBoroughPresidentQueens.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember24thCouncilDistrict.csv": {},
-        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember19thCouncilDistrict.csv": {
-            "bucklin": {
-                "baseline_winner": "['Tony Avella']",
-                "top4": "['Tony Avella', 'Richard J. Lee']"
-            }
-        },
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember19thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember7thCouncilDistrict.csv": {},
-        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11082011_CityCouncil.csv": {
-            "bucklin": {
-                "baseline_winner": "['Cheung, Leland']",
-                "top4": "['Davis, Henrietta', 'Cheung, Leland']"
-            }
-        },
-        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11062001_CityCouncil.csv": {
-            "borda-om-no-uwi": {
-                "baseline_winner": "['Galluccio, Anthony D.']",
-                "top4": "['Davis, Henrietta']"
-            },
-            "bucklin": {
-                "baseline_winner": "['Galluccio, Anthony D.']",
-                "top4": "['Davis, Henrietta', 'Galluccio, Anthony D.']"
-            }
-        },
+        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11082011_CityCouncil.csv": {},
+        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11062001_CityCouncil.csv": {},
         "raw_data/american/processed_data/Cambridge, MA/Cambridge_11032009_CityCouncil.csv": {},
-        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11062007_SchoolCommittee.csv": {
-            "plurality": {
-                "baseline_winner": "['McGovern, Marc C.']",
-                "top4": "['Fantini, Alfred B.']"
-            },
-            "smith_plurality": {
-                "baseline_winner": "['McGovern, Marc C.']",
-                "top4": "['Fantini, Alfred B.']"
-            }
-        },
+        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11062007_SchoolCommittee.csv": {},
         "raw_data/american/processed_data/Cambridge, MA/Cambridge_11052013_SchoolCommittee.csv": {},
-        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11062007_CityCouncil.csv": {
-            "bucklin": {
-                "baseline_winner": "['Davis, Henrietta', 'Decker, Marjorie C.', 'Simmons, E. Denise']",
-                "top4": "['Davis, Henrietta']"
-            }
-        },
-        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11152019_SchoolCommittee.csv": {
-            "plurality": {
-                "baseline_winner": "['Bowman, Mannika L.']",
-                "top4": "['Dexter, Emily R.']"
-            },
-            "smith_plurality": {
-                "baseline_winner": "['Bowman, Mannika L.']",
-                "top4": "['Dexter, Emily R.']"
-            },
-            "bucklin": {
-                "baseline_winner": "['Dexter, Emily R.']",
-                "top4": "['Bowman, Mannika L.', 'Dexter, Emily R.']"
-            }
-        },
+        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11062007_CityCouncil.csv": {},
+        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11152019_SchoolCommittee.csv": {},
         "raw_data/american/processed_data/Cambridge, MA/Cambridge_11032015_SchoolCommittee.csv": {},
         "raw_data/american/processed_data/Cambridge, MA/Cambridge_11082011_SchoolCommittee.csv": {
-            "plurality": {
-                "baseline_winner": "['Fantini, Alfred B.']",
-                "top4": "['Turkel, Alice L.']"
-            },
-            "top-two": {
-                "baseline_winner": "['Nolan, Patricia M.']",
-                "top4": "['Turkel, Alice L.']"
-            },
-            "smith_plurality": {
-                "baseline_winner": "['Fantini, Alfred B.']",
-                "top4": "['Turkel, Alice L.']"
-            },
-            "bucklin": {
-                "baseline_winner": "['Tauber, Nancy', 'Nolan, Patricia M.', 'McGovern, Marc C.', 'Turkel, Alice L.']",
-                "top4": "['Nolan, Patricia M.', 'Turkel, Alice L.']"
-            }
-        },
-        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11072023_SchoolBoard.csv": {
-            "bucklin": {
-                "baseline_winner": "['Rachel B. Weinstein']",
-                "top4": "['Rachel B. Weinstein', 'Caroline M. Hunter']"
-            }
-        },
-        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11042003_SchoolCommittee.csv": {
-            "bucklin": {
-                "baseline_winner": "['Walser, Nancy', 'Harding, Richard, Jr.']",
-                "top4": "['Walser, Nancy']"
-            }
-        },
-        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11072017_SchoolCommittee.csv": {
-            "bucklin": {
-                "baseline_winner": "['Nolan, Patricia M.']",
-                "top4": "['Nolan, Patricia M.', 'Dexter, Emily R.']"
-            }
-        },
-        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11082005_CityCouncil.csv": {
-            "top-two": {
-                "baseline_winner": "['Decker, Marjorie C.']",
-                "top4": "['Davis, Henrietta']"
+            "IRV": {
+                "num_cands": 14,
+                "winner": "['Turkel, Alice L.']",
+                "rank (out of first place votes)": 3
             },
             "borda-pm": {
-                "baseline_winner": "['Galluccio, Anthony D.']",
-                "top4": "['Decker, Marjorie C.']"
+                "num_cands": 14,
+                "winner": "['Turkel, Alice L.']",
+                "rank (out of first place votes)": 3
             },
             "borda-avg-no-uwi": {
-                "baseline_winner": "['Galluccio, Anthony D.']",
-                "top4": "['Decker, Marjorie C.']"
+                "num_cands": 14,
+                "winner": "['Turkel, Alice L.']",
+                "rank (out of first place votes)": 3
             },
             "top-3-truncation": {
-                "baseline_winner": "['Galluccio, Anthony D.']",
-                "top4": "['Decker, Marjorie C.']"
+                "num_cands": 14,
+                "winner": "['Turkel, Alice L.']",
+                "rank (out of first place votes)": 3
+            },
+            "condorcet": {
+                "num_cands": 14,
+                "winner": "['Turkel, Alice L.']",
+                "rank (out of first place votes)": 3.0
+            },
+            "minimax": {
+                "num_cands": 14,
+                "winner": "['Turkel, Alice L.']",
+                "rank (out of first place votes)": 3
+            },
+            "smith_irv": {
+                "num_cands": 14,
+                "winner": "['Turkel, Alice L.']",
+                "rank (out of first place votes)": 3
+            },
+            "smith-minimax": {
+                "num_cands": 14,
+                "winner": "['Turkel, Alice L.']",
+                "rank (out of first place votes)": 3
+            },
+            "ranked-pairs": {
+                "num_cands": 14,
+                "winner": "['Turkel, Alice L.']",
+                "rank (out of first place votes)": 3.0
+            },
+            "approval": {
+                "num_cands": 14,
+                "winner": "['Turkel, Alice L.']",
+                "rank (out of first place votes)": 3.0
             }
         },
-        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11042003_CityCouncil.csv": {
-            "plurality": {
-                "baseline_winner": "['Galluccio, Anthony D.']",
-                "top4": "['Davis, Henrietta']"
+        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11072023_SchoolBoard.csv": {},
+        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11042003_SchoolCommittee.csv": {},
+        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11072017_SchoolCommittee.csv": {},
+        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11032015_CityCouncil.csv": {},
+        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11082005_CityCouncil.csv": {
+            "IRV": {
+                "num_cands": 20,
+                "winner": "['Davis, Henrietta']",
+                "rank (out of first place votes)": 4
             },
-            "smith_plurality": {
-                "baseline_winner": "['Galluccio, Anthony D.']",
-                "top4": "['Davis, Henrietta']"
+            "condorcet": {
+                "num_cands": 20,
+                "winner": "['Davis, Henrietta']",
+                "rank (out of first place votes)": 4.0
             },
-            "bucklin": {
-                "baseline_winner": "['Galluccio, Anthony D.']",
-                "top4": "['Galluccio, Anthony D.', 'Sullivan, Michael A.']"
+            "minimax": {
+                "num_cands": 20,
+                "winner": "['Davis, Henrietta']",
+                "rank (out of first place votes)": 4
+            },
+            "smith_irv": {
+                "num_cands": 20,
+                "winner": "['Davis, Henrietta']",
+                "rank (out of first place votes)": 4
+            },
+            "smith-minimax": {
+                "num_cands": 20,
+                "winner": "['Davis, Henrietta']",
+                "rank (out of first place votes)": 4
+            },
+            "ranked-pairs": {
+                "num_cands": 20,
+                "winner": "['Davis, Henrietta']",
+                "rank (out of first place votes)": 4.0
+            },
+            "approval": {
+                "num_cands": 20,
+                "winner": "['Davis, Henrietta']",
+                "rank (out of first place votes)": 4.0
             }
         },
+        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11042003_CityCouncil.csv": {},
         "raw_data/american/processed_data/Cambridge, MA/Cambridge_11082005_SchoolCommittee.csv": {
-            "top-two": {
-                "baseline_winner": "['Nolan, Patricia M.']",
-                "top4": "['Walser, Nancy']"
+            "IRV": {
+                "num_cands": 12,
+                "winner": "['Walser, Nancy']",
+                "rank (out of first place votes)": 3
             },
-            "top-3-truncation": {
-                "baseline_winner": "['Nolan, Patricia M.']",
-                "top4": "['Walser, Nancy']"
+            "borda-pm": {
+                "num_cands": 12,
+                "winner": "['Walser, Nancy']",
+                "rank (out of first place votes)": 3
+            },
+            "borda-om-no-uwi": {
+                "num_cands": 12,
+                "winner": "['Walser, Nancy']",
+                "rank (out of first place votes)": 3
+            },
+            "borda-avg-no-uwi": {
+                "num_cands": 12,
+                "winner": "['Walser, Nancy']",
+                "rank (out of first place votes)": 3
+            },
+            "condorcet": {
+                "num_cands": 12,
+                "winner": "['Walser, Nancy']",
+                "rank (out of first place votes)": 3.0
+            },
+            "minimax": {
+                "num_cands": 12,
+                "winner": "['Walser, Nancy']",
+                "rank (out of first place votes)": 3
+            },
+            "smith_irv": {
+                "num_cands": 12,
+                "winner": "['Walser, Nancy']",
+                "rank (out of first place votes)": 3
+            },
+            "smith-minimax": {
+                "num_cands": 12,
+                "winner": "['Walser, Nancy']",
+                "rank (out of first place votes)": 3
+            },
+            "ranked-pairs": {
+                "num_cands": 12,
+                "winner": "['Walser, Nancy']",
+                "rank (out of first place votes)": 3.0
             },
             "bucklin": {
-                "baseline_winner": "['Walser, Nancy']",
-                "top4": "['Nolan, Patricia M.', 'Walser, Nancy']"
+                "num_cands": 12,
+                "winner": "['Walser, Nancy']",
+                "rank (out of first place votes)": "3"
+            },
+            "approval": {
+                "num_cands": 12,
+                "winner": "['Walser, Nancy']",
+                "rank (out of first place votes)": 3.0
             }
         },
         "raw_data/american/processed_data/Corvallis, OR/Corvallis_11082022_CityCouncilWard9.csv": {},

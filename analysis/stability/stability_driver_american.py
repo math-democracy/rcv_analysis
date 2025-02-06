@@ -71,7 +71,12 @@ def run_voting_methods(full_path):
     data['borda-pm'] = list(dm.Borda_PM(d_profile, candidates, num_cands))
     data['borda-om-no-uwi'] = list(dm.Borda_OM(d_profile, candidates, num_cands, False))
     data['borda-avg-no-uwi'] = list(dm.Borda_AVG(d_profile, candidates, num_cands, False))
-    data['top-3-truncation'] = list(mm.Top3Truncation(prof=v))
+    data['top-3-truncation'] = mm.Top3Truncation(prof=v)
+    # sometimes top-3-trunc returns a list not a set
+    if isinstance(data['top-3-truncation'], str):
+        data['top-3-truncation'] = [data['top-3-truncation']]
+    else:
+        data['top-3-truncation'] = list(data['top-3-truncation'])
     data['condorcet'] = list(mm.Condorcet(prof=v))
     data['minimax'] = list(mm.Minimax(prof=v))
     data['smith_plurality'] = list(mm.Smith_Plurality(prof=v))

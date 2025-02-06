@@ -125,7 +125,12 @@ def run_voting_methods(full_path):
         data[f'{method}_rank'] = "multiple"
 
     method = 'top-3-truncation'
-    data['top-3-truncation'] = list(mm.Top3Truncation(prof=v))
+    data['top-3-truncation'] = mm.Top3Truncation(prof=v)
+    if isinstance(data['top-3-truncation'], str):
+        data['top-3-truncation'] = [data['top-3-truncation']]
+    else:
+        data['top-3-truncation'] = list(data['top-3-truncation'])
+        
     if len(data[f'{method}']) == 1:
         if data[f'{method}'][0] is None:
             data[f'{method}_rank'] = None
