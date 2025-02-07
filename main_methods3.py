@@ -146,15 +146,18 @@ def TopTwo(
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
         cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
 
-    if len(cands_to_keep)<len(prof.candidates):
-        noncands = [c for c in prof.candidates if c not in cands_to_keep]
-        prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
+    if len(cands_to_keep)<2:
+        return set([None])
+    else:
+        if len(cands_to_keep)<len(prof.candidates):
+            noncands = [c for c in prof.candidates if c not in cands_to_keep]
+            prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
 
-    elected = list(v.TopTwo(profile = prof).election_states[-1].elected[0])[0]
-    if not type(elected) is set:
-        elected = set([elected])
+        elected = list(v.TopTwo(profile = prof).election_states[-1].elected[0])[0]
+        if not type(elected) is set:
+            elected = set([elected])
 
-    return elected
+        return elected
         
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 #Borda methods - we use votekit
@@ -188,7 +191,7 @@ def Borda_PM(
                         break
             not_in_b = [{c} for c in cands_to_keep if c not in cands_in_b]
             b=Ballot(ranking = list(b.ranking) + not_in_b, weight = b.weight)
-            vector = list(range(max_score,max_score-i,-1))+[0 for k in range(len(cands_to_keep)-i)] 
+        vector = list(range(max_score,max_score-i,-1))+[0 for k in range(len(cands_to_keep)-i)] 
         p = PreferenceProfile(ballots = bal)
         el = v.Borda(profile = p, score_vector = vector).election_states[0].scores
         for c in cands_to_keep:
@@ -492,7 +495,10 @@ def Ranked_Pairs(
         if gr.in_degree(c)==0:
             elected.add(c)
             break
-    return elected
+    if len(cands_to_keep)<2:
+        return set([None])
+    else:
+        return elected
 
     
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
@@ -554,3 +560,26 @@ def Approval(
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 #Others
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
+
+def IRV_With_Explaination(prof):
+    cands_to_keep = prof.candidates
+    if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
+        cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
+    if len(cands_to_keep)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in cands_to_keep]
+        prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
+    
+    election = str(v.IRV(profile=prof))
+
+    election_dict = {}
+    i = 0
+    for line in election.strip().split("\n"):
+        if i != 0:
+            parts = line.rsplit(maxsplit=2)
+            name = parts[0].strip()
+            status = parts[1]
+            round_number = int(parts[2])
+            election_dict[name] = {"status": status, "round": round_number}
+        
+        i += 1
+    return election_dict

@@ -1,0 +1,51 @@
+{
+    "plurality": {
+        "1": 327
+    },
+    "IRV": {
+        "1": 327
+    },
+    "top-two": {
+        "1": 327
+    },
+    "borda-pm": {
+        "1": 327
+    },
+    "borda-om-no-uwi": {
+        "1": 327
+    },
+    "borda-avg-no-uwi": {
+        "1": 327
+    },
+    "top-3-truncation": {
+        "1": 327
+    },
+    "condorcet": {
+        "1": 327
+    },
+    "minimax": {
+        "1": 327
+    },
+    "smith_plurality": {
+        "1": 327
+    },
+    "smith_irv": {
+        "1": 327
+    },
+    "smith-minimax": {
+        "1": 327
+    },
+    "ranked-pairs": {
+        "1": 327
+    },
+    "bucklin": {
+        "1": 254,
+        "2": 64,
+        "6": 1,
+        "3": 7,
+        "7": 1
+    },
+    "approval": {
+        "1": 327
+    }
+}
