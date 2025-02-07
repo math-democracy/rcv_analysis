@@ -520,7 +520,7 @@ def Bucklin(
             b= Ballot(ranking = b.ranking[:i+1], weight = b.weight)
         el_scores = v.Borda(profile = prof, score_vector = [1 for k in range(i+1)]).election_states[0].scores
         if max(el_scores.values())>maj:
-            elected = set([c for c in el_scores if el_scores[c]>maj and c!="skipped"])
+            elected = set([c for c in el_scores if el_scores[c]==max(el_scores.values()) and c!="skipped"])
             break
     if elected == set():
         elected = set([c for c in el_scores if el_scores[c]==max(el_scores.values()) and c!="skipped"]) ##I'm not sure this can happen

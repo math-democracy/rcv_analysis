@@ -530,14 +530,14 @@ def Bucklin(
         prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
 
     num_cands = len(prof.candidates)
-    maj = sum(b.weight for b in prof.ballots)/2
+    maj = sum(b.weight for b in prof.ballots)/2 ##half of num_voters
     for i in range(num_cands):
         bal = prof.ballots
         for b in bal:
             b= Ballot(ranking = b.ranking[:i+1], weight = b.weight)
         el_scores = v.Borda(profile = prof, score_vector = [1 for k in range(i+1)]).election_states[0].scores
         if max(el_scores.values())>maj:
-            elected = set([c for c in el_scores if el_scores[c]>maj and c!="skipped"])
+            elected = set([c for c in el_scores if el_scores[c]==max(el_scores.values()) and c!="skipped"])
             break
     if elected == set():
         elected = set([c for c in el_scores if el_scores[c]==max(el_scores.values()) and c!="skipped"]) ##I'm not sure this can happen
