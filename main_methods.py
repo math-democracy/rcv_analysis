@@ -349,7 +349,7 @@ def Condorcet(
         noncands = [c for c in prof.candidates if c not in cands_to_keep]
         prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
 
-    elected = dominating_tiers(prof)[0]
+    elected = set(v.DominatingSets(profile = prof).election_states[-1].elected[0])
     if len(elected)>1:
         elected = set()
     return elected
@@ -370,7 +370,7 @@ def Smith(
         noncands = [c for c in prof.candidates if c not in cands_to_keep]
         prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
 
-    elected = dominating_tiers(prof)[0]
+    elected = set(v.DominatingSets(profile = prof).election_states[-1].elected[0])
     return elected
 
 #Smith Plurality
@@ -383,10 +383,16 @@ def Smith_Plurality(
         cands_to_keep = prof.candidates
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
         cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
-
     if len(cands_to_keep)<len(prof.candidates):
         noncands = [c for c in prof.candidates if c not in cands_to_keep]
         prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
+
+    smith_set = set(v.DominatingSets(profile = prof).election_states[-1].elected[0])
+    ##after-smith
+    if len(smith_set)<len(cands_to_keep):
+        noncands = [c for c in cands_to_keep if c not in smith_set]
+        prof = remove_noncands(prof,noncands)
+    
 
     elected = list(v.Plurality(profile = prof).election_states[-1].elected[0])[0]
     if not type(elected) is set:
@@ -409,6 +415,13 @@ def Smith_IRV(
     if len(cands_to_keep)<len(prof.candidates):
         noncands = [c for c in prof.candidates if c not in cands_to_keep]
         prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
+
+    smith_set = set(v.DominatingSets(profile = prof).election_states[-1].elected[0])
+    ##after-smith
+    if len(smith_set)<len(cands_to_keep):
+        noncands = [c for c in cands_to_keep if c not in smith_set]
+        prof = remove_noncands(prof,noncands)
+    
 
     elected = list(v.IRV(profile = prof).election_states[-1].elected[0])[0]
     if not type(elected) is set:
@@ -459,10 +472,13 @@ def Smith_Minimax(
         noncands = [c for c in prof.candidates if c not in cands_to_keep]
         prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
 
-    smith = dominating_tiers(prof)[0]
-    if len(smith)<len(prof.candidates):
-        noncands = [c for c in prof.candidates if c not in smith]
+    smith_set = set(v.DominatingSets(profile = prof).election_states[-1].elected[0])
+    ##after-smith
+    if len(smith_set)<len(prof.candidates):
+        noncands = [c for c in prof.candidates if c not in smith_set]
         prof = remove_noncands(prof, noncands) 
+
+
     cands = prof.candidates
     defeat_margins={c:0 for c in cands}
     for c in cands:
