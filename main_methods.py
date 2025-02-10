@@ -186,6 +186,8 @@ def Borda_PM(
     el_scores= {c:0 for c in cands_to_keep}
     for i in range(1,len(prof.candidates)+1):
         bal = [b for b in ballots if len(b.ranking) == i]
+        new_ballots = []
+
         for b in bal:
             cands_in_b = []
             for c in cands_to_keep:
@@ -194,14 +196,16 @@ def Borda_PM(
                         cands_in_b.append(c)
                         break
             not_in_b = [{c} for c in cands_to_keep if c not in cands_in_b]
-            b=Ballot(ranking = list(b.ranking) + not_in_b, weight = b.weight)
+            new_ballots.append(Ballot(ranking = list(b.ranking) + not_in_b, weight = b.weight))
+        if new_ballots!=[]:
             vector = list(range(max_score,max_score-i,-1))+[0 for k in range(len(cands_to_keep)-i)] 
-        p = PreferenceProfile(ballots = bal)
-        el = v.Borda(profile = p, score_vector = vector).election_states[0].scores
-        for c in cands_to_keep:
-            if c not in el:
-                el[c]=0
-            el_scores[c]+=el[c]
+        
+            p = PreferenceProfile(ballots = new_ballots)
+            el = v.Borda(profile = p, score_vector = vector).election_states[0].scores
+            for c in cands_to_keep:
+                if c not in el:
+                    el[c]=0
+                el_scores[c]+=el[c]
     winning_score = max(el_scores.values())
     elected = set([c for c in cands_to_keep if el_scores[c]==winning_score])
     return elected
@@ -226,6 +230,8 @@ def Borda_OM(
     el_scores= {c:0 for c in cands_to_keep}
     for i in range(1,len(prof.candidates)+1):
         bal = [b for b in ballots if len(b.ranking) == i]
+        new_ballots = []
+
         for b in bal:
             cands_in_b = []
             for c in cands_to_keep:
@@ -234,14 +240,15 @@ def Borda_OM(
                         cands_in_b.append(c)
                         break
             not_in_b = [{c} for c in cands_to_keep if c not in cands_in_b]
-            b=Ballot(ranking = list(b.ranking) + not_in_b, weight = b.weight)
+            new_ballots.append(Ballot(ranking = list(b.ranking) + not_in_b, weight = b.weight))
+        if new_ballots!=[]:
             vector = list(range(max_score,max_score-i,-1))+[max_score-i for k in range(len(cands_to_keep)-i)] 
-        p = PreferenceProfile(ballots = bal)
-        el = v.Borda(profile = p, score_vector = vector).election_states[0].scores
-        for c in cands_to_keep:
-            if c not in el:
-                el[c]=0
-            el_scores[c]+=el[c]
+            p = PreferenceProfile(ballots = new_ballots)
+            el = v.Borda(profile = p, score_vector = vector).election_states[0].scores
+            for c in cands_to_keep:
+                if c not in el:
+                    el[c]=0
+                el_scores[c]+=el[c]
     winning_score = max(el_scores.values())
     elected = set([c for c in cands_to_keep if el_scores[c]==winning_score])
     return elected
@@ -268,6 +275,7 @@ def Borda_AVG(
     el_scores= {c:0 for c in cands_to_keep}
     for i in range(1,len(prof.candidates)+1):
         bal = [b for b in ballots if len(b.ranking) == i]
+        new_ballots = []
         for b in bal:
             cands_in_b = []
             for c in cands_to_keep:
@@ -276,14 +284,15 @@ def Borda_AVG(
                         cands_in_b.append(c)
                         break
             not_in_b = [{c} for c in cands_to_keep if c not in cands_in_b]
-            b=Ballot(ranking = list(b.ranking) + not_in_b, weight = b.weight)
+            new_ballots.append(Ballot(ranking = list(b.ranking) + not_in_b, weight = b.weight))
+        if new_ballots!=[]:
             vector = list(range(max_score,max_score-i,-1))+[(max_score-i)/2 for k in range(len(cands_to_keep)-i)] 
-        p = PreferenceProfile(ballots = bal)
-        el = v.Borda(profile = p, score_vector = vector).election_states[0].scores
-        for c in cands_to_keep:
-            if c not in el:
-                el[c]=0
-            el_scores[c]+=el[c]
+            p = PreferenceProfile(ballots = new_ballots)
+            el = v.Borda(profile = p, score_vector = vector).election_states[0].scores
+            for c in cands_to_keep:
+                if c not in el:
+                    el[c]=0
+                el_scores[c]+=el[c]
     winning_score = max(el_scores.values())
     elected = set([c for c in cands_to_keep if el_scores[c]==winning_score])
     return elected
