@@ -1,8 +1,9 @@
 import pandas as pd
 import ast
 import json
+from collections import defaultdict
 
-def rank_candidates(file_path):
+def rank_candidates(file_path, threshold):
     with open(file_path, 'r') as file:
         data = json.load(file)
     result = {}
@@ -10,12 +11,14 @@ def rank_candidates(file_path):
         sorted_candidates = sorted(candidates.items(), key=lambda x: x[1], reverse=True)
         total_candidates = len(sorted_candidates)
         bottom_threshold = total_candidates // 3  # Bottom third count
+        first_place_score = sorted_candidates[0][1] if sorted_candidates else 0
         result[filename] = {}
         # 1 = bottom third, 0 = not bottom third
-        for i, (name, _) in enumerate(sorted_candidates):
-            result[filename][name] = 1 if i >= total_candidates - bottom_threshold else 0
+        for i, (name, score) in enumerate(sorted_candidates):
+            is_bottom_third = i >= total_candidates - bottom_threshold
+            is_below_x = score < threshold * first_place_score
+            result[filename][name] = 1 if (is_bottom_third and is_below_x) else 0
     return result
-
 
 def compute_fringe(row, ranks):
     methods = ["plurality","IRV","top-two","borda-pm","borda-om-no-uwi","borda-avg-no-uwi","top-3-truncation","condorcet","minimax","smith_plurality","smith_irv","smith-minimax","ranked-pairs","bucklin","approval"]
@@ -38,7 +41,6 @@ def parse_data(df):
     filtered_df = filtered_df.drop(columns=['Unnamed: 0'])
     filtered_df = filtered_df[sorted(filtered_df.columns)]
     filtered_df = filtered_df.set_index('file')
-
     return filtered_df
 
 def filter_columns(row):
@@ -51,12 +53,56 @@ def filter_columns(row):
             filtered_data[fringe_col] = row[fringe_col]
     return filtered_data
 
+def main(scores, file, threshold):
+    ranks = rank_candidates(scores, threshold)
+    with open ('data.json', 'w') as f:
+        f.write(json.dumps(ranks))
+    df = read_winners(ranks, file)
+    df = parse_data(df)
 
-ranks = rank_candidates('/Users/belle/Desktop/build/rcv_proposal/analysis/fringe/mention_scores/scotland_mention_scores.json')
-df = read_winners(ranks, '/Users/belle/Desktop/build/rcv_proposal/results/current/scotland.csv')
-df = parse_data(df)
-filtered_json_data = {file: filter_columns(row) for file, row in df.iterrows()}
-filtered_json = json.dumps(filtered_json_data, indent=4)
+    filtered_json_data = {file: filter_columns(row) for file, row in df.iterrows()}
+    print(filtered_json_data)
+    filtered_json = json.dumps(filtered_json_data, indent=4)
 
-with open('filtered_data2.json', 'w') as f:
-    f.write(filtered_json)
+    with open('filtered_data2.json', 'w') as f:
+        f.write(filtered_json)
+
+    fringe_count = {}
+    method_counts = defaultdict(set)
+    election_with_changes = len(filtered_json_data)
+
+    for election, changes in filtered_json_data.items():
+        all_methods = set()
+        for change in changes:
+            all_methods.update([change])  # Add all methods to a set for the election
+        for method in all_methods:
+            method_counts[method].add(election)
+
+
+    # print(method_counts)
+    for file_changes in filtered_json_data.values():
+        num_spoilers = len(file_changes)
+        fringe_count[num_spoilers] = fringe_count.get(num_spoilers, 0) + 1
+
+    final_method_counts = {method: len(elections) for method, elections in method_counts.items()}
+
+    metadata = {
+        "election_with_changes": election_with_changes,
+        "spoiler_counts": dict(sorted(fringe_count.items(), key=lambda x: x[1], reverse=True)),
+        "method_counts": dict(sorted(final_method_counts.items(), key=lambda x: x[1], reverse=True))
+    }
+
+    output_data = {
+        "metadata": metadata,
+        "winners": filtered_json_data
+    }
+
+    output_file = f"australia_{threshold}.json"
+    with open(output_file, "w") as f:
+        json.dump(output_data, f, indent=4)
+
+
+# print(rank_candidates('/Users/belle/Desktop/build/rcv_proposal/analysis/fringe/test.json', 0.5))
+        
+for i in range(1, 10):
+    main('/Users/belle/Desktop/build/rcv_proposal/analysis/fringe/borda_scores/australia_borda_scores.json', '/Users/belle/Desktop/build/rcv_proposal/results/current/australia.csv', (i/10))

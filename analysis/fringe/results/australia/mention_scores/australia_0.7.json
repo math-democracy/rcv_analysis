@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "election_with_changes": 2,
+        "spoiler_counts": {
+            "2": 2
+        },
+        "method_counts": {
+            "bucklin_fringe": 2,
+            "bucklin": 2
+        }
+    },
+    "winners": {
+        "Australia_NewSouthWales_Mayorals_2021/Eurobodalla-mayoral-finalpreferencedatafile.csv": {
+            "bucklin": "['STARMER Karyn', 'POLLOCK Rob', 'HARRISON N (Tubby)', 'WORTHINGTON Alison', 'GRACE David', 'HATCHER Mat']",
+            "bucklin_fringe": [
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        "Australia_NewSouthWales_Mayorals_2021/City_of_Orange-mayoral-finalpreferencedatafile.csv": {
+            "bucklin": "['SMITH Lesley', 'MILETO Tony', 'JONES Neil', 'SPALDING Amanda', 'WHITTON Jeffery', 'DUFFY Kevin', 'HAMLING Jason']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    }
+}

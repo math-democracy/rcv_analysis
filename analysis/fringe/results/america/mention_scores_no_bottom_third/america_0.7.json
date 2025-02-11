@@ -1,0 +1,62 @@
+{
+    "metadata": {
+        "election_with_changes": 6,
+        "spoiler_counts": {
+            "2": 6
+        },
+        "method_counts": {
+            "bucklin": 6,
+            "bucklin_fringe": 6
+        }
+    },
+    "winners": {
+        "Alaska/Alaska_11052024_StateHouseD6.csv": {
+            "bucklin": "['Slaughter, Dawson R.', 'Vance, Sarah L.', 'Johnson, Brent']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "Maine/Maine_07142020_RepublicanCandidateforUSHouseofRepresentativesDistrict2.csv": {
+            "bucklin": "['Bennett, Adrienne', 'Brakey, Eric L.', 'Crafts, Dale John']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "Bloomington/Bloomington_11072023_SpecialCityCouncilAtLarge.csv": {
+            "bucklin": "['Chao Moua', 'Maxwell Collins', 'Jonathan A. Minks']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "Utah cities/WoodlandHills_11022021_Mayor.csv": {
+            "bucklin": "['BENJAMIN J HILLYARD', 'MIKE LAURITZEN', 'BRENT WINDER']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "Utah cities/ElkRidge_11022021_Mayor.csv": {
+            "bucklin": "['ROBERT HADDOCK', 'GORDON REYNOLDS', 'GEORGE D. POTTER']",
+            "bucklin_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "APA/APA 2019 BOD race2.csv": {
+            "bucklin": "['Susan D. Clayton PhD', 'Guillermo Bernal PhD', 'Eugene Borgida PhD']",
+            "bucklin_fringe": [
+                0,
+                0,
+                1
+            ]
+        }
+    }
+}

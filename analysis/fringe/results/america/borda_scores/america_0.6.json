@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "election_with_changes": 1,
+        "spoiler_counts": {
+            "2": 1
+        },
+        "method_counts": {
+            "bucklin_fringe": 1,
+            "bucklin": 1
+        }
+    },
+    "winners": {
+        "Bloomington/Bloomington_11072023_SpecialCityCouncilAtLarge.csv": {
+            "bucklin": "['Chao Moua', 'Maxwell Collins', 'Jonathan A. Minks']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        }
+    }
+}

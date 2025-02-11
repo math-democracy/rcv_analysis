@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "election_with_changes": 2,
+        "spoiler_counts": {
+            "4": 2
+        },
+        "method_counts": {
+            "smith_plurality": 2,
+            "plurality": 2,
+            "plurality_fringe": 2,
+            "smith_plurality_fringe": 2
+        }
+    },
+    "winners": {
+        "edinburgh17-ballots/Ward7-SighthillGorgie_edinburgh17-07.csv": {
+            "plurality": "['Ashley GRACZYK (Con)']",
+            "plurality_fringe": [
+                1
+            ],
+            "smith_plurality": "['Ashley GRACZYK (Con)']",
+            "smith_plurality_fringe": [
+                1
+            ]
+        },
+        "angus12-ballots/MonifiethandSidlaw_angus12-04.csv": {
+            "plurality": "['(Con) Craig FOTHERINGHAM']",
+            "plurality_fringe": [
+                1
+            ],
+            "smith_plurality": "['(Con) Craig FOTHERINGHAM']",
+            "smith_plurality_fringe": [
+                1
+            ]
+        }
+    }
+}

@@ -1,0 +1,328 @@
+{
+    "metadata": {
+        "election_with_changes": 34,
+        "spoiler_counts": {
+            "2": 31,
+            "12": 1,
+            "4": 1,
+            "6": 1
+        },
+        "method_counts": {
+            "bucklin_fringe": 33,
+            "bucklin": 33,
+            "plurality_fringe": 3,
+            "smith_plurality": 3,
+            "smith_plurality_fringe": 3,
+            "plurality": 3,
+            "top-two": 1,
+            "top-two_fringe": 1,
+            "IRV_fringe": 1,
+            "smith_irv_fringe": 1,
+            "IRV": 1,
+            "smith_irv": 1
+        }
+    },
+    "winners": {
+        "St Louis Park/StLouisPark_11022021_CityCouncilWard3.csv": {
+            "bucklin": "['Saul Eugene', 'Jim Leuthner', 'Sue Budd']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "Alaska/Alaska_08162022_HouseofRepresentativesSpecial.csv": {
+            "plurality": "['Peltola, Mary S.']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['Peltola, Mary S.']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['Peltola, Mary S.']",
+            "top-two_fringe": [
+                1
+            ],
+            "smith_plurality": "['Peltola, Mary S.']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['Peltola, Mary S.']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "bucklin": "['Peltola, Mary S.', 'Begich, Nick', 'Palin, Sarah']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "Alaska/Alaska_11082022_HouseDistrict34.csv": {
+            "bucklin": "['Hopkins, Grier H.', 'DeMars, Nate', 'Tomaszewski, Frank J.']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "Alaska/Alaska_11082022_HouseDistrict31.csv": {
+            "bucklin": "['LeBon, Barton S.', 'Nash, Kelly', 'Dibert, Maxine L.']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "Alaska/Alaska_11082022_HouseDistrict18.csv": {
+            "bucklin": "['Nelson, David', 'Groh, Cliff', 'Franks, Lyn D.']",
+            "bucklin_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "Alaska/Alaska_11052024_StateHouseD40.csv": {
+            "bucklin": "['Baker, Thomas C. \"Ikaaq\"', 'Burke, Robyn \"Niayuq\"', 'Chase, Saima \"Ikrik\"']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "Alaska/Alaska_11052024_StateHouseD6.csv": {
+            "bucklin": "['Slaughter, Dawson R.', 'Vance, Sarah L.', 'Johnson, Brent']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "Alaska/Alaska_11082022_SenateDistrictE.csv": {
+            "bucklin": "['Cacy, Roselynn', 'Giessel, Cathy', 'Holland, Roger']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "Alaska/Alaska_11052024_StateHouseD28.csv": {
+            "bucklin": "['Moore, Elexie', 'Menard, Steve', 'Wright, Jessica']",
+            "bucklin_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "Alaska/Alaska_11082022_SenateDistrictN.csv": {
+            "bucklin": "['Wilson, David S.', 'Wright, Stephen', 'Clayton, Scott D.']",
+            "bucklin_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "Alaska/Alaska_11082022_HouseDistrict15.csv": {
+            "bucklin": "['McKay, Thomas W. \"Tom\"', 'Eibeck, David', 'Wells, Denny']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "Alaska/Alaska_11082022_HouseDistrict11.csv": {
+            "bucklin": "['Bieling, Ross P.', 'Coulombe, Julie', 'Featherly, Walter T.']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "Minneapolis/Minneapolis_11022021_ParkBoardDistrict6.csv": {
+            "plurality": "['Risa Hustad']",
+            "plurality_fringe": [
+                1
+            ],
+            "smith_plurality": "['Risa Hustad']",
+            "smith_plurality_fringe": [
+                1
+            ]
+        },
+        "Pierce County, WA/PierceCounty_11042008_CountyCouncilDistrict2.csv": {
+            "bucklin": "['Al Rose', 'Carolyn Merrival', 'Joyce McDonald']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict47.csv": {
+            "bucklin": "['Abbott, Heather', 'Fromuth, Peter J.', 'Bell, Arthur L.']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "Maine/Maine_11082022_CongressionalDistrict2.csv": {
+            "bucklin": "['Bond, Tiffany', 'Golden, Jared Forrest', 'Poliquin, Bruce']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "Maine/Maine_07142020_RepublicanCandidateforUSHouseofRepresentativesDistrict2.csv": {
+            "bucklin": "['Bennett, Adrienne', 'Brakey, Eric L.', 'Crafts, Dale John']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "Maine/Maine_07142020_DemocraticCandidateforMaineStateSenateDistrict11.csv": {
+            "bucklin": "['Stanicki, Robyn M.', 'Pattavina, Charles F.', 'Curry, Glenn Chip']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict49.csv": {
+            "bucklin": "['Arford, Poppy', 'Perreault, Corinne Ann', 'Wilson, Katherine E.']",
+            "bucklin_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "Takoma Park, MD/TakomaPark_11082022_CityCouncilWard3.csv": {
+            "bucklin": "['Alex Hadden', 'Randy Gibson', 'Mimi Diez']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "Bloomington/Bloomington_11072023_SpecialCityCouncilAtLarge.csv": {
+            "bucklin": "['Chao Moua', 'Maxwell Collins', 'Jonathan A. Minks']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "Utah cities/WoodlandHills_11022021_Mayor.csv": {
+            "bucklin": "['BENJAMIN J HILLYARD', 'MIKE LAURITZEN', 'BRENT WINDER']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "Utah cities/ElkRidge_11022021_Mayor.csv": {
+            "bucklin": "['ROBERT HADDOCK', 'GORDON REYNOLDS', 'GEORGE D. POTTER']",
+            "bucklin_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "Minnetonka/Minnetonka_11072023_CityCouncilWard4.csv": {
+            "bucklin": "['Ted Nearman', 'David G. Larson', 'Kissy C. Coakley']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "APA/APA 2021 BOD race1.csv": {
+            "bucklin": "['Nancy M. Sidun PsyD ABPP', 'M. Nicole Coleman PhD', 'Debra M. Kawahara PhD']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "APA/APA 2018 BOD race2.csv": {
+            "bucklin": "['Shannon L. Wiltsey Stirman PhD', 'Kim E. Dixon PhD', 'Barry A. Hong PhD']",
+            "bucklin_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "APA/APA 2019 BOD race2.csv": {
+            "bucklin": "['Susan D. Clayton PhD', 'Guillermo Bernal PhD', 'Eugene Borgida PhD']",
+            "bucklin_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "APA/APA 2017 BOD race2.csv": {
+            "bucklin": "['Mitchell J. Prinstein PhD', 'Michael J. Lawler PhD', 'Richard J. Cohen PhD']",
+            "bucklin_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "APA/APA 2017 BOD race1.csv": {
+            "bucklin": "['Jennifer M. Taylor PhD', 'Amy C. Fineburg PhD', 'Le Ondra Clark Harvey PhD']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "Alameda County/Oakland_11062012_SchoolDirectorDistrict3.csv": {
+            "bucklin": "['JUMOKE HINTON HODGE', 'BENJAMIN LANG', 'RICHARD FUENTES']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "Alameda County/Berkeley_11022010_CityCouncilDistrict7.csv": {
+            "bucklin": "['GEORGE BEIER', 'KRISS WORTHINGTON', \"CECILIA ''CES'' ROSALES\"]",
+            "bucklin_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "Alameda County/Oakland_11032020_SchoolDirectorDist1OaklandRCV.csv": {
+            "bucklin": "['AUSTIN DANNHAUS', 'SAM DAVIS']",
+            "bucklin_fringe": [
+                1,
+                0
+            ]
+        },
+        "Alameda County/Berkeley_11082016_CityCouncilDistrict2.csv": {
+            "plurality": "['DARRYL MOORE']",
+            "plurality_fringe": [
+                1
+            ],
+            "smith_plurality": "['DARRYL MOORE']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "bucklin": "['NANCI IRA ARMSTRONG-TEMPLE', 'CHERYL DAVILA', 'DARRYL MOORE']",
+            "bucklin_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "New York City/NewYorkCity_06222021_DEMCouncilMember12thCouncilDistrict.csv": {
+            "bucklin": "['Shanequa Moore', 'Pamela A. Hamilton-Johnson', 'Kevin Riley']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0
+            ]
+        }
+    }
+}

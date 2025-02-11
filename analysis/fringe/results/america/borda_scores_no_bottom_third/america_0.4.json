@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "election_with_changes": 1,
+        "spoiler_counts": {
+            "2": 1
+        },
+        "method_counts": {
+            "bucklin_fringe": 1,
+            "bucklin": 1
+        }
+    },
+    "winners": {
+        "Alaska/Alaska_11052024_StateHouseD6.csv": {
+            "bucklin": "['Slaughter, Dawson R.', 'Vance, Sarah L.', 'Johnson, Brent']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0
+            ]
+        }
+    }
+}
