@@ -190,15 +190,18 @@ def Borda_AVG(pref_profile, cands_to_keep, num_cands, keep_UWI):
                 cand_scores[candidate] += (max_score - (i - 1)) * count
 
         # Handle unranked candidates by distributing remaining points
+
+        #at the end of this for loop i is either len(rank_columns) or the first position of skipped
+        
         unranked_candidates = [
             cand for cand in cands
             if cand not in pref_profile.loc[k, rank_columns].values
             and (keep_UWI or ('write' not in cand.lower() and cand != 'UWI'))
         ]
-
+        
         # If there are unranked candidates, distribute the remaining points
         if unranked_candidates:
-            remaining_points = sum(max_score - i for i in range(len(rank_columns), len(cands_to_keep)))
+            remaining_points = sum(max_score - j for j in range(i, len(cands_to_keep)))
             points_per_candidate = remaining_points / len(unranked_candidates)
 
             for unranked_cand in unranked_candidates:
