@@ -1,5 +1,5 @@
 #required
-from typing import Optional
+from typing import Optional, Union
 import networkx as nx
 from itertools import combinations
 #-------------------------------------------------------------------------------------------
@@ -23,7 +23,10 @@ from votekit.cleaning import remove_noncands
 from votekit.ballot import Ballot
 from votekit.pref_profile import PreferenceProfile
 
-def process_cands(prof, cands_to_keep):
+def process_cands(
+        prof: PreferenceProfile, 
+        cands_to_keep: list
+    )-> PreferenceProfile:
     if len(cands_to_keep)<len(prof.candidates):
         noncands = [c for c in prof.candidates if c not in cands_to_keep]
         prof = remove_noncands(prof, noncands) ##at this point prof only has cands_to_keep. Will include UWI iff UWI is in cands_to_keep. This profile has no 'skipped' positions
@@ -35,21 +38,28 @@ def process_cands(prof, cands_to_keep):
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 
 #votekit
-def v_profile(filename, to_remove = ["undervote", "overvote", "UWI"]):
+def v_profile(
+        filename: str, 
+        to_remove: list = ["undervote", "overvote", "UWI","uwi"]
+    )-> PreferenceProfile:
     return remove_noncands(new_loader(filename)[0], to_remove)
 
 #pref_voting
 #def p_profile(filename):
 #    return creator.create_profile(filename)
 
+##ALL ELECTION METHODS TAKE EITHER A FILENAME OR A PREFERENCE PROFILE AS INPUT
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 #Plurality 
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 
 def Plurality(
-    prof: PreferenceProfile,
-    cands_to_keep: Optional[list[str]] = None
-):
+    prof: Union[PreferenceProfile, str],
+    cands_to_keep: Optional[list] = None
+)-> set:
+    if type(prof)==str:
+        prof = v_profile(prof)
+    
     if not cands_to_keep:
         cands_to_keep = prof.candidates
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
@@ -68,9 +78,12 @@ def Plurality(
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 
 def IRV(
-    prof: PreferenceProfile,
-    cands_to_keep: Optional[list[str]] = None
-):
+    prof: Union[PreferenceProfile, str],
+    cands_to_keep: Optional[list] = None
+)-> set:
+    if type(prof)==str:
+        prof = v_profile(prof)
+    
     if not cands_to_keep:
         cands_to_keep = prof.candidates
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
@@ -88,9 +101,12 @@ def IRV(
 
 def TopTwo(
     #filename: str,
-    prof: PreferenceProfile,
-    cands_to_keep: Optional[list[str]] = None
-):  
+    prof: Union[PreferenceProfile, str],
+    cands_to_keep: Optional[list] = None
+)-> set:  
+    if type(prof)==str:
+        prof = v_profile(prof)
+    
     if not cands_to_keep:
         cands_to_keep = prof.candidates
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
@@ -112,9 +128,12 @@ def TopTwo(
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 
 def Borda_PM(
-    prof: PreferenceProfile,
-    cands_to_keep: Optional[list[str]] = None #include UWI in this if we want to keep it. If we want to keep everyone feed in full list of candidates
-):
+    prof: Union[PreferenceProfile, str],
+    cands_to_keep: Optional[list] = None #include UWI in this if we want to keep it. If we want to keep everyone feed in full list of candidates
+)-> set:
+    if type(prof)==str:
+        prof = v_profile(prof)
+    
     if not cands_to_keep:
         cands_to_keep = prof.candidates
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
@@ -152,9 +171,12 @@ def Borda_PM(
     
 #Borda OM
 def Borda_OM(
-    prof: PreferenceProfile,
-    cands_to_keep: Optional[list[str]] = None
-):
+    prof: Union[PreferenceProfile, str],
+    cands_to_keep: Optional[list] = None
+)-> set:
+    if type(prof)==str:
+        prof = v_profile(prof)
+    
     if not cands_to_keep:
         cands_to_keep = prof.candidates
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
@@ -193,9 +215,12 @@ def Borda_OM(
 #Borda AVG
 def Borda_AVG(
     #filename: str,
-    prof: PreferenceProfile,
-    cands_to_keep: Optional[list[str]] = None 
-):
+    prof: Union[PreferenceProfile, str],
+    cands_to_keep: Optional[list] = None 
+)-> set:
+    if type(prof)==str:
+        prof = v_profile(prof)
+    
     if not cands_to_keep:
         cands_to_keep = prof.candidates
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
@@ -232,9 +257,12 @@ def Borda_AVG(
 
 #top3 truncation using 3-2-1. converts to 2-1 if we are only keeping 2 candidates
 def Top3Truncation(
-    prof: PreferenceProfile,
-    cands_to_keep: Optional[list[str]] = None
-):
+    prof: Union[PreferenceProfile, str],
+    cands_to_keep: Optional[list] = None
+)-> set:
+    if type(prof)==str:
+        prof = v_profile(prof)
+    
     if not cands_to_keep:
         cands_to_keep = prof.candidates
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
@@ -265,9 +293,13 @@ def Top3Truncation(
 
 #regular Condorcet: returns Condorcet winner if there exists once, else returns set()
 def Condorcet(
-    prof: PreferenceProfile,
-    cands_to_keep: Optional[list[str]] = None
-):
+    prof: Union[PreferenceProfile, str],
+    cands_to_keep: Optional[list] = None
+)-> set:
+    
+    if type(prof)==str:
+        prof = v_profile(prof)
+
     if not cands_to_keep:
         cands_to_keep = prof.candidates
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
@@ -283,9 +315,12 @@ def Condorcet(
 
 #Smith: returns Smith set - custom code
 def Smith(
-    prof: PreferenceProfile,
-    cands_to_keep: Optional[list[str]] = None
-):
+    prof: Union[PreferenceProfile, str],
+    cands_to_keep: Optional[list] = None
+)-> set:
+    if type(prof)==str:
+        prof = v_profile(prof)
+    
     if not cands_to_keep:
         cands_to_keep = prof.candidates
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
@@ -345,9 +380,12 @@ def Smith(
 #Smith Plurality
 def Smith_Plurality(
     #filename: str
-    prof: PreferenceProfile,
-    cands_to_keep: Optional[list[str]] = None
-):
+    prof: Union[PreferenceProfile, str],
+    cands_to_keep: Optional[list] = None
+)-> set:
+    if type(prof)==str:
+        prof = v_profile(prof)
+    
     if not cands_to_keep:
         cands_to_keep = prof.candidates
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
@@ -370,9 +408,12 @@ def Smith_Plurality(
 #Smith-IRV
 def Smith_IRV(
     #filename: str
-    prof: PreferenceProfile,
-    cands_to_keep: Optional[list[str]] = None
-):
+    prof: Union[PreferenceProfile, str],
+    cands_to_keep: Optional[list] = None
+)-> set:
+    if type(prof)==str:
+        prof = v_profile(prof)
+    
     if not cands_to_keep:
         cands_to_keep = prof.candidates
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
@@ -394,9 +435,12 @@ def Smith_IRV(
 #minimax: returns list of minimax winners
 def Minimax(
     #filename: str
-    prof: PreferenceProfile,
-    cands_to_keep: Optional[list[str]] = None
-):
+    prof: Union[PreferenceProfile, str],
+    cands_to_keep: Optional[list] = None
+)-> set:
+    if type(prof)==str:
+        prof = v_profile(prof)
+    
     if not cands_to_keep:
         cands_to_keep = prof.candidates
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
@@ -432,9 +476,12 @@ def Minimax(
 #Smith-minimax
 def Smith_Minimax(
     #filename: str
-    prof: PreferenceProfile,
-    cands_to_keep: Optional[list[str]] = None
-):
+    prof: Union[PreferenceProfile, str],
+    cands_to_keep: Optional[list] = None
+)-> set:
+    if type(prof)==str:
+        prof = v_profile(prof)
+    
     if not cands_to_keep:
         cands_to_keep = prof.candidates
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
@@ -475,9 +522,12 @@ def Smith_Minimax(
 
 #ranked pairs
 def Ranked_Pairs(
-    prof: PreferenceProfile,
-    cands_to_keep: Optional[list[str]] = None
-):
+    prof: Union[PreferenceProfile, str],
+    cands_to_keep: Optional[list] = None
+)-> set:
+    if type(prof)==str:
+        prof = v_profile(prof)
+    
     if not cands_to_keep:
         cands_to_keep = prof.candidates
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
@@ -536,9 +586,12 @@ def Ranked_Pairs(
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 
 def Bucklin(
-    prof: PreferenceProfile,
-    cands_to_keep: Optional[list[str]] = None
-):
+    prof: Union[PreferenceProfile, str],
+    cands_to_keep: Optional[list] = None
+)-> set:
+    if type(prof)==str:
+        prof = v_profile(prof)
+    
     if not cands_to_keep:
         cands_to_keep = prof.candidates
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
@@ -563,9 +616,12 @@ def Bucklin(
 #Approval
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 def Approval(
-    prof: PreferenceProfile,
-    cands_to_keep: Optional[list[str]] = None
-):
+    prof: Union[PreferenceProfile, str],
+    cands_to_keep: Optional[list] = None
+)-> set:
+    if type(prof)==str:
+        prof = v_profile(prof)
+    
     if not cands_to_keep:
         cands_to_keep = prof.candidates
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
@@ -587,8 +643,15 @@ def Approval(
 #Others
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 
-def IRV_With_Explanation(prof):
-    cands_to_keep = prof.candidates
+def IRV_With_Explanation(
+    prof: Union[PreferenceProfile, str],
+    cands_to_keep: Optional[list] = None
+)-> set:
+    if type(prof)==str:
+        prof = v_profile(prof)
+    
+    if not cands_to_keep:
+        cands_to_keep = prof.candidates
     if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
         cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
     prof = process_cands(prof, cands_to_keep)
