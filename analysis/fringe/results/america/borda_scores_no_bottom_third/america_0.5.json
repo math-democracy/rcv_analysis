@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "election_with_changes": 2,
+        "spoiler_counts": {
+            "2": 2
+        },
+        "method_counts": {
+            "bucklin_fringe": 2,
+            "bucklin": 2
+        }
+    },
+    "winners": {
+        "Alaska/Alaska_11082022_HouseDistrict34.csv": {
+            "bucklin": "['Hopkins, Grier H.', 'DeMars, Nate', 'Tomaszewski, Frank J.']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "Alaska/Alaska_11052024_StateHouseD6.csv": {
+            "bucklin": "['Slaughter, Dawson R.', 'Vance, Sarah L.', 'Johnson, Brent']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0
+            ]
+        }
+    }
+}

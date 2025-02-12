@@ -1,0 +1,38 @@
+{
+    "metadata": {
+        "election_with_changes": 3,
+        "spoiler_counts": {
+            "2": 3
+        },
+        "method_counts": {
+            "bucklin_fringe": 3,
+            "bucklin": 3
+        }
+    },
+    "winners": {
+        "Maine/Maine_07142020_RepublicanCandidateforUSHouseofRepresentativesDistrict2.csv": {
+            "bucklin": "['Bennett, Adrienne', 'Brakey, Eric L.', 'Crafts, Dale John']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "Bloomington/Bloomington_11072023_SpecialCityCouncilAtLarge.csv": {
+            "bucklin": "['Chao Moua', 'Maxwell Collins', 'Jonathan A. Minks']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "APA/APA 2019 BOD race2.csv": {
+            "bucklin": "['Susan D. Clayton PhD', 'Guillermo Bernal PhD', 'Eugene Borgida PhD']",
+            "bucklin_fringe": [
+                0,
+                0,
+                1
+            ]
+        }
+    }
+}

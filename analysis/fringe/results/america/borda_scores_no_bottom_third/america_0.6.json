@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "election_with_changes": 8,
+        "spoiler_counts": {
+            "2": 8
+        },
+        "method_counts": {
+            "bucklin_fringe": 8,
+            "bucklin": 8
+        }
+    },
+    "winners": {
+        "St Louis Park/StLouisPark_11022021_CityCouncilWard3.csv": {
+            "bucklin": "['Saul Eugene', 'Jim Leuthner', 'Sue Budd']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "Alaska/Alaska_11082022_HouseDistrict34.csv": {
+            "bucklin": "['Hopkins, Grier H.', 'DeMars, Nate', 'Tomaszewski, Frank J.']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "Alaska/Alaska_11052024_StateHouseD40.csv": {
+            "bucklin": "['Baker, Thomas C. \"Ikaaq\"', 'Burke, Robyn \"Niayuq\"', 'Chase, Saima \"Ikrik\"']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "Alaska/Alaska_11052024_StateHouseD6.csv": {
+            "bucklin": "['Slaughter, Dawson R.', 'Vance, Sarah L.', 'Johnson, Brent']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "Alaska/Alaska_11082022_HouseDistrict11.csv": {
+            "bucklin": "['Bieling, Ross P.', 'Coulombe, Julie', 'Featherly, Walter T.']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "Maine/Maine_11082022_CongressionalDistrict2.csv": {
+            "bucklin": "['Bond, Tiffany', 'Golden, Jared Forrest', 'Poliquin, Bruce']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "Bloomington/Bloomington_11072023_SpecialCityCouncilAtLarge.csv": {
+            "bucklin": "['Chao Moua', 'Maxwell Collins', 'Jonathan A. Minks']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "Minnetonka/Minnetonka_11072023_CityCouncilWard4.csv": {
+            "bucklin": "['Ted Nearman', 'David G. Larson', 'Kissy C. Coakley']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0
+            ]
+        }
+    }
+}

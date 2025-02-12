@@ -1,0 +1,192 @@
+{
+    "metadata": {
+        "election_with_changes": 16,
+        "spoiler_counts": {
+            "4": 8,
+            "2": 7,
+            "6": 1
+        },
+        "method_counts": {
+            "smith_plurality_fringe": 9,
+            "plurality_fringe": 9,
+            "smith_plurality": 9,
+            "plurality": 9,
+            "bucklin_fringe": 8,
+            "bucklin": 8
+        }
+    },
+    "winners": {
+        "moray22/Ward5-HeldonandLaich_file141902.csv": {
+            "plurality": "['NEIL CAMERON (SNP)']",
+            "plurality_fringe": [
+                1
+            ],
+            "smith_plurality": "['NEIL CAMERON (SNP)']",
+            "smith_plurality_fringe": [
+                1
+            ]
+        },
+        "e-lothian22/Ward5-HaddingtonandLammermuir_Ward5.csv": {
+            "plurality": "['George MCGUIRE (Con)']",
+            "plurality_fringe": [
+                1
+            ],
+            "smith_plurality": "['George MCGUIRE (Con)']",
+            "smith_plurality_fringe": [
+                1
+            ]
+        },
+        "s-ayrshire12-ballots/Ward7-MayboleNorthCarrickandCoylton_s-ayrshire12-07.csv": {
+            "bucklin": "['Brian CONNOLLY (Ind)', 'Ann GALBRAITH (Con)', 'William James GRANT (SNP)', 'Sandra GOLDIE (Lab)', 'Mairi LOW (SNP)']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        "e-duns17-ballots/BishopbriggsSouth_e-duns17-05.csv": {
+            "plurality": "['Alan BROWN (Con)']",
+            "plurality_fringe": [
+                1
+            ],
+            "smith_plurality": "['Alan BROWN (Con)']",
+            "smith_plurality_fringe": [
+                1
+            ]
+        },
+        "highland17-ballots/Ward5-WesterRoss,StrathpefferandLochalsh_highland17-05.csv": {
+            "plurality": "['Derek MACLEOD (Con)']",
+            "plurality_fringe": [
+                1
+            ],
+            "smith_plurality": "['Derek MACLEOD (Con)']",
+            "smith_plurality_fringe": [
+                1
+            ]
+        },
+        "renfs22/Ward11-BishoptonBridgeofWeirandLangbank_Preference_profile_for_Ward_11_Bishopton_Bridge_of_Weir_and_Langbank_copy.csv": {
+            "bucklin": "['Grant TOGHILL (LD)', '\\x0cMark DOUGAN (Con)', 'Fiona AIRLIE-NICOLSON (SNP)', 'James MACLAREN (Con)', 'Colin Alan MCCULLOCH (Lab)']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        "edinburgh12-ballots/InverleithWard_edinburgh12-05.csv": {
+            "bucklin": "['John YOUNG (SNP)', 'Tim MCKAY(LD)', 'Iain WHYTE (Con)', 'Lesley HINDS(Lab)', 'Scott DOUGLAS(Con)', 'Nigel BAGSHAW(Grn)', 'Gavin BARRIE(SNP)']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "sc-borders17/Ward2-TweeddaleEast_sc-borders17-02.csv": {
+            "bucklin": "['Amanda Jane KUBIE (LD)', 'Simon RITCHIE (SNP)', 'Robin TATLER (Ind)', 'Stuart BELL (SNP)', 'Shona HASLAM (Con)']",
+            "bucklin_fringe": [
+                0,
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        "edinburgh17-ballots/Ward15-Southside-Newington_edinburgh17-15.csv": {
+            "plurality": "['Cameron ROSE (Con)']",
+            "plurality_fringe": [
+                1
+            ],
+            "smith_plurality": "['Cameron ROSE (Con)']",
+            "smith_plurality_fringe": [
+                1
+            ]
+        },
+        "edinburgh17-ballots/Ward14-Craigentinny-Duddingston_edinburgh17-14.csv": {
+            "plurality": "['John MCLELLAN (Con)']",
+            "plurality_fringe": [
+                1
+            ],
+            "smith_plurality": "['John MCLELLAN (Con)']",
+            "smith_plurality_fringe": [
+                1
+            ]
+        },
+        "edinburgh17-ballots/Ward7-SighthillGorgie_edinburgh17-07.csv": {
+            "plurality": "['Ashley GRACZYK (Con)']",
+            "plurality_fringe": [
+                1
+            ],
+            "smith_plurality": "['Ashley GRACZYK (Con)']",
+            "smith_plurality_fringe": [
+                1
+            ]
+        },
+        "dumgal22/Ward7-MidandUpperNithsdale_ward7.csv": {
+            "bucklin": "['Andrew WOOD (Con)', 'Tony BERRETTI (SNP)', 'Callum JAMIESON (Lab)', 'Kyle THORNTON (Con)', 'Jim DEMPSTER (Ind)']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "dumgal22/Ward5-Abbey_ward5.csv": {
+            "bucklin": "['Robin WISHART (Con)', 'Kim LOWE (SNP)', 'Davie STITT (Lab)', 'Ian BLAKE (Con)', 'Matthew PUMPHREY (LD)']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "scottish by-elections/Ward8-IsleofBute_Argyll Bute by-election Isle of Bute 2021.csv": {
+            "bucklin": "['Dawn MACDONALD (UNKNOWN)', 'Kim FINDLAY (UNKNOWN)', 'Peter WALLACE (UNKNOWN)', 'Fraser GILLIES (UNKNOWN)', 'Liz MCCABE (UNKNOWN)']",
+            "bucklin_fringe": [
+                0,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        "angus12-ballots/MonifiethandSidlaw_angus12-04.csv": {
+            "plurality": "['(Con) Craig FOTHERINGHAM']",
+            "plurality_fringe": [
+                1
+            ],
+            "smith_plurality": "['(Con) Craig FOTHERINGHAM']",
+            "smith_plurality_fringe": [
+                1
+            ]
+        },
+        "fife17-ballots/Ward2-DunfermlineNorth_fife17-02.csv": {
+            "plurality": "['Gavin ELLIS (Con)']",
+            "plurality_fringe": [
+                1
+            ],
+            "smith_plurality": "['Gavin ELLIS (Con)']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "bucklin": "['Fiona Elizabeth FISHER (SNP)', 'Gavin ELLIS (Con)', 'Mags HALL (Grn)', 'Helen LAW (Lab)', 'Bryn JONES (LD)', 'Ian FERGUSON (SNP)', 'Michael BOYD (Lab)']",
+            "bucklin_fringe": [
+                0,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    }
+}

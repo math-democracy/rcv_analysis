@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "election_with_changes": 1,
+        "spoiler_counts": {
+            "2": 1
+        },
+        "method_counts": {
+            "borda-om-no-uwi": 1,
+            "borda-om-no-uwi_fringe": 1
+        }
+    },
+    "winners": {
+        "Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Pittwater.csv": {
+            "borda-om-no-uwi": "['KORZY Miranda']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "metadata": {
+        "election_with_changes": 4,
+        "spoiler_counts": {
+            "2": 4
+        },
+        "method_counts": {
+            "borda-om-no-uwi_fringe": 3,
+            "borda-om-no-uwi": 3,
+            "bucklin": 1,
+            "bucklin_fringe": 1
+        }
+    },
+    "winners": {
+        "Australia_NewSouthWales_Mayorals_2021/City_of_Orange-mayoral-finalpreferencedatafile.csv": {
+            "bucklin": "['SMITH Lesley', 'MILETO Tony', 'JONES Neil', 'SPALDING Amanda', 'WHITTON Jeffery', 'DUFFY Kevin', 'HAMLING Jason']",
+            "bucklin_fringe": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Pittwater.csv": {
+            "borda-om-no-uwi": "['KORZY Miranda']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ]
+        },
+        "Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Hawkesbury.csv": {
+            "borda-om-no-uwi": "['REYNOLDS Peter']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ]
+        },
+        "Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Vaucluse.csv": {
+            "borda-om-no-uwi": "['McEWIN Megan']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ]
+        }
+    }
+}
