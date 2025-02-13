@@ -1,5 +1,6 @@
 import pandas as pd
 import json
+import ast
 
 def count_winners(file):
     df = pd.read_csv(file)
@@ -10,7 +11,7 @@ def count_winners(file):
     
     for _, row in df.iterrows():
         for method in voting_methods:
-            winners = eval(row[method])
+            winners = ast.literal_eval(row[method])
             num_winners = len(winners)
 
             if num_winners in winner_counts[method]:
@@ -27,4 +28,3 @@ def count_winners(file):
     
     print("Winner counts saved to winner_counts.json")
 
-count_winners('./scotland.csv')
