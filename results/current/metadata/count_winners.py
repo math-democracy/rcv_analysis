@@ -3,15 +3,15 @@ import json
 import ast
 
 def count_winners(file):
-    df = pd.read_csv(file)
+    df = pd.read_csv(file,dtype=str)
     
-    voting_methods = df.columns[3:]
+    voting_methods = [c for c in df.columns if c!='file' and c!='Unnamed: 0' and c!='numCands']
         
     winner_counts = {method: {} for method in voting_methods}
     
     for _, row in df.iterrows():
         for method in voting_methods:
-            winners = ast.literal_eval(row[method])
+            winners = [x.strip() for x in ast.literal_eval(row[method])]
             num_winners = len(winners)
 
             if num_winners in winner_counts[method]:
