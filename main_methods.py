@@ -55,7 +55,8 @@ def v_profile(
 
 def Plurality(
     prof: Union[PreferenceProfile, str],
-    cands_to_keep: Optional[list] = None
+    cands_to_keep: Optional[list] = None,
+    tiebreak: Optional[str] = None
 )-> set:
     if type(prof)==str:
         prof = v_profile(prof)
@@ -67,7 +68,7 @@ def Plurality(
 
     prof = process_cands(prof, cands_to_keep)
     
-    elected = list(v.Plurality(profile = prof).election_states[-1].elected[0])[0]
+    elected = list(v.Plurality(profile = prof,tiebreak = tiebreak).election_states[-1].elected[0])[0]
     if not type(elected) is set:
         elected = set([elected])
     
@@ -79,7 +80,8 @@ def Plurality(
 
 def IRV(
     prof: Union[PreferenceProfile, str],
-    cands_to_keep: Optional[list] = None
+    cands_to_keep: Optional[list] = None,
+    tiebreak: Optional[str] = None
 )-> set:
     if type(prof)==str:
         prof = v_profile(prof)
@@ -91,7 +93,7 @@ def IRV(
 
     prof = process_cands(prof, cands_to_keep)
     
-    elected = list(v.IRV(profile = prof).election_states[-1].elected[0])[0]
+    elected = list(v.IRV(profile = prof,tiebreak =tiebreak).election_states[-1].elected[0])[0]
     if not type(elected) is set:
         elected = set([elected])    
     return elected
@@ -102,7 +104,8 @@ def IRV(
 def TopTwo(
     #filename: str,
     prof: Union[PreferenceProfile, str],
-    cands_to_keep: Optional[list] = None
+    cands_to_keep: Optional[list] = None,
+    tiebreak: Optional[str] = None
 )-> set:  
     if type(prof)==str:
         prof = v_profile(prof)
@@ -117,7 +120,7 @@ def TopTwo(
     else:
         prof = process_cands(prof, cands_to_keep)
     
-        elected = list(v.TopTwo(profile = prof).election_states[-1].elected[0])[0]
+        elected = list(v.TopTwo(profile = prof,tiebreak = tiebreak).election_states[-1].elected[0])[0]
         if not type(elected) is set:
             elected = set([elected])
 
@@ -129,7 +132,8 @@ def TopTwo(
 
 def Borda_PM(
     prof: Union[PreferenceProfile, str],
-    cands_to_keep: Optional[list] = None #include UWI in this if we want to keep it. If we want to keep everyone feed in full list of candidates
+    cands_to_keep: Optional[list] = None, #include UWI in this if we want to keep it. If we want to keep everyone feed in full list of candidates
+    tiebreak: Optional[str] = None
 )-> set:
     if type(prof)==str:
         prof = v_profile(prof)
@@ -160,7 +164,7 @@ def Borda_PM(
             vector = list(range(max_score,max_score-i,-1))+[0 for k in range(len(cands_to_keep)-i)] 
         
             p = PreferenceProfile(ballots = new_ballots)
-            el = v.Borda(profile = p, score_vector = vector).election_states[0].scores
+            el = v.Borda(profile = p, score_vector = vector,tiebreak = tiebreak).election_states[0].scores
             for c in cands_to_keep:
                 if c not in el:
                     el[c]=0
@@ -172,7 +176,8 @@ def Borda_PM(
 #Borda OM
 def Borda_OM(
     prof: Union[PreferenceProfile, str],
-    cands_to_keep: Optional[list] = None
+    cands_to_keep: Optional[list] = None,
+    tiebreak: Optional[str] = None
 )-> set:
     if type(prof)==str:
         prof = v_profile(prof)
@@ -203,7 +208,7 @@ def Borda_OM(
         if new_ballots!=[]:
             vector = list(range(max_score,max_score-i,-1))+[max_score-i for k in range(len(cands_to_keep)-i)] 
             p = PreferenceProfile(ballots = new_ballots)
-            el = v.Borda(profile = p, score_vector = vector).election_states[0].scores
+            el = v.Borda(profile = p, score_vector = vector,tiebreak=tiebreak).election_states[0].scores
             for c in cands_to_keep:
                 if c not in el:
                     el[c]=0
@@ -216,7 +221,8 @@ def Borda_OM(
 def Borda_AVG(
     #filename: str,
     prof: Union[PreferenceProfile, str],
-    cands_to_keep: Optional[list] = None 
+    cands_to_keep: Optional[list] = None,
+    tiebreak: Optional[str] = None 
 )-> set:
     if type(prof)==str:
         prof = v_profile(prof)
@@ -246,7 +252,7 @@ def Borda_AVG(
         if new_ballots!=[]:
             vector = list(range(max_score,max_score-i,-1))+[(max_score-i)/2 for k in range(len(cands_to_keep)-i)] 
             p = PreferenceProfile(ballots = new_ballots)
-            el = v.Borda(profile = p, score_vector = vector).election_states[0].scores
+            el = v.Borda(profile = p, score_vector = vector,tiebreak=tiebreak).election_states[0].scores
             for c in cands_to_keep:
                 if c not in el:
                     el[c]=0
@@ -258,7 +264,8 @@ def Borda_AVG(
 #top3 truncation using 3-2-1. converts to 2-1 if we are only keeping 2 candidates
 def Top3Truncation(
     prof: Union[PreferenceProfile, str],
-    cands_to_keep: Optional[list] = None
+    cands_to_keep: Optional[list] = None,
+    tiebreak: Optional[str] = None
 )-> set:
     if type(prof)==str:
         prof = v_profile(prof)
@@ -280,7 +287,7 @@ def Top3Truncation(
         
     else:
         vector = [3,2,1]+[0 for i in range(len(prof.candidates) -3)]
-    elected = list(v.Borda(profile = prof, score_vector = vector).election_states[-1].elected[0])[0]
+    elected = list(v.Borda(profile = prof, score_vector = vector,tiebreak=tiebreak).election_states[-1].elected[0])[0]
     if not type(elected) is set:
         elected = set([elected])
     
@@ -294,7 +301,8 @@ def Top3Truncation(
 #regular Condorcet: returns Condorcet winner if there exists once, else returns set()
 def Condorcet(
     prof: Union[PreferenceProfile, str],
-    cands_to_keep: Optional[list] = None
+    cands_to_keep: Optional[list] = None,
+    tiebreak: Optional[str] = None
 )-> set:
     
     if type(prof)==str:
@@ -316,7 +324,8 @@ def Condorcet(
 #Smith: returns Smith set - custom code
 def Smith(
     prof: Union[PreferenceProfile, str],
-    cands_to_keep: Optional[list] = None
+    cands_to_keep: Optional[list] = None,
+    tiebreak: Optional[str] = None
 )-> set:
     if type(prof)==str:
         prof = v_profile(prof)
@@ -381,7 +390,8 @@ def Smith(
 def Smith_Plurality(
     #filename: str
     prof: Union[PreferenceProfile, str],
-    cands_to_keep: Optional[list] = None
+    cands_to_keep: Optional[list] = None,
+    tiebreak: Optional[str] = None
 )-> set:
     if type(prof)==str:
         prof = v_profile(prof)
@@ -398,7 +408,7 @@ def Smith_Plurality(
     prof = process_cands(prof, smith_set)
     
 
-    elected = list(v.Plurality(profile = prof).election_states[-1].elected[0])[0]
+    elected = list(v.Plurality(profile = prof,tiebreak=tiebreak).election_states[-1].elected[0])[0]
     if not type(elected) is set:
         elected = set([elected])
     
@@ -409,7 +419,8 @@ def Smith_Plurality(
 def Smith_IRV(
     #filename: str
     prof: Union[PreferenceProfile, str],
-    cands_to_keep: Optional[list] = None
+    cands_to_keep: Optional[list] = None,
+    tiebreak: Optional[str] = None
 )-> set:
     if type(prof)==str:
         prof = v_profile(prof)
@@ -426,7 +437,7 @@ def Smith_IRV(
     prof = process_cands(prof, smith_set)
     
 
-    elected = list(v.IRV(profile = prof).election_states[-1].elected[0])[0]
+    elected = list(v.IRV(profile = prof,tiebreak=tiebreak).election_states[-1].elected[0])[0]
     if not type(elected) is set:
         elected = set([elected])
     
@@ -436,7 +447,8 @@ def Smith_IRV(
 def Minimax(
     #filename: str
     prof: Union[PreferenceProfile, str],
-    cands_to_keep: Optional[list] = None
+    cands_to_keep: Optional[list] = None,
+    tiebreak: Optional[str] = None
 )-> set:
     if type(prof)==str:
         prof = v_profile(prof)
@@ -477,7 +489,8 @@ def Minimax(
 def Smith_Minimax(
     #filename: str
     prof: Union[PreferenceProfile, str],
-    cands_to_keep: Optional[list] = None
+    cands_to_keep: Optional[list] = None,
+    tiebreak: Optional[str] = None
 )-> set:
     if type(prof)==str:
         prof = v_profile(prof)
@@ -523,7 +536,8 @@ def Smith_Minimax(
 #ranked pairs
 def Ranked_Pairs(
     prof: Union[PreferenceProfile, str],
-    cands_to_keep: Optional[list] = None
+    cands_to_keep: Optional[list] = None,
+    tiebreak: Optional[str] = None
 )-> set:
     if type(prof)==str:
         prof = v_profile(prof)
@@ -587,7 +601,8 @@ def Ranked_Pairs(
 
 def Bucklin(
     prof: Union[PreferenceProfile, str],
-    cands_to_keep: Optional[list] = None
+    cands_to_keep: Optional[list] = None,
+    tiebreak: Optional[str] = None
 )-> set:
     if type(prof)==str:
         prof = v_profile(prof)
@@ -605,7 +620,7 @@ def Bucklin(
         bal = prof.ballots
         for b in bal:
             b= Ballot(ranking = b.ranking[:i+1], weight = b.weight)
-        el_scores = v.Borda(profile = prof, score_vector = [1 for k in range(i+1)]).election_states[0].scores
+        el_scores = v.Borda(profile = prof, score_vector = [1 for k in range(i+1)],tiebreak=tiebreak).election_states[0].scores
         if max(el_scores.values())>maj:
             elected = set([c for c in el_scores if el_scores[c]==max(el_scores.values()) and c!="skipped"])
             break
@@ -617,7 +632,8 @@ def Bucklin(
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 def Approval(
     prof: Union[PreferenceProfile, str],
-    cands_to_keep: Optional[list] = None
+    cands_to_keep: Optional[list] = None,
+    tiebreak: Optional[str] = None
 )-> set:
     if type(prof)==str:
         prof = v_profile(prof)
@@ -645,7 +661,8 @@ def Approval(
 
 def IRV_With_Explanation(
     prof: Union[PreferenceProfile, str],
-    cands_to_keep: Optional[list] = None
+    cands_to_keep: Optional[list] = None,
+    tiebreak: Optional[str] = None
 )-> set:
     if type(prof)==str:
         prof = v_profile(prof)
@@ -656,7 +673,7 @@ def IRV_With_Explanation(
         cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
     prof = process_cands(prof, cands_to_keep)
     
-    election = str(v.IRV(profile=prof))
+    election = str(v.IRV(profile=prof,tiebreak = tiebreak))
 
     election_dict = {}
     i = 0
