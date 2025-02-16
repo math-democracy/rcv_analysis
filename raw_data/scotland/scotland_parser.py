@@ -23,17 +23,15 @@ def parse_file(filepath):
         i += 1
     
     candidates = []
-    for line in lines[i+1:-1]:
+    for line in lines[i+1:]: #updated to lines[i+1:] from lines[i+1:-1] since no final line in parser
         candidate = line.strip().strip('"')
         candidates.append(candidate.replace('"', ''))
     
-    county = lines[-1]
     return {
         "num_positions": num_positions,
         "num_candidates": num_candidates,
         "ballots": ballots,
         "candidates": candidates,
-        "county": county
     }
 
 
@@ -142,15 +140,14 @@ def parser(infilepath, output_folder):
     # if random_int == 2:
     print(infilepath)
     data = parse_file(infilepath)
-    county = data["county"].replace(" ", "").replace("/", "").replace('"', '')
     file_name = os.path.splitext(os.path.basename(infilepath))[0]
-    outfilepath = f'{output_folder}/{county}_{file_name}.csv' 
+    outfilepath = f'{output_folder}/{file_name}.csv' 
     print("Converting blt to csv for " + file_name)
     print(validation_test(data))
     parse_to_csv(data, outfilepath)
     print("Data exported to " + outfilepath)    
 
 
-# test_file = '/Users/belle/Downloads/Scotland data, LEAP parties/n-lanarks22/Preference Profile WArd 7 Coatbridge North.csv'
+# test_file = '/Users/belle/Desktop/build/rcv_proposal/raw_data/preference_profiles/scotland/aberdeen2017/AiryhallBroomhillGarthdeeWard_aberdeen17-11.csv'
 
 # parser(test_file, './data')
