@@ -9,11 +9,11 @@ import pandas as pd
 
 num_cands_to_keep = 4
 
-data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/results/scotland.csv' # output file
-root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data' # data (ex: /Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/australia/processed_data)
+data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/results/civs.csv' # output file
+root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/civs/processed_data' # data (ex: /Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/australia/processed_data)
 
-error_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/results/supporting_files/scotland_error.txt'
-processed_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/results/supporting_files/scotland_processed.txt'
+error_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/results/supporting_files/civs_error.txt'
+processed_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/results/supporting_files/civs_processed.txt'
 all_data = []
 processed = []
 error_d = []
@@ -33,7 +33,7 @@ def get_top3(df):
     return list(value_counts.to_dict().keys())
     
 def run_voting_methods(full_path):
-    df = pd.read_csv(full_path)
+    df = pd.read_csv(full_path, dtype=str)
 
     columns = [c for c in df.columns if 'rank' in c]
     d_profile = df[columns]

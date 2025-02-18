@@ -1,7 +1,6 @@
 import sys
 sys.path.append('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal')
-import main_methods3 as mm
-import david_methods as dm
+import main_methods as mm
 import votekit.elections as v
 import pandas as pd
 import multiprocessing
@@ -10,20 +9,15 @@ import os
 
 num_cands_to_keep = 4
 
-data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/new/results/australia_results_top{num_cands_to_keep}.csv'
+data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/australia_results_top{num_cands_to_keep}.csv'
 root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/australia/processed_data'
 
-error_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/new/results/supporting_files/australia_error.txt'
-processed_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/new/results/supporting_files/australia_processed.txt'
+error_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/supporting_files/australia_error.txt'
+processed_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/supporting_files/australia_processed.txt'
 all_data = []
 
 processed = []
-if 'american' in data_file:
-    error_d = ['Portland_D3_2024.csv', 'Portland_D2_2024.csv', 'PortlandOR_110524_Mayor.csv', 'Portland_D4_2024.csv', 'SanFrancisco_11052024_Mayor.csv', 'NewYorkCity_06222021_DEMMayorCitywide.csv']
-elif 'australia' in data_file:
-    error_d = ['BallotPaperDetails-Werribee with candidates.csv', 'BallotPaperDetails-Point Cook with candidates.csv', 'BallotPaperDetails-Melton with candidates.csv']
-else:
-    error_d = []  
+error_d = []
          
 def file_less_than_3mb(file_path):
     try:
@@ -37,7 +31,7 @@ def get_cands_to_keep(profile, num_cands, num_cands_to_keep):
     # get top4 plurality winners
         # if there are less than 5 candidates, then top4 and top5 are both the whole candidate list
     if num_cands > num_cands_to_keep:
-        cands_to_keep = v.Plurality(profile=profile, m=num_cands_to_keep).election_states[-1].elected
+        cands_to_keep = v.Plurality(profile=profile, m=num_cands_to_keep, tiebreak='first_place').election_states[-1].elected
         cands_to_keep = [list(w)[0] for w in cands_to_keep]
     else:
         cands_to_keep = profile.candidates
@@ -65,42 +59,52 @@ def run_voting_methods(full_path):
     data['numCands'] = num_cands
 
     # get result of election considering all candidates
-    data['plurality'] = list(mm.Plurality(prof=v))
-    data['IRV'] = list(mm.IRV(prof=v))
-    data['top-two'] = list(mm.TopTwo(prof=v))
-    data['borda-pm'] = list(dm.Borda_PM(d_profile, candidates, num_cands))
-    data['borda-om-no-uwi'] = list(dm.Borda_OM(d_profile, candidates, num_cands, False))
-    data['borda-avg-no-uwi'] = list(dm.Borda_AVG(d_profile, candidates, num_cands, False))
-    data['top-3-truncation'] = list(mm.Top3Truncation(prof=v))
-    data['condorcet'] = list(mm.Condorcet(prof=v))
-    data['minimax'] = list(mm.Minimax(prof=v))
-    data['smith_plurality'] = list(mm.Smith_Plurality(prof=v))
-    data['smith_irv'] = list(mm.Smith_IRV(prof=v))
-    data['smith-minimax'] = list(mm.Smith_Minimax(prof=v))
-    data['ranked-pairs'] = list(mm.Ranked_Pairs(prof=v))
-    data['bucklin'] = list(mm.Bucklin(prof=v))
-    data['approval'] = list(mm.Ranked_Pairs(prof=v))
+    data['plurality'] = list(mm.Plurality(prof=v,tiebreak='first_place'))
+    data['IRV'] = list(mm.IRV(prof=v,tiebreak='first_place'))
+    data['top-two'] = list(mm.TopTwo(prof=v,tiebreak='first_place'))
+    data['borda-pm'] = list(mm.Borda_PM(prof=v, tiebreak='first_place'))
+    data['borda-om-no-uwi'] = list(mm.Borda_OM(prof=v, tiebreak='first_place'))
+    data['borda-avg-no-uwi'] = list(mm.Borda_AVG(prof=v, tiebreak='first_place'))
+    data['top-3-truncation'] = mm.Top3Truncation(prof=v,tiebreak='first_place')
+    # sometimes top-3-trunc returns a list not a set
+    if isinstance(data['top-3-truncation'], str):
+        data['top-3-truncation'] = [data['top-3-truncation']]
+    else:
+        data['top-3-truncation'] = list(data['top-3-truncation'])
+    data['condorcet'] = list(mm.Condorcet(prof=v,tiebreak='first_place'))
+    data['minimax'] = list(mm.Minimax(prof=v,tiebreak='first_place'))
+    data['smith_plurality'] = list(mm.Smith_Plurality(prof=v,tiebreak='first_place'))
+    data['smith_irv'] = list(mm.Smith_IRV(prof=v,tiebreak='first_place'))
+    data['smith-minimax'] = list(mm.Smith_Minimax(prof=v,tiebreak='first_place'))
+    data['ranked-pairs'] = list(mm.Ranked_Pairs(prof=v,tiebreak='first_place'))
+    data['bucklin'] = list(mm.Bucklin(prof=v, tiebreak='first_place'))
+    data['approval'] = list(mm.Ranked_Pairs(prof=v,tiebreak='first_place'))
 
     # get top 4 based on plurality score
     cands_to_keep = get_cands_to_keep(v, len(v.candidates), 4)
     
     print(cands_to_keep)
 
-    data[f'top{num_cands_to_keep}_plurality'] = list(mm.Plurality(prof=v, cands_to_keep=cands_to_keep))
-    data[f'top{num_cands_to_keep}_IRV'] = list(mm.IRV(prof=v, cands_to_keep=cands_to_keep))
-    data[f'top{num_cands_to_keep}_top-two'] = list(mm.TopTwo(prof=v, cands_to_keep=cands_to_keep))
-    data[f'top{num_cands_to_keep}_borda-pm'] = list(dm.Borda_PM(d_profile, cands_to_keep, num_cands))
-    data[f'top{num_cands_to_keep}_borda-om-no-uwi'] = list(dm.Borda_OM(d_profile, cands_to_keep, num_cands, False))
-    data[f'top{num_cands_to_keep}_borda-avg-no-uwi'] = list(dm.Borda_AVG(d_profile, cands_to_keep, num_cands, False))
-    data[f'top{num_cands_to_keep}_top-3-truncation'] = list(mm.Top3Truncation(prof=v, cands_to_keep=cands_to_keep))
-    data[f'top{num_cands_to_keep}_condorcet'] = list(mm.Condorcet(prof=v, cands_to_keep=cands_to_keep))
-    data[f'top{num_cands_to_keep}_minimax'] = list(mm.Minimax(prof=v, cands_to_keep=cands_to_keep))
-    data[f'top{num_cands_to_keep}_smith_plurality'] = list(mm.Smith_Plurality(prof=v, cands_to_keep=cands_to_keep))
-    data[f'top{num_cands_to_keep}_smith_irv'] = list(mm.Smith_IRV(prof=v, cands_to_keep=cands_to_keep))
-    data[f'top{num_cands_to_keep}_smith-minimax'] = list(mm.Smith_Minimax(prof=v, cands_to_keep=cands_to_keep))
-    data[f'top{num_cands_to_keep}_ranked-pairs'] = list(mm.Ranked_Pairs(prof=v, cands_to_keep=cands_to_keep))
-    data[f'top{num_cands_to_keep}_bucklin'] = list(mm.Bucklin(prof=v, cands_to_keep=cands_to_keep))
-    data[f'top{num_cands_to_keep}_approval'] = list(mm.Ranked_Pairs(prof=v, cands_to_keep=cands_to_keep))
+    data[f'top{num_cands_to_keep}_plurality'] = list(mm.Plurality(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
+    data[f'top{num_cands_to_keep}_IRV'] = list(mm.IRV(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
+    data[f'top{num_cands_to_keep}_top-two'] = list(mm.TopTwo(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
+    data[f'top{num_cands_to_keep}_borda-pm'] = list(mm.Borda_PM(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
+    data[f'top{num_cands_to_keep}_borda-om-no-uwi'] = list(mm.Borda_OM(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
+    data[f'top{num_cands_to_keep}_borda-avg-no-uwi'] = list(mm.Borda_AVG(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
+    data[f'top{num_cands_to_keep}_top-3-truncation'] = mm.Top3Truncation(prof=v, cands_to_keep=cands_to_keep,tiebreak='first_place')
+        # sometimes top-3-trunc returns a list not a set
+    if isinstance(data[f'top{num_cands_to_keep}_top-3-truncation'], str):
+        data[f'top{num_cands_to_keep}_top-3-truncation'] = [data[f'top{num_cands_to_keep}_top-3-truncation']]
+    else:
+        data[f'top{num_cands_to_keep}_top-3-truncation'] = list(data[f'top{num_cands_to_keep}_top-3-truncation'])
+    data[f'top{num_cands_to_keep}_condorcet'] = list(mm.Condorcet(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
+    data[f'top{num_cands_to_keep}_minimax'] = list(mm.Minimax(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
+    data[f'top{num_cands_to_keep}_smith_plurality'] = list(mm.Smith_Plurality(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
+    data[f'top{num_cands_to_keep}_smith_irv'] = list(mm.Smith_IRV(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
+    data[f'top{num_cands_to_keep}_smith-minimax'] = list(mm.Smith_Minimax(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
+    data[f'top{num_cands_to_keep}_ranked-pairs'] = list(mm.Ranked_Pairs(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
+    data[f'top{num_cands_to_keep}_bucklin'] = list(mm.Bucklin(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
+    data[f'top{num_cands_to_keep}_approval'] = list(mm.Ranked_Pairs(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
     
     # column_order = ['file','plurality',
     #                 f'top{num_cands_to_keep}_plurality','IRV',f'top{num_cands_to_keep}_IRV',
