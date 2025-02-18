@@ -104,8 +104,8 @@ def run_voting_methods(full_path):
     else:
         data[f'{method}_rank'] = "multiple"
 
-    method = 'borda-om-no-uwi'
-    data['borda-om-no-uwi'] = list(mm.Borda_OM(prof=v, tiebreak='first_place'))
+    method = 'borda-om'
+    data['borda-om'] = list(mm.Borda_OM(prof=v, tiebreak='first_place'))
     if len(data[f'{method}']) == 1:
         if data[f'{method}'][0] is None:
             data[f'{method}_rank'] = None
@@ -114,8 +114,8 @@ def run_voting_methods(full_path):
     else:
         data[f'{method}_rank'] = "multiple"
 
-    method = 'borda-avg-no-uwi'
-    data['borda-avg-no-uwi'] = list(mm.Borda_AVG(prof=v, tiebreak='first_place'))
+    method = 'borda-avg'
+    data['borda-avg'] = list(mm.Borda_AVG(prof=v, tiebreak='first_place'))
     if len(data[f'{method}']) == 1:
         if data[f'{method}'][0] is None:
             data[f'{method}_rank'] = None

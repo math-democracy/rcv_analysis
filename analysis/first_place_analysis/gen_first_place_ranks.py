@@ -5,6 +5,7 @@ import json
 american_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/american/processed_data'
 australia_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/australia/processed_data'
 scotland_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data'
+civs_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/civs/processed_data'
 
 output_data = {}
 
@@ -51,11 +52,26 @@ def main():
                 
                 scotland[full_path.replace('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/', '')] = rank
 
+    civs = {}
+    for dirpath, dirnames, filenames in os.walk(civs_dir):
+        for filename in filenames:
+            print(filename)
+            if filename.endswith('.csv'):
+                full_path = os.path.join(dirpath, filename)
+
+                df = pd.read_csv(full_path, low_memory=False)
+                value_counts = df['rank1'].value_counts(ascending=False)
+                # return list of candidates in descending order of first place votes
+                rank = value_counts.to_dict()
+                
+                civs[full_path.replace('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/', '')] = rank
+
     output_data = {"american": american,
                    "australia": australia,
-                   "scotland": scotland}
+                   "scotland": scotland,
+                   "civs": civs}
     
-    output_file = "/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/newest/results/first_place_ranks.json"
+    output_file = "/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/first_place_ranks.json"
     with open(output_file, "w") as f:
         json.dump(output_data, f, indent=4)
 

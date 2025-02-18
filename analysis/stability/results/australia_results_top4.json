@@ -1,0 +1,1161 @@
+{
+    "metadata": {
+        "total_elections": 327,
+        "elections_with_changes": 47,
+        "method_counts": {
+            "plurality": 1,
+            "IRV": 0,
+            "top-two": 0,
+            "borda-pm": 2,
+            "borda-om-no-uwi": 29,
+            "borda-avg-no-uwi": 4,
+            "top-3-truncation": 5,
+            "condorcet": 0,
+            "minimax": 0,
+            "smith_plurality": 0,
+            "smith_irv": 0,
+            "smith-minimax": 0,
+            "ranked-pairs": 0,
+            "bucklin": 13,
+            "approval": 0
+        }
+    },
+    "changes": {
+        "raw_data/australia/processed_data/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Brighton with candidates.csv": {},
+        "raw_data/australia/processed_data/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Northcote with candidates.csv": {
+            "top-3-truncation": {
+                "numCands": 12,
+                "candidates": {
+                    "Kat Theophanous": 17303,
+                    "Campbell Gome": 12797,
+                    "Stewart Todhunter": 5205,
+                    "Keith Larkin": 2776,
+                    "April Clarke": 1539,
+                    "Tim Oseckas": 757,
+                    "Anastacia Ntouni": 729,
+                    "Anthony Cave": 530,
+                    "Adrian Whitehead": 518,
+                    "Katherine Ashton": 408,
+                    "Ashish Verma": 80
+                },
+                "baseline_winner": "['Kat Theophanous']",
+                "top4": "['Campbell Gome']"
+            },
+            "bucklin": {
+                "numCands": 12,
+                "candidates": {
+                    "Kat Theophanous": 17303,
+                    "Campbell Gome": 12797,
+                    "Stewart Todhunter": 5205,
+                    "Keith Larkin": 2776,
+                    "April Clarke": 1539,
+                    "Tim Oseckas": 757,
+                    "Anastacia Ntouni": 729,
+                    "Anthony Cave": 530,
+                    "Adrian Whitehead": 518,
+                    "Katherine Ashton": 408,
+                    "Ashish Verma": 80
+                },
+                "baseline_winner": "['Kat Theophanous']",
+                "top4": "['Campbell Gome']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Hawthorn with candidates.csv": {
+            "borda-pm": {
+                "numCands": 9,
+                "candidates": {
+                    "John Pesutto": 18728,
+                    "John Kennedy ": 9799,
+                    "Melissa Lowe": 8851,
+                    "Nick Savage": 4927,
+                    "Faith Fuhrer": 660,
+                    "Richard Peppard": 583,
+                    "Ken Triantafillis": 408,
+                    "Stratton": 354
+                },
+                "baseline_winner": "['John Pesutto']",
+                "top4": "['Melissa Lowe']"
+            },
+            "borda-om-no-uwi": {
+                "numCands": 9,
+                "candidates": {
+                    "John Pesutto": 18728,
+                    "John Kennedy ": 9799,
+                    "Melissa Lowe": 8851,
+                    "Nick Savage": 4927,
+                    "Faith Fuhrer": 660,
+                    "Richard Peppard": 583,
+                    "Ken Triantafillis": 408,
+                    "Stratton": 354
+                },
+                "baseline_winner": "['John Pesutto']",
+                "top4": "['Melissa Lowe']"
+            },
+            "borda-avg-no-uwi": {
+                "numCands": 9,
+                "candidates": {
+                    "John Pesutto": 18728,
+                    "John Kennedy ": 9799,
+                    "Melissa Lowe": 8851,
+                    "Nick Savage": 4927,
+                    "Faith Fuhrer": 660,
+                    "Richard Peppard": 583,
+                    "Ken Triantafillis": 408,
+                    "Stratton": 354
+                },
+                "baseline_winner": "['John Pesutto']",
+                "top4": "['Melissa Lowe']"
+            },
+            "top-3-truncation": {
+                "numCands": 9,
+                "candidates": {
+                    "John Pesutto": 18728,
+                    "John Kennedy ": 9799,
+                    "Melissa Lowe": 8851,
+                    "Nick Savage": 4927,
+                    "Faith Fuhrer": 660,
+                    "Richard Peppard": 583,
+                    "Ken Triantafillis": 408,
+                    "Stratton": 354
+                },
+                "baseline_winner": "['John Pesutto']",
+                "top4": "['Melissa Lowe']"
+            },
+            "bucklin": {
+                "numCands": 9,
+                "candidates": {
+                    "John Pesutto": 18728,
+                    "John Kennedy ": 9799,
+                    "Melissa Lowe": 8851,
+                    "Nick Savage": 4927,
+                    "Faith Fuhrer": 660,
+                    "Richard Peppard": 583,
+                    "Ken Triantafillis": 408,
+                    "Stratton": 354
+                },
+                "baseline_winner": "['John Pesutto']",
+                "top4": "['Melissa Lowe']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Preston with Candidates.csv": {
+            "bucklin": {
+                "numCands": 11,
+                "candidates": {
+                    "Nathan Lambert": 14999,
+                    "Amanda Paliouras": 6883,
+                    "Patchouli Paterson": 6027,
+                    "Gaetano Greco": 5473,
+                    "Steph Price": 2458,
+                    "Angelique Matias": 1150,
+                    "Carmen Lahiff-Jenkins": 890,
+                    "Raouf Soliman": 885,
+                    "Rachel Unicomb": 822,
+                    "Brian Sanaghan": 270
+                },
+                "baseline_winner": "['Nathan Lambert']",
+                "top4": "['Patchouli Paterson']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Ballina-mayoral-finalpreferencedatafile (1).csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/The_Hills_Shire-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Nambucca_Valley-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Sydney-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Coffs_Harbour-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Lismore-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Eurobodalla-mayoral-finalpreferencedatafile.csv": {
+            "bucklin": {
+                "numCands": 8,
+                "candidates": {
+                    "HATCHER Mat": 5583,
+                    "POLLOCK Rob": 4555,
+                    "STARMER Karyn": 4377,
+                    "HARRISON N (Tubby)": 3716,
+                    "GRACE David": 3715,
+                    "WORTHINGTON Alison": 2947,
+                    "SMITH Gary": 633
+                },
+                "baseline_winner": "['STARMER Karyn']",
+                "top4": "['HATCHER Mat']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Shellharbour-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Singleton-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Uralla-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Shoalhaven-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Port_Macquarie-Hastings-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Richmond_Valley-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Lake_Macquarie-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Port_Stephens-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Wollondilly-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Griffith-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Hunters_Hill-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Cessnock-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Newcastle-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Willoughby-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Maitland-mayoral-finalpreferencedatafile.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 8,
+                "candidates": {
+                    "PENFOLD Philip": 18569,
+                    "BAKER Loretta": 17133,
+                    "MITCHELL Ben": 7888,
+                    "BROWN John": 3715,
+                    "COOPER Michael": 3427,
+                    "BURKE Brian": 2096,
+                    "SAFFARI Shahriar (Sean)": 1353
+                },
+                "baseline_winner": "['PENFOLD Philip']",
+                "top4": "['BAKER Loretta']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Broken_Hill-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Bellingen-mayoral-finalpreferencedatafile (1).csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Byron-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Orange-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Hornsby-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Kempsey-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Burwood-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Wollongong-mayoral-finalpreferencedatafile.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 7,
+                "candidates": {
+                    "BRADBERY Gordon": 38741,
+                    "BROWN Tania": 36430,
+                    "DORAHY John": 24434,
+                    "COX Mithra": 16539,
+                    "ANTHONY Andrew": 6454,
+                    "GLYKIS Marie": 4642
+                },
+                "baseline_winner": "['BROWN Tania']",
+                "top4": "['BRADBERY Gordon']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Liverpool-mayoral-finalpreferencedatafile.csv": {
+            "borda-avg-no-uwi": {
+                "numCands": 6,
+                "candidates": {
+                    "MANNOUN Ned": 48112,
+                    "HAGARTY Nathan": 43870,
+                    "ANDJELKOVIC Milomir (Michael)": 9770,
+                    "HARLE Peter": 8254,
+                    "MORSHED Asm": 5171
+                },
+                "baseline_winner": "['HAGARTY Nathan']",
+                "top4": "['MANNOUN Ned']"
+            },
+            "bucklin": {
+                "numCands": 6,
+                "candidates": {
+                    "MANNOUN Ned": 48112,
+                    "HAGARTY Nathan": 43870,
+                    "ANDJELKOVIC Milomir (Michael)": 9770,
+                    "HARLE Peter": 8254,
+                    "MORSHED Asm": 5171
+                },
+                "baseline_winner": "['MANNOUN Ned']",
+                "top4": "['HAGARTY Nathan']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_2017_ByElections/SB1702 LA Pref Data_NA_Cootamundra.csv": {},
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_2017_ByElections/SB1702 LA Pref Data_NA_Murray.csv": {
+            "bucklin": {
+                "numCands": 7,
+                "candidates": {
+                    "EVANS Austin": 18548,
+                    "DALTON Helen": 14332,
+                    "KIDD Michael": 9324,
+                    "MILLS Brian": 1363,
+                    "ROBINSON Peter": 1072,
+                    "GOODLASS Ray": 912
+                },
+                "baseline_winner": "['EVANS Austin']",
+                "top4": "['DALTON Helen']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_2017_ByElections/SB1701 LA Pref Data_NA_Gosford.csv": {},
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_2017_ByElections/SB1701 LA Pref Data_NA_North Shore.csv": {
+            "bucklin": {
+                "numCands": 9,
+                "candidates": {
+                    "WILSON Felicity": 18081,
+                    "CORRIGAN Carolyn": 10122,
+                    "ALICK Justin": 6723,
+                    "MUTTON Ian": 3456,
+                    "FINE Harry": 1182,
+                    "BEAUMONT OWLES Brian": 998,
+                    "LESSING Ila": 911,
+                    "NILE Silvana": 819
+                },
+                "baseline_winner": "['WILSON Felicity']",
+                "top4": "['CORRIGAN Carolyn']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_2017_ByElections/SB1701 LA Pref Data_NA_Manly.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 13,
+                "candidates": {
+                    "GRIFFIN James": 18775,
+                    "RIDGE Kathryn": 9332,
+                    "WILLIAMS ROLDAN Clara": 7855,
+                    "DELEZIO Ron": 2375,
+                    "BROMSON Kerry": 1087,
+                    "ROBERTSON Ellie": 946,
+                    "JACKMAN Haris": 767,
+                    "WRIGHT Annie": 759,
+                    "COOK John": 306,
+                    "CLARE Brian": 294,
+                    "BUSH W": 208,
+                    "WATERSON Victor": 123
+                },
+                "baseline_winner": "['RIDGE Kathryn']",
+                "top4": "['GRIFFIN James']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_2017_ByElections/SB1702 LA Pref Data_NA_Blacktown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Murray.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Sydney.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Newtown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Balmain.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Camden.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 8,
+                "candidates": {
+                    "SIDGREAVES Peter": 26999,
+                    "QUINNELL Sally": 18886,
+                    "CASEY Ben": 8330,
+                    "SIMPSON Andrew": 4048,
+                    "STEWART Karen": 2359,
+                    "ARAGONA Daniel": 1432,
+                    "SAJN Danica": 718
+                },
+                "baseline_winner": "['QUINNELL Sally']",
+                "top4": "['SIDGREAVES Peter']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Maitland.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Ku-ring-gai.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Bega.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Orange.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Goulburn.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Kiama.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Wollondilly.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Fairfield.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Coogee.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Cessnock.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Maroubra.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data The Entrance.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Bathurst.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Oatley.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Swansea.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Blue Mountains.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Miranda.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Auburn.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Barwon.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lakemba.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Mount Druitt.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Pittwater.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 9,
+                "candidates": {
+                    "STOKES Robert": 28170,
+                    "KORZY Miranda": 7518,
+                    "TURKINGTON Jared": 6168,
+                    "DALY Suzanne": 1832,
+                    "NEWMAN Michael": 1644,
+                    "MATKOVIC Natalie": 1417,
+                    "MITCHELL Stacey": 1283,
+                    "MATTHEWS Stewart": 1087
+                },
+                "baseline_winner": "['KORZY Miranda']",
+                "top4": "['STOKES Robert']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data East Hills.csv": {
+            "bucklin": {
+                "numCands": 8,
+                "candidates": {
+                    "LINDSAY Wendy": 19963,
+                    "MURPHY Cameron": 19152,
+                    "VIRAGO Suzan": 2298,
+                    "BUTT Owen": 2159,
+                    "MADDOCK Lisa": 1773,
+                    "BROGAN Chris": 1346,
+                    "BARNES Heather": 932
+                },
+                "baseline_winner": "['LINDSAY Wendy']",
+                "top4": "['MURPHY Cameron']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Gosford.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Monaro.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 7,
+                "candidates": {
+                    "BARILARO John": 25868,
+                    "WILSON Bryce": 13431,
+                    "MARSHALL Peter": 3913,
+                    "HOLTON Mick": 3848,
+                    "THALER Andrew": 1229,
+                    "SEYMOUR Frankie": 1159
+                },
+                "baseline_winner": "['WILSON Bryce']",
+                "top4": "['BARILARO John']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Cootamundra.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Parramatta.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 8,
+                "candidates": {
+                    "LEE Geoffrey": 26322,
+                    "SCULLY Liz": 14736,
+                    "BRADLEY Phil": 3637,
+                    "GARRARD Michelle": 1955,
+                    "BELLWOOD Samuel": 1023,
+                    "MOLTTER Jasmina": 701,
+                    "PRICE Susan": 354
+                },
+                "baseline_winner": "['SCULLY Liz']",
+                "top4": "['LEE Geoffrey']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Epping.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Blacktown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Wyong.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lake Macquarie.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data North Shore.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 10,
+                "candidates": {
+                    "WILSON Felicity": 22261,
+                    "CORRIGAN Carolyn": 9341,
+                    "LESTER Michael": 5900,
+                    "PETTIGREW Toby": 5393,
+                    "FURPHY Colin": 1993,
+                    "BOUCHIER Olivia": 827,
+                    "GUNNING Sam": 785,
+                    "BOAST Victoria": 661,
+                    "GRIMSHAW Jeffrey": 613
+                },
+                "baseline_winner": "['CORRIGAN Carolyn']",
+                "top4": "['WILSON Felicity']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Kogarah.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Wagga Wagga.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Shellharbour.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Port Macquarie.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Riverstone.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Wallsend.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Penrith.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Seven Hills.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Prospect.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Terrigal.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 8,
+                "candidates": {
+                    "CROUCH Adam": 26580,
+                    "SUNDSTROM Jeff": 13134,
+                    "DOYLE Bob": 5073,
+                    "CHESTNUT Gary": 1758,
+                    "COLEMAN Flavia": 1542,
+                    "BLAIKIE Ross": 1202,
+                    "RIGG Wayne": 995
+                },
+                "baseline_winner": "['SUNDSTROM Jeff']",
+                "top4": "['CROUCH Adam']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Macquarie Fields.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Dubbo.csv": {
+            "bucklin": {
+                "numCands": 8,
+                "candidates": {
+                    "SAUNDERS Dugald": 18131,
+                    "DICKERSON Mathew": 13771,
+                    "LAWRENCE Stephen": 7151,
+                    "QUEALY Lara": 6636,
+                    "PRYOR Rod": 1771,
+                    "SALTER April": 681,
+                    "COTTERILL Joanne": 314
+                },
+                "baseline_winner": "['SAUNDERS Dugald']",
+                "top4": "['DICKERSON Mathew']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Hornsby.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lane Cove.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 7,
+                "candidates": {
+                    "ROBERTS Anthony": 26388,
+                    "ZBIK Andrew": 10281,
+                    "QUINN Richard": 5959,
+                    "MASSE Pierre": 5441,
+                    "SPITERI Joanne": 1836,
+                    "FLEMING Murray": 1036
+                },
+                "baseline_winner": "['ZBIK Andrew']",
+                "top4": "['ROBERTS Anthony']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Tweed.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Mulgoa.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Wollongong.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Keira.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Tamworth.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Clarence.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Port Stephens.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Holsworthy.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Davidson.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Granville.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Rockdale.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Charlestown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Newcastle.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Wakehurst.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Campbelltown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Manly.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 7,
+                "candidates": {
+                    "GRIFFIN James": 25418,
+                    "GLANVILLE Kristyn": 9137,
+                    "PHILLIPS-MASON Natasha": 8619,
+                    "MURRAY Dane": 2456,
+                    "PALETTO Emanuele": 1502,
+                    "PATERSON Kate": 1184
+                },
+                "baseline_winner": "['GLANVILLE Kristyn']",
+                "top4": "['GRIFFIN James']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Castle Hill.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Heffron.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Londonderry.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Upper Hunter.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Bankstown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Canterbury.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Coffs Harbour.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 9,
+                "candidates": {
+                    "SINGH Gurmesh": 20268,
+                    "JUDGE Tony": 8371,
+                    "TOWNLEY Sally": 8247,
+                    "DAVIDSON Stuart": 3405,
+                    "CASSELL Jonathan": 3090,
+                    "RENET Gregory": 1542,
+                    "MARCHANT Robyn": 1278,
+                    "LEONARD Ann": 1132
+                },
+                "baseline_winner": "['TOWNLEY Sally']",
+                "top4": "['SINGH Gurmesh']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Liverpool.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Strathfield.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Ryde.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Albury.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Cronulla.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lismore.csv": {
+            "top-3-truncation": {
+                "numCands": 8,
+                "candidates": {
+                    "CURTIN Austin": 19104,
+                    "SAFFIN Janelle": 12328,
+                    "HIGGINSON Sue": 11693,
+                    "BENNETT Greg": 2530,
+                    "WATERS Alison": 1184,
+                    "TAYLOR David": 742,
+                    "COLLITS Paul": 564
+                },
+                "baseline_winner": "['CURTIN Austin']",
+                "top4": "['SAFFIN Janelle']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Hawkesbury.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 10,
+                "candidates": {
+                    "PRESTON Robyn": 25127,
+                    "REYNOLDS Peter": 9325,
+                    "DJURIC Shane": 4385,
+                    "WHEELER Danielle": 3102,
+                    "BOWYER Marie-Jeanne": 2290,
+                    "COOGANS Sarah": 1394,
+                    "DOGRAMACI Eddie": 1312,
+                    "CARREY Elissa": 1217,
+                    "COSTI Perran": 789
+                },
+                "baseline_winner": "['REYNOLDS Peter']",
+                "top4": "['PRESTON Robyn']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Ballina.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Summer Hill.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Baulkham Hills.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Heathcote.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Drummoyne.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Northern Tablelands.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Myall Lakes.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 7,
+                "candidates": {
+                    "BROMHEAD Stephen": 24367,
+                    "KEEGAN David": 14691,
+                    "SANDILANDS Paul": 4169,
+                    "ELLIOTT Heather": 3518,
+                    "SPENCE Eleanor (Ellie)": 2797,
+                    "BYE Quentin": 773
+                },
+                "baseline_winner": "['KEEGAN David']",
+                "top4": "['BROMHEAD Stephen']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Oxley.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data South Coast.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Willoughby.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Cabramatta.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Vaucluse.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 8,
+                "candidates": {
+                    "UPTON Gabrielle": 26397,
+                    "McEWIN Megan": 6494,
+                    "KULAKAUSKAS Lenore": 5881,
+                    "MACSMITH Mark": 3683,
+                    "GUTTMAN-JONES Miriam": 2284,
+                    "DOYLE Deb": 664,
+                    "DUNNE Kay": 620
+                },
+                "baseline_winner": "['McEWIN Megan']",
+                "top4": "['UPTON Gabrielle']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_Victoria_LegAssembly_2018/BallotPaperDetails-Melbourne District SE2018.csv": {},
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Strathfield.csv": {},
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Willoughby.csv": {
+            "bucklin": {
+                "numCands": 7,
+                "candidates": {
+                    "JAMES Tim": 18949,
+                    "PENN Larissa": 12920,
+                    "SAVILLE Lynne": 5892,
+                    "HACKETT Penny": 2576,
+                    "BOURKE William": 2122,
+                    "GUNNING Samuel": 1104
+                },
+                "baseline_winner": "['JAMES Tim']",
+                "top4": "['PENN Larissa']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2101 LA Pref Data_NA_Upper Hunter.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 14,
+                "candidates": {
+                    "LAYZELL Dave": 14805,
+                    "DRAYTON Jeff": 10055,
+                    "McNAMARA Dale": 5845,
+                    "GILROY Sue": 5676,
+                    "O'CONNELL Kirsty": 4176,
+                    "NORMAN Tracy": 1951,
+                    "ABBOTT Sue": 1648,
+                    "REYNOLDS Steven": 1027,
+                    "PEARS Eva": 698,
+                    "FRASER Kate": 644,
+                    "DELLO-IACOVO Michael": 397,
+                    "BLAIR Calum": 375,
+                    "LEA Archie": 156
+                },
+                "baseline_winner": "[\"O'CONNELL Kirsty\"]",
+                "top4": "['LAYZELL Dave']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Bega.csv": {},
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Monaro.csv": {},
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB1801 LA Pref Data_NA_Wagga Wagga.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Cessnock.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Keira.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Maroubra.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Holsworthy.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Wollondilly.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Wollongong.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 8,
+                "candidates": {
+                    "HAY Noreen": 20071,
+                    "WALTERS Cameron": 10465,
+                    "RORRIS Arthur": 10162,
+                    "BRESSER Mitchell": 4747,
+                    "COLONELLI Noreen": 2197,
+                    "PRATT Clarrie": 1463,
+                    "LATZ Phil": 613
+                },
+                "baseline_winner": "['RORRIS Arthur']",
+                "top4": "['HAY Noreen']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Penrith.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Upper Hunter.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Bathurst.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Bankstown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Dubbo.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Newcastle.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Campbelltown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Tweed.csv": {
+            "top-3-truncation": {
+                "numCands": 6,
+                "candidates": {
+                    "PROVEST Geoff": 20800,
+                    "GOODMAN Ron": 15867,
+                    "VICKERS Andrea": 5864,
+                    "COLLINS Kerrie": 1042,
+                    "SICHEL Michael": 618
+                },
+                "baseline_winner": "['PROVEST Geoff']",
+                "top4": "['GOODMAN Ron']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Wakehurst.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Kogarah.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Lake Macquarie.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Manly.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Canterbury.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Coffs Harbour.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Port Macquarie.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Granville.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Maitland.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Gosford.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Albury.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Lane Cove.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Ku-ring-gai.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Goulburn.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Lakemba.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Hawkesbury.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Miranda.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 7,
+                "candidates": {
+                    "PETINOS Eleni": 27325,
+                    "HOLLAND Greg": 14654,
+                    "NAIRN Mick": 3450,
+                    "FALANGA Mark": 2139,
+                    "BRETT John": 1109,
+                    "TRAN Andrew": 777
+                },
+                "baseline_winner": "['HOLLAND Greg']",
+                "top4": "['PETINOS Eleni']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Bega.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_North Shore.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Wagga Wagga.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Swansea.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Prospect.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Wallsend.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Heathcote.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Drummoyne.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Seven Hills.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 8,
+                "candidates": {
+                    "TAYLOR Mark": 23789,
+                    "BENJAMIN Susai": 15580,
+                    "NARANAPATTI Balaji": 3414,
+                    "PRENTICE Brendon": 2170,
+                    "BROWN Leonard": 1132,
+                    "SHEAHAN Jennifer": 1051,
+                    "DEVI Indira": 744
+                },
+                "baseline_winner": "['BENJAMIN Susai']",
+                "top4": "['TAYLOR Mark']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Terrigal.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Cabramatta.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Cootamundra.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Mulgoa.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Willoughby.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Blue Mountains.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Liverpool.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Balmain.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Newtown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Port Stephens.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Oxley.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Kiama.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Fairfield.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Northern Tablelands.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_The Entrance.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Londonderry.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Ryde.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Castle Hill.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Barwon.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Baulkham Hills.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Ballina.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Lismore.csv": {
+            "top-3-truncation": {
+                "numCands": 7,
+                "candidates": {
+                    "GEORGE Thomas": 19975,
+                    "GUISE Adam": 12435,
+                    "SMITH Isaac": 12056,
+                    "BATTISTA Gianpiero": 1339,
+                    "IMLAH Cherie": 717,
+                    "JONES Alan": 525
+                },
+                "baseline_winner": "['GEORGE Thomas']",
+                "top4": "['SMITH Isaac']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Monaro.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Epping.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Macquarie Fields.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Clarence.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 9,
+                "candidates": {
+                    "GULAPTIS Chris": 23799,
+                    "GILBERT Trent": 13431,
+                    "CAVANAUGH Janet": 4308,
+                    "NOVAK Debrah": 2202,
+                    "ORDISH Carol": 1143,
+                    "ROBINS Bryan": 1041,
+                    "ROBINSON Christine": 833,
+                    "LOPREIATO Joe": 427
+                },
+                "baseline_winner": "['GILBERT Trent']",
+                "top4": "['GULAPTIS Chris']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Charlestown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Tamworth.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 8,
+                "candidates": {
+                    "ANDERSON Kevin": 26990,
+                    "DRAPER Peter": 16855,
+                    "HILLARD Joe": 2831,
+                    "SCHULTZ Pat": 1047,
+                    "RYAN Michelle": 655,
+                    "NOCK Richard": 319,
+                    "HEUSTON Stan": 314
+                },
+                "baseline_winner": "['DRAPER Peter']",
+                "top4": "['ANDERSON Kevin']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Rockdale.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Davidson.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Myall Lakes.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 7,
+                "candidates": {
+                    "BROMHEAD Stephen": 22617,
+                    "KEEGAN David": 13483,
+                    "ATTKINS Steve": 7295,
+                    "BALLANTINE Stephen": 3186,
+                    "WEATHERSTONE Andrew": 1158,
+                    "GOUSKOS Giovina": 515
+                },
+                "baseline_winner": "['KEEGAN David']",
+                "top4": "['BROMHEAD Stephen']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Coogee.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_South Coast.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Summer Hill.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Wyong.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Heffron.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Oatley.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Parramatta.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 8,
+                "candidates": {
+                    "LEE Geoff": 25559,
+                    "SHAW James": 13649,
+                    "BRADLEY Phil": 3978,
+                    "BOUTROS Kamal": 1603,
+                    "GARRARD Michelle": 1519,
+                    "ARDUCA Frank": 672,
+                    "KUNIANSKY Joanne": 490
+                },
+                "baseline_winner": "['SHAW James']",
+                "top4": "['LEE Geoff']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_East Hills.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Vaucluse.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Auburn.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Shellharbour.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Murray.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Sydney.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Camden.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Strathfield.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Cronulla.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Pittwater.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Riverstone.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Mount Druitt.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Hornsby.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Orange.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Blacktown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Clarence.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Oatley.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Pittwater.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Riverstone.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Tamworth.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Rockdale.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Northern Tablelands.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Bega.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Coogee.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Davidson.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Blacktown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Auburn.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Newtown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Londonderry.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Castle Hill.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Balmain.csv": {
+            "borda-pm": {
+                "numCands": 6,
+                "candidates": {
+                    "SHETTY Kobi": 20240,
+                    "SCOTT Philippa": 18555,
+                    "LEACH Freya": 9566,
+                    "BISGROVE Stephen": 1189,
+                    "STELZER Glen": 447
+                },
+                "baseline_winner": "['SCOTT Philippa']",
+                "top4": "['SHETTY Kobi']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data The Entrance.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wyong.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Parramatta.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Camden.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Miranda.csv": {
+            "bucklin": {
+                "numCands": 6,
+                "candidates": {
+                    "PETINOS Eleni": 24017,
+                    "EARLE Simon": 19781,
+                    "MOORE Martin": 3842,
+                    "CAMERON Gaye": 2712,
+                    "HUGHES Nick": 2512
+                },
+                "baseline_winner": "['PETINOS Eleni']",
+                "top4": "['EARLE Simon']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Sydney.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Leppington.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Murray.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data East Hills.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Orange.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Blue Mountains.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Swansea.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Charlestown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wahroonga.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 6,
+                "candidates": {
+                    "HENSKENS Alister": 26727,
+                    "ABEDINI Parsia": 12242,
+                    "DASHWOOD Tim": 7387,
+                    "HAYWOOD Kristyn": 4927,
+                    "MOLLOY Stephen": 1676
+                },
+                "baseline_winner": "['ABEDINI Parsia']",
+                "top4": "['HENSKENS Alister']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Summer Hill.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Cronulla.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Myall Lakes.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 7,
+                "candidates": {
+                    "THOMPSON Tanya": 24809,
+                    "BENDALL Jason": 9567,
+                    "VANSTONE Mark": 9460,
+                    "MANLEY Keys": 4747,
+                    "SPENCE Eleanor": 2843,
+                    "McDONALD-PRITCHARD Maree": 1260
+                },
+                "baseline_winner": "['BENDALL Jason']",
+                "top4": "['THOMPSON Tanya']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data South Coast.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Lake Macquarie.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Kiama.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Gosford.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Shellharbour.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Fairfield.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Port Macquarie.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Strathfield.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Epping.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Monaro.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Penrith.csv": {
+            "plurality": {
+                "numCands": 8,
+                "candidates": {
+                    "AYRES Stuart": 19266,
+                    "McKEOWN Karen": 19262,
+                    "McWILLIAMS Belinda": 4122,
+                    "TOUSSI Fatemeh (Minoo)": 2643,
+                    "PATEMAN Timothy": 2467,
+                    "BLAZI Vanessa": 1840,
+                    "BROWN Geoff": 744
+                },
+                "baseline_winner": "['AYRES Stuart']",
+                "top4": "['McKEOWN Karen']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Barwon.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Vaucluse.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 8,
+                "candidates": {
+                    "SLOANE Kellie": 24184,
+                    "FREYER Karen": 8236,
+                    "MERTEN Margaret": 7336,
+                    "KANAK Dominic WY": 5632,
+                    "STEVENS Gail": 1166,
+                    "DUNNE Kay": 863,
+                    "CAMERON Edward": 846
+                },
+                "baseline_winner": "['FREYER Karen']",
+                "top4": "['SLOANE Kellie']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Kogarah.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Mount Druitt.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wollondilly.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Liverpool.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Maitland.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Goulburn.csv": {
+            "borda-avg-no-uwi": {
+                "numCands": 6,
+                "candidates": {
+                    "TUCKERMAN Wendy": 20737,
+                    "PILBROW Michael": 18028,
+                    "WOOD Andrew": 6891,
+                    "OLSEN Gregory John": 3587,
+                    "LOGAN Margaret": 1532
+                },
+                "baseline_winner": "['PILBROW Michael']",
+                "top4": "['TUCKERMAN Wendy']"
+            },
+            "bucklin": {
+                "numCands": 6,
+                "candidates": {
+                    "TUCKERMAN Wendy": 20737,
+                    "PILBROW Michael": 18028,
+                    "WOOD Andrew": 6891,
+                    "OLSEN Gregory John": 3587,
+                    "LOGAN Margaret": 1532
+                },
+                "baseline_winner": "['TUCKERMAN Wendy']",
+                "top4": "['PILBROW Michael']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Upper Hunter.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Cabramatta.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Hornsby.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 9,
+                "candidates": {
+                    "KEAN Matt": 23451,
+                    "HOILE Melissa": 13418,
+                    "SALITRA Tania": 7738,
+                    "BUSCH Steve": 4298,
+                    "GRIMSHAW Jeffrey": 2125,
+                    "CASWELL Benjamin": 1557,
+                    "THOMAS Justin": 918,
+                    "DIGNAM Adrian": 661
+                },
+                "baseline_winner": "['HOILE Melissa']",
+                "top4": "['KEAN Matt']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Badgerys Creek.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Campbelltown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Willoughby.csv": {
+            "borda-avg-no-uwi": {
+                "numCands": 6,
+                "candidates": {
+                    "JAMES Tim": 23032,
+                    "PENN Larissa": 14064,
+                    "GRIFFIN Sarah": 10577,
+                    "MCGRATH Edmund": 4190,
+                    "WANT Michael": 967
+                },
+                "baseline_winner": "['PENN Larissa']",
+                "top4": "['JAMES Tim']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Heffron.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Kellyville.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Drummoyne.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Heathcote.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Oxley.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Hawkesbury.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Coffs Harbour.csv": {
+            "borda-om-no-uwi": {
+                "numCands": 8,
+                "candidates": {
+                    "SINGH Gurmesh": 25319,
+                    "JUDGE Tony": 10263,
+                    "TOWNLEY Sally": 5978,
+                    "ELLISTON Tihema": 2917,
+                    "NOTT Tim": 2814,
+                    "PEARCE Kellie": 1096,
+                    "CULLY Ruth": 842
+                },
+                "baseline_winner": "['JUDGE Tony']",
+                "top4": "['SINGH Gurmesh']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Maroubra.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Cessnock.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Winston Hills.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Bathurst.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data North Shore.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wagga Wagga.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Lane Cove.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Dubbo.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Lismore.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Tweed.csv": {
+            "bucklin": {
+                "numCands": 7,
+                "candidates": {
+                    "PROVEST Geoff": 20494,
+                    "ELLIOT Craig": 14425,
+                    "DENHAM Ciara": 5517,
+                    "SELAN Marc": 2534,
+                    "McDONALD Ronald": 2298,
+                    "HEARDER Susie": 1422
+                },
+                "baseline_winner": "['PROVEST Geoff']",
+                "top4": "['ELLIOT Craig']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ballina.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ryde.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Keira.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Canterbury.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Granville.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Macquarie Fields.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Prospect.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Newcastle.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wallsend.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Port Stephens.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wakehurst.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Cootamundra.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Terrigal.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Holsworthy.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Manly.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wollongong.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Albury.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Bankstown.csv": {}
+    }
+}

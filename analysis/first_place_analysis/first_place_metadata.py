@@ -2,10 +2,10 @@ import pandas as pd
 import json
 from collections import Counter
 
-file_path = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/newest/results/scotland.csv'  # Replace with file path
+file_path = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/results/civs.csv'  # Replace with file path
 df = pd.read_csv(file_path)
 
-methods = ['plurality','IRV','top-two','borda-pm','borda-om-no-uwi','borda-avg-no-uwi','top-3-truncation','condorcet','minimax','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','approval']
+methods = ['plurality','IRV','top-two','borda-pm','borda-om','borda-avg','top-3-truncation','condorcet','minimax','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','approval']
 num_cands_kept = 4
 
 files = {}
@@ -74,7 +74,7 @@ output_data = {
 }
 
 # write to output file
-output_file = "/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/newest/results/scotland.json"
+output_file = "/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/results/civs.json"
 with open(output_file, "w") as f:
     json.dump(output_data, f, indent=4)
 
