@@ -3,20 +3,24 @@ import multiprocessing
 import pandas as pd
 import json
 
-root_dir = '/Users/belle/Desktop/build/rcv_proposal/raw_data/scotland/processed_data'
-error_file = './scotland_error.txt'
-output_file = './scotland_mention_scores.json'
+root_dir = '/Users/belle/Desktop/build/rcv_proposal/raw_data/civs/processed_data'
+error_file = './civs_error_2.txt'
+output_file = './civs_mention_scores_real.json'
 def calculate_mention_scores(df, filename):
     rank_columns = [col for col in df.columns if col.startswith('rank')]
     num_ranks = len(rank_columns)
-    
+
     mention_scores = {}
-    for index, row in df.iterrows():
-        ranked_candidates = [row[col] for col in rank_columns if row[col] != "skipped"]
-        num_cands = row['numCands']
-        if pd.isna(row['numCands']):
-            with open(error_file, "a") as ef:
-                ef.write(f"{filename}:{index}, ")
+    num_cands = 0
+    for index, row in df.iterrows(): 
+        if index == 0:
+            num_cands = row['Num Cands']
+
+        print(num_cands)
+        ranked_candidates = [row[col] for col in rank_columns if (row[col] != "skipped" and row[col] != "Unknown" and row[col] != "nan")]
+        # if pd.isna(row['Num Cands']):
+        #     with open(error_file, "a") as ef:
+        #         ef.write(f"{filename}:{index}, ")
 
         
         if len(ranked_candidates) == num_cands: # if all possible candidates are ranked, don't consider last place

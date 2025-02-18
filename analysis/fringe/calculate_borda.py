@@ -1,6 +1,6 @@
 import sys
 sys.path.append('/Users/belle/Desktop/build/rcv_proposal')
-from main_methods3 import v_profile, Borda_AVG_Return_Full
+from main_methods import v_profile, Borda_AVG_Return_Full
 # from david_methods import Borda_AVG_Return_Full
 import os
 import multiprocessing
@@ -18,7 +18,7 @@ def calculate_borda(file):
     num_cands = len(candidates)
 
     # scores = Borda_AVG_Return_Full(d_profile, candidates, num_cands, False)
-    scores = Borda_AVG_Return_Full(v)
+    scores = Borda_AVG_Return_Full(v, tiebreak="first_place")
 
     scores = {k: float(v) for k, v in sorted(scores.items(), key=lambda item: float(item[1]), reverse=True)}
 
@@ -27,11 +27,11 @@ def calculate_borda(file):
 # calculate_borda('/Users/belle/Desktop/build/rcv_proposal/raw_data/australia/processed_data/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Northcote with candidates.csv')
 
 
-processed_file = './scotland_processed.txt'
+processed_file = './civs_processed.txt'
 
-root_dir = '/Users/belle/Desktop/build/rcv_proposal/raw_data/australia/processed_data'
-error_file = './america.txt'
-output_file = './scotland_mention_scores.json'
+root_dir = '/Users/belle/Desktop/build/rcv_proposal/raw_data/civs/processed_data'
+error_file = './civs_error.txt'
+output_file = './civs_mention_scores.json'
 
 def process_file(file_path, filename):
     print("processing: ",file_path)

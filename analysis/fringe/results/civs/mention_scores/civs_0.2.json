@@ -1,0 +1,6622 @@
+{
+    "metadata": {
+        "election_with_changes": 268,
+        "spoiler_counts": {
+            "2": 128,
+            "28": 26,
+            "30": 24,
+            "4": 20,
+            "22": 14,
+            "24": 13,
+            "10": 8,
+            "8": 8,
+            "6": 7,
+            "20": 6,
+            "18": 4,
+            "14": 3,
+            "16": 3,
+            "12": 2,
+            "26": 2
+        },
+        "method_counts": {
+            "approval_fringe": 194,
+            "approval": 194,
+            "bucklin": 126,
+            "bucklin_fringe": 126,
+            "borda-om-no-uwi_fringe": 109,
+            "borda-om-no-uwi": 109,
+            "borda-avg-no-uwi_fringe": 106,
+            "borda-avg-no-uwi": 106,
+            "borda-pm": 105,
+            "borda-pm_fringe": 105,
+            "minimax_fringe": 97,
+            "minimax": 97,
+            "smith-minimax": 97,
+            "smith-minimax_fringe": 97,
+            "ranked-pairs": 94,
+            "ranked-pairs_fringe": 94,
+            "smith_irv": 91,
+            "smith_irv_fringe": 91,
+            "smith_plurality": 91,
+            "smith_plurality_fringe": 91,
+            "top-3-truncation_fringe": 85,
+            "top-3-truncation": 85,
+            "condorcet": 83,
+            "condorcet_fringe": 83,
+            "plurality_fringe": 68,
+            "plurality": 68,
+            "IRV": 67,
+            "IRV_fringe": 67,
+            "top-two": 61,
+            "top-two_fringe": 61
+        }
+    },
+    "winners": {
+        "fff6696f25.csv": {
+            "approval": "['2', '1', '18']",
+            "approval_fringe": [
+                0,
+                1,
+                1
+            ]
+        },
+        "ff861e22bb.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "fec8bd30a5.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "fc7cb6479e.csv": {
+            "plurality": "['6']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['6']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['6']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['6']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['6']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['6']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['6']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['6']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['6']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['6']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['6']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['6']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['6']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['6']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "f3d3b6897b.csv": {
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "f36c6431bf.csv": {
+            "approval": "['1', '11']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "f191578b71.csv": {
+            "plurality": "['5']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['5']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['5']",
+            "top-two_fringe": [
+                1
+            ],
+            "top-3-truncation": "['5']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['5']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['5']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['5']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['5']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['5']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['5']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['5']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "f0f7d3733e.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "ed7debafd9.csv": {
+            "approval": "['5', '1', '2']",
+            "approval_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "ec061ecd7a.csv": {
+            "bucklin": "['7']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "e8d83c9c40.csv": {
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "e3c163b05e.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "e275826dbd.csv": {
+            "borda-om-no-uwi": "['4']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ]
+        },
+        "e002a74822.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['2']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "db3ddf5cc3.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "da0ca04d90.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "d97fba64f5.csv": {
+            "borda-pm": "['7']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['7']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['7']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "bucklin": "['7']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['7', '1', '2']",
+            "approval_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "d79155a77d.csv": {
+            "approval": "['1', '11']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "d7046b6c81.csv": {
+            "approval": "['17']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "d421ebe408.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "d364d7a828.csv": {
+            "borda-om-no-uwi": "['7', '1']",
+            "borda-om-no-uwi_fringe": [
+                1,
+                0
+            ],
+            "minimax": "['7', '1']",
+            "minimax_fringe": [
+                1,
+                0
+            ],
+            "smith-minimax": "['7', '1']",
+            "smith-minimax_fringe": [
+                1,
+                0
+            ],
+            "ranked-pairs": "['7']",
+            "ranked-pairs_fringe": [
+                1
+            ]
+        },
+        "d057875155.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "cf2adbb8c7.csv": {
+            "borda-om-no-uwi": "['4']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['4']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "ranked-pairs": "['4']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['4']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "cb5a8fe5e1.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "caf5812585.csv": {
+            "borda-pm": "['2']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['2']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['2']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['3']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['2']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['2']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['2']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['2']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['2']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['2']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['2']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "c7cb917484.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "c0771dfce6.csv": {
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1', '2', '3']",
+            "approval_fringe": [
+                1,
+                0,
+                1
+            ]
+        },
+        "bd4eaac3d9.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "bb7ff2e0a3.csv": {
+            "approval": "['3', '1', '2', '6']",
+            "approval_fringe": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "ba2245df4f.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "b972d43e4c.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "b91f64f5f1.csv": {
+            "plurality": "['6']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['6']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['6']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['6']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['6']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['6']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['6']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['6']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['6']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['6']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['6']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['6']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['6']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['6']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "b72862e48c.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "b6ec122b70.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "b53e921736.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-3-truncation": "['4']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "minimax": "['5', '1', '4']",
+            "minimax_fringe": [
+                0,
+                0,
+                1
+            ],
+            "smith_plurality": "['4']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['4']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['5', '1', '4']",
+            "smith-minimax_fringe": [
+                0,
+                0,
+                1
+            ],
+            "ranked-pairs": "['4']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['4']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "b3c1016cbf.csv": {
+            "borda-pm": "['8']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['8']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['8']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ]
+        },
+        "b23f69f553.csv": {
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "b23a100a21.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['4']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['4']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['4']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['4']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['4']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['4']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['4']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['4']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['4']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['4']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['4']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "b20317b704.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "b176c45069.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "b0579d9d03.csv": {
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "ae4ff5bd75.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "adf4379854.csv": {
+            "bucklin": "['2']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "ac5b422100.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a9cc09e005.csv": {
+            "plurality": "['8']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['8']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['8']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['8']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['8']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['8']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['8']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['8']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['8']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['8']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['8']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['8']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['8']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['8']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1', '3', '8']",
+            "approval_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "a9ca88764c.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a4ef8c1a14.csv": {
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a1ac0fa3ba.csv": {
+            "plurality": "['5']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['5']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['5']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['5']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['5']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['5']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['5']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['5']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['5']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['5']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['5']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['5']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['5']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['5']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9d07a69841.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['5', '1', '2']",
+            "approval_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "9bad295c2f.csv": {
+            "plurality": "['2']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['2']",
+            "IRV_fringe": [
+                1
+            ],
+            "borda-pm": "['2']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['2']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['2']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['2']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "minimax": "['2', '3']",
+            "minimax_fringe": [
+                1,
+                0
+            ],
+            "smith_plurality": "['2']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['2']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['2', '3']",
+            "smith-minimax_fringe": [
+                1,
+                0
+            ],
+            "ranked-pairs": "['2']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['2']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "9b0e8dd7c8.csv": {
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9920ddfa36.csv": {
+            "approval": "['8']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9518bbbdb3.csv": {
+            "approval": "['17']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "94e0d796ae.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1', '4']",
+            "borda-om-no-uwi_fringe": [
+                1,
+                0
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "908fe8677c.csv": {
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "8dadd0f958.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "8d30651a8c.csv": {
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "minimax": "['7', '2']",
+            "minimax_fringe": [
+                1,
+                0
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['7', '2']",
+            "smith-minimax_fringe": [
+                1,
+                0
+            ],
+            "ranked-pairs": "['7']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['7', '3', '1', '2', '4']",
+            "approval_fringe": [
+                1,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        "8c40eb47f9.csv": {
+            "plurality": "['2']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['2']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['2']",
+            "top-two_fringe": [
+                1
+            ],
+            "minimax": "['1', '2']",
+            "minimax_fringe": [
+                0,
+                1
+            ],
+            "smith_plurality": "['2']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith-minimax": "['1', '2']",
+            "smith-minimax_fringe": [
+                0,
+                1
+            ],
+            "approval": "['2']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "8b9d6283bf.csv": {
+            "IRV": "['6']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-3-truncation": "['6']",
+            "top-3-truncation_fringe": [
+                1
+            ]
+        },
+        "895056dbd6.csv": {
+            "plurality": "['6']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['6']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['6']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['6']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['6']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['6']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['6']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['6']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['6']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['6']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['6']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['6']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['6']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['6']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "87869154e9.csv": {
+            "plurality": "['2']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['2']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['2']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['2']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['2']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['2']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['2']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['2']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['2']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['2']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['2']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['2']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['2']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['2']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "87160d10c9.csv": {
+            "plurality": "['2']",
+            "plurality_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['2']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ]
+        },
+        "85cba3945a.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "851e169c45.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['3']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['3']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['3']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['3']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['3']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['3']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['3']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['3']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['3']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['3']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['3']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['3']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "8318038381.csv": {
+            "plurality": "['7']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['7']",
+            "top-two_fringe": [
+                1
+            ],
+            "top-3-truncation": "['7']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "minimax": "['7']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['7']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith-minimax": "['7']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['7']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['7']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "7debd1415c.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "7dd32fef75.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "7d9a59aaff.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "minimax": "['5', '1']",
+            "minimax_fringe": [
+                0,
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith-minimax": "['5', '1']",
+            "smith-minimax_fringe": [
+                0,
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['5', '1', '2']",
+            "approval_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "7d47576f72.csv": {
+            "borda-om-no-uwi": "['2']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['2']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "7ac09a7565.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "7865e54bcd.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "72af5f873c.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "7200b7ed13.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "6c3fcb4d84.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "6c2214f10e.csv": {
+            "approval": "['8']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "6c0953105c.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['3']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['3']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "condorcet": "['3']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['3']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['3']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['3']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['3']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['3']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['3']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "6bd433f583.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1', '6', '3']",
+            "approval_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "6ba6e78ca0.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1', '9']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "6b199ea18a.csv": {
+            "bucklin": "['8']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "6b179b627e.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "654f1aee20.csv": {
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "64db433888.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['4']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['4']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['4']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['4']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['4']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['4']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['4']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['4']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['4']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['4']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['4']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "63756b783d.csv": {
+            "borda-pm": "['5']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['5']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['5']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['5']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['5']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['5']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['5']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['5']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['5']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['5']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['5']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "5fc6c4ba80.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "5e8efcd78c.csv": {
+            "approval": "['1', '9']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "5e4ab45dcc.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "59b0d703cc.csv": {
+            "bucklin": "['4']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['7', '1', '5', '3']",
+            "approval_fringe": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "5042cba970.csv": {
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "4e75bb0427.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "4a60afcf59.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "411a184c31.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "3e980c993e.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "3ceeb7467e.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "3ae897ce86.csv": {
+            "approval": "['5', '1', '2']",
+            "approval_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "3acd125bfd.csv": {
+            "approval": "['1', '12']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "34d230ee29.csv": {
+            "approval": "['5', '1', '2']",
+            "approval_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "3303be77c3.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "approval": "['1', '2']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "32f207e2c7.csv": {
+            "plurality": "['5']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['5']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['5']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['5']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['5']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['5']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['5']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['5']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['5']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['5']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['5']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['5']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['5']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['5']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['5', '3']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "2e9b957de4.csv": {
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "2d823d6cc9.csv": {
+            "borda-pm": "['6']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['6']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['6']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "minimax": "['6']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith-minimax": "['6']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['6']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['6']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "2b6b47bbf2.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1', '2']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "2a50fe4632.csv": {
+            "approval": "['1', '9']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "26a942d43b.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "2320ca6611.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "2024253139.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['13', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "1fcb7d3202.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ]
+        },
+        "1fc212a953.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "1d281a1796.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['3']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['3']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['3']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['3']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "minimax": "['2', '3']",
+            "minimax_fringe": [
+                0,
+                1
+            ],
+            "smith_plurality": "['3']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['3']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['2', '3']",
+            "smith-minimax_fringe": [
+                0,
+                1
+            ],
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "1c5bc1529d.csv": {
+            "approval": "['8']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "1b7c188e93.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "1ac36a495b.csv": {
+            "borda-om-no-uwi": "['2']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "bucklin": "['2']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "1a66bf9cf2.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "1a3300430c.csv": {
+            "borda-om-no-uwi": "['14']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['14']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "minimax": "['14']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith-minimax": "['14']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['14']",
+            "ranked-pairs_fringe": [
+                1
+            ]
+        },
+        "16d22bfcc1.csv": {
+            "approval": "['1', '10']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "15cf92fe69.csv": {
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "139cb78590.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "11dd078d05.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "114ed22979.csv": {
+            "bucklin": "['2']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "111e7187da.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "107becdf69.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "1065ae04d5.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "106143579b.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "10405996cc.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "0ec8823f58.csv": {
+            "borda-om-no-uwi": "['2']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "condorcet": "['2']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['2']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['2']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['2']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['2']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['2']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['2']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "0b34216377.csv": {
+            "IRV": "['5']",
+            "IRV_fringe": [
+                1
+            ],
+            "borda-pm": "['5']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['5']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['5']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['5']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['5']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['5']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['5']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['5']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['5']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['5']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['5']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['5', '1', '2']",
+            "approval_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "0ad286a666.csv": {
+            "borda-pm": "['3']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['3']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['3']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "condorcet": "['3']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['3']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['3']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['3']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['3']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['3']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['3']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "076a847515.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "0655f141f2.csv": {
+            "borda-pm": "['5']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['5']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['5']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['5']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['5']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['5']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['5']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['5']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['5']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['5']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['5']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "05d8aaaf27.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "02e561c6a0.csv": {
+            "borda-pm": "['7']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['7']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['7']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "approval": "['7', '1', '2']",
+            "approval_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "0071b27850.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['3']",
+            "IRV_fringe": [
+                1
+            ],
+            "smith_irv": "['3']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "bucklin": "['3']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "ffb920aed4.csv": {
+            "bucklin": "['2']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "feaf1780f5.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['4']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['4']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['4']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['4']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['4']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['4']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['4']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['4']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['4']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['4']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['4']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "fbdab62a4d.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "fbda4fb474.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "f8061c72a7.csv": {
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "f744fc29f2.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "f53152bfb0.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "f402bb45ce.csv": {
+            "approval": "['2', '3', '1']",
+            "approval_fringe": [
+                0,
+                1,
+                1
+            ]
+        },
+        "f1cf4e06f5.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "f16f6ed533.csv": {
+            "plurality": "['2']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['2']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['2']",
+            "top-two_fringe": [
+                1
+            ],
+            "condorcet": "['2']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['2']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['2']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['2']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['2']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['2']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['2']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "edf57c98c9.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['4']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['4']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['4']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['4']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['4']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['4']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['4']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['4']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['4']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['4']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['4']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "ea8b0f264c.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "e8cffd243a.csv": {
+            "borda-pm": "['15']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['15']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['15']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['15']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['15']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['15']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['15']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['15']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['15']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['15']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['15']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1', '15']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "e7fb5b6f88.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "e75344389b.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "e267f26fed.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "df41a50556.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "dedb1b9c96.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "da56b56e94.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['3']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['2', '3']",
+            "borda-pm_fringe": [
+                0,
+                1
+            ],
+            "minimax": "['2', '3']",
+            "minimax_fringe": [
+                0,
+                1
+            ],
+            "smith_plurality": "['3']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['3']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['2', '3']",
+            "smith-minimax_fringe": [
+                0,
+                1
+            ],
+            "ranked-pairs": "['3']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "d931b7efd7.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['4']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['4']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['4']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['4']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['4']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['4']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['4']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['4']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['4']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['4']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['4']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "d7a8e3f09c.csv": {
+            "approval": "['2', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "d76e77290c.csv": {
+            "plurality": "['5']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['5']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-3-truncation": "['5']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "minimax": "['3', '5']",
+            "minimax_fringe": [
+                0,
+                1
+            ],
+            "smith_plurality": "['5']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['5']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['3', '5']",
+            "smith-minimax_fringe": [
+                0,
+                1
+            ],
+            "ranked-pairs": "['5']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "approval": "['2', '1', '5']",
+            "approval_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "d33f6b698e.csv": {
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "d2ecdc924e.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "cc2975f67b.csv": {
+            "plurality": "['2']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['2']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['2']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['2']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['2']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['2']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['2']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['2']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['2']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['2']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['2']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['2']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['2']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['2']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "cbe08d8e57.csv": {
+            "bucklin": "['9']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1', '21']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "ca7f502857.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "ca486b7d61.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "ca1ee127b4.csv": {
+            "bucklin": "['2']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "c8ae85882b.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "c76d4fdaca.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "c55223153a.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['3']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['3']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['3']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['3']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['3']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['3']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['3']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['3']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['3']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['3']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['3']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['3']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "bd8a6a1537.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "bbf60746fb.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "bbdf4553e6.csv": {
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "b2d0f7ebb7.csv": {
+            "approval": "['2', '1', '10']",
+            "approval_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "b2956bd326.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "b254e5cf52.csv": {
+            "borda-pm": "['9']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['9']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['9']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "condorcet": "['9']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['9']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['9']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['9']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['9']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['9']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['9']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['9']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "b0c4ca9556.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "aeb79dfcfd.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "ad0e3a88cb.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['4']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['4']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['4']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['4']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['4']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['4']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['4']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['4']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['4']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['4']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['4']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "ab5c4097a2.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['3']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['3']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['3']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['3']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['3']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['3']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['3']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['3']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['3']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['3']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['3']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['3']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "aac8e0f780.csv": {
+            "approval": "['6']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a891f13d87.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a077413f56.csv": {
+            "approval": "['8']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9ea5cdaf51.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9e954cfbe4.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9c83a961bf.csv": {
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ]
+        },
+        "9b284e6040.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "97173bf123.csv": {
+            "approval": "['2', '1', '4', '5']",
+            "approval_fringe": [
+                1,
+                0,
+                0,
+                1
+            ]
+        },
+        "94d38d675a.csv": {
+            "approval": "['9', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "92834e24e1.csv": {
+            "approval": "['9']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9212e81f36.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9026671f57.csv": {
+            "IRV": "['6']",
+            "IRV_fringe": [
+                1
+            ],
+            "borda-pm": "['6']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['6']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['6']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['6']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['6']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['6']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['6']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['6']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['6']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['6']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['6']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "8e7d663d12.csv": {
+            "bucklin": "['2']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "8bb9c3ecc9.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['2', '1', '5']",
+            "approval_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "8afa7020e9.csv": {
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "88db5a04b7.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "87037e4175.csv": {
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "borda-pm": "['4']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['4']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['4']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['4']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "minimax": "['3', '4']",
+            "minimax_fringe": [
+                0,
+                1
+            ],
+            "smith_irv": "['4']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['3', '4']",
+            "smith-minimax_fringe": [
+                0,
+                1
+            ],
+            "bucklin": "['4']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "858f1929b4.csv": {
+            "approval": "['1', '5']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "81a8c4f946.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "8076a888fa.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "7c6ca29325.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['3']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['3']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['3']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['3']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['3']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['3']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['3']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['3']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['3']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['3']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['3']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['3']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "7b0d210ab0.csv": {
+            "approval": "['2', '3', '1']",
+            "approval_fringe": [
+                1,
+                0,
+                1
+            ]
+        },
+        "79d0f24c8e.csv": {
+            "bucklin": "['8']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['9', '3', '1']",
+            "approval_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "714ad2b589.csv": {
+            "borda-pm": "['5']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['5']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['5']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['5']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['5']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['5']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['5']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['5']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['5']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['5']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['5']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "6fbc5d155d.csv": {
+            "borda-pm": "['11']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['11']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['11']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "condorcet": "['12']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['12']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['12']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['12']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['12']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['12']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['12']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "6a891078aa.csv": {
+            "plurality": "['5']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['5']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['5']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['5']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['5']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['5']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['5']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['5']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['5']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['5']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['5']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['5']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['5']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['5']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "6903adc956.csv": {
+            "borda-pm": "['1', '4']",
+            "borda-pm_fringe": [
+                1,
+                0
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "66e5600489.csv": {
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "668ca2de59.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "65214cfe78.csv": {
+            "approval": "['7']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "65120ee281.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['4']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['4']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['4']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['4']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['4']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['4']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['4']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['4']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['4']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['4']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['4']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "64be1f9778.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "631d98490c.csv": {
+            "borda-pm": "['3']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['3']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['3']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "condorcet": "['3']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['3']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['3']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['3']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['3']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['3']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['3']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['2', '3', '1']",
+            "approval_fringe": [
+                1,
+                1,
+                0
+            ]
+        },
+        "5f89ae7321.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "570375879a.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['4']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['4']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['4']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['4']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['4']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['4']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['4']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['4']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['4']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['4']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['4']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "5511dbe30b.csv": {
+            "borda-pm": "['2']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "approval": "['2', '1']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "4cdd441ed5.csv": {
+            "plurality": "['6']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['6']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['6']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['6']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['6']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['6']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['6']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['6']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['6']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['6']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['6']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['6']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['6']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['6']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "4c8598f39b.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "4b21acfeff.csv": {
+            "approval": "['1', '5']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "4acd607a76.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['4']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['4']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['4']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['4']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['4']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['4']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['4']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['4']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['4']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['4']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['4']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "49bc7fcd31.csv": {
+            "bucklin": "['3']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "4506610042.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "44c1ca5631.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['4']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['4']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['4']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['4']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['4']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['4']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['4']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['4']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['4']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['4']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['4']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "439b003686.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "42ccc4667a.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "bucklin": "['4']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "4205323617.csv": {
+            "approval": "['17']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "41d496a0af.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "3f648c5378.csv": {
+            "approval": "['2', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "3ce3166da6.csv": {
+            "plurality": "['6']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['6']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['6']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['6']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['6']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['6']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['6']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['6']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['6']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['6']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['6']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['6']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['6']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['6']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "3bd0c997c8.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "3a6e915174.csv": {
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['4']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['4']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['4']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['4']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['4']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['4']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['4']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['4']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['4']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['4']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['4']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "3978d92b38.csv": {
+            "approval": "['1', '12']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "386254a1fc.csv": {
+            "approval": "['2', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "35b049e405.csv": {
+            "plurality": "['5']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['5']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['5']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['5']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['5']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['5']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['5']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['5']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['5']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['5']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['5']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['5']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['5']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['5']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "35078a6045.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "341bd12b89.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "33b22c5b2c.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "32d57fd424.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "3196d079b0.csv": {
+            "approval": "['1', '8']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "30b4916fc2.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "2ff4bea6b7.csv": {
+            "plurality": "['5']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['5']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['5']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['5']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['5']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['5']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['5']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['5']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['5']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['5']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['5']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['5']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['5']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['5']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "2f4980f8aa.csv": {
+            "plurality": "['6']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['6']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['6']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['6']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['6']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['6']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['6']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['6']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['6']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['6']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['6']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['6']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['6']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['6']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "2daeadbef5.csv": {
+            "borda-pm": "['11']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['11']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['11']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "bucklin": "['10']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "2a787c224d.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['4']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['4']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['4']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['4']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['4']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['4']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['4']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['4']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['4']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['4']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['4']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "29d405ecb2.csv": {
+            "approval": "['9', '5']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "2982b3d7da.csv": {
+            "borda-pm": "['8']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['8']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['8']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['8']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['8']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['8']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['8']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['8']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['8']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['8']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['8']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['8']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "271eb9092b.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "24b52d6a6f.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "24b351e321.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "24ab5c1001.csv": {
+            "plurality": "['6']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['6']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['6']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['6']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['6']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['6']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['6']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['6']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['6']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['6']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['6']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['6']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['6']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['6']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "24a006326f.csv": {
+            "plurality": "['6']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['6']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['6']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['6']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['6']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['6']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['6']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['6']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['6']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['6']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['6']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['6']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['6']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['6']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "1f51051cfc.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "1d56c3efa4.csv": {
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "minimax": "['2', '1']",
+            "minimax_fringe": [
+                0,
+                1
+            ],
+            "smith-minimax": "['2', '1']",
+            "smith-minimax_fringe": [
+                0,
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['3']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['2', '3', '1', '6']",
+            "approval_fringe": [
+                0,
+                1,
+                1,
+                0
+            ]
+        },
+        "1cf8bc601b.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "182db85ba7.csv": {
+            "borda-pm": "['8']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['8']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['8']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "17a390b532.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "176aeb7d1e.csv": {
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "171f9487ab.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['3']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['3']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['3']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['3']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['3']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['3']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['3']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['3']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['3']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['3']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['3']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['3']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "14f5b0c00b.csv": {
+            "approval": "['7', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "14913a1880.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "147f354870.csv": {
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "135bed9078.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "11d3be1d00.csv": {
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "0b6913bafa.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "0a4312f60a.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "08d3cdc606.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['4']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['4']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['4']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['4']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['4']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['4']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['4']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['4']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['4']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['4']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['4']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "08394f2265.csv": {
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "06d9624195.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['1']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['1']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['1']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['1']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['1']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['1']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['1']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['1']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['1']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['1']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "068161bdc7.csv": {
+            "approval": "['2', '9', '1', '4']",
+            "approval_fringe": [
+                0,
+                1,
+                1,
+                0
+            ]
+        },
+        "062e20108b.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['4']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['4']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['4']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['4']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['4']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['4']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['4']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['4']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['4']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['4']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['4']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "05b2d8654a.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "043444229e.csv": {
+            "approval": "['11', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "03701051aa.csv": {
+            "borda-pm": "['5']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['5']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['5']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['5']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['5']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['5']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['5']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['5']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['5']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['5']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['5']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "025f8e2331.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "02216240e9.csv": {
+            "plurality": "['2']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['2']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['2']",
+            "top-two_fringe": [
+                1
+            ],
+            "borda-pm": "['2']",
+            "borda-pm_fringe": [
+                1
+            ],
+            "borda-om-no-uwi": "['2']",
+            "borda-om-no-uwi_fringe": [
+                1
+            ],
+            "borda-avg-no-uwi": "['2']",
+            "borda-avg-no-uwi_fringe": [
+                1
+            ],
+            "top-3-truncation": "['2']",
+            "top-3-truncation_fringe": [
+                1
+            ],
+            "condorcet": "['2']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['2']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['2']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['2']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['2']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['2']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "bucklin": "['2']",
+            "bucklin_fringe": [
+                1
+            ]
+        }
+    }
+}

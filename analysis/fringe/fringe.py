@@ -17,7 +17,8 @@ def rank_candidates(file_path, threshold):
         for i, (name, score) in enumerate(sorted_candidates):
             is_bottom_third = i >= total_candidates - bottom_threshold
             is_below_x = score < threshold * first_place_score
-            result[filename][name] = 1 if (is_bottom_third and is_below_x) else 0
+            #is_bottom_third and
+            result[filename][name] = 1 if (is_below_x) else 0
     return result
 
 def compute_fringe(row, ranks):
@@ -97,7 +98,7 @@ def main(scores, file, threshold):
         "winners": filtered_json_data
     }
 
-    output_file = f"australia_{threshold}.json"
+    output_file = f"civs_{threshold}.json"
     with open(output_file, "w") as f:
         json.dump(output_data, f, indent=4)
 
@@ -105,4 +106,4 @@ def main(scores, file, threshold):
 # print(rank_candidates('/Users/belle/Desktop/build/rcv_proposal/analysis/fringe/test.json', 0.5))
         
 for i in range(1, 10):
-    main('/Users/belle/Desktop/build/rcv_proposal/analysis/fringe/borda_scores/australia_borda_scores.json', '/Users/belle/Desktop/build/rcv_proposal/results/current/australia.csv', (i/10))
+    main('/Users/belle/Desktop/build/rcv_proposal/analysis/fringe/mention_scores/civs_mention_scores.json', '/Users/belle/Desktop/build/rcv_proposal/results/current/civs.csv', (i/10))

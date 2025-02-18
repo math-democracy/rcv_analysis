@@ -1,0 +1,170 @@
+{
+    "metadata": {
+        "election_with_changes": 22,
+        "spoiler_counts": {
+            "2": 22
+        },
+        "method_counts": {
+            "approval_fringe": 22,
+            "approval": 22
+        }
+    },
+    "winners": {
+        "fee94d4ea6.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9518bbbdb3.csv": {
+            "approval": "['17']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "fa57d14b41.csv": {
+            "approval": "['2', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "ec259dda8a.csv": {
+            "approval": "['2', '1', '5']",
+            "approval_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "e267f26fed.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "df41a50556.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "ca4e0ddfe6.csv": {
+            "approval": "['11', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "c8cb5fa285.csv": {
+            "approval": "['1', '12']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "baf2f85125.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "b2956bd326.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "b0c4ca9556.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "94d38d675a.csv": {
+            "approval": "['9', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "668ca2de59.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "64be1f9778.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "4c8598f39b.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "4b8320d3da.csv": {
+            "approval": "['2', '3', '1']",
+            "approval_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "478279cac0.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "476f34adc0.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "3f51f326bd.csv": {
+            "approval": "['2', '3', '1']",
+            "approval_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "36cd9b2f39.csv": {
+            "approval": "['2', '3', '1', '4']",
+            "approval_fringe": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "22f6b96b74.csv": {
+            "approval": "['2', '3', '1']",
+            "approval_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "068161bdc7.csv": {
+            "approval": "['2', '9', '1', '4']",
+            "approval_fringe": [
+                0,
+                0,
+                1,
+                0
+            ]
+        }
+    }
+}
