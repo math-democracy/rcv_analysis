@@ -1,22 +1,22 @@
 {
     "metadata": {
-        "total_elections": 327,
-        "total_elections_with_hits": 6,
+        "total_elections": 329,
+        "total_elections_with_hits": 7,
         "total_method_counts_third_or_lower": {
             "plurality": 0,
             "IRV": 0,
             "top-two": 0,
             "borda-pm": 0,
-            "borda-om-no-uwi": 6,
-            "borda-avg-no-uwi": 0,
+            "borda-om": 6,
+            "borda-avg": 2,
             "top-3-truncation": 1,
             "condorcet": 1,
             "minimax": 1,
-            "smith_plurality": 0,
-            "smith_irv": 0,
+            "smith_plurality": 1,
+            "smith_irv": 1,
             "smith-minimax": 1,
             "ranked-pairs": 1,
-            "bucklin": 0,
+            "bucklin": 3,
             "approval": 1
         },
         "method_counts_third_place": {
@@ -24,16 +24,16 @@
             "IRV": 0,
             "top-two": 0,
             "borda-pm": 0,
-            "borda-om-no-uwi": 5,
-            "borda-avg-no-uwi": 0,
+            "borda-om": 5,
+            "borda-avg": 2,
             "top-3-truncation": 1,
             "condorcet": 1,
             "minimax": 1,
-            "smith_plurality": 0,
-            "smith_irv": 0,
+            "smith_plurality": 1,
+            "smith_irv": 1,
             "smith-minimax": 1,
             "ranked-pairs": 1,
-            "bucklin": 0,
+            "bucklin": 3,
             "approval": 1
         },
         "method_counts_lower": {
@@ -41,8 +41,8 @@
             "IRV": 0,
             "top-two": 0,
             "borda-pm": 0,
-            "borda-om-no-uwi": 1,
-            "borda-avg-no-uwi": 0,
+            "borda-om": 1,
+            "borda-avg": 0,
             "top-3-truncation": 0,
             "condorcet": 0,
             "minimax": 0,
@@ -66,20 +66,36 @@
         "places": [
             3,
             5
-        ]
+        ],
+        "num_cands:place": {
+            "8:3": 2,
+            "5:3": 11,
+            "9:3": 1,
+            "14:5": 1,
+            "7:3": 3,
+            "6:3": 1
+        }
     },
     "changes": {
         "raw_data/australia/processed_data/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Brighton with candidates.csv": {},
         "raw_data/australia/processed_data/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Northcote with candidates.csv": {},
+        "raw_data/australia/processed_data/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Werribee with candidates.csv": {},
         "raw_data/australia/processed_data/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Hawthorn with candidates.csv": {},
         "raw_data/australia/processed_data/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Preston with Candidates.csv": {},
+        "raw_data/australia/processed_data/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Melton with candidates.csv": {},
         "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Ballina-mayoral-finalpreferencedatafile (1).csv": {},
         "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/The_Hills_Shire-mayoral-finalpreferencedatafile.csv": {},
         "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Nambucca_Valley-mayoral-finalpreferencedatafile.csv": {},
         "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Sydney-mayoral-finalpreferencedatafile.csv": {},
         "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Coffs_Harbour-mayoral-finalpreferencedatafile.csv": {},
         "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Lismore-mayoral-finalpreferencedatafile.csv": {},
-        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Eurobodalla-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Eurobodalla-mayoral-finalpreferencedatafile.csv": {
+            "bucklin": {
+                "num_cands": 8,
+                "winner": "['STARMER Karyn']",
+                "rank (out of first place votes)": 3
+            }
+        },
         "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Shellharbour-mayoral-finalpreferencedatafile.csv": {},
         "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Singleton-mayoral-finalpreferencedatafile.csv": {},
         "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Uralla-mayoral-finalpreferencedatafile.csv": {},
@@ -91,7 +107,12 @@
         "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Wollondilly-mayoral-finalpreferencedatafile.csv": {},
         "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Griffith-mayoral-finalpreferencedatafile.csv": {},
         "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Hunters_Hill-mayoral-finalpreferencedatafile.csv": {
-            "borda-om-no-uwi": {
+            "borda-om": {
+                "num_cands": 5,
+                "winner": "['QUINN Richard']",
+                "rank (out of first place votes)": 3
+            },
+            "borda-avg": {
                 "num_cands": 5,
                 "winner": "['QUINN Richard']",
                 "rank (out of first place votes)": 3
@@ -111,12 +132,27 @@
                 "winner": "['QUINN Richard']",
                 "rank (out of first place votes)": 3
             },
+            "smith_plurality": {
+                "num_cands": 5,
+                "winner": "['QUINN Richard']",
+                "rank (out of first place votes)": 3
+            },
+            "smith_irv": {
+                "num_cands": 5,
+                "winner": "['QUINN Richard']",
+                "rank (out of first place votes)": 3
+            },
             "smith-minimax": {
                 "num_cands": 5,
                 "winner": "['QUINN Richard']",
                 "rank (out of first place votes)": 3
             },
             "ranked-pairs": {
+                "num_cands": 5,
+                "winner": "['QUINN Richard']",
+                "rank (out of first place votes)": 3
+            },
+            "bucklin": {
                 "num_cands": 5,
                 "winner": "['QUINN Richard']",
                 "rank (out of first place votes)": 3
@@ -220,7 +256,7 @@
         "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Bankstown.csv": {},
         "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Canterbury.csv": {},
         "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Coffs Harbour.csv": {
-            "borda-om-no-uwi": {
+            "borda-om": {
                 "num_cands": 9,
                 "winner": "['TOWNLEY Sally']",
                 "rank (out of first place votes)": 3
@@ -249,7 +285,7 @@
         "raw_data/australia/processed_data/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Strathfield.csv": {},
         "raw_data/australia/processed_data/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Willoughby.csv": {},
         "raw_data/australia/processed_data/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2101 LA Pref Data_NA_Upper Hunter.csv": {
-            "borda-om-no-uwi": {
+            "borda-om": {
                 "num_cands": 14,
                 "winner": "[\"O'CONNELL Kirsty\"]",
                 "rank (out of first place votes)": 5
@@ -264,7 +300,7 @@
         "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Holsworthy.csv": {},
         "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Wollondilly.csv": {},
         "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Wollongong.csv": {
-            "borda-om-no-uwi": {
+            "borda-om": {
                 "num_cands": 8,
                 "winner": "['RORRIS Arthur']",
                 "rank (out of first place votes)": 3
@@ -326,7 +362,17 @@
         "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Baulkham Hills.csv": {},
         "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Ballina.csv": {},
         "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Lismore.csv": {
-            "borda-om-no-uwi": {
+            "borda-om": {
+                "num_cands": 7,
+                "winner": "['SMITH Isaac']",
+                "rank (out of first place votes)": 3
+            },
+            "borda-avg": {
+                "num_cands": 7,
+                "winner": "['SMITH Isaac']",
+                "rank (out of first place votes)": 3
+            },
+            "bucklin": {
                 "num_cands": 7,
                 "winner": "['SMITH Isaac']",
                 "rank (out of first place votes)": 3
@@ -435,7 +481,7 @@
         "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data North Shore.csv": {},
         "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wagga Wagga.csv": {},
         "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Lane Cove.csv": {
-            "borda-om-no-uwi": {
+            "borda-om": {
                 "num_cands": 6,
                 "winner": "['DAVIDSON Victoria']",
                 "rank (out of first place votes)": 3

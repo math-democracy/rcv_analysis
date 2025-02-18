@@ -1,6 +1,6 @@
 import sys
 sys.path.append('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal')
-import main_methods3 as mm
+import main_methods as mm
 import david_methods as dm
 import multiprocessing
 import csv
@@ -9,14 +9,14 @@ import pandas as pd
 
 num_cands_to_keep = 4
 
-data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/newest/results/australia.csv' # output file
+data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/results/australia.csv' # output file
 root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/australia/processed_data' # data (ex: /Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/australia/processed_data)
 
-error_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/newest/results/supporting_files/australia_error.txt'
-processed_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/newest/results/supporting_files/australia_processed.txt'
+error_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/results/supporting_files/australia_error.txt'
+processed_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/results/supporting_files/australia_processed.txt'
 all_data = []
 processed = []
-error_d = ['BallotPaperDetails-Werribee with candidates.csv', 'BallotPaperDetails-Point Cook with candidates.csv', 'BallotPaperDetails-Melton with candidates.csv']
+error_d = []
 
 def file_less_than_3mb(file_path):
     try:
@@ -65,7 +65,7 @@ def run_voting_methods(full_path):
     # 3 = winner has third fewest first place votes
     # None = winner is not in the bottom 3
     method = 'plurality'
-    data['plurality'] = list(mm.Plurality(prof=v))
+    data['plurality'] = list(mm.Plurality(prof=v,tiebreak='first_place'))
     if len(data[f'{method}']) == 1:
         if data[f'{method}'][0] is None:
             data[f'{method}_rank'] = None
@@ -75,7 +75,7 @@ def run_voting_methods(full_path):
         data[f'{method}_rank'] = "multiple"
 
     method = 'IRV'
-    data['IRV'] = list(mm.IRV(prof=v))
+    data['IRV'] = list(mm.IRV(prof=v,tiebreak='first_place'))
     if len(data[f'{method}']) == 1:
         if data[f'{method}'][0] is None:
             data[f'{method}_rank'] = None
@@ -85,7 +85,7 @@ def run_voting_methods(full_path):
         data[f'{method}_rank'] = "multiple"
     
     method = 'top-two'
-    data['top-two'] = list(mm.TopTwo(prof=v))
+    data['top-two'] = list(mm.TopTwo(prof=v,tiebreak='first_place'))
     if len(data[f'{method}']) == 1:
         if data[f'{method}'][0] is None:
             data[f'{method}_rank'] = None
@@ -95,7 +95,7 @@ def run_voting_methods(full_path):
         data[f'{method}_rank'] = "multiple"
 
     method = 'borda-pm'
-    data['borda-pm'] = list(dm.Borda_PM(d_profile, candidates, num_cands))
+    data['borda-pm'] = list(mm.Borda_PM(prof=v, tiebreak='first_place'))
     if len(data[f'{method}']) == 1:
         if data[f'{method}'][0] is None:
             data[f'{method}_rank'] = None
@@ -104,8 +104,8 @@ def run_voting_methods(full_path):
     else:
         data[f'{method}_rank'] = "multiple"
 
-    method = 'borda-om-no-uwi'
-    data['borda-om-no-uwi'] = list(dm.Borda_OM(d_profile, candidates, num_cands, False))
+    method = 'borda-om'
+    data['borda-om'] = list(mm.Borda_OM(prof=v, tiebreak='first_place'))
     if len(data[f'{method}']) == 1:
         if data[f'{method}'][0] is None:
             data[f'{method}_rank'] = None
@@ -114,8 +114,8 @@ def run_voting_methods(full_path):
     else:
         data[f'{method}_rank'] = "multiple"
 
-    method = 'borda-avg-no-uwi'
-    data['borda-avg-no-uwi'] = list(dm.Borda_AVG(d_profile, candidates, num_cands, False))
+    method = 'borda-avg'
+    data['borda-avg'] = list(mm.Borda_AVG(prof=v, tiebreak='first_place'))
     if len(data[f'{method}']) == 1:
         if data[f'{method}'][0] is None:
             data[f'{method}_rank'] = None
@@ -125,7 +125,7 @@ def run_voting_methods(full_path):
         data[f'{method}_rank'] = "multiple"
 
     method = 'top-3-truncation'
-    data['top-3-truncation'] = mm.Top3Truncation(prof=v)
+    data['top-3-truncation'] = mm.Top3Truncation(prof=v,tiebreak='first_place')
     if isinstance(data['top-3-truncation'], str):
         data['top-3-truncation'] = [data['top-3-truncation']]
     else:
@@ -140,7 +140,7 @@ def run_voting_methods(full_path):
         data[f'{method}_rank'] = "multiple"
 
     method = 'condorcet'
-    data['condorcet'] = list(mm.Condorcet(prof=v))
+    data['condorcet'] = list(mm.Condorcet(prof=v,tiebreak='first_place'))
     if len(data[f'{method}']) == 1:
         if data[f'{method}'][0] is None:
             data[f'{method}_rank'] = None
@@ -150,7 +150,7 @@ def run_voting_methods(full_path):
         data[f'{method}_rank'] = "multiple"
 
     method = 'minimax'
-    data['minimax'] = list(mm.Minimax(prof=v))
+    data['minimax'] = list(mm.Minimax(prof=v,tiebreak='first_place'))
     if len(data[f'{method}']) == 1:
         if data[f'{method}'][0] is None:
             data[f'{method}_rank'] = None
@@ -160,7 +160,7 @@ def run_voting_methods(full_path):
         data[f'{method}_rank'] = "multiple"
 
     method = 'smith_plurality'
-    data['smith_plurality'] = list(mm.Smith_Plurality(prof=v))
+    data['smith_plurality'] = list(mm.Smith_Plurality(prof=v,tiebreak='first_place'))
     if len(data[f'{method}']) == 1:
         if data[f'{method}'][0] is None:
             data[f'{method}_rank'] = None
@@ -170,7 +170,7 @@ def run_voting_methods(full_path):
         data[f'{method}_rank'] = "multiple"
 
     method = 'smith_irv'
-    data['smith_irv'] = list(mm.Smith_IRV(prof=v))
+    data['smith_irv'] = list(mm.Smith_IRV(prof=v,tiebreak='first_place'))
     if len(data[f'{method}']) == 1:
         if data[f'{method}'][0] is None:
             data[f'{method}_rank'] = None
@@ -180,7 +180,7 @@ def run_voting_methods(full_path):
         data[f'{method}_rank'] = "multiple"
 
     method = 'smith-minimax'
-    data['smith-minimax'] = list(mm.Smith_Minimax(prof=v))
+    data['smith-minimax'] = list(mm.Smith_Minimax(prof=v,tiebreak='first_place'))
     if len(data[f'{method}']) == 1:
         if data[f'{method}'][0] is None:
             data[f'{method}_rank'] = None
@@ -190,7 +190,7 @@ def run_voting_methods(full_path):
         data[f'{method}_rank'] = "multiple"
 
     method = 'ranked-pairs'
-    data['ranked-pairs'] = list(mm.Ranked_Pairs(prof=v))
+    data['ranked-pairs'] = list(mm.Ranked_Pairs(prof=v,tiebreak='first_place'))
     if len(data[f'{method}']) == 1:
         if data[f'{method}'][0] is None:
             data[f'{method}_rank'] = None
@@ -200,7 +200,7 @@ def run_voting_methods(full_path):
         data[f'{method}_rank'] = "multiple"
 
     method = 'bucklin'
-    data['bucklin'] = list(mm.Bucklin(prof=v))
+    data['bucklin'] = list(mm.Bucklin(prof=v,tiebreak='first_place'))
     if len(data[f'{method}']) == 1:
         if data[f'{method}'][0] is None:
             data[f'{method}_rank'] = None
@@ -210,7 +210,7 @@ def run_voting_methods(full_path):
         data[f'{method}_rank'] = "multiple"
 
     method = 'approval'
-    data['approval'] = list(mm.Ranked_Pairs(prof=v))
+    data['approval'] = list(mm.Ranked_Pairs(prof=v,tiebreak='first_place'))
     if len(data[f'{method}']) == 1:
         if data[f'{method}'][0] is None:
             data[f'{method}_rank'] = None

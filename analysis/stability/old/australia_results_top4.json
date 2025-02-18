@@ -1,0 +1,946 @@
+{
+    "metadata": {
+        "total_elections": 327,
+        "elections_with_changes": 102,
+        "method_counts": {
+            "plurality": 1,
+            "IRV": 0,
+            "top-two": 0,
+            "borda-pm": 5,
+            "borda-om-no-uwi": 29,
+            "borda-avg-no-uwi": 5,
+            "top-3-truncation": 5,
+            "condorcet": 0,
+            "minimax": 0,
+            "smith_plurality": 1,
+            "smith_irv": 0,
+            "smith-minimax": 0,
+            "ranked-pairs": 0,
+            "bucklin": 77,
+            "approval": 0
+        }
+    },
+    "changes": {
+        "raw_data/australia/processed_data/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Brighton with candidates.csv": {
+            "bucklin": {
+                "baseline_winner": "['James Newbury']",
+                "top4": "['Felicity Frederico', 'James Newbury']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Northcote with candidates.csv": {
+            "top-3-truncation": {
+                "baseline_winner": "['Kat Theophanous']",
+                "top4": "['Campbell Gome']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Hawthorn with candidates.csv": {
+            "borda-pm": {
+                "baseline_winner": "['John Pesutto']",
+                "top4": "['Melissa Lowe']"
+            },
+            "borda-om-no-uwi": {
+                "baseline_winner": "['John Pesutto']",
+                "top4": "['Melissa Lowe']"
+            },
+            "borda-avg-no-uwi": {
+                "baseline_winner": "['John Pesutto']",
+                "top4": "['Melissa Lowe']"
+            },
+            "top-3-truncation": {
+                "baseline_winner": "['John Pesutto']",
+                "top4": "['Melissa Lowe']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Preston with Candidates.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Ballina-mayoral-finalpreferencedatafile (1).csv": {
+            "bucklin": {
+                "baseline_winner": "['CADWALLADER Sharon']",
+                "top4": "['CADWALLADER Sharon', 'JOHNSON Jeff']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/The_Hills_Shire-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Nambucca_Valley-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Sydney-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Coffs_Harbour-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Lismore-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Eurobodalla-mayoral-finalpreferencedatafile.csv": {
+            "bucklin": {
+                "baseline_winner": "['GRACE David', 'HATCHER Mat', 'WORTHINGTON Alison', 'HARRISON N (Tubby)', 'POLLOCK Rob', 'STARMER Karyn']",
+                "top4": "['HATCHER Mat']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Shellharbour-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Singleton-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Uralla-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Shoalhaven-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Port_Macquarie-Hastings-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Richmond_Valley-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Lake_Macquarie-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Port_Stephens-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Wollondilly-mayoral-finalpreferencedatafile.csv": {
+            "bucklin": {
+                "baseline_winner": "['HANNAN Judy', 'GOULD Matt', 'DEETH Matthew']",
+                "top4": "['HANNAN Judy', 'GOULD Matt']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Griffith-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Hunters_Hill-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Cessnock-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Newcastle-mayoral-finalpreferencedatafile.csv": {
+            "bucklin": {
+                "baseline_winner": "['NELMES Nuatali']",
+                "top4": "['NELMES Nuatali', 'CHURCH John']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Willoughby-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Maitland-mayoral-finalpreferencedatafile.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['PENFOLD Philip']",
+                "top4": "['BAKER Loretta']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Broken_Hill-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Bellingen-mayoral-finalpreferencedatafile (1).csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Byron-mayoral-finalpreferencedatafile.csv": {
+            "bucklin": {
+                "baseline_winner": "['LYON Michael']",
+                "top4": "['SWIVEL Mark', 'LYON Michael']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Orange-mayoral-finalpreferencedatafile.csv": {
+            "bucklin": {
+                "baseline_winner": "['JONES Neil', 'MILETO Tony', 'WHITTON Jeffery', 'HAMLING Jason', 'SMITH Lesley', 'DUFFY Kevin', 'SPALDING Amanda']",
+                "top4": "['MILETO Tony', 'HAMLING Jason']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Hornsby-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Kempsey-mayoral-finalpreferencedatafile.csv": {
+            "bucklin": {
+                "baseline_winner": "['CAMPBELL Liz', 'HAUVILLE Leo']",
+                "top4": "['HAUVILLE Leo', 'CAMPBELL Liz']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Burwood-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Wollongong-mayoral-finalpreferencedatafile.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['BROWN Tania']",
+                "top4": "['BRADBERY Gordon']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Liverpool-mayoral-finalpreferencedatafile.csv": {},
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_2017_ByElections/SB1702 LA Pref Data_NA_Cootamundra.csv": {
+            "bucklin": {
+                "baseline_winner": "['COOKE Steph']",
+                "top4": "['COOKE Steph', 'STADTMILLER Matthew', 'SHEAHAN Charlie']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_2017_ByElections/SB1702 LA Pref Data_NA_Murray.csv": {
+            "bucklin": {
+                "baseline_winner": "['EVANS Austin']",
+                "top4": "['EVANS Austin', 'DALTON Helen']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_2017_ByElections/SB1701 LA Pref Data_NA_Gosford.csv": {},
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_2017_ByElections/SB1701 LA Pref Data_NA_North Shore.csv": {
+            "bucklin": {
+                "baseline_winner": "['WILSON Felicity']",
+                "top4": "['CORRIGAN Carolyn', 'WILSON Felicity']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_2017_ByElections/SB1701 LA Pref Data_NA_Manly.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['RIDGE Kathryn']",
+                "top4": "['GRIFFIN James']"
+            },
+            "bucklin": {
+                "baseline_winner": "['GRIFFIN James']",
+                "top4": "['GRIFFIN James', 'RIDGE Kathryn']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_2017_ByElections/SB1702 LA Pref Data_NA_Blacktown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Murray.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Sydney.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Newtown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Balmain.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Camden.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['QUINNELL Sally']",
+                "top4": "['SIDGREAVES Peter']"
+            },
+            "bucklin": {
+                "baseline_winner": "['SIDGREAVES Peter']",
+                "top4": "['QUINNELL Sally', 'SIDGREAVES Peter']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Maitland.csv": {
+            "bucklin": {
+                "baseline_winner": "['AITCHISON Jenny']",
+                "top4": "['HALLIDAY Sally', 'AITCHISON Jenny']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Ku-ring-gai.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Bega.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Orange.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Goulburn.csv": {
+            "bucklin": {
+                "baseline_winner": "['STEPHENS Ursula', 'TUCKERMAN Wendy']",
+                "top4": "['TUCKERMAN Wendy', 'STEPHENS Ursula']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Kiama.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Wollondilly.csv": {
+            "bucklin": {
+                "baseline_winner": "['SMITH Nathaniel']",
+                "top4": "['SMITH Nathaniel', 'HANNAN Judy']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Fairfield.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Coogee.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Cessnock.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Maroubra.csv": {
+            "bucklin": {
+                "baseline_winner": "['DALEY Michael']",
+                "top4": "['DALEY Michael', 'FARMER Patrick']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data The Entrance.csv": {
+            "bucklin": {
+                "baseline_winner": "['MEHAN David']",
+                "top4": "['MEHAN David', 'PERREM Brian']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Bathurst.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Oatley.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Swansea.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Blue Mountains.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Miranda.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Auburn.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Barwon.csv": {
+            "bucklin": {
+                "baseline_winner": "['BUTLER Roy']",
+                "top4": "['SCHIER Andrew', 'BUTLER Roy']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lakemba.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Mount Druitt.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Pittwater.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['KORZY Miranda']",
+                "top4": "['STOKES Robert']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data East Hills.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Gosford.csv": {
+            "bucklin": {
+                "baseline_winner": "['TESCH Liesl']",
+                "top4": "['TESCH Liesl', 'DENGATE Susan']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Monaro.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['WILSON Bryce']",
+                "top4": "['BARILARO John']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Cootamundra.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Parramatta.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['SCULLY Liz']",
+                "top4": "['LEE Geoffrey']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Epping.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Blacktown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Wyong.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lake Macquarie.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data North Shore.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['CORRIGAN Carolyn']",
+                "top4": "['WILSON Felicity']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Kogarah.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Wagga Wagga.csv": {
+            "bucklin": {
+                "baseline_winner": "['McGIRR Joe']",
+                "top4": "['POWELL Mackenna', 'McGIRR Joe']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Shellharbour.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Port Macquarie.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Riverstone.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Wallsend.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Penrith.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Seven Hills.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Prospect.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Terrigal.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['SUNDSTROM Jeff']",
+                "top4": "['CROUCH Adam']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Macquarie Fields.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Dubbo.csv": {
+            "bucklin": {
+                "baseline_winner": "['SAUNDERS Dugald']",
+                "top4": "['DICKERSON Mathew', 'SAUNDERS Dugald']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Hornsby.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lane Cove.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['ZBIK Andrew']",
+                "top4": "['ROBERTS Anthony']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Tweed.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Mulgoa.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Wollongong.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Keira.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Tamworth.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Clarence.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Port Stephens.csv": {
+            "bucklin": {
+                "baseline_winner": "['ABBOTT Jaimie', 'WASHINGTON Kate']",
+                "top4": "['WASHINGTON Kate']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Holsworthy.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Davidson.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Granville.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Rockdale.csv": {
+            "bucklin": {
+                "baseline_winner": "['KAMPER Steve']",
+                "top4": "['KAMPER Steve', 'HASSAN Sam']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Charlestown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Newcastle.csv": {
+            "bucklin": {
+                "baseline_winner": "['CRAKANTHORP Tim']",
+                "top4": "['McCABE Charlotte', 'CRAKANTHORP Tim']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Wakehurst.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Campbelltown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Manly.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['GLANVILLE Kristyn']",
+                "top4": "['GRIFFIN James']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Castle Hill.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Heffron.csv": {
+            "bucklin": {
+                "baseline_winner": "['HOENIG Ron']",
+                "top4": "['CHAPPLE Kym', 'HOENIG Ron']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Londonderry.csv": {
+            "bucklin": {
+                "baseline_winner": "['CAR Prue', 'HILL Belinda']",
+                "top4": "['CAR Prue']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Upper Hunter.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Bankstown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Canterbury.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Coffs Harbour.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['TOWNLEY Sally']",
+                "top4": "['SINGH Gurmesh']"
+            },
+            "bucklin": {
+                "baseline_winner": "['SINGH Gurmesh']",
+                "top4": "['SINGH Gurmesh', 'JUDGE Tony', 'TOWNLEY Sally']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Liverpool.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Strathfield.csv": {
+            "bucklin": {
+                "baseline_winner": "['MCKAY Jodi']",
+                "top4": "['MADIRAZZA Philip', 'MCKAY Jodi']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Ryde.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Albury.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Cronulla.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lismore.csv": {
+            "top-3-truncation": {
+                "baseline_winner": "['CURTIN Austin']",
+                "top4": "['SAFFIN Janelle']"
+            },
+            "bucklin": {
+                "baseline_winner": "['SAFFIN Janelle']",
+                "top4": "['CURTIN Austin', 'SAFFIN Janelle', 'HIGGINSON Sue']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Hawkesbury.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['REYNOLDS Peter']",
+                "top4": "['PRESTON Robyn']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Ballina.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Summer Hill.csv": {
+            "bucklin": {
+                "baseline_winner": "['HAYLEN Jo']",
+                "top4": "['RAUE Tom', 'HAYLEN Jo']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Baulkham Hills.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Heathcote.csv": {
+            "bucklin": {
+                "baseline_winner": "['EVANS Lee', 'STUART Maryanne']",
+                "top4": "['EVANS Lee']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Drummoyne.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Northern Tablelands.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Myall Lakes.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['KEEGAN David']",
+                "top4": "['BROMHEAD Stephen']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Oxley.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data South Coast.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Willoughby.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Cabramatta.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Vaucluse.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['McEWIN Megan']",
+                "top4": "['UPTON Gabrielle']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_Victoria_LegAssembly_2018/BallotPaperDetails-Melbourne District SE2018.csv": {},
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Strathfield.csv": {
+            "bucklin": {
+                "baseline_winner": "['LI Jason Yat-Sen']",
+                "top4": "['SAKR Bridget', 'LI Jason Yat-Sen']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Willoughby.csv": {
+            "bucklin": {
+                "baseline_winner": "['JAMES Tim']",
+                "top4": "['PENN Larissa', 'JAMES Tim']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2101 LA Pref Data_NA_Upper Hunter.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "[\"O'CONNELL Kirsty\"]",
+                "top4": "['LAYZELL Dave']"
+            },
+            "bucklin": {
+                "baseline_winner": "['LAYZELL Dave', 'DRAYTON Jeff']",
+                "top4": "['LAYZELL Dave', 'GILROY Sue', 'DRAYTON Jeff']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Bega.csv": {
+            "bucklin": {
+                "baseline_winner": "['HOLLAND Michael']",
+                "top4": "['HOLLAND Michael', 'KOTVOJS Fiona']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Monaro.csv": {
+            "bucklin": {
+                "baseline_winner": "['OVERALL Nichole']",
+                "top4": "['OVERALL Nichole', 'WILSON Bryce']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB1801 LA Pref Data_NA_Wagga Wagga.csv": {
+            "bucklin": {
+                "baseline_winner": "['HAYES Dan', 'McGIRR Joe']",
+                "top4": "['McGIRR Joe']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Cessnock.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Keira.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Maroubra.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Holsworthy.csv": {
+            "bucklin": {
+                "baseline_winner": "['KALIYANDA Charishma', 'GIBBONS Melanie']",
+                "top4": "['GIBBONS Melanie']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Wollondilly.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Wollongong.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['RORRIS Arthur']",
+                "top4": "['HAY Noreen']"
+            },
+            "bucklin": {
+                "baseline_winner": "['HAY Noreen']",
+                "top4": "['RORRIS Arthur', 'HAY Noreen']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Penrith.csv": {
+            "bucklin": {
+                "baseline_winner": "['AYRES Stuart']",
+                "top4": "['AYRES Stuart', 'HUSAR Emma']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Upper Hunter.csv": {
+            "bucklin": {
+                "baseline_winner": "['JOHNSEN Michael']",
+                "top4": "['WATTS Lee', 'JOHNSEN Michael', 'RUSH Martin']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Bathurst.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Bankstown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Dubbo.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Newcastle.csv": {
+            "bucklin": {
+                "baseline_winner": "['CRAKANTHORP Tim']",
+                "top4": "['OSBORNE Michael', 'CRAKANTHORP Tim', 'HOWARD Karen']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Campbelltown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Tweed.csv": {
+            "top-3-truncation": {
+                "baseline_winner": "['PROVEST Geoff']",
+                "top4": "['GOODMAN Ron']"
+            },
+            "bucklin": {
+                "baseline_winner": "['GOODMAN Ron', 'PROVEST Geoff']",
+                "top4": "['GOODMAN Ron', 'VICKERS Andrea', 'PROVEST Geoff']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Wakehurst.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Kogarah.csv": {
+            "bucklin": {
+                "baseline_winner": "['MINNS Chris']",
+                "top4": "['ARONEY Nick', 'MINNS Chris']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Lake Macquarie.csv": {
+            "bucklin": {
+                "baseline_winner": "['PIPER Greg']",
+                "top4": "['PIPER Greg', 'CLEARY Melissa']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Manly.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Canterbury.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Coffs Harbour.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Port Macquarie.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Granville.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Maitland.csv": {
+            "bucklin": {
+                "baseline_winner": "['AITCHISON Jenny']",
+                "top4": "['PENFOLD Philip', 'AITCHISON Jenny']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Gosford.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Albury.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Lane Cove.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Ku-ring-gai.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Goulburn.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Lakemba.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Hawkesbury.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Miranda.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['HOLLAND Greg']",
+                "top4": "['PETINOS Eleni']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Bega.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_North Shore.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Wagga Wagga.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Swansea.csv": {
+            "bucklin": {
+                "baseline_winner": "['CATLEY Yasmin']",
+                "top4": "['UIDAM Johanna', 'CATLEY Yasmin']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Prospect.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Wallsend.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Heathcote.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Drummoyne.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Seven Hills.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['BENJAMIN Susai']",
+                "top4": "['TAYLOR Mark']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Terrigal.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Cabramatta.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Cootamundra.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Mulgoa.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Willoughby.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Blue Mountains.csv": {
+            "bucklin": {
+                "baseline_winner": "['DOYLE Trish']",
+                "top4": "['DOYLE Trish', 'TASIRE Alandra']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Liverpool.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Balmain.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Newtown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Port Stephens.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Oxley.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Kiama.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Fairfield.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Northern Tablelands.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_The Entrance.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Londonderry.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Ryde.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Castle Hill.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Barwon.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Baulkham Hills.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Ballina.csv": {
+            "borda-pm": {
+                "baseline_winner": "['BEAVIS Kris']",
+                "top4": "['SMITH Tamara']"
+            },
+            "borda-avg-no-uwi": {
+                "baseline_winner": "['BEAVIS Kris']",
+                "top4": "['SMITH Tamara']"
+            },
+            "bucklin": {
+                "baseline_winner": "['SMITH Tamara', 'JOHNSON Jeff', 'SPOONER Paul']",
+                "top4": "['SMITH Tamara']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Lismore.csv": {
+            "top-3-truncation": {
+                "baseline_winner": "['GEORGE Thomas']",
+                "top4": "['SMITH Isaac']"
+            },
+            "bucklin": {
+                "baseline_winner": "['GUISE Adam', 'SMITH Isaac']",
+                "top4": "['GUISE Adam', 'GEORGE Thomas', 'SMITH Isaac']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Monaro.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Epping.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Macquarie Fields.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Clarence.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['GILBERT Trent']",
+                "top4": "['GULAPTIS Chris']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Charlestown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Tamworth.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['DRAPER Peter']",
+                "top4": "['ANDERSON Kevin']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Rockdale.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Davidson.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Myall Lakes.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['KEEGAN David']",
+                "top4": "['BROMHEAD Stephen']"
+            },
+            "bucklin": {
+                "baseline_winner": "['BROMHEAD Stephen']",
+                "top4": "['KEEGAN David', 'BROMHEAD Stephen']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Coogee.csv": {
+            "bucklin": {
+                "baseline_winner": "['NOTLEY-SMITH Bruce', 'PEARCE Paul']",
+                "top4": "['NOTLEY-SMITH Bruce', 'SHUREY Lindsay', 'PEARCE Paul']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_South Coast.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Summer Hill.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Wyong.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Heffron.csv": {
+            "bucklin": {
+                "baseline_winner": "['HOENIG Ron']",
+                "top4": "['HOENIG Ron', 'FARUQI Osman']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Oatley.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Parramatta.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['SHAW James']",
+                "top4": "['LEE Geoff']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_East Hills.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Vaucluse.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Auburn.csv": {
+            "bucklin": {
+                "baseline_winner": "['FOLEY Luke']",
+                "top4": "['FOLEY Luke', 'OUEIK Ronney']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Shellharbour.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Murray.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Sydney.csv": {
+            "bucklin": {
+                "baseline_winner": "['GREENWICH Alex']",
+                "top4": "['GREENWICH Alex', 'PANDELEOS Patrice']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Camden.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Strathfield.csv": {
+            "borda-pm": {
+                "baseline_winner": "['CASUSCELLI Charles']",
+                "top4": "['McKAY Jodi']"
+            },
+            "borda-avg-no-uwi": {
+                "baseline_winner": "['CASUSCELLI Charles']",
+                "top4": "['McKAY Jodi']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Cronulla.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Pittwater.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Riverstone.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Mount Druitt.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Hornsby.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Orange.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Blacktown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Clarence.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Oatley.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Pittwater.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Riverstone.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Tamworth.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Rockdale.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Northern Tablelands.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Bega.csv": {
+            "bucklin": {
+                "baseline_winner": "['HOLLAND Michael']",
+                "top4": "['HOLLAND Michael', 'FITZPATRICK Russell']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Coogee.csv": {
+            "bucklin": {
+                "baseline_winner": "[\"O'NEILL Marjorie\"]",
+                "top4": "[\"O'NEILL Marjorie\", 'PANDOLFINI Rafaela']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Davidson.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Blacktown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Auburn.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Newtown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Londonderry.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Castle Hill.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Balmain.csv": {
+            "borda-pm": {
+                "baseline_winner": "['SCOTT Philippa']",
+                "top4": "['SHETTY Kobi']"
+            },
+            "borda-avg-no-uwi": {
+                "baseline_winner": "['SCOTT Philippa']",
+                "top4": "['SHETTY Kobi']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data The Entrance.csv": {
+            "bucklin": {
+                "baseline_winner": "['MEHAN David']",
+                "top4": "['BRACKEN Nathan', 'MEHAN David']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wyong.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Parramatta.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Camden.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Miranda.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Sydney.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Leppington.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Murray.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data East Hills.csv": {
+            "borda-pm": {
+                "baseline_winner": "['LINDSAY Wendy']",
+                "top4": "['WILKINSON Kylie']"
+            },
+            "borda-avg-no-uwi": {
+                "baseline_winner": "['LINDSAY Wendy']",
+                "top4": "['WILKINSON Kylie']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Orange.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Blue Mountains.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Swansea.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Charlestown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wahroonga.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['ABEDINI Parsia']",
+                "top4": "['HENSKENS Alister']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Summer Hill.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Cronulla.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Myall Lakes.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['BENDALL Jason']",
+                "top4": "['THOMPSON Tanya']"
+            },
+            "bucklin": {
+                "baseline_winner": "['THOMPSON Tanya']",
+                "top4": "['BENDALL Jason', 'THOMPSON Tanya']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data South Coast.csv": {
+            "bucklin": {
+                "baseline_winner": "['BUTLER Liza']",
+                "top4": "['SIKORA Luke', 'BUTLER Liza']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Lake Macquarie.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Kiama.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Gosford.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Shellharbour.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Fairfield.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Port Macquarie.csv": {
+            "bucklin": {
+                "baseline_winner": "['WILLIAMS Leslie']",
+                "top4": "['PINSON Peta', 'WILLIAMS Leslie']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Strathfield.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Epping.csv": {
+            "bucklin": {
+                "baseline_winner": "['PERROTTET Dominic', 'MASCARENHAS Alan']",
+                "top4": "['PERROTTET Dominic']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Monaro.csv": {
+            "bucklin": {
+                "baseline_winner": "['WHAN Steven']",
+                "top4": "['WHAN Steven', 'OVERALL Nichole']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Penrith.csv": {
+            "plurality": {
+                "baseline_winner": "['AYRES Stuart']",
+                "top4": "['McKEOWN Karen']"
+            },
+            "smith_plurality": {
+                "baseline_winner": "['AYRES Stuart']",
+                "top4": "['McKEOWN Karen']"
+            },
+            "bucklin": {
+                "baseline_winner": "['McKEOWN Karen']",
+                "top4": "['AYRES Stuart', 'McKEOWN Karen']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Barwon.csv": {
+            "bucklin": {
+                "baseline_winner": "['BUTLER Roy']",
+                "top4": "['TURNER Annette', 'BUTLER Roy']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Vaucluse.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['FREYER Karen']",
+                "top4": "['SLOANE Kellie']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Kogarah.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Mount Druitt.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wollondilly.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Liverpool.csv": {
+            "bucklin": {
+                "baseline_winner": "['KALIYANDA Charishma']",
+                "top4": "['KALIYANDA Charishma', 'AMMOUN Richard']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Maitland.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Goulburn.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Upper Hunter.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Cabramatta.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Hornsby.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['HOILE Melissa']",
+                "top4": "['KEAN Matt']"
+            },
+            "bucklin": {
+                "baseline_winner": "['KEAN Matt']",
+                "top4": "['HOILE Melissa', 'KEAN Matt']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Badgerys Creek.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Campbelltown.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Willoughby.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Heffron.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Kellyville.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Drummoyne.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Heathcote.csv": {
+            "bucklin": {
+                "baseline_winner": "['STUART Maryanne']",
+                "top4": "['RIACH Cooper', 'STUART Maryanne']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Oxley.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Hawkesbury.csv": {
+            "bucklin": {
+                "baseline_winner": "['PRESTON Robyn']",
+                "top4": "['PRESTON Robyn', 'KOTLASH Amanda']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Coffs Harbour.csv": {
+            "borda-om-no-uwi": {
+                "baseline_winner": "['JUDGE Tony']",
+                "top4": "['SINGH Gurmesh']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Maroubra.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Cessnock.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Winston Hills.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Bathurst.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data North Shore.csv": {
+            "bucklin": {
+                "baseline_winner": "['WILSON Felicity']",
+                "top4": "['WILSON Felicity', 'CONWAY Helen']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wagga Wagga.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Lane Cove.csv": {
+            "bucklin": {
+                "baseline_winner": "['ROBERTS Anthony']",
+                "top4": "['DAVIDSON Victoria', 'ROBERTS Anthony', 'PEDERSEN Penelope']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Dubbo.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Lismore.csv": {
+            "bucklin": {
+                "baseline_winner": "['SAFFIN Janelle']",
+                "top4": "['GUISE Adam', 'SAFFIN Janelle']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Tweed.csv": {
+            "bucklin": {
+                "baseline_winner": "['PROVEST Geoff']",
+                "top4": "['ELLIOT Craig', 'PROVEST Geoff']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ballina.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ryde.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Keira.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Canterbury.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Granville.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Macquarie Fields.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Prospect.csv": {
+            "bucklin": {
+                "baseline_winner": "['BIAG Kalvin', 'McDERMOTT Hugh']",
+                "top4": "['McDERMOTT Hugh']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Newcastle.csv": {
+            "bucklin": {
+                "baseline_winner": "['MACKENZIE John', 'CRAKANTHORP Tim']",
+                "top4": "['CRAKANTHORP Tim']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wallsend.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Port Stephens.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wakehurst.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Cootamundra.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Terrigal.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Holsworthy.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Manly.csv": {
+            "bucklin": {
+                "baseline_winner": "['GRIFFIN James']",
+                "top4": "['HACKMAN Joeline', 'GRIFFIN James']"
+            }
+        },
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wollongong.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Albury.csv": {},
+        "raw_data/australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Bankstown.csv": {}
+    }
+}

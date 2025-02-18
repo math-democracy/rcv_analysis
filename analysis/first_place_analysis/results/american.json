@@ -1,39 +1,39 @@
 {
     "metadata": {
-        "total_elections": 567,
-        "total_elections_with_hits": 12,
+        "total_elections": 572,
+        "total_elections_with_hits": 16,
         "total_method_counts_third_or_lower": {
             "plurality": 0,
             "IRV": 7,
             "top-two": 0,
-            "borda-pm": 9,
-            "borda-om-no-uwi": 8,
-            "borda-avg-no-uwi": 6,
+            "borda-pm": 7,
+            "borda-om": 9,
+            "borda-avg": 9,
             "top-3-truncation": 6,
             "condorcet": 9,
             "minimax": 10,
-            "smith_plurality": 0,
-            "smith_irv": 7,
+            "smith_plurality": 9,
+            "smith_irv": 10,
             "smith-minimax": 10,
             "ranked-pairs": 10,
-            "bucklin": 4,
+            "bucklin": 14,
             "approval": 10
         },
         "method_counts_third_place": {
             "plurality": 0,
             "IRV": 6,
             "top-two": 0,
-            "borda-pm": 9,
-            "borda-om-no-uwi": 8,
-            "borda-avg-no-uwi": 6,
+            "borda-pm": 7,
+            "borda-om": 9,
+            "borda-avg": 9,
             "top-3-truncation": 6,
             "condorcet": 8,
             "minimax": 9,
-            "smith_plurality": 0,
-            "smith_irv": 6,
+            "smith_plurality": 8,
+            "smith_irv": 9,
             "smith-minimax": 9,
             "ranked-pairs": 9,
-            "bucklin": 4,
+            "bucklin": 13,
             "approval": 9
         },
         "method_counts_lower": {
@@ -41,33 +41,49 @@
             "IRV": 1,
             "top-two": 0,
             "borda-pm": 0,
-            "borda-om-no-uwi": 0,
-            "borda-avg-no-uwi": 0,
+            "borda-om": 0,
+            "borda-avg": 0,
             "top-3-truncation": 0,
             "condorcet": 1,
             "minimax": 1,
-            "smith_plurality": 0,
+            "smith_plurality": 1,
             "smith_irv": 1,
             "smith-minimax": 1,
             "ranked-pairs": 1,
-            "bucklin": 0,
+            "bucklin": 1,
             "approval": 1
         },
         "num_cands_for_third_place_hits": [
             5,
+            6,
             7,
             8,
             12,
             14,
+            15,
             23
         ],
         "num_cands_for_third_or_lower_hits": [
+            12,
             20
         ],
         "places": [
             3,
-            4
-        ]
+            4,
+            5
+        ],
+        "num_cands:place": {
+            "5:3": 23,
+            "6:3": 1,
+            "8:3": 16,
+            "12:3": 21,
+            "12:5": 1,
+            "7:3": 24,
+            "23:3": 13,
+            "15:3": 1,
+            "14:3": 12,
+            "20:4": 8
+        }
     },
     "changes": {
         "raw_data/american/processed_data/Eastpointe, MI/Eastpointe_11022021_CityCouncil.csv": {},
@@ -86,12 +102,12 @@
                 "winner": "['Begich, Nick']",
                 "rank (out of first place votes)": 3
             },
-            "borda-om-no-uwi": {
+            "borda-om": {
                 "num_cands": 5,
                 "winner": "['Begich, Nick']",
                 "rank (out of first place votes)": 3
             },
-            "borda-avg-no-uwi": {
+            "borda-avg": {
                 "num_cands": 5,
                 "winner": "['Begich, Nick']",
                 "rank (out of first place votes)": 3
@@ -104,9 +120,19 @@
             "condorcet": {
                 "num_cands": 5,
                 "winner": "['Begich, Nick']",
-                "rank (out of first place votes)": 3.0
+                "rank (out of first place votes)": "3"
             },
             "minimax": {
+                "num_cands": 5,
+                "winner": "['Begich, Nick']",
+                "rank (out of first place votes)": 3
+            },
+            "smith_plurality": {
+                "num_cands": 5,
+                "winner": "['Begich, Nick']",
+                "rank (out of first place votes)": 3
+            },
+            "smith_irv": {
                 "num_cands": 5,
                 "winner": "['Begich, Nick']",
                 "rank (out of first place votes)": 3
@@ -120,6 +146,11 @@
                 "num_cands": 5,
                 "winner": "['Begich, Nick']",
                 "rank (out of first place votes)": 3.0
+            },
+            "bucklin": {
+                "num_cands": 5,
+                "winner": "['Begich, Nick']",
+                "rank (out of first place votes)": 3
             },
             "approval": {
                 "num_cands": 5,
@@ -200,7 +231,13 @@
         "raw_data/american/processed_data/Alaska/Alaska_11052024_StateHouseD13.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11052024_StateHouseD8.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_SenateDistrictH.csv": {},
-        "raw_data/american/processed_data/Alaska/Alaska_11082022_USRepresentative.csv": {},
+        "raw_data/american/processed_data/Alaska/Alaska_11082022_USRepresentative.csv": {
+            "bucklin": {
+                "num_cands": 6,
+                "winner": "['Begich, Nick']",
+                "rank (out of first place votes)": 3
+            }
+        },
         "raw_data/american/processed_data/Alaska/Alaska_11052024_StateSenateT.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11082022_SenateDistrictJ.csv": {},
         "raw_data/american/processed_data/Alaska/Alaska_11052024_StateHouseD11.csv": {},
@@ -323,6 +360,16 @@
                 "num_cands": 8,
                 "winner": "['Jan Shabro']",
                 "rank (out of first place votes)": 3
+            },
+            "borda-avg": {
+                "num_cands": 8,
+                "winner": "['Jan Shabro']",
+                "rank (out of first place votes)": 3
+            },
+            "bucklin": {
+                "num_cands": 8,
+                "winner": "['Jan Shabro']",
+                "rank (out of first place votes)": 3
             }
         },
         "raw_data/american/processed_data/Pierce County, WA/PierceCounty_11042008_CountyCouncilDistrict2.csv": {},
@@ -335,17 +382,17 @@
                 "winner": "['Chann, Marpheen S.']",
                 "rank (out of first place votes)": 3
             },
-            "borda-pm": {
+            "condorcet": {
+                "num_cands": 12,
+                "winner": "['Chann, Marpheen S.']",
+                "rank (out of first place votes)": "3"
+            },
+            "minimax": {
                 "num_cands": 12,
                 "winner": "['Chann, Marpheen S.']",
                 "rank (out of first place votes)": 3
             },
-            "condorcet": {
-                "num_cands": 12,
-                "winner": "['Chann, Marpheen S.']",
-                "rank (out of first place votes)": 3.0
-            },
-            "minimax": {
+            "smith_plurality": {
                 "num_cands": 12,
                 "winner": "['Chann, Marpheen S.']",
                 "rank (out of first place votes)": 3
@@ -364,6 +411,11 @@
                 "num_cands": 12,
                 "winner": "['Chann, Marpheen S.']",
                 "rank (out of first place votes)": 3.0
+            },
+            "bucklin": {
+                "num_cands": 12,
+                "winner": "['Buxton, Catherine A.']",
+                "rank (out of first place votes)": 5
             },
             "approval": {
                 "num_cands": 12,
@@ -398,7 +450,12 @@
         "raw_data/american/processed_data/Utah cities/Genola_11022021_CityCouncil.csv": {},
         "raw_data/american/processed_data/Utah cities/Vineyard_11052019_CityCouncil.csv": {},
         "raw_data/american/processed_data/Utah cities/Moab_11022021_CityCouncil.csv": {
-            "borda-om-no-uwi": {
+            "borda-om": {
+                "num_cands": 7,
+                "winner": "['LUKE WOJCIECHOWSKI']",
+                "rank (out of first place votes)": 3
+            },
+            "borda-avg": {
                 "num_cands": 7,
                 "winner": "['LUKE WOJCIECHOWSKI']",
                 "rank (out of first place votes)": 3
@@ -406,9 +463,19 @@
             "condorcet": {
                 "num_cands": 7,
                 "winner": "['LUKE WOJCIECHOWSKI']",
-                "rank (out of first place votes)": 3.0
+                "rank (out of first place votes)": "3"
             },
             "minimax": {
+                "num_cands": 7,
+                "winner": "['LUKE WOJCIECHOWSKI']",
+                "rank (out of first place votes)": 3
+            },
+            "smith_plurality": {
+                "num_cands": 7,
+                "winner": "['LUKE WOJCIECHOWSKI']",
+                "rank (out of first place votes)": 3
+            },
+            "smith_irv": {
                 "num_cands": 7,
                 "winner": "['LUKE WOJCIECHOWSKI']",
                 "rank (out of first place votes)": 3
@@ -426,7 +493,7 @@
             "bucklin": {
                 "num_cands": 7,
                 "winner": "['LUKE WOJCIECHOWSKI']",
-                "rank (out of first place votes)": "3"
+                "rank (out of first place votes)": 3
             },
             "approval": {
                 "num_cands": 7,
@@ -456,12 +523,12 @@
                 "winner": "['Andy Montroll']",
                 "rank (out of first place votes)": 3
             },
-            "borda-om-no-uwi": {
+            "borda-om": {
                 "num_cands": 7,
                 "winner": "['Andy Montroll']",
                 "rank (out of first place votes)": 3
             },
-            "borda-avg-no-uwi": {
+            "borda-avg": {
                 "num_cands": 7,
                 "winner": "['Andy Montroll']",
                 "rank (out of first place votes)": 3
@@ -474,9 +541,19 @@
             "condorcet": {
                 "num_cands": 7,
                 "winner": "['Andy Montroll']",
-                "rank (out of first place votes)": 3.0
+                "rank (out of first place votes)": "3"
             },
             "minimax": {
+                "num_cands": 7,
+                "winner": "['Andy Montroll']",
+                "rank (out of first place votes)": 3
+            },
+            "smith_plurality": {
+                "num_cands": 7,
+                "winner": "['Andy Montroll']",
+                "rank (out of first place votes)": 3
+            },
+            "smith_irv": {
                 "num_cands": 7,
                 "winner": "['Andy Montroll']",
                 "rank (out of first place votes)": 3
@@ -494,7 +571,7 @@
             "bucklin": {
                 "num_cands": 7,
                 "winner": "['Andy Montroll']",
-                "rank (out of first place votes)": "3"
+                "rank (out of first place votes)": 3
             },
             "approval": {
                 "num_cands": 7,
@@ -621,12 +698,12 @@
                 "winner": "['MIKE HUTCHINSON']",
                 "rank (out of first place votes)": 3
             },
-            "borda-pm": {
+            "borda-om": {
                 "num_cands": 5,
                 "winner": "['MIKE HUTCHINSON']",
                 "rank (out of first place votes)": 3
             },
-            "borda-om-no-uwi": {
+            "borda-avg": {
                 "num_cands": 5,
                 "winner": "['MIKE HUTCHINSON']",
                 "rank (out of first place votes)": 3
@@ -656,6 +733,11 @@
                 "winner": "['MIKE HUTCHINSON']",
                 "rank (out of first place votes)": 3.0
             },
+            "bucklin": {
+                "num_cands": 5,
+                "winner": "['MIKE HUTCHINSON']",
+                "rank (out of first place votes)": 3
+            },
             "approval": {
                 "num_cands": 5,
                 "winner": "['MIKE HUTCHINSON']",
@@ -666,7 +748,13 @@
         "raw_data/american/processed_data/Alameda County/Oakland_11082022_Schoolboarddistrict6.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11062012_CityCouncilDistrict7.csv": {},
         "raw_data/american/processed_data/Alameda County/SanLeandro_11062012_CountyCouncilDistrict2.csv": {},
-        "raw_data/american/processed_data/Alameda County/Oakland_11052024_CityCouncil_AtLarge.csv": {},
+        "raw_data/american/processed_data/Alameda County/Oakland_11052024_CityCouncil_AtLarge.csv": {
+            "bucklin": {
+                "num_cands": 12,
+                "winner": "['CHARLENE WANG']",
+                "rank (out of first place votes)": 3
+            }
+        },
         "raw_data/american/processed_data/Alameda County/Oakland_11082016_CityCouncilDistrict7.csv": {},
         "raw_data/american/processed_data/Alameda County/Oakland_11052024_CityCouncilD7.csv": {},
         "raw_data/american/processed_data/Alameda County/Berkeley_11042014_CityCouncilDistrict1.csv": {},
@@ -781,12 +869,12 @@
                 "winner": "['MYRNA MELGAR']",
                 "rank (out of first place votes)": 3
             },
-            "borda-om-no-uwi": {
+            "borda-om": {
                 "num_cands": 8,
                 "winner": "['MYRNA MELGAR']",
                 "rank (out of first place votes)": 3
             },
-            "borda-avg-no-uwi": {
+            "borda-avg": {
                 "num_cands": 8,
                 "winner": "['MYRNA MELGAR']",
                 "rank (out of first place votes)": 3
@@ -799,9 +887,14 @@
             "condorcet": {
                 "num_cands": 8,
                 "winner": "['MYRNA MELGAR']",
-                "rank (out of first place votes)": 3.0
+                "rank (out of first place votes)": "3"
             },
             "minimax": {
+                "num_cands": 8,
+                "winner": "['MYRNA MELGAR']",
+                "rank (out of first place votes)": 3
+            },
+            "smith_plurality": {
                 "num_cands": 8,
                 "winner": "['MYRNA MELGAR']",
                 "rank (out of first place votes)": 3
@@ -820,6 +913,11 @@
                 "num_cands": 8,
                 "winner": "['MYRNA MELGAR']",
                 "rank (out of first place votes)": 3.0
+            },
+            "bucklin": {
+                "num_cands": 8,
+                "winner": "['MYRNA MELGAR']",
+                "rank (out of first place votes)": 3
             },
             "approval": {
                 "num_cands": 8,
@@ -840,12 +938,12 @@
                 "winner": "['MALIA COHEN']",
                 "rank (out of first place votes)": 3
             },
-            "borda-om-no-uwi": {
+            "borda-om": {
                 "num_cands": 23,
                 "winner": "['MALIA COHEN']",
                 "rank (out of first place votes)": 3
             },
-            "borda-avg-no-uwi": {
+            "borda-avg": {
                 "num_cands": 23,
                 "winner": "['MALIA COHEN']",
                 "rank (out of first place votes)": 3
@@ -858,9 +956,14 @@
             "condorcet": {
                 "num_cands": 23,
                 "winner": "['MALIA COHEN']",
-                "rank (out of first place votes)": 3.0
+                "rank (out of first place votes)": "3"
             },
             "minimax": {
+                "num_cands": 23,
+                "winner": "['MALIA COHEN']",
+                "rank (out of first place votes)": 3
+            },
+            "smith_plurality": {
                 "num_cands": 23,
                 "winner": "['MALIA COHEN']",
                 "rank (out of first place votes)": 3
@@ -883,7 +986,7 @@
             "bucklin": {
                 "num_cands": 23,
                 "winner": "['MALIA COHEN']",
-                "rank (out of first place votes)": "3"
+                "rank (out of first place votes)": 3
             },
             "approval": {
                 "num_cands": 23,
@@ -892,7 +995,13 @@
             }
         },
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11032015_Sheriff.csv": {},
-        "raw_data/american/processed_data/San Francisco/SanFrancisco_11082011_Sheriff.csv": {},
+        "raw_data/american/processed_data/San Francisco/SanFrancisco_11082011_Sheriff.csv": {
+            "borda-om": {
+                "num_cands": 5,
+                "winner": "['PAUL MIYAMOTO']",
+                "rank (out of first place votes)": 3
+            }
+        },
         "raw_data/american/processed_data/San Francisco/SanFrancisco_06052018_BoardofSupervisorsDistrict8.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11082022_BoardofSupervisorsD2.csv": {},
         "raw_data/american/processed_data/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict8.csv": {},
@@ -908,6 +1017,7 @@
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember28thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember15thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember46thCouncilDistrict.csv": {},
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMBoroughPresidentKings.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember31stCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember35thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember32ndCouncilDistrict.csv": {},
@@ -943,7 +1053,13 @@
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMBoroughPresidentNewYork.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember20thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_REPCouncilMember32ndCouncilDistrict.csv": {},
-        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember9thCouncilDistrict.csv": {},
+        "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember9thCouncilDistrict.csv": {
+            "bucklin": {
+                "num_cands": 15,
+                "winner": "['Athena Moore']",
+                "rank (out of first place votes)": 3
+            }
+        },
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember17thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_CONCouncilMember19thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember21stCouncilDistrict.csv": {},
@@ -951,7 +1067,12 @@
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember41stCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember36thCouncilDistrict.csv": {
-            "borda-om-no-uwi": {
+            "borda-om": {
+                "num_cands": 7,
+                "winner": "['Tahirah A. Moore']",
+                "rank (out of first place votes)": 3
+            },
+            "bucklin": {
                 "num_cands": 7,
                 "winner": "['Tahirah A. Moore']",
                 "rank (out of first place votes)": 3
@@ -969,10 +1090,13 @@
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember19thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember7thCouncilDistrict.csv": {},
         "raw_data/american/processed_data/Cambridge, MA/Cambridge_11082011_CityCouncil.csv": {},
+        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11152019_CityCouncil.csv": {},
+        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11072017_CityCouncil.csv": {},
         "raw_data/american/processed_data/Cambridge, MA/Cambridge_11062001_CityCouncil.csv": {},
         "raw_data/american/processed_data/Cambridge, MA/Cambridge_11032009_CityCouncil.csv": {},
         "raw_data/american/processed_data/Cambridge, MA/Cambridge_11062007_SchoolCommittee.csv": {},
         "raw_data/american/processed_data/Cambridge, MA/Cambridge_11052013_SchoolCommittee.csv": {},
+        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11072023_CityCouncil.csv": {},
         "raw_data/american/processed_data/Cambridge, MA/Cambridge_11062007_CityCouncil.csv": {},
         "raw_data/american/processed_data/Cambridge, MA/Cambridge_11152019_SchoolCommittee.csv": {},
         "raw_data/american/processed_data/Cambridge, MA/Cambridge_11032015_SchoolCommittee.csv": {},
@@ -987,7 +1111,7 @@
                 "winner": "['Turkel, Alice L.']",
                 "rank (out of first place votes)": 3
             },
-            "borda-avg-no-uwi": {
+            "borda-avg": {
                 "num_cands": 14,
                 "winner": "['Turkel, Alice L.']",
                 "rank (out of first place votes)": 3
@@ -1000,9 +1124,14 @@
             "condorcet": {
                 "num_cands": 14,
                 "winner": "['Turkel, Alice L.']",
-                "rank (out of first place votes)": 3.0
+                "rank (out of first place votes)": "3"
             },
             "minimax": {
+                "num_cands": 14,
+                "winner": "['Turkel, Alice L.']",
+                "rank (out of first place votes)": 3
+            },
+            "smith_plurality": {
                 "num_cands": 14,
                 "winner": "['Turkel, Alice L.']",
                 "rank (out of first place votes)": 3
@@ -1022,6 +1151,11 @@
                 "winner": "['Turkel, Alice L.']",
                 "rank (out of first place votes)": 3.0
             },
+            "bucklin": {
+                "num_cands": 14,
+                "winner": "['Turkel, Alice L.']",
+                "rank (out of first place votes)": 3
+            },
             "approval": {
                 "num_cands": 14,
                 "winner": "['Turkel, Alice L.']",
@@ -1029,6 +1163,7 @@
             }
         },
         "raw_data/american/processed_data/Cambridge, MA/Cambridge_11072023_SchoolBoard.csv": {},
+        "raw_data/american/processed_data/Cambridge, MA/Cambridge_11052013_CityCouncil.csv": {},
         "raw_data/american/processed_data/Cambridge, MA/Cambridge_11042003_SchoolCommittee.csv": {},
         "raw_data/american/processed_data/Cambridge, MA/Cambridge_11072017_SchoolCommittee.csv": {},
         "raw_data/american/processed_data/Cambridge, MA/Cambridge_11032015_CityCouncil.csv": {},
@@ -1041,9 +1176,14 @@
             "condorcet": {
                 "num_cands": 20,
                 "winner": "['Davis, Henrietta']",
-                "rank (out of first place votes)": 4.0
+                "rank (out of first place votes)": "4"
             },
             "minimax": {
+                "num_cands": 20,
+                "winner": "['Davis, Henrietta']",
+                "rank (out of first place votes)": 4
+            },
+            "smith_plurality": {
                 "num_cands": 20,
                 "winner": "['Davis, Henrietta']",
                 "rank (out of first place votes)": 4
@@ -1081,12 +1221,12 @@
                 "winner": "['Walser, Nancy']",
                 "rank (out of first place votes)": 3
             },
-            "borda-om-no-uwi": {
+            "borda-om": {
                 "num_cands": 12,
                 "winner": "['Walser, Nancy']",
                 "rank (out of first place votes)": 3
             },
-            "borda-avg-no-uwi": {
+            "borda-avg": {
                 "num_cands": 12,
                 "winner": "['Walser, Nancy']",
                 "rank (out of first place votes)": 3
@@ -1094,9 +1234,14 @@
             "condorcet": {
                 "num_cands": 12,
                 "winner": "['Walser, Nancy']",
-                "rank (out of first place votes)": 3.0
+                "rank (out of first place votes)": "3"
             },
             "minimax": {
+                "num_cands": 12,
+                "winner": "['Walser, Nancy']",
+                "rank (out of first place votes)": 3
+            },
+            "smith_plurality": {
                 "num_cands": 12,
                 "winner": "['Walser, Nancy']",
                 "rank (out of first place votes)": 3
@@ -1119,7 +1264,7 @@
             "bucklin": {
                 "num_cands": 12,
                 "winner": "['Walser, Nancy']",
-                "rank (out of first place votes)": "3"
+                "rank (out of first place votes)": 3
             },
             "approval": {
                 "num_cands": 12,
