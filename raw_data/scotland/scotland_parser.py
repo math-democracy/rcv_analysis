@@ -23,7 +23,7 @@ def parse_file(filepath):
         i += 1
     
     candidates = []
-    for line in lines[i+1:]: #updated to lines[i+1:] from lines[i+1:-1] since no final line in parser
+    for line in lines[i+1:-1]: #updated to lines[i+1:] from lines[i+1:-1] since no final line in parser
         candidate = line.strip().strip('"')
         candidates.append(candidate.replace('"', ''))
     
@@ -148,6 +148,6 @@ def parser(infilepath, output_folder):
     print("Data exported to " + outfilepath)    
 
 
-# test_file = '/Users/belle/Desktop/build/rcv_proposal/raw_data/preference_profiles/scotland/aberdeen2017/AiryhallBroomhillGarthdeeWard_aberdeen17-11.csv'
+# test_file = '/Users/belle/Downloads/Scotland data, LEAP parties/scottish by-elections/Perth Kinross 2016 by-election ward 9.csv'
 
 # parser(test_file, './data')
