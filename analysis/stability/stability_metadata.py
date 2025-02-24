@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 
-country = 'civs'
+country = 'american'
 file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/{country}_results_top4.csv'  # Replace with file path
 df = pd.read_csv(file_path)
 
