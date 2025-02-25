@@ -57,17 +57,17 @@
             "smith": 0
         },
         "num_cands_for_third_place_hits": [
+            4,
             5,
             6,
             7,
-            8,
-            9
+            8
         ],
         "num_cands_for_third_or_lower_hits": [
+            8,
             9,
             10,
-            11,
-            14
+            13
         ],
         "places": [
             9,
@@ -76,25 +76,49 @@
             5
         ],
         "num_cands:place": {
-            "10:9": 1,
-            "9:5": 1,
-            "11:4": 1,
-            "8:3": 2,
-            "5:3": 11,
-            "9:3": 1,
-            "14:5": 1,
-            "7:3": 3,
-            "6:3": 1
+            "9:9": 1,
+            "8:5": 1,
+            "10:4": 1,
+            "7:3": 2,
+            "4:3": 11,
+            "8:3": 1,
+            "13:5": 1,
+            "6:3": 3,
+            "5:3": 1
+        },
+        "fourth_or_lower": {
+            "plurality": [],
+            "IRV": [],
+            "top-two": [],
+            "borda-pm": [],
+            "borda-om-no-uwi": [
+                "(place = 5, numCands = 13, diff = 10629, total votes = 47453)  Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2101 LA Pref Data_NA_Upper Hunter.csv"
+            ],
+            "borda-avg-no-uwi": [],
+            "top-3-truncation": [],
+            "condorcet": [],
+            "minimax": [],
+            "smith_plurality": [],
+            "smith_irv": [],
+            "smith-minimax": [],
+            "ranked-pairs": [],
+            "bucklin": [],
+            "approval": [
+                "(place = 9, numCands = 9, diff = 18580, total votes = 41196)  Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Brighton with candidates.csv",
+                "(place = 5, numCands = 8, diff = 18068, total votes = 44310)  Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Hawthorn with candidates.csv",
+                "(place = 4, numCands = 10, diff = 9526, total votes = 39857)  Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Preston with Candidates.csv"
+            ],
+            "smith": []
         }
     },
     "changes": {
         "Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Brighton with candidates.csv": {
             "approval": {
-                "num_cands": 10,
+                "num_cands": 9,
                 "winner": "['Allan L. Timms']",
                 "rank (out of first place votes)": 9
             },
-            "ranks": {
+            "first_place_ranks": {
                 "James Newbury": 18791,
                 "Louise Crawford": 10164,
                 "Sarah Dekiere": 5680,
@@ -109,11 +133,11 @@
         "Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Northcote with candidates.csv": {},
         "Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Hawthorn with candidates.csv": {
             "approval": {
-                "num_cands": 9,
+                "num_cands": 8,
                 "winner": "['Faith Fuhrer']",
                 "rank (out of first place votes)": 5
             },
-            "ranks": {
+            "first_place_ranks": {
                 "John Pesutto": 18728,
                 "John Kennedy ": 9799,
                 "Melissa Lowe": 8851,
@@ -126,11 +150,11 @@
         },
         "Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Preston with Candidates.csv": {
             "approval": {
-                "num_cands": 11,
+                "num_cands": 10,
                 "winner": "['Gaetano Greco']",
                 "rank (out of first place votes)": 4
             },
-            "ranks": {
+            "first_place_ranks": {
                 "Nathan Lambert": 14999,
                 "Amanda Paliouras": 6883,
                 "Patchouli Paterson": 6027,
@@ -151,11 +175,11 @@
         "Australia_NewSouthWales_Mayorals_2021/City_of_Lismore-mayoral-finalpreferencedatafile.csv": {},
         "Australia_NewSouthWales_Mayorals_2021/Eurobodalla-mayoral-finalpreferencedatafile.csv": {
             "bucklin": {
-                "num_cands": 8,
+                "num_cands": 7,
                 "winner": "['STARMER Karyn']",
                 "rank (out of first place votes)": 3
             },
-            "ranks": {
+            "first_place_ranks": {
                 "HATCHER Mat": 5583,
                 "POLLOCK Rob": 4555,
                 "STARMER Karyn": 4377,
@@ -177,61 +201,61 @@
         "Australia_NewSouthWales_Mayorals_2021/City_of_Griffith-mayoral-finalpreferencedatafile.csv": {},
         "Australia_NewSouthWales_Mayorals_2021/Hunters_Hill-mayoral-finalpreferencedatafile.csv": {
             "borda-om-no-uwi": {
-                "num_cands": 5,
+                "num_cands": 4,
                 "winner": "['QUINN Richard']",
                 "rank (out of first place votes)": 3
             },
             "borda-avg-no-uwi": {
-                "num_cands": 5,
+                "num_cands": 4,
                 "winner": "['QUINN Richard']",
                 "rank (out of first place votes)": 3
             },
             "top-3-truncation": {
-                "num_cands": 5,
+                "num_cands": 4,
                 "winner": "['QUINN Richard']",
                 "rank (out of first place votes)": 3
             },
             "condorcet": {
-                "num_cands": 5,
+                "num_cands": 4,
                 "winner": "['QUINN Richard']",
                 "rank (out of first place votes)": 3
             },
             "minimax": {
-                "num_cands": 5,
+                "num_cands": 4,
                 "winner": "['QUINN Richard']",
                 "rank (out of first place votes)": 3
             },
             "smith_plurality": {
-                "num_cands": 5,
+                "num_cands": 4,
                 "winner": "['QUINN Richard']",
                 "rank (out of first place votes)": 3
             },
             "smith_irv": {
-                "num_cands": 5,
+                "num_cands": 4,
                 "winner": "['QUINN Richard']",
                 "rank (out of first place votes)": 3
             },
             "smith-minimax": {
-                "num_cands": 5,
+                "num_cands": 4,
                 "winner": "['QUINN Richard']",
                 "rank (out of first place votes)": 3
             },
             "ranked-pairs": {
-                "num_cands": 5,
+                "num_cands": 4,
                 "winner": "['QUINN Richard']",
                 "rank (out of first place votes)": 3
             },
             "bucklin": {
-                "num_cands": 5,
+                "num_cands": 4,
                 "winner": "['QUINN Richard']",
                 "rank (out of first place votes)": 3
             },
             "smith": {
-                "num_cands": 5,
+                "num_cands": 4,
                 "winner": "['QUINN Richard']",
                 "rank (out of first place votes)": 3
             },
-            "ranks": {
+            "first_place_ranks": {
                 "MILES Zac": 3331,
                 "WILLIAMS Ross": 2313,
                 "QUINN Richard": 2015,
@@ -332,11 +356,11 @@
         "Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Canterbury.csv": {},
         "Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Coffs Harbour.csv": {
             "borda-om-no-uwi": {
-                "num_cands": 9,
+                "num_cands": 8,
                 "winner": "['TOWNLEY Sally']",
                 "rank (out of first place votes)": 3
             },
-            "ranks": {
+            "first_place_ranks": {
                 "SINGH Gurmesh": 20268,
                 "JUDGE Tony": 8371,
                 "TOWNLEY Sally": 8247,
@@ -371,11 +395,11 @@
         "Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Willoughby.csv": {},
         "Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2101 LA Pref Data_NA_Upper Hunter.csv": {
             "borda-om-no-uwi": {
-                "num_cands": 14,
+                "num_cands": 13,
                 "winner": "[\"O'CONNELL Kirsty\"]",
                 "rank (out of first place votes)": 5
             },
-            "ranks": {
+            "first_place_ranks": {
                 "LAYZELL Dave": 14805,
                 "DRAYTON Jeff": 10055,
                 "McNAMARA Dale": 5845,
@@ -401,11 +425,11 @@
         "Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Wollondilly.csv": {},
         "Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Wollongong.csv": {
             "borda-om-no-uwi": {
-                "num_cands": 8,
+                "num_cands": 7,
                 "winner": "['RORRIS Arthur']",
                 "rank (out of first place votes)": 3
             },
-            "ranks": {
+            "first_place_ranks": {
                 "HAY Noreen": 20071,
                 "WALTERS Cameron": 10465,
                 "RORRIS Arthur": 10162,
@@ -472,21 +496,21 @@
         "Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Ballina.csv": {},
         "Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Lismore.csv": {
             "borda-om-no-uwi": {
-                "num_cands": 7,
+                "num_cands": 6,
                 "winner": "['SMITH Isaac']",
                 "rank (out of first place votes)": 3
             },
             "borda-avg-no-uwi": {
-                "num_cands": 7,
+                "num_cands": 6,
                 "winner": "['SMITH Isaac']",
                 "rank (out of first place votes)": 3
             },
             "bucklin": {
-                "num_cands": 7,
+                "num_cands": 6,
                 "winner": "['SMITH Isaac']",
                 "rank (out of first place votes)": 3
             },
-            "ranks": {
+            "first_place_ranks": {
                 "GEORGE Thomas": 19975,
                 "GUISE Adam": 12435,
                 "SMITH Isaac": 12056,
@@ -599,11 +623,11 @@
         "Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wagga Wagga.csv": {},
         "Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Lane Cove.csv": {
             "borda-om-no-uwi": {
-                "num_cands": 6,
+                "num_cands": 5,
                 "winner": "['DAVIDSON Victoria']",
                 "rank (out of first place votes)": 3
             },
-            "ranks": {
+            "first_place_ranks": {
                 "ROBERTS Anthony": 23463,
                 "PEDERSEN Penelope": 12469,
                 "DAVIDSON Victoria": 10608,

@@ -1090,17 +1090,17 @@
                 "borda-avg-no-uwi": {
                     "numCands": 6,
                     "baseline_winner": "['Begich, Nick']",
-                    "top4": "['Peltola, Mary S.']"
+                    "top5": "['Peltola, Mary S.']"
                 },
                 "top-3-truncation": {
                     "numCands": 6,
                     "baseline_winner": "['Begich, Nick']",
-                    "top4": "['Peltola, Mary S.']"
+                    "top5": "['Peltola, Mary S.']"
                 },
                 "bucklin": {
                     "numCands": 6,
                     "baseline_winner": "['Begich, Nick']",
-                    "top4": "['Peltola, Mary S.']"
+                    "top5": "['Peltola, Mary S.']"
                 }
             },
             "candidates": {
@@ -1150,17 +1150,17 @@
                 "plurality": {
                     "numCands": 12,
                     "baseline_winner": "['Meg Forney']",
-                    "top4": "['Latrisha Vetaw']"
+                    "top5": "['Latrisha Vetaw']"
                 },
                 "borda-pm": {
                     "numCands": 12,
                     "baseline_winner": "['Meg Forney']",
-                    "top4": "['Latrisha Vetaw']"
+                    "top5": "['Latrisha Vetaw']"
                 },
                 "top-3-truncation": {
                     "numCands": 12,
                     "baseline_winner": "['Meg Forney']",
-                    "top4": "['Latrisha Vetaw']"
+                    "top5": "['Latrisha Vetaw']"
                 }
             },
             "candidates": {
@@ -1324,7 +1324,7 @@
                 "bucklin": {
                     "numCands": 20,
                     "baseline_winner": "['Jacob Frey']",
-                    "top4": "['Kate Knuth']"
+                    "top5": "['Kate Knuth']"
                 }
             },
             "candidates": {
@@ -1876,7 +1876,7 @@
                 "borda-pm": {
                     "numCands": 7,
                     "baseline_winner": "['MATT PERRY']",
-                    "top4": "['LINEA PALMISANO']"
+                    "top5": "['LINEA PALMISANO']"
                 }
             },
             "candidates": {
@@ -2015,7 +2015,7 @@
                 "borda-pm": {
                     "numCands": 6,
                     "baseline_winner": "['Pat McCarthy']",
-                    "top4": "['Shawn Bunney']"
+                    "top5": "['Shawn Bunney']"
                 }
             },
             "candidates": {
@@ -2040,17 +2040,17 @@
                 "borda-pm": {
                     "numCands": 8,
                     "baseline_winner": "['Jan Shabro']",
-                    "top4": "['Dale Washam']"
+                    "top5": "['Dale Washam']"
                 },
                 "borda-avg-no-uwi": {
                     "numCands": 8,
                     "baseline_winner": "['Jan Shabro']",
-                    "top4": "['Dale Washam']"
+                    "top5": "['Dale Washam']"
                 },
                 "bucklin": {
                     "numCands": 8,
                     "baseline_winner": "['Jan Shabro']",
-                    "top4": "['Terry Lee']"
+                    "top5": "['Terry Lee']"
                 }
             },
             "candidates": {
@@ -2121,22 +2121,22 @@
                 "borda-om-no-uwi": {
                     "numCands": 12,
                     "baseline_winner": "['Sheikh-Yousef, Nasreen A.']",
-                    "top4": "['Chann, Marpheen S.']"
+                    "top5": "['Chann, Marpheen S.']"
                 },
                 "borda-avg-no-uwi": {
                     "numCands": 12,
                     "baseline_winner": "['Sheikh-Yousef, Nasreen A.']",
-                    "top4": "['Chann, Marpheen S.']"
+                    "top5": "['Chann, Marpheen S.']"
                 },
                 "top-3-truncation": {
                     "numCands": 12,
                     "baseline_winner": "['Sheikh-Yousef, Nasreen A.']",
-                    "top4": "['Chann, Marpheen S.']"
+                    "top5": "['Chann, Marpheen S.']"
                 },
                 "bucklin": {
                     "numCands": 12,
                     "baseline_winner": "['Buxton, Catherine A.']",
-                    "top4": "['Chann, Marpheen S.']"
+                    "top5": "['Chann, Marpheen S.']"
                 }
             },
             "candidates": {
@@ -2388,7 +2388,7 @@
                 "top-3-truncation": {
                     "numCands": 7,
                     "baseline_winner": "['JASON TAYLOR']",
-                    "top4": "['LUKE WOJCIECHOWSKI']"
+                    "top5": "['LUKE WOJCIECHOWSKI']"
                 }
             },
             "candidates": {
@@ -2788,7 +2788,7 @@
                 "top-3-truncation": {
                     "numCands": 6,
                     "baseline_winner": "['Cand 4']",
-                    "top4": "['Cand 0']"
+                    "top5": "['Cand 0']"
                 }
             },
             "candidates": {
@@ -3018,7 +3018,7 @@
                 "borda-pm": {
                     "numCands": 12,
                     "baseline_winner": "['SHENG THAO']",
-                    "top4": "['LOREN MANUEL TAYLOR']"
+                    "top5": "['LOREN MANUEL TAYLOR']"
                 }
             },
             "candidates": {
@@ -3088,7 +3088,7 @@
                 "bucklin": {
                     "numCands": 6,
                     "baseline_winner": "['JUMOKE HINTON HODGE']",
-                    "top4": "[\"KHARYSHI ''MS. K'' WIGINTON\"]"
+                    "top5": "[\"KHARYSHI ''MS. K'' WIGINTON\"]"
                 }
             },
             "candidates": {
@@ -3491,7 +3491,7 @@
                 "plurality": {
                     "numCands": 6,
                     "baseline_winner": "['IGOR A. TREGUB']",
-                    "top4": "['RUBEN STORY']"
+                    "top5": "['RUBEN STORY']"
                 }
             },
             "candidates": {
@@ -3668,7 +3668,7 @@
                 "bucklin": {
                     "numCands": 12,
                     "baseline_winner": "['CHARLENE WANG']",
-                    "top4": "['ROWENA BROWN']"
+                    "top5": "['ROWENA BROWN']"
                 }
             },
             "candidates": {
@@ -4058,17 +4058,17 @@
                 "borda-pm": {
                     "numCands": 10,
                     "baseline_winner": "['MARK LENO']",
-                    "top4": "['LONDON BREED']"
+                    "top5": "['LONDON BREED']"
                 },
                 "borda-om-no-uwi": {
                     "numCands": 10,
                     "baseline_winner": "['MARK LENO']",
-                    "top4": "['LONDON BREED']"
+                    "top5": "['LONDON BREED']"
                 },
                 "borda-avg-no-uwi": {
                     "numCands": 10,
                     "baseline_winner": "['MARK LENO']",
-                    "top4": "['LONDON BREED']"
+                    "top5": "['LONDON BREED']"
                 }
             },
             "candidates": {
@@ -4095,7 +4095,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 8,
                     "baseline_winner": "['MICHAEL LAI']",
-                    "top4": "['CHYANNE CHEN']"
+                    "top5": "['CHYANNE CHEN']"
                 }
             },
             "candidates": {
@@ -4180,7 +4180,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 6,
                     "baseline_winner": "['MARJAN PHILHOUR']",
-                    "top4": "['CONNIE CHAN']"
+                    "top5": "['CONNIE CHAN']"
                 }
             },
             "candidates": {
@@ -4279,7 +4279,7 @@
                 "borda-avg-no-uwi": {
                     "numCands": 6,
                     "baseline_winner": "['SUZY LOFTUS']",
-                    "top4": "['CHESA BOUDIN']"
+                    "top5": "['CHESA BOUDIN']"
                 }
             },
             "candidates": {
@@ -4337,7 +4337,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 10,
                     "baseline_winner": "['NORMAN YEE']",
-                    "top4": "['F. X. FRANCIS XAVIER CROWLEY']"
+                    "top5": "['F. X. FRANCIS XAVIER CROWLEY']"
                 }
             },
             "candidates": {
@@ -4613,7 +4613,7 @@
                 "plurality": {
                     "numCands": 8,
                     "baseline_winner": "['Ed Jew']",
-                    "top4": "['Ron Dudum']"
+                    "top5": "['Ron Dudum']"
                 }
             },
             "candidates": {
@@ -4660,7 +4660,7 @@
                 "borda-pm": {
                     "numCands": 8,
                     "baseline_winner": "['MARJAN PHILHOUR']",
-                    "top4": "['CONNIE CHAN']"
+                    "top5": "['CONNIE CHAN']"
                 }
             },
             "candidates": {
@@ -4816,12 +4816,12 @@
                 "plurality": {
                     "numCands": 23,
                     "baseline_winner": "['LYNETTE SWEET']",
-                    "top4": "['MALIA COHEN']"
+                    "top5": "['MALIA COHEN']"
                 },
                 "top-two": {
                     "numCands": 23,
                     "baseline_winner": "['LYNETTE SWEET']",
-                    "top4": "['MALIA COHEN']"
+                    "top5": "['MALIA COHEN']"
                 }
             },
             "candidates": {
@@ -5293,7 +5293,7 @@
                 "top-3-truncation": {
                     "numCands": 12,
                     "baseline_winner": "['Brad Lander']",
-                    "top4": "['Corey D. Johnson']"
+                    "top5": "['Corey D. Johnson']"
                 }
             },
             "candidates": {
@@ -5371,7 +5371,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 7,
                     "baseline_winner": "['Fernando Cabrera']",
-                    "top4": "['Vanessa L. Gibson']"
+                    "top5": "['Vanessa L. Gibson']"
                 }
             },
             "candidates": {
@@ -5475,17 +5475,17 @@
                 "borda-pm": {
                     "numCands": 15,
                     "baseline_winner": "['Kristin Richardson Jordan']",
-                    "top4": "['Bill Perkins']"
+                    "top5": "['Bill Perkins']"
                 },
                 "top-3-truncation": {
                     "numCands": 15,
                     "baseline_winner": "['Bill Perkins']",
-                    "top4": "['Kristin Richardson Jordan']"
+                    "top5": "['Kristin Richardson Jordan']"
                 },
                 "bucklin": {
                     "numCands": 15,
                     "baseline_winner": "['Athena Moore']",
-                    "top4": "['Kristin Richardson Jordan']"
+                    "top5": "['Kristin Richardson Jordan']"
                 }
             },
             "candidates": {
@@ -5546,17 +5546,17 @@
                 "borda-avg-no-uwi": {
                     "numCands": 7,
                     "baseline_winner": "['Marko Kepi']",
-                    "top4": "['David M. Carr']"
+                    "top5": "['David M. Carr']"
                 },
                 "top-3-truncation": {
                     "numCands": 7,
                     "baseline_winner": "['Marko Kepi']",
-                    "top4": "['David M. Carr']"
+                    "top5": "['David M. Carr']"
                 },
                 "bucklin": {
                     "numCands": 7,
                     "baseline_winner": "['Marko Kepi']",
-                    "top4": "['David M. Carr']"
+                    "top5": "['David M. Carr']"
                 }
             },
             "candidates": {
@@ -5581,7 +5581,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 7,
                     "baseline_winner": "['Tahirah A. Moore']",
-                    "top4": "['Chi A. Osse']"
+                    "top5": "['Chi A. Osse']"
                 }
             },
             "candidates": {
@@ -5778,12 +5778,12 @@
                 "plurality": {
                     "numCands": 28,
                     "baseline_winner": "['Simmons, E. Denise']",
-                    "top4": "['Siddiqui, Sumbul']"
+                    "top5": "['Siddiqui, Sumbul']"
                 },
                 "top-3-truncation": {
                     "numCands": 28,
                     "baseline_winner": "['Simmons, E. Denise']",
-                    "top4": "['Siddiqui, Sumbul']"
+                    "top5": "['Siddiqui, Sumbul']"
                 }
             },
             "candidates": {
@@ -5821,7 +5821,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 21,
                     "baseline_winner": "['Galluccio, Anthony D.']",
-                    "top4": "['Davis, Henrietta']"
+                    "top5": "['Davis, Henrietta']"
                 }
             },
             "candidates": {
@@ -5879,7 +5879,7 @@
                 "plurality": {
                     "numCands": 11,
                     "baseline_winner": "['McGovern, Marc C.']",
-                    "top4": "['Fantini, Alfred B.']"
+                    "top5": "['Fantini, Alfred B.']"
                 }
             },
             "candidates": {
@@ -5967,7 +5967,7 @@
                 "plurality": {
                     "numCands": 15,
                     "baseline_winner": "['Bowman, Mannika L.']",
-                    "top4": "['Dexter, Emily R.']"
+                    "top5": "['Dexter, Emily R.']"
                 }
             },
             "candidates": {
@@ -6007,17 +6007,17 @@
                 "plurality": {
                     "numCands": 14,
                     "baseline_winner": "['Fantini, Alfred B.']",
-                    "top4": "['Turkel, Alice L.']"
+                    "top5": "['Turkel, Alice L.']"
                 },
                 "top-two": {
                     "numCands": 14,
                     "baseline_winner": "['Nolan, Patricia M.']",
-                    "top4": "['Turkel, Alice L.']"
+                    "top5": "['Turkel, Alice L.']"
                 },
                 "bucklin": {
                     "numCands": 14,
                     "baseline_winner": "['Turkel, Alice L.']",
-                    "top4": "['Nolan, Patricia M.']"
+                    "top5": "['Nolan, Patricia M.']"
                 }
             },
             "candidates": {
@@ -6121,12 +6121,12 @@
                 "borda-pm": {
                     "numCands": 25,
                     "baseline_winner": "['Simmons, E. Denise']",
-                    "top4": "['Mazen, Nadeem A.']"
+                    "top5": "['Mazen, Nadeem A.']"
                 },
                 "top-3-truncation": {
                     "numCands": 25,
                     "baseline_winner": "['Mazen, Nadeem A.']",
-                    "top4": "['Simmons, E. Denise']"
+                    "top5": "['Simmons, E. Denise']"
                 }
             },
             "candidates": {
@@ -6161,17 +6161,17 @@
                 "top-two": {
                     "numCands": 20,
                     "baseline_winner": "['Decker, Marjorie C.']",
-                    "top4": "['Davis, Henrietta']"
+                    "top5": "['Davis, Henrietta']"
                 },
                 "borda-pm": {
                     "numCands": 20,
                     "baseline_winner": "['Galluccio, Anthony D.']",
-                    "top4": "['Decker, Marjorie C.']"
+                    "top5": "['Decker, Marjorie C.']"
                 },
                 "top-3-truncation": {
                     "numCands": 20,
                     "baseline_winner": "['Galluccio, Anthony D.']",
-                    "top4": "['Decker, Marjorie C.']"
+                    "top5": "['Decker, Marjorie C.']"
                 }
             },
             "candidates": {
@@ -6201,7 +6201,7 @@
                 "plurality": {
                     "numCands": 23,
                     "baseline_winner": "['Galluccio, Anthony D.']",
-                    "top4": "['Davis, Henrietta']"
+                    "top5": "['Davis, Henrietta']"
                 }
             },
             "candidates": {
@@ -6233,12 +6233,12 @@
                 "top-two": {
                     "numCands": 12,
                     "baseline_winner": "['Nolan, Patricia M.']",
-                    "top4": "['Walser, Nancy']"
+                    "top5": "['Walser, Nancy']"
                 },
                 "top-3-truncation": {
                     "numCands": 12,
                     "baseline_winner": "['Nolan, Patricia M.']",
-                    "top4": "['Walser, Nancy']"
+                    "top5": "['Walser, Nancy']"
                 }
             },
             "candidates": {

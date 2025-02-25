@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 from collections import Counter
+import ast
 
 country = 'american'
 
@@ -23,6 +24,9 @@ def gen_metadata_for_country(country):
 
     cands_vs_place = []
 
+    fourth_or_lower = {method: [] for method in methods}
+    #fourth_or_lower['plurality'].append('plurality')
+
     places = set()
 
     with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/first_place_ranks.json') as fp_file:
@@ -37,9 +41,9 @@ def gen_metadata_for_country(country):
             #print(row[f'{method}_rank'])
             if row[method] not in none_types and row[method] != "unknown" and row[method] != "writein" and row['numCands'] > 3 and row[f'{method}_rank'] != 'multiple' and int(row[f'{method}_rank']) >= 3:
                 changes[method] = {
-                    "num_cands": row['numCands'],
+                    "num_cands": int(row['numCands']),
                     "winner": row[method],
-                    "rank (out of first place votes)": row[f'{method}_rank']
+                    "rank (out of first place votes)": int(row[f'{method}_rank'])
                 }
 
                 cands_vs_place.append(f"{int(row['numCands'])}:{int(row[f'{method}_rank'])}")
@@ -51,11 +55,24 @@ def gen_metadata_for_country(country):
                 else:
                     third_or_fewer_hits[method] += 1
                     third_or_fewer_num_cands.add(row['numCands'])
+                    #print(method)
+                    first_place_file = first_place_ranks[country][f'raw_data/{country}/processed_data/{row['file']}']
+                    if ast.literal_eval(row[method])[0] in first_place_file:
+                        diff = first_place_file[list(first_place_file.keys())[0]] - first_place_file[ast.literal_eval(row[method])[0]]
+                        # if row['file'] == 'e-renfs17-ballots/Clarkston,NetherleeandWilliamwood_e-renfs17-4.csv':
+                        #     print(first_place_file[list(first_place_file.keys())[0]],first_place_file[row[method]])
+                        #     print(list(first_place_file.keys())[0], row[method])
+                    else:
+                        diff = first_place_file[list(first_place_file.keys())[0]] 
+
+                    
+                    fourth_or_lower[method].append(f'(place = {int(row[f'{method}_rank'])}, numCands = {int(row['numCands'])}, diff = {diff}, total votes = {sum(first_place_file.values())})  ' + row['file'])
+                    
 
                 places.add(int(row[f'{method}_rank']))
                 
         if len(changes) > 0:
-            changes['ranks'] = first_place_ranks[country][f'raw_data/{country}/processed_data/{row['file']}']
+            changes['first_place_ranks'] = first_place_ranks[country][f'raw_data/{country}/processed_data/{row['file']}']
             num_elections_with_hits += 1
 
         files[row['file']] = changes
@@ -72,7 +89,8 @@ def gen_metadata_for_country(country):
         "num_cands_for_third_place_hits": list(third_place_num_cands),
         "num_cands_for_third_or_lower_hits": list(third_or_fewer_num_cands),
         "places": list(places),
-        "num_cands:place": Counter(cands_vs_place)
+        "num_cands:place": Counter(cands_vs_place),
+        "fourth_or_lower": fourth_or_lower
     }
 
     output_data = {
@@ -90,7 +108,7 @@ def gen_metadata_for_country(country):
 def main():
     gen_metadata_for_country('civs')
     gen_metadata_for_country('australia')
-    gen_metadata_for_country('american')
+    gen_metadata_for_country('america')
     gen_metadata_for_country('scotland')
 
 if __name__ == "__main__":

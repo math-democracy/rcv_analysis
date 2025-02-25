@@ -5,7 +5,7 @@ import csv
 import os
 import ast
 
-country = 'scotland'
+country = 'australia'
 file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/results/current/{country}.csv'  # Replace with file path
 df = pd.read_csv(file_path)
 

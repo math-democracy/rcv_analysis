@@ -7,7 +7,7 @@ import multiprocessing
 import csv
 import os
 
-num_cands_to_keep = 4
+num_cands_to_keep = 5
 
 data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/australia_results_top{num_cands_to_keep}.csv'
 root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/australia/processed_data'
@@ -17,7 +17,7 @@ processed_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposa
 all_data = []
 
 processed = []
-error_d = []
+error_d = ["BallotPaperDetails-Werribee with candidates.csv", "BallotPaperDetails-Point Cook with candidates.csv", "BallotPaperDetails-Melton with candidates.csv"]
          
 def file_less_than_3mb(file_path):
     try:
