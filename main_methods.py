@@ -2,6 +2,7 @@
 from typing import Optional, Union
 import networkx as nx
 from itertools import combinations
+import random
 #-------------------------------------------------------------------------------------------
 #import os
 #import sys
@@ -616,16 +617,25 @@ def Bucklin(
     
     num_cands = len(prof.candidates)
     maj = sum(b.weight for b in prof.ballots)/2
+    el_scores = {cand: 0.0 for cand in prof.candidates}
+    elected = set()
     for i in range(num_cands):
         bal = prof.ballots
         for b in bal:
-            b= Ballot(ranking = b.ranking[:i+1], weight = b.weight)
-        el_scores = v.Borda(profile = prof, score_vector = [1 for k in range(i+1)],tiebreak=tiebreak).election_states[0].scores
+            if len(b.ranking)>i:
+                cands_at_i = list(b.ranking[i])
+                for c in cands_at_i:
+                    el_scores[c]+=b.weight
+            
         if max(el_scores.values())>maj:
             elected = set([c for c in el_scores if el_scores[c]==max(el_scores.values()) and c!="skipped"])
             break
     if elected == set():
         elected = set([c for c in el_scores if el_scores[c]==max(el_scores.values()) and c!="skipped"]) ##I'm not sure this can happen
+
+    if len(elected)>1:
+        elected = set(random.sample(list(elected),1))
+
     return elected
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 #Approval
