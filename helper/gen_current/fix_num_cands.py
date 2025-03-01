@@ -15,7 +15,7 @@ from votekit.pref_profile import PreferenceProfile
 
 import os
 
-root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/civs/processed_data'
+root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data'
 filenames_col = []
 numcands_col = []
 #votekit
@@ -44,17 +44,19 @@ def process_files(root_dir):
 
 df = process_files(root_dir)
 
-original = pd.read_csv('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/results/current/civs.csv')
+original = pd.read_csv('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/results/current/scotland.csv')
+original['merge_key'] = original['file'].apply(lambda x: next((name for name in df['file'] if x.endswith(name.split('/')[1])), None))
 
-new = original.merge(df, how='left', on='file')
+new = original.merge(df, how='left', left_on='merge_key', right_on='file')
 
 if len(original) != len(new):
       print('INCONSISTENT LENGTH')
 
-columns = ['file', 'numCands_y', 'plurality', 'IRV', 'top-two',
+columns = ['file_x', 'numCands_y', 'plurality', 'IRV', 'top-two',
        'borda-pm', 'borda-om-no-uwi', 'borda-avg-no-uwi', 'top-3-truncation',
        'condorcet', 'minimax', 'smith_plurality', 'smith_irv', 'smith-minimax',
        'ranked-pairs', 'bucklin', 'approval', 'smith']
-new = new[columns].rename(columns = {'numCands_y':'numCands'})
+new = new[columns].rename(columns = {'file_x':'file', 'numCands_y':'numCands'})
 
-new.to_csv('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/civs_new.csv', index=False)
+new.to_csv('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/scotland_new.csv', index=False)
+
