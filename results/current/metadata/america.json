@@ -6,17 +6,17 @@
         "1": 567
     },
     "top-two": {
-        "1": 567
+        "1": 558,
+        "0": 9
     },
     "borda-pm": {
         "1": 567
     },
-    "borda-om-no-uwi": {
+    "borda-om": {
         "1": 567
     },
-    "borda-avg-no-uwi": {
-        "1": 566,
-        "2": 1
+    "borda-avg": {
+        "1": 567
     },
     "top-3-truncation": {
         "1": 567
@@ -35,9 +35,6 @@
         "1": 567
     },
     "smith-minimax": {
-        "1": 567
-    },
-    "ranked-pairs": {
         "1": 567
     },
     "bucklin": {

@@ -14,27 +14,21 @@ def count_winners(file):
             winners = [x.strip() for x in ast.literal_eval(row[method]) if x]
             num_winners = len(winners)
 
-            if method == 'borda-om' and num_winners > 1:
-                print(row['file'])
-
-            # if method == 'approval' and num_winners > 1:
-            #     print(row['file'])
-
             if num_winners in winner_counts[method]:
                 winner_counts[method][num_winners] += 1
             else:
                 winner_counts[method][num_winners] = 1
-            
-            if method == "condorcet" and num_winners == 0:
-                # when no condorcet winner
-                #print(row['file'])
-                break
+
+            # if method == "condorcet" and num_winners == 0:
+            #     # when no condorcet winner
+            #     #print(row['file'])
+            #     break
     
     with open('winner_counts.json', 'w') as f:
         json.dump(winner_counts, f, indent=4)
     
     print("Winner counts saved to winner_counts.json")
 
-filepath = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/results/current/civs.csv'
+filepath = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/results/current/scotland.csv'
 #filepath = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/results/scotland.csv'
 count_winners(filepath)

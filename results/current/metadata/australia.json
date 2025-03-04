@@ -11,10 +11,10 @@
     "borda-pm": {
         "1": 327
     },
-    "borda-om-no-uwi": {
+    "borda-om": {
         "1": 327
     },
-    "borda-avg-no-uwi": {
+    "borda-avg": {
         "1": 327
     },
     "top-3-truncation": {
@@ -33,9 +33,6 @@
         "1": 327
     },
     "smith-minimax": {
-        "1": 327
-    },
-    "ranked-pairs": {
         "1": 327
     },
     "bucklin": {
