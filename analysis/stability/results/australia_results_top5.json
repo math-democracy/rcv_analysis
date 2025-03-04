@@ -117,12 +117,12 @@
                 "top-3-truncation": {
                     "numCands": 12,
                     "baseline_winner": "['Kat Theophanous']",
-                    "top4": "['Campbell Gome']"
+                    "top5": "['Campbell Gome']"
                 },
                 "bucklin": {
                     "numCands": 12,
                     "baseline_winner": "['Kat Theophanous']",
-                    "top4": "['Campbell Gome']"
+                    "top5": "['Campbell Gome']"
                 }
             },
             "candidates": {
@@ -144,27 +144,27 @@
                 "borda-pm": {
                     "numCands": 9,
                     "baseline_winner": "['John Pesutto']",
-                    "top4": "['Melissa Lowe']"
+                    "top5": "['Melissa Lowe']"
                 },
                 "borda-om-no-uwi": {
                     "numCands": 9,
                     "baseline_winner": "['John Pesutto']",
-                    "top4": "['Melissa Lowe']"
+                    "top5": "['Melissa Lowe']"
                 },
                 "borda-avg-no-uwi": {
                     "numCands": 9,
                     "baseline_winner": "['John Pesutto']",
-                    "top4": "['Melissa Lowe']"
+                    "top5": "['Melissa Lowe']"
                 },
                 "top-3-truncation": {
                     "numCands": 9,
                     "baseline_winner": "['John Pesutto']",
-                    "top4": "['Melissa Lowe']"
+                    "top5": "['Melissa Lowe']"
                 },
                 "bucklin": {
                     "numCands": 9,
                     "baseline_winner": "['John Pesutto']",
-                    "top4": "['Melissa Lowe']"
+                    "top5": "['Melissa Lowe']"
                 }
             },
             "candidates": {
@@ -183,7 +183,7 @@
                 "bucklin": {
                     "numCands": 11,
                     "baseline_winner": "['Nathan Lambert']",
-                    "top4": "['Patchouli Paterson']"
+                    "top5": "['Patchouli Paterson']"
                 }
             },
             "candidates": {
@@ -268,7 +268,7 @@
                 "bucklin": {
                     "numCands": 8,
                     "baseline_winner": "['STARMER Karyn']",
-                    "top4": "['HATCHER Mat']"
+                    "top5": "['HATCHER Mat']"
                 }
             },
             "candidates": {
@@ -412,7 +412,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 8,
                     "baseline_winner": "['PENFOLD Philip']",
-                    "top4": "['BAKER Loretta']"
+                    "top5": "['BAKER Loretta']"
                 }
             },
             "candidates": {
@@ -500,7 +500,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 7,
                     "baseline_winner": "['BROWN Tania']",
-                    "top4": "['BRADBERY Gordon']"
+                    "top5": "['BRADBERY Gordon']"
                 }
             },
             "candidates": {
@@ -517,12 +517,12 @@
                 "borda-avg-no-uwi": {
                     "numCands": 6,
                     "baseline_winner": "['HAGARTY Nathan']",
-                    "top4": "['MANNOUN Ned']"
+                    "top5": "['MANNOUN Ned']"
                 },
                 "bucklin": {
                     "numCands": 6,
                     "baseline_winner": "['MANNOUN Ned']",
-                    "top4": "['HAGARTY Nathan']"
+                    "top5": "['HAGARTY Nathan']"
                 }
             },
             "candidates": {
@@ -549,7 +549,7 @@
                 "bucklin": {
                     "numCands": 7,
                     "baseline_winner": "['EVANS Austin']",
-                    "top4": "['DALTON Helen']"
+                    "top5": "['DALTON Helen']"
                 }
             },
             "candidates": {
@@ -577,7 +577,7 @@
                 "bucklin": {
                     "numCands": 9,
                     "baseline_winner": "['WILSON Felicity']",
-                    "top4": "['CORRIGAN Carolyn']"
+                    "top5": "['CORRIGAN Carolyn']"
                 }
             },
             "candidates": {
@@ -596,7 +596,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 13,
                     "baseline_winner": "['RIDGE Kathryn']",
-                    "top4": "['GRIFFIN James']"
+                    "top5": "['GRIFFIN James']"
                 }
             },
             "candidates": {
@@ -677,7 +677,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 8,
                     "baseline_winner": "['QUINNELL Sally']",
-                    "top4": "['SIDGREAVES Peter']"
+                    "top5": "['SIDGREAVES Peter']"
                 }
             },
             "candidates": {
@@ -934,7 +934,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 9,
                     "baseline_winner": "['KORZY Miranda']",
-                    "top4": "['STOKES Robert']"
+                    "top5": "['STOKES Robert']"
                 }
             },
             "candidates": {
@@ -953,7 +953,7 @@
                 "bucklin": {
                     "numCands": 8,
                     "baseline_winner": "['LINDSAY Wendy']",
-                    "top4": "['MURPHY Cameron']"
+                    "top5": "['MURPHY Cameron']"
                 }
             },
             "candidates": {
@@ -982,7 +982,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 7,
                     "baseline_winner": "['WILSON Bryce']",
-                    "top4": "['BARILARO John']"
+                    "top5": "['BARILARO John']"
                 }
             },
             "candidates": {
@@ -1010,7 +1010,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 8,
                     "baseline_winner": "['SCULLY Liz']",
-                    "top4": "['LEE Geoffrey']"
+                    "top5": "['LEE Geoffrey']"
                 }
             },
             "candidates": {
@@ -1068,7 +1068,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 10,
                     "baseline_winner": "['CORRIGAN Carolyn']",
-                    "top4": "['WILSON Felicity']"
+                    "top5": "['WILSON Felicity']"
                 }
             },
             "candidates": {
@@ -1182,7 +1182,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 8,
                     "baseline_winner": "['SUNDSTROM Jeff']",
-                    "top4": "['CROUCH Adam']"
+                    "top5": "['CROUCH Adam']"
                 }
             },
             "candidates": {
@@ -1211,7 +1211,7 @@
                 "bucklin": {
                     "numCands": 8,
                     "baseline_winner": "['SAUNDERS Dugald']",
-                    "top4": "['DICKERSON Mathew']"
+                    "top5": "['DICKERSON Mathew']"
                 }
             },
             "candidates": {
@@ -1243,7 +1243,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 7,
                     "baseline_winner": "['ZBIK Andrew']",
-                    "top4": "['ROBERTS Anthony']"
+                    "top5": "['ROBERTS Anthony']"
                 }
             },
             "candidates": {
@@ -1424,7 +1424,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 7,
                     "baseline_winner": "['GLANVILLE Kristyn']",
-                    "top4": "['GRIFFIN James']"
+                    "top5": "['GRIFFIN James']"
                 }
             },
             "candidates": {
@@ -1501,7 +1501,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 9,
                     "baseline_winner": "['TOWNLEY Sally']",
-                    "top4": "['SINGH Gurmesh']"
+                    "top5": "['SINGH Gurmesh']"
                 }
             },
             "candidates": {
@@ -1575,7 +1575,7 @@
                 "top-3-truncation": {
                     "numCands": 8,
                     "baseline_winner": "['CURTIN Austin']",
-                    "top4": "['SAFFIN Janelle']"
+                    "top5": "['SAFFIN Janelle']"
                 }
             },
             "candidates": {
@@ -1593,7 +1593,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 10,
                     "baseline_winner": "['REYNOLDS Peter']",
-                    "top4": "['PRESTON Robyn']"
+                    "top5": "['PRESTON Robyn']"
                 }
             },
             "candidates": {
@@ -1675,7 +1675,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 7,
                     "baseline_winner": "['KEEGAN David']",
-                    "top4": "['BROMHEAD Stephen']"
+                    "top5": "['BROMHEAD Stephen']"
                 }
             },
             "candidates": {
@@ -1733,7 +1733,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 8,
                     "baseline_winner": "['McEWIN Megan']",
-                    "top4": "['UPTON Gabrielle']"
+                    "top5": "['UPTON Gabrielle']"
                 }
             },
             "candidates": {
@@ -1775,7 +1775,7 @@
                 "bucklin": {
                     "numCands": 7,
                     "baseline_winner": "['JAMES Tim']",
-                    "top4": "['PENN Larissa']"
+                    "top5": "['PENN Larissa']"
                 }
             },
             "candidates": {
@@ -1792,7 +1792,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 14,
                     "baseline_winner": "[\"O'CONNELL Kirsty\"]",
-                    "top4": "['LAYZELL Dave']"
+                    "top5": "['LAYZELL Dave']"
                 }
             },
             "candidates": {
@@ -1903,7 +1903,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 8,
                     "baseline_winner": "['RORRIS Arthur']",
-                    "top4": "['HAY Noreen']"
+                    "top5": "['HAY Noreen']"
                 }
             },
             "candidates": {
@@ -2000,7 +2000,7 @@
                 "top-3-truncation": {
                     "numCands": 6,
                     "baseline_winner": "['PROVEST Geoff']",
-                    "top4": "['GOODMAN Ron']"
+                    "top5": "['GOODMAN Ron']"
                 }
             },
             "candidates": {
@@ -2188,7 +2188,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 7,
                     "baseline_winner": "['HOLLAND Greg']",
-                    "top4": "['PETINOS Eleni']"
+                    "top5": "['PETINOS Eleni']"
                 }
             },
             "candidates": {
@@ -2293,7 +2293,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 8,
                     "baseline_winner": "['BENJAMIN Susai']",
-                    "top4": "['TAYLOR Mark']"
+                    "top5": "['TAYLOR Mark']"
                 }
             },
             "candidates": {
@@ -2531,7 +2531,7 @@
                 "top-3-truncation": {
                     "numCands": 7,
                     "baseline_winner": "['GEORGE Thomas']",
-                    "top4": "['SMITH Isaac']"
+                    "top5": "['SMITH Isaac']"
                 }
             },
             "candidates": {
@@ -2581,7 +2581,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 9,
                     "baseline_winner": "['GILBERT Trent']",
-                    "top4": "['GULAPTIS Chris']"
+                    "top5": "['GULAPTIS Chris']"
                 }
             },
             "candidates": {
@@ -2612,7 +2612,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 8,
                     "baseline_winner": "['DRAPER Peter']",
-                    "top4": "['ANDERSON Kevin']"
+                    "top5": "['ANDERSON Kevin']"
                 }
             },
             "candidates": {
@@ -2651,7 +2651,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 7,
                     "baseline_winner": "['KEEGAN David']",
-                    "top4": "['BROMHEAD Stephen']"
+                    "top5": "['BROMHEAD Stephen']"
                 }
             },
             "candidates": {
@@ -2732,7 +2732,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 8,
                     "baseline_winner": "['SHAW James']",
-                    "top4": "['LEE Geoff']"
+                    "top5": "['LEE Geoff']"
                 }
             },
             "candidates": {
@@ -3077,7 +3077,7 @@
                 "borda-pm": {
                     "numCands": 6,
                     "baseline_winner": "['SCOTT Philippa']",
-                    "top4": "['SHETTY Kobi']"
+                    "top5": "['SHETTY Kobi']"
                 }
             },
             "candidates": {
@@ -3134,7 +3134,7 @@
                 "bucklin": {
                     "numCands": 6,
                     "baseline_winner": "['PETINOS Eleni']",
-                    "top4": "['EARLE Simon']"
+                    "top5": "['EARLE Simon']"
                 }
             },
             "candidates": {
@@ -3237,7 +3237,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 6,
                     "baseline_winner": "['ABEDINI Parsia']",
-                    "top4": "['HENSKENS Alister']"
+                    "top5": "['HENSKENS Alister']"
                 }
             },
             "candidates": {
@@ -3274,7 +3274,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 7,
                     "baseline_winner": "['BENDALL Jason']",
-                    "top4": "['THOMPSON Tanya']"
+                    "top5": "['THOMPSON Tanya']"
                 }
             },
             "candidates": {
@@ -3405,7 +3405,7 @@
                 "plurality": {
                     "numCands": 8,
                     "baseline_winner": "['AYRES Stuart']",
-                    "top4": "['McKEOWN Karen']"
+                    "top5": "['McKEOWN Karen']"
                 }
             },
             "candidates": {
@@ -3436,7 +3436,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 8,
                     "baseline_winner": "['FREYER Karen']",
-                    "top4": "['SLOANE Kellie']"
+                    "top5": "['SLOANE Kellie']"
                 }
             },
             "candidates": {
@@ -3506,12 +3506,12 @@
                 "borda-avg-no-uwi": {
                     "numCands": 6,
                     "baseline_winner": "['PILBROW Michael']",
-                    "top4": "['TUCKERMAN Wendy']"
+                    "top5": "['TUCKERMAN Wendy']"
                 },
                 "bucklin": {
                     "numCands": 6,
                     "baseline_winner": "['TUCKERMAN Wendy']",
-                    "top4": "['PILBROW Michael']"
+                    "top5": "['PILBROW Michael']"
                 }
             },
             "candidates": {
@@ -3550,7 +3550,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 9,
                     "baseline_winner": "['HOILE Melissa']",
-                    "top4": "['KEAN Matt']"
+                    "top5": "['KEAN Matt']"
                 }
             },
             "candidates": {
@@ -3592,7 +3592,7 @@
                 "borda-avg-no-uwi": {
                     "numCands": 6,
                     "baseline_winner": "['PENN Larissa']",
-                    "top4": "['JAMES Tim']"
+                    "top5": "['JAMES Tim']"
                 }
             },
             "candidates": {
@@ -3675,7 +3675,7 @@
                 "borda-om-no-uwi": {
                     "numCands": 8,
                     "baseline_winner": "['JUDGE Tony']",
-                    "top4": "['SINGH Gurmesh']"
+                    "top5": "['SINGH Gurmesh']"
                 }
             },
             "candidates": {
@@ -3796,7 +3796,7 @@
                 "bucklin": {
                     "numCands": 7,
                     "baseline_winner": "['PROVEST Geoff']",
-                    "top4": "['ELLIOT Craig']"
+                    "top5": "['ELLIOT Craig']"
                 }
             },
             "candidates": {

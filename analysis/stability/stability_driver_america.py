@@ -9,15 +9,15 @@ import os
 
 num_cands_to_keep = 5
 
-data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/scotland_results_top{num_cands_to_keep}.csv'
-root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data'
+data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/america_results_top{num_cands_to_keep}.csv'
+root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/america/processed_data'
 
-error_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/supporting_files/scotland_error.txt'
-processed_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/supporting_files/scotland_processed.txt'
+error_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/supporting_files/america_error.txt'
+processed_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/supporting_files/america_processed.txt'
 all_data = []
 
 processed = []
-error_d = []
+error_d = ["Portland_D3_2024.csv", "Portland_D2_2024.csv", "PortlandOR_110524_Mayor.csv", "Portland_D4_2024.csv", "SanFrancisco_11052024_Mayor.csv", "NewYorkCity_06222021_DEMMayorCitywide.csv"]
          
 def file_less_than_3mb(file_path):
     try:
