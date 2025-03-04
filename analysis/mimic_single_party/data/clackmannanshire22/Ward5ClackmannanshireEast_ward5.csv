@@ -1,0 +1,3316 @@
+voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
+0,Lab,Grn,SNP,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+1,Con,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+2,Con,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+3,Con,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+4,Con,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+5,Con,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+6,Con,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+7,SNP,Lab,Grn,Les CALDERWOOD (Ind),LD,Con,Con,3,7
+8,SNP,Lab,Grn,Les CALDERWOOD (Ind),LD,Con,Con,3,7
+9,LD,Con,Lab,skipped,skipped,skipped,skipped,3,7
+10,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,7
+11,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,7
+12,Lab,Les CALDERWOOD (Ind),LD,Grn,SNP,Con,Con,3,7
+13,SNP,Con,Con,skipped,skipped,skipped,skipped,3,7
+14,SNP,Con,Con,skipped,skipped,skipped,skipped,3,7
+15,SNP,Con,Con,skipped,skipped,skipped,skipped,3,7
+16,Grn,LD,Lab,skipped,skipped,skipped,skipped,3,7
+17,Grn,LD,Lab,skipped,skipped,skipped,skipped,3,7
+18,Grn,LD,Lab,skipped,skipped,skipped,skipped,3,7
+19,Grn,LD,Lab,skipped,skipped,skipped,skipped,3,7
+20,Grn,LD,Lab,skipped,skipped,skipped,skipped,3,7
+21,Grn,LD,Lab,skipped,skipped,skipped,skipped,3,7
+22,Grn,LD,Lab,skipped,skipped,skipped,skipped,3,7
+23,Grn,LD,Lab,skipped,skipped,skipped,skipped,3,7
+24,Grn,LD,Lab,skipped,skipped,skipped,skipped,3,7
+25,Grn,LD,Lab,skipped,skipped,skipped,skipped,3,7
+26,Grn,LD,Lab,skipped,skipped,skipped,skipped,3,7
+27,Grn,LD,Lab,skipped,skipped,skipped,skipped,3,7
+28,Grn,LD,Lab,skipped,skipped,skipped,skipped,3,7
+29,SNP,Grn,Les CALDERWOOD (Ind),Lab,LD,Con,Con,3,7
+30,SNP,Grn,Les CALDERWOOD (Ind),Lab,LD,Con,Con,3,7
+31,SNP,Grn,Les CALDERWOOD (Ind),Lab,LD,Con,Con,3,7
+32,LD,Lab,Con,skipped,skipped,skipped,skipped,3,7
+33,Con,Con,SNP,Lab,Les CALDERWOOD (Ind),LD,Grn,3,7
+34,SNP,Grn,LD,Lab,skipped,skipped,skipped,3,7
+35,SNP,Grn,LD,Lab,skipped,skipped,skipped,3,7
+36,SNP,Grn,LD,Lab,skipped,skipped,skipped,3,7
+37,SNP,Grn,LD,Lab,skipped,skipped,skipped,3,7
+38,SNP,Grn,LD,Lab,skipped,skipped,skipped,3,7
+39,SNP,Grn,LD,Lab,skipped,skipped,skipped,3,7
+40,SNP,Grn,LD,Lab,skipped,skipped,skipped,3,7
+41,SNP,Grn,LD,Lab,skipped,skipped,skipped,3,7
+42,SNP,Grn,LD,Lab,skipped,skipped,skipped,3,7
+43,SNP,Grn,LD,Lab,skipped,skipped,skipped,3,7
+44,SNP,Grn,LD,Lab,skipped,skipped,skipped,3,7
+45,SNP,Grn,LD,Lab,skipped,skipped,skipped,3,7
+46,SNP,Grn,LD,Lab,skipped,skipped,skipped,3,7
+47,SNP,Grn,LD,Lab,skipped,skipped,skipped,3,7
+48,SNP,Grn,LD,Lab,skipped,skipped,skipped,3,7
+49,Con,Con,SNP,skipped,skipped,skipped,skipped,3,7
+50,Con,Con,SNP,skipped,skipped,skipped,skipped,3,7
+51,Con,Con,SNP,skipped,skipped,skipped,skipped,3,7
+52,Con,Con,SNP,skipped,skipped,skipped,skipped,3,7
+53,Con,Con,SNP,skipped,skipped,skipped,skipped,3,7
+54,Con,Con,Lab,LD,Les CALDERWOOD (Ind),Grn,SNP,3,7
+55,Con,Con,Lab,LD,Les CALDERWOOD (Ind),Grn,SNP,3,7
+56,Con,Con,Lab,LD,Les CALDERWOOD (Ind),Grn,SNP,3,7
+57,SNP,Lab,LD,Grn,skipped,skipped,skipped,3,7
+58,SNP,Lab,LD,Grn,skipped,skipped,skipped,3,7
+59,Les CALDERWOOD (Ind),Grn,LD,SNP,Lab,Con,Con,3,7
+60,SNP,Grn,Lab,Les CALDERWOOD (Ind),LD,Con,Con,3,7
+61,SNP,Grn,Lab,Les CALDERWOOD (Ind),LD,Con,Con,3,7
+62,SNP,Grn,Lab,Les CALDERWOOD (Ind),LD,Con,Con,3,7
+63,Lab,SNP,Con,Les CALDERWOOD (Ind),Con,Grn,LD,3,7
+64,LD,Con,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+65,Les CALDERWOOD (Ind),SNP,Lab,Con,Con,Grn,LD,3,7
+66,Les CALDERWOOD (Ind),Grn,LD,skipped,skipped,skipped,skipped,3,7
+67,Les CALDERWOOD (Ind),Grn,LD,skipped,skipped,skipped,skipped,3,7
+68,Grn,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+69,Grn,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+70,Grn,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+71,Grn,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+72,Grn,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+73,Grn,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+74,Grn,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+75,LD,Grn,Lab,Les CALDERWOOD (Ind),SNP,Con,Con,3,7
+76,Grn,SNP,Lab,Les CALDERWOOD (Ind),LD,Con,Con,3,7
+77,Lab,LD,Grn,Les CALDERWOOD (Ind),SNP,Con,Con,3,7
+78,Lab,LD,Grn,Les CALDERWOOD (Ind),SNP,Con,Con,3,7
+79,LD,Lab,Con,Grn,Con,Les CALDERWOOD (Ind),SNP,3,7
+80,Con,Con,SNP,Lab,LD,Les CALDERWOOD (Ind),Grn,3,7
+81,Lab,Grn,LD,Les CALDERWOOD (Ind),SNP,Con,Con,3,7
+82,Lab,Grn,LD,Les CALDERWOOD (Ind),SNP,Con,Con,3,7
+83,Lab,Grn,LD,Les CALDERWOOD (Ind),SNP,Con,Con,3,7
+84,Lab,Con,SNP,skipped,skipped,skipped,skipped,3,7
+85,Lab,LD,Grn,Les CALDERWOOD (Ind),Con,Con,SNP,3,7
+86,Lab,LD,Grn,Les CALDERWOOD (Ind),Con,Con,SNP,3,7
+87,Lab,LD,Grn,Les CALDERWOOD (Ind),Con,Con,SNP,3,7
+88,Lab,LD,Grn,Les CALDERWOOD (Ind),Con,Con,SNP,3,7
+89,SNP,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+90,SNP,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+91,Lab,Grn,SNP,Con,LD,Con,Les CALDERWOOD (Ind),3,7
+92,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,7
+93,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,7
+94,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,7
+95,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,7
+96,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,7
+97,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,7
+98,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,7
+99,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,7
+100,SNP,Con,Con,LD,skipped,skipped,skipped,3,7
+101,SNP,Grn,Les CALDERWOOD (Ind),LD,Con,Con,Lab,3,7
+102,Lab,Grn,LD,skipped,skipped,skipped,skipped,3,7
+103,Lab,Grn,LD,skipped,skipped,skipped,skipped,3,7
+104,Lab,Grn,LD,skipped,skipped,skipped,skipped,3,7
+105,Lab,Grn,LD,skipped,skipped,skipped,skipped,3,7
+106,Lab,Grn,LD,skipped,skipped,skipped,skipped,3,7
+107,Lab,Grn,LD,skipped,skipped,skipped,skipped,3,7
+108,Lab,Grn,LD,skipped,skipped,skipped,skipped,3,7
+109,Lab,Grn,LD,skipped,skipped,skipped,skipped,3,7
+110,Lab,Grn,LD,skipped,skipped,skipped,skipped,3,7
+111,Lab,Grn,LD,skipped,skipped,skipped,skipped,3,7
+112,Lab,Grn,LD,skipped,skipped,skipped,skipped,3,7
+113,Lab,Grn,LD,skipped,skipped,skipped,skipped,3,7
+114,Lab,Grn,LD,skipped,skipped,skipped,skipped,3,7
+115,Lab,Grn,LD,skipped,skipped,skipped,skipped,3,7
+116,Lab,Grn,LD,skipped,skipped,skipped,skipped,3,7
+117,Lab,Grn,LD,skipped,skipped,skipped,skipped,3,7
+118,Lab,Grn,LD,skipped,skipped,skipped,skipped,3,7
+119,Lab,Grn,LD,skipped,skipped,skipped,skipped,3,7
+120,Con,Les CALDERWOOD (Ind),LD,Con,skipped,skipped,skipped,3,7
+121,Con,Con,LD,Grn,Lab,SNP,skipped,3,7
+122,LD,Lab,Grn,Les CALDERWOOD (Ind),SNP,Con,Con,3,7
+123,Grn,LD,Con,skipped,skipped,skipped,skipped,3,7
+124,Grn,LD,Con,skipped,skipped,skipped,skipped,3,7
+125,Grn,LD,Con,skipped,skipped,skipped,skipped,3,7
+126,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+127,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+128,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+129,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+130,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+131,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+132,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+133,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+134,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+135,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+136,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+137,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+138,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+139,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+140,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+141,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+142,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+143,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+144,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+145,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+146,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+147,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+148,LD,Grn,Les CALDERWOOD (Ind),Lab,Con,Con,SNP,3,7
+149,Lab,SNP,LD,Grn,skipped,skipped,skipped,3,7
+150,Grn,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+151,Grn,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+152,Grn,LD,Con,Con,skipped,skipped,skipped,3,7
+153,Lab,Con,Grn,skipped,skipped,skipped,skipped,3,7
+154,Lab,Con,Grn,skipped,skipped,skipped,skipped,3,7
+155,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+156,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+157,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+158,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+159,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+160,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+161,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+162,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+163,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+164,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+165,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+166,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+167,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+168,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+169,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+170,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+171,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+172,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+173,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+174,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+175,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+176,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+177,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+178,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+179,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+180,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+181,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+182,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+183,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+184,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+185,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+186,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+187,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+188,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+189,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+190,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+191,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+192,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+193,Con,Lab,LD,skipped,skipped,skipped,skipped,3,7
+194,Con,Lab,LD,skipped,skipped,skipped,skipped,3,7
+195,Con,Lab,LD,skipped,skipped,skipped,skipped,3,7
+196,Con,Lab,LD,skipped,skipped,skipped,skipped,3,7
+197,Con,Lab,LD,skipped,skipped,skipped,skipped,3,7
+198,Con,Lab,LD,skipped,skipped,skipped,skipped,3,7
+199,Con,Lab,LD,skipped,skipped,skipped,skipped,3,7
+200,Con,Lab,LD,skipped,skipped,skipped,skipped,3,7
+201,Con,Lab,LD,skipped,skipped,skipped,skipped,3,7
+202,Con,Lab,LD,skipped,skipped,skipped,skipped,3,7
+203,Con,Lab,LD,skipped,skipped,skipped,skipped,3,7
+204,Con,Lab,LD,skipped,skipped,skipped,skipped,3,7
+205,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+206,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+207,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+208,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+209,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+210,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+211,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+212,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+213,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+214,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+215,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+216,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+217,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+218,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+219,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+220,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+221,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+222,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+223,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+224,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+225,SNP,LD,Grn,skipped,skipped,skipped,skipped,3,7
+226,Con,Les CALDERWOOD (Ind),Con,LD,Lab,Grn,SNP,3,7
+227,Con,Con,Les CALDERWOOD (Ind),LD,Lab,Grn,SNP,3,7
+228,Con,Con,Les CALDERWOOD (Ind),LD,Lab,Grn,SNP,3,7
+229,LD,Con,Con,Lab,skipped,skipped,skipped,3,7
+230,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+231,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+232,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+233,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+234,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+235,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+236,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+237,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+238,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+239,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+240,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+241,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+242,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+243,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+244,Lab,Grn,LD,Con,skipped,skipped,skipped,3,7
+245,Con,Grn,Lab,LD,SNP,Con,Les CALDERWOOD (Ind),3,7
+246,Lab,Con,LD,skipped,skipped,skipped,skipped,3,7
+247,Lab,Con,LD,skipped,skipped,skipped,skipped,3,7
+248,Lab,Con,LD,skipped,skipped,skipped,skipped,3,7
+249,SNP,Grn,Lab,LD,Con,Con,Les CALDERWOOD (Ind),3,7
+250,SNP,Grn,Lab,LD,Con,Con,Les CALDERWOOD (Ind),3,7
+251,SNP,Lab,LD,Grn,Con,Con,Les CALDERWOOD (Ind),3,7
+252,SNP,Lab,LD,Grn,Con,Con,Les CALDERWOOD (Ind),3,7
+253,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+254,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+255,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+256,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+257,Les CALDERWOOD (Ind),Lab,SNP,Grn,LD,Con,Con,3,7
+258,Lab,Con,LD,Con,Grn,SNP,Les CALDERWOOD (Ind),3,7
+259,Lab,Con,Grn,LD,Con,SNP,Les CALDERWOOD (Ind),3,7
+260,Con,Con,SNP,Les CALDERWOOD (Ind),Lab,LD,Grn,3,7
+261,Grn,Lab,LD,SNP,Les CALDERWOOD (Ind),Con,Con,3,7
+262,Les CALDERWOOD (Ind),LD,Con,SNP,Con,skipped,skipped,3,7
+263,Grn,Con,Lab,Con,LD,Les CALDERWOOD (Ind),SNP,3,7
+264,Con,Lab,Con,Grn,LD,SNP,Les CALDERWOOD (Ind),3,7
+265,Grn,LD,Con,SNP,Lab,skipped,skipped,3,7
+266,Lab,SNP,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+267,Grn,Con,Lab,LD,skipped,skipped,skipped,3,7
+268,Grn,Con,Lab,LD,skipped,skipped,skipped,3,7
+269,Con,Con,Grn,LD,skipped,skipped,skipped,3,7
+270,Con,Con,Grn,LD,Lab,SNP,skipped,3,7
+271,LD,Lab,Con,Con,Les CALDERWOOD (Ind),SNP,Grn,3,7
+272,Con,Con,LD,Grn,SNP,Lab,Les CALDERWOOD (Ind),3,7
+273,Lab,LD,Con,Con,Les CALDERWOOD (Ind),Grn,SNP,3,7
+274,Lab,SNP,LD,Grn,Les CALDERWOOD (Ind),Con,Con,3,7
+275,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,7
+276,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,7
+277,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,7
+278,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,7
+279,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,7
+280,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,7
+281,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,7
+282,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,7
+283,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,7
+284,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,7
+285,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,7
+286,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,7
+287,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,7
+288,Lab,Grn,Con,LD,Les CALDERWOOD (Ind),Con,skipped,3,7
+289,Con,Les CALDERWOOD (Ind),Con,Lab,LD,Grn,skipped,3,7
+290,SNP,Grn,Con,Con,Les CALDERWOOD (Ind),Lab,LD,3,7
+291,LD,SNP,Lab,Grn,skipped,skipped,skipped,3,7
+292,Con,Con,LD,Grn,Lab,Les CALDERWOOD (Ind),SNP,3,7
+293,SNP,Lab,LD,Les CALDERWOOD (Ind),Grn,skipped,skipped,3,7
+294,Con,Con,LD,Lab,Les CALDERWOOD (Ind),Grn,skipped,3,7
+295,Lab,LD,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,3,7
+296,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+297,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+298,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+299,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+300,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+301,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+302,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+303,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+304,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+305,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+306,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+307,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+308,Lab,LD,Les CALDERWOOD (Ind),Con,Con,skipped,skipped,3,7
+309,Lab,LD,Les CALDERWOOD (Ind),Con,Con,skipped,skipped,3,7
+310,Con,Con,Lab,Grn,LD,SNP,skipped,3,7
+311,SNP,Les CALDERWOOD (Ind),Con,Con,Lab,LD,Grn,3,7
+312,SNP,Con,Les CALDERWOOD (Ind),Con,Grn,LD,Lab,3,7
+313,Con,Lab,LD,Les CALDERWOOD (Ind),Con,Grn,SNP,3,7
+314,Con,Con,LD,Les CALDERWOOD (Ind),Grn,Lab,SNP,3,7
+315,SNP,Les CALDERWOOD (Ind),Lab,LD,Grn,Con,Con,3,7
+316,Les CALDERWOOD (Ind),LD,Lab,skipped,skipped,skipped,skipped,3,7
+317,Les CALDERWOOD (Ind),LD,Lab,skipped,skipped,skipped,skipped,3,7
+318,SNP,Grn,LD,Les CALDERWOOD (Ind),Lab,Con,Con,3,7
+319,SNP,Grn,LD,Les CALDERWOOD (Ind),Lab,Con,Con,3,7
+320,LD,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+321,Con,Con,Grn,Les CALDERWOOD (Ind),Lab,LD,SNP,3,7
+322,Con,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+323,Con,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+324,Con,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+325,Lab,LD,Les CALDERWOOD (Ind),Grn,Con,Con,SNP,3,7
+326,Lab,LD,Les CALDERWOOD (Ind),Grn,Con,Con,SNP,3,7
+327,SNP,Lab,LD,Grn,Les CALDERWOOD (Ind),skipped,skipped,3,7
+328,Lab,LD,Con,Con,Les CALDERWOOD (Ind),Grn,SNP,3,7
+329,Lab,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+330,Lab,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+331,Lab,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+332,Lab,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+333,Lab,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+334,Lab,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+335,Lab,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+336,Lab,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+337,Lab,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+338,Lab,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+339,Lab,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+340,Lab,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+341,Lab,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+342,Lab,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+343,Lab,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+344,Lab,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+345,Lab,SNP,Grn,skipped,skipped,skipped,skipped,3,7
+346,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+347,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+348,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+349,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+350,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+351,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+352,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+353,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+354,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+355,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+356,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+357,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+358,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+359,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+360,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+361,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+362,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+363,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+364,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+365,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+366,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+367,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+368,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+369,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+370,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+371,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+372,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+373,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+374,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+375,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+376,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+377,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+378,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+379,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+380,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+381,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+382,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+383,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+384,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+385,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+386,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+387,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+388,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+389,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+390,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+391,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+392,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+393,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+394,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+395,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+396,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+397,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+398,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+399,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+400,Grn,SNP,LD,skipped,skipped,skipped,skipped,3,7
+401,Grn,SNP,LD,skipped,skipped,skipped,skipped,3,7
+402,Grn,SNP,LD,skipped,skipped,skipped,skipped,3,7
+403,Grn,SNP,LD,skipped,skipped,skipped,skipped,3,7
+404,Grn,SNP,LD,skipped,skipped,skipped,skipped,3,7
+405,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,7
+406,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,7
+407,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,7
+408,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,7
+409,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,7
+410,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,7
+411,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,7
+412,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,7
+413,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,7
+414,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,7
+415,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,7
+416,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,7
+417,SNP,Con,LD,skipped,skipped,skipped,skipped,3,7
+418,SNP,Con,LD,skipped,skipped,skipped,skipped,3,7
+419,Con,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+420,Grn,Lab,SNP,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+421,SNP,Lab,LD,Con,Grn,Con,Les CALDERWOOD (Ind),3,7
+422,Lab,Con,Con,LD,Grn,SNP,Les CALDERWOOD (Ind),3,7
+423,Lab,Con,Con,LD,Grn,SNP,Les CALDERWOOD (Ind),3,7
+424,SNP,Lab,Les CALDERWOOD (Ind),LD,Grn,Con,Con,3,7
+425,SNP,Lab,Les CALDERWOOD (Ind),LD,Grn,Con,Con,3,7
+426,SNP,Lab,Con,Con,Grn,LD,Les CALDERWOOD (Ind),3,7
+427,Grn,Lab,LD,SNP,skipped,skipped,skipped,3,7
+428,Grn,Lab,LD,SNP,skipped,skipped,skipped,3,7
+429,LD,Grn,Lab,Con,skipped,skipped,skipped,3,7
+430,Con,Grn,Con,LD,skipped,skipped,skipped,3,7
+431,Con,Grn,Con,LD,skipped,skipped,skipped,3,7
+432,Grn,Lab,LD,SNP,Les CALDERWOOD (Ind),skipped,skipped,3,7
+433,Lab,Con,Les CALDERWOOD (Ind),Con,LD,Grn,SNP,3,7
+434,Con,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+435,Con,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+436,SNP,Lab,Con,Con,Grn,LD,Les CALDERWOOD (Ind),3,7
+437,Grn,Con,SNP,Les CALDERWOOD (Ind),Lab,skipped,skipped,3,7
+438,SNP,Lab,Con,LD,Grn,Con,skipped,3,7
+439,SNP,Con,Con,Lab,LD,Grn,Les CALDERWOOD (Ind),3,7
+440,Lab,LD,Con,Les CALDERWOOD (Ind),Con,Grn,SNP,3,7
+441,SNP,LD,Lab,skipped,skipped,skipped,skipped,3,7
+442,SNP,LD,Lab,skipped,skipped,skipped,skipped,3,7
+443,SNP,LD,Lab,skipped,skipped,skipped,skipped,3,7
+444,SNP,LD,Lab,skipped,skipped,skipped,skipped,3,7
+445,SNP,LD,Lab,skipped,skipped,skipped,skipped,3,7
+446,SNP,LD,Lab,skipped,skipped,skipped,skipped,3,7
+447,SNP,LD,Lab,skipped,skipped,skipped,skipped,3,7
+448,SNP,LD,Lab,skipped,skipped,skipped,skipped,3,7
+449,SNP,Lab,LD,skipped,skipped,skipped,skipped,3,7
+450,SNP,Lab,LD,skipped,skipped,skipped,skipped,3,7
+451,SNP,Lab,LD,skipped,skipped,skipped,skipped,3,7
+452,SNP,Lab,LD,skipped,skipped,skipped,skipped,3,7
+453,SNP,Lab,LD,skipped,skipped,skipped,skipped,3,7
+454,SNP,Lab,LD,skipped,skipped,skipped,skipped,3,7
+455,SNP,Lab,LD,skipped,skipped,skipped,skipped,3,7
+456,SNP,Lab,LD,skipped,skipped,skipped,skipped,3,7
+457,SNP,Lab,LD,skipped,skipped,skipped,skipped,3,7
+458,SNP,Lab,LD,skipped,skipped,skipped,skipped,3,7
+459,SNP,Lab,LD,skipped,skipped,skipped,skipped,3,7
+460,SNP,Lab,LD,skipped,skipped,skipped,skipped,3,7
+461,SNP,Lab,LD,skipped,skipped,skipped,skipped,3,7
+462,SNP,Lab,LD,skipped,skipped,skipped,skipped,3,7
+463,SNP,Lab,LD,skipped,skipped,skipped,skipped,3,7
+464,SNP,Lab,LD,skipped,skipped,skipped,skipped,3,7
+465,SNP,Lab,LD,skipped,skipped,skipped,skipped,3,7
+466,SNP,Lab,LD,skipped,skipped,skipped,skipped,3,7
+467,SNP,Lab,LD,skipped,skipped,skipped,skipped,3,7
+468,Con,Grn,LD,Lab,SNP,Les CALDERWOOD (Ind),Con,3,7
+469,LD,Grn,Con,SNP,Lab,skipped,skipped,3,7
+470,SNP,Con,Con,skipped,skipped,skipped,skipped,3,7
+471,SNP,Con,Con,skipped,skipped,skipped,skipped,3,7
+472,SNP,Con,Con,skipped,skipped,skipped,skipped,3,7
+473,SNP,Con,Con,skipped,skipped,skipped,skipped,3,7
+474,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+475,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+476,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+477,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+478,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+479,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+480,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+481,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+482,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+483,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+484,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+485,Les CALDERWOOD (Ind),Grn,SNP,Con,Con,Lab,LD,3,7
+486,LD,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+487,LD,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+488,LD,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+489,LD,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+490,LD,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+491,LD,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+492,LD,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+493,Con,Con,LD,Lab,Grn,Les CALDERWOOD (Ind),skipped,3,7
+494,Con,Con,LD,Lab,Grn,Les CALDERWOOD (Ind),skipped,3,7
+495,Lab,Grn,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,3,7
+496,Con,Con,LD,SNP,Lab,Grn,Les CALDERWOOD (Ind),3,7
+497,LD,Lab,SNP,Grn,skipped,skipped,skipped,3,7
+498,Grn,Lab,LD,SNP,Les CALDERWOOD (Ind),Con,Con,3,7
+499,Grn,Lab,SNP,skipped,skipped,skipped,skipped,3,7
+500,Grn,Lab,SNP,skipped,skipped,skipped,skipped,3,7
+501,Grn,Lab,SNP,skipped,skipped,skipped,skipped,3,7
+502,Grn,Lab,SNP,skipped,skipped,skipped,skipped,3,7
+503,Grn,Lab,SNP,skipped,skipped,skipped,skipped,3,7
+504,Grn,Lab,SNP,skipped,skipped,skipped,skipped,3,7
+505,Grn,Lab,SNP,skipped,skipped,skipped,skipped,3,7
+506,SNP,Lab,Con,skipped,skipped,skipped,skipped,3,7
+507,SNP,Lab,Con,skipped,skipped,skipped,skipped,3,7
+508,SNP,Con,Lab,LD,Les CALDERWOOD (Ind),Con,Grn,3,7
+509,SNP,Grn,Les CALDERWOOD (Ind),Lab,LD,Con,Con,3,7
+510,Grn,Lab,LD,SNP,Con,Les CALDERWOOD (Ind),Con,3,7
+511,LD,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+512,LD,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+513,SNP,Lab,Con,Les CALDERWOOD (Ind),LD,Grn,Con,3,7
+514,Con,Con,SNP,Grn,Les CALDERWOOD (Ind),Lab,LD,3,7
+515,Lab,Con,Con,LD,Les CALDERWOOD (Ind),Grn,SNP,3,7
+516,Lab,Con,Con,LD,Les CALDERWOOD (Ind),Grn,SNP,3,7
+517,Grn,SNP,Lab,LD,skipped,skipped,skipped,3,7
+518,Grn,SNP,Lab,LD,skipped,skipped,skipped,3,7
+519,Grn,SNP,Lab,LD,skipped,skipped,skipped,3,7
+520,Grn,SNP,Lab,LD,skipped,skipped,skipped,3,7
+521,Grn,SNP,Lab,LD,skipped,skipped,skipped,3,7
+522,Grn,SNP,Lab,LD,skipped,skipped,skipped,3,7
+523,Grn,SNP,Lab,LD,skipped,skipped,skipped,3,7
+524,Grn,SNP,Lab,LD,skipped,skipped,skipped,3,7
+525,Con,Lab,Con,LD,Grn,Les CALDERWOOD (Ind),SNP,3,7
+526,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+527,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+528,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+529,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+530,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+531,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+532,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+533,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+534,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+535,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+536,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+537,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+538,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+539,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+540,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+541,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+542,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+543,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+544,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+545,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+546,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+547,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+548,Lab,LD,SNP,Con,skipped,skipped,skipped,3,7
+549,Lab,SNP,Les CALDERWOOD (Ind),Con,Con,LD,skipped,3,7
+550,Lab,LD,Les CALDERWOOD (Ind),Con,skipped,skipped,skipped,3,7
+551,SNP,LD,Lab,Grn,Les CALDERWOOD (Ind),Con,Con,3,7
+552,Con,LD,skipped,skipped,skipped,skipped,skipped,3,7
+553,Con,LD,skipped,skipped,skipped,skipped,skipped,3,7
+554,Con,LD,skipped,skipped,skipped,skipped,skipped,3,7
+555,Con,LD,skipped,skipped,skipped,skipped,skipped,3,7
+556,Con,LD,skipped,skipped,skipped,skipped,skipped,3,7
+557,Con,Con,Lab,LD,Les CALDERWOOD (Ind),SNP,Grn,3,7
+558,Lab,SNP,LD,Con,Con,Les CALDERWOOD (Ind),Grn,3,7
+559,SNP,Lab,LD,Con,Con,Grn,skipped,3,7
+560,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),skipped,skipped,3,7
+561,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),skipped,skipped,3,7
+562,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),skipped,skipped,3,7
+563,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),skipped,skipped,3,7
+564,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),skipped,skipped,3,7
+565,Con,LD,Con,skipped,skipped,skipped,skipped,3,7
+566,Lab,SNP,LD,Grn,Con,Con,Les CALDERWOOD (Ind),3,7
+567,Con,Lab,LD,skipped,skipped,skipped,skipped,3,7
+568,SNP,Grn,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,3,7
+569,SNP,Grn,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,3,7
+570,SNP,Grn,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,3,7
+571,SNP,Grn,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,3,7
+572,Con,Con,Lab,Grn,LD,Les CALDERWOOD (Ind),skipped,3,7
+573,Con,Con,Lab,Les CALDERWOOD (Ind),LD,skipped,skipped,3,7
+574,SNP,Con,Lab,LD,Grn,skipped,skipped,3,7
+575,Con,LD,Grn,Lab,Les CALDERWOOD (Ind),Con,SNP,3,7
+576,Lab,SNP,Con,Les CALDERWOOD (Ind),Con,LD,Grn,3,7
+577,Con,Con,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+578,Con,Con,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+579,Con,Con,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+580,Con,Con,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+581,Con,Con,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+582,Con,Con,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+583,Con,Con,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+584,Con,Con,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+585,Con,Con,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+586,Con,Con,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+587,Lab,SNP,Con,LD,Les CALDERWOOD (Ind),Con,Grn,3,7
+588,Con,Con,Les CALDERWOOD (Ind),LD,Grn,Lab,SNP,3,7
+589,Con,Con,Les CALDERWOOD (Ind),LD,Grn,Lab,SNP,3,7
+590,Con,Con,Lab,LD,Les CALDERWOOD (Ind),Grn,skipped,3,7
+591,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+592,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+593,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+594,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+595,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+596,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+597,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+598,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+599,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+600,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+601,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+602,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+603,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+604,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+605,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+606,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+607,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+608,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+609,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+610,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+611,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+612,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+613,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+614,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+615,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+616,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+617,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+618,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+619,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+620,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+621,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+622,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+623,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+624,Lab,Grn,LD,Les CALDERWOOD (Ind),Con,Con,SNP,3,7
+625,Con,Grn,Con,skipped,skipped,skipped,skipped,3,7
+626,Con,Grn,Con,skipped,skipped,skipped,skipped,3,7
+627,Les CALDERWOOD (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,7
+628,Les CALDERWOOD (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,7
+629,Les CALDERWOOD (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,7
+630,Les CALDERWOOD (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,7
+631,Les CALDERWOOD (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,7
+632,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+633,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+634,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+635,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+636,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+637,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+638,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+639,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+640,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+641,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+642,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+643,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+644,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+645,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+646,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+647,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+648,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+649,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+650,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+651,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+652,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+653,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+654,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+655,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+656,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+657,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+658,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+659,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+660,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+661,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+662,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+663,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+664,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+665,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+666,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+667,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+668,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+669,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+670,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+671,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+672,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+673,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+674,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+675,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+676,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+677,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+678,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+679,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+680,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+681,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+682,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+683,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+684,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+685,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+686,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+687,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+688,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+689,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+690,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+691,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+692,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+693,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+694,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+695,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+696,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+697,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+698,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+699,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+700,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+701,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+702,SNP,Grn,Lab,skipped,skipped,skipped,skipped,3,7
+703,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,SNP,3,7
+704,Lab,Les CALDERWOOD (Ind),Grn,skipped,skipped,skipped,skipped,3,7
+705,Lab,Les CALDERWOOD (Ind),Grn,skipped,skipped,skipped,skipped,3,7
+706,Lab,Les CALDERWOOD (Ind),Grn,skipped,skipped,skipped,skipped,3,7
+707,Lab,Les CALDERWOOD (Ind),Grn,skipped,skipped,skipped,skipped,3,7
+708,Lab,Les CALDERWOOD (Ind),Grn,skipped,skipped,skipped,skipped,3,7
+709,Lab,Les CALDERWOOD (Ind),Grn,skipped,skipped,skipped,skipped,3,7
+710,SNP,LD,Lab,Grn,Con,Con,Les CALDERWOOD (Ind),3,7
+711,Grn,SNP,Lab,Les CALDERWOOD (Ind),LD,skipped,skipped,3,7
+712,SNP,Grn,Les CALDERWOOD (Ind),Con,Con,Lab,LD,3,7
+713,Con,SNP,Con,skipped,skipped,skipped,skipped,3,7
+714,SNP,LD,Lab,Con,Les CALDERWOOD (Ind),Con,Grn,3,7
+715,SNP,Con,LD,Grn,Lab,Les CALDERWOOD (Ind),Con,3,7
+716,Con,Les CALDERWOOD (Ind),Con,Lab,LD,Grn,SNP,3,7
+717,Grn,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,skipped,3,7
+718,Grn,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,skipped,3,7
+719,Grn,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,skipped,3,7
+720,Lab,SNP,Les CALDERWOOD (Ind),LD,Con,Con,Grn,3,7
+721,SNP,Grn,Les CALDERWOOD (Ind),LD,Lab,skipped,skipped,3,7
+722,Con,Con,Lab,LD,Les CALDERWOOD (Ind),Grn,skipped,3,7
+723,Con,Grn,Les CALDERWOOD (Ind),Con,LD,Lab,SNP,3,7
+724,LD,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+725,Con,Lab,Grn,Con,LD,Les CALDERWOOD (Ind),SNP,3,7
+726,SNP,Grn,LD,Les CALDERWOOD (Ind),Con,Con,Lab,3,7
+727,Con,Con,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+728,Con,Con,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+729,Con,LD,Con,Lab,Grn,SNP,Les CALDERWOOD (Ind),3,7
+730,Lab,Con,Con,LD,Grn,Les CALDERWOOD (Ind),SNP,3,7
+731,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+732,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+733,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+734,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+735,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+736,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+737,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+738,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+739,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+740,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+741,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+742,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+743,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+744,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+745,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+746,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+747,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+748,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+749,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+750,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+751,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+752,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+753,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+754,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+755,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+756,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+757,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+758,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+759,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+760,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+761,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+762,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+763,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+764,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+765,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+766,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+767,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+768,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+769,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+770,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+771,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+772,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+773,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+774,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+775,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+776,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+777,Lab,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+778,SNP,Les CALDERWOOD (Ind),Con,LD,skipped,skipped,skipped,3,7
+779,Lab,LD,Grn,SNP,Les CALDERWOOD (Ind),Con,Con,3,7
+780,Con,Con,Les CALDERWOOD (Ind),Grn,skipped,skipped,skipped,3,7
+781,Lab,LD,Grn,Con,Con,SNP,Les CALDERWOOD (Ind),3,7
+782,SNP,Grn,LD,Con,Con,Lab,Les CALDERWOOD (Ind),3,7
+783,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+784,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+785,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+786,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+787,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+788,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+789,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+790,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+791,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+792,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+793,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+794,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+795,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+796,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+797,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+798,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+799,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+800,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+801,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+802,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+803,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+804,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+805,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+806,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+807,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+808,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+809,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+810,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+811,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+812,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+813,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+814,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+815,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+816,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+817,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+818,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+819,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+820,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+821,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+822,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+823,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+824,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+825,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+826,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+827,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+828,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+829,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+830,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+831,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+832,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+833,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+834,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+835,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+836,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+837,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+838,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+839,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+840,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+841,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+842,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+843,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+844,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+845,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+846,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+847,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+848,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+849,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+850,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+851,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+852,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+853,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+854,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+855,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+856,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+857,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+858,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+859,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+860,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+861,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+862,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+863,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+864,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+865,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+866,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+867,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+868,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+869,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+870,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+871,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+872,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+873,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+874,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+875,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+876,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+877,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+878,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+879,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+880,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+881,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+882,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+883,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+884,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+885,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+886,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+887,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+888,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+889,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+890,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+891,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+892,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+893,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+894,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+895,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+896,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+897,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+898,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+899,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+900,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+901,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+902,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+903,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+904,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+905,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+906,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+907,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+908,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+909,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+910,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+911,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+912,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+913,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+914,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+915,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+916,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+917,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+918,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+919,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+920,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+921,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+922,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+923,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+924,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+925,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+926,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+927,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+928,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+929,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+930,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+931,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+932,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+933,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+934,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+935,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+936,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+937,Con,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,skipped,3,7
+938,Lab,Grn,Con,skipped,skipped,skipped,skipped,3,7
+939,Con,Con,Lab,SNP,LD,Grn,Les CALDERWOOD (Ind),3,7
+940,SNP,Lab,Grn,Les CALDERWOOD (Ind),LD,Con,Con,3,7
+941,SNP,Grn,Con,Con,LD,Les CALDERWOOD (Ind),Lab,3,7
+942,Lab,Grn,LD,Les CALDERWOOD (Ind),Con,Con,SNP,3,7
+943,Lab,Grn,LD,Les CALDERWOOD (Ind),Con,Con,SNP,3,7
+944,Lab,LD,Grn,Les CALDERWOOD (Ind),SNP,Con,Con,3,7
+945,Con,Con,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+946,Con,Con,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+947,Con,Con,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+948,Con,Con,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+949,Lab,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+950,Lab,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+951,SNP,LD,Les CALDERWOOD (Ind),Grn,Lab,Con,Con,3,7
+952,Grn,LD,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+953,LD,Les CALDERWOOD (Ind),Con,Con,Lab,skipped,skipped,3,7
+954,Con,Con,Lab,LD,Grn,skipped,skipped,3,7
+955,Con,Con,Lab,LD,Grn,skipped,skipped,3,7
+956,Con,Con,Lab,LD,Grn,skipped,skipped,3,7
+957,Lab,Con,Con,Les CALDERWOOD (Ind),LD,Grn,SNP,3,7
+958,LD,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+959,LD,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+960,LD,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+961,LD,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+962,LD,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+963,Con,Con,LD,Grn,Lab,skipped,skipped,3,7
+964,Con,Con,LD,Grn,Lab,skipped,skipped,3,7
+965,Grn,SNP,LD,Lab,Les CALDERWOOD (Ind),skipped,skipped,3,7
+966,Lab,Con,Con,Les CALDERWOOD (Ind),LD,Grn,skipped,3,7
+967,SNP,Grn,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+968,SNP,Grn,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+969,SNP,Grn,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+970,SNP,Grn,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+971,Les CALDERWOOD (Ind),SNP,LD,Grn,Lab,Con,Con,3,7
+972,SNP,Grn,Lab,LD,Con,Con,skipped,3,7
+973,LD,Les CALDERWOOD (Ind),Lab,skipped,skipped,skipped,skipped,3,7
+974,LD,Les CALDERWOOD (Ind),Lab,skipped,skipped,skipped,skipped,3,7
+975,Con,Grn,LD,skipped,skipped,skipped,skipped,3,7
+976,Con,Grn,LD,skipped,skipped,skipped,skipped,3,7
+977,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+978,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+979,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+980,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+981,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+982,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+983,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+984,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+985,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+986,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+987,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+988,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+989,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+990,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+991,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+992,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+993,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+994,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+995,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+996,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+997,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+998,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+999,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1000,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1001,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1002,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1003,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1004,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1005,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1006,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1007,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1008,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1009,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1010,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1011,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1012,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1013,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1014,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1015,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1016,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1017,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1018,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1019,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1020,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1021,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1022,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1023,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1024,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1025,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1026,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1027,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1028,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1029,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1030,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1031,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1032,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1033,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1034,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1035,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1036,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1037,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1038,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1039,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1040,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1041,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1042,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1043,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1044,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1045,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1046,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1047,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1048,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1049,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1050,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1051,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1052,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1053,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1054,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1055,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1056,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1057,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1058,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1059,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1060,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1061,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1062,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1063,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1064,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1065,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1066,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1067,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1068,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1069,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1070,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1071,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1072,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1073,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1074,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1075,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1076,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1077,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1078,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1079,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1080,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1081,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1082,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1083,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1084,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1085,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1086,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1087,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1088,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1089,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1090,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1091,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1092,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1093,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1094,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1095,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1096,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1097,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1098,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1099,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1100,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1101,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1102,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1103,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1104,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1105,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1106,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1107,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1108,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1109,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1110,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1111,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1112,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1113,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1114,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1115,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1116,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1117,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1118,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1119,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1120,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1121,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1122,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1123,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1124,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1125,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1126,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1127,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1128,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1129,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1130,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1131,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1132,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1133,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1134,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1135,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1136,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1137,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1138,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1139,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1140,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1141,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1142,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1143,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1144,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1145,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1146,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1147,SNP,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1148,Grn,Lab,Con,skipped,skipped,skipped,skipped,3,7
+1149,Con,Con,Lab,Les CALDERWOOD (Ind),LD,Grn,SNP,3,7
+1150,Les CALDERWOOD (Ind),Con,LD,skipped,skipped,skipped,skipped,3,7
+1151,LD,Lab,Con,skipped,skipped,skipped,skipped,3,7
+1152,Con,SNP,Lab,LD,Grn,Les CALDERWOOD (Ind),Con,3,7
+1153,Lab,SNP,LD,Grn,Les CALDERWOOD (Ind),Con,Con,3,7
+1154,Lab,SNP,LD,Grn,Les CALDERWOOD (Ind),Con,Con,3,7
+1155,Lab,SNP,LD,Grn,Les CALDERWOOD (Ind),Con,Con,3,7
+1156,Les CALDERWOOD (Ind),Lab,Con,Con,skipped,skipped,skipped,3,7
+1157,Lab,Les CALDERWOOD (Ind),LD,Grn,Con,Con,SNP,3,7
+1158,Lab,Les CALDERWOOD (Ind),LD,Grn,Con,Con,SNP,3,7
+1159,SNP,Lab,Con,Con,Grn,Les CALDERWOOD (Ind),LD,3,7
+1160,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1161,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1162,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1163,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1164,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1165,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1166,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1167,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1168,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1169,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1170,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1171,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1172,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1173,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1174,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1175,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1176,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1177,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1178,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1179,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1180,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1181,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1182,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1183,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1184,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1185,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1186,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1187,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1188,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1189,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1190,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1191,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1192,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1193,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1194,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1195,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1196,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1197,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1198,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1199,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1200,SNP,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1201,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1202,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1203,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1204,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1205,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1206,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1207,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1208,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1209,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1210,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1211,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1212,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1213,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1214,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1215,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1216,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1217,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1218,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1219,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1220,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1221,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1222,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1223,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1224,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1225,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1226,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1227,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1228,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1229,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1230,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1231,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1232,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1233,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1234,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1235,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1236,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1237,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1238,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1239,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1240,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1241,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1242,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1243,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1244,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1245,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1246,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1247,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1248,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1249,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1250,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1251,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1252,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1253,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1254,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1255,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1256,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1257,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1258,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1259,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1260,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1261,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1262,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1263,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1264,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1265,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1266,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1267,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1268,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1269,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1270,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1271,Lab,SNP,Con,Con,LD,Grn,Les CALDERWOOD (Ind),3,7
+1272,Les CALDERWOOD (Ind),Con,Con,Lab,LD,Grn,SNP,3,7
+1273,Les CALDERWOOD (Ind),Con,Con,Lab,LD,Grn,SNP,3,7
+1274,Grn,Lab,Les CALDERWOOD (Ind),LD,SNP,skipped,skipped,3,7
+1275,SNP,Grn,LD,Les CALDERWOOD (Ind),Con,Lab,Con,3,7
+1276,Lab,Con,Con,LD,skipped,skipped,skipped,3,7
+1277,Lab,Con,Con,LD,skipped,skipped,skipped,3,7
+1278,Lab,Grn,LD,Con,Con,Les CALDERWOOD (Ind),SNP,3,7
+1279,Con,Lab,Con,skipped,skipped,skipped,skipped,3,7
+1280,Con,Lab,Con,skipped,skipped,skipped,skipped,3,7
+1281,Con,Lab,Con,skipped,skipped,skipped,skipped,3,7
+1282,Con,Lab,Con,skipped,skipped,skipped,skipped,3,7
+1283,Con,Lab,Con,skipped,skipped,skipped,skipped,3,7
+1284,Con,Lab,Con,skipped,skipped,skipped,skipped,3,7
+1285,Con,Lab,Con,skipped,skipped,skipped,skipped,3,7
+1286,Con,Lab,Con,skipped,skipped,skipped,skipped,3,7
+1287,Con,Lab,Con,skipped,skipped,skipped,skipped,3,7
+1288,Con,Lab,Con,skipped,skipped,skipped,skipped,3,7
+1289,Con,Lab,Con,skipped,skipped,skipped,skipped,3,7
+1290,SNP,Les CALDERWOOD (Ind),Grn,skipped,skipped,skipped,skipped,3,7
+1291,SNP,Les CALDERWOOD (Ind),Grn,skipped,skipped,skipped,skipped,3,7
+1292,SNP,Les CALDERWOOD (Ind),Grn,skipped,skipped,skipped,skipped,3,7
+1293,SNP,Les CALDERWOOD (Ind),Grn,skipped,skipped,skipped,skipped,3,7
+1294,SNP,Les CALDERWOOD (Ind),Grn,skipped,skipped,skipped,skipped,3,7
+1295,SNP,Les CALDERWOOD (Ind),Grn,skipped,skipped,skipped,skipped,3,7
+1296,SNP,Les CALDERWOOD (Ind),Grn,skipped,skipped,skipped,skipped,3,7
+1297,SNP,Les CALDERWOOD (Ind),Lab,skipped,skipped,skipped,skipped,3,7
+1298,SNP,Les CALDERWOOD (Ind),Lab,skipped,skipped,skipped,skipped,3,7
+1299,SNP,Lab,LD,Les CALDERWOOD (Ind),Con,Con,Grn,3,7
+1300,LD,Les CALDERWOOD (Ind),Con,skipped,skipped,skipped,skipped,3,7
+1301,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1302,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1303,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1304,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1305,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1306,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1307,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1308,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1309,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1310,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1311,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1312,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1313,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1314,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1315,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1316,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1317,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1318,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1319,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1320,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1321,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1322,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1323,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1324,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1325,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1326,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1327,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+1328,SNP,LD,Grn,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+1329,Con,Con,Les CALDERWOOD (Ind),LD,Lab,skipped,skipped,3,7
+1330,Con,Con,Les CALDERWOOD (Ind),LD,Lab,skipped,skipped,3,7
+1331,Con,Con,Les CALDERWOOD (Ind),LD,Lab,skipped,skipped,3,7
+1332,Con,Con,Les CALDERWOOD (Ind),LD,Lab,skipped,skipped,3,7
+1333,Con,Con,Les CALDERWOOD (Ind),LD,Lab,skipped,skipped,3,7
+1334,SNP,Lab,Grn,LD,skipped,skipped,skipped,3,7
+1335,SNP,Lab,Grn,LD,skipped,skipped,skipped,3,7
+1336,SNP,Lab,Grn,LD,skipped,skipped,skipped,3,7
+1337,SNP,Lab,Grn,LD,skipped,skipped,skipped,3,7
+1338,SNP,Lab,Grn,LD,skipped,skipped,skipped,3,7
+1339,SNP,Lab,Grn,LD,skipped,skipped,skipped,3,7
+1340,SNP,Lab,Grn,LD,skipped,skipped,skipped,3,7
+1341,SNP,Lab,Grn,LD,skipped,skipped,skipped,3,7
+1342,SNP,Lab,Grn,LD,skipped,skipped,skipped,3,7
+1343,Les CALDERWOOD (Ind),Con,skipped,skipped,skipped,skipped,skipped,3,7
+1344,Lab,Grn,SNP,skipped,skipped,skipped,skipped,3,7
+1345,Lab,Grn,SNP,skipped,skipped,skipped,skipped,3,7
+1346,Lab,Grn,SNP,skipped,skipped,skipped,skipped,3,7
+1347,Lab,Grn,SNP,skipped,skipped,skipped,skipped,3,7
+1348,Lab,Grn,SNP,skipped,skipped,skipped,skipped,3,7
+1349,Lab,Grn,SNP,skipped,skipped,skipped,skipped,3,7
+1350,Lab,Grn,SNP,skipped,skipped,skipped,skipped,3,7
+1351,SNP,Con,LD,skipped,skipped,skipped,skipped,3,7
+1352,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+1353,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+1354,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+1355,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+1356,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+1357,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+1358,Grn,Les CALDERWOOD (Ind),Lab,LD,SNP,skipped,skipped,3,7
+1359,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1360,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1361,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1362,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1363,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1364,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1365,LD,Lab,Con,Les CALDERWOOD (Ind),Con,SNP,Grn,3,7
+1366,Con,Les CALDERWOOD (Ind),Grn,skipped,skipped,skipped,skipped,3,7
+1367,Grn,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1368,Grn,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1369,Grn,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1370,Grn,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1371,Grn,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1372,Grn,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1373,Grn,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1374,Grn,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1375,Grn,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1376,Grn,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1377,Grn,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1378,Grn,SNP,Con,Con,Lab,skipped,skipped,3,7
+1379,SNP,Lab,Con,skipped,skipped,skipped,skipped,3,7
+1380,SNP,Lab,Con,skipped,skipped,skipped,skipped,3,7
+1381,SNP,Lab,Con,skipped,skipped,skipped,skipped,3,7
+1382,SNP,Lab,Con,skipped,skipped,skipped,skipped,3,7
+1383,SNP,Lab,Con,skipped,skipped,skipped,skipped,3,7
+1384,Grn,SNP,LD,Les CALDERWOOD (Ind),Lab,Con,Con,3,7
+1385,SNP,Con,Con,Lab,LD,Les CALDERWOOD (Ind),skipped,3,7
+1386,Lab,SNP,Con,skipped,skipped,skipped,skipped,3,7
+1387,Lab,SNP,Con,skipped,skipped,skipped,skipped,3,7
+1388,Lab,SNP,Con,skipped,skipped,skipped,skipped,3,7
+1389,Lab,SNP,Con,skipped,skipped,skipped,skipped,3,7
+1390,Lab,SNP,Con,skipped,skipped,skipped,skipped,3,7
+1391,Lab,SNP,Con,skipped,skipped,skipped,skipped,3,7
+1392,Lab,SNP,Con,skipped,skipped,skipped,skipped,3,7
+1393,Lab,SNP,Con,skipped,skipped,skipped,skipped,3,7
+1394,Lab,SNP,Con,skipped,skipped,skipped,skipped,3,7
+1395,SNP,Les CALDERWOOD (Ind),Con,Lab,LD,Con,skipped,3,7
+1396,Grn,LD,skipped,skipped,skipped,skipped,skipped,3,7
+1397,Grn,LD,skipped,skipped,skipped,skipped,skipped,3,7
+1398,Grn,LD,skipped,skipped,skipped,skipped,skipped,3,7
+1399,Grn,LD,skipped,skipped,skipped,skipped,skipped,3,7
+1400,Grn,LD,skipped,skipped,skipped,skipped,skipped,3,7
+1401,Grn,LD,skipped,skipped,skipped,skipped,skipped,3,7
+1402,SNP,Grn,Lab,Les CALDERWOOD (Ind),LD,Con,Con,3,7
+1403,SNP,Grn,Lab,Les CALDERWOOD (Ind),LD,Con,Con,3,7
+1404,SNP,Grn,Lab,Les CALDERWOOD (Ind),LD,Con,Con,3,7
+1405,Con,Con,Lab,LD,Les CALDERWOOD (Ind),Grn,SNP,3,7
+1406,Con,Con,Lab,LD,Les CALDERWOOD (Ind),Grn,SNP,3,7
+1407,Con,Con,Lab,LD,Les CALDERWOOD (Ind),Grn,SNP,3,7
+1408,Con,Con,Lab,LD,Les CALDERWOOD (Ind),Grn,SNP,3,7
+1409,SNP,Les CALDERWOOD (Ind),Lab,LD,Grn,skipped,skipped,3,7
+1410,Grn,SNP,Con,skipped,skipped,skipped,skipped,3,7
+1411,SNP,Grn,Lab,Les CALDERWOOD (Ind),LD,skipped,skipped,3,7
+1412,Lab,Con,Con,LD,Les CALDERWOOD (Ind),Grn,SNP,3,7
+1413,Lab,Con,Con,LD,Les CALDERWOOD (Ind),Grn,SNP,3,7
+1414,Lab,Con,Con,LD,Les CALDERWOOD (Ind),Grn,SNP,3,7
+1415,Les CALDERWOOD (Ind),Lab,Grn,skipped,skipped,skipped,skipped,3,7
+1416,SNP,Les CALDERWOOD (Ind),Con,Con,skipped,skipped,skipped,3,7
+1417,Con,Con,Lab,Les CALDERWOOD (Ind),LD,SNP,Grn,3,7
+1418,Con,Lab,LD,Grn,skipped,skipped,skipped,3,7
+1419,Con,Con,LD,Lab,SNP,Grn,Les CALDERWOOD (Ind),3,7
+1420,Grn,SNP,Con,skipped,skipped,skipped,skipped,3,7
+1421,Grn,SNP,Con,skipped,skipped,skipped,skipped,3,7
+1422,Con,Con,LD,Les CALDERWOOD (Ind),Grn,skipped,skipped,3,7
+1423,Con,Lab,LD,Con,skipped,skipped,skipped,3,7
+1424,Lab,LD,Con,Les CALDERWOOD (Ind),Con,Grn,SNP,3,7
+1425,Les CALDERWOOD (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,7
+1426,Les CALDERWOOD (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,7
+1427,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1428,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1429,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1430,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1431,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1432,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1433,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1434,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1435,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1436,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1437,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1438,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1439,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1440,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1441,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1442,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1443,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1444,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1445,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1446,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1447,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1448,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1449,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1450,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1451,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1452,Con,Con,Lab,skipped,skipped,skipped,skipped,3,7
+1453,Lab,Grn,SNP,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+1454,SNP,LD,Grn,Con,Les CALDERWOOD (Ind),Con,Lab,3,7
+1455,SNP,Grn,Con,Con,Lab,LD,Les CALDERWOOD (Ind),3,7
+1456,Lab,SNP,Les CALDERWOOD (Ind),LD,Grn,Con,Con,3,7
+1457,SNP,Lab,LD,Con,Con,Grn,Les CALDERWOOD (Ind),3,7
+1458,SNP,Lab,LD,Con,Con,Grn,Les CALDERWOOD (Ind),3,7
+1459,Lab,Con,SNP,skipped,skipped,skipped,skipped,3,7
+1460,Lab,Les CALDERWOOD (Ind),Grn,SNP,LD,skipped,skipped,3,7
+1461,Les CALDERWOOD (Ind),Con,Con,LD,Lab,Grn,SNP,3,7
+1462,SNP,Grn,Les CALDERWOOD (Ind),Lab,LD,skipped,skipped,3,7
+1463,SNP,Grn,Les CALDERWOOD (Ind),Lab,LD,skipped,skipped,3,7
+1464,SNP,Grn,Les CALDERWOOD (Ind),Lab,LD,skipped,skipped,3,7
+1465,SNP,Grn,Les CALDERWOOD (Ind),Lab,LD,skipped,skipped,3,7
+1466,Les CALDERWOOD (Ind),Con,Con,Grn,skipped,skipped,skipped,3,7
+1467,Con,Con,Les CALDERWOOD (Ind),Grn,LD,SNP,Lab,3,7
+1468,Lab,Con,Con,LD,Grn,skipped,skipped,3,7
+1469,SNP,Les CALDERWOOD (Ind),Grn,LD,Lab,Con,Con,3,7
+1470,SNP,Les CALDERWOOD (Ind),Grn,LD,Lab,Con,Con,3,7
+1471,SNP,Les CALDERWOOD (Ind),Grn,LD,Lab,Con,Con,3,7
+1472,Con,Con,LD,Grn,SNP,Lab,Les CALDERWOOD (Ind),3,7
+1473,Grn,SNP,LD,Lab,Con,Con,Les CALDERWOOD (Ind),3,7
+1474,Grn,SNP,LD,Lab,Con,Con,Les CALDERWOOD (Ind),3,7
+1475,Lab,LD,Con,Con,skipped,skipped,skipped,3,7
+1476,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1477,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1478,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1479,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1480,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1481,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1482,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1483,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1484,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1485,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1486,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1487,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1488,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1489,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1490,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1491,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1492,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1493,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1494,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1495,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1496,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1497,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1498,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1499,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1500,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1501,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1502,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1503,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1504,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1505,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1506,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1507,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1508,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1509,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1510,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1511,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1512,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1513,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1514,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1515,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1516,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1517,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1518,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1519,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1520,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1521,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1522,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1523,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1524,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1525,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1526,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1527,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1528,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1529,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1530,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1531,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1532,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1533,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1534,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1535,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1536,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1537,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1538,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1539,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1540,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1541,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1542,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1543,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1544,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1545,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1546,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1547,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1548,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1549,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1550,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1551,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1552,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1553,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1554,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1555,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1556,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1557,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1558,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1559,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1560,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1561,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1562,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1563,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1564,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1565,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1566,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1567,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1568,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1569,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1570,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1571,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1572,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1573,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1574,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1575,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1576,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1577,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1578,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1579,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1580,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1581,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1582,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1583,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1584,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1585,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1586,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1587,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1588,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1589,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1590,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1591,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1592,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1593,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1594,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1595,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1596,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1597,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1598,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1599,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1600,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1601,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1602,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1603,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1604,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1605,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1606,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1607,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1608,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1609,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1610,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1611,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1612,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1613,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1614,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1615,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1616,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1617,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1618,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1619,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1620,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1621,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1622,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1623,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1624,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1625,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1626,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1627,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1628,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1629,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1630,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1631,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1632,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1633,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1634,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1635,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1636,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1637,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1638,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1639,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1640,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1641,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1642,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1643,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1644,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1645,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1646,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1647,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1648,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1649,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1650,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1651,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1652,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1653,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1654,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1655,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1656,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1657,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1658,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1659,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1660,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1661,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1662,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1663,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1664,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1665,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1666,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1667,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1668,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1669,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1670,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1671,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1672,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1673,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1674,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1675,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1676,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1677,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1678,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1679,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1680,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1681,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1682,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1683,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1684,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1685,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1686,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1687,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1688,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1689,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+1690,Lab,Con,Les CALDERWOOD (Ind),Con,LD,skipped,skipped,3,7
+1691,Les CALDERWOOD (Ind),Lab,SNP,LD,Con,Con,Grn,3,7
+1692,LD,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1693,LD,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1694,LD,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1695,LD,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1696,LD,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1697,LD,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+1698,LD,Grn,SNP,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+1699,SNP,Lab,LD,Les CALDERWOOD (Ind),Grn,Con,Con,3,7
+1700,SNP,Lab,LD,Les CALDERWOOD (Ind),Grn,Con,Con,3,7
+1701,SNP,Lab,LD,Les CALDERWOOD (Ind),Grn,Con,Con,3,7
+1702,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1703,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1704,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1705,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1706,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1707,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1708,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1709,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1710,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1711,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1712,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1713,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1714,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1715,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1716,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1717,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1718,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1719,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1720,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1721,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1722,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1723,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1724,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1725,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1726,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1727,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1728,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1729,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1730,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1731,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1732,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1733,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1734,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1735,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1736,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1737,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1738,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1739,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1740,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1741,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1742,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1743,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1744,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1745,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1746,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1747,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1748,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1749,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1750,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1751,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1752,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1753,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1754,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1755,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1756,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1757,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1758,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1759,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1760,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1761,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1762,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1763,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1764,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1765,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1766,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1767,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1768,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1769,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1770,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1771,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1772,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1773,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1774,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1775,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1776,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1777,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1778,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1779,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1780,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1781,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1782,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1783,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1784,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1785,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1786,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1787,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1788,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1789,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1790,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1791,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1792,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1793,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1794,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1795,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1796,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1797,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1798,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1799,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1800,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1801,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1802,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1803,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1804,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1805,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1806,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1807,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1808,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1809,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1810,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1811,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1812,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1813,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1814,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1815,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1816,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1817,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1818,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1819,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1820,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1821,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1822,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1823,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1824,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1825,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1826,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1827,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1828,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1829,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1830,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1831,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1832,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1833,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1834,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1835,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1836,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1837,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1838,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1839,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1840,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1841,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1842,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1843,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1844,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1845,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1846,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1847,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1848,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1849,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1850,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1851,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1852,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1853,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1854,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1855,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1856,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1857,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1858,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1859,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1860,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1861,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1862,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1863,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1864,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1865,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1866,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1867,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1868,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1869,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1870,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1871,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1872,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1873,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1874,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1875,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1876,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1877,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1878,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1879,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1880,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1881,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1882,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1883,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1884,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1885,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1886,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1887,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1888,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1889,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1890,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1891,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1892,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1893,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1894,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1895,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1896,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1897,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1898,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1899,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1900,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1901,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1902,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1903,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1904,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1905,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1906,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1907,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1908,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1909,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1910,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1911,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1912,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1913,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1914,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1915,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1916,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1917,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1918,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1919,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1920,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1921,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1922,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1923,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1924,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1925,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1926,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1927,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1928,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1929,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1930,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1931,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1932,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1933,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1934,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1935,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1936,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1937,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1938,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1939,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1940,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1941,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1942,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1943,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1944,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1945,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1946,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1947,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1948,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1949,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1950,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1951,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1952,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1953,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1954,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1955,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1956,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1957,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1958,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1959,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1960,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1961,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1962,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1963,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1964,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1965,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1966,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1967,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1968,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1969,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1970,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1971,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1972,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1973,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1974,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1975,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1976,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1977,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1978,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1979,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1980,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1981,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1982,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1983,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1984,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1985,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1986,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1987,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1988,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1989,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1990,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1991,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1992,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1993,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1994,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1995,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1996,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1997,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1998,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+1999,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2000,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2001,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2002,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2003,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2004,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2005,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2006,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2007,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2008,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2009,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2010,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2011,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2012,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2013,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2014,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2015,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2016,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2017,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2018,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2019,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2020,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2021,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2022,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2023,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2024,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2025,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2026,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2027,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2028,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2029,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2030,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2031,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2032,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2033,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2034,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2035,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2036,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2037,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2038,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2039,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2040,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2041,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2042,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2043,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2044,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2045,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2046,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2047,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2048,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2049,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2050,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2051,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2052,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2053,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2054,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2055,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2056,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2057,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2058,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2059,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2060,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2061,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2062,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2063,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2064,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2065,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2066,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2067,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2068,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2069,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2070,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2071,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2072,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2073,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2074,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2075,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2076,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2077,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2078,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2079,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2080,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2081,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2082,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2083,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2084,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2085,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2086,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2087,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2088,Con,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2089,Lab,Grn,LD,SNP,Con,Con,Les CALDERWOOD (Ind),3,7
+2090,Lab,Grn,LD,SNP,Con,Con,Les CALDERWOOD (Ind),3,7
+2091,SNP,Grn,LD,Lab,Con,skipped,skipped,3,7
+2092,LD,Lab,Con,Les CALDERWOOD (Ind),Con,SNP,Grn,3,7
+2093,Con,Con,Les CALDERWOOD (Ind),Lab,LD,Grn,skipped,3,7
+2094,Lab,Les CALDERWOOD (Ind),Con,LD,Grn,SNP,skipped,3,7
+2095,Grn,Lab,SNP,LD,Con,Con,Les CALDERWOOD (Ind),3,7
+2096,Lab,LD,Grn,SNP,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2097,Les CALDERWOOD (Ind),Grn,skipped,skipped,skipped,skipped,skipped,3,7
+2098,Lab,LD,Con,Con,Grn,SNP,skipped,3,7
+2099,Con,Lab,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+2100,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2101,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2102,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2103,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2104,Con,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+2105,Con,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+2106,Con,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+2107,Con,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+2108,Con,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+2109,Con,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+2110,Con,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+2111,Con,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+2112,Con,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+2113,LD,Lab,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+2114,Les CALDERWOOD (Ind),SNP,Grn,LD,skipped,skipped,skipped,3,7
+2115,Les CALDERWOOD (Ind),Con,Con,LD,skipped,skipped,skipped,3,7
+2116,Lab,Les CALDERWOOD (Ind),LD,SNP,skipped,skipped,skipped,3,7
+2117,SNP,LD,Grn,Les CALDERWOOD (Ind),Lab,Con,Con,3,7
+2118,LD,Lab,Grn,Con,Con,SNP,Les CALDERWOOD (Ind),3,7
+2119,LD,Lab,Grn,SNP,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2120,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2121,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2122,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2123,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2124,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2125,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2126,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2127,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2128,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2129,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2130,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2131,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2132,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2133,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2134,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2135,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2136,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2137,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2138,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2139,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2140,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2141,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2142,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2143,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2144,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2145,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2146,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2147,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2148,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2149,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2150,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2151,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2152,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2153,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2154,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2155,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2156,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2157,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2158,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2159,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2160,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2161,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2162,SNP,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2163,Lab,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2164,Lab,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2165,Lab,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2166,Lab,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2167,Lab,SNP,Les CALDERWOOD (Ind),Con,LD,Con,Grn,3,7
+2168,Lab,SNP,Les CALDERWOOD (Ind),Con,LD,Con,Grn,3,7
+2169,Lab,SNP,Con,skipped,skipped,skipped,skipped,3,7
+2170,Lab,SNP,Con,skipped,skipped,skipped,skipped,3,7
+2171,Lab,SNP,Con,skipped,skipped,skipped,skipped,3,7
+2172,Lab,SNP,Con,skipped,skipped,skipped,skipped,3,7
+2173,Lab,SNP,Con,skipped,skipped,skipped,skipped,3,7
+2174,Lab,LD,Les CALDERWOOD (Ind),Grn,skipped,skipped,skipped,3,7
+2175,Con,SNP,Con,skipped,skipped,skipped,skipped,3,7
+2176,Lab,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2177,Lab,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2178,SNP,LD,Grn,Les CALDERWOOD (Ind),Con,Con,Lab,3,7
+2179,Lab,Con,SNP,Grn,LD,skipped,skipped,3,7
+2180,Les CALDERWOOD (Ind),LD,Grn,Con,Con,Lab,SNP,3,7
+2181,Lab,Con,SNP,Les CALDERWOOD (Ind),LD,Con,Grn,3,7
+2182,Con,LD,Grn,Con,Lab,skipped,skipped,3,7
+2183,Con,Con,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+2184,Con,Con,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+2185,Con,Con,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+2186,Lab,LD,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2187,SNP,Con,Con,Grn,LD,Lab,Les CALDERWOOD (Ind),3,7
+2188,Con,Con,Les CALDERWOOD (Ind),Lab,SNP,LD,Grn,3,7
+2189,SNP,Grn,Les CALDERWOOD (Ind),Lab,skipped,skipped,skipped,3,7
+2190,SNP,Grn,Les CALDERWOOD (Ind),Lab,skipped,skipped,skipped,3,7
+2191,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2192,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2193,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2194,Lab,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2195,Lab,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2196,Lab,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2197,Lab,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2198,Lab,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2199,Lab,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2200,Grn,Con,SNP,Lab,LD,Con,Les CALDERWOOD (Ind),3,7
+2201,LD,Lab,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+2202,SNP,Con,Les CALDERWOOD (Ind),Con,LD,Lab,Grn,3,7
+2203,LD,Les CALDERWOOD (Ind),Grn,Lab,SNP,skipped,skipped,3,7
+2204,Con,Con,Les CALDERWOOD (Ind),LD,SNP,Grn,Lab,3,7
+2205,Con,Con,Les CALDERWOOD (Ind),Grn,LD,Lab,SNP,3,7
+2206,Con,Con,Les CALDERWOOD (Ind),Grn,LD,Lab,SNP,3,7
+2207,Con,Con,LD,Les CALDERWOOD (Ind),Lab,SNP,Grn,3,7
+2208,Lab,LD,Con,skipped,skipped,skipped,skipped,3,7
+2209,Lab,LD,Con,skipped,skipped,skipped,skipped,3,7
+2210,Lab,LD,Con,skipped,skipped,skipped,skipped,3,7
+2211,Lab,LD,Con,skipped,skipped,skipped,skipped,3,7
+2212,Lab,LD,Con,skipped,skipped,skipped,skipped,3,7
+2213,Con,Grn,Con,skipped,skipped,skipped,skipped,3,7
+2214,Con,Con,Grn,Lab,LD,Les CALDERWOOD (Ind),SNP,3,7
+2215,Lab,LD,Les CALDERWOOD (Ind),Con,SNP,Grn,Con,3,7
+2216,LD,Con,Con,Grn,skipped,skipped,skipped,3,7
+2217,LD,Con,Con,Grn,skipped,skipped,skipped,3,7
+2218,LD,Grn,Con,Con,Lab,Les CALDERWOOD (Ind),SNP,3,7
+2219,Con,Con,Lab,Les CALDERWOOD (Ind),LD,skipped,skipped,3,7
+2220,Con,Con,Lab,Les CALDERWOOD (Ind),LD,skipped,skipped,3,7
+2221,Con,Con,Lab,Les CALDERWOOD (Ind),LD,skipped,skipped,3,7
+2222,Con,Con,Lab,Les CALDERWOOD (Ind),LD,skipped,skipped,3,7
+2223,Lab,Con,LD,Les CALDERWOOD (Ind),Con,Grn,SNP,3,7
+2224,Lab,LD,Grn,Les CALDERWOOD (Ind),SNP,skipped,skipped,3,7
+2225,SNP,Les CALDERWOOD (Ind),Grn,LD,skipped,skipped,skipped,3,7
+2226,Con,Les CALDERWOOD (Ind),Lab,skipped,skipped,skipped,skipped,3,7
+2227,SNP,Grn,LD,Lab,Con,Con,Les CALDERWOOD (Ind),3,7
+2228,SNP,Grn,LD,Lab,Con,Con,Les CALDERWOOD (Ind),3,7
+2229,SNP,Grn,LD,Lab,Con,Con,Les CALDERWOOD (Ind),3,7
+2230,Con,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+2231,Con,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+2232,Con,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+2233,LD,Grn,SNP,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+2234,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2235,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2236,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2237,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2238,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2239,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2240,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2241,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2242,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2243,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2244,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2245,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2246,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2247,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2248,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2249,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2250,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2251,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2252,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2253,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2254,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2255,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2256,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2257,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2258,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2259,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2260,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2261,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2262,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2263,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2264,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2265,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2266,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2267,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2268,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2269,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2270,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2271,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2272,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2273,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2274,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2275,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2276,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2277,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2278,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2279,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2280,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2281,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2282,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2283,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2284,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2285,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2286,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2287,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2288,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2289,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2290,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2291,Lab,LD,Grn,SNP,Con,Les CALDERWOOD (Ind),Con,3,7
+2292,SNP,Grn,LD,Lab,Con,Les CALDERWOOD (Ind),Con,3,7
+2293,Con,Con,LD,Lab,SNP,Grn,Les CALDERWOOD (Ind),3,7
+2294,LD,Grn,SNP,Lab,skipped,skipped,skipped,3,7
+2295,Lab,Con,Con,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2296,Lab,Les CALDERWOOD (Ind),LD,Con,Con,SNP,Grn,3,7
+2297,Con,Lab,LD,Les CALDERWOOD (Ind),Grn,SNP,Con,3,7
+2298,Lab,Les CALDERWOOD (Ind),LD,Con,Con,SNP,Grn,3,7
+2299,Con,Con,Lab,LD,Grn,SNP,Les CALDERWOOD (Ind),3,7
+2300,Con,Con,Lab,LD,Grn,SNP,Les CALDERWOOD (Ind),3,7
+2301,SNP,Les CALDERWOOD (Ind),Lab,LD,Grn,Con,Con,3,7
+2302,Lab,Grn,SNP,LD,Con,Con,Les CALDERWOOD (Ind),3,7
+2303,Con,Con,Grn,Lab,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2304,Con,Con,Grn,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2305,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2306,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2307,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2308,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2309,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2310,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2311,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2312,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2313,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2314,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2315,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2316,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2317,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2318,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2319,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2320,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2321,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2322,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2323,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2324,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2325,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2326,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2327,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2328,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2329,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2330,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2331,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2332,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2333,SNP,LD,Grn,Lab,skipped,skipped,skipped,3,7
+2334,SNP,LD,Grn,Lab,skipped,skipped,skipped,3,7
+2335,SNP,LD,Grn,Lab,skipped,skipped,skipped,3,7
+2336,SNP,LD,Grn,Lab,skipped,skipped,skipped,3,7
+2337,SNP,LD,Grn,Lab,skipped,skipped,skipped,3,7
+2338,SNP,Grn,Lab,LD,Con,Les CALDERWOOD (Ind),Con,3,7
+2339,Con,Con,LD,Les CALDERWOOD (Ind),SNP,Lab,Grn,3,7
+2340,Con,Con,LD,Les CALDERWOOD (Ind),SNP,Lab,Grn,3,7
+2341,LD,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2342,LD,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2343,LD,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2344,LD,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2345,Con,Lab,LD,Les CALDERWOOD (Ind),Con,skipped,skipped,3,7
+2346,Lab,Grn,Les CALDERWOOD (Ind),LD,Con,Con,SNP,3,7
+2347,Lab,Grn,Les CALDERWOOD (Ind),LD,Con,Con,SNP,3,7
+2348,Lab,LD,SNP,Les CALDERWOOD (Ind),Con,Grn,Con,3,7
+2349,Les CALDERWOOD (Ind),Con,Con,skipped,skipped,skipped,skipped,3,7
+2350,Les CALDERWOOD (Ind),Con,Con,skipped,skipped,skipped,skipped,3,7
+2351,Les CALDERWOOD (Ind),Con,Con,skipped,skipped,skipped,skipped,3,7
+2352,Les CALDERWOOD (Ind),Con,Con,skipped,skipped,skipped,skipped,3,7
+2353,Les CALDERWOOD (Ind),Con,Con,skipped,skipped,skipped,skipped,3,7
+2354,Les CALDERWOOD (Ind),Con,Con,skipped,skipped,skipped,skipped,3,7
+2355,Les CALDERWOOD (Ind),Con,Con,skipped,skipped,skipped,skipped,3,7
+2356,Les CALDERWOOD (Ind),Con,Con,skipped,skipped,skipped,skipped,3,7
+2357,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2358,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2359,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2360,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2361,SNP,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2362,SNP,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2363,SNP,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2364,SNP,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2365,SNP,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2366,SNP,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2367,SNP,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2368,SNP,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2369,SNP,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2370,SNP,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2371,SNP,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2372,SNP,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2373,Lab,Grn,SNP,LD,Con,Con,Les CALDERWOOD (Ind),3,7
+2374,Con,Con,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2375,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2376,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2377,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2378,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2379,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2380,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2381,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2382,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2383,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2384,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2385,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2386,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2387,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2388,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2389,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2390,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2391,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2392,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2393,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2394,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2395,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2396,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2397,Grn,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2398,Con,Con,SNP,Lab,LD,Grn,Les CALDERWOOD (Ind),3,7
+2399,Con,Con,LD,Les CALDERWOOD (Ind),Lab,skipped,skipped,3,7
+2400,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2401,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2402,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2403,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2404,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2405,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2406,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2407,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2408,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2409,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2410,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2411,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2412,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2413,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2414,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2415,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2416,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2417,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2418,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2419,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2420,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2421,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2422,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2423,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2424,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2425,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2426,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2427,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2428,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2429,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2430,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2431,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2432,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2433,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2434,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2435,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2436,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2437,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2438,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,7
+2439,Con,Con,LD,Lab,Grn,SNP,Les CALDERWOOD (Ind),3,7
+2440,Con,Con,LD,Lab,Grn,SNP,Les CALDERWOOD (Ind),3,7
+2441,Lab,Con,LD,Con,Les CALDERWOOD (Ind),Grn,SNP,3,7
+2442,Con,Con,LD,Lab,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2443,Con,Con,LD,Lab,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2444,Con,Con,LD,Lab,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2445,Con,Con,LD,Lab,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2446,Con,Con,LD,Lab,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2447,Con,Con,LD,Lab,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2448,Con,Con,LD,Lab,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2449,Con,Con,LD,Lab,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2450,Grn,SNP,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2451,Grn,SNP,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2452,Grn,SNP,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2453,Lab,Grn,SNP,LD,skipped,skipped,skipped,3,7
+2454,Con,Con,Les CALDERWOOD (Ind),Lab,LD,Grn,SNP,3,7
+2455,Con,Con,Les CALDERWOOD (Ind),Lab,LD,Grn,SNP,3,7
+2456,Con,Con,Les CALDERWOOD (Ind),Lab,LD,Grn,SNP,3,7
+2457,Con,Con,Les CALDERWOOD (Ind),Lab,LD,Grn,SNP,3,7
+2458,Lab,Les CALDERWOOD (Ind),Con,skipped,skipped,skipped,skipped,3,7
+2459,Lab,Les CALDERWOOD (Ind),Con,skipped,skipped,skipped,skipped,3,7
+2460,Lab,Les CALDERWOOD (Ind),Con,skipped,skipped,skipped,skipped,3,7
+2461,Lab,Les CALDERWOOD (Ind),Con,skipped,skipped,skipped,skipped,3,7
+2462,Lab,Les CALDERWOOD (Ind),Con,skipped,skipped,skipped,skipped,3,7
+2463,Grn,LD,Con,Lab,skipped,skipped,skipped,3,7
+2464,LD,SNP,Lab,Les CALDERWOOD (Ind),Con,Con,Grn,3,7
+2465,SNP,Lab,Grn,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+2466,SNP,Lab,Grn,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+2467,SNP,Lab,Grn,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+2468,SNP,Lab,Grn,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+2469,SNP,Lab,Grn,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+2470,SNP,Lab,Grn,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+2471,SNP,Lab,Grn,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+2472,SNP,Lab,Grn,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+2473,SNP,Lab,Grn,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+2474,SNP,Lab,Grn,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+2475,SNP,Lab,Grn,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+2476,SNP,Lab,Grn,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+2477,LD,Con,Grn,Lab,skipped,skipped,skipped,3,7
+2478,Con,Lab,Con,skipped,skipped,skipped,skipped,3,7
+2479,Con,Lab,Con,skipped,skipped,skipped,skipped,3,7
+2480,Con,Lab,Con,skipped,skipped,skipped,skipped,3,7
+2481,Con,Lab,Con,skipped,skipped,skipped,skipped,3,7
+2482,Con,Con,Lab,LD,SNP,Grn,Les CALDERWOOD (Ind),3,7
+2483,Lab,LD,Grn,SNP,skipped,skipped,skipped,3,7
+2484,Lab,LD,Grn,SNP,skipped,skipped,skipped,3,7
+2485,Lab,LD,Les CALDERWOOD (Ind),Con,Con,Grn,SNP,3,7
+2486,Lab,LD,Les CALDERWOOD (Ind),Con,Con,Grn,SNP,3,7
+2487,Lab,LD,Les CALDERWOOD (Ind),Con,Con,Grn,SNP,3,7
+2488,Lab,LD,Les CALDERWOOD (Ind),Con,Con,Grn,SNP,3,7
+2489,Grn,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+2490,Grn,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+2491,Con,Con,Les CALDERWOOD (Ind),Lab,LD,skipped,skipped,3,7
+2492,Con,Con,Les CALDERWOOD (Ind),Lab,LD,skipped,skipped,3,7
+2493,Con,Con,Les CALDERWOOD (Ind),Lab,LD,skipped,skipped,3,7
+2494,Con,Con,Les CALDERWOOD (Ind),Lab,LD,skipped,skipped,3,7
+2495,Con,Con,Les CALDERWOOD (Ind),Lab,LD,skipped,skipped,3,7
+2496,Lab,Con,Con,SNP,LD,Grn,Les CALDERWOOD (Ind),3,7
+2497,SNP,Lab,Con,Con,LD,Grn,Les CALDERWOOD (Ind),3,7
+2498,Con,Con,SNP,Grn,LD,Lab,Les CALDERWOOD (Ind),3,7
+2499,SNP,Lab,LD,Les CALDERWOOD (Ind),Grn,Con,Con,3,7
+2500,Lab,Con,Con,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2501,Lab,LD,Con,Con,Grn,Les CALDERWOOD (Ind),SNP,3,7
+2502,Grn,LD,Les CALDERWOOD (Ind),SNP,Lab,skipped,skipped,3,7
+2503,LD,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2504,Con,Con,Les CALDERWOOD (Ind),LD,Lab,SNP,Grn,3,7
+2505,Grn,Lab,SNP,Les CALDERWOOD (Ind),LD,Con,Con,3,7
+2506,Lab,LD,SNP,Grn,Les CALDERWOOD (Ind),Con,Con,3,7
+2507,Lab,LD,SNP,Grn,Les CALDERWOOD (Ind),Con,Con,3,7
+2508,Les CALDERWOOD (Ind),Grn,LD,Lab,SNP,Con,Con,3,7
+2509,Grn,Les CALDERWOOD (Ind),SNP,skipped,skipped,skipped,skipped,3,7
+2510,LD,Lab,Grn,Les CALDERWOOD (Ind),SNP,Con,Con,3,7
+2511,Con,Con,Les CALDERWOOD (Ind),SNP,Lab,LD,Grn,3,7
+2512,Lab,SNP,Les CALDERWOOD (Ind),LD,Con,Con,skipped,3,7
+2513,Con,Con,Les CALDERWOOD (Ind),Grn,skipped,skipped,skipped,3,7
+2514,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2515,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2516,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2517,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2518,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2519,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2520,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2521,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2522,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2523,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2524,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2525,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2526,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2527,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2528,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2529,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2530,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2531,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2532,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2533,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2534,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2535,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2536,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2537,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2538,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2539,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2540,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2541,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2542,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2543,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2544,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2545,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2546,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2547,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2548,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2549,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2550,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2551,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2552,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2553,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2554,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2555,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2556,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2557,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2558,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2559,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2560,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2561,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2562,SNP,Grn,LD,skipped,skipped,skipped,skipped,3,7
+2563,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2564,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,7
+2565,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2566,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2567,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2568,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2569,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2570,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2571,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2572,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2573,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2574,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2575,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2576,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2577,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2578,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2579,Con,Con,LD,Grn,Les CALDERWOOD (Ind),Lab,SNP,3,7
+2580,Con,Con,Les CALDERWOOD (Ind),LD,Lab,SNP,Grn,3,7
+2581,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2582,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2583,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2584,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2585,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2586,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2587,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2588,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2589,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2590,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2591,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2592,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2593,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2594,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2595,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2596,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2597,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2598,Con,Con,LD,Les CALDERWOOD (Ind),Lab,Grn,SNP,3,7
+2599,Lab,LD,SNP,skipped,skipped,skipped,skipped,3,7
+2600,Lab,LD,SNP,skipped,skipped,skipped,skipped,3,7
+2601,Lab,LD,SNP,skipped,skipped,skipped,skipped,3,7
+2602,Lab,LD,SNP,skipped,skipped,skipped,skipped,3,7
+2603,Lab,LD,SNP,skipped,skipped,skipped,skipped,3,7
+2604,LD,Grn,Lab,SNP,Les CALDERWOOD (Ind),Con,Con,3,7
+2605,SNP,LD,Lab,Grn,skipped,skipped,skipped,3,7
+2606,SNP,LD,Lab,Grn,skipped,skipped,skipped,3,7
+2607,SNP,LD,Lab,Grn,skipped,skipped,skipped,3,7
+2608,SNP,Les CALDERWOOD (Ind),Grn,LD,Lab,skipped,skipped,3,7
+2609,SNP,Les CALDERWOOD (Ind),Grn,Con,Con,LD,Lab,3,7
+2610,SNP,Les CALDERWOOD (Ind),Grn,Con,Con,LD,Lab,3,7
+2611,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2612,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2613,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2614,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2615,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2616,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2617,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2618,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2619,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2620,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2621,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2622,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2623,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2624,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2625,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2626,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2627,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2628,SNP,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2629,SNP,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2630,SNP,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2631,SNP,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2632,SNP,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2633,SNP,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2634,SNP,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2635,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,skipped,skipped,3,7
+2636,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,skipped,skipped,3,7
+2637,Con,Con,LD,Les CALDERWOOD (Ind),Grn,Lab,SNP,3,7
+2638,Con,Con,LD,Les CALDERWOOD (Ind),Grn,Lab,SNP,3,7
+2639,Lab,SNP,LD,skipped,skipped,skipped,skipped,3,7
+2640,Lab,SNP,LD,skipped,skipped,skipped,skipped,3,7
+2641,Lab,SNP,LD,skipped,skipped,skipped,skipped,3,7
+2642,Lab,SNP,LD,skipped,skipped,skipped,skipped,3,7
+2643,Lab,SNP,LD,skipped,skipped,skipped,skipped,3,7
+2644,Lab,SNP,LD,skipped,skipped,skipped,skipped,3,7
+2645,Lab,SNP,LD,skipped,skipped,skipped,skipped,3,7
+2646,Lab,SNP,LD,skipped,skipped,skipped,skipped,3,7
+2647,Lab,SNP,LD,skipped,skipped,skipped,skipped,3,7
+2648,Lab,SNP,LD,skipped,skipped,skipped,skipped,3,7
+2649,Lab,SNP,LD,skipped,skipped,skipped,skipped,3,7
+2650,Con,Con,Les CALDERWOOD (Ind),Lab,skipped,skipped,skipped,3,7
+2651,Con,Con,Les CALDERWOOD (Ind),Lab,skipped,skipped,skipped,3,7
+2652,Con,Con,Les CALDERWOOD (Ind),Lab,skipped,skipped,skipped,3,7
+2653,LD,SNP,Lab,Grn,Con,Les CALDERWOOD (Ind),Con,3,7
+2654,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2655,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2656,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2657,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2658,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2659,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2660,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2661,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2662,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2663,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2664,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2665,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2666,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2667,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,7
+2668,Con,Con,LD,Lab,Grn,SNP,skipped,3,7
+2669,Con,Con,LD,Lab,Grn,SNP,skipped,3,7
+2670,Con,Con,LD,Lab,Grn,SNP,skipped,3,7
+2671,Con,Con,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2672,Con,Con,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2673,Con,Con,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2674,Con,Con,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2675,Con,Con,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2676,Con,Con,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2677,Con,Con,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2678,Con,Con,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2679,Con,Con,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2680,Con,Con,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2681,Con,Con,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2682,Con,Con,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2683,SNP,Grn,LD,Lab,Con,Con,skipped,3,7
+2684,SNP,Grn,LD,Lab,Con,Con,skipped,3,7
+2685,Con,Con,Les CALDERWOOD (Ind),Lab,Grn,skipped,skipped,3,7
+2686,SNP,Lab,Les CALDERWOOD (Ind),Grn,LD,Con,Con,3,7
+2687,SNP,Lab,Les CALDERWOOD (Ind),Grn,LD,Con,Con,3,7
+2688,Con,Con,Les CALDERWOOD (Ind),Lab,LD,Grn,SNP,3,7
+2689,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2690,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2691,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2692,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2693,Con,Con,LD,Lab,skipped,skipped,skipped,3,7
+2694,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2695,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2696,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2697,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2698,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2699,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2700,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2701,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2702,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2703,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2704,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2705,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2706,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2707,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2708,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2709,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2710,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2711,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2712,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2713,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2714,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2715,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2716,Lab,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2717,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2718,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2719,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2720,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2721,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2722,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2723,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2724,Con,Con,Grn,skipped,skipped,skipped,skipped,3,7
+2725,SNP,Lab,Grn,Les CALDERWOOD (Ind),LD,skipped,skipped,3,7
+2726,SNP,Les CALDERWOOD (Ind),Grn,Lab,LD,skipped,skipped,3,7
+2727,Grn,Lab,SNP,LD,Con,Con,Les CALDERWOOD (Ind),3,7
+2728,Lab,SNP,LD,Grn,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2729,Lab,SNP,LD,Grn,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2730,LD,Con,Con,skipped,skipped,skipped,skipped,3,7
+2731,LD,Con,Con,skipped,skipped,skipped,skipped,3,7
+2732,Les CALDERWOOD (Ind),Lab,LD,skipped,skipped,skipped,skipped,3,7
+2733,Les CALDERWOOD (Ind),Con,Con,Lab,skipped,skipped,skipped,3,7
+2734,Lab,LD,Con,Con,Grn,Les CALDERWOOD (Ind),SNP,3,7
+2735,Lab,Con,LD,Grn,SNP,Con,Les CALDERWOOD (Ind),3,7
+2736,SNP,LD,Lab,Les CALDERWOOD (Ind),Grn,Con,Con,3,7
+2737,Lab,LD,Con,skipped,skipped,skipped,skipped,3,7
+2738,Lab,LD,Con,skipped,skipped,skipped,skipped,3,7
+2739,Lab,LD,Con,skipped,skipped,skipped,skipped,3,7
+2740,Lab,LD,Con,skipped,skipped,skipped,skipped,3,7
+2741,Lab,LD,Con,skipped,skipped,skipped,skipped,3,7
+2742,Lab,LD,Con,skipped,skipped,skipped,skipped,3,7
+2743,Lab,LD,Con,skipped,skipped,skipped,skipped,3,7
+2744,Lab,LD,Con,skipped,skipped,skipped,skipped,3,7
+2745,Lab,LD,Con,skipped,skipped,skipped,skipped,3,7
+2746,Lab,LD,Con,skipped,skipped,skipped,skipped,3,7
+2747,Lab,LD,Con,skipped,skipped,skipped,skipped,3,7
+2748,Lab,LD,Con,skipped,skipped,skipped,skipped,3,7
+2749,SNP,Grn,Con,skipped,skipped,skipped,skipped,3,7
+2750,SNP,Grn,Con,Con,Lab,LD,Les CALDERWOOD (Ind),3,7
+2751,Con,Con,LD,Lab,Grn,Les CALDERWOOD (Ind),SNP,3,7
+2752,LD,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+2753,LD,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+2754,LD,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+2755,LD,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+2756,LD,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+2757,LD,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+2758,LD,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+2759,LD,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+2760,SNP,Grn,Lab,Les CALDERWOOD (Ind),Con,LD,Con,3,7
+2761,SNP,LD,Grn,Lab,Con,Les CALDERWOOD (Ind),Con,3,7
+2762,Les CALDERWOOD (Ind),Grn,LD,Con,Con,Lab,skipped,3,7
+2763,Grn,SNP,LD,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+2764,LD,Grn,Con,Con,skipped,skipped,skipped,3,7
+2765,LD,Grn,Con,Con,skipped,skipped,skipped,3,7
+2766,SNP,Lab,LD,Grn,Con,Con,Les CALDERWOOD (Ind),3,7
+2767,Con,Con,Les CALDERWOOD (Ind),Grn,LD,Lab,SNP,3,7
+2768,Con,Con,Les CALDERWOOD (Ind),Grn,LD,Lab,SNP,3,7
+2769,Grn,Lab,SNP,LD,skipped,skipped,skipped,3,7
+2770,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2771,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2772,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2773,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2774,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2775,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2776,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2777,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2778,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2779,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2780,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2781,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2782,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2783,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2784,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2785,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2786,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2787,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2788,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2789,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2790,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2791,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2792,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2793,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2794,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2795,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2796,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2797,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2798,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2799,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2800,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2801,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2802,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2803,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2804,Lab,Con,Con,skipped,skipped,skipped,skipped,3,7
+2805,SNP,Lab,LD,Grn,Les CALDERWOOD (Ind),Con,Con,3,7
+2806,SNP,Lab,LD,Grn,Les CALDERWOOD (Ind),Con,Con,3,7
+2807,SNP,Lab,LD,Grn,Les CALDERWOOD (Ind),Con,Con,3,7
+2808,SNP,Lab,LD,Grn,Les CALDERWOOD (Ind),Con,Con,3,7
+2809,SNP,Lab,LD,Grn,Les CALDERWOOD (Ind),Con,Con,3,7
+2810,SNP,Lab,LD,Grn,Les CALDERWOOD (Ind),Con,Con,3,7
+2811,Lab,Con,Con,LD,skipped,skipped,skipped,3,7
+2812,Lab,Con,Con,LD,skipped,skipped,skipped,3,7
+2813,Lab,Con,Con,LD,skipped,skipped,skipped,3,7
+2814,Lab,Con,Con,LD,skipped,skipped,skipped,3,7
+2815,Lab,Con,Con,LD,skipped,skipped,skipped,3,7
+2816,Lab,Con,Con,LD,skipped,skipped,skipped,3,7
+2817,LD,Lab,SNP,skipped,skipped,skipped,skipped,3,7
+2818,LD,Grn,Les CALDERWOOD (Ind),Con,Lab,SNP,Con,3,7
+2819,SNP,Grn,Les CALDERWOOD (Ind),LD,Lab,Con,Con,3,7
+2820,SNP,Grn,Les CALDERWOOD (Ind),LD,Lab,Con,Con,3,7
+2821,SNP,Grn,Les CALDERWOOD (Ind),LD,Lab,Con,Con,3,7
+2822,SNP,Grn,Les CALDERWOOD (Ind),LD,Lab,Con,Con,3,7
+2823,SNP,Grn,Les CALDERWOOD (Ind),LD,Lab,Con,Con,3,7
+2824,Grn,Lab,LD,skipped,skipped,skipped,skipped,3,7
+2825,Grn,Lab,LD,skipped,skipped,skipped,skipped,3,7
+2826,Grn,Lab,LD,skipped,skipped,skipped,skipped,3,7
+2827,Grn,Lab,LD,skipped,skipped,skipped,skipped,3,7
+2828,Grn,Lab,LD,skipped,skipped,skipped,skipped,3,7
+2829,Grn,Lab,LD,skipped,skipped,skipped,skipped,3,7
+2830,Grn,Lab,LD,skipped,skipped,skipped,skipped,3,7
+2831,Grn,Lab,LD,skipped,skipped,skipped,skipped,3,7
+2832,SNP,LD,Grn,Lab,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2833,SNP,LD,Grn,Lab,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2834,SNP,LD,Grn,Lab,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2835,LD,Lab,Con,Con,skipped,skipped,skipped,3,7
+2836,LD,Lab,Con,Con,skipped,skipped,skipped,3,7
+2837,SNP,Lab,LD,Les CALDERWOOD (Ind),Con,Con,Grn,3,7
+2838,LD,Grn,Les CALDERWOOD (Ind),SNP,skipped,skipped,skipped,3,7
+2839,Con,Con,Lab,LD,Grn,Les CALDERWOOD (Ind),SNP,3,7
+2840,Con,Con,Lab,LD,Grn,Les CALDERWOOD (Ind),SNP,3,7
+2841,Les CALDERWOOD (Ind),Con,Con,LD,Grn,skipped,skipped,3,7
+2842,Lab,Con,Con,SNP,LD,Grn,Les CALDERWOOD (Ind),3,7
+2843,Con,Con,LD,Lab,Grn,skipped,skipped,3,7
+2844,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+2845,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+2846,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+2847,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+2848,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+2849,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+2850,Con,Con,Lab,LD,skipped,skipped,skipped,3,7
+2851,SNP,LD,Grn,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+2852,Grn,Lab,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+2853,Les CALDERWOOD (Ind),Lab,LD,Grn,Con,Con,skipped,3,7
+2854,Grn,SNP,LD,Con,skipped,skipped,skipped,3,7
+2855,Con,Con,LD,Lab,Les CALDERWOOD (Ind),SNP,Grn,3,7
+2856,Con,Con,LD,Lab,Les CALDERWOOD (Ind),SNP,Grn,3,7
+2857,Con,Con,LD,Lab,Les CALDERWOOD (Ind),SNP,Grn,3,7
+2858,Con,Con,LD,Lab,Les CALDERWOOD (Ind),SNP,Grn,3,7
+2859,Lab,Grn,LD,Con,Con,skipped,skipped,3,7
+2860,Con,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2861,Con,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2862,Con,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2863,Con,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2864,Con,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2865,Con,LD,Grn,skipped,skipped,skipped,skipped,3,7
+2866,Grn,SNP,Lab,Con,skipped,skipped,skipped,3,7
+2867,Con,Con,Lab,SNP,skipped,skipped,skipped,3,7
+2868,Les CALDERWOOD (Ind),Lab,Con,Con,skipped,skipped,skipped,3,7
+2869,Les CALDERWOOD (Ind),Lab,Con,Con,skipped,skipped,skipped,3,7
+2870,Con,SNP,Lab,Grn,skipped,skipped,skipped,3,7
+2871,Con,Les CALDERWOOD (Ind),Con,Lab,SNP,LD,Grn,3,7
+2872,Lab,SNP,Les CALDERWOOD (Ind),Grn,LD,Con,Con,3,7
+2873,Con,Con,Les CALDERWOOD (Ind),LD,Grn,Lab,SNP,3,7
+2874,Con,Con,Les CALDERWOOD (Ind),LD,Grn,Lab,SNP,3,7
+2875,SNP,Les CALDERWOOD (Ind),Lab,Grn,LD,Con,Con,3,7
+2876,SNP,Les CALDERWOOD (Ind),Lab,Grn,LD,Con,Con,3,7
+2877,SNP,Les CALDERWOOD (Ind),Lab,Grn,LD,Con,Con,3,7
+2878,Lab,Les CALDERWOOD (Ind),Grn,SNP,skipped,skipped,skipped,3,7
+2879,LD,Lab,Les CALDERWOOD (Ind),Grn,Con,Con,SNP,3,7
+2880,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2881,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+2882,Con,Con,Les CALDERWOOD (Ind),SNP,LD,Lab,Grn,3,7
+2883,Con,SNP,Con,Les CALDERWOOD (Ind),LD,Lab,Grn,3,7
+2884,Lab,Grn,LD,SNP,skipped,skipped,skipped,3,7
+2885,Con,Con,SNP,LD,Lab,Grn,Les CALDERWOOD (Ind),3,7
+2886,SNP,Lab,Grn,Con,LD,Con,Les CALDERWOOD (Ind),3,7
+2887,Con,Con,SNP,Lab,Les CALDERWOOD (Ind),LD,Grn,3,7
+2888,SNP,Con,Lab,skipped,skipped,skipped,skipped,3,7
+2889,SNP,Con,Lab,skipped,skipped,skipped,skipped,3,7
+2890,SNP,Con,Lab,skipped,skipped,skipped,skipped,3,7
+2891,SNP,Con,Lab,skipped,skipped,skipped,skipped,3,7
+2892,SNP,Con,Lab,skipped,skipped,skipped,skipped,3,7
+2893,SNP,Grn,LD,Lab,Con,Con,Les CALDERWOOD (Ind),3,7
+2894,SNP,Grn,LD,Lab,Con,Con,Les CALDERWOOD (Ind),3,7
+2895,Con,Lab,Les CALDERWOOD (Ind),Grn,LD,SNP,skipped,3,7
+2896,Lab,LD,Grn,Con,skipped,skipped,skipped,3,7
+2897,Con,Con,LD,Grn,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2898,LD,Con,skipped,skipped,skipped,skipped,skipped,3,7
+2899,Les CALDERWOOD (Ind),SNP,Grn,skipped,skipped,skipped,skipped,3,7
+2900,Les CALDERWOOD (Ind),SNP,Grn,skipped,skipped,skipped,skipped,3,7
+2901,Lab,Grn,Con,Con,LD,SNP,Les CALDERWOOD (Ind),3,7
+2902,Grn,SNP,Lab,Les CALDERWOOD (Ind),LD,Con,Con,3,7
+2903,LD,Lab,Con,Grn,skipped,skipped,skipped,3,7
+2904,Con,Les CALDERWOOD (Ind),Con,LD,Lab,skipped,skipped,3,7
+2905,Lab,Con,Les CALDERWOOD (Ind),LD,Con,skipped,skipped,3,7
+2906,Lab,Grn,LD,SNP,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2907,Lab,Grn,LD,SNP,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2908,Grn,LD,SNP,Lab,Les CALDERWOOD (Ind),skipped,skipped,3,7
+2909,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2910,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2911,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2912,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2913,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2914,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2915,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2916,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2917,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2918,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2919,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2920,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2921,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2922,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2923,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2924,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2925,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2926,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2927,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2928,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2929,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2930,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2931,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2932,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2933,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2934,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2935,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2936,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2937,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2938,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2939,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2940,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2941,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2942,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2943,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2944,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2945,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2946,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2947,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2948,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2949,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2950,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2951,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2952,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2953,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2954,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2955,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2956,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2957,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2958,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2959,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2960,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2961,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2962,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2963,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2964,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2965,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2966,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2967,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2968,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2969,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2970,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2971,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2972,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2973,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2974,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2975,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2976,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2977,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2978,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2979,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2980,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2981,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2982,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2983,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2984,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2985,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2986,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2987,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2988,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2989,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2990,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2991,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2992,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2993,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2994,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2995,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2996,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2997,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2998,Con,Con,LD,skipped,skipped,skipped,skipped,3,7
+2999,Grn,SNP,LD,Lab,skipped,skipped,skipped,3,7
+3000,Grn,SNP,LD,Lab,skipped,skipped,skipped,3,7
+3001,Grn,SNP,LD,Lab,skipped,skipped,skipped,3,7
+3002,Grn,SNP,LD,Lab,skipped,skipped,skipped,3,7
+3003,Grn,SNP,LD,Lab,skipped,skipped,skipped,3,7
+3004,Con,LD,Con,Lab,skipped,skipped,skipped,3,7
+3005,Lab,Les CALDERWOOD (Ind),Grn,LD,SNP,Con,Con,3,7
+3006,LD,Lab,Grn,Les CALDERWOOD (Ind),Con,Con,SNP,3,7
+3007,Con,Con,Lab,SNP,skipped,skipped,skipped,3,7
+3008,Con,Con,Lab,SNP,skipped,skipped,skipped,3,7
+3009,Con,Con,Lab,SNP,skipped,skipped,skipped,3,7
+3010,Con,Con,Lab,SNP,skipped,skipped,skipped,3,7
+3011,Con,Con,Lab,Grn,Les CALDERWOOD (Ind),SNP,LD,3,7
+3012,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+3013,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+3014,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+3015,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+3016,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+3017,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+3018,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+3019,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+3020,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+3021,SNP,Grn,Lab,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+3022,Lab,Con,LD,Con,skipped,skipped,skipped,3,7
+3023,SNP,Con,Con,Les CALDERWOOD (Ind),LD,Grn,Lab,3,7
+3024,Grn,SNP,Lab,LD,Con,Con,skipped,3,7
+3025,LD,SNP,Grn,Lab,Les CALDERWOOD (Ind),Con,Con,3,7
+3026,LD,Con,Grn,Les CALDERWOOD (Ind),SNP,Lab,Con,3,7
+3027,Con,Con,Les CALDERWOOD (Ind),Grn,LD,Lab,skipped,3,7
+3028,Con,Con,Les CALDERWOOD (Ind),Grn,LD,Lab,skipped,3,7
+3029,Con,Con,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+3030,Con,Con,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+3031,Con,Con,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+3032,SNP,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,skipped,3,7
+3033,SNP,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,skipped,3,7
+3034,Con,Con,Lab,SNP,Les CALDERWOOD (Ind),LD,Grn,3,7
+3035,Grn,Con,skipped,skipped,skipped,skipped,skipped,3,7
+3036,SNP,Grn,Lab,LD,skipped,skipped,skipped,3,7
+3037,SNP,Grn,Lab,LD,skipped,skipped,skipped,3,7
+3038,SNP,Grn,Lab,LD,skipped,skipped,skipped,3,7
+3039,SNP,Grn,Lab,LD,skipped,skipped,skipped,3,7
+3040,SNP,Grn,Lab,LD,skipped,skipped,skipped,3,7
+3041,SNP,Grn,Lab,LD,skipped,skipped,skipped,3,7
+3042,SNP,Grn,Lab,LD,skipped,skipped,skipped,3,7
+3043,SNP,Grn,Lab,LD,skipped,skipped,skipped,3,7
+3044,SNP,Grn,Lab,LD,skipped,skipped,skipped,3,7
+3045,SNP,Grn,Lab,LD,skipped,skipped,skipped,3,7
+3046,SNP,Grn,Lab,LD,skipped,skipped,skipped,3,7
+3047,SNP,Grn,Lab,LD,skipped,skipped,skipped,3,7
+3048,SNP,Grn,Lab,LD,skipped,skipped,skipped,3,7
+3049,SNP,Grn,Lab,LD,skipped,skipped,skipped,3,7
+3050,SNP,Grn,Lab,LD,skipped,skipped,skipped,3,7
+3051,Con,SNP,LD,Lab,Con,Grn,Les CALDERWOOD (Ind),3,7
+3052,Grn,SNP,Lab,LD,Con,Con,Les CALDERWOOD (Ind),3,7
+3053,Grn,LD,Con,Con,Les CALDERWOOD (Ind),SNP,Lab,3,7
+3054,Les CALDERWOOD (Ind),Con,Lab,skipped,skipped,skipped,skipped,3,7
+3055,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3056,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3057,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3058,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3059,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3060,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3061,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3062,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3063,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3064,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3065,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3066,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3067,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3068,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3069,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3070,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3071,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3072,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3073,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3074,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3075,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3076,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3077,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3078,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3079,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3080,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3081,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3082,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3083,Lab,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+3084,Lab,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+3085,Lab,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+3086,Lab,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+3087,Lab,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+3088,Lab,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+3089,Lab,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+3090,Lab,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+3091,Lab,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+3092,Lab,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+3093,Lab,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+3094,Lab,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+3095,Lab,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+3096,Lab,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+3097,Lab,Grn,LD,Con,Les CALDERWOOD (Ind),Con,SNP,3,7
+3098,Grn,Lab,LD,Les CALDERWOOD (Ind),Con,SNP,Con,3,7
+3099,Lab,Con,Grn,skipped,skipped,skipped,skipped,3,7
+3100,Lab,Con,Grn,skipped,skipped,skipped,skipped,3,7
+3101,Lab,Con,Grn,skipped,skipped,skipped,skipped,3,7
+3102,Lab,Con,Grn,skipped,skipped,skipped,skipped,3,7
+3103,Con,Con,LD,Grn,skipped,skipped,skipped,3,7
+3104,Con,Con,LD,Grn,skipped,skipped,skipped,3,7
+3105,Con,Con,LD,Grn,skipped,skipped,skipped,3,7
+3106,Grn,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+3107,Grn,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+3108,Grn,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+3109,Grn,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+3110,Grn,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+3111,Grn,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+3112,Grn,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+3113,Grn,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+3114,Grn,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+3115,Grn,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+3116,Grn,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+3117,Con,Con,LD,Lab,Grn,Les CALDERWOOD (Ind),SNP,3,7
+3118,SNP,LD,Grn,Lab,Con,Con,Les CALDERWOOD (Ind),3,7
+3119,SNP,LD,Grn,Lab,Con,Con,Les CALDERWOOD (Ind),3,7
+3120,Grn,LD,Con,skipped,skipped,skipped,skipped,3,7
+3121,Lab,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+3122,Con,Con,LD,Les CALDERWOOD (Ind),Lab,Grn,SNP,3,7
+3123,Con,Con,LD,Les CALDERWOOD (Ind),Lab,Grn,SNP,3,7
+3124,Con,Con,LD,Les CALDERWOOD (Ind),Lab,Grn,SNP,3,7
+3125,Con,Con,LD,Les CALDERWOOD (Ind),Lab,Grn,SNP,3,7
+3126,Con,Con,LD,Les CALDERWOOD (Ind),Lab,Grn,SNP,3,7
+3127,Con,Con,LD,Les CALDERWOOD (Ind),Lab,Grn,SNP,3,7
+3128,Con,Con,Lab,SNP,LD,Grn,Les CALDERWOOD (Ind),3,7
+3129,Grn,Con,Lab,Con,Les CALDERWOOD (Ind),LD,SNP,3,7
+3130,Grn,LD,Lab,Les CALDERWOOD (Ind),SNP,Con,Con,3,7
+3131,Con,LD,Lab,Grn,skipped,skipped,skipped,3,7
+3132,LD,Grn,Lab,Con,Con,SNP,Les CALDERWOOD (Ind),3,7
+3133,Con,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+3134,Con,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+3135,Les CALDERWOOD (Ind),Grn,SNP,Lab,LD,skipped,skipped,3,7
+3136,Les CALDERWOOD (Ind),Grn,SNP,Lab,LD,skipped,skipped,3,7
+3137,Les CALDERWOOD (Ind),Grn,SNP,Lab,LD,skipped,skipped,3,7
+3138,Lab,SNP,Grn,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+3139,Lab,SNP,Grn,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+3140,Lab,SNP,Grn,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+3141,SNP,Lab,Grn,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+3142,SNP,Lab,Grn,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+3143,SNP,Lab,Grn,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+3144,SNP,Lab,Grn,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+3145,SNP,Lab,Grn,LD,Les CALDERWOOD (Ind),skipped,skipped,3,7
+3146,SNP,Grn,LD,Les CALDERWOOD (Ind),Lab,Con,Con,3,7
+3147,SNP,Grn,LD,Les CALDERWOOD (Ind),Lab,Con,Con,3,7
+3148,SNP,Grn,LD,Les CALDERWOOD (Ind),Lab,Con,Con,3,7
+3149,SNP,Grn,LD,Les CALDERWOOD (Ind),Lab,Con,Con,3,7
+3150,SNP,Grn,LD,Les CALDERWOOD (Ind),Lab,Con,Con,3,7
+3151,Grn,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+3152,Grn,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+3153,Grn,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+3154,Grn,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+3155,Grn,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+3156,Grn,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+3157,Grn,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+3158,Grn,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+3159,Grn,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+3160,Grn,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+3161,Grn,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+3162,Grn,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+3163,Grn,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+3164,Grn,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+3165,Grn,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+3166,Grn,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+3167,Grn,SNP,Lab,skipped,skipped,skipped,skipped,3,7
+3168,Con,Les CALDERWOOD (Ind),Con,skipped,skipped,skipped,skipped,3,7
+3169,Con,Les CALDERWOOD (Ind),Con,skipped,skipped,skipped,skipped,3,7
+3170,Con,Les CALDERWOOD (Ind),Con,skipped,skipped,skipped,skipped,3,7
+3171,Con,Les CALDERWOOD (Ind),Con,skipped,skipped,skipped,skipped,3,7
+3172,Con,Les CALDERWOOD (Ind),Con,skipped,skipped,skipped,skipped,3,7
+3173,Les CALDERWOOD (Ind),Con,Con,skipped,skipped,skipped,skipped,3,7
+3174,SNP,Lab,Grn,LD,Con,Con,Les CALDERWOOD (Ind),3,7
+3175,Lab,Grn,Con,skipped,skipped,skipped,skipped,3,7
+3176,Lab,Grn,Con,skipped,skipped,skipped,skipped,3,7
+3177,Lab,Grn,Con,skipped,skipped,skipped,skipped,3,7
+3178,LD,Lab,Con,Con,Les CALDERWOOD (Ind),skipped,skipped,3,7
+3179,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+3180,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+3181,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+3182,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+3183,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+3184,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,skipped,3,7
+3185,SNP,Lab,Les CALDERWOOD (Ind),LD,Grn,skipped,skipped,3,7
+3186,Lab,SNP,Grn,LD,skipped,skipped,skipped,3,7
+3187,Lab,SNP,Grn,LD,skipped,skipped,skipped,3,7
+3188,Lab,Les CALDERWOOD (Ind),SNP,skipped,skipped,skipped,skipped,3,7
+3189,Lab,Les CALDERWOOD (Ind),SNP,skipped,skipped,skipped,skipped,3,7
+3190,Lab,Les CALDERWOOD (Ind),SNP,skipped,skipped,skipped,skipped,3,7
+3191,Lab,Les CALDERWOOD (Ind),SNP,skipped,skipped,skipped,skipped,3,7
+3192,Lab,Les CALDERWOOD (Ind),SNP,skipped,skipped,skipped,skipped,3,7
+3193,Con,Con,Lab,Les CALDERWOOD (Ind),LD,Grn,SNP,3,7
+3194,Con,Con,Lab,Les CALDERWOOD (Ind),LD,Grn,SNP,3,7
+3195,Con,Con,Lab,Les CALDERWOOD (Ind),LD,Grn,SNP,3,7
+3196,Les CALDERWOOD (Ind),Grn,LD,Lab,SNP,skipped,skipped,3,7
+3197,Lab,LD,Con,Con,SNP,Grn,skipped,3,7
+3198,LD,Lab,Les CALDERWOOD (Ind),Con,Grn,SNP,Con,3,7
+3199,Les CALDERWOOD (Ind),Con,Con,Lab,LD,skipped,skipped,3,7
+3200,Lab,LD,Les CALDERWOOD (Ind),Con,Con,SNP,Grn,3,7
+3201,SNP,Con,LD,Lab,skipped,skipped,skipped,3,7
+3202,LD,Con,Grn,skipped,skipped,skipped,skipped,3,7
+3203,LD,Con,Grn,skipped,skipped,skipped,skipped,3,7
+3204,Con,LD,Con,skipped,skipped,skipped,skipped,3,7
+3205,Con,LD,Con,skipped,skipped,skipped,skipped,3,7
+3206,Con,LD,Con,skipped,skipped,skipped,skipped,3,7
+3207,Con,LD,Con,skipped,skipped,skipped,skipped,3,7
+3208,Con,LD,Con,skipped,skipped,skipped,skipped,3,7
+3209,Con,LD,Con,skipped,skipped,skipped,skipped,3,7
+3210,Con,Con,SNP,Grn,LD,Les CALDERWOOD (Ind),Lab,3,7
+3211,Con,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3212,Con,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3213,Con,Con,Les CALDERWOOD (Ind),LD,Lab,Grn,SNP,3,7
+3214,Con,Con,Les CALDERWOOD (Ind),LD,Lab,Grn,SNP,3,7
+3215,Con,Con,Les CALDERWOOD (Ind),LD,Lab,Grn,SNP,3,7
+3216,Con,Con,Les CALDERWOOD (Ind),LD,Lab,Grn,SNP,3,7
+3217,Les CALDERWOOD (Ind),Grn,LD,Lab,skipped,skipped,skipped,3,7
+3218,Grn,SNP,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+3219,Grn,SNP,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+3220,Grn,SNP,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+3221,Grn,SNP,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+3222,Grn,SNP,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+3223,Grn,SNP,Lab,LD,Les CALDERWOOD (Ind),Con,Con,3,7
+3224,SNP,Lab,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+3225,SNP,Lab,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+3226,Lab,Con,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3227,Grn,Con,LD,skipped,skipped,skipped,skipped,3,7
+3228,Grn,Con,LD,skipped,skipped,skipped,skipped,3,7
+3229,SNP,Grn,Les CALDERWOOD (Ind),LD,Lab,Con,Con,3,7
+3230,SNP,Grn,Les CALDERWOOD (Ind),LD,Lab,Con,Con,3,7
+3231,SNP,Grn,Les CALDERWOOD (Ind),LD,Lab,Con,Con,3,7
+3232,SNP,Grn,Les CALDERWOOD (Ind),LD,Lab,Con,Con,3,7
+3233,SNP,Grn,Les CALDERWOOD (Ind),LD,Lab,Con,Con,3,7
+3234,SNP,Grn,Les CALDERWOOD (Ind),LD,Lab,Con,Con,3,7
+3235,SNP,Grn,Les CALDERWOOD (Ind),LD,Lab,Con,Con,3,7
+3236,Les CALDERWOOD (Ind),SNP,LD,skipped,skipped,skipped,skipped,3,7
+3237,Les CALDERWOOD (Ind),SNP,LD,skipped,skipped,skipped,skipped,3,7
+3238,Les CALDERWOOD (Ind),SNP,LD,skipped,skipped,skipped,skipped,3,7
+3239,SNP,Grn,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+3240,SNP,Grn,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+3241,SNP,Grn,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+3242,SNP,Grn,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+3243,Lab,Con,LD,skipped,skipped,skipped,skipped,3,7
+3244,Lab,Con,LD,skipped,skipped,skipped,skipped,3,7
+3245,Lab,Con,LD,skipped,skipped,skipped,skipped,3,7
+3246,Lab,Con,LD,skipped,skipped,skipped,skipped,3,7
+3247,Lab,Con,LD,skipped,skipped,skipped,skipped,3,7
+3248,Lab,Con,LD,skipped,skipped,skipped,skipped,3,7
+3249,Lab,Con,LD,skipped,skipped,skipped,skipped,3,7
+3250,Lab,Con,LD,skipped,skipped,skipped,skipped,3,7
+3251,Lab,Con,LD,skipped,skipped,skipped,skipped,3,7
+3252,Lab,Con,LD,skipped,skipped,skipped,skipped,3,7
+3253,Con,Con,LD,Lab,Les CALDERWOOD (Ind),Grn,SNP,3,7
+3254,LD,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+3255,LD,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+3256,LD,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+3257,LD,Lab,skipped,skipped,skipped,skipped,skipped,3,7
+3258,Lab,Les CALDERWOOD (Ind),LD,Con,Con,Grn,SNP,3,7
+3259,Lab,LD,Grn,Con,Con,Les CALDERWOOD (Ind),SNP,3,7
+3260,Con,Con,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,3,7
+3261,Con,Con,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,3,7
+3262,Con,Con,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,3,7
+3263,Con,Con,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,3,7
+3264,Con,Con,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,3,7
+3265,Con,Con,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,3,7
+3266,Con,Con,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,3,7
+3267,Con,Con,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,3,7
+3268,Con,Con,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,3,7
+3269,Con,Con,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,3,7
+3270,LD,Grn,Con,skipped,skipped,skipped,skipped,3,7
+3271,LD,Grn,Con,skipped,skipped,skipped,skipped,3,7
+3272,LD,Grn,Con,skipped,skipped,skipped,skipped,3,7
+3273,Les CALDERWOOD (Ind),Con,skipped,skipped,skipped,skipped,skipped,3,7
+3274,Les CALDERWOOD (Ind),LD,Grn,Lab,skipped,skipped,skipped,3,7
+3275,Con,Con,LD,Grn,Lab,SNP,Les CALDERWOOD (Ind),3,7
+3276,Grn,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3277,Grn,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3278,Grn,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3279,Grn,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3280,Grn,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3281,Grn,LD,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3282,Lab,LD,SNP,Grn,Les CALDERWOOD (Ind),Con,skipped,3,7
+3283,Con,Lab,Grn,skipped,skipped,skipped,skipped,3,7
+3284,SNP,Les CALDERWOOD (Ind),Grn,Lab,skipped,skipped,skipped,3,7
+3285,Lab,Con,SNP,Grn,skipped,skipped,skipped,3,7
+3286,Con,LD,Lab,skipped,skipped,skipped,skipped,3,7
+3287,Con,LD,Lab,skipped,skipped,skipped,skipped,3,7
+3288,Con,LD,Lab,skipped,skipped,skipped,skipped,3,7
+3289,Con,LD,Lab,skipped,skipped,skipped,skipped,3,7
+3290,Con,Con,Lab,Grn,skipped,skipped,skipped,3,7
+3291,Con,Con,Lab,Grn,skipped,skipped,skipped,3,7
+3292,Lab,LD,Les CALDERWOOD (Ind),SNP,Grn,skipped,skipped,3,7
+3293,Lab,LD,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+3294,Lab,LD,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+3295,Lab,LD,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+3296,Lab,LD,Grn,Les CALDERWOOD (Ind),skipped,skipped,skipped,3,7
+3297,Con,Grn,skipped,skipped,skipped,skipped,skipped,3,7
+3298,LD,SNP,Les CALDERWOOD (Ind),skipped,skipped,skipped,skipped,3,7
+3299,SNP,Con,Grn,skipped,skipped,skipped,skipped,3,7
+3300,Grn,LD,SNP,skipped,skipped,skipped,skipped,3,7
+3301,Grn,LD,SNP,skipped,skipped,skipped,skipped,3,7
+3302,Grn,LD,SNP,skipped,skipped,skipped,skipped,3,7
+3303,Grn,LD,SNP,skipped,skipped,skipped,skipped,3,7
+3304,Grn,LD,SNP,skipped,skipped,skipped,skipped,3,7
+3305,Grn,LD,SNP,skipped,skipped,skipped,skipped,3,7
+3306,Grn,LD,SNP,skipped,skipped,skipped,skipped,3,7
+3307,Lab,Grn,LD,Les CALDERWOOD (Ind),SNP,skipped,skipped,3,7
+3308,Con,Con,Lab,Grn,LD,Les CALDERWOOD (Ind),SNP,3,7
+3309,Con,Con,Lab,Grn,LD,Les CALDERWOOD (Ind),SNP,3,7
+3310,Lab,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,skipped,3,7
+3311,Lab,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,skipped,3,7
+3312,Lab,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,skipped,3,7
+3313,Lab,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,skipped,3,7
+3314,Lab,Les CALDERWOOD (Ind),LD,skipped,skipped,skipped,skipped,3,7

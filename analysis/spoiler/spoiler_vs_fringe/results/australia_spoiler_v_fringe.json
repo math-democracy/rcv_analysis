@@ -1,0 +1,787 @@
+{
+    "australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Eurobodalla-mayoral-finalpreferencedatafile.csv": {
+        "GRACE David": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "STARMER Karyn": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Hunters_Hill-mayoral-finalpreferencedatafile.csv": {
+        "WILLIAMS Ross": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "GUAZZAROTTO David": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Byron-mayoral-finalpreferencedatafile.csv": {
+        "COOREY Cate": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "DEY Duncan": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "SWIVEL Mark": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_Mayorals_2021/Kempsey-mayoral-finalpreferencedatafile.csv": {
+        "BAIN Arthur": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Wollongong-mayoral-finalpreferencedatafile.csv": {
+        "COX Mithra": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_Mayorals_2021/City_of_Liverpool-mayoral-finalpreferencedatafile.csv": {
+        "HARLE Peter": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "MORSHED Asm": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": true
+        },
+        "ANDJELKOVIC Milomir (Michael)": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NSW_LegAssembly_2017_ByElections/SB1701 LA Pref Data_NA_North Shore.csv": {
+        "NILE Silvana": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": true,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "ALICK Justin": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data East Hills.csv": {
+        "BUTT Owen": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Kogarah.csv": {
+        "POLLARD Phillip": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Penrith.csv": {
+        "HALLEY Carl": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lismore.csv": {
+        "TAYLOR David": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "HIGGINSON Sue": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "WATERS Alison": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "BENNETT Greg": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Ballina.csv": {
+        "PUGH Asren": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "SMITH Tamara": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB1801 LA Pref Data_NA_Wagga Wagga.csv": {
+        "GOODLASS Ray": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "HAYES Dan": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "FUNNELL Paul": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Tweed.csv": {
+        "SICHEL Michael": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": true
+        },
+        "COLLINS Kerrie": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "VICKERS Andrea": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_The Entrance.csv": {
+        "RICKARD Scott": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Ballina.csv": {
+        "SPOONER Paul": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Lismore.csv": {
+        "IMLAH Cherie": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "SMITH Isaac": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "GUISE Adam": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "JONES Alan": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_East Hills.csv": {
+        "O'NEILL Astrid": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Strathfield.csv": {
+        "DALE Lance": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data South Coast.csv": {
+        "FINDLEY Amanda": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Kiama.csv": {
+        "GRAY Tonia": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Monaro.csv": {
+        "GOLDIE Jenny": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Penrith.csv": {
+        "BROWN Geoff": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": true
+        },
+        "PATEMAN Timothy": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": true
+        },
+        "BLAZI Vanessa": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": true
+        },
+        "TOUSSI Fatemeh (Minoo)": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Goulburn.csv": {
+        "OLSEN Gregory John": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": true
+        },
+        "WOOD Andrew": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "LOGAN Margaret": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Willoughby.csv": {
+        "MCGRATH Edmund": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "WANT Michael": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "GRIFFIN Sarah": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Winston Hills.csv": {
+        "ATKINS Damien": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wakehurst.csv": {
+        "WRIGHT Sue": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "HRNJAK Ethan": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Terrigal.csv": {
+        "da SILVA Imogen": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Holsworthy.csv": {
+        "KERLE Chris": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": true
+        }
+    },
+    "australia/processed_data/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Brighton with candidates.csv": {
+        "Nick Sciola": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "australia/processed_data/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Preston with Candidates.csv": {
+        "Brian Sanaghan": {
+            "borda_lt_0.1": true,
+            "borda_lt_0.2": true,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": true,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "Raouf Soliman": {
+            "borda_lt_0.1": true,
+            "borda_lt_0.2": true,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": true,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "Amanda Paliouras": {
+            "borda_lt_0.1": true,
+            "borda_lt_0.2": true,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": true,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "Angelique Matias": {
+            "borda_lt_0.1": true,
+            "borda_lt_0.2": true,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": true,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        }
+    },
+    "files_with_no_scores": [
+        "australia/processed_data/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Preston with Candidates.csv"
+    ]
+}

@@ -1,0 +1,2473 @@
+voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,numSeats,numCands
+0,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+3,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+4,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+5,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+6,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+7,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+8,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+9,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+10,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+11,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+12,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+13,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+14,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+15,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+16,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+17,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+18,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+19,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+20,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+21,SNP,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+22,SNP,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+23,SNP,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+24,SNP,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+25,SNP,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+26,SNP,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+27,SNP,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+28,SNP,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+29,SNP,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+30,SNP,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,8
+31,SNP,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,8
+32,SNP,Lab,Con,LD,TUSC,SNP,SC,Graham ROSS (Ind),3,8
+33,SNP,Lab,Con,LD,TUSC,SNP,SC,Graham ROSS (Ind),3,8
+34,SNP,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+35,SNP,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+36,SNP,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+37,SNP,Lab,LD,TUSC,SNP,SC,Graham ROSS (Ind),Con,3,8
+38,SNP,Lab,LD,SNP,TUSC,Con,SC,Graham ROSS (Ind),3,8
+39,SNP,Lab,LD,SC,Con,skipped,skipped,skipped,3,8
+40,SNP,Lab,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+41,SNP,Lab,TUSC,LD,Con,SNP,SC,Graham ROSS (Ind),3,8
+42,SNP,Lab,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+43,SNP,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+44,SNP,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+45,SNP,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+46,SNP,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+47,SNP,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+48,SNP,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+49,SNP,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+50,SNP,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+51,SNP,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+52,SNP,Lab,SNP,LD,TUSC,SC,Con,Graham ROSS (Ind),3,8
+53,SNP,Lab,SNP,LD,Graham ROSS (Ind),SC,TUSC,Con,3,8
+54,SNP,Lab,SNP,TUSC,Graham ROSS (Ind),LD,Con,SC,3,8
+55,SNP,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+56,SNP,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+57,SNP,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+58,SNP,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+59,SNP,Lab,Graham ROSS (Ind),SNP,LD,Con,skipped,skipped,3,8
+60,SNP,Con,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+61,SNP,Con,LD,Lab,SNP,skipped,skipped,skipped,3,8
+62,SNP,Con,LD,SNP,skipped,skipped,skipped,skipped,3,8
+63,SNP,Con,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+64,SNP,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+65,SNP,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+66,SNP,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+67,SNP,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+68,SNP,LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+69,SNP,LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+70,SNP,LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+71,SNP,LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+72,SNP,LD,Lab,SNP,skipped,skipped,skipped,skipped,3,8
+73,SNP,LD,Lab,SNP,skipped,skipped,skipped,skipped,3,8
+74,SNP,LD,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+75,SNP,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+76,SNP,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+77,SNP,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+78,SNP,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+79,SNP,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+80,SNP,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+81,SNP,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+82,SNP,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+83,SNP,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+84,SNP,LD,SNP,Lab,TUSC,Graham ROSS (Ind),Con,SC,3,8
+85,SNP,LD,SNP,Lab,Graham ROSS (Ind),TUSC,SC,Con,3,8
+86,SNP,LD,SNP,SC,TUSC,skipped,skipped,skipped,3,8
+87,SNP,LD,SNP,SC,Graham ROSS (Ind),Lab,Con,TUSC,3,8
+88,SNP,LD,SC,skipped,skipped,skipped,skipped,skipped,3,8
+89,SNP,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,3,8
+90,SNP,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,3,8
+91,SNP,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,3,8
+92,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+93,SNP,TUSC,Con,Lab,skipped,skipped,skipped,skipped,3,8
+94,SNP,TUSC,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+95,SNP,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+96,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+97,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+98,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+99,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+100,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+101,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+102,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+103,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+104,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+105,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+106,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+107,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+108,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+109,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+110,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+111,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+112,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+113,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+114,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+115,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+116,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+117,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+118,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+119,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+120,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+121,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+122,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+123,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+124,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+125,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+126,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+127,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+128,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+129,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+130,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+131,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+132,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+133,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+134,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+135,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+136,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+137,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+138,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+139,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+140,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+141,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+142,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+143,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+144,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+145,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+146,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+147,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+148,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+149,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+150,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+151,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+152,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+153,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+154,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+155,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+156,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+157,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+158,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+159,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+160,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+161,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+162,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+163,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+164,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+165,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+166,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+167,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+168,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+169,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+170,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+171,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+172,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+173,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+174,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+175,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+176,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+177,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+178,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+179,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+180,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+181,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+182,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+183,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+184,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+185,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+186,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+187,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+188,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+189,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+190,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+191,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+192,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+193,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+194,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+195,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+196,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+197,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+198,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+199,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+200,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+201,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+202,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+203,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+204,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+205,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+206,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+207,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+208,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+209,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+210,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+211,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+212,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+213,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+214,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+215,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+216,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+217,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+218,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+219,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+220,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+221,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+222,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+223,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+224,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+225,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+226,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+227,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+228,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+229,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+230,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+231,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+232,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+233,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+234,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+235,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+236,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+237,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+238,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+239,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+240,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+241,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+242,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+243,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+244,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+245,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+246,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+247,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+248,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+249,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+250,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+251,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+252,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+253,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+254,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+255,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+256,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+257,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+258,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+259,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+260,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+261,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+262,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+263,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+264,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+265,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+266,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+267,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+268,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+269,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+270,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+271,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+272,SNP,SNP,Lab,Con,skipped,skipped,skipped,skipped,3,8
+273,SNP,SNP,Lab,Con,LD,skipped,skipped,skipped,3,8
+274,SNP,SNP,Lab,Con,TUSC,Graham ROSS (Ind),SC,LD,3,8
+275,SNP,SNP,Lab,Con,TUSC,Graham ROSS (Ind),SC,LD,3,8
+276,SNP,SNP,Lab,Con,TUSC,Graham ROSS (Ind),SC,LD,3,8
+277,SNP,SNP,Lab,LD,Con,skipped,skipped,skipped,3,8
+278,SNP,SNP,Lab,LD,Con,TUSC,SC,Graham ROSS (Ind),3,8
+279,SNP,SNP,Lab,LD,TUSC,skipped,skipped,skipped,3,8
+280,SNP,SNP,Lab,LD,TUSC,Graham ROSS (Ind),SC,Con,3,8
+281,SNP,SNP,Lab,LD,Graham ROSS (Ind),Con,SC,skipped,3,8
+282,SNP,SNP,Lab,TUSC,SC,Graham ROSS (Ind),Con,LD,3,8
+283,SNP,SNP,Lab,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,3,8
+284,SNP,SNP,Lab,TUSC,Graham ROSS (Ind),LD,Con,SC,3,8
+285,SNP,SNP,Lab,TUSC,Graham ROSS (Ind),LD,SC,Con,3,8
+286,SNP,SNP,Lab,SC,Graham ROSS (Ind),TUSC,LD,Con,3,8
+287,SNP,SNP,Lab,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,3,8
+288,SNP,SNP,Lab,Graham ROSS (Ind),TUSC,SC,LD,Con,3,8
+289,SNP,SNP,Lab,Graham ROSS (Ind),SC,TUSC,skipped,skipped,3,8
+290,SNP,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,8
+291,SNP,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,8
+292,SNP,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,8
+293,SNP,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,8
+294,SNP,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,8
+295,SNP,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,8
+296,SNP,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,8
+297,SNP,SNP,Con,Lab,SC,LD,TUSC,Graham ROSS (Ind),3,8
+298,SNP,SNP,Con,LD,Lab,TUSC,SC,Graham ROSS (Ind),3,8
+299,SNP,SNP,Con,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,3,8
+300,SNP,SNP,Con,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,3,8
+301,SNP,SNP,Con,SC,LD,skipped,skipped,skipped,3,8
+302,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+303,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+304,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+305,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+306,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+307,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+308,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+309,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+310,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+311,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+312,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+313,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+314,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+315,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+316,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+317,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+318,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+319,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+320,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+321,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+322,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+323,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+324,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+325,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+326,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+327,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+328,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+329,SNP,SNP,LD,Lab,skipped,skipped,skipped,skipped,3,8
+330,SNP,SNP,LD,Lab,skipped,skipped,skipped,skipped,3,8
+331,SNP,SNP,LD,Lab,Con,TUSC,skipped,skipped,3,8
+332,SNP,SNP,LD,Lab,Con,TUSC,SC,Graham ROSS (Ind),3,8
+333,SNP,SNP,LD,Lab,Con,SC,Graham ROSS (Ind),TUSC,3,8
+334,SNP,SNP,LD,Lab,Con,Graham ROSS (Ind),TUSC,SC,3,8
+335,SNP,SNP,LD,Lab,Graham ROSS (Ind),SC,TUSC,Con,3,8
+336,SNP,SNP,LD,Con,Lab,SC,Graham ROSS (Ind),skipped,3,8
+337,SNP,SNP,LD,Con,Lab,Graham ROSS (Ind),TUSC,SC,3,8
+338,SNP,SNP,LD,TUSC,Lab,Graham ROSS (Ind),SC,Con,3,8
+339,SNP,SNP,LD,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,3,8
+340,SNP,SNP,LD,SC,Lab,TUSC,Con,Graham ROSS (Ind),3,8
+341,SNP,SNP,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+342,SNP,SNP,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+343,SNP,SNP,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+344,SNP,SNP,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,3,8
+345,SNP,SNP,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,3,8
+346,SNP,SNP,LD,Graham ROSS (Ind),Lab,TUSC,Con,SC,3,8
+347,SNP,SNP,LD,Graham ROSS (Ind),Lab,TUSC,Con,SC,3,8
+348,SNP,SNP,LD,Graham ROSS (Ind),Con,Lab,TUSC,SC,3,8
+349,SNP,SNP,LD,Graham ROSS (Ind),SC,TUSC,Lab,Con,3,8
+350,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+351,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+352,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+353,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+354,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+355,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+356,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+357,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+358,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+359,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+360,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+361,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+362,SNP,SNP,TUSC,SC,Lab,Graham ROSS (Ind),skipped,skipped,3,8
+363,SNP,SNP,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+364,SNP,SNP,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+365,SNP,SNP,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+366,SNP,SNP,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+367,SNP,SNP,TUSC,Graham ROSS (Ind),Lab,LD,SC,Con,3,8
+368,SNP,SNP,TUSC,Graham ROSS (Ind),LD,Lab,SC,Con,3,8
+369,SNP,SNP,SC,skipped,skipped,skipped,skipped,skipped,3,8
+370,SNP,SNP,SC,skipped,skipped,skipped,skipped,skipped,3,8
+371,SNP,SNP,SC,skipped,skipped,skipped,skipped,skipped,3,8
+372,SNP,SNP,SC,skipped,skipped,skipped,skipped,skipped,3,8
+373,SNP,SNP,SC,Lab,Con,Graham ROSS (Ind),LD,TUSC,3,8
+374,SNP,SNP,SC,TUSC,Graham ROSS (Ind),Lab,Con,LD,3,8
+375,SNP,SNP,SC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+376,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+377,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+378,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+379,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+380,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+381,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+382,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+383,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+384,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+385,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+386,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+387,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+388,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+389,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+390,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+391,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+392,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+393,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+394,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+395,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+396,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+397,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+398,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+399,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+400,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+401,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+402,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+403,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+404,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+405,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+406,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+407,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+408,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+409,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+410,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+411,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+412,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+413,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+414,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+415,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+416,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+417,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+418,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+419,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+420,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+421,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+422,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+423,SNP,SNP,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,3,8
+424,SNP,SNP,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,3,8
+425,SNP,SNP,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,3,8
+426,SNP,SNP,Graham ROSS (Ind),LD,Lab,SC,TUSC,Con,3,8
+427,SNP,SNP,Graham ROSS (Ind),LD,Con,Lab,TUSC,SC,3,8
+428,SNP,SNP,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,3,8
+429,SNP,SNP,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,3,8
+430,SNP,SNP,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,3,8
+431,SNP,SNP,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,3,8
+432,SNP,SNP,Graham ROSS (Ind),TUSC,Lab,skipped,skipped,skipped,3,8
+433,SNP,SNP,Graham ROSS (Ind),TUSC,Con,LD,Lab,SC,3,8
+434,SNP,SNP,Graham ROSS (Ind),TUSC,LD,Lab,Con,SC,3,8
+435,SNP,SNP,Graham ROSS (Ind),TUSC,LD,Lab,Con,SC,3,8
+436,SNP,SNP,Graham ROSS (Ind),TUSC,SC,Lab,LD,Con,3,8
+437,SNP,SNP,Graham ROSS (Ind),SC,TUSC,Lab,LD,Con,3,8
+438,SNP,SC,Con,skipped,skipped,skipped,skipped,skipped,3,8
+439,SNP,SC,LD,skipped,skipped,skipped,skipped,skipped,3,8
+440,SNP,SC,SNP,LD,TUSC,Lab,Con,Graham ROSS (Ind),3,8
+441,SNP,SC,SNP,TUSC,skipped,skipped,skipped,skipped,3,8
+442,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+443,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+444,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+445,SNP,Graham ROSS (Ind),Lab,SNP,LD,skipped,skipped,skipped,3,8
+446,SNP,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,3,8
+447,SNP,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+448,SNP,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+449,SNP,Graham ROSS (Ind),TUSC,SNP,LD,skipped,skipped,skipped,3,8
+450,SNP,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+451,SNP,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+452,SNP,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+453,SNP,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+454,SNP,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+455,SNP,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+456,SNP,Graham ROSS (Ind),SNP,Con,LD,Lab,TUSC,SC,3,8
+457,SNP,Graham ROSS (Ind),SNP,SC,TUSC,LD,Con,Lab,3,8
+458,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+459,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+460,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+461,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+462,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+463,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+464,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+465,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+466,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+467,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+468,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+469,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+470,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+471,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+472,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+473,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+474,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+475,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+476,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+477,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+478,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+479,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+480,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+481,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+482,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+483,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+484,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+485,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+486,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+487,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+488,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+489,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+490,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+491,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+492,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+493,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+494,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+495,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+496,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+497,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+498,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+499,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+500,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+501,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+502,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+503,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+504,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+505,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+506,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+507,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+508,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+509,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+510,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+511,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+512,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+513,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+514,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+515,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+516,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+517,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+518,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+519,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+520,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+521,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+522,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+523,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+524,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+525,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+526,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+527,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+528,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+529,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+530,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+531,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+532,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+533,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+534,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+535,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+536,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+537,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+538,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+539,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+540,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+541,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+542,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+543,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+544,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+545,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+546,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+547,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+548,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+549,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+550,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+551,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+552,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+553,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+554,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+555,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+556,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+557,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+558,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+559,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+560,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+561,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+562,Lab,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+563,Lab,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+564,Lab,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+565,Lab,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+566,Lab,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+567,Lab,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+568,Lab,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+569,Lab,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+570,Lab,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+571,Lab,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,8
+572,Lab,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+573,Lab,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+574,Lab,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+575,Lab,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+576,Lab,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+577,Lab,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+578,Lab,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+579,Lab,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+580,Lab,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+581,Lab,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+582,Lab,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+583,Lab,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+584,Lab,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+585,Lab,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+586,Lab,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+587,Lab,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+588,Lab,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+589,Lab,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+590,Lab,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+591,Lab,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+592,Lab,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+593,Lab,SNP,SNP,TUSC,LD,Graham ROSS (Ind),Con,SC,3,8
+594,Lab,SNP,SNP,SC,Graham ROSS (Ind),TUSC,LD,Con,3,8
+595,Lab,SNP,SNP,Graham ROSS (Ind),LD,Con,TUSC,SC,3,8
+596,Lab,SNP,SNP,Graham ROSS (Ind),TUSC,LD,Con,SC,3,8
+597,Lab,SNP,SC,skipped,skipped,skipped,skipped,skipped,3,8
+598,Lab,SNP,SC,skipped,skipped,skipped,skipped,skipped,3,8
+599,Lab,SNP,SC,Graham ROSS (Ind),LD,SNP,TUSC,Con,3,8
+600,Lab,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+601,Lab,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+602,Lab,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+603,Lab,Con,LD,skipped,skipped,skipped,skipped,skipped,3,8
+604,Lab,Con,LD,skipped,skipped,skipped,skipped,skipped,3,8
+605,Lab,Con,LD,skipped,skipped,skipped,skipped,skipped,3,8
+606,Lab,Con,LD,SNP,Graham ROSS (Ind),skipped,skipped,skipped,3,8
+607,Lab,Con,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+608,Lab,Con,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+609,Lab,Con,TUSC,LD,SNP,SNP,Graham ROSS (Ind),SC,3,8
+610,Lab,Con,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+611,Lab,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+612,Lab,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+613,Lab,Con,Graham ROSS (Ind),LD,TUSC,skipped,skipped,skipped,3,8
+614,Lab,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+615,Lab,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+616,Lab,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+617,Lab,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+618,Lab,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+619,Lab,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+620,Lab,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+621,Lab,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+622,Lab,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+623,Lab,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+624,Lab,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+625,Lab,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+626,Lab,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+627,Lab,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+628,Lab,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+629,Lab,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+630,Lab,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+631,Lab,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+632,Lab,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+633,Lab,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+634,Lab,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+635,Lab,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+636,Lab,LD,SNP,SNP,skipped,skipped,skipped,skipped,3,8
+637,Lab,LD,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+638,Lab,LD,Con,skipped,skipped,skipped,skipped,skipped,3,8
+639,Lab,LD,Con,skipped,skipped,skipped,skipped,skipped,3,8
+640,Lab,LD,Con,skipped,skipped,skipped,skipped,skipped,3,8
+641,Lab,LD,Con,SNP,TUSC,SNP,skipped,skipped,3,8
+642,Lab,LD,Con,SNP,SNP,skipped,skipped,skipped,3,8
+643,Lab,LD,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+644,Lab,LD,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+645,Lab,LD,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+646,Lab,LD,TUSC,Graham ROSS (Ind),Con,SC,SNP,SNP,3,8
+647,Lab,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+648,Lab,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+649,Lab,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+650,Lab,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+651,Lab,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+652,Lab,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+653,Lab,LD,SNP,SNP,skipped,skipped,skipped,skipped,3,8
+654,Lab,LD,SC,skipped,skipped,skipped,skipped,skipped,3,8
+655,Lab,LD,SC,skipped,skipped,skipped,skipped,skipped,3,8
+656,Lab,LD,SC,skipped,skipped,skipped,skipped,skipped,3,8
+657,Lab,LD,SC,Con,SNP,SNP,TUSC,skipped,3,8
+658,Lab,LD,SC,TUSC,Con,Graham ROSS (Ind),SNP,SNP,3,8
+659,Lab,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+660,Lab,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+661,Lab,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+662,Lab,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+663,Lab,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+664,Lab,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+665,Lab,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+666,Lab,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+667,Lab,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+668,Lab,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+669,Lab,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+670,Lab,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+671,Lab,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+672,Lab,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+673,Lab,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+674,Lab,LD,Graham ROSS (Ind),SNP,SNP,SC,TUSC,Con,3,8
+675,Lab,LD,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,3,8
+676,Lab,LD,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,3,8
+677,Lab,LD,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,3,8
+678,Lab,LD,Graham ROSS (Ind),TUSC,Con,SC,SNP,SNP,3,8
+679,Lab,LD,Graham ROSS (Ind),SNP,SNP,Con,TUSC,SC,3,8
+680,Lab,LD,Graham ROSS (Ind),SNP,SNP,TUSC,SC,Con,3,8
+681,Lab,TUSC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+682,Lab,TUSC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+683,Lab,TUSC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+684,Lab,TUSC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+685,Lab,TUSC,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+686,Lab,TUSC,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+687,Lab,TUSC,LD,skipped,skipped,skipped,skipped,skipped,3,8
+688,Lab,TUSC,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+689,Lab,TUSC,SC,skipped,skipped,skipped,skipped,skipped,3,8
+690,Lab,TUSC,SC,skipped,skipped,skipped,skipped,skipped,3,8
+691,Lab,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+692,Lab,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+693,Lab,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+694,Lab,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+695,Lab,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+696,Lab,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+697,Lab,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+698,Lab,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+699,Lab,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+700,Lab,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+701,Lab,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+702,Lab,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+703,Lab,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+704,Lab,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+705,Lab,TUSC,Graham ROSS (Ind),LD,Con,SC,skipped,skipped,3,8
+706,Lab,TUSC,Graham ROSS (Ind),SNP,SC,LD,SNP,Con,3,8
+707,Lab,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+708,Lab,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+709,Lab,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+710,Lab,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+711,Lab,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+712,Lab,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+713,Lab,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+714,Lab,SNP,SNP,LD,skipped,skipped,skipped,skipped,3,8
+715,Lab,SNP,SNP,LD,skipped,skipped,skipped,skipped,3,8
+716,Lab,SNP,SNP,LD,Graham ROSS (Ind),TUSC,skipped,skipped,3,8
+717,Lab,SNP,SNP,SC,TUSC,Graham ROSS (Ind),LD,Con,3,8
+718,Lab,SNP,SNP,SC,Graham ROSS (Ind),TUSC,LD,Con,3,8
+719,Lab,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+720,Lab,SNP,TUSC,SNP,Graham ROSS (Ind),SC,LD,Con,3,8
+721,Lab,SNP,SC,skipped,skipped,skipped,skipped,skipped,3,8
+722,Lab,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+723,Lab,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+724,Lab,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+725,Lab,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+726,Lab,SNP,Graham ROSS (Ind),LD,SNP,TUSC,Con,SC,3,8
+727,Lab,SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+728,Lab,SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+729,Lab,SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+730,Lab,SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+731,Lab,SC,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+732,Lab,SC,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+733,Lab,SC,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+734,Lab,SC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+735,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+736,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+737,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+738,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+739,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+740,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+741,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+742,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+743,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+744,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+745,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+746,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+747,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+748,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+749,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+750,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+751,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+752,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+753,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+754,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+755,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+756,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+757,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+758,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+759,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+760,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+761,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+762,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+763,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+764,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+765,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+766,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+767,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+768,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+769,Lab,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+770,Lab,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+771,Lab,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,3,8
+772,Lab,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,3,8
+773,Lab,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,3,8
+774,Lab,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,3,8
+775,Lab,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,3,8
+776,Lab,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,3,8
+777,Lab,Graham ROSS (Ind),LD,SNP,TUSC,skipped,skipped,skipped,3,8
+778,Lab,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+779,Lab,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+780,Lab,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+781,Lab,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+782,Lab,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+783,Lab,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+784,Lab,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+785,Lab,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+786,Lab,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+787,Lab,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+788,Lab,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+789,Lab,Graham ROSS (Ind),TUSC,Con,SNP,SNP,LD,skipped,3,8
+790,Lab,Graham ROSS (Ind),TUSC,Con,SNP,SNP,LD,skipped,3,8
+791,Lab,Graham ROSS (Ind),TUSC,SC,LD,Con,SNP,SNP,3,8
+792,Lab,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+793,Lab,Graham ROSS (Ind),SNP,SNP,TUSC,LD,Con,SC,3,8
+794,Lab,Graham ROSS (Ind),SNP,SNP,TUSC,LD,SC,Con,3,8
+795,Lab,Graham ROSS (Ind),SNP,SNP,TUSC,SC,LD,Con,3,8
+796,Lab,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+797,Lab,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+798,Lab,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+799,Lab,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+800,Lab,Graham ROSS (Ind),SC,SNP,SNP,TUSC,LD,Con,3,8
+801,Con,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+802,Con,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+803,Con,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+804,Con,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+805,Con,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+806,Con,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+807,Con,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+808,Con,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+809,Con,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+810,Con,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+811,Con,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+812,Con,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+813,Con,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+814,Con,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+815,Con,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+816,Con,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+817,Con,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+818,Con,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+819,Con,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+820,Con,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+821,Con,SNP,Lab,LD,TUSC,SC,Graham ROSS (Ind),SNP,3,8
+822,Con,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+823,Con,SNP,TUSC,SNP,Graham ROSS (Ind),LD,SC,Lab,3,8
+824,Con,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+825,Con,SNP,SNP,LD,skipped,skipped,skipped,skipped,3,8
+826,Con,SNP,Graham ROSS (Ind),LD,Lab,SNP,TUSC,SC,3,8
+827,Con,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+828,Con,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+829,Con,Lab,SNP,SNP,Graham ROSS (Ind),LD,SC,TUSC,3,8
+830,Con,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+831,Con,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+832,Con,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+833,Con,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+834,Con,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+835,Con,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+836,Con,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+837,Con,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+838,Con,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+839,Con,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+840,Con,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+841,Con,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+842,Con,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+843,Con,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+844,Con,LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+845,Con,LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+846,Con,LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+847,Con,LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+848,Con,LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+849,Con,LD,Lab,SNP,Graham ROSS (Ind),SNP,SC,TUSC,3,8
+850,Con,LD,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+851,Con,LD,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+852,Con,LD,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,3,8
+853,Con,LD,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,3,8
+854,Con,LD,SC,skipped,skipped,skipped,skipped,skipped,3,8
+855,Con,LD,SC,skipped,skipped,skipped,skipped,skipped,3,8
+856,Con,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+857,Con,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+858,Con,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+859,Con,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+860,Con,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+861,Con,LD,Graham ROSS (Ind),SNP,SNP,TUSC,Lab,SC,3,8
+862,Con,LD,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,3,8
+863,Con,LD,Graham ROSS (Ind),TUSC,Lab,SNP,SNP,SC,3,8
+864,Con,LD,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,3,8
+865,Con,TUSC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+866,Con,TUSC,SC,skipped,skipped,skipped,skipped,skipped,3,8
+867,Con,TUSC,SC,skipped,skipped,skipped,skipped,skipped,3,8
+868,Con,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+869,Con,SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+870,Con,SC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+871,Con,SC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+872,Con,SC,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,3,8
+873,Con,SC,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,3,8
+874,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+875,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+876,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+877,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+878,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+879,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+880,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+881,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+882,Con,Graham ROSS (Ind),SNP,SNP,LD,skipped,skipped,skipped,3,8
+883,Con,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+884,Con,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,3,8
+885,Con,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,3,8
+886,Con,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,3,8
+887,Con,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,3,8
+888,Con,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+889,Con,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+890,Con,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+891,Con,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+892,Con,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+893,Con,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+894,Con,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+895,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+896,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+897,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+898,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+899,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+900,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+901,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+902,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+903,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+904,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+905,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+906,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+907,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+908,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+909,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+910,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+911,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+912,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+913,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+914,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+915,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+916,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+917,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+918,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+919,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+920,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+921,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+922,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+923,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+924,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+925,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+926,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+927,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+928,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+929,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+930,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+931,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+932,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+933,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+934,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+935,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+936,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+937,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+938,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+939,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+940,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+941,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+942,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+943,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+944,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+945,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+946,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+947,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+948,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+949,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+950,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+951,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+952,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+953,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+954,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+955,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+956,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+957,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+958,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+959,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+960,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+961,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+962,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+963,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+964,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+965,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+966,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+967,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+968,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+969,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+970,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+971,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+972,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+973,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+974,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+975,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+976,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+977,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+978,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+979,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+980,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+981,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+982,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+983,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+984,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+985,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+986,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+987,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+988,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+989,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+990,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+991,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+992,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+993,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+994,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+995,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+996,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+997,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+998,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+999,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1000,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1001,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1002,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1003,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1004,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1005,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1006,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1007,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1008,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1009,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1010,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1011,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1012,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1013,LD,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1014,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1015,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1016,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1017,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1018,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1019,LD,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1020,LD,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1021,LD,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1022,LD,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1023,LD,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1024,LD,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1025,LD,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1026,LD,SNP,Lab,Con,skipped,skipped,skipped,skipped,3,8
+1027,LD,SNP,Lab,Con,skipped,skipped,skipped,skipped,3,8
+1028,LD,SNP,Lab,Con,SNP,Graham ROSS (Ind),SC,TUSC,3,8
+1029,LD,SNP,Lab,TUSC,skipped,skipped,skipped,skipped,3,8
+1030,LD,SNP,Lab,SNP,skipped,skipped,skipped,skipped,3,8
+1031,LD,SNP,Lab,SNP,Graham ROSS (Ind),Con,SC,TUSC,3,8
+1032,LD,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1033,LD,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1034,LD,SNP,TUSC,Con,SNP,Graham ROSS (Ind),SC,Lab,3,8
+1035,LD,SNP,TUSC,SNP,skipped,skipped,skipped,skipped,3,8
+1036,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1037,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1038,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1039,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1040,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1041,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1042,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1043,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1044,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1045,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1046,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1047,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1048,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1049,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1050,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1051,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1052,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1053,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1054,LD,SNP,SNP,Lab,skipped,skipped,skipped,skipped,3,8
+1055,LD,SNP,SNP,Lab,TUSC,Con,Graham ROSS (Ind),SC,3,8
+1056,LD,SNP,SNP,Lab,TUSC,Graham ROSS (Ind),skipped,skipped,3,8
+1057,LD,SNP,SNP,Lab,TUSC,Graham ROSS (Ind),Con,SC,3,8
+1058,LD,SNP,SNP,Lab,SC,Graham ROSS (Ind),Con,TUSC,3,8
+1059,LD,SNP,SNP,Lab,Graham ROSS (Ind),Con,SC,TUSC,3,8
+1060,LD,SNP,SNP,Lab,Graham ROSS (Ind),TUSC,SC,skipped,3,8
+1061,LD,SNP,SNP,Con,skipped,skipped,skipped,skipped,3,8
+1062,LD,SNP,SNP,TUSC,Lab,SC,Graham ROSS (Ind),Con,3,8
+1063,LD,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+1064,LD,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+1065,LD,SNP,SNP,Graham ROSS (Ind),TUSC,Lab,skipped,skipped,3,8
+1066,LD,SNP,SNP,Graham ROSS (Ind),TUSC,Con,Lab,SC,3,8
+1067,LD,SNP,SC,skipped,skipped,skipped,skipped,skipped,3,8
+1068,LD,SNP,SC,skipped,skipped,skipped,skipped,skipped,3,8
+1069,LD,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1070,LD,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1071,LD,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1072,LD,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1073,LD,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1074,LD,SNP,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,3,8
+1075,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1076,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1077,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1078,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1079,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1080,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1081,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1082,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1083,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1084,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1085,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1086,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1087,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1088,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1089,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1090,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1091,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1092,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1093,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1094,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1095,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1096,LD,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1097,LD,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1098,LD,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1099,LD,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1100,LD,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1101,LD,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1102,LD,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1103,LD,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1104,LD,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1105,LD,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1106,LD,Lab,SNP,SNP,skipped,skipped,skipped,skipped,3,8
+1107,LD,Lab,SNP,SNP,skipped,skipped,skipped,skipped,3,8
+1108,LD,Lab,SNP,SNP,skipped,skipped,skipped,skipped,3,8
+1109,LD,Lab,SNP,SNP,skipped,skipped,skipped,skipped,3,8
+1110,LD,Lab,SNP,SNP,skipped,skipped,skipped,skipped,3,8
+1111,LD,Lab,SNP,SNP,Graham ROSS (Ind),TUSC,SC,Con,3,8
+1112,LD,Lab,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+1113,LD,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1114,LD,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1115,LD,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1116,LD,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1117,LD,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1118,LD,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1119,LD,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1120,LD,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1121,LD,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1122,LD,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1123,LD,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1124,LD,Lab,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1125,LD,Lab,Con,SNP,TUSC,skipped,skipped,skipped,3,8
+1126,LD,Lab,Con,SNP,TUSC,SNP,SC,Graham ROSS (Ind),3,8
+1127,LD,Lab,Con,SNP,SNP,Graham ROSS (Ind),skipped,skipped,3,8
+1128,LD,Lab,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+1129,LD,Lab,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1130,LD,Lab,TUSC,SNP,SNP,Graham ROSS (Ind),SC,Con,3,8
+1131,LD,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1132,LD,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1133,LD,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1134,LD,Lab,SC,skipped,skipped,skipped,skipped,skipped,3,8
+1135,LD,Lab,SC,skipped,skipped,skipped,skipped,skipped,3,8
+1136,LD,Lab,SC,skipped,skipped,skipped,skipped,skipped,3,8
+1137,LD,Lab,SC,SNP,Graham ROSS (Ind),SNP,TUSC,Con,3,8
+1138,LD,Lab,SC,Con,SNP,Graham ROSS (Ind),skipped,skipped,3,8
+1139,LD,Lab,SC,Graham ROSS (Ind),Con,SNP,SNP,TUSC,3,8
+1140,LD,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1141,LD,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1142,LD,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1143,LD,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1144,LD,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1145,LD,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1146,LD,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1147,LD,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1148,LD,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1149,LD,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1150,LD,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1151,LD,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1152,LD,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1153,LD,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1154,LD,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1155,LD,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1156,LD,Lab,Graham ROSS (Ind),SNP,TUSC,Con,SNP,SC,3,8
+1157,LD,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1158,LD,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1159,LD,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1160,LD,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1161,LD,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1162,LD,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1163,LD,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1164,LD,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1165,LD,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1166,LD,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1167,LD,Con,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1168,LD,Con,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1169,LD,Con,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1170,LD,Con,SNP,Lab,TUSC,SNP,SC,Graham ROSS (Ind),3,8
+1171,LD,Con,SNP,SNP,Graham ROSS (Ind),SC,TUSC,Lab,3,8
+1172,LD,Con,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+1173,LD,Con,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1174,LD,Con,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1175,LD,Con,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1176,LD,Con,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1177,LD,Con,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1178,LD,Con,Lab,SNP,skipped,skipped,skipped,skipped,3,8
+1179,LD,Con,Lab,SNP,SNP,Graham ROSS (Ind),SC,TUSC,3,8
+1180,LD,Con,Lab,SC,Graham ROSS (Ind),skipped,skipped,skipped,3,8
+1181,LD,Con,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+1182,LD,Con,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+1183,LD,Con,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1184,LD,Con,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1185,LD,Con,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1186,LD,Con,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1187,LD,Con,SNP,SNP,skipped,skipped,skipped,skipped,3,8
+1188,LD,Con,SNP,SC,TUSC,Lab,SNP,Graham ROSS (Ind),3,8
+1189,LD,Con,SC,skipped,skipped,skipped,skipped,skipped,3,8
+1190,LD,Con,SC,skipped,skipped,skipped,skipped,skipped,3,8
+1191,LD,Con,SC,skipped,skipped,skipped,skipped,skipped,3,8
+1192,LD,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1193,LD,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1194,LD,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1195,LD,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1196,LD,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1197,LD,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1198,LD,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1199,LD,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1200,LD,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1201,LD,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1202,LD,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1203,LD,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1204,LD,Con,Graham ROSS (Ind),SNP,SC,skipped,skipped,skipped,3,8
+1205,LD,Con,Graham ROSS (Ind),Lab,TUSC,SC,SNP,SNP,3,8
+1206,LD,Con,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,3,8
+1207,LD,Con,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,3,8
+1208,LD,TUSC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1209,LD,TUSC,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1210,LD,TUSC,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1211,LD,TUSC,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1212,LD,TUSC,SNP,Con,SNP,Lab,SC,Graham ROSS (Ind),3,8
+1213,LD,TUSC,SNP,Graham ROSS (Ind),SNP,skipped,skipped,skipped,3,8
+1214,LD,TUSC,SC,skipped,skipped,skipped,skipped,skipped,3,8
+1215,LD,TUSC,SC,skipped,skipped,skipped,skipped,skipped,3,8
+1216,LD,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1217,LD,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1218,LD,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1219,LD,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1220,LD,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1221,LD,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1222,LD,TUSC,Graham ROSS (Ind),Con,SNP,Lab,SNP,SC,3,8
+1223,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1224,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1225,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1226,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1227,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1228,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1229,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1230,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1231,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1232,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1233,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1234,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1235,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1236,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1237,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1238,LD,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1239,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1240,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1241,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1242,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1243,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1244,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1245,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1246,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1247,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1248,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1249,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1250,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1251,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1252,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1253,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1254,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1255,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1256,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1257,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1258,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1259,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1260,LD,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1261,LD,SNP,SNP,Lab,skipped,skipped,skipped,skipped,3,8
+1262,LD,SNP,SNP,Lab,Con,TUSC,SC,Graham ROSS (Ind),3,8
+1263,LD,SNP,SNP,Lab,Con,TUSC,Graham ROSS (Ind),SC,3,8
+1264,LD,SNP,SNP,Con,Graham ROSS (Ind),TUSC,Lab,SC,3,8
+1265,LD,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+1266,LD,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1267,LD,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1268,LD,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1269,LD,SNP,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+1270,LD,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1271,LD,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1272,LD,SNP,Con,Lab,SNP,skipped,skipped,skipped,3,8
+1273,LD,SNP,Con,SC,TUSC,Graham ROSS (Ind),Lab,SNP,3,8
+1274,LD,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1275,LD,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1276,LD,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1277,LD,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1278,LD,SNP,SC,skipped,skipped,skipped,skipped,skipped,3,8
+1279,LD,SNP,SC,skipped,skipped,skipped,skipped,skipped,3,8
+1280,LD,SNP,SC,Graham ROSS (Ind),SNP,skipped,skipped,skipped,3,8
+1281,LD,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1282,LD,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1283,LD,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1284,LD,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1285,LD,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1286,LD,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1287,LD,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1288,LD,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1289,LD,SNP,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,3,8
+1290,LD,SNP,Graham ROSS (Ind),SNP,Lab,skipped,skipped,skipped,3,8
+1291,LD,SNP,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,3,8
+1292,LD,SNP,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,3,8
+1293,LD,SNP,Graham ROSS (Ind),Lab,SNP,TUSC,SC,Con,3,8
+1294,LD,SNP,Graham ROSS (Ind),Con,SNP,TUSC,Lab,SC,3,8
+1295,LD,SNP,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,3,8
+1296,LD,SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1297,LD,SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1298,LD,SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1299,LD,SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1300,LD,SC,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1301,LD,SC,SNP,TUSC,Lab,Graham ROSS (Ind),Con,SNP,3,8
+1302,LD,SC,SNP,SNP,skipped,skipped,skipped,skipped,3,8
+1303,LD,SC,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+1304,LD,SC,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+1305,LD,SC,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1306,LD,SC,TUSC,SNP,SNP,Graham ROSS (Ind),Con,Lab,3,8
+1307,LD,SC,TUSC,Lab,skipped,skipped,skipped,skipped,3,8
+1308,LD,SC,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1309,LD,SC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1310,LD,SC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1311,LD,SC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1312,LD,SC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1313,LD,SC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1314,LD,SC,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,3,8
+1315,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1316,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1317,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1318,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1319,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1320,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1321,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1322,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1323,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1324,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1325,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1326,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1327,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1328,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1329,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1330,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1331,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1332,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1333,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1334,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1335,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1336,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1337,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1338,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1339,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1340,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1341,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1342,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1343,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1344,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1345,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1346,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1347,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1348,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1349,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1350,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1351,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1352,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1353,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1354,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1355,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1356,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1357,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1358,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1359,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1360,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1361,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1362,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1363,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1364,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1365,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1366,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1367,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1368,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1369,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1370,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1371,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1372,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1373,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1374,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1375,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1376,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1377,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1378,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1379,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1380,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1381,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1382,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1383,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1384,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1385,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1386,LD,Graham ROSS (Ind),SNP,Lab,Con,SNP,SC,TUSC,3,8
+1387,LD,Graham ROSS (Ind),SNP,Lab,TUSC,SNP,Con,skipped,3,8
+1388,LD,Graham ROSS (Ind),SNP,Lab,TUSC,SC,Con,SNP,3,8
+1389,LD,Graham ROSS (Ind),SNP,Lab,SNP,TUSC,Con,SC,3,8
+1390,LD,Graham ROSS (Ind),SNP,TUSC,Lab,skipped,skipped,skipped,3,8
+1391,LD,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,3,8
+1392,LD,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,3,8
+1393,LD,Graham ROSS (Ind),SNP,SNP,Lab,skipped,skipped,skipped,3,8
+1394,LD,Graham ROSS (Ind),SNP,SNP,Lab,skipped,skipped,skipped,3,8
+1395,LD,Graham ROSS (Ind),SNP,SNP,Lab,skipped,skipped,skipped,3,8
+1396,LD,Graham ROSS (Ind),SNP,SNP,Lab,Con,SC,TUSC,3,8
+1397,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1398,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1399,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1400,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1401,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1402,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1403,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1404,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1405,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1406,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1407,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1408,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1409,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1410,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1411,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1412,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1413,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1414,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1415,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1416,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1417,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1418,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1419,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1420,LD,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1421,LD,Graham ROSS (Ind),Lab,SNP,TUSC,SNP,SC,Con,3,8
+1422,LD,Graham ROSS (Ind),Lab,SNP,SNP,skipped,skipped,skipped,3,8
+1423,LD,Graham ROSS (Ind),Lab,Con,skipped,skipped,skipped,skipped,3,8
+1424,LD,Graham ROSS (Ind),Lab,Con,skipped,skipped,skipped,skipped,3,8
+1425,LD,Graham ROSS (Ind),Lab,Con,skipped,skipped,skipped,skipped,3,8
+1426,LD,Graham ROSS (Ind),Lab,Con,TUSC,SC,SNP,SNP,3,8
+1427,LD,Graham ROSS (Ind),Lab,Con,TUSC,SC,SNP,SNP,3,8
+1428,LD,Graham ROSS (Ind),Lab,TUSC,skipped,skipped,skipped,skipped,3,8
+1429,LD,Graham ROSS (Ind),Lab,TUSC,skipped,skipped,skipped,skipped,3,8
+1430,LD,Graham ROSS (Ind),Lab,TUSC,SNP,SNP,SC,Con,3,8
+1431,LD,Graham ROSS (Ind),Lab,SNP,Con,SNP,TUSC,SC,3,8
+1432,LD,Graham ROSS (Ind),Lab,SC,TUSC,SNP,SNP,skipped,3,8
+1433,LD,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,skipped,3,8
+1434,LD,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,skipped,3,8
+1435,LD,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,skipped,3,8
+1436,LD,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,skipped,3,8
+1437,LD,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,skipped,3,8
+1438,LD,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,skipped,3,8
+1439,LD,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,skipped,3,8
+1440,LD,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,skipped,3,8
+1441,LD,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,skipped,3,8
+1442,LD,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,skipped,3,8
+1443,LD,Graham ROSS (Ind),Con,Lab,skipped,skipped,skipped,skipped,3,8
+1444,LD,Graham ROSS (Ind),Con,Lab,SNP,TUSC,SC,SNP,3,8
+1445,LD,Graham ROSS (Ind),Con,Lab,TUSC,SNP,SC,SNP,3,8
+1446,LD,Graham ROSS (Ind),Con,Lab,SNP,skipped,skipped,skipped,3,8
+1447,LD,Graham ROSS (Ind),Con,SC,skipped,skipped,skipped,skipped,3,8
+1448,LD,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1449,LD,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1450,LD,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1451,LD,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1452,LD,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1453,LD,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1454,LD,Graham ROSS (Ind),TUSC,Lab,skipped,skipped,skipped,skipped,3,8
+1455,LD,Graham ROSS (Ind),TUSC,Con,Lab,SNP,skipped,skipped,3,8
+1456,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1457,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1458,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1459,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1460,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1461,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1462,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1463,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1464,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1465,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1466,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1467,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1468,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1469,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1470,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1471,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1472,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1473,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1474,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1475,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1476,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1477,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1478,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1479,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1480,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1481,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1482,LD,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,3,8
+1483,LD,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,3,8
+1484,LD,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,3,8
+1485,LD,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,3,8
+1486,LD,Graham ROSS (Ind),SNP,SNP,Lab,skipped,skipped,skipped,3,8
+1487,LD,Graham ROSS (Ind),SNP,SNP,Con,skipped,skipped,skipped,3,8
+1488,LD,Graham ROSS (Ind),SNP,Lab,skipped,skipped,skipped,skipped,3,8
+1489,LD,Graham ROSS (Ind),SNP,Lab,Con,skipped,skipped,skipped,3,8
+1490,LD,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+1491,LD,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+1492,LD,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+1493,LD,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+1494,LD,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+1495,LD,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+1496,LD,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+1497,LD,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+1498,LD,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+1499,LD,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+1500,LD,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+1501,LD,Graham ROSS (Ind),SC,SNP,SNP,Lab,Con,TUSC,3,8
+1502,LD,Graham ROSS (Ind),SC,Lab,skipped,skipped,skipped,skipped,3,8
+1503,LD,Graham ROSS (Ind),SC,TUSC,Lab,SNP,SNP,Con,3,8
+1504,LD,Graham ROSS (Ind),SC,TUSC,Con,Lab,SNP,SNP,3,8
+1505,TUSC,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1506,TUSC,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1507,TUSC,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1508,TUSC,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1509,TUSC,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1510,TUSC,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1511,TUSC,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1512,TUSC,SNP,Lab,SNP,skipped,skipped,skipped,skipped,3,8
+1513,TUSC,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1514,TUSC,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+1515,TUSC,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1516,TUSC,SNP,SNP,Lab,skipped,skipped,skipped,skipped,3,8
+1517,TUSC,SNP,SNP,Lab,Graham ROSS (Ind),LD,SC,Con,3,8
+1518,TUSC,SNP,SNP,Graham ROSS (Ind),SC,Lab,LD,Con,3,8
+1519,TUSC,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1520,TUSC,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1521,TUSC,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1522,TUSC,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1523,TUSC,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+1524,TUSC,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+1525,TUSC,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1526,TUSC,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1527,TUSC,LD,SNP,Lab,Con,SNP,Graham ROSS (Ind),skipped,3,8
+1528,TUSC,LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1529,TUSC,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1530,TUSC,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1531,TUSC,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1532,TUSC,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1533,TUSC,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1534,TUSC,SNP,Lab,LD,Graham ROSS (Ind),skipped,skipped,skipped,3,8
+1535,TUSC,SNP,Lab,LD,Graham ROSS (Ind),SC,SNP,Con,3,8
+1536,TUSC,SNP,Lab,Graham ROSS (Ind),SNP,SC,LD,Con,3,8
+1537,TUSC,SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1538,TUSC,SC,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1539,TUSC,SC,Lab,Con,SNP,LD,SNP,Graham ROSS (Ind),3,8
+1540,TUSC,SC,Graham ROSS (Ind),SNP,SNP,Lab,LD,Con,3,8
+1541,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1542,TUSC,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1543,TUSC,Graham ROSS (Ind),SNP,SNP,Con,LD,SC,Lab,3,8
+1544,TUSC,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1545,TUSC,Graham ROSS (Ind),Lab,SNP,SNP,LD,Con,SC,3,8
+1546,TUSC,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,3,8
+1547,TUSC,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,3,8
+1548,TUSC,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,3,8
+1549,TUSC,Graham ROSS (Ind),SNP,LD,SNP,Lab,Con,SC,3,8
+1550,TUSC,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+1551,TUSC,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+1552,TUSC,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,3,8
+1553,TUSC,Graham ROSS (Ind),SC,SNP,skipped,skipped,skipped,skipped,3,8
+1554,TUSC,Graham ROSS (Ind),SC,Lab,LD,Con,SNP,SNP,3,8
+1555,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1556,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1557,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1558,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1559,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1560,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1561,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1562,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1563,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1564,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1565,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1566,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1567,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1568,SNP,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1569,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1570,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1571,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1572,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1573,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1574,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1575,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1576,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1577,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1578,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1579,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1580,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1581,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1582,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1583,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1584,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1585,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1586,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1587,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1588,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1589,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1590,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1591,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1592,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1593,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1594,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1595,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1596,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1597,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1598,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1599,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1600,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1601,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1602,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1603,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1604,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1605,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1606,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1607,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1608,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1609,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1610,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1611,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1612,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1613,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1614,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1615,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1616,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1617,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1618,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1619,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1620,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1621,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1622,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1623,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1624,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1625,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1626,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1627,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1628,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1629,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1630,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1631,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1632,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1633,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1634,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1635,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1636,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1637,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1638,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1639,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1640,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1641,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1642,SNP,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1643,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1644,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1645,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1646,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1647,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1648,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1649,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1650,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1651,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1652,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1653,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1654,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1655,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1656,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1657,SNP,SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1658,SNP,SNP,Lab,Con,skipped,skipped,skipped,skipped,3,8
+1659,SNP,SNP,Lab,LD,TUSC,SC,Graham ROSS (Ind),Con,3,8
+1660,SNP,SNP,Lab,LD,Graham ROSS (Ind),Con,TUSC,SC,3,8
+1661,SNP,SNP,Lab,TUSC,LD,Graham ROSS (Ind),Con,SC,3,8
+1662,SNP,SNP,Lab,TUSC,SC,Graham ROSS (Ind),Con,LD,3,8
+1663,SNP,SNP,Lab,SC,LD,Con,Graham ROSS (Ind),skipped,3,8
+1664,SNP,SNP,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+1665,SNP,SNP,Lab,Graham ROSS (Ind),LD,TUSC,SC,Con,3,8
+1666,SNP,SNP,Lab,Graham ROSS (Ind),LD,SC,TUSC,Con,3,8
+1667,SNP,SNP,Lab,Graham ROSS (Ind),TUSC,SC,LD,Con,3,8
+1668,SNP,SNP,Lab,Graham ROSS (Ind),SC,TUSC,LD,Con,3,8
+1669,SNP,SNP,Lab,Graham ROSS (Ind),SC,TUSC,LD,Con,3,8
+1670,SNP,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1671,SNP,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1672,SNP,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1673,SNP,SNP,Con,LD,TUSC,Lab,Graham ROSS (Ind),SC,3,8
+1674,SNP,SNP,Con,LD,SC,Graham ROSS (Ind),TUSC,Lab,3,8
+1675,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+1676,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+1677,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+1678,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+1679,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+1680,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+1681,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+1682,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+1683,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+1684,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+1685,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+1686,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+1687,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+1688,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+1689,SNP,SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+1690,SNP,SNP,LD,Con,skipped,skipped,skipped,skipped,3,8
+1691,SNP,SNP,LD,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,3,8
+1692,SNP,SNP,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+1693,SNP,SNP,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+1694,SNP,SNP,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+1695,SNP,SNP,LD,Graham ROSS (Ind),SC,skipped,skipped,skipped,3,8
+1696,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1697,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1698,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1699,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1700,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1701,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1702,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1703,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1704,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1705,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1706,SNP,SNP,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+1707,SNP,SNP,TUSC,Graham ROSS (Ind),SC,LD,Lab,Con,3,8
+1708,SNP,SNP,SC,skipped,skipped,skipped,skipped,skipped,3,8
+1709,SNP,SNP,SC,skipped,skipped,skipped,skipped,skipped,3,8
+1710,SNP,SNP,SC,skipped,skipped,skipped,skipped,skipped,3,8
+1711,SNP,SNP,SC,skipped,skipped,skipped,skipped,skipped,3,8
+1712,SNP,SNP,SC,skipped,skipped,skipped,skipped,skipped,3,8
+1713,SNP,SNP,SC,skipped,skipped,skipped,skipped,skipped,3,8
+1714,SNP,SNP,SC,skipped,skipped,skipped,skipped,skipped,3,8
+1715,SNP,SNP,SC,LD,TUSC,Graham ROSS (Ind),Lab,Con,3,8
+1716,SNP,SNP,SC,TUSC,Graham ROSS (Ind),Lab,skipped,skipped,3,8
+1717,SNP,SNP,SC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+1718,SNP,SNP,SC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+1719,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1720,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1721,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1722,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1723,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1724,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1725,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1726,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1727,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1728,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1729,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1730,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1731,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1732,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1733,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1734,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1735,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1736,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1737,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1738,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1739,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1740,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1741,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1742,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1743,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1744,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1745,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1746,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1747,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1748,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1749,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1750,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1751,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1752,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1753,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1754,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1755,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1756,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1757,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1758,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1759,SNP,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1760,SNP,SNP,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,3,8
+1761,SNP,SNP,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,3,8
+1762,SNP,SNP,Graham ROSS (Ind),LD,Lab,Con,TUSC,SC,3,8
+1763,SNP,SNP,Graham ROSS (Ind),LD,Lab,TUSC,Con,SC,3,8
+1764,SNP,SNP,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,3,8
+1765,SNP,SNP,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,3,8
+1766,SNP,SNP,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,3,8
+1767,SNP,SNP,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,3,8
+1768,SNP,SNP,Graham ROSS (Ind),TUSC,Lab,Con,LD,SC,3,8
+1769,SNP,SNP,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,3,8
+1770,SNP,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1771,SNP,Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1772,SNP,Lab,LD,Con,SC,TUSC,Graham ROSS (Ind),SNP,3,8
+1773,SNP,Lab,SC,SNP,skipped,skipped,skipped,skipped,3,8
+1774,SNP,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1775,SNP,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1776,SNP,Con,Lab,SNP,TUSC,SC,LD,Graham ROSS (Ind),3,8
+1777,SNP,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1778,SNP,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1779,SNP,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1780,SNP,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1781,SNP,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1782,SNP,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1783,SNP,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1784,SNP,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1785,SNP,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1786,SNP,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1787,SNP,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1788,SNP,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1789,SNP,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1790,SNP,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1791,SNP,LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1792,SNP,LD,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+1793,SNP,LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1794,SNP,LD,Lab,SNP,Graham ROSS (Ind),skipped,skipped,skipped,3,8
+1795,SNP,LD,Lab,SNP,Graham ROSS (Ind),SC,TUSC,Con,3,8
+1796,SNP,LD,Con,Graham ROSS (Ind),SC,TUSC,Lab,SNP,3,8
+1797,SNP,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1798,SNP,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1799,SNP,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1800,SNP,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1801,SNP,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1802,SNP,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1803,SNP,LD,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1804,SNP,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,3,8
+1805,SNP,LD,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,3,8
+1806,SNP,LD,Graham ROSS (Ind),SNP,Lab,TUSC,SC,Con,3,8
+1807,SNP,TUSC,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1808,SNP,TUSC,SNP,Lab,Graham ROSS (Ind),SC,LD,Con,3,8
+1809,SNP,TUSC,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1810,SNP,TUSC,SC,Lab,SNP,Con,LD,Graham ROSS (Ind),3,8
+1811,SNP,TUSC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1812,SNP,SC,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1813,SNP,SC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1814,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1815,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1816,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1817,SNP,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1818,SNP,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1819,SNP,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1820,SNP,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1821,SNP,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1822,SNP,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1823,SNP,Graham ROSS (Ind),SNP,Lab,skipped,skipped,skipped,skipped,3,8
+1824,SNP,Graham ROSS (Ind),SNP,TUSC,Lab,skipped,skipped,skipped,3,8
+1825,SNP,Graham ROSS (Ind),Lab,SNP,skipped,skipped,skipped,skipped,3,8
+1826,SNP,Graham ROSS (Ind),Lab,SNP,skipped,skipped,skipped,skipped,3,8
+1827,SNP,Graham ROSS (Ind),Lab,SNP,Con,TUSC,LD,skipped,3,8
+1828,SNP,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,3,8
+1829,SNP,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,3,8
+1830,SNP,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,3,8
+1831,SNP,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,3,8
+1832,SNP,Graham ROSS (Ind),LD,SNP,Lab,skipped,skipped,skipped,3,8
+1833,SNP,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,3,8
+1834,SNP,Graham ROSS (Ind),TUSC,Con,Lab,SNP,LD,SC,3,8
+1835,SNP,Graham ROSS (Ind),SC,SNP,skipped,skipped,skipped,skipped,3,8
+1836,SC,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1837,SC,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1838,SC,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1839,SC,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1840,SC,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1841,SC,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1842,SC,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1843,SC,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1844,SC,skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1845,SC,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1846,SC,SNP,Con,Lab,LD,SNP,TUSC,Graham ROSS (Ind),3,8
+1847,SC,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1848,SC,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1849,SC,SNP,Graham ROSS (Ind),SNP,TUSC,skipped,skipped,skipped,3,8
+1850,SC,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1851,SC,Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1852,SC,Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+1853,SC,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1854,SC,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1855,SC,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1856,SC,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1857,SC,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1858,SC,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1859,SC,Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1860,SC,Con,SNP,SNP,skipped,skipped,skipped,skipped,3,8
+1861,SC,Con,SNP,SNP,skipped,skipped,skipped,skipped,3,8
+1862,SC,Con,Lab,LD,Graham ROSS (Ind),skipped,skipped,skipped,3,8
+1863,SC,Con,SNP,LD,skipped,skipped,skipped,skipped,3,8
+1864,SC,Con,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,3,8
+1865,SC,Con,Graham ROSS (Ind),LD,TUSC,skipped,skipped,skipped,3,8
+1866,SC,LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1867,SC,LD,SNP,SNP,skipped,skipped,skipped,skipped,3,8
+1868,SC,TUSC,Lab,Graham ROSS (Ind),skipped,skipped,skipped,skipped,3,8
+1869,SC,TUSC,Graham ROSS (Ind),Lab,SNP,SNP,LD,Con,3,8
+1870,SC,SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1871,SC,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1872,SC,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1873,SC,SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+1874,SC,SNP,SNP,TUSC,skipped,skipped,skipped,skipped,3,8
+1875,SC,SNP,Con,skipped,skipped,skipped,skipped,skipped,3,8
+1876,SC,SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1877,SC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1878,SC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1879,SC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1880,SC,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1881,SC,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1882,SC,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,3,8
+1883,SC,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,skipped,3,8
+1884,SC,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,skipped,3,8
+1885,SC,Graham ROSS (Ind),Con,Lab,TUSC,LD,SNP,SNP,3,8
+1886,SC,Graham ROSS (Ind),Con,TUSC,skipped,skipped,skipped,skipped,3,8
+1887,SC,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,3,8
+1888,SC,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,3,8
+1889,SC,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,3,8
+1890,SC,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,3,8
+1891,SC,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+1892,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1893,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1894,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1895,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1896,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1897,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1898,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1899,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1900,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1901,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1902,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1903,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1904,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1905,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1906,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1907,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1908,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1909,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1910,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1911,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1912,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1913,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1914,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1915,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1916,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1917,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1918,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1919,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1920,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1921,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1922,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1923,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1924,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1925,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1926,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1927,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1928,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1929,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1930,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1931,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1932,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1933,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1934,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1935,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1936,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1937,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1938,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1939,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1940,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1941,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1942,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1943,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1944,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1945,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1946,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1947,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1948,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1949,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1950,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1951,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1952,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1953,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1954,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1955,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1956,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1957,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1958,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1959,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1960,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1961,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1962,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1963,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1964,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1965,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1966,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1967,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1968,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1969,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1970,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1971,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1972,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1973,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1974,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1975,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1976,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1977,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1978,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1979,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1980,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1981,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1982,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1983,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1984,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1985,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1986,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1987,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1988,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1989,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1990,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1991,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1992,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1993,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1994,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1995,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1996,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1997,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1998,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+1999,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2000,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2001,Graham ROSS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2002,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2003,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2004,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2005,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2006,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2007,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2008,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2009,Graham ROSS (Ind),SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2010,Graham ROSS (Ind),SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2011,Graham ROSS (Ind),SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2012,Graham ROSS (Ind),SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2013,Graham ROSS (Ind),SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2014,Graham ROSS (Ind),SNP,Lab,LD,SNP,skipped,skipped,skipped,3,8
+2015,Graham ROSS (Ind),SNP,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2016,Graham ROSS (Ind),SNP,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2017,Graham ROSS (Ind),SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2018,Graham ROSS (Ind),SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2019,Graham ROSS (Ind),SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2020,Graham ROSS (Ind),SNP,LD,TUSC,SNP,Lab,SC,Con,3,8
+2021,Graham ROSS (Ind),SNP,LD,SNP,skipped,skipped,skipped,skipped,3,8
+2022,Graham ROSS (Ind),SNP,LD,SNP,Lab,Con,TUSC,SC,3,8
+2023,Graham ROSS (Ind),SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2024,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2025,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2026,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2027,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2028,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2029,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2030,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2031,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2032,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2033,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2034,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2035,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2036,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2037,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2038,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2039,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2040,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2041,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2042,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2043,Graham ROSS (Ind),SNP,SNP,Lab,Con,TUSC,SC,LD,3,8
+2044,Graham ROSS (Ind),SNP,SNP,LD,skipped,skipped,skipped,skipped,3,8
+2045,Graham ROSS (Ind),SNP,SNP,LD,skipped,skipped,skipped,skipped,3,8
+2046,Graham ROSS (Ind),SNP,SNP,TUSC,LD,Lab,Con,SC,3,8
+2047,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2048,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2049,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2050,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2051,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2052,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2053,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2054,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2055,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2056,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2057,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2058,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2059,Graham ROSS (Ind),Lab,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2060,Graham ROSS (Ind),Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2061,Graham ROSS (Ind),Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2062,Graham ROSS (Ind),Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2063,Graham ROSS (Ind),Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2064,Graham ROSS (Ind),Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2065,Graham ROSS (Ind),Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2066,Graham ROSS (Ind),Lab,SNP,LD,Con,SNP,TUSC,SC,3,8
+2067,Graham ROSS (Ind),Lab,SNP,TUSC,SNP,SC,LD,Con,3,8
+2068,Graham ROSS (Ind),Lab,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2069,Graham ROSS (Ind),Lab,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2070,Graham ROSS (Ind),Lab,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2071,Graham ROSS (Ind),Lab,Con,LD,skipped,skipped,skipped,skipped,3,8
+2072,Graham ROSS (Ind),Lab,Con,TUSC,skipped,skipped,skipped,skipped,3,8
+2073,Graham ROSS (Ind),Lab,Con,TUSC,LD,skipped,skipped,skipped,3,8
+2074,Graham ROSS (Ind),Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2075,Graham ROSS (Ind),Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2076,Graham ROSS (Ind),Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2077,Graham ROSS (Ind),Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2078,Graham ROSS (Ind),Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2079,Graham ROSS (Ind),Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2080,Graham ROSS (Ind),Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2081,Graham ROSS (Ind),Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2082,Graham ROSS (Ind),Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2083,Graham ROSS (Ind),Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2084,Graham ROSS (Ind),Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2085,Graham ROSS (Ind),Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2086,Graham ROSS (Ind),Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2087,Graham ROSS (Ind),Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2088,Graham ROSS (Ind),Lab,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2089,Graham ROSS (Ind),Lab,LD,Con,skipped,skipped,skipped,skipped,3,8
+2090,Graham ROSS (Ind),Lab,LD,Con,skipped,skipped,skipped,skipped,3,8
+2091,Graham ROSS (Ind),Lab,LD,Con,SNP,TUSC,SNP,SC,3,8
+2092,Graham ROSS (Ind),Lab,LD,SNP,SNP,TUSC,Con,SC,3,8
+2093,Graham ROSS (Ind),Lab,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2094,Graham ROSS (Ind),Lab,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2095,Graham ROSS (Ind),Lab,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2096,Graham ROSS (Ind),Lab,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2097,Graham ROSS (Ind),Lab,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2098,Graham ROSS (Ind),Lab,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2099,Graham ROSS (Ind),Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2100,Graham ROSS (Ind),Lab,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2101,Graham ROSS (Ind),Lab,SC,skipped,skipped,skipped,skipped,skipped,3,8
+2102,Graham ROSS (Ind),Lab,SC,skipped,skipped,skipped,skipped,skipped,3,8
+2103,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2104,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2105,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2106,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2107,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2108,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2109,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2110,Graham ROSS (Ind),Con,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2111,Graham ROSS (Ind),Con,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2112,Graham ROSS (Ind),Con,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2113,Graham ROSS (Ind),Con,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2114,Graham ROSS (Ind),Con,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2115,Graham ROSS (Ind),Con,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2116,Graham ROSS (Ind),Con,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2117,Graham ROSS (Ind),Con,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2118,Graham ROSS (Ind),Con,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2119,Graham ROSS (Ind),Con,LD,SC,skipped,skipped,skipped,skipped,3,8
+2120,Graham ROSS (Ind),Con,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2121,Graham ROSS (Ind),Con,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2122,Graham ROSS (Ind),Con,SNP,SNP,LD,TUSC,SC,Lab,3,8
+2123,Graham ROSS (Ind),Con,SC,skipped,skipped,skipped,skipped,skipped,3,8
+2124,Graham ROSS (Ind),Con,SC,skipped,skipped,skipped,skipped,skipped,3,8
+2125,Graham ROSS (Ind),Con,SC,skipped,skipped,skipped,skipped,skipped,3,8
+2126,Graham ROSS (Ind),Con,SC,skipped,skipped,skipped,skipped,skipped,3,8
+2127,Graham ROSS (Ind),Con,SC,skipped,skipped,skipped,skipped,skipped,3,8
+2128,Graham ROSS (Ind),Con,SC,skipped,skipped,skipped,skipped,skipped,3,8
+2129,Graham ROSS (Ind),Con,SC,LD,skipped,skipped,skipped,skipped,3,8
+2130,Graham ROSS (Ind),Con,SC,LD,SNP,SNP,Lab,TUSC,3,8
+2131,Graham ROSS (Ind),Con,SC,TUSC,skipped,skipped,skipped,skipped,3,8
+2132,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2133,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2134,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2135,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2136,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2137,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2138,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2139,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2140,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2141,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2142,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2143,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2144,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2145,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2146,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2147,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2148,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2149,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2150,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2151,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2152,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2153,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2154,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2155,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2156,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2157,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2158,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2159,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2160,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2161,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2162,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2163,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2164,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2165,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2166,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2167,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2168,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2169,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2170,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2171,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2172,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2173,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2174,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2175,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2176,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2177,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2178,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2179,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2180,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2181,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2182,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2183,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2184,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2185,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2186,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2187,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2188,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2189,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2190,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2191,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2192,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2193,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2194,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2195,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2196,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2197,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2198,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2199,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2200,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2201,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2202,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2203,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2204,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2205,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2206,Graham ROSS (Ind),LD,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2207,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2208,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2209,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2210,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2211,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2212,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2213,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2214,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2215,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2216,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2217,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2218,Graham ROSS (Ind),LD,SNP,Lab,skipped,skipped,skipped,skipped,3,8
+2219,Graham ROSS (Ind),LD,SNP,Lab,skipped,skipped,skipped,skipped,3,8
+2220,Graham ROSS (Ind),LD,SNP,Lab,Con,skipped,skipped,skipped,3,8
+2221,Graham ROSS (Ind),LD,SNP,Lab,Con,TUSC,SNP,SC,3,8
+2222,Graham ROSS (Ind),LD,SNP,Lab,SNP,SC,TUSC,Con,3,8
+2223,Graham ROSS (Ind),LD,SNP,Con,SNP,skipped,skipped,skipped,3,8
+2224,Graham ROSS (Ind),LD,SNP,TUSC,skipped,skipped,skipped,skipped,3,8
+2225,Graham ROSS (Ind),LD,SNP,TUSC,SNP,SC,Lab,Con,3,8
+2226,Graham ROSS (Ind),LD,SNP,SNP,skipped,skipped,skipped,skipped,3,8
+2227,Graham ROSS (Ind),LD,SNP,SNP,Lab,TUSC,Con,SC,3,8
+2228,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2229,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2230,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2231,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2232,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2233,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2234,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2235,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2236,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2237,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2238,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2239,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2240,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2241,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2242,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2243,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2244,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2245,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2246,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2247,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2248,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2249,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2250,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2251,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2252,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2253,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2254,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2255,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2256,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2257,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2258,Graham ROSS (Ind),LD,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2259,Graham ROSS (Ind),LD,Lab,SNP,skipped,skipped,skipped,skipped,3,8
+2260,Graham ROSS (Ind),LD,Lab,SNP,skipped,skipped,skipped,skipped,3,8
+2261,Graham ROSS (Ind),LD,Lab,SNP,TUSC,SNP,Con,SC,3,8
+2262,Graham ROSS (Ind),LD,Lab,Con,skipped,skipped,skipped,skipped,3,8
+2263,Graham ROSS (Ind),LD,Lab,Con,SC,skipped,skipped,skipped,3,8
+2264,Graham ROSS (Ind),LD,Lab,TUSC,SC,skipped,skipped,skipped,3,8
+2265,Graham ROSS (Ind),LD,Lab,TUSC,SC,SNP,SNP,Con,3,8
+2266,Graham ROSS (Ind),LD,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2267,Graham ROSS (Ind),LD,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2268,Graham ROSS (Ind),LD,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2269,Graham ROSS (Ind),LD,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2270,Graham ROSS (Ind),LD,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2271,Graham ROSS (Ind),LD,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2272,Graham ROSS (Ind),LD,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2273,Graham ROSS (Ind),LD,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2274,Graham ROSS (Ind),LD,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2275,Graham ROSS (Ind),LD,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2276,Graham ROSS (Ind),LD,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2277,Graham ROSS (Ind),LD,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2278,Graham ROSS (Ind),LD,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2279,Graham ROSS (Ind),LD,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2280,Graham ROSS (Ind),LD,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2281,Graham ROSS (Ind),LD,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2282,Graham ROSS (Ind),LD,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2283,Graham ROSS (Ind),LD,Con,Lab,skipped,skipped,skipped,skipped,3,8
+2284,Graham ROSS (Ind),LD,Con,Lab,skipped,skipped,skipped,skipped,3,8
+2285,Graham ROSS (Ind),LD,Con,Lab,TUSC,SC,SNP,SNP,3,8
+2286,Graham ROSS (Ind),LD,Con,TUSC,Lab,skipped,skipped,skipped,3,8
+2287,Graham ROSS (Ind),LD,Con,SC,skipped,skipped,skipped,skipped,3,8
+2288,Graham ROSS (Ind),LD,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2289,Graham ROSS (Ind),LD,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2290,Graham ROSS (Ind),LD,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2291,Graham ROSS (Ind),LD,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2292,Graham ROSS (Ind),LD,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2293,Graham ROSS (Ind),LD,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2294,Graham ROSS (Ind),LD,TUSC,SC,SNP,SNP,Con,Lab,3,8
+2295,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2296,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2297,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2298,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2299,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2300,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2301,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2302,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2303,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2304,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2305,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2306,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2307,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2308,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2309,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2310,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2311,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2312,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2313,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2314,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2315,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2316,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2317,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2318,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2319,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2320,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2321,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2322,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2323,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2324,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2325,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2326,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2327,Graham ROSS (Ind),LD,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2328,Graham ROSS (Ind),LD,SNP,SNP,skipped,skipped,skipped,skipped,3,8
+2329,Graham ROSS (Ind),LD,SNP,SNP,skipped,skipped,skipped,skipped,3,8
+2330,Graham ROSS (Ind),LD,SNP,SNP,skipped,skipped,skipped,skipped,3,8
+2331,Graham ROSS (Ind),LD,SNP,SNP,skipped,skipped,skipped,skipped,3,8
+2332,Graham ROSS (Ind),LD,SNP,SNP,Lab,Con,TUSC,SC,3,8
+2333,Graham ROSS (Ind),LD,SNP,SNP,Lab,Con,TUSC,SC,3,8
+2334,Graham ROSS (Ind),LD,SNP,SNP,Lab,SC,TUSC,Con,3,8
+2335,Graham ROSS (Ind),LD,SNP,SNP,Lab,SC,TUSC,Con,3,8
+2336,Graham ROSS (Ind),LD,SNP,Lab,Con,skipped,skipped,skipped,3,8
+2337,Graham ROSS (Ind),LD,SNP,Lab,TUSC,SC,SNP,Con,3,8
+2338,Graham ROSS (Ind),LD,SNP,TUSC,skipped,skipped,skipped,skipped,3,8
+2339,Graham ROSS (Ind),LD,SNP,SC,skipped,skipped,skipped,skipped,3,8
+2340,Graham ROSS (Ind),LD,SNP,SC,skipped,skipped,skipped,skipped,3,8
+2341,Graham ROSS (Ind),LD,SNP,SC,TUSC,Con,SNP,Lab,3,8
+2342,Graham ROSS (Ind),LD,SC,skipped,skipped,skipped,skipped,skipped,3,8
+2343,Graham ROSS (Ind),LD,SC,skipped,skipped,skipped,skipped,skipped,3,8
+2344,Graham ROSS (Ind),LD,SC,skipped,skipped,skipped,skipped,skipped,3,8
+2345,Graham ROSS (Ind),LD,SC,skipped,skipped,skipped,skipped,skipped,3,8
+2346,Graham ROSS (Ind),LD,SC,SNP,Lab,skipped,skipped,skipped,3,8
+2347,Graham ROSS (Ind),LD,SC,SNP,TUSC,Con,SNP,Lab,3,8
+2348,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2349,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2350,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2351,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2352,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2353,Graham ROSS (Ind),TUSC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2354,Graham ROSS (Ind),TUSC,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2355,Graham ROSS (Ind),TUSC,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2356,Graham ROSS (Ind),TUSC,SNP,SNP,Lab,skipped,skipped,skipped,3,8
+2357,Graham ROSS (Ind),TUSC,SNP,SNP,LD,SC,Lab,Con,3,8
+2358,Graham ROSS (Ind),TUSC,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2359,Graham ROSS (Ind),TUSC,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2360,Graham ROSS (Ind),TUSC,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2361,Graham ROSS (Ind),TUSC,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2362,Graham ROSS (Ind),TUSC,Lab,LD,skipped,skipped,skipped,skipped,3,8
+2363,Graham ROSS (Ind),TUSC,Lab,LD,SNP,SC,SNP,Con,3,8
+2364,Graham ROSS (Ind),TUSC,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2365,Graham ROSS (Ind),TUSC,Con,SC,LD,SNP,Lab,SNP,3,8
+2366,Graham ROSS (Ind),TUSC,Con,SC,LD,SNP,Lab,SNP,3,8
+2367,Graham ROSS (Ind),TUSC,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2368,Graham ROSS (Ind),TUSC,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2369,Graham ROSS (Ind),TUSC,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2370,Graham ROSS (Ind),TUSC,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2371,Graham ROSS (Ind),TUSC,SNP,SNP,skipped,skipped,skipped,skipped,3,8
+2372,Graham ROSS (Ind),TUSC,SC,skipped,skipped,skipped,skipped,skipped,3,8
+2373,Graham ROSS (Ind),TUSC,SC,skipped,skipped,skipped,skipped,skipped,3,8
+2374,Graham ROSS (Ind),TUSC,SC,skipped,skipped,skipped,skipped,skipped,3,8
+2375,Graham ROSS (Ind),TUSC,SC,skipped,skipped,skipped,skipped,skipped,3,8
+2376,Graham ROSS (Ind),TUSC,SC,SNP,SNP,Lab,LD,Con,3,8
+2377,Graham ROSS (Ind),TUSC,SC,Lab,SNP,Con,SNP,LD,3,8
+2378,Graham ROSS (Ind),TUSC,SC,Lab,LD,skipped,skipped,skipped,3,8
+2379,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2380,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2381,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2382,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2383,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2384,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2385,Graham ROSS (Ind),SNP,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2386,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2387,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2388,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2389,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2390,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2391,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2392,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2393,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2394,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2395,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2396,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2397,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2398,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2399,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2400,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2401,Graham ROSS (Ind),SNP,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2402,Graham ROSS (Ind),SNP,SNP,Lab,skipped,skipped,skipped,skipped,3,8
+2403,Graham ROSS (Ind),SNP,SNP,Lab,LD,TUSC,SC,Con,3,8
+2404,Graham ROSS (Ind),SNP,SNP,Lab,SC,LD,TUSC,Con,3,8
+2405,Graham ROSS (Ind),SNP,SNP,LD,skipped,skipped,skipped,skipped,3,8
+2406,Graham ROSS (Ind),SNP,SNP,LD,skipped,skipped,skipped,skipped,3,8
+2407,Graham ROSS (Ind),SNP,SNP,LD,Con,skipped,skipped,skipped,3,8
+2408,Graham ROSS (Ind),SNP,SNP,LD,TUSC,Con,Lab,skipped,3,8
+2409,Graham ROSS (Ind),SNP,SNP,LD,TUSC,SC,Con,Lab,3,8
+2410,Graham ROSS (Ind),SNP,SNP,TUSC,skipped,skipped,skipped,skipped,3,8
+2411,Graham ROSS (Ind),SNP,SNP,TUSC,SC,Lab,LD,Con,3,8
+2412,Graham ROSS (Ind),SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2413,Graham ROSS (Ind),SNP,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2414,Graham ROSS (Ind),SNP,Lab,SNP,skipped,skipped,skipped,skipped,3,8
+2415,Graham ROSS (Ind),SNP,Lab,LD,skipped,skipped,skipped,skipped,3,8
+2416,Graham ROSS (Ind),SNP,Lab,LD,TUSC,SC,Con,SNP,3,8
+2417,Graham ROSS (Ind),SNP,Con,SNP,skipped,skipped,skipped,skipped,3,8
+2418,Graham ROSS (Ind),SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2419,Graham ROSS (Ind),SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2420,Graham ROSS (Ind),SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2421,Graham ROSS (Ind),SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2422,Graham ROSS (Ind),SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2423,Graham ROSS (Ind),SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2424,Graham ROSS (Ind),SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2425,Graham ROSS (Ind),SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2426,Graham ROSS (Ind),SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2427,Graham ROSS (Ind),SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2428,Graham ROSS (Ind),SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2429,Graham ROSS (Ind),SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2430,Graham ROSS (Ind),SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2431,Graham ROSS (Ind),SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2432,Graham ROSS (Ind),SNP,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2433,Graham ROSS (Ind),SNP,LD,SNP,Lab,skipped,skipped,skipped,3,8
+2434,Graham ROSS (Ind),SNP,LD,SNP,Lab,TUSC,skipped,skipped,3,8
+2435,Graham ROSS (Ind),SNP,LD,SNP,Con,Lab,SC,TUSC,3,8
+2436,Graham ROSS (Ind),SNP,LD,SC,skipped,skipped,skipped,skipped,3,8
+2437,Graham ROSS (Ind),SNP,LD,SC,TUSC,Con,SNP,Lab,3,8
+2438,Graham ROSS (Ind),SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2439,Graham ROSS (Ind),SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2440,Graham ROSS (Ind),SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2441,Graham ROSS (Ind),SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2442,Graham ROSS (Ind),SNP,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2443,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2444,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2445,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2446,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2447,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2448,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2449,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2450,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2451,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2452,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2453,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2454,Graham ROSS (Ind),SC,skipped,skipped,skipped,skipped,skipped,skipped,3,8
+2455,Graham ROSS (Ind),SC,Lab,skipped,skipped,skipped,skipped,skipped,3,8
+2456,Graham ROSS (Ind),SC,Lab,LD,skipped,skipped,skipped,skipped,3,8
+2457,Graham ROSS (Ind),SC,Con,skipped,skipped,skipped,skipped,skipped,3,8
+2458,Graham ROSS (Ind),SC,Con,LD,Lab,skipped,skipped,skipped,3,8
+2459,Graham ROSS (Ind),SC,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2460,Graham ROSS (Ind),SC,LD,skipped,skipped,skipped,skipped,skipped,3,8
+2461,Graham ROSS (Ind),SC,LD,TUSC,skipped,skipped,skipped,skipped,3,8
+2462,Graham ROSS (Ind),SC,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2463,Graham ROSS (Ind),SC,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2464,Graham ROSS (Ind),SC,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2465,Graham ROSS (Ind),SC,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2466,Graham ROSS (Ind),SC,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2467,Graham ROSS (Ind),SC,TUSC,skipped,skipped,skipped,skipped,skipped,3,8
+2468,Graham ROSS (Ind),SC,TUSC,SNP,SNP,skipped,skipped,skipped,3,8
+2469,Graham ROSS (Ind),SC,TUSC,Lab,SNP,SNP,LD,Con,3,8
+2470,Graham ROSS (Ind),SC,SNP,skipped,skipped,skipped,skipped,skipped,3,8
+2471,Graham ROSS (Ind),SC,SNP,Con,skipped,skipped,skipped,skipped,3,8

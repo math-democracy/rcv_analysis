@@ -27,11 +27,11 @@ def calculate_borda(file):
 # calculate_borda('/Users/belle/Desktop/build/rcv_proposal/raw_data/australia/processed_data/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Northcote with candidates.csv')
 
 
-processed_file = './civs_processed.txt'
+processed_file = './american_processed.txt'
 
-root_dir = '/Users/belle/Desktop/build/rcv_proposal/raw_data/civs/processed_data'
-error_file = './civs_error.txt'
-output_file = './civs_mention_scores.json'
+root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/america/processed_data'
+error_file = './american_error.txt'
+output_file = './american_mention_scores.json'
 
 def process_file(file_path, filename):
     print("processing: ",file_path)
@@ -47,7 +47,7 @@ def process_file(file_path, filename):
     
     data[filename] = scores
     
-    with open(output_file, "w") as json_file:
+    with open(output_file, "a") as json_file:
         json.dump(data, json_file, indent=4)
     
     with open(processed_file, "a") as ef:
@@ -78,4 +78,5 @@ def main():
                         print("\n")
             
 if __name__ == '__main__':
-    main()
+    #main()
+    process_file('american/Cambridge, MA/Cambridge_11042003_SchoolCommittee.csv','Cambridge_11042003_SchoolCommittee.csv')

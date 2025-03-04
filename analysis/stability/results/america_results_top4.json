@@ -7,8 +7,8 @@
             "IRV": 0,
             "top-two": 4,
             "borda-pm": 10,
-            "borda-om-no-uwi": 8,
-            "borda-avg-no-uwi": 6,
+            "borda-om": 8,
+            "borda-avg": 6,
             "top-3-truncation": 12,
             "condorcet": 0,
             "minimax": 0,
@@ -16,7 +16,7 @@
             "smith_irv": 0,
             "smith-minimax": 0,
             "ranked-pairs": 0,
-            "bucklin": 9,
+            "bucklin": 6,
             "approval": 0
         },
         "file_summary": {
@@ -50,7 +50,7 @@
                 "raw_data/america/processed_data/Cambridge, MA/Cambridge_11032015_CityCouncil.csv",
                 "raw_data/america/processed_data/Cambridge, MA/Cambridge_11082005_CityCouncil.csv"
             ],
-            "borda-om-no-uwi": [
+            "borda-om": [
                 "raw_data/america/processed_data/Portland, ME/Portland_06082021_charter_commission_at_large.csv",
                 "raw_data/america/processed_data/San Francisco/SanFrancisco_06052018_Mayor.csv",
                 "raw_data/america/processed_data/San Francisco/SanFrancisco_11052024_BoS_D11.csv",
@@ -60,7 +60,7 @@
                 "raw_data/america/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember36thCouncilDistrict.csv",
                 "raw_data/america/processed_data/Cambridge, MA/Cambridge_11062001_CityCouncil.csv"
             ],
-            "borda-avg-no-uwi": [
+            "borda-avg": [
                 "raw_data/america/processed_data/Alaska/Alaska_11052024_US_House.csv",
                 "raw_data/america/processed_data/Pierce County, WA/PierceCounty_11042008_CountyAssessorTreasurer.csv",
                 "raw_data/america/processed_data/Portland, ME/Portland_06082021_charter_commission_at_large.csv",
@@ -89,15 +89,12 @@
             "smith-minimax": [],
             "ranked-pairs": [],
             "bucklin": [
-                "raw_data/america/processed_data/Alaska/Alaska_11052024_US_House.csv",
-                "raw_data/america/processed_data/Minneapolis/Minneapolis_11022021_Mayor.csv",
-                "raw_data/america/processed_data/Pierce County, WA/PierceCounty_11042008_CountyAssessorTreasurer.csv",
                 "raw_data/america/processed_data/Portland, ME/Portland_06082021_charter_commission_at_large.csv",
-                "raw_data/america/processed_data/Alameda County/Oakland_11082016_SchoolDirectorDistrict3.csv",
+                "raw_data/america/processed_data/APA/APA 1999.csv",
+                "raw_data/america/processed_data/APA/APA 2009.csv",
                 "raw_data/america/processed_data/Alameda County/Oakland_11052024_CityCouncil_AtLarge.csv",
-                "raw_data/america/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember9thCouncilDistrict.csv",
-                "raw_data/america/processed_data/New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv",
-                "raw_data/america/processed_data/Cambridge, MA/Cambridge_11082011_SchoolCommittee.csv"
+                "raw_data/america/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember25thCouncilDistrict.csv",
+                "raw_data/america/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember36thCouncilDistrict.csv"
             ],
             "approval": []
         }
@@ -1087,18 +1084,13 @@
         },
         "raw_data/america/processed_data/Alaska/Alaska_11052024_US_House.csv": {
             "changes": {
-                "borda-avg-no-uwi": {
-                    "numCands": 6,
+                "borda-avg": {
+                    "numCands": 5,
                     "baseline_winner": "['Begich, Nick']",
                     "top4": "['Peltola, Mary S.']"
                 },
                 "top-3-truncation": {
-                    "numCands": 6,
-                    "baseline_winner": "['Begich, Nick']",
-                    "top4": "['Peltola, Mary S.']"
-                },
-                "bucklin": {
-                    "numCands": 6,
+                    "numCands": 5,
                     "baseline_winner": "['Begich, Nick']",
                     "top4": "['Peltola, Mary S.']"
                 }
@@ -1148,17 +1140,17 @@
         "raw_data/america/processed_data/Minneapolis/Minneapolis_11072017_ParkBoardAtLarge.csv": {
             "changes": {
                 "plurality": {
-                    "numCands": 12,
+                    "numCands": 11,
                     "baseline_winner": "['Meg Forney']",
                     "top4": "['Latrisha Vetaw']"
                 },
                 "borda-pm": {
-                    "numCands": 12,
+                    "numCands": 11,
                     "baseline_winner": "['Meg Forney']",
                     "top4": "['Latrisha Vetaw']"
                 },
                 "top-3-truncation": {
-                    "numCands": 12,
+                    "numCands": 11,
                     "baseline_winner": "['Meg Forney']",
                     "top4": "['Latrisha Vetaw']"
                 }
@@ -1320,13 +1312,7 @@
             }
         },
         "raw_data/america/processed_data/Minneapolis/Minneapolis_11022021_Mayor.csv": {
-            "changes": {
-                "bucklin": {
-                    "numCands": 20,
-                    "baseline_winner": "['Jacob Frey']",
-                    "top4": "['Kate Knuth']"
-                }
-            },
+            "changes": {},
             "candidates": {
                 "Jacob Frey": 61620,
                 "Sheila Nezhad": 30368,
@@ -1874,7 +1860,7 @@
         "raw_data/america/processed_data/Minneapolis/Minneapolis_11052013_Ward13CityCouncil.csv": {
             "changes": {
                 "borda-pm": {
-                    "numCands": 7,
+                    "numCands": 6,
                     "baseline_winner": "['MATT PERRY']",
                     "top4": "['LINEA PALMISANO']"
                 }
@@ -2013,7 +1999,7 @@
         "raw_data/america/processed_data/Pierce County, WA/PierceCounty_11042008_CountyExecutiveMember.csv": {
             "changes": {
                 "borda-pm": {
-                    "numCands": 6,
+                    "numCands": 5,
                     "baseline_winner": "['Pat McCarthy']",
                     "top4": "['Shawn Bunney']"
                 }
@@ -2038,19 +2024,14 @@
         "raw_data/america/processed_data/Pierce County, WA/PierceCounty_11042008_CountyAssessorTreasurer.csv": {
             "changes": {
                 "borda-pm": {
-                    "numCands": 8,
+                    "numCands": 7,
                     "baseline_winner": "['Jan Shabro']",
                     "top4": "['Dale Washam']"
                 },
-                "borda-avg-no-uwi": {
-                    "numCands": 8,
+                "borda-avg": {
+                    "numCands": 7,
                     "baseline_winner": "['Jan Shabro']",
                     "top4": "['Dale Washam']"
-                },
-                "bucklin": {
-                    "numCands": 8,
-                    "baseline_winner": "['Jan Shabro']",
-                    "top4": "['Terry Lee']"
                 }
             },
             "candidates": {
@@ -2118,24 +2099,24 @@
         },
         "raw_data/america/processed_data/Portland, ME/Portland_06082021_charter_commission_at_large.csv": {
             "changes": {
-                "borda-om-no-uwi": {
-                    "numCands": 12,
+                "borda-om": {
+                    "numCands": 11,
                     "baseline_winner": "['Sheikh-Yousef, Nasreen A.']",
                     "top4": "['Chann, Marpheen S.']"
                 },
-                "borda-avg-no-uwi": {
-                    "numCands": 12,
+                "borda-avg": {
+                    "numCands": 11,
                     "baseline_winner": "['Sheikh-Yousef, Nasreen A.']",
                     "top4": "['Chann, Marpheen S.']"
                 },
                 "top-3-truncation": {
-                    "numCands": 12,
+                    "numCands": 11,
                     "baseline_winner": "['Sheikh-Yousef, Nasreen A.']",
                     "top4": "['Chann, Marpheen S.']"
                 },
                 "bucklin": {
-                    "numCands": 12,
-                    "baseline_winner": "['Buxton, Catherine A.']",
+                    "numCands": 11,
+                    "baseline_winner": "['Sheikh-Yousef, Nasreen A.']",
                     "top4": "['Chann, Marpheen S.']"
                 }
             },
@@ -2386,7 +2367,7 @@
         "raw_data/america/processed_data/Utah cities/Moab_11022021_CityCouncil.csv": {
             "changes": {
                 "top-3-truncation": {
-                    "numCands": 7,
+                    "numCands": 6,
                     "baseline_winner": "['JASON TAYLOR']",
                     "top4": "['LUKE WOJCIECHOWSKI']"
                 }
@@ -2660,7 +2641,13 @@
             }
         },
         "raw_data/america/processed_data/APA/APA 1999.csv": {
-            "changes": {},
+            "changes": {
+                "bucklin": {
+                    "numCands": 5,
+                    "baseline_winner": "['Cand 3']",
+                    "top4": "['Cand 2']"
+                }
+            },
             "candidates": {
                 "Cand 3": 4353,
                 "Cand 2": 4276,
@@ -2786,9 +2773,14 @@
         "raw_data/america/processed_data/APA/APA 2009.csv": {
             "changes": {
                 "top-3-truncation": {
-                    "numCands": 6,
+                    "numCands": 5,
                     "baseline_winner": "['Cand 4']",
                     "top4": "['Cand 0']"
+                },
+                "bucklin": {
+                    "numCands": 5,
+                    "baseline_winner": "['Cand 0']",
+                    "top4": "['Cand 4']"
                 }
             },
             "candidates": {
@@ -3016,7 +3008,7 @@
         "raw_data/america/processed_data/Alameda County/Oakland_11082022_Mayor.csv": {
             "changes": {
                 "borda-pm": {
-                    "numCands": 12,
+                    "numCands": 11,
                     "baseline_winner": "['SHENG THAO']",
                     "top4": "['LOREN MANUEL TAYLOR']"
                 }
@@ -3084,13 +3076,7 @@
             }
         },
         "raw_data/america/processed_data/Alameda County/Oakland_11082016_SchoolDirectorDistrict3.csv": {
-            "changes": {
-                "bucklin": {
-                    "numCands": 6,
-                    "baseline_winner": "['JUMOKE HINTON HODGE']",
-                    "top4": "[\"KHARYSHI ''MS. K'' WIGINTON\"]"
-                }
-            },
+            "changes": {},
             "candidates": {
                 "JUMOKE HINTON HODGE": 8905,
                 "KHARYSHI ''MS. K'' WIGINTON": 7400,
@@ -3489,7 +3475,7 @@
         "raw_data/america/processed_data/Alameda County/Berkeley_05282024_Citycouncildistrict4specialelection.csv": {
             "changes": {
                 "plurality": {
-                    "numCands": 6,
+                    "numCands": 5,
                     "baseline_winner": "['IGOR A. TREGUB']",
                     "top4": "['RUBEN STORY']"
                 }
@@ -3666,7 +3652,7 @@
         "raw_data/america/processed_data/Alameda County/Oakland_11052024_CityCouncil_AtLarge.csv": {
             "changes": {
                 "bucklin": {
-                    "numCands": 12,
+                    "numCands": 11,
                     "baseline_winner": "['CHARLENE WANG']",
                     "top4": "['ROWENA BROWN']"
                 }
@@ -4056,17 +4042,17 @@
         "raw_data/america/processed_data/San Francisco/SanFrancisco_06052018_Mayor.csv": {
             "changes": {
                 "borda-pm": {
-                    "numCands": 10,
+                    "numCands": 9,
                     "baseline_winner": "['MARK LENO']",
                     "top4": "['LONDON BREED']"
                 },
-                "borda-om-no-uwi": {
-                    "numCands": 10,
+                "borda-om": {
+                    "numCands": 9,
                     "baseline_winner": "['MARK LENO']",
                     "top4": "['LONDON BREED']"
                 },
-                "borda-avg-no-uwi": {
-                    "numCands": 10,
+                "borda-avg": {
+                    "numCands": 9,
                     "baseline_winner": "['MARK LENO']",
                     "top4": "['LONDON BREED']"
                 }
@@ -4092,8 +4078,8 @@
         },
         "raw_data/america/processed_data/San Francisco/SanFrancisco_11052024_BoS_D11.csv": {
             "changes": {
-                "borda-om-no-uwi": {
-                    "numCands": 8,
+                "borda-om": {
+                    "numCands": 7,
                     "baseline_winner": "['MICHAEL LAI']",
                     "top4": "['CHYANNE CHEN']"
                 }
@@ -4177,8 +4163,8 @@
         },
         "raw_data/america/processed_data/San Francisco/SanFrancisco_11052024_BoS_D1.csv": {
             "changes": {
-                "borda-om-no-uwi": {
-                    "numCands": 6,
+                "borda-om": {
+                    "numCands": 5,
                     "baseline_winner": "['MARJAN PHILHOUR']",
                     "top4": "['CONNIE CHAN']"
                 }
@@ -4276,8 +4262,8 @@
         },
         "raw_data/america/processed_data/San Francisco/SanFrancisco_11052019_DistrictAttorney.csv": {
             "changes": {
-                "borda-avg-no-uwi": {
-                    "numCands": 6,
+                "borda-avg": {
+                    "numCands": 5,
                     "baseline_winner": "['SUZY LOFTUS']",
                     "top4": "['CHESA BOUDIN']"
                 }
@@ -4334,8 +4320,8 @@
         },
         "raw_data/america/processed_data/San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict7.csv": {
             "changes": {
-                "borda-om-no-uwi": {
-                    "numCands": 10,
+                "borda-om": {
+                    "numCands": 9,
                     "baseline_winner": "['NORMAN YEE']",
                     "top4": "['F. X. FRANCIS XAVIER CROWLEY']"
                 }
@@ -4611,7 +4597,7 @@
         "raw_data/america/processed_data/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict4.csv": {
             "changes": {
                 "plurality": {
-                    "numCands": 8,
+                    "numCands": 7,
                     "baseline_winner": "['Ed Jew']",
                     "top4": "['Ron Dudum']"
                 }
@@ -4658,7 +4644,7 @@
         "raw_data/america/processed_data/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT1.csv": {
             "changes": {
                 "borda-pm": {
-                    "numCands": 8,
+                    "numCands": 7,
                     "baseline_winner": "['MARJAN PHILHOUR']",
                     "top4": "['CONNIE CHAN']"
                 }
@@ -4814,12 +4800,12 @@
         "raw_data/america/processed_data/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict10.csv": {
             "changes": {
                 "plurality": {
-                    "numCands": 23,
+                    "numCands": 22,
                     "baseline_winner": "['LYNETTE SWEET']",
                     "top4": "['MALIA COHEN']"
                 },
                 "top-two": {
-                    "numCands": 23,
+                    "numCands": 22,
                     "baseline_winner": "['LYNETTE SWEET']",
                     "top4": "['MALIA COHEN']"
                 }
@@ -5291,7 +5277,7 @@
         "raw_data/america/processed_data/New York City/NewYorkCity_06222021_DEMComptrollerCitywide.csv": {
             "changes": {
                 "top-3-truncation": {
-                    "numCands": 12,
+                    "numCands": 11,
                     "baseline_winner": "['Brad Lander']",
                     "top4": "['Corey D. Johnson']"
                 }
@@ -5368,8 +5354,8 @@
         },
         "raw_data/america/processed_data/New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv": {
             "changes": {
-                "borda-om-no-uwi": {
-                    "numCands": 7,
+                "borda-om": {
+                    "numCands": 6,
                     "baseline_winner": "['Fernando Cabrera']",
                     "top4": "['Vanessa L. Gibson']"
                 }
@@ -5396,7 +5382,13 @@
             }
         },
         "raw_data/america/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember25thCouncilDistrict.csv": {
-            "changes": {},
+            "changes": {
+                "bucklin": {
+                    "numCands": 9,
+                    "baseline_winner": "['Yi Andy Chen']",
+                    "top4": "['Shekar Krishnan']"
+                }
+            },
             "candidates": {
                 "Yi Andy Chen": 4014,
                 "Shekar Krishnan": 3915,
@@ -5473,18 +5465,13 @@
         "raw_data/america/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember9thCouncilDistrict.csv": {
             "changes": {
                 "borda-pm": {
-                    "numCands": 15,
+                    "numCands": 14,
                     "baseline_winner": "['Kristin Richardson Jordan']",
                     "top4": "['Bill Perkins']"
                 },
                 "top-3-truncation": {
-                    "numCands": 15,
+                    "numCands": 14,
                     "baseline_winner": "['Bill Perkins']",
-                    "top4": "['Kristin Richardson Jordan']"
-                },
-                "bucklin": {
-                    "numCands": 15,
-                    "baseline_winner": "['Athena Moore']",
                     "top4": "['Kristin Richardson Jordan']"
                 }
             },
@@ -5543,18 +5530,13 @@
         },
         "raw_data/america/processed_data/New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv": {
             "changes": {
-                "borda-avg-no-uwi": {
-                    "numCands": 7,
+                "borda-avg": {
+                    "numCands": 6,
                     "baseline_winner": "['Marko Kepi']",
                     "top4": "['David M. Carr']"
                 },
                 "top-3-truncation": {
-                    "numCands": 7,
-                    "baseline_winner": "['Marko Kepi']",
-                    "top4": "['David M. Carr']"
-                },
-                "bucklin": {
-                    "numCands": 7,
+                    "numCands": 6,
                     "baseline_winner": "['Marko Kepi']",
                     "top4": "['David M. Carr']"
                 }
@@ -5578,8 +5560,13 @@
         },
         "raw_data/america/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember36thCouncilDistrict.csv": {
             "changes": {
-                "borda-om-no-uwi": {
-                    "numCands": 7,
+                "borda-om": {
+                    "numCands": 6,
+                    "baseline_winner": "['Tahirah A. Moore']",
+                    "top4": "['Chi A. Osse']"
+                },
+                "bucklin": {
+                    "numCands": 6,
                     "baseline_winner": "['Tahirah A. Moore']",
                     "top4": "['Chi A. Osse']"
                 }
@@ -5776,12 +5763,12 @@
         "raw_data/america/processed_data/Cambridge, MA/Cambridge_11072017_CityCouncil.csv": {
             "changes": {
                 "plurality": {
-                    "numCands": 28,
+                    "numCands": 27,
                     "baseline_winner": "['Simmons, E. Denise']",
                     "top4": "['Siddiqui, Sumbul']"
                 },
                 "top-3-truncation": {
-                    "numCands": 28,
+                    "numCands": 27,
                     "baseline_winner": "['Simmons, E. Denise']",
                     "top4": "['Siddiqui, Sumbul']"
                 }
@@ -5818,8 +5805,8 @@
         },
         "raw_data/america/processed_data/Cambridge, MA/Cambridge_11062001_CityCouncil.csv": {
             "changes": {
-                "borda-om-no-uwi": {
-                    "numCands": 21,
+                "borda-om": {
+                    "numCands": 20,
                     "baseline_winner": "['Galluccio, Anthony D.']",
                     "top4": "['Davis, Henrietta']"
                 }
@@ -5877,7 +5864,7 @@
         "raw_data/america/processed_data/Cambridge, MA/Cambridge_11062007_SchoolCommittee.csv": {
             "changes": {
                 "plurality": {
-                    "numCands": 11,
+                    "numCands": 10,
                     "baseline_winner": "['McGovern, Marc C.']",
                     "top4": "['Fantini, Alfred B.']"
                 }
@@ -5965,7 +5952,7 @@
         "raw_data/america/processed_data/Cambridge, MA/Cambridge_11152019_SchoolCommittee.csv": {
             "changes": {
                 "plurality": {
-                    "numCands": 15,
+                    "numCands": 14,
                     "baseline_winner": "['Bowman, Mannika L.']",
                     "top4": "['Dexter, Emily R.']"
                 }
@@ -6005,19 +5992,14 @@
         "raw_data/america/processed_data/Cambridge, MA/Cambridge_11082011_SchoolCommittee.csv": {
             "changes": {
                 "plurality": {
-                    "numCands": 14,
+                    "numCands": 13,
                     "baseline_winner": "['Fantini, Alfred B.']",
                     "top4": "['Turkel, Alice L.']"
                 },
                 "top-two": {
-                    "numCands": 14,
+                    "numCands": 13,
                     "baseline_winner": "['Nolan, Patricia M.']",
                     "top4": "['Turkel, Alice L.']"
-                },
-                "bucklin": {
-                    "numCands": 14,
-                    "baseline_winner": "['Turkel, Alice L.']",
-                    "top4": "['Nolan, Patricia M.']"
                 }
             },
             "candidates": {
@@ -6119,12 +6101,12 @@
         "raw_data/america/processed_data/Cambridge, MA/Cambridge_11032015_CityCouncil.csv": {
             "changes": {
                 "borda-pm": {
-                    "numCands": 25,
+                    "numCands": 24,
                     "baseline_winner": "['Simmons, E. Denise']",
                     "top4": "['Mazen, Nadeem A.']"
                 },
                 "top-3-truncation": {
-                    "numCands": 25,
+                    "numCands": 24,
                     "baseline_winner": "['Mazen, Nadeem A.']",
                     "top4": "['Simmons, E. Denise']"
                 }
@@ -6159,17 +6141,17 @@
         "raw_data/america/processed_data/Cambridge, MA/Cambridge_11082005_CityCouncil.csv": {
             "changes": {
                 "top-two": {
-                    "numCands": 20,
+                    "numCands": 19,
                     "baseline_winner": "['Decker, Marjorie C.']",
                     "top4": "['Davis, Henrietta']"
                 },
                 "borda-pm": {
-                    "numCands": 20,
+                    "numCands": 19,
                     "baseline_winner": "['Galluccio, Anthony D.']",
                     "top4": "['Decker, Marjorie C.']"
                 },
                 "top-3-truncation": {
-                    "numCands": 20,
+                    "numCands": 19,
                     "baseline_winner": "['Galluccio, Anthony D.']",
                     "top4": "['Decker, Marjorie C.']"
                 }
@@ -6199,7 +6181,7 @@
         "raw_data/america/processed_data/Cambridge, MA/Cambridge_11042003_CityCouncil.csv": {
             "changes": {
                 "plurality": {
-                    "numCands": 23,
+                    "numCands": 22,
                     "baseline_winner": "['Galluccio, Anthony D.']",
                     "top4": "['Davis, Henrietta']"
                 }
@@ -6231,12 +6213,12 @@
         "raw_data/america/processed_data/Cambridge, MA/Cambridge_11082005_SchoolCommittee.csv": {
             "changes": {
                 "top-two": {
-                    "numCands": 12,
+                    "numCands": 11,
                     "baseline_winner": "['Nolan, Patricia M.']",
                     "top4": "['Walser, Nancy']"
                 },
                 "top-3-truncation": {
-                    "numCands": 12,
+                    "numCands": 11,
                     "baseline_winner": "['Nolan, Patricia M.']",
                     "top4": "['Walser, Nancy']"
                 }

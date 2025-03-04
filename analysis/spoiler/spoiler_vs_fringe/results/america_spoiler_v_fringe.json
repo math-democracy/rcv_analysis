@@ -1,0 +1,1511 @@
+{
+    "american/Alaska/Alaska_08162022_HouseofRepresentativesSpecial.csv": {
+        "Palin, Sarah": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Alaska/Alaska_11082022_HouseDistrict18.csv": {
+        "Franks, Lyn D.": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Alaska/Alaska_11082022_HouseDistrict6.csv": {
+        "Bryant, Ginger": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Alaska/Alaska_11082022_HouseDistrict15.csv": {
+        "Eibeck, David": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Alaska/Alaska_11082022_HouseDistrict11.csv": {
+        "Bieling, Ross P.": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Alaska/Alaska_11052024_US_House.csv": {
+        "Hafner, Eric": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": true,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        }
+    },
+    "american/Minneapolis/Minneapolis_11072017_ParkBoardAtLarge.csv": {
+        "Russ Henry": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Devin Hogan": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Scott Vreeland": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": true,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "Londel French": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Minneapolis/Minneapolis_11072017_Ward6CityCouncil.csv": {
+        "Mohamud Noor": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Tiffini Forslund": {
+            "borda_lt_0.1": true,
+            "borda_lt_0.2": true,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": true,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        }
+    },
+    "american/Minneapolis/Minneapolis_11072017_Ward3CityCouncil.csv": {
+        "Steve Fletcher": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Tim Bildsoe": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Minneapolis/Minneapolis_11022021_CityCouncilWard2.csv": {
+        "Yusra Arab": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Tom Anderson": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Minneapolis/Minneapolis_11072017_Ward4CityCouncil.csv": {
+        "Stephanie Gasca": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Minneapolis/Minneapolis_11062009_MinneapolisParkRecBoard.csv": {
+        "John Erwin": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Minneapolis/Minneapolis_11022021_CityCouncilWard9.csv": {
+        "Mickey Moore": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "Ross Tenneson": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        }
+    },
+    "american/Minneapolis/Minneapolis 2013-board of estimation and taxation cvr.csv": {
+        "DAVID PASCOE": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": true
+        },
+        "CAROL J. BECKER": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "DAVID B WHEELER": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "UWI": {
+            "borda_lt_0.1": true,
+            "borda_lt_0.2": true,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": true,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "DOUGLAS SEMBLA": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        }
+    },
+    "american/Minneapolis/Minneapolis_11022021_ParkBoardDistrict6.csv": {
+        "Bob Fine": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Cathy Abene": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Barb Schlaefer": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Risa Hustad": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Pierce County, WA/PierceCounty_11042008_CountyExecutiveMember.csv": {
+        "Pat McCarthy": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Calvin Goings": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Pierce County, WA/PierceCounty_11042008_CountyAssessorTreasurer.csv": {
+        "Terry Lee": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Beverly Davidson": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Bernardo Tuma": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": true
+        }
+    },
+    "american/Maine/Maine_11062018_CongressionalDistrict2.csv": {
+        "Bond, Tiffany L.": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Utah cities/Moab_11022021_CityCouncil.csv": {
+        "LUKE WOJCIECHOWSKI": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "RANDALL FOX": {
+            "borda_lt_0.1": true,
+            "borda_lt_0.2": true,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": true,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "JOSIE KOVASH": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "MIKE MCCURDY": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "ANTHONY CHARLES": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Burlington/Burlington_03032009_Mayor.csv": {
+        "Bob Kiss": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Kurt Wright": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/APA/APA 2005.csv": {
+        "Cand 3": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/APA/APA 2007.csv": {
+        "Cand 3": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/APA/APA 1999.csv": {
+        "Cand 2": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Cand 0": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/APA/APA 2020 BOD race2.csv": {
+        "Jeremy M. Wolfe PhD": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/APA/APA 2009.csv": {
+        "Cand 1": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Cand 3": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Cand 2": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Alameda County/Berkeley_11042014_CityCouncilDistrict8.csv": {
+        "MIKE ALVAREZ COHEN": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "LORI DROSTE": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "GEORGE BEIER": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Alameda County/Oakland_11082016_SchoolDirectorDistrict5.csv": {
+        "MIKE HUTCHINSON": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Alameda County/Oakland_11062018_CityCouncilDistrict4.csv": {
+        "PAM HARRIS": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "CHARLIE MICHELSON": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "SHENG THAO": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Alameda County/Oakland_11062012_CityCouncilDistrict3.csv": {
+        "NYEISHA DEWITT": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Alameda County/Oakland_11062012_CityCouncilDistrict1.csv": {
+        "DAN KALB": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "DONALD MACLEAY": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "RICHARD RAYA": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Alameda County/Berkeley_05282024_Citycouncildistrict4specialelection.csv": {
+        "ELANA AUERBACH": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Alameda County/Oakland_11082022_Schoolboarddistrict4.csv": {
+        "PECOLIA MANIGO": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "NICK RESNICK": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Alameda County/Berkeley_11082016_CityCouncilDistrict2.csv": {
+        "NANCI IRA ARMSTRONG-TEMPLE": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Alameda County/SanLeandro_11022010_Mayor.csv": {
+        "JOYCE RUTLEDGE STAROSCIAK": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/San Francisco/SanFrancisco_06052018_Mayor.csv": {
+        "JANE KIM": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/San Francisco/SanFrancisco_11052024_BoS_D11.csv": {
+        "ERNEST \"EJ\" JONES": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/San Francisco/SanFrancisco_11052024_BoS_D5.csv": {
+        "SCOTTY JACOBS": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "AUTUMN HOPE LOOIJEN": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/San Francisco/SanFrancisco_11082005_AssessorRecorder.csv": {
+        "Ronald Chun": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Anthony Faber": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": true,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "Phil Ting": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict2.csv": {
+        "KAT ANDERSON": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT11.csv": {
+        "JASON CHUYUAN ZENG": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": true,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "MARCELO COLUSSI": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict4.csv": {
+        "David Ferguson": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/New York City/NewYorkCity_06222021_DEMBoroughPresidentQueens.csv": {
+        "James G. Van Bramer": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/New York City/NewYorkCity_06222021_DEMCouncilMember25thCouncilDistrict.csv": {
+        "Alfonso Quiroz": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Fatima Baryab": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Carolyn Tran": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/New York City/NewYorkCity_06222021_DEMCouncilMember20thCouncilDistrict.csv": {
+        "John Choe": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv": {
+        "Jordan Hafizi": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": true
+        }
+    },
+    "american/Corvallis, OR/Corvallis_11082022_Mayor.csv": {
+        "Roen Hogg": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Portland, ME/Portland_06082021_charter_commission_at_large.csv": {
+        "Washburn, Patricia J.": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "DiMillo, Steven A.": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Bailey, William M.": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": true
+        }
+    },
+    "american/Alameda County/Oakland_11082022_Mayor.csv": {
+        "ALLYSSA VICTORY VILLANUEVA": {
+            "borda_lt_0.1": true,
+            "borda_lt_0.2": true,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": true,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "GREGORY HODGE": {
+            "borda_lt_0.1": true,
+            "borda_lt_0.2": true,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": true,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        }
+    },
+    "american/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT7.csv": {
+        "MYRNA MELGAR": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "EMILY MURASE": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "VILASKA NGUYEN": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict10.csv": {
+        "CHRIS JACKSON": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "DEWITT M. LACY": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "STEVE MOSS": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "JACKIE NORMAN": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "GEOFFREA MORRIS": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "RODNEY HAMPTON, JR.": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "TERESA DUQUE": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "ED DONALDSON": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "ERIC SMITH": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "DIANE WESLEY SMITH": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "JAMES M. CALLOWAY": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "TONY KELLY": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "ASHLEY H RHODES": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "MARLENE TRAN": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "american/Cambridge, MA/Cambridge_11042003_SchoolCommittee.csv": {
+        "Write-In 1": {
+            "borda_lt_0.1": true,
+            "borda_lt_0.2": true,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": true,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "Grassi, Joseph G.": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Price, Alan C.": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Lummis, Ben": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Craig, Christopher": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": true
+        },
+        "UWI": {
+            "borda_lt_0.1": true,
+            "borda_lt_0.2": true,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": true,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "Walser, Nancy": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "McGovern, Marc C.": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Write-In 2": {
+            "borda_lt_0.1": true,
+            "borda_lt_0.2": true,
+            "borda_lt_0.3": true,
+            "borda_lt_0.4": true,
+            "borda_lt_0.5": true,
+            "mention_lt_0.1": true,
+            "mention_lt_0.2": true,
+            "mention_lt_0.3": true,
+            "mention_lt_0.4": true,
+            "mention_lt_0.5": true
+        },
+        "Fantini, Alfred B.": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        },
+        "Harding, Richard, Jr.": {
+            "borda_lt_0.1": false,
+            "borda_lt_0.2": false,
+            "borda_lt_0.3": false,
+            "borda_lt_0.4": false,
+            "borda_lt_0.5": false,
+            "mention_lt_0.1": false,
+            "mention_lt_0.2": false,
+            "mention_lt_0.3": false,
+            "mention_lt_0.4": false,
+            "mention_lt_0.5": false
+        }
+    },
+    "files_with_no_scores": [
+        "american/Alameda County/Oakland_11082022_Mayor.csv"
+    ]
+}
