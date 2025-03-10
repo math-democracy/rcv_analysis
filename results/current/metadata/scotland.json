@@ -11,11 +11,11 @@
     "borda-pm": {
         "1": 1121
     },
-    "borda-om-no-uwi": {
+    "borda-om": {
         "1": 1119,
         "2": 2
     },
-    "borda-avg-no-uwi": {
+    "borda-avg": {
         "1": 1120,
         "2": 1
     },
@@ -36,9 +36,6 @@
         "1": 1121
     },
     "smith-minimax": {
-        "1": 1121
-    },
-    "ranked-pairs": {
         "1": 1121
     },
     "bucklin": {

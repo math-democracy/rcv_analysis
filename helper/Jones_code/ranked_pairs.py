@@ -178,7 +178,7 @@ def rp_lxn(ballots, cand_num, seat_num):
 lxn_names = []
 lxn_diffs = []
 
-base_name = '../preference_profiles/american'
+base_name = '../../raw_data/preference_profiles/scotland'
 for folder_name in os.listdir(base_name):
     for file_name in os.listdir(base_name+'/'+folder_name):
         file_path = base_name+'/'+folder_name+'/'+file_name

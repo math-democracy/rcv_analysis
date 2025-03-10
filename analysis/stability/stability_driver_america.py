@@ -7,7 +7,7 @@ import multiprocessing
 import csv
 import os
 
-num_cands_to_keep = 5
+num_cands_to_keep = 4
 
 data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/america_results_top{num_cands_to_keep}.csv'
 root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/america/processed_data'
@@ -16,7 +16,211 @@ error_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/an
 processed_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/supporting_files/america_processed.txt'
 all_data = []
 
-processed = []
+processed = ["Eastpointe_11022021_CityCouncil.csv", 
+"Eastpointe_11052019_CityCouncil.csv", 
+"StLouisPark_11022021_CityCouncilWard3.csv", 
+"StLouisPark_11022021_CityCouncilWard2.csv", 
+"StLouisPark_11022021_CityCouncilWard1.csv", 
+"StLouisPark_11022021_CityCouncilWard4.csv", 
+"Alaska_11082022_HouseDistrict23.csv", 
+"Alaska_11082022_HouseDistrict37.csv", 
+"Alaska_11082022_HouseDistrict36.csv", 
+"Alaska_11082022_HouseDistrict22.csv", 
+"Alaska_08162022_HouseofRepresentativesSpecial.csv", 
+"Alaska_11082022_HouseDistrict34.csv", 
+"Alaska_11082022_HouseDistrict20.csv", 
+"Alaska_11082022_HouseDistrict21.csv", 
+"Alaska_11082022_HouseDistrict35.csv", 
+"Alaska_11082022_HouseDistrict19.csv", 
+"Alaska_11082022_HouseDistrict31.csv", 
+"Alaska_11082022_HouseDistrict25.csv", 
+"Alaska_11082022_HouseDistrict24.csv", 
+"Alaska_11082022_HouseDistrict30.csv", 
+"Alaska_11082022_HouseDistrict18.csv", 
+"Alaska_11082022_HouseDistrict26.csv", 
+"Alaska_11082022_HouseDistrict32.csv", 
+"Alaska_11052024_StateHouseD40.csv", 
+"Alaska_11082022_HouseDistrict33.csv", 
+"Alaska_11082022_HouseDistrict27.csv", 
+"Alaska_11082022_HouseDistrict40.csv", 
+"Alaska_11052024_StateHouseD33.csv", 
+"Alaska_11052024_StateHouseD27.csv", 
+"Alaska_11082022_HouseDistrict1.csv", 
+"Alaska_11052024_StateHouseD26.csv", 
+"Alaska_11052024_StateHouseD32.csv", 
+"Alaska_11052024_StateHouseD1.csv", 
+"Alaska_11082022_SenateDistrictA.csv", 
+"Alaska_11052024_StateSenateJ.csv", 
+"Alaska_11052024_StateSenateH.csv", 
+"Alaska_11082022_SenateDistrictC.csv", 
+"Alaska_11052024_StateHouseD3.csv", 
+"Alaska_11052024_StateHouseD24.csv", 
+"Alaska_11052024_StateHouseD30.csv", 
+"Alaska_11052024_StateHouseD18.csv", 
+"Alaska_11082022_HouseDistrict2.csv", 
+"Alaska_11082022_HouseDistrict3.csv", 
+"Alaska_11052024_StateHouseD19.csv", 
+"Alaska_11052024_StateHouseD31.csv", 
+"Alaska_11052024_StateHouseD25.csv", 
+"Alaska_11052024_StateHouseD2.csv", 
+"Alaska_11082022_SenateDistrictB.csv", 
+"Alaska_11082022_GovernorLieutenantGovernor.csv", 
+"Alaska_11082022_SenateDistrictQ.csv", 
+"Alaska_11082022_SenateDistrictF.csv", 
+"Alaska_11052024_StateHouseD6.csv", 
+"Alaska_11052024_StateHouseD21.csv", 
+"Alaska_11052024_StateHouseD35.csv", 
+"Alaska_11082022_HouseDistrict7.csv", 
+"Alaska_11082022_HouseDistrict6.csv", 
+"Alaska_11052024_StateHouseD34.csv", 
+"Alaska_11052024_StateHouseD20.csv", 
+"Alaska_11052024_StateHouseD7.csv", 
+"Alaska_11082022_SenateDistrictG.csv", 
+"Alaska_11082022_SenateDistrictP.csv", 
+"Alaska_11052024_StateSenateL.csv", 
+"Alaska_11052024_StateSenateN.csv", 
+"Alaska_11082022_SenateDistrictR.csv", 
+"Alaska_11082022_SenateDistrictE.csv", 
+"Alaska_11052024_StateHouseD5.csv", 
+"Alaska_11052024_StateHouseD36.csv", 
+"Alaska_11052024_StateHouseD22.csv", 
+"Alaska_11082022_HouseDistrict4.csv", 
+"Alaska_11082022_HouseDistrict5.csv", 
+"Alaska_11052024_StateHouseD23.csv", 
+"Alaska_11052024_StateHouseD37.csv", 
+"Alaska_11052024_StateHouseD4.csv", 
+"Alaska_11082022_SenateDistrictD.csv", 
+"Alaska_11082022_SenateDistrictS.csv", 
+"Alaska_11052024_StateSenateB.csv", 
+"Alaska_11082022_SenateDistrictI.csv", 
+"Alaska_11052024_StateHouseD9.csv", 
+"Alaska_11052024_StateHouseD12.csv", 
+"Alaska_11082022_HouseDistrict8.csv", 
+"Alaska_11082022_HouseDistrict9.csv", 
+"Alaska_11052024_StateHouseD13.csv", 
+"Alaska_11052024_StateHouseD8.csv", 
+"Alaska_11082022_SenateDistrictH.csv", 
+"Alaska_11082022_USRepresentative.csv", 
+"Alaska_11052024_StateSenateT.csv", 
+"Alaska_11082022_SenateDistrictJ.csv", 
+"Alaska_11052024_StateHouseD11.csv", 
+"Alaska_11052024_StateHouseD39.csv", 
+"Alaska_11052024_StateHouseD38.csv", 
+"Alaska_11052024_StateHouseD10.csv", 
+"Alaska_11082022_SenateDistrictK.csv", 
+"Alaska_11052024_StateSenateD.csv", 
+"Alaska_11082022_SenateDistrictO.csv", 
+"Alaska_11052024_StateHouseD28.csv", 
+"Alaska_11052024_StateHouseD14.csv", 
+"Alaska_11052024_StateHouseD15.csv", 
+"Alaska_11052024_StateHouseD29.csv", 
+"Alaska_11082022_SenateDistrictN.csv", 
+"Alaska_11052024_StateSenateR.csv", 
+"Alaska_11052024_StateSenateP.csv", 
+"Alaska_11082022_SenateDistrictL.csv", 
+"Alaska_11082022_USSenator.csv", 
+"Alaska_11052024_StateHouseD17.csv", 
+"Alaska_11052024_StateHouseD16.csv", 
+"Alaska_11082022_SenateDistrictM.csv", 
+"Alaska_11052024_StateSenateF.csv", 
+"Alaska_11052024_President.csv", 
+"Alaska_11082022_HouseDistrict16.csv", 
+"Alaska_11082022_HouseDistrict17.csv", 
+"Alaska_11082022_HouseDistrict15.csv", 
+"Alaska_11082022_HouseDistrict29.csv", 
+"Alaska_11082022_HouseDistrict28.csv", 
+"Alaska_11082022_HouseDistrict14.csv", 
+"Alaska_11082022_HouseDistrict38.csv", 
+"Alaska_11082022_HouseDistrict10.csv", 
+"Alaska_11082022_HouseDistrict11.csv", 
+"Alaska_11082022_HouseDistrict39.csv", 
+"Alaska_11052024_US_House.csv", 
+"Alaska_11082022_HouseDistrict13.csv", 
+"Alaska_11082022_HouseDistrict12.csv", 
+"Minneapolis_11072023_CityCouncilWard12.csv", 
+"Minneapolis_11072017_BoardofEstimateandTaxation.csv", 
+"Minneapolis_11072017_ParkBoardAtLarge.csv", 
+"Minneapolis_11072017_Ward6CityCouncil.csv", 
+"Minneapolis_11072017_Mayor.csv", 
+"Minneapolis_11062009_PRBoardDistrict6.csv", 
+"Minneapolis_11062009_Ward10CityCouncil.csv", 
+"Minneapolis_11072023_CityCouncilWard13.csv", 
+"Minneapolis_11022021_BoardofEstimateandTaxationAtLarge.csv", 
+"Minneapolis_11072017_Ward1CityCouncil.csv", 
+"Minneapolis_11062009_PRBoardDistrict5.csv", 
+"Minneapolis_11062009_PRBoardDistrict4.csv", 
+"Minneapolis_11072017_Ward9CityCouncil.csv", 
+"Minneapolis_11072023_CityCouncilWard10.csv", 
+"Minneapolis_11062009_BoardofEstimateandTaxation.csv", 
+"Minneapolis_11072017_Ward8CityCouncil.csv", 
+"Minneapolis_11022021_Mayor.csv", 
+"Minneapolis_11062009_PRBoardDistrict1.csv", 
+"Minneapolis_11022021_ParkBoardAtLarge.csv", 
+"Minneapolis_11062009_Ward11CityCouncil.csv", 
+"Minneapolis_11052013_PRBoardDistrict6.csv", 
+"Minneapolis_11062009_PRBoardDistrict3.csv", 
+"Minneapolis_11062009_PRBoardDistrict2.csv", 
+"Minneapolis_11072017_Ward7CityCouncil.csv", 
+"Minneapolis_11022021_CityCouncilWard4.csv", 
+"Minneapolis_11062009_Ward13CityCouncil.csv", 
+"Minneapolis_11072017_Ward5CityCouncil.csv", 
+"Minneapolis_11022021_CityCouncilWard10.csv", 
+"Minneapolis_11022021_CityCouncilWard12.csv", 
+"Minneapolis_11022021_CityCouncilWard7.csv", 
+"Minneapolis_11022021_CityCouncilWard6.csv", 
+"Minneapolis_11072017_Ward2CityCouncil.csv", 
+"Minneapolis_11022021_CityCouncilWard13.csv", 
+"Minneapolis_11072017_Ward3CityCouncil.csv", 
+"Minneapolis_11022021_CityCouncilWard2.csv", 
+"Minneapolis_11022021_CityCouncilWard3.csv", 
+"Minneapolis_11072017_Ward4CityCouncil.csv", 
+"Minneapolis_11022021_CityCouncilWard1.csv", 
+"Minneapolis_11052013_Mayor.csv", 
+"Minneapolis_11072023_CityCouncilWard8.csv", 
+"Minneapolis_11062009_Ward12CityCouncil.csv", 
+"Minneapolis_11072023_CityCouncilWard5.csv", 
+"Minneapolis_11072017_PRBoardDistrict3.csv", 
+"Minneapolis_11072017_PRBoardDistrict2.csv", 
+"Minneapolis_08112020_Ward6CityCouncilSpecialElection.csv", 
+"Minneapolis_11072023_CityCouncilWard4.csv", 
+"Minneapolis_11062009_Ward7CityCouncil.csv", 
+"Minneapolis_11052013_ParkRecBoardAtLarge.csv", 
+"Minneapolis_11072023_CityCouncilWard6.csv", 
+"Minneapolis_11062009_Ward8CityCouncil.csv", 
+"Minneapolis_11062009_Mayor.csv", 
+"Minneapolis_11072017_Ward12CityCouncil.csv", 
+"Minneapolis_11052013_Ward9CityCouncil.csv", 
+"Minneapolis_11072017_PRBoardDistrict1.csv", 
+"Minneapolis_11072023_CityCouncilWard7.csv", 
+"Minneapolis_11072017_PRBoardDistrict5.csv", 
+"Minneapolis_11062009_Ward1CityCouncil.csv", 
+"Minneapolis_11062009_Ward9CityCouncil.csv", 
+"Minneapolis_11072017_PRBoardDistrict4.csv", 
+"Minneapolis_11062009_MinneapolisParkRecBoard.csv", 
+"Minneapolis_11072017_Ward13CityCouncil.csv", 
+"Minneapolis_11022021_CityCouncilWard8.csv", 
+"Minneapolis_11062009_Ward6CityCouncil.csv", 
+"Minneapolis_11072017_PRBoardDistrict6.csv", 
+"Minneapolis_11022021_CityCouncilWard9.csv", 
+"Minneapolis_11052013_Ward13CityCouncil.csv", 
+"Minneapolis_11062009_Ward4CityCouncil.csv", 
+"Minneapolis_11052013_Ward5CityCouncil.csv", 
+"Minneapolis_11022021_ParkBoardDistrict3.csv", 
+"Minneapolis_11062009_Ward3CityCouncil.csv", 
+"Minneapolis_11022021_ParkBoardDistrict1.csv", 
+"Minneapolis 2013-board of estimation and taxation cvr.csv", 
+"Minneapolis_11072017_Ward11CityCouncil.csv", 
+"Minneapolis_11072017_Ward10CityCouncil.csv", 
+"Minneapolis_11022021_ParkBoardDistrict4.csv", 
+"Minneapolis_11062009_Ward2CityCouncil.csv", 
+"Minneapolis_11022021_ParkBoardDistrict5.csv", 
+"Minneapolis_11062009_Ward5CityCouncil.csv", 
+"Minneapolis_11022021_ParkBoardDistrict6.csv", 
+"PierceCounty_11042008_CountyExecutiveMember.csv", 
+"PierceCounty_11032009_CountyAuditor.csv", 
+"PierceCounty_11042008_CountyAssessorTreasurer.csv", 
+"PierceCounty_11042008_CountyCouncilDistrict2.csv", 
+]
 error_d = ["Portland_D3_2024.csv", "Portland_D2_2024.csv", "PortlandOR_110524_Mayor.csv", "Portland_D4_2024.csv", "SanFrancisco_11052024_Mayor.csv", "NewYorkCity_06222021_DEMMayorCitywide.csv"]
          
 def file_less_than_3mb(file_path):
@@ -27,11 +231,11 @@ def file_less_than_3mb(file_path):
         print("File not found.")
         return False
     
-def get_cands_to_keep(profile, num_cands, num_cands_to_keep):
+def get_cands_to_keep(profile, num_cands, num_to_keep):
     # get top4 plurality winners
         # if there are less than 5 candidates, then top4 and top5 are both the whole candidate list
-    if num_cands > num_cands_to_keep:
-        cands_to_keep = v.Plurality(profile=profile, m=num_cands_to_keep, tiebreak='first_place').election_states[-1].elected
+    if num_cands > num_to_keep:
+        cands_to_keep = v.Plurality(profile=profile, m=num_to_keep, tiebreak='random').election_states[-1].elected
         cands_to_keep = [list(w)[0] for w in cands_to_keep]
     else:
         cands_to_keep = profile.candidates
@@ -51,7 +255,7 @@ def run_voting_methods(full_path):
 
     # get total candidate information
     candidates = list(v.candidates)
-    num_cands = len(candidates)
+    num_cands = len([x for x in candidates if x != 'skipped'])
 
     data = {'file': full_path.replace('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/', '')}
     grouped_data = []
@@ -59,52 +263,52 @@ def run_voting_methods(full_path):
     data['numCands'] = num_cands
 
     # get result of election considering all candidates
-    data['plurality'] = list(mm.Plurality(prof=v,tiebreak='first_place'))
-    data['IRV'] = list(mm.IRV(prof=v,tiebreak='first_place'))
-    data['top-two'] = list(mm.TopTwo(prof=v,tiebreak='first_place'))
-    data['borda-pm'] = list(mm.Borda_PM(prof=v, tiebreak='first_place'))
-    data['borda-om-no-uwi'] = list(mm.Borda_OM(prof=v, tiebreak='first_place'))
-    data['borda-avg-no-uwi'] = list(mm.Borda_AVG(prof=v, tiebreak='first_place'))
-    data['top-3-truncation'] = mm.Top3Truncation(prof=v,tiebreak='first_place')
+    data['plurality'] = list(mm.Plurality(prof=v,tiebreak='random'))
+    data['IRV'] = list(mm.IRV(prof=v,tiebreak='random'))
+    data['top-two'] = list(mm.TopTwo(prof=v,tiebreak='random'))
+    data['borda-pm'] = list(mm.Borda_PM(prof=v, tiebreak='random'))
+    data['borda-om'] = list(mm.Borda_OM(prof=v, tiebreak='random'))
+    data['borda-avg'] = list(mm.Borda_AVG(prof=v, tiebreak='random'))
+    data['top-3-truncation'] = mm.Top3Truncation(prof=v,tiebreak='random')
     # sometimes top-3-trunc returns a list not a set
     if isinstance(data['top-3-truncation'], str):
         data['top-3-truncation'] = [data['top-3-truncation']]
     else:
         data['top-3-truncation'] = list(data['top-3-truncation'])
-    data['condorcet'] = list(mm.Condorcet(prof=v,tiebreak='first_place'))
-    data['minimax'] = list(mm.Minimax(prof=v,tiebreak='first_place'))
-    data['smith_plurality'] = list(mm.Smith_Plurality(prof=v,tiebreak='first_place'))
-    data['smith_irv'] = list(mm.Smith_IRV(prof=v,tiebreak='first_place'))
-    data['smith-minimax'] = list(mm.Smith_Minimax(prof=v,tiebreak='first_place'))
-    data['ranked-pairs'] = list(mm.Ranked_Pairs(prof=v,tiebreak='first_place'))
-    data['bucklin'] = list(mm.Bucklin(prof=v, tiebreak='first_place'))
-    data['approval'] = list(mm.Ranked_Pairs(prof=v,tiebreak='first_place'))
+    data['condorcet'] = list(mm.Condorcet(prof=v,tiebreak='random'))
+    data['minimax'] = list(mm.Minimax(prof=v,tiebreak='random'))
+    data['smith_plurality'] = list(mm.Smith_Plurality(prof=v,tiebreak='random'))
+    data['smith_irv'] = list(mm.Smith_IRV(prof=v,tiebreak='random'))
+    data['smith-minimax'] = list(mm.Smith_Minimax(prof=v,tiebreak='random'))
+    data['ranked-pairs'] = list(mm.Ranked_Pairs(prof=v,tiebreak='random'))
+    data['bucklin'] = list(mm.Bucklin(prof=v, tiebreak='random'))
+    data['approval'] = list(mm.Ranked_Pairs(prof=v,tiebreak='random'))
 
     # get top 4 based on plurality score
-    cands_to_keep = get_cands_to_keep(v, len(v.candidates), 4)
+    cands_to_keep = get_cands_to_keep(v, len(v.candidates), num_cands_to_keep)
     
     print(cands_to_keep)
 
-    data[f'top{num_cands_to_keep}_plurality'] = list(mm.Plurality(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
-    data[f'top{num_cands_to_keep}_IRV'] = list(mm.IRV(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
-    data[f'top{num_cands_to_keep}_top-two'] = list(mm.TopTwo(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
-    data[f'top{num_cands_to_keep}_borda-pm'] = list(mm.Borda_PM(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
-    data[f'top{num_cands_to_keep}_borda-om-no-uwi'] = list(mm.Borda_OM(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
-    data[f'top{num_cands_to_keep}_borda-avg-no-uwi'] = list(mm.Borda_AVG(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
-    data[f'top{num_cands_to_keep}_top-3-truncation'] = mm.Top3Truncation(prof=v, cands_to_keep=cands_to_keep,tiebreak='first_place')
+    data[f'top{num_cands_to_keep}_plurality'] = list(mm.Plurality(prof=v, cands_to_keep=cands_to_keep, tiebreak='random'))
+    data[f'top{num_cands_to_keep}_IRV'] = list(mm.IRV(prof=v, cands_to_keep=cands_to_keep, tiebreak='random'))
+    data[f'top{num_cands_to_keep}_top-two'] = list(mm.TopTwo(prof=v, cands_to_keep=cands_to_keep, tiebreak='random'))
+    data[f'top{num_cands_to_keep}_borda-pm'] = list(mm.Borda_PM(prof=v, cands_to_keep=cands_to_keep, tiebreak='random'))
+    data[f'top{num_cands_to_keep}_borda-om'] = list(mm.Borda_OM(prof=v, cands_to_keep=cands_to_keep, tiebreak='random'))
+    data[f'top{num_cands_to_keep}_borda-avg'] = list(mm.Borda_AVG(prof=v, cands_to_keep=cands_to_keep, tiebreak='random'))
+    data[f'top{num_cands_to_keep}_top-3-truncation'] = mm.Top3Truncation(prof=v, cands_to_keep=cands_to_keep,tiebreak='random')
         # sometimes top-3-trunc returns a list not a set
     if isinstance(data[f'top{num_cands_to_keep}_top-3-truncation'], str):
         data[f'top{num_cands_to_keep}_top-3-truncation'] = [data[f'top{num_cands_to_keep}_top-3-truncation']]
     else:
         data[f'top{num_cands_to_keep}_top-3-truncation'] = list(data[f'top{num_cands_to_keep}_top-3-truncation'])
-    data[f'top{num_cands_to_keep}_condorcet'] = list(mm.Condorcet(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
-    data[f'top{num_cands_to_keep}_minimax'] = list(mm.Minimax(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
-    data[f'top{num_cands_to_keep}_smith_plurality'] = list(mm.Smith_Plurality(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
-    data[f'top{num_cands_to_keep}_smith_irv'] = list(mm.Smith_IRV(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
-    data[f'top{num_cands_to_keep}_smith-minimax'] = list(mm.Smith_Minimax(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
-    data[f'top{num_cands_to_keep}_ranked-pairs'] = list(mm.Ranked_Pairs(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
-    data[f'top{num_cands_to_keep}_bucklin'] = list(mm.Bucklin(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
-    data[f'top{num_cands_to_keep}_approval'] = list(mm.Ranked_Pairs(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
+    data[f'top{num_cands_to_keep}_condorcet'] = list(mm.Condorcet(prof=v, cands_to_keep=cands_to_keep, tiebreak='random'))
+    data[f'top{num_cands_to_keep}_minimax'] = list(mm.Minimax(prof=v, cands_to_keep=cands_to_keep, tiebreak='random'))
+    data[f'top{num_cands_to_keep}_smith_plurality'] = list(mm.Smith_Plurality(prof=v, cands_to_keep=cands_to_keep, tiebreak='random'))
+    data[f'top{num_cands_to_keep}_smith_irv'] = list(mm.Smith_IRV(prof=v, cands_to_keep=cands_to_keep, tiebreak='random'))
+    data[f'top{num_cands_to_keep}_smith-minimax'] = list(mm.Smith_Minimax(prof=v, cands_to_keep=cands_to_keep, tiebreak='random'))
+    data[f'top{num_cands_to_keep}_ranked-pairs'] = list(mm.Ranked_Pairs(prof=v, cands_to_keep=cands_to_keep, tiebreak='random'))
+    data[f'top{num_cands_to_keep}_bucklin'] = list(mm.Bucklin(prof=v, cands_to_keep=cands_to_keep, tiebreak='random'))
+    data[f'top{num_cands_to_keep}_approval'] = list(mm.Ranked_Pairs(prof=v, cands_to_keep=cands_to_keep, tiebreak='random'))
     
     # column_order = ['file','plurality',
     #                 f'top{num_cands_to_keep}_plurality','IRV',f'top{num_cands_to_keep}_IRV',

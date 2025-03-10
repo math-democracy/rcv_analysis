@@ -1,0 +1,26 @@
+{
+    "total_counts": {
+        "borda_lt_0.1": 117,
+        "borda_lt_0.2": 117,
+        "borda_lt_0.3": 117,
+        "borda_lt_0.4": 117,
+        "borda_lt_0.5": 117,
+        "mention_lt_0.1": 117,
+        "mention_lt_0.2": 117,
+        "mention_lt_0.3": 117,
+        "mention_lt_0.4": 117,
+        "mention_lt_0.5": 117
+    },
+    "method_counts": {
+        "borda_lt_0.1": 8,
+        "borda_lt_0.2": 9,
+        "borda_lt_0.3": 14,
+        "borda_lt_0.4": 15,
+        "borda_lt_0.5": 21,
+        "mention_lt_0.1": 11,
+        "mention_lt_0.2": 17,
+        "mention_lt_0.3": 21,
+        "mention_lt_0.4": 25,
+        "mention_lt_0.5": 30
+    }
+}

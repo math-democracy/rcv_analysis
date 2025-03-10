@@ -1,0 +1,2432 @@
+voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
+0,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Grn,SNP,1,6
+1,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Grn,SNP,1,6
+2,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Grn,SNP,1,6
+3,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Grn,SNP,1,6
+4,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Grn,SNP,1,6
+5,Con,Lab,Tom YOUNG (Ind),Grn,skipped,skipped,1,6
+6,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),Lab,Con,skipped,1,6
+7,Lab,SNP,Grn,Ellen MCMASTER (Ind),Con,Tom YOUNG (Ind),1,6
+8,Lab,SNP,Grn,Ellen MCMASTER (Ind),Con,Tom YOUNG (Ind),1,6
+9,Lab,Con,Grn,skipped,skipped,skipped,1,6
+10,Lab,Con,Grn,skipped,skipped,skipped,1,6
+11,Lab,Con,Grn,skipped,skipped,skipped,1,6
+12,Lab,Con,Grn,skipped,skipped,skipped,1,6
+13,Lab,Con,Grn,skipped,skipped,skipped,1,6
+14,Lab,Con,Grn,skipped,skipped,skipped,1,6
+15,Lab,Con,Grn,skipped,skipped,skipped,1,6
+16,Con,Ellen MCMASTER (Ind),Lab,Grn,Tom YOUNG (Ind),SNP,1,6
+17,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Lab,skipped,1,6
+18,Tom YOUNG (Ind),SNP,Lab,skipped,skipped,skipped,1,6
+19,Tom YOUNG (Ind),SNP,Grn,skipped,skipped,skipped,1,6
+20,Tom YOUNG (Ind),SNP,Grn,skipped,skipped,skipped,1,6
+21,Tom YOUNG (Ind),SNP,Grn,skipped,skipped,skipped,1,6
+22,Ellen MCMASTER (Ind),Lab,skipped,skipped,skipped,skipped,1,6
+23,Ellen MCMASTER (Ind),Lab,skipped,skipped,skipped,skipped,1,6
+24,Con,Grn,Lab,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),1,6
+25,Tom YOUNG (Ind),Grn,Lab,skipped,skipped,skipped,1,6
+26,Tom YOUNG (Ind),Grn,Lab,skipped,skipped,skipped,1,6
+27,Tom YOUNG (Ind),Grn,Lab,skipped,skipped,skipped,1,6
+28,Tom YOUNG (Ind),Grn,Lab,skipped,skipped,skipped,1,6
+29,Tom YOUNG (Ind),Grn,Lab,skipped,skipped,skipped,1,6
+30,Tom YOUNG (Ind),Grn,Lab,skipped,skipped,skipped,1,6
+31,Tom YOUNG (Ind),Grn,Lab,skipped,skipped,skipped,1,6
+32,Tom YOUNG (Ind),Grn,Lab,skipped,skipped,skipped,1,6
+33,SNP,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+34,SNP,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+35,SNP,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+36,SNP,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+37,SNP,Tom YOUNG (Ind),Grn,Con,skipped,skipped,1,6
+38,Lab,Grn,Tom YOUNG (Ind),Con,SNP,Ellen MCMASTER (Ind),1,6
+39,Con,Grn,SNP,skipped,skipped,skipped,1,6
+40,Con,Grn,SNP,skipped,skipped,skipped,1,6
+41,Con,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,1,6
+42,Con,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,1,6
+43,Tom YOUNG (Ind),Lab,Grn,Con,skipped,skipped,1,6
+44,SNP,Con,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,1,6
+45,Ellen MCMASTER (Ind),SNP,Grn,Tom YOUNG (Ind),Lab,skipped,1,6
+46,Tom YOUNG (Ind),Grn,SNP,Ellen MCMASTER (Ind),Con,Lab,1,6
+47,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,Lab,SNP,1,6
+48,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,Lab,SNP,1,6
+49,Ellen MCMASTER (Ind),Grn,SNP,Tom YOUNG (Ind),skipped,skipped,1,6
+50,Grn,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+51,Grn,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+52,Grn,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+53,SNP,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+54,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,skipped,skipped,skipped,1,6
+55,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,skipped,skipped,skipped,1,6
+56,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,skipped,skipped,skipped,1,6
+57,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,skipped,skipped,skipped,1,6
+58,SNP,Tom YOUNG (Ind),Lab,Grn,Ellen MCMASTER (Ind),Con,1,6
+59,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+60,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+61,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+62,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+63,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+64,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+65,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+66,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+67,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+68,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+69,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+70,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+71,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+72,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+73,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+74,Lab,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),SNP,Con,1,6
+75,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,Grn,SNP,1,6
+76,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,Grn,SNP,1,6
+77,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,Grn,SNP,1,6
+78,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,Grn,SNP,1,6
+79,Lab,SNP,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Con,1,6
+80,SNP,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),skipped,skipped,1,6
+81,SNP,Grn,Lab,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),1,6
+82,Grn,Tom YOUNG (Ind),Con,skipped,skipped,skipped,1,6
+83,Grn,Tom YOUNG (Ind),Con,skipped,skipped,skipped,1,6
+84,Grn,Tom YOUNG (Ind),Con,skipped,skipped,skipped,1,6
+85,Ellen MCMASTER (Ind),Con,Tom YOUNG (Ind),Lab,Grn,SNP,1,6
+86,Ellen MCMASTER (Ind),Con,Tom YOUNG (Ind),Lab,Grn,SNP,1,6
+87,Lab,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+88,Lab,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+89,Lab,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+90,SNP,Lab,Grn,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),1,6
+91,Lab,Con,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),skipped,1,6
+92,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+93,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+94,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+95,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+96,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+97,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+98,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+99,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+100,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+101,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+102,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+103,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+104,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+105,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+106,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+107,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+108,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+109,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+110,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+111,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+112,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+113,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+114,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+115,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+116,SNP,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+117,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,SNP,skipped,skipped,1,6
+118,Con,Lab,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),SNP,1,6
+119,Con,Lab,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),SNP,1,6
+120,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,Lab,skipped,skipped,1,6
+121,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,Lab,skipped,skipped,1,6
+122,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+123,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+124,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+125,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+126,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+127,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+128,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+129,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+130,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+131,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+132,Grn,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+133,Ellen MCMASTER (Ind),Tom YOUNG (Ind),SNP,skipped,skipped,skipped,1,6
+134,Ellen MCMASTER (Ind),Tom YOUNG (Ind),SNP,skipped,skipped,skipped,1,6
+135,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+136,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+137,Lab,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+138,Lab,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+139,Lab,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+140,Con,SNP,Lab,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),1,6
+141,Grn,SNP,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,1,6
+142,Con,Lab,Tom YOUNG (Ind),Grn,SNP,Ellen MCMASTER (Ind),1,6
+143,Con,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+144,Con,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+145,Con,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+146,Con,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+147,Con,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+148,Con,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+149,Con,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+150,Con,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+151,Con,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+152,SNP,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Con,1,6
+153,SNP,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Con,1,6
+154,SNP,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Con,1,6
+155,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Lab,skipped,skipped,1,6
+156,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),SNP,Lab,Con,1,6
+157,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),SNP,Lab,Con,1,6
+158,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),SNP,Lab,Con,1,6
+159,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,skipped,skipped,1,6
+160,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),SNP,skipped,skipped,1,6
+161,Ellen MCMASTER (Ind),Con,Grn,Tom YOUNG (Ind),SNP,Lab,1,6
+162,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,SNP,Con,1,6
+163,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,SNP,Con,1,6
+164,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,SNP,Con,1,6
+165,Tom YOUNG (Ind),Ellen MCMASTER (Ind),SNP,Grn,skipped,skipped,1,6
+166,Tom YOUNG (Ind),Ellen MCMASTER (Ind),SNP,Grn,skipped,skipped,1,6
+167,Lab,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,1,6
+168,Lab,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,1,6
+169,Tom YOUNG (Ind),Con,Lab,Grn,skipped,skipped,1,6
+170,Tom YOUNG (Ind),Con,Grn,SNP,skipped,skipped,1,6
+171,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,skipped,skipped,1,6
+172,Con,Grn,Lab,skipped,skipped,skipped,1,6
+173,Grn,Tom YOUNG (Ind),Lab,SNP,Con,Ellen MCMASTER (Ind),1,6
+174,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+175,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+176,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+177,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+178,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+179,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+180,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+181,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+182,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+183,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+184,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+185,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+186,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+187,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+188,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+189,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+190,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+191,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+192,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+193,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+194,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+195,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+196,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+197,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+198,Grn,SNP,skipped,skipped,skipped,skipped,1,6
+199,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+200,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+201,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+202,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+203,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+204,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+205,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+206,Lab,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+207,Con,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),SNP,Grn,1,6
+208,Con,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),SNP,Grn,1,6
+209,Con,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),SNP,Grn,1,6
+210,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Con,SNP,Lab,1,6
+211,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Con,SNP,Lab,1,6
+212,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,skipped,skipped,1,6
+213,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,skipped,skipped,1,6
+214,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,skipped,skipped,1,6
+215,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,skipped,skipped,1,6
+216,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,skipped,skipped,1,6
+217,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,skipped,skipped,1,6
+218,SNP,Con,Grn,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),1,6
+219,SNP,Con,Grn,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),1,6
+220,Con,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+221,Con,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+222,Con,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+223,Con,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+224,Con,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+225,Con,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+226,Con,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+227,Con,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+228,Con,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+229,Con,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+230,Con,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+231,Con,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+232,Con,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+233,Lab,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,SNP,1,6
+234,Lab,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+235,Con,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Lab,SNP,1,6
+236,Con,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Lab,SNP,1,6
+237,Ellen MCMASTER (Ind),Con,Tom YOUNG (Ind),Grn,skipped,skipped,1,6
+238,SNP,Con,Lab,Tom YOUNG (Ind),skipped,skipped,1,6
+239,Con,skipped,skipped,skipped,skipped,skipped,1,6
+240,Con,skipped,skipped,skipped,skipped,skipped,1,6
+241,Con,skipped,skipped,skipped,skipped,skipped,1,6
+242,Con,skipped,skipped,skipped,skipped,skipped,1,6
+243,Con,skipped,skipped,skipped,skipped,skipped,1,6
+244,Con,skipped,skipped,skipped,skipped,skipped,1,6
+245,Con,skipped,skipped,skipped,skipped,skipped,1,6
+246,Con,skipped,skipped,skipped,skipped,skipped,1,6
+247,Con,skipped,skipped,skipped,skipped,skipped,1,6
+248,Con,skipped,skipped,skipped,skipped,skipped,1,6
+249,Con,skipped,skipped,skipped,skipped,skipped,1,6
+250,Con,skipped,skipped,skipped,skipped,skipped,1,6
+251,Con,skipped,skipped,skipped,skipped,skipped,1,6
+252,Con,skipped,skipped,skipped,skipped,skipped,1,6
+253,Con,skipped,skipped,skipped,skipped,skipped,1,6
+254,Con,skipped,skipped,skipped,skipped,skipped,1,6
+255,Con,skipped,skipped,skipped,skipped,skipped,1,6
+256,Con,skipped,skipped,skipped,skipped,skipped,1,6
+257,Con,skipped,skipped,skipped,skipped,skipped,1,6
+258,Con,skipped,skipped,skipped,skipped,skipped,1,6
+259,Con,skipped,skipped,skipped,skipped,skipped,1,6
+260,Con,skipped,skipped,skipped,skipped,skipped,1,6
+261,Con,skipped,skipped,skipped,skipped,skipped,1,6
+262,Con,skipped,skipped,skipped,skipped,skipped,1,6
+263,Con,skipped,skipped,skipped,skipped,skipped,1,6
+264,Con,skipped,skipped,skipped,skipped,skipped,1,6
+265,Con,skipped,skipped,skipped,skipped,skipped,1,6
+266,Con,skipped,skipped,skipped,skipped,skipped,1,6
+267,Con,skipped,skipped,skipped,skipped,skipped,1,6
+268,Con,skipped,skipped,skipped,skipped,skipped,1,6
+269,Con,skipped,skipped,skipped,skipped,skipped,1,6
+270,Con,skipped,skipped,skipped,skipped,skipped,1,6
+271,Con,skipped,skipped,skipped,skipped,skipped,1,6
+272,Con,skipped,skipped,skipped,skipped,skipped,1,6
+273,Con,skipped,skipped,skipped,skipped,skipped,1,6
+274,Con,skipped,skipped,skipped,skipped,skipped,1,6
+275,Con,skipped,skipped,skipped,skipped,skipped,1,6
+276,Con,skipped,skipped,skipped,skipped,skipped,1,6
+277,Con,skipped,skipped,skipped,skipped,skipped,1,6
+278,Con,skipped,skipped,skipped,skipped,skipped,1,6
+279,Con,skipped,skipped,skipped,skipped,skipped,1,6
+280,Con,skipped,skipped,skipped,skipped,skipped,1,6
+281,Con,skipped,skipped,skipped,skipped,skipped,1,6
+282,Con,skipped,skipped,skipped,skipped,skipped,1,6
+283,Con,skipped,skipped,skipped,skipped,skipped,1,6
+284,Con,skipped,skipped,skipped,skipped,skipped,1,6
+285,Con,skipped,skipped,skipped,skipped,skipped,1,6
+286,Con,skipped,skipped,skipped,skipped,skipped,1,6
+287,Con,skipped,skipped,skipped,skipped,skipped,1,6
+288,Con,skipped,skipped,skipped,skipped,skipped,1,6
+289,Con,skipped,skipped,skipped,skipped,skipped,1,6
+290,Con,skipped,skipped,skipped,skipped,skipped,1,6
+291,Con,skipped,skipped,skipped,skipped,skipped,1,6
+292,Con,skipped,skipped,skipped,skipped,skipped,1,6
+293,Con,skipped,skipped,skipped,skipped,skipped,1,6
+294,Con,skipped,skipped,skipped,skipped,skipped,1,6
+295,Con,skipped,skipped,skipped,skipped,skipped,1,6
+296,Con,skipped,skipped,skipped,skipped,skipped,1,6
+297,Con,skipped,skipped,skipped,skipped,skipped,1,6
+298,Con,skipped,skipped,skipped,skipped,skipped,1,6
+299,Con,skipped,skipped,skipped,skipped,skipped,1,6
+300,Con,skipped,skipped,skipped,skipped,skipped,1,6
+301,Con,skipped,skipped,skipped,skipped,skipped,1,6
+302,Con,skipped,skipped,skipped,skipped,skipped,1,6
+303,Con,skipped,skipped,skipped,skipped,skipped,1,6
+304,Con,skipped,skipped,skipped,skipped,skipped,1,6
+305,Con,skipped,skipped,skipped,skipped,skipped,1,6
+306,Con,skipped,skipped,skipped,skipped,skipped,1,6
+307,Con,skipped,skipped,skipped,skipped,skipped,1,6
+308,Con,skipped,skipped,skipped,skipped,skipped,1,6
+309,Con,skipped,skipped,skipped,skipped,skipped,1,6
+310,Con,skipped,skipped,skipped,skipped,skipped,1,6
+311,Con,skipped,skipped,skipped,skipped,skipped,1,6
+312,Con,skipped,skipped,skipped,skipped,skipped,1,6
+313,Con,skipped,skipped,skipped,skipped,skipped,1,6
+314,Con,skipped,skipped,skipped,skipped,skipped,1,6
+315,Con,skipped,skipped,skipped,skipped,skipped,1,6
+316,Con,skipped,skipped,skipped,skipped,skipped,1,6
+317,Con,skipped,skipped,skipped,skipped,skipped,1,6
+318,Con,skipped,skipped,skipped,skipped,skipped,1,6
+319,Con,skipped,skipped,skipped,skipped,skipped,1,6
+320,Con,skipped,skipped,skipped,skipped,skipped,1,6
+321,Con,skipped,skipped,skipped,skipped,skipped,1,6
+322,Con,skipped,skipped,skipped,skipped,skipped,1,6
+323,Con,skipped,skipped,skipped,skipped,skipped,1,6
+324,Con,skipped,skipped,skipped,skipped,skipped,1,6
+325,Con,skipped,skipped,skipped,skipped,skipped,1,6
+326,Con,skipped,skipped,skipped,skipped,skipped,1,6
+327,Con,skipped,skipped,skipped,skipped,skipped,1,6
+328,Con,skipped,skipped,skipped,skipped,skipped,1,6
+329,Con,skipped,skipped,skipped,skipped,skipped,1,6
+330,Con,skipped,skipped,skipped,skipped,skipped,1,6
+331,Con,skipped,skipped,skipped,skipped,skipped,1,6
+332,Con,skipped,skipped,skipped,skipped,skipped,1,6
+333,Con,skipped,skipped,skipped,skipped,skipped,1,6
+334,Con,skipped,skipped,skipped,skipped,skipped,1,6
+335,Con,skipped,skipped,skipped,skipped,skipped,1,6
+336,Con,skipped,skipped,skipped,skipped,skipped,1,6
+337,Con,skipped,skipped,skipped,skipped,skipped,1,6
+338,Con,skipped,skipped,skipped,skipped,skipped,1,6
+339,Con,skipped,skipped,skipped,skipped,skipped,1,6
+340,Con,skipped,skipped,skipped,skipped,skipped,1,6
+341,Con,skipped,skipped,skipped,skipped,skipped,1,6
+342,Con,skipped,skipped,skipped,skipped,skipped,1,6
+343,Con,skipped,skipped,skipped,skipped,skipped,1,6
+344,Con,skipped,skipped,skipped,skipped,skipped,1,6
+345,Con,skipped,skipped,skipped,skipped,skipped,1,6
+346,Con,skipped,skipped,skipped,skipped,skipped,1,6
+347,Con,skipped,skipped,skipped,skipped,skipped,1,6
+348,Con,skipped,skipped,skipped,skipped,skipped,1,6
+349,Con,skipped,skipped,skipped,skipped,skipped,1,6
+350,Con,skipped,skipped,skipped,skipped,skipped,1,6
+351,Con,skipped,skipped,skipped,skipped,skipped,1,6
+352,Con,skipped,skipped,skipped,skipped,skipped,1,6
+353,Con,skipped,skipped,skipped,skipped,skipped,1,6
+354,Con,skipped,skipped,skipped,skipped,skipped,1,6
+355,Con,skipped,skipped,skipped,skipped,skipped,1,6
+356,Con,skipped,skipped,skipped,skipped,skipped,1,6
+357,Con,skipped,skipped,skipped,skipped,skipped,1,6
+358,Con,skipped,skipped,skipped,skipped,skipped,1,6
+359,Con,skipped,skipped,skipped,skipped,skipped,1,6
+360,Con,skipped,skipped,skipped,skipped,skipped,1,6
+361,Con,skipped,skipped,skipped,skipped,skipped,1,6
+362,Con,skipped,skipped,skipped,skipped,skipped,1,6
+363,Con,skipped,skipped,skipped,skipped,skipped,1,6
+364,Con,skipped,skipped,skipped,skipped,skipped,1,6
+365,Con,skipped,skipped,skipped,skipped,skipped,1,6
+366,Con,skipped,skipped,skipped,skipped,skipped,1,6
+367,Con,skipped,skipped,skipped,skipped,skipped,1,6
+368,Con,skipped,skipped,skipped,skipped,skipped,1,6
+369,Con,skipped,skipped,skipped,skipped,skipped,1,6
+370,Con,skipped,skipped,skipped,skipped,skipped,1,6
+371,Con,skipped,skipped,skipped,skipped,skipped,1,6
+372,Con,skipped,skipped,skipped,skipped,skipped,1,6
+373,Con,skipped,skipped,skipped,skipped,skipped,1,6
+374,Con,skipped,skipped,skipped,skipped,skipped,1,6
+375,Con,skipped,skipped,skipped,skipped,skipped,1,6
+376,Con,skipped,skipped,skipped,skipped,skipped,1,6
+377,Con,skipped,skipped,skipped,skipped,skipped,1,6
+378,Con,skipped,skipped,skipped,skipped,skipped,1,6
+379,Con,skipped,skipped,skipped,skipped,skipped,1,6
+380,Con,skipped,skipped,skipped,skipped,skipped,1,6
+381,Con,skipped,skipped,skipped,skipped,skipped,1,6
+382,Con,skipped,skipped,skipped,skipped,skipped,1,6
+383,Con,skipped,skipped,skipped,skipped,skipped,1,6
+384,Con,skipped,skipped,skipped,skipped,skipped,1,6
+385,Con,skipped,skipped,skipped,skipped,skipped,1,6
+386,Con,skipped,skipped,skipped,skipped,skipped,1,6
+387,Con,skipped,skipped,skipped,skipped,skipped,1,6
+388,Con,skipped,skipped,skipped,skipped,skipped,1,6
+389,Con,skipped,skipped,skipped,skipped,skipped,1,6
+390,Con,skipped,skipped,skipped,skipped,skipped,1,6
+391,Con,skipped,skipped,skipped,skipped,skipped,1,6
+392,Con,skipped,skipped,skipped,skipped,skipped,1,6
+393,Con,skipped,skipped,skipped,skipped,skipped,1,6
+394,Con,skipped,skipped,skipped,skipped,skipped,1,6
+395,Con,skipped,skipped,skipped,skipped,skipped,1,6
+396,Con,skipped,skipped,skipped,skipped,skipped,1,6
+397,Con,skipped,skipped,skipped,skipped,skipped,1,6
+398,Con,skipped,skipped,skipped,skipped,skipped,1,6
+399,Con,skipped,skipped,skipped,skipped,skipped,1,6
+400,Con,skipped,skipped,skipped,skipped,skipped,1,6
+401,Con,skipped,skipped,skipped,skipped,skipped,1,6
+402,Con,skipped,skipped,skipped,skipped,skipped,1,6
+403,Con,skipped,skipped,skipped,skipped,skipped,1,6
+404,Con,skipped,skipped,skipped,skipped,skipped,1,6
+405,Con,skipped,skipped,skipped,skipped,skipped,1,6
+406,Con,skipped,skipped,skipped,skipped,skipped,1,6
+407,Con,skipped,skipped,skipped,skipped,skipped,1,6
+408,Con,skipped,skipped,skipped,skipped,skipped,1,6
+409,Con,skipped,skipped,skipped,skipped,skipped,1,6
+410,Con,skipped,skipped,skipped,skipped,skipped,1,6
+411,Con,skipped,skipped,skipped,skipped,skipped,1,6
+412,Con,skipped,skipped,skipped,skipped,skipped,1,6
+413,Con,skipped,skipped,skipped,skipped,skipped,1,6
+414,Con,skipped,skipped,skipped,skipped,skipped,1,6
+415,Con,skipped,skipped,skipped,skipped,skipped,1,6
+416,Con,skipped,skipped,skipped,skipped,skipped,1,6
+417,Con,skipped,skipped,skipped,skipped,skipped,1,6
+418,Con,skipped,skipped,skipped,skipped,skipped,1,6
+419,Con,skipped,skipped,skipped,skipped,skipped,1,6
+420,Con,skipped,skipped,skipped,skipped,skipped,1,6
+421,Con,skipped,skipped,skipped,skipped,skipped,1,6
+422,Con,skipped,skipped,skipped,skipped,skipped,1,6
+423,Con,skipped,skipped,skipped,skipped,skipped,1,6
+424,Con,skipped,skipped,skipped,skipped,skipped,1,6
+425,Con,skipped,skipped,skipped,skipped,skipped,1,6
+426,Con,skipped,skipped,skipped,skipped,skipped,1,6
+427,Con,skipped,skipped,skipped,skipped,skipped,1,6
+428,Con,skipped,skipped,skipped,skipped,skipped,1,6
+429,Con,skipped,skipped,skipped,skipped,skipped,1,6
+430,Con,skipped,skipped,skipped,skipped,skipped,1,6
+431,Con,skipped,skipped,skipped,skipped,skipped,1,6
+432,Con,skipped,skipped,skipped,skipped,skipped,1,6
+433,Con,skipped,skipped,skipped,skipped,skipped,1,6
+434,Con,skipped,skipped,skipped,skipped,skipped,1,6
+435,Con,skipped,skipped,skipped,skipped,skipped,1,6
+436,Con,skipped,skipped,skipped,skipped,skipped,1,6
+437,Con,skipped,skipped,skipped,skipped,skipped,1,6
+438,Con,skipped,skipped,skipped,skipped,skipped,1,6
+439,Con,skipped,skipped,skipped,skipped,skipped,1,6
+440,Con,skipped,skipped,skipped,skipped,skipped,1,6
+441,Con,skipped,skipped,skipped,skipped,skipped,1,6
+442,Con,skipped,skipped,skipped,skipped,skipped,1,6
+443,Con,skipped,skipped,skipped,skipped,skipped,1,6
+444,Con,skipped,skipped,skipped,skipped,skipped,1,6
+445,Con,skipped,skipped,skipped,skipped,skipped,1,6
+446,Con,skipped,skipped,skipped,skipped,skipped,1,6
+447,Con,skipped,skipped,skipped,skipped,skipped,1,6
+448,Con,skipped,skipped,skipped,skipped,skipped,1,6
+449,Con,skipped,skipped,skipped,skipped,skipped,1,6
+450,Con,skipped,skipped,skipped,skipped,skipped,1,6
+451,Con,skipped,skipped,skipped,skipped,skipped,1,6
+452,Con,skipped,skipped,skipped,skipped,skipped,1,6
+453,Con,skipped,skipped,skipped,skipped,skipped,1,6
+454,Con,skipped,skipped,skipped,skipped,skipped,1,6
+455,Con,skipped,skipped,skipped,skipped,skipped,1,6
+456,Con,skipped,skipped,skipped,skipped,skipped,1,6
+457,Con,skipped,skipped,skipped,skipped,skipped,1,6
+458,Con,skipped,skipped,skipped,skipped,skipped,1,6
+459,Con,skipped,skipped,skipped,skipped,skipped,1,6
+460,Con,skipped,skipped,skipped,skipped,skipped,1,6
+461,Con,skipped,skipped,skipped,skipped,skipped,1,6
+462,Con,skipped,skipped,skipped,skipped,skipped,1,6
+463,Con,skipped,skipped,skipped,skipped,skipped,1,6
+464,Con,skipped,skipped,skipped,skipped,skipped,1,6
+465,Con,skipped,skipped,skipped,skipped,skipped,1,6
+466,Con,skipped,skipped,skipped,skipped,skipped,1,6
+467,Con,skipped,skipped,skipped,skipped,skipped,1,6
+468,Con,skipped,skipped,skipped,skipped,skipped,1,6
+469,Con,skipped,skipped,skipped,skipped,skipped,1,6
+470,Con,skipped,skipped,skipped,skipped,skipped,1,6
+471,Con,skipped,skipped,skipped,skipped,skipped,1,6
+472,Con,skipped,skipped,skipped,skipped,skipped,1,6
+473,Con,skipped,skipped,skipped,skipped,skipped,1,6
+474,Con,skipped,skipped,skipped,skipped,skipped,1,6
+475,Con,skipped,skipped,skipped,skipped,skipped,1,6
+476,Con,skipped,skipped,skipped,skipped,skipped,1,6
+477,Con,skipped,skipped,skipped,skipped,skipped,1,6
+478,Con,skipped,skipped,skipped,skipped,skipped,1,6
+479,Con,skipped,skipped,skipped,skipped,skipped,1,6
+480,Con,skipped,skipped,skipped,skipped,skipped,1,6
+481,Con,skipped,skipped,skipped,skipped,skipped,1,6
+482,Con,skipped,skipped,skipped,skipped,skipped,1,6
+483,Con,skipped,skipped,skipped,skipped,skipped,1,6
+484,Con,skipped,skipped,skipped,skipped,skipped,1,6
+485,Con,skipped,skipped,skipped,skipped,skipped,1,6
+486,Con,skipped,skipped,skipped,skipped,skipped,1,6
+487,Con,skipped,skipped,skipped,skipped,skipped,1,6
+488,Con,skipped,skipped,skipped,skipped,skipped,1,6
+489,Con,skipped,skipped,skipped,skipped,skipped,1,6
+490,Con,skipped,skipped,skipped,skipped,skipped,1,6
+491,Con,skipped,skipped,skipped,skipped,skipped,1,6
+492,Con,skipped,skipped,skipped,skipped,skipped,1,6
+493,Con,skipped,skipped,skipped,skipped,skipped,1,6
+494,Con,skipped,skipped,skipped,skipped,skipped,1,6
+495,Con,skipped,skipped,skipped,skipped,skipped,1,6
+496,Con,skipped,skipped,skipped,skipped,skipped,1,6
+497,Con,skipped,skipped,skipped,skipped,skipped,1,6
+498,Con,skipped,skipped,skipped,skipped,skipped,1,6
+499,Con,skipped,skipped,skipped,skipped,skipped,1,6
+500,Con,skipped,skipped,skipped,skipped,skipped,1,6
+501,Con,skipped,skipped,skipped,skipped,skipped,1,6
+502,Con,skipped,skipped,skipped,skipped,skipped,1,6
+503,Con,skipped,skipped,skipped,skipped,skipped,1,6
+504,Con,skipped,skipped,skipped,skipped,skipped,1,6
+505,Con,skipped,skipped,skipped,skipped,skipped,1,6
+506,Con,skipped,skipped,skipped,skipped,skipped,1,6
+507,Con,skipped,skipped,skipped,skipped,skipped,1,6
+508,Con,skipped,skipped,skipped,skipped,skipped,1,6
+509,Con,skipped,skipped,skipped,skipped,skipped,1,6
+510,Con,skipped,skipped,skipped,skipped,skipped,1,6
+511,Con,skipped,skipped,skipped,skipped,skipped,1,6
+512,Con,skipped,skipped,skipped,skipped,skipped,1,6
+513,Con,skipped,skipped,skipped,skipped,skipped,1,6
+514,Con,skipped,skipped,skipped,skipped,skipped,1,6
+515,Con,skipped,skipped,skipped,skipped,skipped,1,6
+516,Con,skipped,skipped,skipped,skipped,skipped,1,6
+517,Con,skipped,skipped,skipped,skipped,skipped,1,6
+518,Con,skipped,skipped,skipped,skipped,skipped,1,6
+519,Con,skipped,skipped,skipped,skipped,skipped,1,6
+520,Con,skipped,skipped,skipped,skipped,skipped,1,6
+521,Con,skipped,skipped,skipped,skipped,skipped,1,6
+522,Con,skipped,skipped,skipped,skipped,skipped,1,6
+523,Con,skipped,skipped,skipped,skipped,skipped,1,6
+524,Con,skipped,skipped,skipped,skipped,skipped,1,6
+525,Con,skipped,skipped,skipped,skipped,skipped,1,6
+526,Con,skipped,skipped,skipped,skipped,skipped,1,6
+527,Con,skipped,skipped,skipped,skipped,skipped,1,6
+528,Con,skipped,skipped,skipped,skipped,skipped,1,6
+529,Con,skipped,skipped,skipped,skipped,skipped,1,6
+530,Con,skipped,skipped,skipped,skipped,skipped,1,6
+531,Con,skipped,skipped,skipped,skipped,skipped,1,6
+532,Con,skipped,skipped,skipped,skipped,skipped,1,6
+533,Con,skipped,skipped,skipped,skipped,skipped,1,6
+534,Lab,SNP,skipped,skipped,skipped,skipped,1,6
+535,Lab,SNP,skipped,skipped,skipped,skipped,1,6
+536,Lab,SNP,skipped,skipped,skipped,skipped,1,6
+537,Lab,SNP,skipped,skipped,skipped,skipped,1,6
+538,Lab,SNP,skipped,skipped,skipped,skipped,1,6
+539,Lab,SNP,skipped,skipped,skipped,skipped,1,6
+540,Lab,SNP,skipped,skipped,skipped,skipped,1,6
+541,Lab,SNP,skipped,skipped,skipped,skipped,1,6
+542,Con,Lab,Tom YOUNG (Ind),SNP,skipped,skipped,1,6
+543,Ellen MCMASTER (Ind),SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+544,Ellen MCMASTER (Ind),SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+545,Ellen MCMASTER (Ind),SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+546,Ellen MCMASTER (Ind),SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+547,Ellen MCMASTER (Ind),Tom YOUNG (Ind),SNP,Grn,Con,Lab,1,6
+548,SNP,Tom YOUNG (Ind),Con,skipped,skipped,skipped,1,6
+549,Tom YOUNG (Ind),SNP,Lab,Grn,Ellen MCMASTER (Ind),skipped,1,6
+550,Grn,Ellen MCMASTER (Ind),SNP,Lab,skipped,skipped,1,6
+551,Grn,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),SNP,skipped,1,6
+552,Lab,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,1,6
+553,SNP,Con,Ellen MCMASTER (Ind),Lab,skipped,skipped,1,6
+554,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+555,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+556,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+557,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+558,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+559,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+560,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+561,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+562,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+563,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+564,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+565,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+566,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+567,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+568,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+569,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+570,Tom YOUNG (Ind),Grn,Lab,SNP,Con,Ellen MCMASTER (Ind),1,6
+571,Tom YOUNG (Ind),Grn,Lab,SNP,Con,Ellen MCMASTER (Ind),1,6
+572,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,1,6
+573,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,1,6
+574,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,1,6
+575,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,1,6
+576,Grn,SNP,Con,Lab,skipped,skipped,1,6
+577,Grn,SNP,Con,Lab,skipped,skipped,1,6
+578,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,SNP,skipped,skipped,1,6
+579,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,SNP,Con,1,6
+580,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,SNP,Con,1,6
+581,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+582,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+583,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+584,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+585,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+586,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+587,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+588,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+589,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+590,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+591,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+592,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+593,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+594,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+595,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+596,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+597,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,SNP,Lab,1,6
+598,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+599,Grn,Lab,SNP,skipped,skipped,skipped,1,6
+600,Grn,Lab,SNP,skipped,skipped,skipped,1,6
+601,Grn,Lab,SNP,skipped,skipped,skipped,1,6
+602,Grn,Lab,SNP,skipped,skipped,skipped,1,6
+603,Grn,Lab,SNP,skipped,skipped,skipped,1,6
+604,Grn,Lab,SNP,skipped,skipped,skipped,1,6
+605,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Lab,SNP,Con,1,6
+606,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Lab,SNP,Con,1,6
+607,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Lab,SNP,Con,1,6
+608,Ellen MCMASTER (Ind),Lab,SNP,skipped,skipped,skipped,1,6
+609,Ellen MCMASTER (Ind),Lab,SNP,skipped,skipped,skipped,1,6
+610,Ellen MCMASTER (Ind),Con,Grn,SNP,skipped,skipped,1,6
+611,SNP,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),skipped,skipped,1,6
+612,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,SNP,Lab,skipped,1,6
+613,Con,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),skipped,skipped,1,6
+614,Con,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),skipped,skipped,1,6
+615,Grn,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),skipped,skipped,1,6
+616,Grn,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+617,Grn,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+618,Grn,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+619,Grn,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+620,Ellen MCMASTER (Ind),Grn,Lab,skipped,skipped,skipped,1,6
+621,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+622,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+623,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+624,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+625,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+626,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+627,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+628,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+629,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+630,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+631,Con,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),skipped,skipped,1,6
+632,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,Lab,Grn,SNP,1,6
+633,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,Lab,Grn,SNP,1,6
+634,Con,Lab,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),1,6
+635,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,skipped,skipped,1,6
+636,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,skipped,skipped,1,6
+637,SNP,Lab,Con,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),1,6
+638,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+639,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+640,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+641,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+642,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+643,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+644,Con,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,1,6
+645,Con,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,1,6
+646,Con,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,1,6
+647,Con,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,1,6
+648,Con,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,1,6
+649,Grn,SNP,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Con,1,6
+650,Grn,SNP,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Con,1,6
+651,Grn,SNP,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Con,1,6
+652,Grn,SNP,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Con,1,6
+653,Grn,SNP,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Con,1,6
+654,Grn,SNP,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Con,1,6
+655,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+656,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+657,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+658,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+659,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+660,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+661,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+662,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+663,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+664,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+665,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+666,Lab,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,1,6
+667,Lab,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,1,6
+668,Lab,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,1,6
+669,SNP,Grn,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,1,6
+670,SNP,Grn,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,1,6
+671,SNP,Grn,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,1,6
+672,SNP,Grn,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,1,6
+673,SNP,Grn,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,1,6
+674,SNP,Grn,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,1,6
+675,SNP,Grn,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,1,6
+676,SNP,Grn,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,1,6
+677,Lab,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+678,Lab,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+679,Lab,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+680,Grn,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,Lab,1,6
+681,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Con,SNP,1,6
+682,Grn,Tom YOUNG (Ind),SNP,Ellen MCMASTER (Ind),Lab,Con,1,6
+683,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,skipped,skipped,1,6
+684,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,skipped,skipped,1,6
+685,Tom YOUNG (Ind),SNP,Con,Grn,skipped,skipped,1,6
+686,Tom YOUNG (Ind),Ellen MCMASTER (Ind),SNP,skipped,skipped,skipped,1,6
+687,Tom YOUNG (Ind),Ellen MCMASTER (Ind),SNP,skipped,skipped,skipped,1,6
+688,Tom YOUNG (Ind),Ellen MCMASTER (Ind),SNP,skipped,skipped,skipped,1,6
+689,Ellen MCMASTER (Ind),Grn,Lab,Con,Tom YOUNG (Ind),skipped,1,6
+690,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Con,Grn,SNP,1,6
+691,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Con,Grn,SNP,1,6
+692,Tom YOUNG (Ind),Con,Lab,Grn,SNP,Ellen MCMASTER (Ind),1,6
+693,SNP,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),Grn,Con,1,6
+694,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),Lab,Grn,SNP,1,6
+695,SNP,Con,Lab,Ellen MCMASTER (Ind),skipped,skipped,1,6
+696,SNP,Con,Lab,Ellen MCMASTER (Ind),skipped,skipped,1,6
+697,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+698,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+699,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+700,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+701,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+702,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+703,Ellen MCMASTER (Ind),Grn,Lab,SNP,Tom YOUNG (Ind),Con,1,6
+704,Con,Grn,skipped,skipped,skipped,skipped,1,6
+705,Con,Grn,skipped,skipped,skipped,skipped,1,6
+706,Con,Grn,skipped,skipped,skipped,skipped,1,6
+707,Con,Grn,skipped,skipped,skipped,skipped,1,6
+708,Con,Grn,skipped,skipped,skipped,skipped,1,6
+709,Con,Grn,skipped,skipped,skipped,skipped,1,6
+710,Con,Grn,skipped,skipped,skipped,skipped,1,6
+711,Con,Grn,skipped,skipped,skipped,skipped,1,6
+712,Con,Grn,skipped,skipped,skipped,skipped,1,6
+713,Con,Grn,skipped,skipped,skipped,skipped,1,6
+714,Con,Grn,skipped,skipped,skipped,skipped,1,6
+715,Con,Grn,skipped,skipped,skipped,skipped,1,6
+716,Con,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),SNP,Lab,1,6
+717,Con,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),SNP,Lab,1,6
+718,Con,Lab,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),SNP,1,6
+719,Con,Lab,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),SNP,1,6
+720,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Lab,Con,SNP,1,6
+721,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Lab,Con,SNP,1,6
+722,Ellen MCMASTER (Ind),Grn,Lab,Tom YOUNG (Ind),SNP,skipped,1,6
+723,Con,Ellen MCMASTER (Ind),SNP,Lab,Grn,Tom YOUNG (Ind),1,6
+724,Tom YOUNG (Ind),Grn,SNP,Ellen MCMASTER (Ind),Lab,Con,1,6
+725,Tom YOUNG (Ind),Grn,SNP,Ellen MCMASTER (Ind),Lab,Con,1,6
+726,Con,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,1,6
+727,Con,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,1,6
+728,Con,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,1,6
+729,Con,Tom YOUNG (Ind),SNP,skipped,skipped,skipped,1,6
+730,Con,Tom YOUNG (Ind),SNP,skipped,skipped,skipped,1,6
+731,Con,Tom YOUNG (Ind),SNP,skipped,skipped,skipped,1,6
+732,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,Con,SNP,Lab,1,6
+733,Tom YOUNG (Ind),Lab,Grn,Con,SNP,Ellen MCMASTER (Ind),1,6
+734,Tom YOUNG (Ind),SNP,Grn,Con,Lab,Ellen MCMASTER (Ind),1,6
+735,Lab,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),SNP,Con,1,6
+736,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+737,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+738,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+739,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+740,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+741,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+742,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+743,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+744,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+745,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+746,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+747,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+748,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+749,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+750,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+751,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+752,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+753,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+754,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+755,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+756,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+757,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+758,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+759,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+760,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+761,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+762,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+763,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+764,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+765,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+766,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+767,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+768,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+769,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+770,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+771,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+772,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+773,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+774,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+775,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+776,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+777,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+778,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+779,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+780,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+781,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+782,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+783,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+784,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+785,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+786,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+787,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+788,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+789,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+790,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+791,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+792,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+793,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+794,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+795,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+796,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+797,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+798,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+799,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+800,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+801,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+802,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+803,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+804,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+805,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+806,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+807,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+808,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+809,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+810,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+811,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+812,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+813,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+814,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+815,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+816,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+817,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+818,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+819,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+820,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+821,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+822,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+823,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+824,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+825,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+826,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+827,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+828,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+829,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+830,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+831,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+832,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+833,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+834,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+835,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+836,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+837,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+838,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+839,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+840,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+841,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+842,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+843,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+844,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+845,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+846,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+847,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+848,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+849,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+850,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+851,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+852,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+853,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+854,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+855,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+856,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+857,SNP,skipped,skipped,skipped,skipped,skipped,1,6
+858,Ellen MCMASTER (Ind),Lab,SNP,Con,Grn,Tom YOUNG (Ind),1,6
+859,Lab,Grn,Con,skipped,skipped,skipped,1,6
+860,Lab,Grn,Con,skipped,skipped,skipped,1,6
+861,Grn,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),SNP,Con,1,6
+862,Ellen MCMASTER (Ind),Lab,Grn,skipped,skipped,skipped,1,6
+863,Ellen MCMASTER (Ind),SNP,Lab,Grn,Con,Tom YOUNG (Ind),1,6
+864,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+865,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+866,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+867,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+868,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+869,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+870,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+871,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+872,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+873,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+874,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+875,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+876,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+877,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+878,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+879,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+880,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+881,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+882,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+883,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+884,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+885,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+886,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+887,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+888,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+889,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+890,Grn,skipped,skipped,skipped,skipped,skipped,1,6
+891,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,SNP,Con,1,6
+892,Grn,SNP,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,1,6
+893,SNP,Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+894,SNP,Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+895,Ellen MCMASTER (Ind),Tom YOUNG (Ind),SNP,Grn,Lab,Con,1,6
+896,Ellen MCMASTER (Ind),Tom YOUNG (Ind),SNP,Grn,Lab,Con,1,6
+897,Ellen MCMASTER (Ind),Tom YOUNG (Ind),SNP,Grn,Lab,Con,1,6
+898,Ellen MCMASTER (Ind),Tom YOUNG (Ind),SNP,Grn,Lab,Con,1,6
+899,Tom YOUNG (Ind),Ellen MCMASTER (Ind),SNP,Grn,Lab,Con,1,6
+900,Tom YOUNG (Ind),Ellen MCMASTER (Ind),SNP,Grn,Lab,Con,1,6
+901,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+902,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+903,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+904,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+905,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+906,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+907,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+908,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+909,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+910,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+911,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+912,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+913,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+914,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+915,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+916,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+917,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+918,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+919,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+920,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+921,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+922,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+923,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+924,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+925,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+926,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+927,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+928,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+929,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+930,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+931,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+932,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+933,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+934,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+935,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+936,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+937,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+938,SNP,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+939,SNP,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,skipped,skipped,1,6
+940,Grn,Ellen MCMASTER (Ind),Lab,SNP,Tom YOUNG (Ind),skipped,1,6
+941,Tom YOUNG (Ind),Con,Grn,skipped,skipped,skipped,1,6
+942,Tom YOUNG (Ind),Con,Grn,skipped,skipped,skipped,1,6
+943,Tom YOUNG (Ind),Con,Grn,skipped,skipped,skipped,1,6
+944,Tom YOUNG (Ind),Con,Grn,skipped,skipped,skipped,1,6
+945,Tom YOUNG (Ind),Con,Grn,skipped,skipped,skipped,1,6
+946,Tom YOUNG (Ind),Con,Grn,skipped,skipped,skipped,1,6
+947,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,skipped,skipped,1,6
+948,Con,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,SNP,1,6
+949,Con,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,SNP,1,6
+950,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),Lab,SNP,Grn,1,6
+951,Tom YOUNG (Ind),Grn,SNP,skipped,skipped,skipped,1,6
+952,Tom YOUNG (Ind),Grn,SNP,skipped,skipped,skipped,1,6
+953,Tom YOUNG (Ind),Grn,SNP,skipped,skipped,skipped,1,6
+954,Tom YOUNG (Ind),Grn,SNP,skipped,skipped,skipped,1,6
+955,Tom YOUNG (Ind),Grn,SNP,skipped,skipped,skipped,1,6
+956,Tom YOUNG (Ind),Grn,SNP,skipped,skipped,skipped,1,6
+957,Grn,Lab,Con,Tom YOUNG (Ind),SNP,Ellen MCMASTER (Ind),1,6
+958,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Lab,Con,1,6
+959,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Lab,Con,1,6
+960,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Lab,Con,1,6
+961,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Lab,Con,1,6
+962,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Lab,Con,1,6
+963,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Lab,Con,1,6
+964,Con,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+965,Con,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+966,Con,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+967,Con,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+968,Con,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+969,Con,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+970,Con,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+971,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,Lab,skipped,1,6
+972,Con,Grn,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),skipped,1,6
+973,SNP,Lab,Grn,skipped,skipped,skipped,1,6
+974,SNP,Lab,Grn,skipped,skipped,skipped,1,6
+975,SNP,Lab,Grn,skipped,skipped,skipped,1,6
+976,SNP,Lab,Grn,skipped,skipped,skipped,1,6
+977,SNP,Lab,Grn,skipped,skipped,skipped,1,6
+978,SNP,Lab,Grn,skipped,skipped,skipped,1,6
+979,SNP,Lab,Grn,skipped,skipped,skipped,1,6
+980,SNP,Lab,Grn,skipped,skipped,skipped,1,6
+981,SNP,Lab,Grn,skipped,skipped,skipped,1,6
+982,SNP,Lab,Grn,skipped,skipped,skipped,1,6
+983,SNP,Lab,Grn,skipped,skipped,skipped,1,6
+984,SNP,Lab,Grn,skipped,skipped,skipped,1,6
+985,SNP,Lab,Grn,skipped,skipped,skipped,1,6
+986,SNP,Lab,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),Con,1,6
+987,SNP,Lab,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),Con,1,6
+988,SNP,Lab,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),Con,1,6
+989,Lab,Grn,Con,SNP,Tom YOUNG (Ind),Ellen MCMASTER (Ind),1,6
+990,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,Lab,Grn,SNP,1,6
+991,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+992,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+993,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+994,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+995,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+996,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+997,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+998,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+999,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+1000,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+1001,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+1002,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+1003,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+1004,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+1005,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+1006,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+1007,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+1008,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+1009,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+1010,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+1011,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+1012,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+1013,SNP,Grn,Lab,skipped,skipped,skipped,1,6
+1014,Tom YOUNG (Ind),Con,SNP,skipped,skipped,skipped,1,6
+1015,Tom YOUNG (Ind),Con,SNP,skipped,skipped,skipped,1,6
+1016,Tom YOUNG (Ind),Con,SNP,skipped,skipped,skipped,1,6
+1017,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,1,6
+1018,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,1,6
+1019,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,1,6
+1020,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,1,6
+1021,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,1,6
+1022,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,1,6
+1023,SNP,Grn,Con,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),1,6
+1024,Grn,Con,Lab,Ellen MCMASTER (Ind),SNP,Tom YOUNG (Ind),1,6
+1025,Lab,Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1026,Lab,Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1027,Lab,Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1028,Lab,Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1029,Lab,Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1030,Lab,Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1031,Lab,Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1032,Lab,Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1033,Lab,Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1034,Lab,Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1035,Lab,Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1036,Lab,Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1037,Lab,Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1038,Lab,Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1039,SNP,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Con,Lab,1,6
+1040,SNP,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Con,Lab,1,6
+1041,Ellen MCMASTER (Ind),Lab,Grn,SNP,skipped,skipped,1,6
+1042,Con,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),skipped,skipped,1,6
+1043,Con,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),skipped,skipped,1,6
+1044,Con,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),skipped,skipped,1,6
+1045,Lab,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,SNP,1,6
+1046,Lab,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,1,6
+1047,Grn,SNP,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,1,6
+1048,Con,SNP,skipped,skipped,skipped,skipped,1,6
+1049,Con,SNP,skipped,skipped,skipped,skipped,1,6
+1050,Con,SNP,skipped,skipped,skipped,skipped,1,6
+1051,Con,SNP,skipped,skipped,skipped,skipped,1,6
+1052,SNP,Ellen MCMASTER (Ind),Grn,Lab,Tom YOUNG (Ind),Con,1,6
+1053,SNP,Ellen MCMASTER (Ind),Grn,Lab,Tom YOUNG (Ind),Con,1,6
+1054,SNP,Ellen MCMASTER (Ind),Grn,Lab,Tom YOUNG (Ind),Con,1,6
+1055,SNP,Ellen MCMASTER (Ind),Grn,Lab,Tom YOUNG (Ind),Con,1,6
+1056,SNP,Ellen MCMASTER (Ind),Grn,Lab,Tom YOUNG (Ind),Con,1,6
+1057,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1058,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1059,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1060,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1061,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Lab,Con,SNP,1,6
+1062,Ellen MCMASTER (Ind),SNP,skipped,skipped,skipped,skipped,1,6
+1063,Ellen MCMASTER (Ind),SNP,skipped,skipped,skipped,skipped,1,6
+1064,Ellen MCMASTER (Ind),SNP,skipped,skipped,skipped,skipped,1,6
+1065,Ellen MCMASTER (Ind),SNP,skipped,skipped,skipped,skipped,1,6
+1066,Ellen MCMASTER (Ind),SNP,skipped,skipped,skipped,skipped,1,6
+1067,Ellen MCMASTER (Ind),SNP,skipped,skipped,skipped,skipped,1,6
+1068,Ellen MCMASTER (Ind),SNP,skipped,skipped,skipped,skipped,1,6
+1069,Ellen MCMASTER (Ind),SNP,skipped,skipped,skipped,skipped,1,6
+1070,Ellen MCMASTER (Ind),Grn,SNP,skipped,skipped,skipped,1,6
+1071,Ellen MCMASTER (Ind),Grn,SNP,skipped,skipped,skipped,1,6
+1072,Ellen MCMASTER (Ind),Grn,SNP,skipped,skipped,skipped,1,6
+1073,Ellen MCMASTER (Ind),Grn,SNP,skipped,skipped,skipped,1,6
+1074,Ellen MCMASTER (Ind),Grn,SNP,skipped,skipped,skipped,1,6
+1075,Tom YOUNG (Ind),Grn,Con,Lab,SNP,Ellen MCMASTER (Ind),1,6
+1076,Tom YOUNG (Ind),Grn,Con,Lab,SNP,Ellen MCMASTER (Ind),1,6
+1077,Tom YOUNG (Ind),Grn,Con,Lab,SNP,Ellen MCMASTER (Ind),1,6
+1078,Ellen MCMASTER (Ind),SNP,Lab,Grn,Tom YOUNG (Ind),Con,1,6
+1079,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,Lab,1,6
+1080,Grn,Ellen MCMASTER (Ind),SNP,skipped,skipped,skipped,1,6
+1081,Grn,Ellen MCMASTER (Ind),SNP,skipped,skipped,skipped,1,6
+1082,Grn,Ellen MCMASTER (Ind),SNP,skipped,skipped,skipped,1,6
+1083,Grn,Ellen MCMASTER (Ind),SNP,skipped,skipped,skipped,1,6
+1084,SNP,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Grn,1,6
+1085,Con,SNP,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Lab,1,6
+1086,Grn,Lab,Con,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),1,6
+1087,Grn,Lab,Ellen MCMASTER (Ind),SNP,skipped,skipped,1,6
+1088,Lab,Con,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,1,6
+1089,Ellen MCMASTER (Ind),Con,SNP,skipped,skipped,skipped,1,6
+1090,Ellen MCMASTER (Ind),Con,SNP,skipped,skipped,skipped,1,6
+1091,Grn,Tom YOUNG (Ind),SNP,Lab,Con,Ellen MCMASTER (Ind),1,6
+1092,Grn,Tom YOUNG (Ind),SNP,Lab,Con,Ellen MCMASTER (Ind),1,6
+1093,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,skipped,skipped,skipped,1,6
+1094,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,skipped,skipped,skipped,1,6
+1095,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,skipped,skipped,skipped,1,6
+1096,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1097,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1098,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1099,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1100,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1101,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1102,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1103,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1104,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1105,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1106,SNP,Con,Ellen MCMASTER (Ind),Grn,skipped,skipped,1,6
+1107,SNP,Con,Ellen MCMASTER (Ind),Grn,skipped,skipped,1,6
+1108,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,SNP,skipped,1,6
+1109,Tom YOUNG (Ind),Con,Grn,Ellen MCMASTER (Ind),Lab,SNP,1,6
+1110,Tom YOUNG (Ind),Grn,SNP,Lab,Con,Ellen MCMASTER (Ind),1,6
+1111,Lab,SNP,Grn,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),1,6
+1112,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),SNP,Lab,Con,1,6
+1113,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),SNP,Lab,Con,1,6
+1114,Ellen MCMASTER (Ind),SNP,Grn,Lab,skipped,skipped,1,6
+1115,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Lab,SNP,Con,1,6
+1116,SNP,Lab,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,1,6
+1117,SNP,Lab,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,1,6
+1118,SNP,Lab,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,1,6
+1119,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1120,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1121,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1122,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1123,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1124,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1125,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1126,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1127,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1128,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1129,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1130,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1131,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1132,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1133,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1134,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1135,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1136,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1137,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1138,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1139,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1140,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1141,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1142,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1143,Lab,SNP,Grn,skipped,skipped,skipped,1,6
+1144,Lab,SNP,Grn,skipped,skipped,skipped,1,6
+1145,Lab,SNP,Grn,skipped,skipped,skipped,1,6
+1146,Lab,SNP,Grn,skipped,skipped,skipped,1,6
+1147,Lab,SNP,Grn,skipped,skipped,skipped,1,6
+1148,Grn,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1149,Grn,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1150,Grn,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1151,Grn,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1152,Grn,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1153,Grn,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1154,Grn,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1155,Grn,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1156,Grn,SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1157,Con,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),SNP,Lab,1,6
+1158,Ellen MCMASTER (Ind),Grn,Con,Lab,Tom YOUNG (Ind),SNP,1,6
+1159,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,Grn,skipped,skipped,1,6
+1160,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,Grn,skipped,skipped,1,6
+1161,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,Grn,skipped,skipped,1,6
+1162,SNP,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,Lab,1,6
+1163,Grn,Tom YOUNG (Ind),SNP,Lab,Ellen MCMASTER (Ind),Con,1,6
+1164,Grn,Tom YOUNG (Ind),SNP,Lab,Ellen MCMASTER (Ind),Con,1,6
+1165,SNP,Grn,Lab,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),1,6
+1166,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1167,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1168,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1169,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1170,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1171,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1172,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1173,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1174,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1175,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1176,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1177,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1178,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1179,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1180,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1181,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1182,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1183,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1184,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1185,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1186,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1187,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1188,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1189,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1190,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1191,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1192,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1193,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1194,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1195,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1196,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1197,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1198,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1199,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1200,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1201,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1202,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1203,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1204,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1205,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1206,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1207,Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1208,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),SNP,Lab,skipped,1,6
+1209,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),SNP,Lab,skipped,1,6
+1210,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),SNP,Lab,skipped,1,6
+1211,Grn,SNP,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),Con,1,6
+1212,Grn,SNP,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),Con,1,6
+1213,Grn,SNP,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),Con,1,6
+1214,Grn,Tom YOUNG (Ind),SNP,Lab,skipped,skipped,1,6
+1215,Tom YOUNG (Ind),Lab,Grn,skipped,skipped,skipped,1,6
+1216,Tom YOUNG (Ind),Lab,Grn,skipped,skipped,skipped,1,6
+1217,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Con,Lab,SNP,1,6
+1218,Grn,Lab,SNP,Ellen MCMASTER (Ind),skipped,skipped,1,6
+1219,SNP,Lab,skipped,skipped,skipped,skipped,1,6
+1220,SNP,Lab,skipped,skipped,skipped,skipped,1,6
+1221,SNP,Lab,skipped,skipped,skipped,skipped,1,6
+1222,SNP,Lab,skipped,skipped,skipped,skipped,1,6
+1223,SNP,Lab,skipped,skipped,skipped,skipped,1,6
+1224,SNP,Lab,skipped,skipped,skipped,skipped,1,6
+1225,SNP,Lab,skipped,skipped,skipped,skipped,1,6
+1226,SNP,Grn,Lab,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),1,6
+1227,Lab,Con,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),1,6
+1228,Lab,Con,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),SNP,1,6
+1229,Lab,Con,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),SNP,1,6
+1230,Grn,SNP,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,1,6
+1231,Grn,SNP,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,1,6
+1232,Con,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),Grn,SNP,1,6
+1233,Con,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),Grn,SNP,1,6
+1234,Con,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),Grn,SNP,1,6
+1235,Lab,Grn,SNP,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),1,6
+1236,Con,Lab,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),SNP,1,6
+1237,Ellen MCMASTER (Ind),Con,skipped,skipped,skipped,skipped,1,6
+1238,Ellen MCMASTER (Ind),Con,skipped,skipped,skipped,skipped,1,6
+1239,Ellen MCMASTER (Ind),Con,skipped,skipped,skipped,skipped,1,6
+1240,Ellen MCMASTER (Ind),Con,skipped,skipped,skipped,skipped,1,6
+1241,Ellen MCMASTER (Ind),Con,skipped,skipped,skipped,skipped,1,6
+1242,Ellen MCMASTER (Ind),Con,skipped,skipped,skipped,skipped,1,6
+1243,Ellen MCMASTER (Ind),Con,skipped,skipped,skipped,skipped,1,6
+1244,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1245,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1246,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1247,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1248,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1249,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1250,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1251,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1252,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1253,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1254,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1255,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1256,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1257,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1258,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1259,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1260,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1261,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1262,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1263,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1264,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1265,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1266,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1267,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1268,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1269,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1270,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1271,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1272,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1273,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1274,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1275,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1276,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1277,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1278,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1279,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1280,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1281,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1282,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1283,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1284,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1285,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1286,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1287,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1288,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1289,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1290,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1291,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1292,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1293,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1294,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1295,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1296,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1297,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1298,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1299,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1300,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1301,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1302,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1303,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1304,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1305,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1306,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1307,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1308,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1309,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1310,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1311,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1312,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1313,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1314,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1315,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1316,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1317,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1318,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1319,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1320,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1321,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1322,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1323,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1324,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1325,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1326,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1327,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1328,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1329,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1330,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1331,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1332,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1333,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1334,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1335,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1336,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1337,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1338,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1339,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1340,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1341,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1342,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1343,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1344,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1345,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1346,SNP,Grn,skipped,skipped,skipped,skipped,1,6
+1347,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,SNP,Con,1,6
+1348,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1349,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1350,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1351,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1352,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1353,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1354,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1355,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1356,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1357,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1358,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1359,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1360,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1361,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1362,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1363,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1364,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1365,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1366,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1367,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1368,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1369,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1370,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1371,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1372,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1373,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1374,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1375,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1376,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1377,Con,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1378,Grn,Lab,Tom YOUNG (Ind),SNP,Con,Ellen MCMASTER (Ind),1,6
+1379,SNP,Ellen MCMASTER (Ind),Lab,skipped,skipped,skipped,1,6
+1380,SNP,Ellen MCMASTER (Ind),Lab,skipped,skipped,skipped,1,6
+1381,SNP,Ellen MCMASTER (Ind),Lab,skipped,skipped,skipped,1,6
+1382,Grn,Ellen MCMASTER (Ind),Lab,skipped,skipped,skipped,1,6
+1383,Grn,Ellen MCMASTER (Ind),Lab,skipped,skipped,skipped,1,6
+1384,Grn,Ellen MCMASTER (Ind),Lab,skipped,skipped,skipped,1,6
+1385,Grn,Ellen MCMASTER (Ind),Lab,skipped,skipped,skipped,1,6
+1386,Con,Ellen MCMASTER (Ind),Lab,Grn,skipped,skipped,1,6
+1387,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),SNP,Grn,Con,1,6
+1388,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),SNP,Grn,Con,1,6
+1389,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),SNP,Grn,Con,1,6
+1390,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),SNP,Grn,Con,1,6
+1391,Con,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1392,Con,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1393,Con,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1394,Con,Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1395,SNP,Grn,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),Con,1,6
+1396,SNP,Grn,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),Con,1,6
+1397,SNP,Grn,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),Con,1,6
+1398,SNP,Grn,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),Con,1,6
+1399,SNP,Grn,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),Con,1,6
+1400,SNP,Grn,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),Con,1,6
+1401,SNP,Grn,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),Con,1,6
+1402,SNP,Grn,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),Con,1,6
+1403,SNP,Grn,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),Con,1,6
+1404,SNP,Grn,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),Con,1,6
+1405,Tom YOUNG (Ind),Lab,SNP,Ellen MCMASTER (Ind),Grn,Con,1,6
+1406,Con,Tom YOUNG (Ind),Grn,Lab,skipped,skipped,1,6
+1407,Con,Tom YOUNG (Ind),Grn,Lab,skipped,skipped,1,6
+1408,Tom YOUNG (Ind),SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1409,Tom YOUNG (Ind),SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1410,Tom YOUNG (Ind),SNP,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1411,Ellen MCMASTER (Ind),Tom YOUNG (Ind),SNP,Grn,skipped,skipped,1,6
+1412,Ellen MCMASTER (Ind),Tom YOUNG (Ind),SNP,Grn,skipped,skipped,1,6
+1413,Ellen MCMASTER (Ind),Tom YOUNG (Ind),SNP,Grn,skipped,skipped,1,6
+1414,Grn,Lab,skipped,skipped,skipped,skipped,1,6
+1415,Grn,Lab,skipped,skipped,skipped,skipped,1,6
+1416,Grn,Lab,skipped,skipped,skipped,skipped,1,6
+1417,Grn,Lab,skipped,skipped,skipped,skipped,1,6
+1418,Grn,Lab,skipped,skipped,skipped,skipped,1,6
+1419,Grn,Lab,skipped,skipped,skipped,skipped,1,6
+1420,Grn,Lab,skipped,skipped,skipped,skipped,1,6
+1421,Grn,Lab,skipped,skipped,skipped,skipped,1,6
+1422,Grn,Lab,skipped,skipped,skipped,skipped,1,6
+1423,Grn,Lab,skipped,skipped,skipped,skipped,1,6
+1424,Grn,Lab,skipped,skipped,skipped,skipped,1,6
+1425,Grn,Lab,skipped,skipped,skipped,skipped,1,6
+1426,Con,Lab,Grn,Tom YOUNG (Ind),SNP,Ellen MCMASTER (Ind),1,6
+1427,Grn,Ellen MCMASTER (Ind),Con,skipped,skipped,skipped,1,6
+1428,Grn,Ellen MCMASTER (Ind),Con,skipped,skipped,skipped,1,6
+1429,Con,Lab,Grn,Tom YOUNG (Ind),skipped,skipped,1,6
+1430,Lab,Con,Ellen MCMASTER (Ind),SNP,Grn,Tom YOUNG (Ind),1,6
+1431,SNP,Lab,Ellen MCMASTER (Ind),Grn,Con,Tom YOUNG (Ind),1,6
+1432,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,Grn,SNP,1,6
+1433,Grn,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1434,Grn,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1435,Grn,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1436,Grn,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1437,Grn,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1438,Grn,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1439,Grn,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1440,Grn,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1441,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,skipped,1,6
+1442,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,skipped,1,6
+1443,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,skipped,1,6
+1444,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,skipped,1,6
+1445,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,skipped,1,6
+1446,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,skipped,1,6
+1447,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,skipped,1,6
+1448,Tom YOUNG (Ind),SNP,Grn,Ellen MCMASTER (Ind),Con,Lab,1,6
+1449,Con,Lab,Grn,skipped,skipped,skipped,1,6
+1450,Con,Lab,Grn,skipped,skipped,skipped,1,6
+1451,Con,Lab,Grn,skipped,skipped,skipped,1,6
+1452,Con,Lab,Grn,skipped,skipped,skipped,1,6
+1453,Con,Lab,Grn,skipped,skipped,skipped,1,6
+1454,Con,Lab,Grn,skipped,skipped,skipped,1,6
+1455,Con,Lab,Grn,skipped,skipped,skipped,1,6
+1456,Con,Lab,Grn,skipped,skipped,skipped,1,6
+1457,Con,Lab,Grn,skipped,skipped,skipped,1,6
+1458,Con,Tom YOUNG (Ind),Lab,SNP,Ellen MCMASTER (Ind),Grn,1,6
+1459,Grn,Ellen MCMASTER (Ind),Lab,SNP,skipped,skipped,1,6
+1460,Tom YOUNG (Ind),Lab,Grn,Ellen MCMASTER (Ind),SNP,Con,1,6
+1461,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+1462,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+1463,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+1464,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+1465,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+1466,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+1467,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+1468,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+1469,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+1470,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+1471,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+1472,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+1473,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+1474,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+1475,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+1476,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+1477,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+1478,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+1479,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+1480,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Con,1,6
+1481,Ellen MCMASTER (Ind),Lab,Con,skipped,skipped,skipped,1,6
+1482,Ellen MCMASTER (Ind),Lab,Con,skipped,skipped,skipped,1,6
+1483,SNP,Grn,Lab,Ellen MCMASTER (Ind),skipped,skipped,1,6
+1484,SNP,Grn,Lab,Ellen MCMASTER (Ind),skipped,skipped,1,6
+1485,SNP,Grn,Lab,Ellen MCMASTER (Ind),skipped,skipped,1,6
+1486,SNP,Grn,Lab,Ellen MCMASTER (Ind),skipped,skipped,1,6
+1487,Ellen MCMASTER (Ind),Con,Grn,Tom YOUNG (Ind),skipped,skipped,1,6
+1488,Ellen MCMASTER (Ind),Con,Grn,Tom YOUNG (Ind),skipped,skipped,1,6
+1489,Ellen MCMASTER (Ind),Con,Grn,Tom YOUNG (Ind),skipped,skipped,1,6
+1490,Lab,Grn,SNP,Tom YOUNG (Ind),skipped,skipped,1,6
+1491,Lab,Grn,skipped,skipped,skipped,skipped,1,6
+1492,Lab,Grn,skipped,skipped,skipped,skipped,1,6
+1493,Lab,Grn,skipped,skipped,skipped,skipped,1,6
+1494,Lab,Grn,skipped,skipped,skipped,skipped,1,6
+1495,Lab,Grn,skipped,skipped,skipped,skipped,1,6
+1496,Lab,Grn,skipped,skipped,skipped,skipped,1,6
+1497,Lab,Grn,skipped,skipped,skipped,skipped,1,6
+1498,Lab,Grn,skipped,skipped,skipped,skipped,1,6
+1499,Lab,Grn,skipped,skipped,skipped,skipped,1,6
+1500,Lab,Grn,skipped,skipped,skipped,skipped,1,6
+1501,Lab,Grn,skipped,skipped,skipped,skipped,1,6
+1502,Lab,Grn,skipped,skipped,skipped,skipped,1,6
+1503,Lab,Grn,skipped,skipped,skipped,skipped,1,6
+1504,Lab,Grn,skipped,skipped,skipped,skipped,1,6
+1505,Tom YOUNG (Ind),SNP,Grn,Ellen MCMASTER (Ind),Lab,Con,1,6
+1506,Tom YOUNG (Ind),SNP,Grn,Ellen MCMASTER (Ind),Lab,Con,1,6
+1507,SNP,Tom YOUNG (Ind),Con,Grn,Lab,Ellen MCMASTER (Ind),1,6
+1508,SNP,Lab,Con,skipped,skipped,skipped,1,6
+1509,SNP,Lab,Con,skipped,skipped,skipped,1,6
+1510,Grn,SNP,Lab,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),1,6
+1511,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,Lab,skipped,skipped,1,6
+1512,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,Lab,skipped,skipped,1,6
+1513,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,Lab,skipped,skipped,1,6
+1514,Ellen MCMASTER (Ind),Lab,Grn,Tom YOUNG (Ind),skipped,skipped,1,6
+1515,Ellen MCMASTER (Ind),Lab,Grn,Tom YOUNG (Ind),skipped,skipped,1,6
+1516,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),Lab,Grn,skipped,1,6
+1517,Ellen MCMASTER (Ind),SNP,Tom YOUNG (Ind),Grn,Lab,Con,1,6
+1518,Ellen MCMASTER (Ind),SNP,Tom YOUNG (Ind),Grn,Lab,Con,1,6
+1519,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),Grn,SNP,Con,1,6
+1520,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),Grn,SNP,Con,1,6
+1521,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),Grn,SNP,Con,1,6
+1522,Lab,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1523,Lab,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1524,Lab,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1525,SNP,Grn,Tom YOUNG (Ind),Lab,skipped,skipped,1,6
+1526,SNP,Grn,Tom YOUNG (Ind),Lab,skipped,skipped,1,6
+1527,Grn,Ellen MCMASTER (Ind),SNP,Tom YOUNG (Ind),skipped,skipped,1,6
+1528,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1529,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1530,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1531,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1532,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1533,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1534,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1535,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1536,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1537,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1538,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1539,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1540,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1541,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1542,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1543,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1544,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1545,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1546,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1547,Tom YOUNG (Ind),Grn,Con,skipped,skipped,skipped,1,6
+1548,Tom YOUNG (Ind),Grn,Con,skipped,skipped,skipped,1,6
+1549,Tom YOUNG (Ind),Grn,Con,skipped,skipped,skipped,1,6
+1550,Tom YOUNG (Ind),Grn,Con,skipped,skipped,skipped,1,6
+1551,Grn,Ellen MCMASTER (Ind),SNP,Con,skipped,skipped,1,6
+1552,Grn,Con,Lab,skipped,skipped,skipped,1,6
+1553,Grn,Con,Lab,skipped,skipped,skipped,1,6
+1554,Ellen MCMASTER (Ind),Grn,Con,skipped,skipped,skipped,1,6
+1555,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1556,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1557,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1558,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1559,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1560,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1561,Con,Ellen MCMASTER (Ind),Grn,SNP,skipped,skipped,1,6
+1562,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Grn,SNP,1,6
+1563,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Grn,SNP,1,6
+1564,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Grn,SNP,1,6
+1565,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Grn,SNP,1,6
+1566,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Grn,SNP,1,6
+1567,SNP,Ellen MCMASTER (Ind),Grn,Lab,skipped,skipped,1,6
+1568,Con,Ellen MCMASTER (Ind),SNP,Grn,Tom YOUNG (Ind),Lab,1,6
+1569,Con,Grn,Lab,SNP,Tom YOUNG (Ind),Ellen MCMASTER (Ind),1,6
+1570,Lab,Grn,SNP,skipped,skipped,skipped,1,6
+1571,Lab,Grn,SNP,skipped,skipped,skipped,1,6
+1572,Lab,Grn,SNP,skipped,skipped,skipped,1,6
+1573,Lab,Grn,SNP,skipped,skipped,skipped,1,6
+1574,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,skipped,1,6
+1575,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,SNP,Lab,Con,1,6
+1576,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,SNP,Lab,Con,1,6
+1577,SNP,Lab,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),skipped,1,6
+1578,Lab,Grn,Ellen MCMASTER (Ind),SNP,Con,Tom YOUNG (Ind),1,6
+1579,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),Con,Lab,SNP,1,6
+1580,SNP,Ellen MCMASTER (Ind),Grn,Lab,Con,Tom YOUNG (Ind),1,6
+1581,Con,Grn,Lab,Ellen MCMASTER (Ind),SNP,skipped,1,6
+1582,Grn,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,SNP,1,6
+1583,SNP,Grn,Tom YOUNG (Ind),Con,Lab,Ellen MCMASTER (Ind),1,6
+1584,SNP,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),Lab,Con,1,6
+1585,SNP,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),Lab,Con,1,6
+1586,SNP,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),Lab,Con,1,6
+1587,SNP,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),Lab,Con,1,6
+1588,SNP,Grn,Ellen MCMASTER (Ind),Lab,Con,Tom YOUNG (Ind),1,6
+1589,Tom YOUNG (Ind),Lab,Con,skipped,skipped,skipped,1,6
+1590,Tom YOUNG (Ind),Lab,Con,skipped,skipped,skipped,1,6
+1591,Tom YOUNG (Ind),Lab,Con,skipped,skipped,skipped,1,6
+1592,Tom YOUNG (Ind),Lab,Con,skipped,skipped,skipped,1,6
+1593,Grn,Lab,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,1,6
+1594,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,skipped,1,6
+1595,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,skipped,1,6
+1596,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,skipped,1,6
+1597,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,skipped,1,6
+1598,Lab,Grn,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),SNP,1,6
+1599,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,Grn,SNP,Con,1,6
+1600,Lab,Tom YOUNG (Ind),Con,skipped,skipped,skipped,1,6
+1601,Lab,Tom YOUNG (Ind),Con,skipped,skipped,skipped,1,6
+1602,Lab,Tom YOUNG (Ind),Con,skipped,skipped,skipped,1,6
+1603,Lab,Tom YOUNG (Ind),Con,skipped,skipped,skipped,1,6
+1604,Lab,Tom YOUNG (Ind),Con,skipped,skipped,skipped,1,6
+1605,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),SNP,Lab,skipped,1,6
+1606,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Grn,SNP,skipped,1,6
+1607,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,Lab,Con,SNP,1,6
+1608,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,Lab,Con,SNP,1,6
+1609,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,Lab,Con,SNP,1,6
+1610,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1611,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1612,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1613,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1614,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1615,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1616,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1617,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1618,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1619,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1620,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1621,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1622,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1623,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1624,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1625,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1626,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1627,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1628,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1629,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1630,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1631,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1632,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1633,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1634,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1635,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1636,Con,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+1637,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1638,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1639,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1640,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1641,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1642,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1643,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1644,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1645,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1646,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1647,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1648,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1649,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1650,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1651,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1652,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1653,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1654,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,skipped,1,6
+1655,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Grn,Con,SNP,1,6
+1656,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Grn,Con,SNP,1,6
+1657,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),Grn,skipped,skipped,1,6
+1658,Tom YOUNG (Ind),Lab,Con,Ellen MCMASTER (Ind),Grn,SNP,1,6
+1659,Con,Grn,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),SNP,1,6
+1660,Con,Grn,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),SNP,1,6
+1661,SNP,Con,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Lab,1,6
+1662,Grn,Con,skipped,skipped,skipped,skipped,1,6
+1663,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1664,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1665,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1666,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1667,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1668,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1669,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1670,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1671,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1672,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1673,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1674,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1675,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1676,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1677,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1678,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1679,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1680,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1681,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1682,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1683,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1684,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1685,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1686,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1687,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1688,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1689,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1690,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1691,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1692,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1693,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1694,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1695,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1696,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1697,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1698,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1699,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1700,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1701,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1702,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1703,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1704,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1705,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1706,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1707,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1708,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1709,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1710,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1711,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1712,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1713,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1714,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1715,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1716,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1717,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1718,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,skipped,1,6
+1719,SNP,Lab,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,1,6
+1720,SNP,Lab,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,1,6
+1721,SNP,Lab,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,1,6
+1722,SNP,Lab,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,1,6
+1723,Tom YOUNG (Ind),Con,Lab,Ellen MCMASTER (Ind),Grn,SNP,1,6
+1724,Tom YOUNG (Ind),Con,Lab,Ellen MCMASTER (Ind),Grn,SNP,1,6
+1725,Grn,SNP,Ellen MCMASTER (Ind),Lab,Con,skipped,1,6
+1726,Grn,SNP,Ellen MCMASTER (Ind),Lab,Con,skipped,1,6
+1727,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1728,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1729,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1730,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1731,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1732,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1733,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1734,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,Grn,SNP,1,6
+1735,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1736,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1737,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1738,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1739,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1740,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1741,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1742,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1743,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1744,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1745,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1746,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1747,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1748,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1749,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1750,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1751,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1752,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1753,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1754,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1755,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1756,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1757,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1758,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1759,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1760,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1761,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1762,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1763,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1764,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1765,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1766,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1767,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1768,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1769,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1770,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1771,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1772,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1773,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1774,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1775,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1776,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1777,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1778,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1779,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1780,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1781,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1782,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1783,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1784,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1785,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1786,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1787,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1788,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1789,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1790,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1791,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1792,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1793,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1794,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1795,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1796,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1797,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1798,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1799,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1800,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1801,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1802,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1803,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1804,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1805,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1806,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1807,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1808,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1809,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1810,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1811,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1812,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1813,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1814,Con,Tom YOUNG (Ind),skipped,skipped,skipped,skipped,1,6
+1815,Grn,SNP,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,1,6
+1816,Ellen MCMASTER (Ind),Con,Tom YOUNG (Ind),SNP,Lab,Grn,1,6
+1817,Ellen MCMASTER (Ind),Con,Tom YOUNG (Ind),SNP,Lab,Grn,1,6
+1818,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1819,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1820,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1821,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1822,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1823,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1824,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1825,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1826,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1827,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1828,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1829,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1830,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1831,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1832,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1833,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1834,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1835,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1836,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1837,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1838,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1839,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1840,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1841,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1842,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1843,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1844,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1845,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1846,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1847,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1848,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1849,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1850,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1851,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1852,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1853,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1854,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1855,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1856,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1857,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1858,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1859,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1860,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1861,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1862,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1863,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1864,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1865,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1866,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1867,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1868,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1869,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1870,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1871,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1872,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1873,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1874,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1875,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1876,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1877,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1878,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1879,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1880,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1881,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1882,Lab,skipped,skipped,skipped,skipped,skipped,1,6
+1883,SNP,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Lab,Con,1,6
+1884,SNP,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Lab,Con,1,6
+1885,SNP,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Lab,Con,1,6
+1886,SNP,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Lab,Con,1,6
+1887,SNP,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Lab,Con,1,6
+1888,SNP,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Lab,Con,1,6
+1889,Grn,Con,SNP,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,1,6
+1890,SNP,Grn,Tom YOUNG (Ind),Con,skipped,skipped,1,6
+1891,SNP,Grn,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),Lab,1,6
+1892,Lab,SNP,Tom YOUNG (Ind),Grn,skipped,skipped,1,6
+1893,Lab,Con,SNP,skipped,skipped,skipped,1,6
+1894,Lab,Con,SNP,skipped,skipped,skipped,1,6
+1895,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,SNP,Lab,Grn,1,6
+1896,Con,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1897,Con,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1898,Con,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1899,Con,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1900,Con,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1901,Con,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1902,Con,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1903,Con,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1904,Con,Grn,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+1905,Con,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,1,6
+1906,Tom YOUNG (Ind),Lab,SNP,skipped,skipped,skipped,1,6
+1907,Tom YOUNG (Ind),Con,Lab,skipped,skipped,skipped,1,6
+1908,Tom YOUNG (Ind),Con,Lab,skipped,skipped,skipped,1,6
+1909,Tom YOUNG (Ind),Con,Lab,skipped,skipped,skipped,1,6
+1910,Tom YOUNG (Ind),Con,Lab,skipped,skipped,skipped,1,6
+1911,Tom YOUNG (Ind),Con,Lab,skipped,skipped,skipped,1,6
+1912,Tom YOUNG (Ind),Con,Lab,skipped,skipped,skipped,1,6
+1913,Tom YOUNG (Ind),Con,Lab,skipped,skipped,skipped,1,6
+1914,Tom YOUNG (Ind),Con,Lab,skipped,skipped,skipped,1,6
+1915,Tom YOUNG (Ind),Con,Lab,skipped,skipped,skipped,1,6
+1916,Tom YOUNG (Ind),Con,Lab,skipped,skipped,skipped,1,6
+1917,Con,SNP,Lab,Grn,skipped,skipped,1,6
+1918,Lab,Tom YOUNG (Ind),SNP,Grn,Ellen MCMASTER (Ind),Con,1,6
+1919,Grn,Tom YOUNG (Ind),SNP,skipped,skipped,skipped,1,6
+1920,Grn,Tom YOUNG (Ind),SNP,skipped,skipped,skipped,1,6
+1921,Grn,Tom YOUNG (Ind),SNP,skipped,skipped,skipped,1,6
+1922,Grn,Tom YOUNG (Ind),SNP,skipped,skipped,skipped,1,6
+1923,Grn,Tom YOUNG (Ind),SNP,skipped,skipped,skipped,1,6
+1924,Grn,Tom YOUNG (Ind),SNP,skipped,skipped,skipped,1,6
+1925,Grn,Tom YOUNG (Ind),SNP,skipped,skipped,skipped,1,6
+1926,Tom YOUNG (Ind),Grn,SNP,Con,Lab,Ellen MCMASTER (Ind),1,6
+1927,Grn,SNP,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,1,6
+1928,Grn,SNP,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,1,6
+1929,Tom YOUNG (Ind),Con,SNP,Ellen MCMASTER (Ind),Lab,Grn,1,6
+1930,Tom YOUNG (Ind),Con,SNP,Ellen MCMASTER (Ind),Lab,Grn,1,6
+1931,Grn,SNP,Lab,skipped,skipped,skipped,1,6
+1932,Grn,SNP,Lab,skipped,skipped,skipped,1,6
+1933,Grn,SNP,Lab,skipped,skipped,skipped,1,6
+1934,Grn,SNP,Lab,skipped,skipped,skipped,1,6
+1935,Grn,SNP,Lab,skipped,skipped,skipped,1,6
+1936,Grn,SNP,Lab,skipped,skipped,skipped,1,6
+1937,Grn,SNP,Lab,skipped,skipped,skipped,1,6
+1938,Grn,SNP,Lab,skipped,skipped,skipped,1,6
+1939,Grn,SNP,Lab,skipped,skipped,skipped,1,6
+1940,Grn,SNP,Lab,skipped,skipped,skipped,1,6
+1941,Grn,SNP,Lab,skipped,skipped,skipped,1,6
+1942,Grn,SNP,Lab,skipped,skipped,skipped,1,6
+1943,Grn,SNP,Lab,skipped,skipped,skipped,1,6
+1944,Grn,SNP,Lab,skipped,skipped,skipped,1,6
+1945,Grn,SNP,Lab,skipped,skipped,skipped,1,6
+1946,Grn,SNP,Lab,skipped,skipped,skipped,1,6
+1947,Tom YOUNG (Ind),Grn,Lab,Con,Ellen MCMASTER (Ind),skipped,1,6
+1948,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,SNP,Lab,skipped,1,6
+1949,Ellen MCMASTER (Ind),SNP,Grn,Tom YOUNG (Ind),Con,Lab,1,6
+1950,Ellen MCMASTER (Ind),SNP,Grn,Tom YOUNG (Ind),Con,Lab,1,6
+1951,Grn,SNP,Lab,Tom YOUNG (Ind),skipped,skipped,1,6
+1952,Con,SNP,Lab,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),1,6
+1953,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1954,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1955,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1956,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1957,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1958,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1959,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+1960,Ellen MCMASTER (Ind),Con,Lab,skipped,skipped,skipped,1,6
+1961,Ellen MCMASTER (Ind),Con,Lab,skipped,skipped,skipped,1,6
+1962,Ellen MCMASTER (Ind),Con,Lab,skipped,skipped,skipped,1,6
+1963,Ellen MCMASTER (Ind),SNP,Grn,Lab,Con,skipped,1,6
+1964,Grn,SNP,Ellen MCMASTER (Ind),Con,skipped,skipped,1,6
+1965,Tom YOUNG (Ind),Grn,SNP,Lab,skipped,skipped,1,6
+1966,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,SNP,skipped,skipped,1,6
+1967,Con,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,SNP,1,6
+1968,Con,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,SNP,1,6
+1969,SNP,Grn,Tom YOUNG (Ind),Lab,Con,skipped,1,6
+1970,Con,Grn,Lab,Ellen MCMASTER (Ind),skipped,skipped,1,6
+1971,SNP,Tom YOUNG (Ind),Lab,Grn,Ellen MCMASTER (Ind),skipped,1,6
+1972,Ellen MCMASTER (Ind),SNP,Con,skipped,skipped,skipped,1,6
+1973,SNP,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,Lab,Con,1,6
+1974,SNP,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,Lab,Con,1,6
+1975,SNP,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,Lab,Con,1,6
+1976,SNP,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,Lab,Con,1,6
+1977,Ellen MCMASTER (Ind),SNP,Lab,Grn,skipped,skipped,1,6
+1978,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,skipped,skipped,1,6
+1979,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,skipped,skipped,1,6
+1980,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,skipped,skipped,1,6
+1981,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,skipped,skipped,1,6
+1982,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,skipped,skipped,1,6
+1983,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,skipped,skipped,1,6
+1984,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,skipped,skipped,1,6
+1985,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,skipped,skipped,1,6
+1986,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,SNP,Grn,1,6
+1987,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,SNP,Grn,1,6
+1988,Ellen MCMASTER (Ind),Lab,Grn,Tom YOUNG (Ind),Con,SNP,1,6
+1989,Con,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+1990,Con,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+1991,Con,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+1992,Con,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+1993,Con,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+1994,Con,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+1995,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,1,6
+1996,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,1,6
+1997,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,1,6
+1998,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,1,6
+1999,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,1,6
+2000,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,1,6
+2001,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,1,6
+2002,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,1,6
+2003,SNP,Grn,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,1,6
+2004,Lab,Con,skipped,skipped,skipped,skipped,1,6
+2005,Lab,Con,skipped,skipped,skipped,skipped,1,6
+2006,Lab,Con,skipped,skipped,skipped,skipped,1,6
+2007,Lab,Con,skipped,skipped,skipped,skipped,1,6
+2008,Lab,Con,skipped,skipped,skipped,skipped,1,6
+2009,Lab,Con,skipped,skipped,skipped,skipped,1,6
+2010,Lab,Con,skipped,skipped,skipped,skipped,1,6
+2011,Lab,Con,skipped,skipped,skipped,skipped,1,6
+2012,Lab,Con,skipped,skipped,skipped,skipped,1,6
+2013,Lab,Con,skipped,skipped,skipped,skipped,1,6
+2014,Lab,Con,skipped,skipped,skipped,skipped,1,6
+2015,Lab,Con,skipped,skipped,skipped,skipped,1,6
+2016,Lab,Con,skipped,skipped,skipped,skipped,1,6
+2017,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,Con,skipped,skipped,1,6
+2018,SNP,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2019,SNP,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2020,SNP,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2021,Ellen MCMASTER (Ind),SNP,Grn,skipped,skipped,skipped,1,6
+2022,Ellen MCMASTER (Ind),SNP,Grn,skipped,skipped,skipped,1,6
+2023,Ellen MCMASTER (Ind),SNP,Grn,skipped,skipped,skipped,1,6
+2024,Ellen MCMASTER (Ind),SNP,Grn,skipped,skipped,skipped,1,6
+2025,Ellen MCMASTER (Ind),SNP,Grn,skipped,skipped,skipped,1,6
+2026,Ellen MCMASTER (Ind),SNP,Grn,Con,Tom YOUNG (Ind),Lab,1,6
+2027,Ellen MCMASTER (Ind),SNP,Grn,Con,Tom YOUNG (Ind),Lab,1,6
+2028,Ellen MCMASTER (Ind),SNP,Grn,Con,Tom YOUNG (Ind),Lab,1,6
+2029,Tom YOUNG (Ind),SNP,Grn,Lab,Ellen MCMASTER (Ind),Con,1,6
+2030,Tom YOUNG (Ind),SNP,skipped,skipped,skipped,skipped,1,6
+2031,Tom YOUNG (Ind),SNP,skipped,skipped,skipped,skipped,1,6
+2032,Tom YOUNG (Ind),SNP,skipped,skipped,skipped,skipped,1,6
+2033,Tom YOUNG (Ind),SNP,skipped,skipped,skipped,skipped,1,6
+2034,Tom YOUNG (Ind),SNP,skipped,skipped,skipped,skipped,1,6
+2035,Tom YOUNG (Ind),SNP,skipped,skipped,skipped,skipped,1,6
+2036,Grn,Con,Tom YOUNG (Ind),SNP,skipped,skipped,1,6
+2037,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,1,6
+2038,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,1,6
+2039,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,skipped,1,6
+2040,SNP,Ellen MCMASTER (Ind),Lab,Grn,skipped,skipped,1,6
+2041,SNP,Con,Lab,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),1,6
+2042,Con,Ellen MCMASTER (Ind),Lab,skipped,skipped,skipped,1,6
+2043,Con,Ellen MCMASTER (Ind),Lab,skipped,skipped,skipped,1,6
+2044,Con,Ellen MCMASTER (Ind),Lab,skipped,skipped,skipped,1,6
+2045,Con,Ellen MCMASTER (Ind),Lab,skipped,skipped,skipped,1,6
+2046,Lab,Tom YOUNG (Ind),Con,Grn,SNP,Ellen MCMASTER (Ind),1,6
+2047,Grn,SNP,Lab,Con,Tom YOUNG (Ind),skipped,1,6
+2048,Ellen MCMASTER (Ind),Grn,Lab,Tom YOUNG (Ind),SNP,Con,1,6
+2049,SNP,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),skipped,skipped,1,6
+2050,SNP,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),skipped,skipped,1,6
+2051,SNP,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),skipped,skipped,1,6
+2052,SNP,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),skipped,skipped,1,6
+2053,SNP,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),skipped,skipped,1,6
+2054,SNP,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),skipped,skipped,1,6
+2055,SNP,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),skipped,skipped,1,6
+2056,SNP,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),skipped,skipped,1,6
+2057,SNP,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2058,SNP,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2059,SNP,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2060,SNP,Lab,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2061,Con,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),Grn,SNP,1,6
+2062,Con,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),Grn,SNP,1,6
+2063,Con,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),Grn,SNP,1,6
+2064,Con,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),Grn,SNP,1,6
+2065,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),SNP,Lab,skipped,1,6
+2066,Grn,SNP,Ellen MCMASTER (Ind),Con,Tom YOUNG (Ind),Lab,1,6
+2067,SNP,Lab,Grn,Ellen MCMASTER (Ind),skipped,skipped,1,6
+2068,SNP,Lab,Grn,Ellen MCMASTER (Ind),skipped,skipped,1,6
+2069,Ellen MCMASTER (Ind),Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2070,Ellen MCMASTER (Ind),Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2071,Ellen MCMASTER (Ind),Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2072,Ellen MCMASTER (Ind),Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2073,Ellen MCMASTER (Ind),Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2074,Ellen MCMASTER (Ind),Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2075,Ellen MCMASTER (Ind),Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2076,Ellen MCMASTER (Ind),Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2077,Ellen MCMASTER (Ind),Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2078,Ellen MCMASTER (Ind),Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2079,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),Lab,SNP,Con,1,6
+2080,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),Lab,SNP,Con,1,6
+2081,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),Lab,SNP,Con,1,6
+2082,SNP,Grn,Con,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),1,6
+2083,SNP,Tom YOUNG (Ind),Grn,Lab,Ellen MCMASTER (Ind),Con,1,6
+2084,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),Lab,Con,SNP,1,6
+2085,Tom YOUNG (Ind),SNP,Grn,Lab,Con,Ellen MCMASTER (Ind),1,6
+2086,Lab,Tom YOUNG (Ind),Con,Ellen MCMASTER (Ind),Grn,SNP,1,6
+2087,Con,Ellen MCMASTER (Ind),SNP,skipped,skipped,skipped,1,6
+2088,Con,Ellen MCMASTER (Ind),SNP,skipped,skipped,skipped,1,6
+2089,Con,Ellen MCMASTER (Ind),SNP,skipped,skipped,skipped,1,6
+2090,Con,Ellen MCMASTER (Ind),SNP,skipped,skipped,skipped,1,6
+2091,Con,Ellen MCMASTER (Ind),SNP,skipped,skipped,skipped,1,6
+2092,Con,SNP,Grn,skipped,skipped,skipped,1,6
+2093,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2094,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2095,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2096,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2097,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2098,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2099,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2100,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2101,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2102,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2103,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2104,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2105,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2106,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2107,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2108,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2109,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2110,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2111,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2112,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2113,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2114,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2115,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2116,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2117,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2118,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2119,SNP,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2120,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,Grn,skipped,1,6
+2121,SNP,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,skipped,1,6
+2122,Ellen MCMASTER (Ind),Grn,Con,Lab,SNP,Tom YOUNG (Ind),1,6
+2123,Tom YOUNG (Ind),Grn,Lab,Con,Ellen MCMASTER (Ind),SNP,1,6
+2124,Ellen MCMASTER (Ind),Grn,SNP,Tom YOUNG (Ind),Lab,Con,1,6
+2125,Ellen MCMASTER (Ind),Grn,SNP,Tom YOUNG (Ind),Lab,Con,1,6
+2126,Grn,Tom YOUNG (Ind),Con,SNP,Ellen MCMASTER (Ind),Lab,1,6
+2127,Con,SNP,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),Lab,1,6
+2128,Grn,SNP,Lab,Con,skipped,skipped,1,6
+2129,Tom YOUNG (Ind),Grn,SNP,Lab,Ellen MCMASTER (Ind),Con,1,6
+2130,Tom YOUNG (Ind),Grn,SNP,Lab,Ellen MCMASTER (Ind),Con,1,6
+2131,Tom YOUNG (Ind),Grn,SNP,Lab,Ellen MCMASTER (Ind),Con,1,6
+2132,Tom YOUNG (Ind),Grn,SNP,Lab,Ellen MCMASTER (Ind),Con,1,6
+2133,Lab,Grn,SNP,Ellen MCMASTER (Ind),Con,Tom YOUNG (Ind),1,6
+2134,Con,Tom YOUNG (Ind),Lab,Grn,Ellen MCMASTER (Ind),SNP,1,6
+2135,Con,Tom YOUNG (Ind),Lab,Grn,Ellen MCMASTER (Ind),SNP,1,6
+2136,Con,Tom YOUNG (Ind),Lab,Grn,Ellen MCMASTER (Ind),SNP,1,6
+2137,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,Lab,SNP,Con,1,6
+2138,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,Lab,SNP,Con,1,6
+2139,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Grn,Lab,SNP,Con,1,6
+2140,Tom YOUNG (Ind),Grn,Lab,Ellen MCMASTER (Ind),SNP,Con,1,6
+2141,Lab,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2142,Lab,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2143,Lab,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2144,Lab,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2145,Lab,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2146,Lab,Ellen MCMASTER (Ind),Grn,skipped,skipped,skipped,1,6
+2147,Con,Tom YOUNG (Ind),Lab,Grn,skipped,skipped,1,6
+2148,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Lab,SNP,1,6
+2149,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Lab,SNP,1,6
+2150,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Lab,SNP,1,6
+2151,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Lab,SNP,1,6
+2152,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Lab,SNP,1,6
+2153,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Lab,SNP,1,6
+2154,Con,Lab,SNP,skipped,skipped,skipped,1,6
+2155,Con,Lab,SNP,skipped,skipped,skipped,1,6
+2156,SNP,Con,Lab,skipped,skipped,skipped,1,6
+2157,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Con,1,6
+2158,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Con,1,6
+2159,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Con,1,6
+2160,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Con,1,6
+2161,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Con,1,6
+2162,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Con,1,6
+2163,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Con,1,6
+2164,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Con,1,6
+2165,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Con,1,6
+2166,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Con,1,6
+2167,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Con,1,6
+2168,SNP,Grn,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Lab,Con,1,6
+2169,Tom YOUNG (Ind),Con,skipped,skipped,skipped,skipped,1,6
+2170,Tom YOUNG (Ind),Con,skipped,skipped,skipped,skipped,1,6
+2171,Tom YOUNG (Ind),Con,skipped,skipped,skipped,skipped,1,6
+2172,Tom YOUNG (Ind),Con,skipped,skipped,skipped,skipped,1,6
+2173,Tom YOUNG (Ind),Con,skipped,skipped,skipped,skipped,1,6
+2174,Tom YOUNG (Ind),Con,skipped,skipped,skipped,skipped,1,6
+2175,Tom YOUNG (Ind),Con,skipped,skipped,skipped,skipped,1,6
+2176,Tom YOUNG (Ind),Con,skipped,skipped,skipped,skipped,1,6
+2177,Tom YOUNG (Ind),Con,skipped,skipped,skipped,skipped,1,6
+2178,Tom YOUNG (Ind),Con,skipped,skipped,skipped,skipped,1,6
+2179,Tom YOUNG (Ind),Con,skipped,skipped,skipped,skipped,1,6
+2180,Tom YOUNG (Ind),Con,skipped,skipped,skipped,skipped,1,6
+2181,Tom YOUNG (Ind),Con,skipped,skipped,skipped,skipped,1,6
+2182,Tom YOUNG (Ind),Con,skipped,skipped,skipped,skipped,1,6
+2183,Tom YOUNG (Ind),Con,skipped,skipped,skipped,skipped,1,6
+2184,Tom YOUNG (Ind),Con,skipped,skipped,skipped,skipped,1,6
+2185,Tom YOUNG (Ind),Con,skipped,skipped,skipped,skipped,1,6
+2186,Tom YOUNG (Ind),Con,skipped,skipped,skipped,skipped,1,6
+2187,SNP,Con,skipped,skipped,skipped,skipped,1,6
+2188,SNP,Con,skipped,skipped,skipped,skipped,1,6
+2189,SNP,Con,skipped,skipped,skipped,skipped,1,6
+2190,SNP,Con,skipped,skipped,skipped,skipped,1,6
+2191,SNP,Con,skipped,skipped,skipped,skipped,1,6
+2192,SNP,Con,skipped,skipped,skipped,skipped,1,6
+2193,Con,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),Lab,SNP,1,6
+2194,Con,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),Lab,SNP,1,6
+2195,Con,Tom YOUNG (Ind),Grn,Ellen MCMASTER (Ind),Lab,SNP,1,6
+2196,Grn,Con,Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2197,Ellen MCMASTER (Ind),SNP,Tom YOUNG (Ind),Grn,skipped,skipped,1,6
+2198,Lab,Grn,SNP,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,1,6
+2199,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+2200,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+2201,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+2202,Grn,SNP,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,1,6
+2203,Grn,SNP,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,1,6
+2204,Grn,SNP,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,1,6
+2205,Grn,SNP,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Con,1,6
+2206,Grn,Ellen MCMASTER (Ind),SNP,Tom YOUNG (Ind),Lab,Con,1,6
+2207,Ellen MCMASTER (Ind),SNP,Grn,Tom YOUNG (Ind),Lab,Con,1,6
+2208,Ellen MCMASTER (Ind),SNP,Grn,Tom YOUNG (Ind),Lab,Con,1,6
+2209,Ellen MCMASTER (Ind),SNP,Grn,Tom YOUNG (Ind),Lab,Con,1,6
+2210,Ellen MCMASTER (Ind),SNP,Grn,Tom YOUNG (Ind),Lab,Con,1,6
+2211,Ellen MCMASTER (Ind),SNP,Grn,Tom YOUNG (Ind),Lab,Con,1,6
+2212,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2213,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2214,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2215,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2216,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2217,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2218,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2219,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2220,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2221,Lab,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2222,SNP,Ellen MCMASTER (Ind),Con,skipped,skipped,skipped,1,6
+2223,SNP,Ellen MCMASTER (Ind),Con,skipped,skipped,skipped,1,6
+2224,SNP,Ellen MCMASTER (Ind),Con,skipped,skipped,skipped,1,6
+2225,SNP,Tom YOUNG (Ind),Lab,skipped,skipped,skipped,1,6
+2226,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2227,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2228,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2229,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2230,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2231,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2232,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2233,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2234,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2235,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2236,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2237,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2238,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2239,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2240,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2241,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2242,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2243,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2244,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2245,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2246,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2247,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2248,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2249,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2250,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2251,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2252,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2253,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2254,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2255,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2256,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2257,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2258,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2259,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2260,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2261,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2262,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2263,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2264,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2265,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2266,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2267,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2268,Con,Ellen MCMASTER (Ind),Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2269,Grn,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2270,Grn,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2271,Grn,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2272,Grn,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2273,Grn,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2274,Grn,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2275,Grn,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2276,Grn,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2277,Grn,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2278,Grn,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2279,Grn,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2280,Grn,SNP,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
+2281,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+2282,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+2283,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+2284,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+2285,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+2286,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+2287,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+2288,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+2289,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+2290,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+2291,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+2292,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+2293,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+2294,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+2295,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+2296,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+2297,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+2298,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+2299,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,skipped,1,6
+2300,Con,Lab,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),SNP,1,6
+2301,Con,Lab,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),SNP,1,6
+2302,Con,SNP,Grn,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),1,6
+2303,Con,Grn,SNP,Ellen MCMASTER (Ind),skipped,skipped,1,6
+2304,Con,Tom YOUNG (Ind),Grn,SNP,skipped,skipped,1,6
+2305,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2306,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2307,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2308,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2309,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2310,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2311,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2312,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2313,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2314,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2315,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2316,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2317,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2318,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2319,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2320,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2321,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2322,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2323,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2324,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2325,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2326,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2327,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2328,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2329,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2330,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2331,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2332,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2333,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2334,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2335,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2336,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2337,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2338,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2339,Con,Tom YOUNG (Ind),Ellen MCMASTER (Ind),skipped,skipped,skipped,1,6
+2340,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2341,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2342,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2343,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2344,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2345,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2346,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2347,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2348,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2349,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2350,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2351,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2352,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2353,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2354,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2355,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2356,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2357,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2358,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2359,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2360,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2361,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2362,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2363,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2364,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2365,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2366,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2367,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2368,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2369,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2370,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2371,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2372,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2373,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2374,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2375,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2376,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2377,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2378,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2379,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2380,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2381,Con,Lab,skipped,skipped,skipped,skipped,1,6
+2382,SNP,Grn,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),skipped,1,6
+2383,SNP,Grn,Con,skipped,skipped,skipped,1,6
+2384,SNP,Grn,Con,skipped,skipped,skipped,1,6
+2385,SNP,Grn,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,1,6
+2386,SNP,Grn,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,1,6
+2387,SNP,Grn,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,1,6
+2388,SNP,Grn,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,1,6
+2389,SNP,Grn,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,1,6
+2390,SNP,Grn,Lab,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,1,6
+2391,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,Grn,skipped,skipped,1,6
+2392,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,Grn,skipped,skipped,1,6
+2393,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,Grn,skipped,skipped,1,6
+2394,Ellen MCMASTER (Ind),Lab,Tom YOUNG (Ind),Con,skipped,skipped,1,6
+2395,Grn,Tom YOUNG (Ind),Lab,SNP,Ellen MCMASTER (Ind),Con,1,6
+2396,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Con,skipped,skipped,1,6
+2397,SNP,Grn,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),Con,1,6
+2398,SNP,Grn,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),Con,1,6
+2399,SNP,Grn,Tom YOUNG (Ind),Lab,Ellen MCMASTER (Ind),Con,1,6
+2400,SNP,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+2401,SNP,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+2402,SNP,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+2403,SNP,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+2404,SNP,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+2405,SNP,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+2406,SNP,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+2407,SNP,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+2408,SNP,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+2409,SNP,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+2410,SNP,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+2411,SNP,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+2412,SNP,Tom YOUNG (Ind),Grn,skipped,skipped,skipped,1,6
+2413,Lab,Ellen MCMASTER (Ind),Con,Tom YOUNG (Ind),Grn,SNP,1,6
+2414,Grn,Tom YOUNG (Ind),SNP,Ellen MCMASTER (Ind),skipped,skipped,1,6
+2415,SNP,Ellen MCMASTER (Ind),Con,Lab,Grn,Tom YOUNG (Ind),1,6
+2416,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,skipped,skipped,skipped,1,6
+2417,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,skipped,skipped,skipped,1,6
+2418,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,skipped,skipped,skipped,1,6
+2419,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,skipped,skipped,skipped,1,6
+2420,Tom YOUNG (Ind),Ellen MCMASTER (Ind),Con,skipped,skipped,skipped,1,6
+2421,Tom YOUNG (Ind),Lab,Con,Grn,Ellen MCMASTER (Ind),SNP,1,6
+2422,Ellen MCMASTER (Ind),Tom YOUNG (Ind),Grn,Con,SNP,Lab,1,6
+2423,SNP,Lab,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Con,1,6
+2424,SNP,Lab,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Con,1,6
+2425,SNP,Lab,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Con,1,6
+2426,SNP,Lab,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Con,1,6
+2427,SNP,Lab,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Con,1,6
+2428,SNP,Lab,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Con,1,6
+2429,SNP,Lab,Ellen MCMASTER (Ind),Grn,Tom YOUNG (Ind),Con,1,6
+2430,Grn,Con,Tom YOUNG (Ind),skipped,skipped,skipped,1,6
