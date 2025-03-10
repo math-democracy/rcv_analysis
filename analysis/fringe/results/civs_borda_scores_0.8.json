@@ -1,0 +1,5512 @@
+{
+    "metadata": {
+        "election_with_changes": 711,
+        "spoiler_counts": {
+            "2": 623,
+            "4": 38,
+            "6": 33,
+            "8": 16,
+            "22": 1
+        },
+        "method_counts": {
+            "approval": 632,
+            "approval_fringe": 632,
+            "plurality_fringe": 105,
+            "plurality": 105,
+            "top-two_fringe": 62,
+            "top-two": 62,
+            "IRV_fringe": 31,
+            "IRV": 31,
+            "smith_fringe": 24,
+            "smith": 24,
+            "bucklin": 7,
+            "bucklin_fringe": 7,
+            "top-3-truncation_fringe": 4,
+            "top-3-truncation": 4,
+            "smith_irv": 2,
+            "smith_irv_fringe": 2,
+            "smith-minimax_fringe": 1,
+            "minimax_fringe": 1,
+            "ranked-pairs": 1,
+            "smith_plurality": 1,
+            "condorcet": 1,
+            "ranked-pairs_fringe": 1,
+            "minimax": 1,
+            "condorcet_fringe": 1,
+            "smith-minimax": 1,
+            "smith_plurality_fringe": 1,
+            "borda-om": 1,
+            "borda-om_fringe": 1
+        }
+    },
+    "winners": {
+        "fff6696f25.csv": {
+            "approval": "['2', '1', '18']",
+            "approval_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "ff20e6049e.csv": {
+            "approval": "['1', '2']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "fee94d4ea6.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "fee8f23324.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "fec8bd30a5.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "fe07eff0c1.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "fabd136b5d.csv": {
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "f97d0d799b.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "f97c8bc045.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "f8d73b1e02.csv": {
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "f8d520375a.csv": {
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "f87234d740.csv": {
+            "approval": "['2']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "f677b44444.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "f36c6431bf.csv": {
+            "plurality": "['5']",
+            "plurality_fringe": [
+                1
+            ],
+            "approval": "['1', '11']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "f27d01c4af.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "f21f9c68c8.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "f0535305a9.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "eed4756773.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "ed7debafd9.csv": {
+            "approval": "['5', '1', '2']",
+            "approval_fringe": [
+                1,
+                1,
+                0
+            ]
+        },
+        "ed535944fd.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "ed1eb9a1b8.csv": {
+            "approval": "['1', '2']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "ecc4d063e9.csv": {
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "ec061ecd7a.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "ebf56f0e01.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "e92f2146ca.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "e8d83c9c40.csv": {
+            "plurality": "['5']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "e8d512194a.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "e71c220e1a.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "e59384a31d.csv": {
+            "approval": "['8']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "e46e7e09dd.csv": {
+            "approval": "['6']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "e4119ed4da.csv": {
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "e3be7b1c4e.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "e2c72e66f9.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "e288e8cba2.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "e1ad6f70f8.csv": {
+            "plurality": "['2']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['2']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['2']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "dfe601fbd2.csv": {
+            "plurality": "['16']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['16']",
+            "top-two_fringe": [
+                1
+            ],
+            "top-3-truncation": "['16']",
+            "top-3-truncation_fringe": [
+                1
+            ]
+        },
+        "dcfef48d62.csv": {
+            "approval": "['1', '3']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "dc6f18cbb6.csv": {
+            "plurality": "['2']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "db0124f143.csv": {
+            "approval": "['7', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "da0ca04d90.csv": {
+            "plurality": "['6']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['6']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "da05724cb2.csv": {
+            "approval": "['7', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "d97fba64f5.csv": {
+            "approval": "['7', '1', '2']",
+            "approval_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "d8d7a70b03.csv": {
+            "approval": "['1', '3']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "d8021b9b2e.csv": {
+            "plurality": "['10']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['6']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['6']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "d7046b6c81.csv": {
+            "plurality": "['7']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['7']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['7']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "d6bd92be8b.csv": {
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ]
+        },
+        "d3dec007e5.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['2']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "d3addfc2aa.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "d2e9be6bc0.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "d10bfa4599.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "cf2adbb8c7.csv": {
+            "approval": "['14']",
+            "approval_fringe": [
+                1
+            ],
+            "smith": "['5', '9', '1', '8', '6', '4', '10']",
+            "smith_fringe": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "cb5a8fe5e1.csv": {
+            "approval": "['5', '2']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "cb46063882.csv": {
+            "approval": "['1', '2']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "caf5812585.csv": {
+            "plurality": "['20']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['12']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['12']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "caa8641f3b.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "c7f98ad4e7.csv": {
+            "approval": "['5', '1', '2']",
+            "approval_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "c7e9e07d33.csv": {
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "c7cb917484.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "c73b0e5015.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "smith": "['1', '2', '4', '3']",
+            "smith_fringe": [
+                0,
+                0,
+                1,
+                0
+            ]
+        },
+        "c58637112c.csv": {
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "c4c332b844.csv": {
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "c3306f08b3.csv": {
+            "smith": "['3', '1', '6', '2', '11']",
+            "smith_fringe": [
+                1,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        "c20f265101.csv": {
+            "approval": "['1', '10']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "c0fcb7402f.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "c0771dfce6.csv": {
+            "approval": "['1', '2', '3']",
+            "approval_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "bee8cc85f2.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "bdc8163cad.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "bd4eaac3d9.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "bb7ff2e0a3.csv": {
+            "approval": "['3', '1', '2', '6']",
+            "approval_fringe": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "bb6730b59c.csv": {
+            "approval": "['1', '3']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "bac449b82b.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "baae129009.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "ba80f299ef.csv": {
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "ba2245df4f.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "b9c9c9d9be.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['1', '2', '4', '3']",
+            "approval_fringe": [
+                0,
+                1,
+                1,
+                1
+            ]
+        },
+        "b99fc4a4c1.csv": {
+            "smith": "['7', '5', '3', '9', '1', '6', '2', '8', '4', '10']",
+            "smith_fringe": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        "b983165db7.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ],
+            "smith": "['5', '1', '6', '2']",
+            "smith_fringe": [
+                0,
+                1,
+                0,
+                1
+            ]
+        },
+        "b972d43e4c.csv": {
+            "plurality": "['5']",
+            "plurality_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "b91f64f5f1.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "b8e01947fe.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "b72862e48c.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "b6ec122b70.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "b5e347928f.csv": {
+            "approval": "['5', '3', '1', '2', '4']",
+            "approval_fringe": [
+                1,
+                1,
+                1,
+                0,
+                1
+            ]
+        },
+        "b47d464c38.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "b4789d8c4a.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "b3c1016cbf.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "b20317b704.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "b17de76666.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "ade63f642c.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "ac5b422100.csv": {
+            "smith": "['7', '5', '3', '1', '2', '6', '4']",
+            "smith_fringe": [
+                0,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "aaa440d5d4.csv": {
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "a9cc09e005.csv": {
+            "approval": "['1', '3', '8']",
+            "approval_fringe": [
+                1,
+                1,
+                0
+            ]
+        },
+        "a9ca88764c.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a95da3fae2.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a774444c67.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a653ba4478.csv": {
+            "plurality": "['2']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['2']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a5e7c04f2e.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a4ef8c1a14.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "a4da0b309a.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a4343f3000.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a355239d0f.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a2d06789a6.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "a0940f8551.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9e21961bbe.csv": {
+            "smith": "['7', '5', '3', '9', '1', '8', '6', '4', '10']",
+            "smith_fringe": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        "9d5ecafb8b.csv": {
+            "top-two": "['7']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "9d56ec1929.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9d07a69841.csv": {
+            "approval": "['5', '1', '2']",
+            "approval_fringe": [
+                1,
+                0,
+                1
+            ]
+        },
+        "9b2fc1d380.csv": {
+            "approval": "['1', '3']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "9ad6395948.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9aa93284ac.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "994032380c.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9920ddfa36.csv": {
+            "approval": "['8']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9821a31cd8.csv": {
+            "approval": "['1', '2']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "9518bbbdb3.csv": {
+            "approval": "['17']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9509b17dbf.csv": {
+            "approval": "['1', '2']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "9111755b5f.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "90cb30b087.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "8dadd0f958.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "8d8ac6dd42.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "8b22755f60.csv": {
+            "approval": "['8']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "88d2adc230.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "87f76d675b.csv": {
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "87acf6e445.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "87869154e9.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "875b9c1e8c.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "86aa9d11f6.csv": {
+            "approval": "['5', '1', '3']",
+            "approval_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "860c3dbe8c.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "858ea98d86.csv": {
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "851e169c45.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "84e574309f.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "8318038381.csv": {
+            "IRV": "['5']",
+            "IRV_fringe": [
+                1
+            ],
+            "smith_irv": "['5']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith": "['7', '5', '3', '1', '8', '2', '6', '4']",
+            "smith_fringe": [
+                0,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1
+            ]
+        },
+        "8172585383.csv": {
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "8160fd66be.csv": {
+            "approval": "['9']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "81063b0ad8.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "80e8ef4d0e.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "7dd32fef75.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "7d9a59aaff.csv": {
+            "approval": "['5', '1', '2']",
+            "approval_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "7d80fd33d6.csv": {
+            "approval": "['6']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "7cf340711d.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "7cb2cd792c.csv": {
+            "plurality": "['7']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "7ac09a7565.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "7aa0eddee6.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "7a7677067a.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "79d68b75bc.csv": {
+            "smith": "['7', '5', '3', '9', '1', '2', '8', '6', '4', '10']",
+            "smith_fringe": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        "79ce0d8408.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "7906327096.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "78c500cf24.csv": {
+            "approval": "['2', '1', '3']",
+            "approval_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "78aa1b237e.csv": {
+            "plurality": "['8']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "7865e54bcd.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "77dce0c078.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "77c228cf6a.csv": {
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "7643a09b2f.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "76255ca669.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "750d1188f5.csv": {
+            "plurality": "['9']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-3-truncation": "['16']",
+            "top-3-truncation_fringe": [
+                1
+            ]
+        },
+        "7417846d27.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "730ce6dfb0.csv": {
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "7200b7ed13.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "716b2e55fc.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['3']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['7', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "710b4f07c6.csv": {
+            "smith": "['5', '3', '1', '2', '6', '11', '4', '10']",
+            "smith_fringe": [
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                1
+            ]
+        },
+        "70bab1ac40.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "70a947870c.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "706287763d.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "6f64eadd3c.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "6e92622204.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "6d8af25822.csv": {
+            "approval": "['1', '3']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "6cf8f2aacf.csv": {
+            "plurality": "['11']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['6']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['12']",
+            "top-two_fringe": [
+                1
+            ],
+            "top-3-truncation": "['12']",
+            "top-3-truncation_fringe": [
+                1
+            ]
+        },
+        "6cc318c5f1.csv": {
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "6cb2721c9d.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "6c3fcb4d84.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "6c0953105c.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "6bd433f583.csv": {
+            "approval": "['1', '6', '3']",
+            "approval_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "6aca14326d.csv": {
+            "approval": "['1', '2', '3']",
+            "approval_fringe": [
+                1,
+                1,
+                1
+            ]
+        },
+        "66d98053eb.csv": {
+            "plurality": "['5']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['5']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['7', '2']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "654f1aee20.csv": {
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ],
+            "smith": "['1', '2', '3']",
+            "smith_fringe": [
+                0,
+                1,
+                1
+            ]
+        },
+        "64db433888.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "64bdf4bc9d.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "64a95dbfcd.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "646e04882e.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "64500f2f6d.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "63f41e6a38.csv": {
+            "top-3-truncation": "['11']",
+            "top-3-truncation_fringe": [
+                1
+            ]
+        },
+        "63d0f58297.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "63756b783d.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['3']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "61695dc447.csv": {
+            "plurality": "['2']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "60956f3d7e.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "608f427c9b.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['3']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "6016249643.csv": {
+            "approval": "['1', '3']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "5f8571e94e.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "5f38736b3e.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "5e9bfc4aca.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "5c80424256.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "59b0d703cc.csv": {
+            "approval": "['7', '1', '5', '3']",
+            "approval_fringe": [
+                0,
+                1,
+                0,
+                1
+            ]
+        },
+        "54a1303b07.csv": {
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "51b3247fd3.csv": {
+            "plurality": "['2']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['5', '1', '2', '4']",
+            "approval_fringe": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        "508494d6bd.csv": {
+            "plurality": "['2']",
+            "plurality_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "506e4d83da.csv": {
+            "approval": "['1', '3']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "50514291b5.csv": {
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "4edf04a450.csv": {
+            "approval": "['2']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "4d1c6e57eb.csv": {
+            "approval": "['1', '3']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "4c3c23ab3e.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "4bbd9f82cc.csv": {
+            "approval": "['1', '3']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "45f8659fb6.csv": {
+            "approval": "['1', '2', '3']",
+            "approval_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "45423f3347.csv": {
+            "approval": "['1', '3']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "43d779f759.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "4362bbb66b.csv": {
+            "approval": "['1', '9']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "41572bae6c.csv": {
+            "approval": "['7']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "40c1671887.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "40301f1ab0.csv": {
+            "approval": "['1', '3']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "3e980c993e.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "3e4669a526.csv": {
+            "approval": "['1', '3']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "3d02a4a363.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "3bb7bb570f.csv": {
+            "plurality": "['8']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['8']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "3ae897ce86.csv": {
+            "approval": "['5', '1', '2']",
+            "approval_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "398e05438d.csv": {
+            "plurality": "['5']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "37c5f356ad.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                1,
+                0
+            ],
+            "smith": "['3', '1', '2', '6', '4']",
+            "smith_fringe": [
+                1,
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        "370783d656.csv": {
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "3654170686.csv": {
+            "approval": "['1', '2', '4']",
+            "approval_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "3510846bfa.csv": {
+            "plurality": "['5']",
+            "plurality_fringe": [
+                1
+            ],
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "34d230ee29.csv": {
+            "approval": "['5', '1', '2']",
+            "approval_fringe": [
+                1,
+                0,
+                1
+            ]
+        },
+        "33cecc12cd.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "32f207e2c7.csv": {
+            "approval": "['5', '3']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "31fc6d05a1.csv": {
+            "plurality": "['9']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "303e1bb1d0.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['1', '10']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "2fd9701fd8.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "2e9b957de4.csv": {
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ],
+            "smith": "['1', '2', '4']",
+            "smith_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "2cd8571f16.csv": {
+            "plurality": "['8']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['8']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['1', '9']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "2c83e6077c.csv": {
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "2c7c0102c8.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "2c48ca0394.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "2ba912473c.csv": {
+            "approval": "['5', '1', '2', '3']",
+            "approval_fringe": [
+                1,
+                0,
+                1,
+                0
+            ]
+        },
+        "2b83534649.csv": {
+            "approval": "['1', '2']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "2a875d28d4.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "29fd964d25.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "28cb2eef22.csv": {
+            "approval": "['1', '2', '3']",
+            "approval_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "27dc95f871.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "26b0f0c366.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "26a942d43b.csv": {
+            "plurality": "['7']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['7']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['7']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "24c8ad541b.csv": {
+            "approval": "['1', '3']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "21ab3bef6f.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "20cf623758.csv": {
+            "plurality": "['8']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "1d8fa599bc.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "1c6225a43d.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "1c5bd18a11.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "1c5bc1529d.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['3']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['8']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "1bda2a5e83.csv": {
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ],
+            "smith": "['5', '1', '2', '4']",
+            "smith_fringe": [
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        "1a51797968.csv": {
+            "plurality": "['7']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "19c2be1ed3.csv": {
+            "approval": "['1', '3']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "1972996725.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "approval": "['1', '2']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "18c08cffd2.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "184f9b8775.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "178feea29a.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "16d22bfcc1.csv": {
+            "approval": "['1', '10']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "15cf92fe69.csv": {
+            "approval": "['5', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "15cd5a3b57.csv": {
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "14e7415aa5.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "14b00823e0.csv": {
+            "plurality": "['14']",
+            "plurality_fringe": [
+                1
+            ],
+            "approval": "['14']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "146c769bf9.csv": {
+            "approval": "['6']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "126b3f35fa.csv": {
+            "approval": "['1', '2']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "1114134ca1.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "106143579b.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "0e4913f51d.csv": {
+            "approval": "['2', '4', '3']",
+            "approval_fringe": [
+                1,
+                0,
+                1
+            ]
+        },
+        "0c672ed43e.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "0b34216377.csv": {
+            "approval": "['5', '1', '2']",
+            "approval_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "0ae597bef6.csv": {
+            "smith": "['7', '5', '3', '1', '2', '4']",
+            "smith_fringe": [
+                0,
+                0,
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        "0ad286a666.csv": {
+            "plurality": "['8']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['7']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['8']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['10']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "0a89f33ab1.csv": {
+            "plurality": "['5']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "097f12a3c9.csv": {
+            "approval": "['1', '3']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "096caf24ca.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "07ecd6f7a4.csv": {
+            "approval": "['1', '2', '3']",
+            "approval_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "0655f141f2.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "062d387c31.csv": {
+            "smith": "['7', '5', '3', '1', '2', '6', '4']",
+            "smith_fringe": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "0434da862a.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "029918cc9d.csv": {
+            "approval": "['1', '3']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "011cbc9173.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "011aff90c9.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "01019103bd.csv": {
+            "approval": "['1', '3']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "00515ef6e8.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "002b987e0e.csv": {
+            "approval": "['17']",
+            "approval_fringe": [
+                1
+            ],
+            "smith": "['7', '13', '17', '12', '5', '3', '9', '1', '2', '6', '8', '11', '15', '16', '14', '4', '10']",
+            "smith_fringe": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1
+            ]
+        },
+        "fe665326fe.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "fe31d904b0.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "fc915f783e.csv": {
+            "approval": "['1', '5']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "fbdab62a4d.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "fbda4fb474.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "fb6ff69f3e.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "fb43e3fd3c.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "fadd79f874.csv": {
+            "approval": "['7', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "fab2d05bde.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "fa68623142.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "fa57d14b41.csv": {
+            "approval": "['2', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "fa52c1263e.csv": {
+            "approval": "['2', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "f9c403aaf2.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "f8e3055ab0.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "f8c9f15bcd.csv": {
+            "approval": "['2', '3', '1']",
+            "approval_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "f8061c72a7.csv": {
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "f744fc29f2.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "f717e284d6.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "f4e9a7207e.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "f402bb45ce.csv": {
+            "approval": "['2', '3', '1']",
+            "approval_fringe": [
+                1,
+                1,
+                1
+            ]
+        },
+        "f3bbc57970.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "f37c669406.csv": {
+            "approval": "['4', '3', '2', '1', '5']",
+            "approval_fringe": [
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        },
+        "f2e54a1696.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "f1faf34abd.csv": {
+            "approval": "['4', '3', '2', '1', '5']",
+            "approval_fringe": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ]
+        },
+        "f1cf4e06f5.csv": {
+            "bucklin": "['5']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "f199ec5b4e.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "f11efc971d.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "f08f4624a2.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "effb2446dc.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "ef4f6312e8.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "ef3d63d975.csv": {
+            "approval": "['4', '7', '2', '1', '5']",
+            "approval_fringe": [
+                1,
+                1,
+                0,
+                1,
+                1
+            ]
+        },
+        "edf57c98c9.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "ece6115669.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "ec8f00cb00.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "ec8b755183.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "ec259dda8a.csv": {
+            "approval": "['2', '1', '5']",
+            "approval_fringe": [
+                0,
+                1,
+                1
+            ]
+        },
+        "e919de83d7.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "e8cffd243a.csv": {
+            "plurality": "['8']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['8']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['8']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "e863638d77.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "e7fb5b6f88.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "e77ea66915.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['2', '3', '1', '6']",
+            "approval_fringe": [
+                1,
+                1,
+                1,
+                0
+            ]
+        },
+        "e75344389b.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "e737799075.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "e6ef71f16f.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "e5765b0d4f.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "e472cfb88d.csv": {
+            "approval": "['2', '3', '1', '4']",
+            "approval_fringe": [
+                1,
+                0,
+                1,
+                0
+            ]
+        },
+        "e267f26fed.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "e21ee36d77.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "df41a50556.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "defbd544a9.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "debe60f1f9.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "de721807e4.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "db694ea4f5.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "db3b763640.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "dac760de30.csv": {
+            "approval": "['4', '3', '2', '1', '5']",
+            "approval_fringe": [
+                1,
+                0,
+                0,
+                1,
+                0
+            ]
+        },
+        "da0a7787df.csv": {
+            "approval": "['9']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "d9107773eb.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "d8a5ca21da.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "d881da9e23.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "d7d0d44ff2.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "d76e77290c.csv": {
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['2', '1', '5']",
+            "approval_fringe": [
+                1,
+                0,
+                0
+            ],
+            "smith": "['4', '3', '2', '1', '5']",
+            "smith_fringe": [
+                1,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        "d6fc1c48f4.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "d6cd465864.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "d5fb0f5236.csv": {
+            "plurality": "['5']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "d5f4c352a7.csv": {
+            "approval": "['2', '3', '1', '4']",
+            "approval_fringe": [
+                1,
+                1,
+                1,
+                0
+            ]
+        },
+        "d5a617b208.csv": {
+            "approval": "['1', '12']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "d58b364fd6.csv": {
+            "approval": "['2', '3', '1']",
+            "approval_fringe": [
+                1,
+                1,
+                1
+            ]
+        },
+        "d4e6153892.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "d43c891c25.csv": {
+            "smith": "['4', '3', '2', '1', '6']",
+            "smith_fringe": [
+                1,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "d3e7478ae6.csv": {
+            "approval": "['2', '1', '5']",
+            "approval_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "d3abdeaed7.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "d33fc8b5af.csv": {
+            "approval": "['1', '5']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "d33f6b698e.csv": {
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "d2ecdc924e.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "d22be6a690.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "d106e6dd09.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "d04ad32b6b.csv": {
+            "approval": "['1', '5']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "cfa0ee73fa.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "cf8033ed46.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "cf6370da30.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "cf5e8082b1.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "ce05665d54.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "cc94e10365.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "cbe08d8e57.csv": {
+            "approval": "['1', '21']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "cb542efa27.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "caa9970593.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['3']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "ca7f502857.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "ca4e0ddfe6.csv": {
+            "approval": "['11', '1']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "ca486b7d61.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "ca1ee127b4.csv": {
+            "approval": "['8']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "c9c772de1f.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "c91bfcdf2d.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "c8d8cb3cd7.csv": {
+            "approval": "['2', '3']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "c8d4ba48ff.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "c8cb5fa285.csv": {
+            "approval": "['1', '12']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "c8afa0c29e.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "c8ae85882b.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "c77b96228b.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "c6c92c97c1.csv": {
+            "approval": "['2', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "c5ca6f89d2.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "c55223153a.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "c52ae8d89e.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "c49566b3eb.csv": {
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "c46b966c9b.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "c462b25ab4.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "c410567da2.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "c37fd67c1a.csv": {
+            "plurality": "['2']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['3']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "c37f82e37b.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "condorcet": "['4']",
+            "condorcet_fringe": [
+                1
+            ],
+            "minimax": "['4']",
+            "minimax_fringe": [
+                1
+            ],
+            "smith_plurality": "['4']",
+            "smith_plurality_fringe": [
+                1
+            ],
+            "smith_irv": "['4']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith-minimax": "['4']",
+            "smith-minimax_fringe": [
+                1
+            ],
+            "ranked-pairs": "['4']",
+            "ranked-pairs_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ],
+            "smith": "['4']",
+            "smith_fringe": [
+                1
+            ]
+        },
+        "c30ea11814.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "c2a7275a4a.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "c2598abc64.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "c22b56e793.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "c1bfc1aeba.csv": {
+            "approval": "['3', '1', '4']",
+            "approval_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "c120ebf69c.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "c0717292e3.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "bea2f60666.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "be7fcc5716.csv": {
+            "approval": "['3', '1', '5']",
+            "approval_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "bd8e7b8c61.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "bc8f8e049a.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "bc5349b96b.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "bc25a25e08.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "bbf60746fb.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "bb8a63e842.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "bb267d8067.csv": {
+            "plurality": "['8']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['8']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['8']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "baf2f85125.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "badd952b91.csv": {
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "ba37b02a09.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "b958edca21.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "b92743733a.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "b78b82af23.csv": {
+            "approval": "['1', '5']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "b6cb63d9ec.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "b649caa8e2.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "b471536a35.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "b4342e61e7.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "b35d82a81d.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "b2956bd326.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "b0c4ca9556.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "ad0e3a88cb.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "ace3e1db6a.csv": {
+            "borda-om": "['4']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "ab5060eb69.csv": {
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "ab01b1a93e.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "aac8e0f780.csv": {
+            "approval": "['6']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "aa464eaa70.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "aa1b41b208.csv": {
+            "plurality": "['2']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['2']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "aa085809fd.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a973f5cedb.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "a80a5a28ab.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "a7826861ce.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a5b0abd0fa.csv": {
+            "plurality": "['2']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['5']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a503ece2ac.csv": {
+            "approval": "['2', '3', '1']",
+            "approval_fringe": [
+                1,
+                0,
+                1
+            ]
+        },
+        "a4dfb1b20a.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a46d8a3fc9.csv": {
+            "approval": "['7', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "a42a6e65f6.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a29f71e532.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a296e3bfb4.csv": {
+            "approval": "['2', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "a2523d3ab3.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a23a120a0b.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "a08224bd80.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "a077413f56.csv": {
+            "approval": "['8']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9fe2bd2aa2.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9f2388edd8.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9e7d1bba6d.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9d34d748cd.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9c82db59ae.csv": {
+            "smith": "['4', '3', '2', '1', '5']",
+            "smith_fringe": [
+                1,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "9c56f8fef4.csv": {
+            "approval": "['2', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "9b93987c65.csv": {
+            "approval": "['7', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "9b5f794033.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9b284e6040.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9a4ca1b869.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9929e3a231.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "98942c3159.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "97a1220941.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9748563dc3.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "97173bf123.csv": {
+            "approval": "['2', '1', '4', '5']",
+            "approval_fringe": [
+                0,
+                1,
+                1,
+                1
+            ]
+        },
+        "96866b24b8.csv": {
+            "approval": "['1', '5']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "961c517aa4.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "951de05c36.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "94d38d675a.csv": {
+            "approval": "['9', '1']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "9434636eae.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "92834e24e1.csv": {
+            "plurality": "['5']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['5']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['5']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['9']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "921dcb2298.csv": {
+            "approval": "['2', '3', '1', '5']",
+            "approval_fringe": [
+                1,
+                1,
+                0,
+                1
+            ]
+        },
+        "9212e81f36.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "91a4079dfd.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "912378a651.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "911d17c637.csv": {
+            "plurality": "['2']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['2']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['2']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9115413fde.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "9026671f57.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "8ff09b1c51.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "8f3d5abd4b.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "8f20e283f5.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "8f194ac7a8.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "8e20d5be40.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "8df9efb223.csv": {
+            "plurality": "['6']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['6']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "8cc8a889b4.csv": {
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "8c1ebfc884.csv": {
+            "approval": "['2', '3', '1', '4']",
+            "approval_fringe": [
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        "8bb9c3ecc9.csv": {
+            "approval": "['2', '1', '5']",
+            "approval_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "8b02719418.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "8a453c8e8f.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "88db5a04b7.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['4']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "8852abebe9.csv": {
+            "bucklin": "['2']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "880ced8349.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "858f1929b4.csv": {
+            "approval": "['1', '5']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "853c2d932f.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "8443fd90ac.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "842a4bbd1a.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "83ea237b1f.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "83b7c23fe0.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "830baf55df.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "821221e686.csv": {
+            "approval": "['4', '3', '2', '1', '5']",
+            "approval_fringe": [
+                0,
+                0,
+                1,
+                1,
+                0
+            ]
+        },
+        "815811b567.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "80d4cc708b.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "8075154f06.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "7fb07d5b38.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "7e1b2e69b0.csv": {
+            "approval": "['2', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "7cfb157374.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "7c72184916.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "7c6ca29325.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "7ba7cc6925.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "7b99a5f08a.csv": {
+            "bucklin": "['6']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "7b0d210ab0.csv": {
+            "approval": "['2', '3', '1']",
+            "approval_fringe": [
+                1,
+                1,
+                0
+            ]
+        },
+        "7ae41d855a.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "7a60bfb0b7.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "7a35dbccaf.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "79d56fe1d4.csv": {
+            "approval": "['2', '3', '1', '4']",
+            "approval_fringe": [
+                1,
+                0,
+                1,
+                0
+            ]
+        },
+        "79d0f24c8e.csv": {
+            "approval": "['9', '3', '1']",
+            "approval_fringe": [
+                1,
+                1,
+                0
+            ]
+        },
+        "78e56c650a.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "781d4dcd8b.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "781ae1db01.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "78112b5fdc.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "77ddf5b010.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "77cd28695f.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "7650929425.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "7642fc1437.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "762620cf62.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "75437037ef.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "7479790f34.csv": {
+            "approval": "['14', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "71f4ef7d71.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "716c268b20.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "714ad2b589.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "6fbc5d155d.csv": {
+            "approval": "['2', '1']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "6e0e621041.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "6de2313dc7.csv": {
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "6dc192fa7e.csv": {
+            "approval": "['1', '5']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "6db6077f50.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "6da19ab9a8.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "6d4cc313ee.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "6adb4fa662.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "6a8205680c.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "6a36603563.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "6800430866.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "668ca2de59.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "65214cfe78.csv": {
+            "approval": "['7']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "651b90a50c.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['2']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['2']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "64be1f9778.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "631d98490c.csv": {
+            "approval": "['2', '3', '1']",
+            "approval_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "620f86f07c.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "61eb93cb04.csv": {
+            "approval": "['2', '3', '1']",
+            "approval_fringe": [
+                1,
+                1,
+                0
+            ]
+        },
+        "61c4eebd64.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "5ec74f9b05.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "5e25486ff4.csv": {
+            "plurality": "['7']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['4']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['7']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "5dfd4df0c2.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "5df1f0c64e.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "5ccb51fbf4.csv": {
+            "bucklin": "['3']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "5c44ca2f84.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "5a792a15d2.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "5a4071c3bc.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "5a3cef079f.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "570375879a.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "56c3ead95e.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "5526f07e34.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "53ae59293e.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "53735c3eef.csv": {
+            "bucklin": "['1']",
+            "bucklin_fringe": [
+                1
+            ]
+        },
+        "527bf6bafc.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "52268fe8f0.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "51dce34bbd.csv": {
+            "approval": "['3', '1', '6']",
+            "approval_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "512dd3bfb7.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "50182e3168.csv": {
+            "approval": "['7', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "4d4d980abe.csv": {
+            "approval": "['7', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "4cdd441ed5.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "4c8598f39b.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "4b8320d3da.csv": {
+            "approval": "['2', '3', '1']",
+            "approval_fringe": [
+                1,
+                0,
+                1
+            ]
+        },
+        "4b21acfeff.csv": {
+            "approval": "['1', '5']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "4ae73ab91f.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "4acd607a76.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "49fed26f11.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "49c366ee50.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "49bc7fcd31.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "48c65d3e27.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "4880e0484f.csv": {
+            "approval": "['1', '4', '5']",
+            "approval_fringe": [
+                1,
+                0,
+                1
+            ]
+        },
+        "4823acfb88.csv": {
+            "approval": "['4', '3', '2', '1', '5']",
+            "approval_fringe": [
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        },
+        "478279cac0.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "476f34adc0.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "45d6cc06a1.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "45055236e4.csv": {
+            "approval": "['8']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "44e61345c8.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "44c1ca5631.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "4455621ee8.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "44345c0ec9.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "43fe577815.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "43fbe971d8.csv": {
+            "plurality": "['6']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "4335f9313e.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "42ccc4667a.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "4213b026e0.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "4205323617.csv": {
+            "approval": "['17']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "418ef97fc6.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "41524217ac.csv": {
+            "approval": "['1', '5']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "414efec4fa.csv": {
+            "plurality": "['6']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['5']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "3f77af6dbd.csv": {
+            "approval": "['2', '1', '5']",
+            "approval_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "3f51f326bd.csv": {
+            "approval": "['2', '3', '1']",
+            "approval_fringe": [
+                0,
+                1,
+                0
+            ]
+        },
+        "3f4ac46179.csv": {
+            "approval": "['2', '3']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "3f016a11fe.csv": {
+            "approval": "['7', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "3d8897435a.csv": {
+            "approval": "['2', '3', '1', '5']",
+            "approval_fringe": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "3ce3166da6.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "3bda087ae1.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['2']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "3bd0c997c8.csv": {
+            "plurality": "['2']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['2']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "3b4f11deaa.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "3ae3ca6d0a.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "3acde38497.csv": {
+            "approval": "['1', '5']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "3a9a0a309b.csv": {
+            "approval": "['2', '3', '1']",
+            "approval_fringe": [
+                1,
+                0,
+                1
+            ]
+        },
+        "3a537cc3fc.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "39c40a7b83.csv": {
+            "approval": "['2', '3', '1', '4']",
+            "approval_fringe": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "smith": "['4', '6', '7', '3', '2', '1', '5']",
+            "smith_fringe": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "3998c45a09.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "3978d92b38.csv": {
+            "approval": "['1', '12']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "3878a0194e.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "386254a1fc.csv": {
+            "approval": "['2', '1']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "3855220e17.csv": {
+            "approval": "['1', '5']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "37f35a560d.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "36cd9b2f39.csv": {
+            "approval": "['2', '3', '1', '4']",
+            "approval_fringe": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "3683dadbee.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "35b049e405.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "35078a6045.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "348707162f.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "341bd12b89.csv": {
+            "bucklin": "['3']",
+            "bucklin_fringe": [
+                1
+            ],
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "33f3523dc8.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "3394e03b7f.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "3309a7f1bf.csv": {
+            "plurality": "['5']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "328563994c.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "325484491d.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "3200b5e8ae.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "3196d079b0.csv": {
+            "approval": "['1', '8']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "30b4916fc2.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "30426e3ce0.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "2ff4bea6b7.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "2f4980f8aa.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "2f1e4457ee.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "2efc70c997.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "2ec9becb53.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "2e3da1aade.csv": {
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "2daeadbef5.csv": {
+            "approval": "['15']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "2d1b6e7171.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "2c2edb3540.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "2bfba1b691.csv": {
+            "approval": "['1', '5']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "2a787c224d.csv": {
+            "approval": "['2', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "2a51b55e91.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "29d405ecb2.csv": {
+            "approval": "['9', '5']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "2982b3d7da.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "28fcb95859.csv": {
+            "smith": "['4', '3', '2', '1', '5']",
+            "smith_fringe": [
+                1,
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        "28d41ac672.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "276b8ec468.csv": {
+            "plurality": "['5']",
+            "plurality_fringe": [
+                1
+            ],
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ],
+            "smith": "['2', '3', '1', '4']",
+            "smith_fringe": [
+                0,
+                0,
+                1,
+                0
+            ]
+        },
+        "276258a42f.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "271eb9092b.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "26279965a7.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "24b4368720.csv": {
+            "approval": "['7']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "24b351e321.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "24ab5c1001.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "24a006326f.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "2381cac505.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "22f6b96b74.csv": {
+            "approval": "['2', '3', '1']",
+            "approval_fringe": [
+                1,
+                1,
+                0
+            ]
+        },
+        "2296d07474.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "21a4f853c0.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "21079230d5.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "20fadf6373.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "1f7cc059bc.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "1f51051cfc.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "1f1042c788.csv": {
+            "approval": "['2', '3', '1', '8']",
+            "approval_fringe": [
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        "1e1f47e429.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "1df49fb44c.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "1d56c3efa4.csv": {
+            "approval": "['2', '3', '1', '6']",
+            "approval_fringe": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        "1d36f8cce6.csv": {
+            "plurality": "['3']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['2']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "1cf8bc601b.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "1b93f11791.csv": {
+            "plurality": "['5']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['2']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "1b10f1f600.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "1a3582a3ff.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "19e5289dd4.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "1865513d86.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "182db85ba7.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "17b54f4fb1.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "17a390b532.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "17786271e1.csv": {
+            "approval": "['5']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "176aeb7d1e.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "176a3188c6.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "15c1111155.csv": {
+            "plurality": "['5']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "14654a938b.csv": {
+            "plurality": "['6']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "14428d8c50.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "141e2169b2.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "13f3a9804b.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "1360136383.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "128549c25d.csv": {
+            "plurality": "['7']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "12009ebe7f.csv": {
+            "plurality": "['2']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['2']",
+            "top-two_fringe": [
+                1
+            ],
+            "approval": "['1', '5']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "1174e605e6.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "10ebb499ae.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "105a6b1903.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "0e83c9f8af.csv": {
+            "approval": "['11']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "0e0b0cb8f1.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "approval": "['7', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "0df5647a68.csv": {
+            "approval": "['2', '3', '1']",
+            "approval_fringe": [
+                1,
+                1,
+                0
+            ]
+        },
+        "0d4a90ba99.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "0d271cbe9f.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "0cc16c2c6d.csv": {
+            "plurality": "['2']",
+            "plurality_fringe": [
+                1
+            ],
+            "approval": "['2', '1', '5']",
+            "approval_fringe": [
+                1,
+                1,
+                0
+            ]
+        },
+        "0b6913bafa.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "0b624cefd0.csv": {
+            "approval": "['3', '4', '5']",
+            "approval_fringe": [
+                0,
+                0,
+                1
+            ]
+        },
+        "0a91ab4de1.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "0a4312f60a.csv": {
+            "approval": "['1', '6']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "0a2d849cd2.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "08917d1691.csv": {
+            "approval": "['1', '5']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "085f2401a6.csv": {
+            "approval": "['2']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "08003305ab.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['1']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['1']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "07e24a74f6.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "07d85ef49b.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "068161bdc7.csv": {
+            "approval": "['2', '9', '1', '4']",
+            "approval_fringe": [
+                0,
+                1,
+                1,
+                1
+            ]
+        },
+        "062e20108b.csv": {
+            "approval": "['1', '4']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "05c4374adf.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "05b2d8654a.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "058502ca97.csv": {
+            "approval": "['3']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "04afc9f2ef.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "043444229e.csv": {
+            "approval": "['11', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "03f77eaeae.csv": {
+            "approval": "['1', '5']",
+            "approval_fringe": [
+                1,
+                1
+            ]
+        },
+        "02b75cc6e5.csv": {
+            "plurality": "['4']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['3']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "02a6a5b1cf.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "025f8e2331.csv": {
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "02216240e9.csv": {
+            "approval": "['4']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "01d4b0cbc6.csv": {
+            "approval": "['7', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "018508461a.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                1,
+                0
+            ]
+        },
+        "016e4dfa80.csv": {
+            "plurality": "['1']",
+            "plurality_fringe": [
+                1
+            ],
+            "approval": "['1']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "001226896c.csv": {
+            "approval": "['3', '1']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        }
+    }
+}

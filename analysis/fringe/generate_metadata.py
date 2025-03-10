@@ -12,7 +12,9 @@ def extract_method_counts(folder_path):
                 file_path = os.path.join(dirpath, filename)
                 parts = file_path.split('/')
                 name = parts[-1].replace('.json', '')
-                method = parts[-2]
+                method = name.split('_')[-3]
+
+                print(parts, method)
 
                 f = name + "-" + method
                 

@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "election_with_changes": 5,
+        "spoiler_counts": {
+            "2": 4,
+            "6": 1
+        },
+        "method_counts": {
+            "plurality": 3,
+            "plurality_fringe": 3,
+            "approval": 2,
+            "approval_fringe": 2,
+            "IRV_fringe": 1,
+            "top-two_fringe": 1,
+            "top-two": 1,
+            "IRV": 1
+        }
+    },
+    "winners": {
+        "Alaska/Alaska_08162022_HouseofRepresentativesSpecial.csv": {
+            "plurality": "['Peltola, Mary S.']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['Peltola, Mary S.']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['Peltola, Mary S.']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "Minneapolis/Minneapolis_11072017_Ward3CityCouncil.csv": {
+            "plurality": "['Ginger Jentzen']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "Minneapolis/Minneapolis_11022021_ParkBoardDistrict6.csv": {
+            "plurality": "['Risa Hustad']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "Utah cities/ElkRidge_11022021_Mayor.csv": {
+            "approval": "['ROBERT HADDOCK', 'GORDON REYNOLDS']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "Alameda County/Oakland_11082016_CityCouncilDistrict3.csv": {
+            "approval": "['NONI D. SESSION']",
+            "approval_fringe": [
+                1
+            ]
+        }
+    }
+}

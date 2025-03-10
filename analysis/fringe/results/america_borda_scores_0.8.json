@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "election_with_changes": 2,
+        "spoiler_counts": {
+            "6": 1,
+            "2": 1
+        },
+        "method_counts": {
+            "plurality": 2,
+            "plurality_fringe": 2,
+            "IRV_fringe": 1,
+            "top-two_fringe": 1,
+            "top-two": 1,
+            "IRV": 1
+        }
+    },
+    "winners": {
+        "Alaska/Alaska_08162022_HouseofRepresentativesSpecial.csv": {
+            "plurality": "['Peltola, Mary S.']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['Peltola, Mary S.']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['Peltola, Mary S.']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "Cambridge, MA/Cambridge_11082011_SchoolCommittee.csv": {
+            "plurality": "['Fantini, Alfred B.']",
+            "plurality_fringe": [
+                1
+            ]
+        }
+    }
+}

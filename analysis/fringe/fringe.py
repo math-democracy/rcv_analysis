@@ -22,7 +22,7 @@ def rank_candidates(file_path, threshold):
     return result
 
 def compute_fringe(row, ranks):
-    methods = ["plurality","IRV","top-two","borda-pm","borda-om-no-uwi","borda-avg-no-uwi","top-3-truncation","condorcet","minimax","smith_plurality","smith_irv","smith-minimax","ranked-pairs","bucklin","approval"]
+    methods = ["plurality","IRV","top-two","borda-pm","borda-om","borda-avg","top-3-truncation","condorcet","minimax","smith_plurality","smith_irv","smith-minimax","ranked-pairs","bucklin","approval","smith"]
     file = row['file'].split('/')[-1]
     result = {}
     for method in methods:
@@ -39,13 +39,13 @@ def read_winners(ranks, file):
 def parse_data(df):
     fringe_columns = [col for col in df.columns if col.endswith('_fringe')]
     filtered_df = df[df[fringe_columns].applymap(lambda x: isinstance(x, list) and 1 in x).any(axis=1)]
-    filtered_df = filtered_df.drop(columns=['Unnamed: 0'])
+    # filtered_df = filtered_df.drop(columns=['Unnamed: 0'])
     filtered_df = filtered_df[sorted(filtered_df.columns)]
     filtered_df = filtered_df.set_index('file')
     return filtered_df
 
 def filter_columns(row):
-    methods = ["plurality","IRV","top-two","borda-pm","borda-om-no-uwi","borda-avg-no-uwi","top-3-truncation","condorcet","minimax","smith_plurality","smith_irv","smith-minimax","ranked-pairs","bucklin","approval"]
+    methods = ["plurality","IRV","top-two","borda-pm","borda-om","borda-avg","top-3-truncation","condorcet","minimax","smith_plurality","smith_irv","smith-minimax","ranked-pairs","bucklin","approval","smith"]
     filtered_data = {}
     for method in methods:
         fringe_col = method + "_fringe"
@@ -54,7 +54,7 @@ def filter_columns(row):
             filtered_data[fringe_col] = row[fringe_col]
     return filtered_data
 
-def main(scores, file, threshold):
+def main(scores, file, threshold, country, type):
     ranks = rank_candidates(scores, threshold)
     with open ('data.json', 'w') as f:
         f.write(json.dumps(ranks))
@@ -98,12 +98,15 @@ def main(scores, file, threshold):
         "winners": filtered_json_data
     }
 
-    output_file = f"civs_{threshold}.json"
+    output_file = f"{country}_{type}_{threshold}.json"
     with open(output_file, "w") as f:
         json.dump(output_data, f, indent=4)
 
 
 # print(rank_candidates('/Users/belle/Desktop/build/rcv_proposal/analysis/fringe/test.json', 0.5))
         
-for i in range(1, 10):
-    main('/Users/belle/Desktop/build/rcv_proposal/analysis/fringe/mention_scores/civs_mention_scores.json', '/Users/belle/Desktop/build/rcv_proposal/results/current/civs.csv', (i/10))
+for type in ['mention_scores', 'borda_scores']:
+    for country in ['america', 'australia', 'civs', 'scotland']:
+        for i in range(1, 10):
+            print(type, country)
+            main(f'/Users/belle/Desktop/build/rcv_proposal/analysis/fringe/{type}/{country}_{type}.json', f'/Users/belle/Desktop/build/rcv_proposal/results/current/{country}.csv', (i/10), country, type)

@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "election_with_changes": 17,
+        "spoiler_counts": {
+            "2": 17
+        },
+        "method_counts": {
+            "borda-om": 17,
+            "borda-om_fringe": 17
+        }
+    },
+    "winners": {
+        "Australia_NSW_LegAssembly_2017_ByElections/SB1701 LA Pref Data_NA_Manly.csv": {
+            "borda-om": "['RIDGE Kathryn']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Pittwater.csv": {
+            "borda-om": "['KORZY Miranda']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Monaro.csv": {
+            "borda-om": "['WILSON Bryce']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data North Shore.csv": {
+            "borda-om": "['CORRIGAN Carolyn']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Terrigal.csv": {
+            "borda-om": "['SUNDSTROM Jeff']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lane Cove.csv": {
+            "borda-om": "['ZBIK Andrew']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Manly.csv": {
+            "borda-om": "['GLANVILLE Kristyn']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Hawkesbury.csv": {
+            "borda-om": "['REYNOLDS Peter']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Vaucluse.csv": {
+            "borda-om": "['McEWIN Megan']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2101 LA Pref Data_NA_Upper Hunter.csv": {
+            "borda-om": "[\"O'CONNELL Kirsty\"]",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Miranda.csv": {
+            "borda-om": "['HOLLAND Greg']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Seven Hills.csv": {
+            "borda-om": "['BENJAMIN Susai']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Kiama.csv": {
+            "borda-om": "['KOLOMEITZ Glenn']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Parramatta.csv": {
+            "borda-om": "['SHAW James']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Vaucluse.csv": {
+            "borda-om": "['FREYER Karen']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Hornsby.csv": {
+            "borda-om": "['HOILE Melissa']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Coffs Harbour.csv": {
+            "borda-om": "['JUDGE Tony']",
+            "borda-om_fringe": [
+                1
+            ]
+        }
+    }
+}

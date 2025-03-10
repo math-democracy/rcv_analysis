@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "election_with_changes": 11,
+        "spoiler_counts": {
+            "2": 8,
+            "6": 3
+        },
+        "method_counts": {
+            "plurality": 7,
+            "plurality_fringe": 7,
+            "top-two_fringe": 3,
+            "top-two": 3,
+            "borda-om": 3,
+            "borda-om_fringe": 3,
+            "IRV_fringe": 2,
+            "IRV": 2,
+            "approval": 1,
+            "approval_fringe": 1,
+            "top-3-truncation_fringe": 1,
+            "top-3-truncation": 1
+        }
+    },
+    "winners": {
+        "Alaska/Alaska_08162022_HouseofRepresentativesSpecial.csv": {
+            "plurality": "['Peltola, Mary S.']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['Peltola, Mary S.']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['Peltola, Mary S.']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "Alaska/Alaska_11052024_StateHouseD6.csv": {
+            "borda-om": "['Johnson, Brent']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Alaska/Alaska_11052024_StateHouseD15.csv": {
+            "borda-om": "['Wells, Denny']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Alaska/Alaska_11082022_HouseDistrict11.csv": {
+            "plurality": "['Featherly, Walter T.']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "Minneapolis/Minneapolis_11072017_Ward3CityCouncil.csv": {
+            "plurality": "['Ginger Jentzen']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "Minneapolis/Minneapolis_11022021_ParkBoardDistrict6.csv": {
+            "plurality": "['Risa Hustad']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "Utah cities/ElkRidge_11022021_Mayor.csv": {
+            "approval": "['ROBERT HADDOCK', 'GORDON REYNOLDS']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "Burlington/Burlington_03032009_Mayor.csv": {
+            "plurality": "['Kurt Wright']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['Bob Kiss']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['Bob Kiss']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "San Francisco/SanFrancisco_11082011_Sheriff.csv": {
+            "borda-om": "['PAUL MIYAMOTO']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Cambridge, MA/Cambridge_11082011_SchoolCommittee.csv": {
+            "plurality": "['Fantini, Alfred B.']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "Cambridge, MA/Cambridge_11082005_SchoolCommittee.csv": {
+            "plurality": "['Nolan, Patricia M.']",
+            "plurality_fringe": [
+                1
+            ],
+            "top-two": "['Nolan, Patricia M.']",
+            "top-two_fringe": [
+                1
+            ],
+            "top-3-truncation": "['Nolan, Patricia M.']",
+            "top-3-truncation_fringe": [
+                1
+            ]
+        }
+    }
+}

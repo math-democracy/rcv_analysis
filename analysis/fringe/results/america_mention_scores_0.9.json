@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "election_with_changes": 16,
+        "spoiler_counts": {
+            "2": 14,
+            "6": 1,
+            "10": 1
+        },
+        "method_counts": {
+            "plurality": 10,
+            "plurality_fringe": 10,
+            "borda-om": 3,
+            "borda-om_fringe": 3,
+            "approval": 3,
+            "approval_fringe": 3,
+            "IRV_fringe": 2,
+            "top-two_fringe": 2,
+            "top-two": 2,
+            "IRV": 2,
+            "smith_fringe": 1,
+            "smith_irv_fringe": 1,
+            "smith_irv": 1,
+            "smith": 1
+        }
+    },
+    "winners": {
+        "Alaska/Alaska_08162022_HouseofRepresentativesSpecial.csv": {
+            "plurality": "['Peltola, Mary S.']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['Peltola, Mary S.']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['Peltola, Mary S.']",
+            "top-two_fringe": [
+                1
+            ]
+        },
+        "Alaska/Alaska_11082022_HouseDistrict6.csv": {
+            "borda-om": "['Flora, Louis A. \"Louie\"']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Alaska/Alaska_11052024_StateHouseD15.csv": {
+            "borda-om": "['Wells, Denny']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Alaska/Alaska_11052024_US_House.csv": {
+            "borda-om": "['Peltola, Mary S.']",
+            "borda-om_fringe": [
+                1
+            ]
+        },
+        "Minneapolis/Minneapolis_11072017_Ward3CityCouncil.csv": {
+            "plurality": "['Ginger Jentzen']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "Minneapolis/Minneapolis_11022021_CityCouncilWard2.csv": {
+            "plurality": "['Robin Wonsley Worlobah']",
+            "plurality_fringe": [
+                1
+            ],
+            "IRV": "['Robin Wonsley Worlobah']",
+            "IRV_fringe": [
+                1
+            ],
+            "top-two": "['Robin Wonsley Worlobah']",
+            "top-two_fringe": [
+                1
+            ],
+            "smith_irv": "['Robin Wonsley Worlobah']",
+            "smith_irv_fringe": [
+                1
+            ],
+            "smith": "['Robin Wonsley Worlobah', 'Yusra Arab', 'Cam Gordon']",
+            "smith_fringe": [
+                1,
+                0,
+                0
+            ]
+        },
+        "Minneapolis/Minneapolis_11062009_MinneapolisParkRecBoard.csv": {
+            "plurality": "['Bob Fine']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "Minneapolis/Minneapolis_11022021_ParkBoardDistrict6.csv": {
+            "plurality": "['Risa Hustad']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict90.csv": {
+            "approval": "['Pieh, Wendy']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "Utah cities/ElkRidge_11022021_Mayor.csv": {
+            "approval": "['ROBERT HADDOCK', 'GORDON REYNOLDS']",
+            "approval_fringe": [
+                0,
+                1
+            ]
+        },
+        "Alameda County/Oakland_11022010_Mayor.csv": {
+            "plurality": "['DON PERATA']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "Alameda County/Oakland_11082016_CityCouncilDistrict3.csv": {
+            "approval": "['NONI D. SESSION']",
+            "approval_fringe": [
+                1
+            ]
+        },
+        "Alameda County/Oakland_11062012_CityCouncilDistrict3.csv": {
+            "plurality": "['SEAN SULLIVAN']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "Alameda County/Berkeley_11082016_CityCouncilDistrict2.csv": {
+            "plurality": "['DARRYL MOORE']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "San Francisco/SanFrancisco_11052024_BoS_D5.csv": {
+            "plurality": "['DEAN PRESTON']",
+            "plurality_fringe": [
+                1
+            ]
+        },
+        "Cambridge, MA/Cambridge_11082011_SchoolCommittee.csv": {
+            "plurality": "['Fantini, Alfred B.']",
+            "plurality_fringe": [
+                1
+            ]
+        }
+    }
+}

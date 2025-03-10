@@ -1,0 +1,1256 @@
+{
+    "dumgal17-ballots/Nith_dumgal17-09.csv": {
+        "plurality": "['Malcolm JOHNSTONE (Con)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-3-truncation": "['Malcolm JOHNSTONE (Con)']",
+        "top-3-truncation_fringe": [
+            1
+        ]
+    },
+    "dumgal17-ballots/MidandUpperNithsdale_dumgal17-07.csv": {
+        "plurality": "['Matthew RONNIE (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "w-lothian17-ballots/Ward5-EastLivingstonandEastCalder_w-lothian17-05.csv": {
+        "borda-om": "['Carl JOHN (SNP)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "w-lothian17-ballots/Ward3-LivingstonNorth_w-lothian17-03.csv": {
+        "plurality": "['Alison ADAMSON (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "glasgow12/Ward6Pollokshields_glasgow12-06.csv": {
+        "plurality": "['Hanif RAJA (Lab)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-two": "['Hanif RAJA (Lab)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "stirling12-ballots/StirlingEastWard_stirling12-06.csv": {
+        "plurality": "['Steven PATERSON (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "stirling12-ballots/TrossachsandTeithWard_stirling12-01.csv": {
+        "plurality": "['Martin EARL (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "stirling12-ballots/ForthandEndrickWard_stirling12-02.csv": {
+        "plurality": "['Alistair BERRILL (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "glasgow2007 preflib/Linn_linn.csv": {
+        "plurality": "['# ALTERNATIVE NAME 7: David Ritchie (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "glasgow2007 preflib/Greaterpollok_greater pollok.csv": {
+        "plurality": "['# ALTERNATIVE NAME 3: Patricia Duffy (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "glasgow2007 preflib/EastCentre_eastcentre.csv": {
+        "plurality": "['# ALTERNATIVE NAME 6: Jennifer Dunn (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "glasgow2007 preflib/Hillhead_hillhead.csv": {
+        "plurality": "['# ALTERNATIVE NAME 9: George A Roberts (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "glasgow2007 preflib/Shettleston_shettleston.csv": {
+        "plurality": "['# ALTERNATIVE NAME 8: John F Mclaughlin (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "fife12-ballots/RosythWard_fife12-05.csv": {
+        "plurality": "['Douglas CHAPMAN (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "fife12-ballots/TayBridgeheadWard_fife12-18.csv": {
+        "plurality": "['Bill CONNOR (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "fife12-ballots/StAndrewsWard_fife12-19.csv": {
+        "plurality": "['Dorothea MORRISON (Con)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-two": "['Dorothea MORRISON (Con)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "fife12-ballots/DunfermlineNorthWard_fife12-02.csv": {
+        "plurality": "['David MOGG (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "e-renfs17-ballots/GiffnockandThornliebank_e-renfs17-3.csv": {
+        "plurality": "['Colm MERRICK (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "moray22/Ward5-HeldonandLaich_file141902.csv": {
+        "plurality": "['NEIL CAMERON (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "moray22/Ward7-ElginCitySouth_file141915.csv": {
+        "plurality": "['Graham LEADBITTER (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "moray22/Ward6-ElginCityNorth_file141913.csv": {
+        "plurality": "['J\u00c3\u00a9r\u00c3\u00a9mie FERNANDES (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "moray22/Ward4-FochabersLhanbryde_file141896.csv": {
+        "borda-om": "['Shona MORRISON (SNP)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "glasgow22/Ward18EastCentre_Ward18.csv": {
+        "borda-om": "['Annette CHRISTIE (SNP)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "glasgow22/Ward14Drumchapel-Anniesland_Ward14.csv": {
+        "borda-om": "['Anne MCTAGGART (SNP)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "glasgow22/Ward19Shettleston_Ward19.csv": {
+        "plurality": "['Laura DOHERTY (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "glasgow22/Ward4Cardonald_Ward4.csv": {
+        "plurality": "['Elaine MCSPORRAN (SNP)']",
+        "plurality_fringe": [
+            1
+        ],
+        "borda-om": "['Elaine MCSPORRAN (SNP)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "sc-borders22/Ward1-TweeddaleWest_sc borders,2022,ward 1.csv": {
+        "plurality": "['Viv THOMSON (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "inverclyde17-ballots/InverclydeCentral_inverclyde17-03.csv": {
+        "plurality": "['Jim MCELENY (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "e-lothian22/Ward6-DunbarandEastLinton_Ward6.csv": {
+        "plurality": "['Lyn JARDINE (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "e-lothian22/Ward5-HaddingtonandLammermuir_Ward5.csv": {
+        "plurality": "['George MCGUIRE (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "e-duns17-ballots/Milngavie_e-duns17-01.csv": {
+        "plurality": "['Graeme MCGINNIGLE (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "e-duns17-ballots/BishopbriggsSouth_e-duns17-05.csv": {
+        "plurality": "['Alan BROWN (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "e-duns17-ballots/BearsdenSouth_e-duns17-03.csv": {
+        "plurality": "['Andrew POLSON (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "e-duns17-ballots/BishopbriggsNorthandCampsie_e-duns17-04.csv": {
+        "bucklin": "['Gary PEWS (LD)']",
+        "bucklin_fringe": [
+            1
+        ]
+    },
+    "angus17-ballots/ForfarandDistrict_angus17-03.csv": {
+        "plurality": "['Braden DAVY (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "angus17-ballots/CarnoustieandDistrict_angus17-05.csv": {
+        "plurality": "['Mark James MCDONALD (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "angus17-ballots/ArbroathEastandLunan_angus17-07.csv": {
+        "plurality": "['Derek WANN (Con)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-two": "['Brenda DURNO (SNP)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "clackmannanshire12-ballots/ClackmannanshireEast_clacks12-05.csv": {
+        "plurality": "['(Con) Alastair CAMPBELL']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "n-ayrshire22/Ward04-Arran_Preference-Profile-Arran_copy.csv": {
+        "borda-om": "['Steve GARRAWAY (SNP)']",
+        "borda-om_fringe": [
+            1
+        ],
+        "bucklin": "['Tom YOUNG (Ind)']",
+        "bucklin_fringe": [
+            1
+        ]
+    },
+    "n-ayrshire22/Ward01-NorthCoast_Preference-Profile-North-Coast_copy.csv": {
+        "plurality": "['Eleanor COLLIER (SNP)']",
+        "plurality_fringe": [
+            1
+        ],
+        "IRV": "['Eleanor COLLIER (SNP)']",
+        "IRV_fringe": [
+            1
+        ],
+        "top-3-truncation": "['Eleanor COLLIER (SNP)']",
+        "top-3-truncation_fringe": [
+            1
+        ]
+    },
+    "highland17-ballots/Ward8-DingwallandSeaforth_highland17-08.csv": {
+        "plurality": "['Graham Alexander MACKENZIE (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "highland17-ballots/Ward20-BadenochandStrathspey_highland17-20.csv": {
+        "plurality": "['John BRUCE (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "highland17-ballots/Ward7-TainandEasterRoss_highland17-07.csv": {
+        "plurality": "['Derek LOUDEN (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "highland17-ballots/Ward9-BlackIsle_highland17-09.csv": {
+        "plurality": "['Craig FRASER (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "highland17-ballots/Ward1-North,WestandCentralSutherland_highland17-01.csv": {
+        "plurality": "['Russell TAYLOR (Con)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-two": "['Russell TAYLOR (Con)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "highland17-ballots/Ward5-WesterRoss,StrathpefferandLochalsh_highland17-05.csv": {
+        "plurality": "['Derek MACLEOD (Con)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-two": "['Ian COCKBURN (SNP)']",
+        "top-two_fringe": [
+            1
+        ],
+        "top-3-truncation": "['Ian COCKBURN (SNP)']",
+        "top-3-truncation_fringe": [
+            1
+        ]
+    },
+    "s-lanarks17-ballots/Ward2-ClydesdaleNorth_s-lanarks17-02.csv": {
+        "plurality": "['Richard ELIOTT-LOCKHART (Con)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-two": "['Richard ELIOTT-LOCKHART (Con)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "s-lanarks17-ballots/Ward4-ClydesdaleSouth_s-lanarks17-04.csv": {
+        "plurality": "['Colin MCGAVIGAN (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "s-lanarks17-ballots/Ward11-RutherglenSouth_s-lanarks17-11.csv": {
+        "plurality": "['Carol NUGENT (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "s-lanarks17-ballots/Ward9-EastKilbrideWest_s-lanarks17-09.csv": {
+        "borda-om": "['David WATSON (SNP)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "s-lanarks17-ballots/Ward17-HamiltonNorthandEast_s-lanarks17-17.csv": {
+        "plurality": "['Martin Grant HOSE (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "s-lanarks17-ballots/Ward1-ClydesdaleWest_s-lanarks17-01.csv": {
+        "plurality": "['Poppy CORBETT (Con)']",
+        "plurality_fringe": [
+            1
+        ],
+        "IRV": "['Poppy CORBETT (Con)']",
+        "IRV_fringe": [
+            1
+        ],
+        "top-two": "['Poppy CORBETT (Con)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "s-lanarks17-ballots/Ward20-Larkhall_s-lanarks17-20.csv": {
+        "plurality": "['Richard NELSON (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "s-lanarks17-ballots/Ward13-CambuslangWest_s-lanarks17-13.csv": {
+        "borda-om": "['Clare MCCOLL (SNP)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "eilean-siar12-ballots/Sgir'UigeAgusCeannATuathNanLoch_eilean-siar12-04.csv": {
+        "plurality": "['NORMAN ALEXANDER MACDONALD (Ind)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-two": "['Bill HOUSTON (SNP)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "e-ayrshire17-ballots/Annick_e-ayrshire17-01.csv": {
+        "borda-om": "['Gordon JENKINS (SNP)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "angus22/Ward8-MontroseandDistrict_ward8.csv": {
+        "plurality": "['Iain GALL (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "angus22/Ward2-BrechinandEdzell_ward2.csv": {
+        "plurality": "['Chris BEATTIE (SNP)']",
+        "plurality_fringe": [
+            1
+        ],
+        "IRV": "['Chris BEATTIE (SNP)']",
+        "IRV_fringe": [
+            1
+        ],
+        "top-two": "['Chris BEATTIE (SNP)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "angus22/Ward4-MonifiethandSidlaw_ward4.csv": {
+        "plurality": "['Craig FOTHERINGHAM (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "angus22/Ward5-CarnoustieandDistrict_ward5.csv": {
+        "plurality": "['Mark James MCDONALD (SNP)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-3-truncation": "['Mark James MCDONALD (SNP)']",
+        "top-3-truncation_fringe": [
+            1
+        ]
+    },
+    "w-lothian22/Ward7-WhitburnandBlackburn_west lothian,2022,ward 7.csv": {
+        "plurality": "['JIM DICKSON (SNP)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-3-truncation": "['JIM DICKSON (SNP)']",
+        "top-3-truncation_fringe": [
+            1
+        ]
+    },
+    "w-lothian22/Ward6-FauldhouseandtheBreichValley_west lothian,2022,ward 6.csv": {
+        "plurality": "['Pauline CLARK (SNP)']",
+        "plurality_fringe": [
+            1
+        ],
+        "borda-om": "['Pauline CLARK (SNP)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "w-lothian22/Ward1-Linlithgow_west lothian,2022,ward 1.csv": {
+        "plurality": "['Pauline ORR (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "renfs12-ballots/6.PaisleySouthWestWard_renfs12-06.csv": {
+        "plurality": "['Lorraine CAMERON (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "renfs12-ballots/2.RenfrewSouthGallowhillWard_renfs12-02.csv": {
+        "plurality": "['Cathy MCEWAN (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "perth-kinross12-ballots/Kinross-shire_perth-kinross12-08.csv": {
+        "plurality": "['Dave CUTHBERT (Ind)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "perth-kinross12-ballots/CarseofGowrie_perth-kinross12-01.csv": {
+        "plurality": "['Mac ROBERTS (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "perth-kinross12-ballots/Strathtay_perth-kinross12-05.csv": {
+        "plurality": "['Barbara VAUGHAN (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "perth-kinross12-ballots/Strathmore_perth-kinross12-02.csv": {
+        "plurality": "['Dennis MELLOY (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "argyll-bute17-ballots/Cowal_argyll-bute17-06.csv": {
+        "plurality": "['William Gordon BLAIR (SNP)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-two": "['Yvonne MCNEILLY (Con)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "n-ayrshire17-ballots/NorthCoastandCumbraes_n-ayrshire17-08.csv": {
+        "borda-om": "['Alan HILL (SNP)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "n-ayrshire17-ballots/Stevenston_n-ayrshire17-04.csv": {
+        "plurality": "['Davina MCTIERNAN (SNP)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-3-truncation": "['Davina MCTIERNAN (SNP)']",
+        "top-3-truncation_fringe": [
+            1
+        ]
+    },
+    "n-ayrshire17-ballots/DalryandWestKilbride_n-ayrshire17-06.csv": {
+        "plurality": "['Joy BRAHIM (SNP)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-two": "['Todd FERGUSON (Con)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "n-ayrshire17-ballots/KilbirnieandBeith_n-ayrshire17-07.csv": {
+        "plurality": "['Anthea DICKSON (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "edinburgh22/Ward11-CityCentre_ward11.csv": {
+        "plurality": "['Jo MOWAT (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "edinburgh22/Ward9-Fountainbridge-Craiglockhart_ward9.csv": {
+        "plurality": "['Christopher COWDY (Con)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-two": "['David KEY (SNP)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "edinburgh22/Ward4-Forth_ward4.csv": {
+        "borda-om": "['Stuart DOBBIN (SNP)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "perth-kinross22/Ward9-AlmondandEarn_Ward9.csv": {
+        "plurality": "['Michelle FRAMPTON (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "perth-kinross22/Ward4-Highland_Ward4.csv": {
+        "plurality": "['John DUFF (Con)']",
+        "plurality_fringe": [
+            1
+        ],
+        "IRV": "['Michael James WILLIAMSON (SNP)']",
+        "IRV_fringe": [
+            1
+        ]
+    },
+    "perth-kinross22/Ward8-Kinross-Shire_Ward8.csv": {
+        "plurality": "['Richard WATTERS (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "perth-kinross22/Ward6-Strathearn_Ward6.csv": {
+        "plurality": "['Noah KHOGALI (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "falkirk17-ballots/Ward7-FalkirkSouth_falkirk17-07.csv": {
+        "plurality": "['Lorna Catherine BINNIE (SNP)']",
+        "plurality_fringe": [
+            1
+        ],
+        "IRV": "['Lorna Catherine BINNIE (SNP)']",
+        "IRV_fringe": [
+            1
+        ],
+        "top-two": "['Lorna Catherine BINNIE (SNP)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "falkirk17-ballots/Ward2-Grangemouth_falkirk17-02.csv": {
+        "approval": "['Robert SPEARS (Ind)']",
+        "approval_fringe": [
+            1
+        ]
+    },
+    "falkirk17-ballots/Ward4-Carse,KinnairdandTryst_falkirk17-04.csv": {
+        "plurality": "['Jim FLYNN (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "n-lanarks17-ballots/Ward5-Stepps,ChrystonandMuirhead_n-lanarks17-005.csv": {
+        "plurality": "['Lynne ANDERSON (SNP)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-two": "['Lynne ANDERSON (SNP)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "n-lanarks17-ballots/Ward17-MotherwellWest_n-lanarks17-017.csv": {
+        "plurality": "['Meghan GALLACHER (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "n-lanarks17-ballots/Ward18-MotherwellNorth_n-lanarks17-018.csv": {
+        "plurality": "['Shahid FAROOQ (SNP)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-two": "['Shahid FAROOQ (SNP)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "n-lanarks17-ballots/Ward8-AirdrieNorth_n-lanarks17-008.csv": {
+        "plurality": "['Sophia COYLE (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "n-lanarks17-ballots/Ward7-CoatbridgeNorth_n-lanarks17-007.csv": {
+        "plurality": "['Kirsten LARSON (SNP)']",
+        "plurality_fringe": [
+            1
+        ],
+        "borda-om": "['Kirsten LARSON (SNP)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "edinburgh12-ballots/LeithWalkWard_edinburgh12-12.csv": {
+        "plurality": "['Deidre Leanne BROCK (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "edinburgh12-ballots/Meadows_MorningsideWard_edinburgh12-10.csv": {
+        "plurality": "['Mark MCINNES(Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "edinburgh12-ballots/CityCentreWard_edinburgh12-11.csv": {
+        "plurality": "['Joanna MOWAT(Con)']",
+        "plurality_fringe": [
+            1
+        ],
+        "IRV": "['Alasdair RANKIN (SNP)']",
+        "IRV_fringe": [
+            1
+        ],
+        "top-two": "['Alasdair RANKIN (SNP)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "edinburgh12-ballots/Corstorphine_MurrayfieldWard_edinburgh12-06.csv": {
+        "plurality": "['Jeremy Ross BALFOUR(Con)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-two": "['Jeremy Ross BALFOUR(Con)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "e-duns22-ballots/Ward7-KirkintillochEast&North&Twechar_ward7.csv": {
+        "plurality": "['Pamela MARSHALL (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "e-duns22-ballots/Ward1-Milngavie_ward1.csv": {
+        "plurality": "['Jim GIBBONS (SNP)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-two": "['Jim GIBBONS (SNP)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "e-duns22-ballots/Ward5-BishopbriggsSouth_ward5.csv": {
+        "plurality": "['Gordan LOW (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "e-duns22-ballots/Ward3-BearsdenSouth_ward3.csv": {
+        "plurality": "['Ian GALLAGHER (SNP)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-two": "['Andrew POLSON (Con)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "e-duns22-ballots/Ward6-Lenzie&KirkintillochSouth_ward6.csv": {
+        "plurality": "['Gillian RENWICK (SNP)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-3-truncation": "['Gillian RENWICK (SNP)']",
+        "top-3-truncation_fringe": [
+            1
+        ]
+    },
+    "s-lanarks22/Ward19-HamiltonSouth_ward_19_hamilton_south_preference_profile.csv": {
+        "plurality": "['John ROSS (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "s-lanarks22/Ward15-Blantyre_ward_15_blantyre_preference_profile.csv": {
+        "plurality": "['Maureen CHALMERS (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "s-lanarks22/Ward11-RutherglenSouth_ward_11_rutherglen_south_preference_profile.csv": {
+        "plurality": "['Carol NUGENT (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "aberdeen2017/TorryFerryhillWard_aberdeen17-12.csv": {
+        "plurality": "['Alan DONNELLY (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "aberdeen2017/MidstocketRosemountWard_aberdeen17-07.csv": {
+        "plurality": "['Tom MASON (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "sc-borders12-ballots/SelkirkshireWard_sc-borders12-04.csv": {
+        "plurality": "['Michelle BALLANTYNE (Con)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-two": "['Michelle BALLANTYNE (Con)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "argyll22/Ward8-IsleofBute_ward8.csv": {
+        "plurality": "['Reeni KENNEDY-BOYLE (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "orkney22/Ward1-KirkwallEastWard_ward1.csv": {
+        "plurality": "['John Ross SCOTT (Grn)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "n-lanarks22/Ward1-Kilsyth_Preference Profile Ward 1 Kilsyth.csv": {
+        "plurality": "['Denis JOHNSTON (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "n-lanarks22/Ward3-CumbernauldSouth_Preference Profile Ward 3 Cumbernauld South.csv": {
+        "plurality": "['James MCPHILEMY (Lab)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "n-lanarks22/Ward15-Bellshill_Preference Profile WArd 15 Bellshill.csv": {
+        "plurality": "['Jordan James LINDEN (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "n-lanarks22/Ward14-Thorniewood_Preference Profile WArd 14 Thorniewood.csv": {
+        "plurality": "['Barry MCCLUSKEY (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "sc-borders17/Ward1-TweeddaleWest_sc-borders17-01.csv": {
+        "plurality": "['HEATHER ANDERSON (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "sc-borders17/Ward2-TweeddaleEast_sc-borders17-02.csv": {
+        "bucklin": "['Robin TATLER (Ind)']",
+        "bucklin_fringe": [
+            1
+        ]
+    },
+    "edinburgh17-ballots/Ward11-CityCentre_edinburgh17-11.csv": {
+        "plurality": "['Jo MOWAT (Con)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-two": "['Alasdair RANKIN (SNP)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "edinburgh17-ballots/Ward15-Southside-Newington_edinburgh17-15.csv": {
+        "plurality": "['Cameron ROSE (Con)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-two": "['Alison DICKIE (SNP)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "edinburgh17-ballots/Ward14-Craigentinny-Duddingston_edinburgh17-14.csv": {
+        "plurality": "['John MCLELLAN (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "edinburgh17-ballots/Ward6-CorstorphineMurrayfield_edinburgh17-06.csv": {
+        "plurality": "['Scott DOUGLAS (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "edinburgh17-ballots/Ward10-Morningside_edinburgh17-10.csv": {
+        "plurality": "['Nick COOK (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "edinburgh17-ballots/Ward9-FountainbridgeCraiglockhart_edinburgh17-09.csv": {
+        "plurality": "['Andrew JOHNSTON (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "edinburgh17-ballots/Ward7-SighthillGorgie_edinburgh17-07.csv": {
+        "plurality": "['Ashley GRACZYK (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "midlothian17-ballots/MidlothianEast_midlothian17-05.csv": {
+        "plurality": "['Peter SMAILL (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "midlothian17-ballots/Penicuik_midlothian17-01.csv": {
+        "plurality": "['Andrew HARDIE (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "midlothian17-ballots/Dalkeith_midlothian17-03.csv": {
+        "plurality": "['Colin John CASSIDY (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "n-lanarks12-ballots/Ward2CumbernauldNorth_n-lanarks12-02.csv": {
+        "plurality": "['Alan O\ufffdBRIEN (CICA)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "n-lanarks12-ballots/Ward4AbronhillKildrumandTheVillage_n-lanarks12-04.csv": {
+        "plurality": "['Stevie GRANT (Lab)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "n-lanarks12-ballots/Ward16MotherwellWest_n-lanarks12-16.csv": {
+        "plurality": "['Annette VALENTINE (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "glasgow17-ballots/Ward17SpringburnRobroyston_glasgow17-017.csv": {
+        "borda-om": "['Christina CANNON (SNP)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "glasgow17-ballots/Ward19Shettleston_glasgow17-019.csv": {
+        "borda-om": "['Laura DOHERTY (SNP)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "clackmannanshire22/Ward5ClackmannanshireEast_ward5.csv": {
+        "plurality": "['Scott HARRISON (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "renfs17-ballots/Ward10-Houston,CrossleeandLinwood_renfs17-10.csv": {
+        "plurality": "['Scott KERR (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "renfs17-ballots/Ward3-PaisleyNortheastandRalston_renfs17-03.csv": {
+        "plurality": "['Neill GRAHAM (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "e-ayrshire12-ballots/Ward7Ballochmyle_e-ayrshire12-07.csv": {
+        "plurality": "['Jim ROBERTS (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "clackmannanshire17-ballots/Ward1ClackmannanshireWest_clacks17-001.csv": {
+        "plurality": "['Darren LEE (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "clackmannanshire17-ballots/Ward2ClackmannanshireNorth_clacks17-002.csv": {
+        "plurality": "['Martha BENNY (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "highland12-ballots/InvernessNess-sideWard_highland12-16.csv": {
+        "plurality": "['Jean Nimmo SLATER (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "s-lanarks12-ballots/Ward9-EastKilbrideWest_s-lanarks12-09.csv": {
+        "plurality": "['Graham SIMPSON (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "falkirk22/Ward5-BonnybridgeandLarbert_ward5.csv": {
+        "borda-om": "['Bryan DEAKIN (SNP)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "falkirk22/Ward8-LowerBraes_ward8.csv": {
+        "borda-om": "['Gordon FORREST (SNP)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "dumgal22/Ward7-MidandUpperNithsdale_ward7.csv": {
+        "plurality": "['Tony BERRETTI (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "dumgal22/Ward11-AnnandaleNorth_ward11.csv": {
+        "plurality": "['Stephen THOMPSON (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "dumgal22/Ward5-Abbey_ward5.csv": {
+        "plurality": "['Kim LOWE (SNP)']",
+        "plurality_fringe": [
+            1
+        ],
+        "IRV": "['Kim LOWE (SNP)']",
+        "IRV_fringe": [
+            1
+        ]
+    },
+    "s-ayrshire17-ballots/AyrEast_s-ayrshire17-04.csv": {
+        "borda-om": "['Chris CULLEN (SNP)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "s-ayrshire17-ballots/AyrNorth_s-ayrshire17-03.csv": {
+        "plurality": "['Ian DAVIS (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "scottish by-elections/Ward7-Strathallan_Perth and Kinross 2024 by-election Ward 7.csv": {
+        "plurality": "['Amanda RUNCIMAN (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "scottish by-elections/Ward10-PerthCitySouth_Perth Kinross by-election 2020 South.csv": {
+        "plurality": "['Iain William MACPHERSON (UNKNOWN)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "scottish by-elections/Ward10-PerthCitySouth_Perth Kinross 2017 by-election Ward 10.csv": {
+        "plurality": "['Pauline LEITCH (UNKNOWN)']",
+        "plurality_fringe": [
+            1
+        ],
+        "IRV": "['Audrey COATES (UNKNOWN)']",
+        "IRV_fringe": [
+            1
+        ],
+        "top-two": "['Audrey COATES (UNKNOWN)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "scottish by-elections/Ward5-LeaderdaleandMelrose_Scottish Borders 2021 by-elction Ward 5.csv": {
+        "borda-om": "['Jonny ADAMSON (UNKNOWN)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "scottish by-elections/Ward13-InvernessWest_highland 2021 by-election Inverness West.csv": {
+        "plurality": "['Kate MACLEAN (UNKNOWN)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "angus12-ballots/MonifiethandSidlaw_angus12-04.csv": {
+        "plurality": "['(Con) Craig FOTHERINGHAM']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "aberdeenshire17-ballots/Ward17-NorthKincardine_aberdeenshire17-17.csv": {
+        "plurality": "['Colin PIKE (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "aberdeenshire17-ballots/Ward4-CentralBuchan_aberdeenshire17-04.csv": {
+        "borda-om": "['Jim INGRAM (SNP)']",
+        "borda-om_fringe": [
+            1
+        ],
+        "bucklin": "['Norman SMITH (Ind)']",
+        "bucklin_fringe": [
+            1
+        ]
+    },
+    "aberdeenshire17-ballots/Ward10-WestGarioch_aberdeenshire17-10.csv": {
+        "borda-om": "['Hazel SMITH (LD)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "fife17-ballots/Ward4-DunfermlineSouth_fife17-04.csv": {
+        "plurality": "['David ROSS (Con)']",
+        "plurality_fringe": [
+            1
+        ],
+        "IRV": "['Fay SINCLAIR (SNP)']",
+        "IRV_fringe": [
+            1
+        ],
+        "top-two": "['Fay SINCLAIR (SNP)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "fife17-ballots/Ward3-DunfermlineCentral_fife17-03.csv": {
+        "plurality": "['Alan CRAIG (Con)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-two": "['Alan CRAIG (Con)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "fife17-ballots/Ward19-EastNeuk&Landward_fife17-19.csv": {
+        "plurality": "['Linda HOLT (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "fife17-ballots/Ward22-Buckhaven,Methil&WemyssVillages_fife17-22.csv": {
+        "borda-om": "['Ken CALDWELL (SNP)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "fife17-ballots/Ward5-Rosyth_fife17-05.csv": {
+        "plurality": "['Tony ORTON (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "fife17-ballots/Ward2-DunfermlineNorth_fife17-02.csv": {
+        "plurality": "['Gavin ELLIS (Con)']",
+        "plurality_fringe": [
+            1
+        ],
+        "top-two": "['Ian FERGUSON (SNP)']",
+        "top-two_fringe": [
+            1
+        ],
+        "borda-om": "['Ian FERGUSON (SNP)']",
+        "borda-om_fringe": [
+            1
+        ],
+        "top-3-truncation": "['Ian FERGUSON (SNP)']",
+        "top-3-truncation_fringe": [
+            1
+        ]
+    },
+    "fife17-ballots/Ward11-KirkcaldyCentral_fife17-11.csv": {
+        "plurality": "['Zoe HISBENT (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "e-lothian17-ballots/Tranent,WallyfordandMacmerry_e-lothian17-03.csv": {
+        "plurality": "['Kenny MCLEOD (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "e-lothian17-ballots/HaddingtonandLammermuir_e-lothian17-05.csv": {
+        "plurality": "['Brian SMALL (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "w-duns22/Ward1-Lomond_west dunbartonshire,2022,ward 1.csv": {
+        "plurality": "['Jonathan MCCOLL (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "w-duns22/Ward3-Dumbarton_west dunbartonshire,2022,ward 3.csv": {
+        "plurality": "['Karen CONAGHAN (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "e-renfs22/Ward2\u2010NewtonMearnsNorthandNeilston_ward2_copy.csv": {
+        "plurality": "['Tony BUCHANAN (SNP)']",
+        "plurality_fringe": [
+            1
+        ],
+        "IRV": "['Tony BUCHANAN (SNP)']",
+        "IRV_fringe": [
+            1
+        ],
+        "top-two": "['Tony BUCHANAN (SNP)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "e-renfs22/Ward5\u2010NewtonMearnsSouthandEaglesham_ward5_copy.csv": {
+        "plurality": "['Caroline BAMFORTH (SNP)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "e-renfs22/Ward3\u2010GiffnockandThornliebank_ward3_copy.csv": {
+        "plurality": "['Colm MERRICK (SNP)']",
+        "plurality_fringe": [
+            1
+        ],
+        "IRV": "['Colm MERRICK (SNP)']",
+        "IRV_fringe": [
+            1
+        ],
+        "top-two": "['Colm MERRICK (SNP)']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "stirling17-ballots/StirlingNorth_stirling17-04.csv": {
+        "plurality": "['Ross OXBURGH (Con)']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "stirling17-ballots/StirlingWest_stirling17-05.csv": {
+        "borda-om": "['Scott FARMER (SNP)']",
+        "borda-om_fringe": [
+            1
+        ],
+        "bucklin": "['Christine SIMPSON (Lab)']",
+        "bucklin_fringe": [
+            1
+        ]
+    },
+    "dumgal12-ballots/LocharWard_dumgal12-09.csv": {
+        "plurality": "['(SNP) Yen HONGMEI JIN']",
+        "plurality_fringe": [
+            1
+        ]
+    },
+    "dumgal12-ballots/AbbeyWard_dumgal12-06.csv": {
+        "plurality": "['(Lab) Tom MCAUGHTRIE']",
+        "plurality_fringe": [
+            1
+        ],
+        "IRV": "['(Lab) Tom MCAUGHTRIE']",
+        "IRV_fringe": [
+            1
+        ],
+        "top-two": "['(Lab) Tom MCAUGHTRIE']",
+        "top-two_fringe": [
+            1
+        ]
+    },
+    "e-ayrshire22/Ward3-KilmarnockWestandCrosshouse_Ward3.csv": {
+        "borda-om": "['Iain LINTON (SNP)']",
+        "borda-om_fringe": [
+            1
+        ]
+    },
+    "e-ayrshire22/Ward1-Annick_Ward1.csv": {
+        "plurality": "['John MCFADZEAN (Con)']",
+        "plurality_fringe": [
+            1
+        ],
+        "IRV": "['Stephen CANNING (SNP)']",
+        "IRV_fringe": [
+            1
+        ]
+    }
+}
