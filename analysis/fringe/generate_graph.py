@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 
 df = pd.read_csv("sorted_by_elections.csv") 
 
-df = df[df['country'] == 'civs']
-df = df[df['method'] == 'borda']
+df = df[df['country'] != 'civs']
+df = df[df['method'] == 'mention']
 
 df['percentage'] = pd.to_numeric(df['percentage'], errors='coerce')
 
