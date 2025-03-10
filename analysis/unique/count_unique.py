@@ -1,8 +1,9 @@
 import pandas as pd
 import json
 
-data_file = '/Users/belle/Desktop/build/rcv_proposal/pref_voting/processed_results/scottish_results.csv'
-results_file = '/Users/belle/Desktop/build/rcv_proposal/pref_voting/unique2.json'
+# data_file = '/Users/belle/Desktop/build/rcv_proposal/results/current/civs.csv'
+data_file = './test.csv'
+results_file = './unique.json'
 
 
 # file,numCands,irv,plurality,plurality_runoff,borda_pm,borda_om_no_uwi,borda_avg_no_uwi,borda_trunc_points_scheme,condorcet,minimax,smith_set
@@ -13,7 +14,7 @@ def read_data(data_file):
     data.columns = data.iloc[0]
     data = data.drop(0).reset_index(drop=True)
     # for analyzing w/ david's data: data = data.drop(columns=['numCands'])
-    data = data[['file', 'plurality','plurality_with_runoff_put','instant_runoff_for_truncated_linear_orders','bottom_two_runoff_instant_runoff_put','instant_runoff_put','borda_for_profile_with_ties','condorcet','minimax','top_cycle']]
+    data = data[['file','plurality','IRV','top-two','borda-pm','borda-om','borda-avg','top-3-truncation','condorcet','minimax','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','approval','smith']]
     return data
 
 def find_not_unanimous_results(data):

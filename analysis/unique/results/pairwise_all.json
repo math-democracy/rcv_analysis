@@ -1,0 +1,6994 @@
+{
+    "description": "for all elections (scotland, australia, america, civs) where the methods DO NOT elect the same winner, pairs shows how often 2 methods show up together and grouped counts each group of methods that elect the same winner.",
+    "pairs": [
+        {
+            "methods": [
+                "minimax",
+                "smith-minimax"
+            ],
+            "elections": 2275
+        },
+        {
+            "methods": [
+                "minimax",
+                "ranked-pairs"
+            ],
+            "elections": 2198
+        },
+        {
+            "methods": [
+                "ranked-pairs",
+                "smith-minimax"
+            ],
+            "elections": 2198
+        },
+        {
+            "methods": [
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 2195
+        },
+        {
+            "methods": [
+                "ranked-pairs",
+                "smith_irv"
+            ],
+            "elections": 2177
+        },
+        {
+            "methods": [
+                "ranked-pairs",
+                "smith_plurality"
+            ],
+            "elections": 2163
+        },
+        {
+            "methods": [
+                "minimax",
+                "smith_irv"
+            ],
+            "elections": 2154
+        },
+        {
+            "methods": [
+                "smith-minimax",
+                "smith_irv"
+            ],
+            "elections": 2154
+        },
+        {
+            "methods": [
+                "minimax",
+                "smith_plurality"
+            ],
+            "elections": 2143
+        },
+        {
+            "methods": [
+                "smith-minimax",
+                "smith_plurality"
+            ],
+            "elections": 2143
+        },
+        {
+            "methods": [
+                "minimax",
+                "smith"
+            ],
+            "elections": 2140
+        },
+        {
+            "methods": [
+                "smith",
+                "smith-minimax"
+            ],
+            "elections": 2140
+        },
+        {
+            "methods": [
+                "condorcet",
+                "minimax"
+            ],
+            "elections": 2101
+        },
+        {
+            "methods": [
+                "condorcet",
+                "smith"
+            ],
+            "elections": 2101
+        },
+        {
+            "methods": [
+                "condorcet",
+                "smith-minimax"
+            ],
+            "elections": 2101
+        },
+        {
+            "methods": [
+                "condorcet",
+                "smith_irv"
+            ],
+            "elections": 2101
+        },
+        {
+            "methods": [
+                "condorcet",
+                "smith_plurality"
+            ],
+            "elections": 2101
+        },
+        {
+            "methods": [
+                "smith",
+                "smith_irv"
+            ],
+            "elections": 2101
+        },
+        {
+            "methods": [
+                "smith",
+                "smith_plurality"
+            ],
+            "elections": 2101
+        },
+        {
+            "methods": [
+                "condorcet",
+                "ranked-pairs"
+            ],
+            "elections": 2092
+        },
+        {
+            "methods": [
+                "ranked-pairs",
+                "smith"
+            ],
+            "elections": 2092
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-pm"
+            ],
+            "elections": 2090
+        },
+        {
+            "methods": [
+                "IRV",
+                "smith_irv"
+            ],
+            "elections": 2028
+        },
+        {
+            "methods": [
+                "IRV",
+                "top-two"
+            ],
+            "elections": 1994
+        },
+        {
+            "methods": [
+                "IRV",
+                "smith_plurality"
+            ],
+            "elections": 1989
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi"
+            ],
+            "elections": 1963
+        },
+        {
+            "methods": [
+                "IRV",
+                "ranked-pairs"
+            ],
+            "elections": 1961
+        },
+        {
+            "methods": [
+                "IRV",
+                "minimax"
+            ],
+            "elections": 1936
+        },
+        {
+            "methods": [
+                "IRV",
+                "smith-minimax"
+            ],
+            "elections": 1936
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "top-3-truncation"
+            ],
+            "elections": 1899
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "ranked-pairs"
+            ],
+            "elections": 1895
+        },
+        {
+            "methods": [
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1895
+        },
+        {
+            "methods": [
+                "ranked-pairs",
+                "top-3-truncation"
+            ],
+            "elections": 1890
+        },
+        {
+            "methods": [
+                "IRV",
+                "condorcet"
+            ],
+            "elections": 1886
+        },
+        {
+            "methods": [
+                "IRV",
+                "smith"
+            ],
+            "elections": 1886
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "minimax"
+            ],
+            "elections": 1883
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "smith-minimax"
+            ],
+            "elections": 1883
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "smith_irv"
+            ],
+            "elections": 1880
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "smith_plurality"
+            ],
+            "elections": 1879
+        },
+        {
+            "methods": [
+                "smith_irv",
+                "top-3-truncation"
+            ],
+            "elections": 1879
+        },
+        {
+            "methods": [
+                "minimax",
+                "top-3-truncation"
+            ],
+            "elections": 1870
+        },
+        {
+            "methods": [
+                "smith-minimax",
+                "top-3-truncation"
+            ],
+            "elections": 1870
+        },
+        {
+            "methods": [
+                "smith_irv",
+                "top-two"
+            ],
+            "elections": 1854
+        },
+        {
+            "methods": [
+                "borda-pm",
+                "ranked-pairs"
+            ],
+            "elections": 1848
+        },
+        {
+            "methods": [
+                "borda-pm",
+                "top-3-truncation"
+            ],
+            "elections": 1848
+        },
+        {
+            "methods": [
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1842
+        },
+        {
+            "methods": [
+                "ranked-pairs",
+                "top-two"
+            ],
+            "elections": 1839
+        },
+        {
+            "methods": [
+                "borda-pm",
+                "smith_plurality"
+            ],
+            "elections": 1835
+        },
+        {
+            "methods": [
+                "borda-pm",
+                "smith_irv"
+            ],
+            "elections": 1834
+        },
+        {
+            "methods": [
+                "borda-pm",
+                "minimax"
+            ],
+            "elections": 1833
+        },
+        {
+            "methods": [
+                "borda-pm",
+                "smith-minimax"
+            ],
+            "elections": 1833
+        },
+        {
+            "methods": [
+                "IRV",
+                "top-3-truncation"
+            ],
+            "elections": 1818
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "condorcet"
+            ],
+            "elections": 1814
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "smith"
+            ],
+            "elections": 1814
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "bucklin"
+            ],
+            "elections": 1809
+        },
+        {
+            "methods": [
+                "minimax",
+                "top-two"
+            ],
+            "elections": 1804
+        },
+        {
+            "methods": [
+                "smith-minimax",
+                "top-two"
+            ],
+            "elections": 1804
+        },
+        {
+            "methods": [
+                "condorcet",
+                "top-3-truncation"
+            ],
+            "elections": 1802
+        },
+        {
+            "methods": [
+                "smith",
+                "top-3-truncation"
+            ],
+            "elections": 1802
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "borda-pm"
+            ],
+            "elections": 1796
+        },
+        {
+            "methods": [
+                "borda-pm",
+                "condorcet"
+            ],
+            "elections": 1769
+        },
+        {
+            "methods": [
+                "borda-pm",
+                "smith"
+            ],
+            "elections": 1769
+        },
+        {
+            "methods": [
+                "borda-pm",
+                "bucklin"
+            ],
+            "elections": 1750
+        },
+        {
+            "methods": [
+                "condorcet",
+                "top-two"
+            ],
+            "elections": 1750
+        },
+        {
+            "methods": [
+                "smith",
+                "top-two"
+            ],
+            "elections": 1750
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "top-3-truncation"
+            ],
+            "elections": 1744
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "ranked-pairs"
+            ],
+            "elections": 1733
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "smith_plurality"
+            ],
+            "elections": 1726
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "minimax"
+            ],
+            "elections": 1725
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "smith-minimax"
+            ],
+            "elections": 1725
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "smith_irv"
+            ],
+            "elections": 1715
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi"
+            ],
+            "elections": 1713
+        },
+        {
+            "methods": [
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1711
+        },
+        {
+            "methods": [
+                "bucklin",
+                "ranked-pairs"
+            ],
+            "elections": 1702
+        },
+        {
+            "methods": [
+                "bucklin",
+                "minimax"
+            ],
+            "elections": 1685
+        },
+        {
+            "methods": [
+                "bucklin",
+                "smith-minimax"
+            ],
+            "elections": 1685
+        },
+        {
+            "methods": [
+                "bucklin",
+                "smith_plurality"
+            ],
+            "elections": 1682
+        },
+        {
+            "methods": [
+                "bucklin",
+                "smith_irv"
+            ],
+            "elections": 1681
+        },
+        {
+            "methods": [
+                "bucklin",
+                "top-3-truncation"
+            ],
+            "elections": 1676
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-pm"
+            ],
+            "elections": 1671
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "smith"
+            ],
+            "elections": 1661
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "bucklin"
+            ],
+            "elections": 1658
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "condorcet"
+            ],
+            "elections": 1657
+        },
+        {
+            "methods": [
+                "plurality",
+                "top-two"
+            ],
+            "elections": 1641
+        },
+        {
+            "methods": [
+                "bucklin",
+                "condorcet"
+            ],
+            "elections": 1632
+        },
+        {
+            "methods": [
+                "bucklin",
+                "smith"
+            ],
+            "elections": 1632
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "top-two"
+            ],
+            "elections": 1596
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality"
+            ],
+            "elections": 1564
+        },
+        {
+            "methods": [
+                "borda-pm",
+                "top-two"
+            ],
+            "elections": 1561
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-om-no-uwi"
+            ],
+            "elections": 1547
+        },
+        {
+            "methods": [
+                "IRV",
+                "bucklin"
+            ],
+            "elections": 1499
+        },
+        {
+            "methods": [
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1480
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "top-two"
+            ],
+            "elections": 1454
+        },
+        {
+            "methods": [
+                "plurality",
+                "smith_plurality"
+            ],
+            "elections": 1447
+        },
+        {
+            "methods": [
+                "plurality",
+                "smith_irv"
+            ],
+            "elections": 1413
+        },
+        {
+            "methods": [
+                "bucklin",
+                "top-two"
+            ],
+            "elections": 1388
+        },
+        {
+            "methods": [
+                "plurality",
+                "ranked-pairs"
+            ],
+            "elections": 1386
+        },
+        {
+            "methods": [
+                "minimax",
+                "plurality"
+            ],
+            "elections": 1367
+        },
+        {
+            "methods": [
+                "plurality",
+                "smith-minimax"
+            ],
+            "elections": 1367
+        },
+        {
+            "methods": [
+                "condorcet",
+                "plurality"
+            ],
+            "elections": 1325
+        },
+        {
+            "methods": [
+                "plurality",
+                "smith"
+            ],
+            "elections": 1325
+        },
+        {
+            "methods": [
+                "borda-pm",
+                "plurality"
+            ],
+            "elections": 1246
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "plurality"
+            ],
+            "elections": 1225
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "plurality"
+            ],
+            "elections": 1113
+        },
+        {
+            "methods": [
+                "bucklin",
+                "plurality"
+            ],
+            "elections": 1049
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-pm"
+            ],
+            "elections": 877
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi"
+            ],
+            "elections": 763
+        },
+        {
+            "methods": [
+                "approval",
+                "bucklin"
+            ],
+            "elections": 754
+        },
+        {
+            "methods": [
+                "approval",
+                "smith_irv"
+            ],
+            "elections": 683
+        },
+        {
+            "methods": [
+                "approval",
+                "smith_plurality"
+            ],
+            "elections": 677
+        },
+        {
+            "methods": [
+                "approval",
+                "minimax"
+            ],
+            "elections": 672
+        },
+        {
+            "methods": [
+                "approval",
+                "smith-minimax"
+            ],
+            "elections": 672
+        },
+        {
+            "methods": [
+                "approval",
+                "ranked-pairs"
+            ],
+            "elections": 669
+        },
+        {
+            "methods": [
+                "approval",
+                "smith"
+            ],
+            "elections": 659
+        },
+        {
+            "methods": [
+                "approval",
+                "condorcet"
+            ],
+            "elections": 650
+        },
+        {
+            "methods": [
+                "approval",
+                "top-3-truncation"
+            ],
+            "elections": 624
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval"
+            ],
+            "elections": 601
+        },
+        {
+            "methods": [
+                "approval",
+                "top-two"
+            ],
+            "elections": 547
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-om-no-uwi"
+            ],
+            "elections": 543
+        },
+        {
+            "methods": [
+                "approval",
+                "plurality"
+            ],
+            "elections": 368
+        }
+    ],
+    "grouped": [
+        {
+            "methods": [
+                "approval"
+            ],
+            "elections": 1164
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 768
+        },
+        {
+            "methods": [
+                "plurality"
+            ],
+            "elections": 366
+        },
+        {
+            "methods": [
+                "condorcet"
+            ],
+            "elections": 175
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi"
+            ],
+            "elections": 167
+        },
+        {
+            "methods": [
+                "bucklin"
+            ],
+            "elections": 166
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 166
+        },
+        {
+            "methods": [
+                "smith"
+            ],
+            "elections": 133
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 100
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 97
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 85
+        },
+        {
+            "methods": [
+                "approval",
+                "bucklin"
+            ],
+            "elections": 82
+        },
+        {
+            "methods": [
+                "plurality",
+                "top-two"
+            ],
+            "elections": 73
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality",
+                "top-two"
+            ],
+            "elections": 67
+        },
+        {
+            "methods": [
+                "top-two"
+            ],
+            "elections": 58
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 52
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 50
+        },
+        {
+            "methods": [
+                "approval",
+                "plurality"
+            ],
+            "elections": 50
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 48
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 48
+        },
+        {
+            "methods": [
+                "IRV",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 45
+        },
+        {
+            "methods": [
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 45
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 45
+        },
+        {
+            "methods": [
+                "IRV",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 40
+        },
+        {
+            "methods": [
+                "IRV",
+                "top-two"
+            ],
+            "elections": 39
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm"
+            ],
+            "elections": 31
+        },
+        {
+            "methods": [
+                "minimax",
+                "smith",
+                "smith-minimax"
+            ],
+            "elections": 29
+        },
+        {
+            "methods": [
+                "borda-pm"
+            ],
+            "elections": 28
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-pm"
+            ],
+            "elections": 27
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "top-3-truncation"
+            ],
+            "elections": 27
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 26
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin"
+            ],
+            "elections": 26
+        },
+        {
+            "methods": [
+                "IRV",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 26
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "top-3-truncation"
+            ],
+            "elections": 25
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-pm",
+                "bucklin"
+            ],
+            "elections": 24
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "bucklin"
+            ],
+            "elections": 24
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 24
+        },
+        {
+            "methods": [
+                "IRV"
+            ],
+            "elections": 22
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 21
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin"
+            ],
+            "elections": 21
+        },
+        {
+            "methods": [
+                "top-3-truncation"
+            ],
+            "elections": 21
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 20
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm"
+            ],
+            "elections": 19
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 19
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 18
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 17
+        },
+        {
+            "methods": [
+                "minimax",
+                "smith-minimax"
+            ],
+            "elections": 17
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 17
+        },
+        {
+            "methods": [
+                "plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 15
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 14
+        },
+        {
+            "methods": [
+                "IRV",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 14
+        },
+        {
+            "methods": [
+                "plurality",
+                "smith_plurality"
+            ],
+            "elections": 14
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-pm",
+                "plurality"
+            ],
+            "elections": 13
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-om-no-uwi",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 13
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 13
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "top-3-truncation"
+            ],
+            "elections": 13
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi"
+            ],
+            "elections": 13
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 13
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin"
+            ],
+            "elections": 13
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 12
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin"
+            ],
+            "elections": 12
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 11
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 11
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 11
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "plurality"
+            ],
+            "elections": 10
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 10
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "top-3-truncation"
+            ],
+            "elections": 10
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 10
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 9
+        },
+        {
+            "methods": [
+                "ranked-pairs",
+                "top-two"
+            ],
+            "elections": 9
+        },
+        {
+            "methods": [
+                "IRV",
+                "smith_irv",
+                "top-two"
+            ],
+            "elections": 9
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi"
+            ],
+            "elections": 8
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 8
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 8
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality"
+            ],
+            "elections": 8
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 7
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 7
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 7
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-om-no-uwi",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 7
+        },
+        {
+            "methods": [
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax"
+            ],
+            "elections": 7
+        },
+        {
+            "methods": [
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 7
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "top-3-truncation"
+            ],
+            "elections": 7
+        },
+        {
+            "methods": [
+                "bucklin",
+                "top-3-truncation"
+            ],
+            "elections": 7
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 7
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin"
+            ],
+            "elections": 6
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 6
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 6
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 6
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-om-no-uwi",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 6
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm"
+            ],
+            "elections": 6
+        },
+        {
+            "methods": [
+                "approval",
+                "minimax",
+                "smith",
+                "smith-minimax"
+            ],
+            "elections": 6
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "plurality",
+                "top-two"
+            ],
+            "elections": 6
+        },
+        {
+            "methods": [
+                "IRV",
+                "smith_irv"
+            ],
+            "elections": 6
+        },
+        {
+            "methods": [
+                "IRV",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 6
+        },
+        {
+            "methods": [
+                "approval",
+                "plurality",
+                "top-two"
+            ],
+            "elections": 6
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-pm",
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 5
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-om-no-uwi",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 5
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 5
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 5
+        },
+        {
+            "methods": [
+                "IRV",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "top-two"
+            ],
+            "elections": 5
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 5
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 5
+        },
+        {
+            "methods": [
+                "bucklin",
+                "plurality"
+            ],
+            "elections": 5
+        },
+        {
+            "methods": [
+                "smith_irv"
+            ],
+            "elections": 5
+        },
+        {
+            "methods": [
+                "bucklin",
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 5
+        },
+        {
+            "methods": [
+                "plurality",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "top-two"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "borda-pm",
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "approval",
+                "top-two"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-pm",
+                "plurality",
+                "top-two"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "minimax",
+                "smith",
+                "smith-minimax"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "top-3-truncation"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "top-two"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "top-3-truncation"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "IRV",
+                "bucklin",
+                "plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin"
+            ],
+            "elections": 4
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-om-no-uwi"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "IRV",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "plurality"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-om-no-uwi",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "top-3-truncation"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "IRV",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "borda-pm",
+                "top-3-truncation"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-om-no-uwi",
+                "bucklin"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "smith_plurality"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality",
+                "ranked-pairs",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "IRV",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "ranked-pairs"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "top-two"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-pm"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "ranked-pairs",
+                "smith_irv",
+                "top-3-truncation"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "IRV",
+                "top-3-truncation"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "approval",
+                "smith"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "top-3-truncation"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "IRV",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "top-3-truncation"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-om-no-uwi",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "borda-pm",
+                "plurality"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 3
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "bucklin",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "bucklin",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality",
+                "smith_plurality"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "ranked-pairs",
+                "smith_irv"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "minimax",
+                "plurality",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "bucklin",
+                "ranked-pairs"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality",
+                "ranked-pairs",
+                "smith_irv",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-om-no-uwi",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "minimax",
+                "smith-minimax"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "bucklin",
+                "smith_plurality"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "plurality",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality",
+                "smith_irv",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "bucklin",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "bucklin",
+                "plurality"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "ranked-pairs",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality",
+                "smith_irv",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "approval",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality",
+                "ranked-pairs",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-pm",
+                "bucklin",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "top-3-truncation"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-pm",
+                "plurality",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "smith_irv",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 2
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-om-no-uwi",
+                "plurality",
+                "smith_irv",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-pm",
+                "plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-pm",
+                "plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "plurality",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "bucklin",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-pm",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "plurality",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-pm",
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-om-no-uwi",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "plurality",
+                "ranked-pairs",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-pm",
+                "smith_irv",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-pm",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-om-no-uwi",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "bucklin"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "plurality",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-om-no-uwi",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "smith_irv"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "ranked-pairs",
+                "smith_irv",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-pm",
+                "ranked-pairs",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "plurality",
+                "smith_irv",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "smith_irv",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality",
+                "ranked-pairs",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "plurality",
+                "ranked-pairs",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "bucklin",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "smith-minimax",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "plurality",
+                "ranked-pairs",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "bucklin",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "smith-minimax",
+                "smith_irv",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "plurality",
+                "ranked-pairs",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "smith_irv",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "plurality",
+                "ranked-pairs",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "bucklin",
+                "smith_irv",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "plurality",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-om-no-uwi",
+                "plurality",
+                "ranked-pairs",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "bucklin",
+                "plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "smith_irv"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "bucklin",
+                "plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "ranked-pairs"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "minimax",
+                "plurality",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "plurality",
+                "ranked-pairs",
+                "smith_irv",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "bucklin",
+                "ranked-pairs",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-om-no-uwi",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "plurality",
+                "ranked-pairs",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "bucklin",
+                "ranked-pairs",
+                "smith_irv",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-pm",
+                "bucklin",
+                "plurality",
+                "ranked-pairs",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "smith_irv"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "bucklin",
+                "plurality",
+                "ranked-pairs",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "plurality",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "plurality",
+                "ranked-pairs",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-pm",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "ranked-pairs"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "plurality",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "plurality",
+                "ranked-pairs",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "bucklin",
+                "plurality",
+                "ranked-pairs",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "ranked-pairs",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "plurality",
+                "ranked-pairs",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "plurality",
+                "ranked-pairs",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "smith_irv",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-pm",
+                "bucklin",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-pm",
+                "plurality",
+                "ranked-pairs",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "minimax",
+                "smith-minimax",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "plurality",
+                "ranked-pairs",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "bucklin",
+                "smith_irv"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "plurality",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "plurality",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "minimax"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "smith-minimax"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "smith_irv",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "ranked-pairs"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-om-no-uwi",
+                "plurality",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "ranked-pairs",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "bucklin",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "plurality",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "plurality",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-om-no-uwi",
+                "bucklin",
+                "plurality",
+                "ranked-pairs",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-pm",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "smith_irv",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "plurality",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "ranked-pairs",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "plurality",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "bucklin",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "ranked-pairs"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "ranked-pairs",
+                "smith_irv",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality",
+                "ranked-pairs",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "plurality",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "ranked-pairs",
+                "smith_irv",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-om-no-uwi",
+                "plurality",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-pm",
+                "ranked-pairs"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "bucklin",
+                "plurality",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality",
+                "ranked-pairs",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "bucklin"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "plurality",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-pm",
+                "plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "plurality",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "ranked-pairs"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "ranked-pairs",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "smith_irv"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-om-no-uwi",
+                "bucklin",
+                "ranked-pairs",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-pm",
+                "plurality",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "ranked-pairs",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "plurality",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "bucklin",
+                "plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "ranked-pairs",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "bucklin",
+                "plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "plurality",
+                "smith-minimax",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "ranked-pairs",
+                "smith_irv"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "minimax",
+                "smith-minimax"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "ranked-pairs",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality",
+                "ranked-pairs",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "plurality",
+                "ranked-pairs",
+                "smith_irv"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "bucklin",
+                "plurality",
+                "smith_irv"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "plurality",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-pm",
+                "minimax",
+                "smith-minimax"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "plurality",
+                "ranked-pairs",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-pm",
+                "plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "plurality"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-om-no-uwi",
+                "bucklin",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "approval",
+                "bucklin",
+                "plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-om-no-uwi",
+                "bucklin",
+                "ranked-pairs",
+                "smith_irv",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "minimax",
+                "smith-minimax"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "smith_irv",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "plurality",
+                "ranked-pairs",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "bucklin",
+                "minimax",
+                "ranked-pairs",
+                "smith-minimax"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "ranked-pairs",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "plurality",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "bucklin",
+                "plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "ranked-pairs",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-avg-no-uwi",
+                "borda-pm",
+                "bucklin",
+                "condorcet",
+                "minimax",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "borda-om-no-uwi",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "ranked-pairs",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "borda-avg-no-uwi",
+                "borda-om-no-uwi",
+                "borda-pm",
+                "smith_plurality",
+                "top-3-truncation"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "IRV",
+                "bucklin",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        },
+        {
+            "methods": [
+                "approval",
+                "borda-pm",
+                "condorcet",
+                "minimax",
+                "plurality",
+                "ranked-pairs",
+                "smith",
+                "smith-minimax",
+                "smith_irv",
+                "smith_plurality",
+                "top-two"
+            ],
+            "elections": 1
+        }
+    ]
+}
