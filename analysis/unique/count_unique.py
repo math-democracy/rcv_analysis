@@ -1,8 +1,7 @@
 import pandas as pd
 import json
 
-# data_file = '/Users/belle/Desktop/build/rcv_proposal/results/current/civs.csv'
-data_file = './test.csv'
+data_file = '/Users/belle/Desktop/build/rcv_proposal/results/current/australia.csv'
 results_file = './unique.json'
 
 
@@ -13,6 +12,7 @@ def read_data(data_file):
     data = pd.read_csv(data_file, header=None)
     data.columns = data.iloc[0]
     data = data.drop(0).reset_index(drop=True)
+    print(len(data))
     # for analyzing w/ david's data: data = data.drop(columns=['numCands'])
     data = data[['file','plurality','IRV','top-two','borda-pm','borda-om','borda-avg','top-3-truncation','condorcet','minimax','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','approval','smith']]
     return data
@@ -30,8 +30,7 @@ def find_not_unanimous_results(data):
                     if value not in result:
                         result[value] = []
                     result[value].append(col_index)
-            if len(result) > 1:
-                results[f'{file_name}'] = result
+            results[f'{file_name}'] = result
     print(count)
     print(len(results))
     return results

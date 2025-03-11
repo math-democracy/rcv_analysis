@@ -1,6 +1,27 @@
 [
     {
         "methods": [
+            "IRV",
+            "approval",
+            "borda-avg",
+            "borda-om",
+            "borda-pm",
+            "bucklin",
+            "condorcet",
+            "minimax",
+            "plurality",
+            "ranked-pairs",
+            "smith",
+            "smith-minimax",
+            "smith_irv",
+            "smith_plurality",
+            "top-3-truncation",
+            "top-two"
+        ],
+        "elections": 1296
+    },
+    {
+        "methods": [
             "plurality"
         ],
         "elections": 192

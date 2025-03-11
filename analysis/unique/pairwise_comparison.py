@@ -3,7 +3,7 @@ import json
 from itertools import combinations
 from collections import Counter
 
-file_path = './data.json'
+file_path = './all.json'
 
 # Load the JSON file
 with open(file_path, "r") as file:
@@ -31,13 +31,13 @@ for top_level_key in data.values():  # Iterate over top-level keys
 group_pairs = sorted(group_counter.items(), key=lambda x: x[1], reverse=True)
 
 
-print(group_pairs)
+print(sorted_pairs)
 json_data = [
-    {"methods": list(keys), "elections": value} for keys, value in group_pairs
+    {"methods": list(keys), "elections": value} for keys, value in sorted_pairs
 ]
 
 # Write to a JSON file
-with open("analysis2.json", "w") as json_file:
+with open("analysis.json", "w") as json_file:
     json.dump(json_data, json_file, indent=4)
 
 

@@ -4,839 +4,839 @@
             "minimax",
             "smith-minimax"
         ],
-        "elections": 719
+        "elections": 2015
     },
     {
         "methods": [
             "smith_irv",
             "smith_plurality"
         ],
-        "elections": 711
+        "elections": 2007
     },
     {
         "methods": [
             "minimax",
             "ranked-pairs"
         ],
-        "elections": 709
+        "elections": 2005
     },
     {
         "methods": [
             "minimax",
             "smith_irv"
         ],
-        "elections": 709
+        "elections": 2005
     },
     {
         "methods": [
             "ranked-pairs",
             "smith-minimax"
         ],
-        "elections": 709
+        "elections": 2005
     },
     {
         "methods": [
             "smith-minimax",
             "smith_irv"
         ],
-        "elections": 709
+        "elections": 2005
     },
     {
         "methods": [
             "minimax",
             "smith_plurality"
         ],
-        "elections": 708
+        "elections": 2004
     },
     {
         "methods": [
             "smith-minimax",
             "smith_plurality"
         ],
-        "elections": 708
+        "elections": 2004
     },
     {
         "methods": [
             "condorcet",
             "minimax"
         ],
-        "elections": 705
+        "elections": 2001
     },
     {
         "methods": [
             "condorcet",
             "smith"
         ],
-        "elections": 705
+        "elections": 2001
     },
     {
         "methods": [
             "condorcet",
             "smith-minimax"
         ],
-        "elections": 705
+        "elections": 2001
     },
     {
         "methods": [
             "condorcet",
             "smith_irv"
         ],
-        "elections": 705
+        "elections": 2001
     },
     {
         "methods": [
             "condorcet",
             "smith_plurality"
         ],
-        "elections": 705
+        "elections": 2001
     },
     {
         "methods": [
             "minimax",
             "smith"
         ],
-        "elections": 705
+        "elections": 2001
     },
     {
         "methods": [
             "smith",
             "smith-minimax"
         ],
-        "elections": 705
+        "elections": 2001
     },
     {
         "methods": [
             "smith",
             "smith_irv"
         ],
-        "elections": 705
+        "elections": 2001
     },
     {
         "methods": [
             "smith",
             "smith_plurality"
         ],
-        "elections": 705
+        "elections": 2001
     },
     {
         "methods": [
             "ranked-pairs",
             "smith_irv"
         ],
-        "elections": 701
+        "elections": 1997
     },
     {
         "methods": [
             "ranked-pairs",
             "smith_plurality"
         ],
-        "elections": 700
+        "elections": 1996
     },
     {
         "methods": [
             "condorcet",
             "ranked-pairs"
         ],
-        "elections": 696
+        "elections": 1992
     },
     {
         "methods": [
             "ranked-pairs",
             "smith"
         ],
-        "elections": 696
+        "elections": 1992
     },
     {
         "methods": [
             "IRV",
             "smith_irv"
         ],
-        "elections": 656
+        "elections": 1952
     },
     {
         "methods": [
             "IRV",
             "smith_plurality"
         ],
-        "elections": 648
+        "elections": 1944
     },
     {
         "methods": [
             "IRV",
             "minimax"
         ],
-        "elections": 647
+        "elections": 1943
     },
     {
         "methods": [
             "IRV",
             "smith-minimax"
         ],
-        "elections": 647
+        "elections": 1943
     },
     {
         "methods": [
             "IRV",
             "condorcet"
         ],
-        "elections": 643
+        "elections": 1939
     },
     {
         "methods": [
             "IRV",
             "smith"
         ],
-        "elections": 643
+        "elections": 1939
     },
     {
         "methods": [
             "IRV",
             "ranked-pairs"
         ],
-        "elections": 639
+        "elections": 1935
     },
     {
         "methods": [
             "borda-avg",
             "borda-pm"
         ],
-        "elections": 636
+        "elections": 1932
     },
     {
         "methods": [
             "IRV",
             "top-two"
         ],
-        "elections": 625
+        "elections": 1921
     },
     {
         "methods": [
             "ranked-pairs",
             "top-two"
         ],
-        "elections": 622
+        "elections": 1918
     },
     {
         "methods": [
             "smith_irv",
             "top-two"
         ],
-        "elections": 617
+        "elections": 1913
     },
     {
         "methods": [
             "borda-avg",
             "smith_plurality"
         ],
-        "elections": 612
+        "elections": 1908
     },
     {
         "methods": [
             "minimax",
             "top-two"
         ],
-        "elections": 612
+        "elections": 1908
     },
     {
         "methods": [
             "smith-minimax",
             "top-two"
         ],
-        "elections": 612
+        "elections": 1908
     },
     {
         "methods": [
             "smith_plurality",
             "top-two"
         ],
-        "elections": 612
+        "elections": 1908
     },
     {
         "methods": [
             "borda-avg",
             "smith_irv"
         ],
-        "elections": 611
+        "elections": 1907
     },
     {
         "methods": [
             "condorcet",
             "top-two"
         ],
-        "elections": 608
+        "elections": 1904
     },
     {
         "methods": [
             "smith",
             "top-two"
         ],
-        "elections": 608
+        "elections": 1904
     },
     {
         "methods": [
             "borda-avg",
             "minimax"
         ],
-        "elections": 607
+        "elections": 1903
     },
     {
         "methods": [
             "borda-avg",
             "smith-minimax"
         ],
-        "elections": 607
+        "elections": 1903
     },
     {
         "methods": [
             "borda-avg",
             "condorcet"
         ],
-        "elections": 604
+        "elections": 1900
     },
     {
         "methods": [
             "borda-avg",
             "smith"
         ],
-        "elections": 604
+        "elections": 1900
     },
     {
         "methods": [
             "borda-avg",
             "ranked-pairs"
         ],
-        "elections": 599
+        "elections": 1895
     },
     {
         "methods": [
             "borda-pm",
             "smith_irv"
         ],
-        "elections": 597
+        "elections": 1893
     },
     {
         "methods": [
             "borda-pm",
             "smith_plurality"
         ],
-        "elections": 597
+        "elections": 1893
     },
     {
         "methods": [
             "borda-pm",
             "minimax"
         ],
-        "elections": 594
+        "elections": 1890
     },
     {
         "methods": [
             "borda-pm",
             "smith-minimax"
         ],
-        "elections": 594
+        "elections": 1890
     },
     {
         "methods": [
             "borda-pm",
             "condorcet"
         ],
-        "elections": 591
+        "elections": 1887
     },
     {
         "methods": [
             "borda-pm",
             "smith"
         ],
-        "elections": 591
+        "elections": 1887
     },
     {
         "methods": [
             "approval",
             "bucklin"
         ],
-        "elections": 587
+        "elections": 1883
     },
     {
         "methods": [
             "borda-pm",
             "ranked-pairs"
         ],
-        "elections": 585
+        "elections": 1881
     },
     {
         "methods": [
             "smith_plurality",
             "top-3-truncation"
         ],
-        "elections": 577
+        "elections": 1873
     },
     {
         "methods": [
             "minimax",
             "top-3-truncation"
         ],
-        "elections": 576
+        "elections": 1872
     },
     {
         "methods": [
             "smith-minimax",
             "top-3-truncation"
         ],
-        "elections": 576
+        "elections": 1872
     },
     {
         "methods": [
             "smith_irv",
             "top-3-truncation"
         ],
-        "elections": 573
+        "elections": 1869
     },
     {
         "methods": [
             "borda-avg",
             "top-3-truncation"
         ],
-        "elections": 571
+        "elections": 1867
     },
     {
         "methods": [
             "IRV",
             "top-3-truncation"
         ],
-        "elections": 570
+        "elections": 1866
     },
     {
         "methods": [
             "condorcet",
             "top-3-truncation"
         ],
-        "elections": 569
+        "elections": 1865
     },
     {
         "methods": [
             "smith",
             "top-3-truncation"
         ],
-        "elections": 569
+        "elections": 1865
     },
     {
         "methods": [
             "ranked-pairs",
             "top-3-truncation"
         ],
-        "elections": 568
+        "elections": 1864
     },
     {
         "methods": [
             "IRV",
             "borda-avg"
         ],
-        "elections": 563
+        "elections": 1859
     },
     {
         "methods": [
             "borda-pm",
             "bucklin"
         ],
-        "elections": 561
+        "elections": 1857
     },
     {
         "methods": [
             "borda-pm",
             "top-3-truncation"
         ],
-        "elections": 554
+        "elections": 1850
     },
     {
         "methods": [
             "IRV",
             "borda-pm"
         ],
-        "elections": 552
+        "elections": 1848
     },
     {
         "methods": [
             "top-3-truncation",
             "top-two"
         ],
-        "elections": 546
+        "elections": 1842
     },
     {
         "methods": [
             "borda-avg",
             "bucklin"
         ],
-        "elections": 537
+        "elections": 1833
     },
     {
         "methods": [
             "borda-avg",
             "borda-om"
         ],
-        "elections": 533
+        "elections": 1829
     },
     {
         "methods": [
             "borda-avg",
             "top-two"
         ],
-        "elections": 527
+        "elections": 1823
     },
     {
         "methods": [
             "borda-pm",
             "top-two"
         ],
-        "elections": 520
+        "elections": 1816
     },
     {
         "methods": [
             "approval",
             "borda-pm"
         ],
-        "elections": 512
+        "elections": 1808
     },
     {
         "methods": [
             "bucklin",
             "smith_irv"
         ],
-        "elections": 486
+        "elections": 1782
     },
     {
         "methods": [
             "bucklin",
             "minimax"
         ],
-        "elections": 485
+        "elections": 1781
     },
     {
         "methods": [
             "bucklin",
             "smith-minimax"
         ],
-        "elections": 485
+        "elections": 1781
     },
     {
         "methods": [
             "bucklin",
             "smith_plurality"
         ],
-        "elections": 485
+        "elections": 1781
     },
     {
         "methods": [
             "bucklin",
             "condorcet"
         ],
-        "elections": 481
+        "elections": 1777
     },
     {
         "methods": [
             "bucklin",
             "smith"
         ],
-        "elections": 481
+        "elections": 1777
     },
     {
         "methods": [
             "bucklin",
             "ranked-pairs"
         ],
-        "elections": 476
+        "elections": 1772
     },
     {
         "methods": [
             "borda-om",
             "smith_plurality"
         ],
-        "elections": 475
+        "elections": 1771
     },
     {
         "methods": [
             "borda-om",
             "minimax"
         ],
-        "elections": 474
+        "elections": 1770
     },
     {
         "methods": [
             "borda-om",
             "smith-minimax"
         ],
-        "elections": 474
+        "elections": 1770
     },
     {
         "methods": [
             "borda-om",
             "smith_irv"
         ],
-        "elections": 471
+        "elections": 1767
     },
     {
         "methods": [
             "borda-om",
             "condorcet"
         ],
-        "elections": 467
+        "elections": 1763
     },
     {
         "methods": [
             "borda-om",
             "smith"
         ],
-        "elections": 467
+        "elections": 1763
     },
     {
         "methods": [
             "borda-om",
             "ranked-pairs"
         ],
-        "elections": 466
+        "elections": 1762
     },
     {
         "methods": [
             "borda-om",
             "top-3-truncation"
         ],
-        "elections": 462
+        "elections": 1758
     },
     {
         "methods": [
             "approval",
             "borda-avg"
         ],
-        "elections": 461
+        "elections": 1757
     },
     {
         "methods": [
             "borda-om",
             "borda-pm"
         ],
-        "elections": 452
+        "elections": 1748
     },
     {
         "methods": [
             "IRV",
             "bucklin"
         ],
-        "elections": 436
+        "elections": 1732
     },
     {
         "methods": [
             "bucklin",
             "top-3-truncation"
         ],
-        "elections": 429
+        "elections": 1725
     },
     {
         "methods": [
             "IRV",
             "borda-om"
         ],
-        "elections": 426
+        "elections": 1722
     },
     {
         "methods": [
             "approval",
             "smith_irv"
         ],
-        "elections": 421
+        "elections": 1717
     },
     {
         "methods": [
             "approval",
             "minimax"
         ],
-        "elections": 420
+        "elections": 1716
     },
     {
         "methods": [
             "approval",
             "smith-minimax"
         ],
-        "elections": 420
+        "elections": 1716
     },
     {
         "methods": [
             "approval",
             "smith_plurality"
         ],
-        "elections": 420
+        "elections": 1716
     },
     {
         "methods": [
             "approval",
             "condorcet"
         ],
-        "elections": 416
+        "elections": 1712
     },
     {
         "methods": [
             "approval",
             "smith"
         ],
-        "elections": 416
+        "elections": 1712
     },
     {
         "methods": [
             "plurality",
             "top-3-truncation"
         ],
-        "elections": 415
+        "elections": 1711
     },
     {
         "methods": [
             "approval",
             "ranked-pairs"
         ],
-        "elections": 411
+        "elections": 1707
     },
     {
         "methods": [
             "bucklin",
             "top-two"
         ],
-        "elections": 410
+        "elections": 1706
     },
     {
         "methods": [
             "borda-om",
             "top-two"
         ],
-        "elections": 407
+        "elections": 1703
     },
     {
         "methods": [
             "plurality",
             "top-two"
         ],
-        "elections": 397
+        "elections": 1693
     },
     {
         "methods": [
             "borda-om",
             "bucklin"
         ],
-        "elections": 393
+        "elections": 1689
     },
     {
         "methods": [
             "IRV",
             "plurality"
         ],
-        "elections": 388
+        "elections": 1684
     },
     {
         "methods": [
             "IRV",
             "approval"
         ],
-        "elections": 377
+        "elections": 1673
     },
     {
         "methods": [
             "approval",
             "top-3-truncation"
         ],
-        "elections": 360
+        "elections": 1656
     },
     {
         "methods": [
             "plurality",
             "smith_plurality"
         ],
-        "elections": 355
+        "elections": 1651
     },
     {
         "methods": [
             "plurality",
             "smith_irv"
         ],
-        "elections": 354
+        "elections": 1650
     },
     {
         "methods": [
             "minimax",
             "plurality"
         ],
-        "elections": 352
+        "elections": 1648
     },
     {
         "methods": [
             "plurality",
             "smith-minimax"
         ],
-        "elections": 352
-    },
-    {
-        "methods": [
-            "condorcet",
-            "plurality"
-        ],
-        "elections": 347
-    },
-    {
-        "methods": [
-            "plurality",
-            "smith"
-        ],
-        "elections": 347
+        "elections": 1648
     },
     {
         "methods": [
             "approval",
             "top-two"
         ],
-        "elections": 347
+        "elections": 1643
+    },
+    {
+        "methods": [
+            "condorcet",
+            "plurality"
+        ],
+        "elections": 1643
+    },
+    {
+        "methods": [
+            "plurality",
+            "smith"
+        ],
+        "elections": 1643
     },
     {
         "methods": [
             "plurality",
             "ranked-pairs"
         ],
-        "elections": 344
+        "elections": 1640
     },
     {
         "methods": [
             "borda-pm",
             "plurality"
         ],
-        "elections": 329
+        "elections": 1625
     },
     {
         "methods": [
             "approval",
             "borda-om"
         ],
-        "elections": 300
+        "elections": 1596
     },
     {
         "methods": [
             "borda-avg",
             "plurality"
         ],
-        "elections": 297
+        "elections": 1593
     },
     {
         "methods": [
             "bucklin",
             "plurality"
         ],
-        "elections": 218
+        "elections": 1514
     },
     {
         "methods": [
             "approval",
             "plurality"
         ],
-        "elections": 206
+        "elections": 1502
     },
     {
         "methods": [
             "borda-om",
             "plurality"
         ],
-        "elections": 203
+        "elections": 1499
     }
 ]
