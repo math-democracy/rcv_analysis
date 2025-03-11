@@ -1,10 +1,10 @@
 import pandas as pd
 
-single_party = pd.read_csv('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/results/scotland_results_top4.csv')
-single_party['merge_key'] = single_party['file'].apply(lambda x: x.replace('analysis/mimic_single_party/data/',''))
+single_party = pd.read_csv('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/borda_score/scotland_results_top4.csv')
+single_party['merge_key'] = single_party['file']#.apply(lambda x: x.replace('analysis/mimic_single_party/data/',''))
 
 multi_party = pd.read_csv('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/scotland_results_top4.csv')
-multi_party['merge_key'] = multi_party['file'].apply(lambda x: x.replace('raw_data/scotland/processed_data/',''))
+multi_party['merge_key'] = multi_party['file']#.apply(lambda x: x.replace('raw_data/scotland/processed_data/',''))
 
 merged = single_party.merge(multi_party, on='merge_key', suffixes=['_single','_multi'])
 
@@ -19,8 +19,7 @@ merged = merged[columns]
 merged['numCands_single'] = merged['numCands_single'] - 1
 merged['numCands_multi'] = merged['numCands_multi'] - 1
 
-merged = merged.rename({'merge_key':'file'})
+merged = merged.rename(columns = {'merge_key':'file'})
 
-
-merged.to_csv('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/results/single_v_multi_comparison.csv', index=False)
+merged.to_csv('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/borda_score/single_v_multi_comparison.csv', index=False)
 #print(merged.columns)

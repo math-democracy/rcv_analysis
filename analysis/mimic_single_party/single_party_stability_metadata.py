@@ -1,12 +1,12 @@
 import pandas as pd
 import json
 
-with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/party_breakdown.json', 'r') as file:
+with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/metadata/party_breakdown.json', 'r') as file:
     party_info = json.load(file)
 
-def gen_metadata(country):
+
+def gen_metadata(filepath):
     num_cands_kept = 4
-    file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/results/{country}_results_top{num_cands_kept}.csv'  # Replace with file path
     df = pd.read_csv(file_path)
 
     methods = ['plurality','IRV','top-two','borda-pm','borda-om','borda-avg','top-3-truncation','condorcet','minimax','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','approval']
@@ -14,19 +14,15 @@ def gen_metadata(country):
     files = {}
     method_counts = dict.fromkeys(methods, 0)
     elections_with_changes = 0
-
-    # # Open and read the JSON file
-    # with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/first_place_ranks.json', 'r') as file:
-    #     candidates = json.load(file)
-
-    #print(candidates['scotland'])
+    stable_elections = []
 
     file_summary = {method: [] for method in methods}
 
     for _, row in df.iterrows():
-        #same_party = False
-        candidates = party_info[f'raw_data/scotland/processed_data/{row['file'].replace('analysis/mimic_single_party/data/','')}']['party_dict']
-        parties = party_info[f'raw_data/scotland/processed_data/{row['file'].replace('analysis/mimic_single_party/data/','')}']['parties']
+        #candidates = party_info[f'raw_data/scotland/processed_data/{row['file'].replace('analysis/mimic_single_party/data/','')}']['party_dict']
+        #parties = party_info[f'raw_data/scotland/processed_data/{row['file'].replace('analysis/mimic_single_party/data/','')}']['parties']
+        candidates = party_info[f'{row['file']}']['party_dict']
+        parties = party_info[f'{row['file']}']['parties']
 
         changes = {}
         
@@ -42,17 +38,20 @@ def gen_metadata(country):
 
         if len(changes) > 0:
             elections_with_changes += 1
+            files[row['file']] = {
+                "changes":changes,
+                "candidates": candidates,
+                "parties":parties
+            }
+        else:
+            stable_elections.append(row['file'])
             
         # if row['file'] in candidates[country]:
         #     candidate_ranks = candidates[country][row['file']]
         # else:
         #     candidate_ranks = {}
 
-        files[row['file']] = {
-            "changes":changes,
-            "candidates": candidates,
-            "parties":parties
-        }
+        
 
     # calculate file statistics
     total_files = len(df)
@@ -66,11 +65,13 @@ def gen_metadata(country):
 
     output_data = {
         "metadata": metadata,
-        "changes": files
+        "changes": files,
+        "stable_elections": stable_elections
     }
 
     # write to output file
-    output_file = f"/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/results/{country}_results_top{num_cands_kept}.json"
+    output_file = file_path[:-4]+ '.json'
+    print(output_file)
     with open(output_file, "w") as f:
         json.dump(output_data, f, indent=4)
 
@@ -78,5 +79,6 @@ def gen_metadata(country):
 
 # gen_metadata('america')
 # gen_metadata('australia')
-gen_metadata('scotland')
+file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_place_score/scotland_results_top4.csv'  # Replace with file path
+gen_metadata(file_path)
 # gen_metadata('civs')

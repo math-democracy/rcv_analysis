@@ -10,7 +10,7 @@ import os
 num_cands_to_keep = 4
 
 data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/results/scotland_results_top{num_cands_to_keep}.csv'
-root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/data'
+root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data'
 
 error_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/results/supporting_files/scotland_error.txt'
 processed_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/results/supporting_files/scotland_processed.txt'
@@ -81,7 +81,7 @@ def run_voting_methods(full_path):
     data['approval'] = list(mm.Ranked_Pairs(prof=v,tiebreak='random'))
 
     # get top 4 based on plurality score
-    cands_to_keep = get_cands_to_keep(v, len(v.candidates), 4)
+    cands_to_keep = get_cands_to_keep(v, len(v.candidates), num_cands_to_keep)
     
     print(cands_to_keep)
 

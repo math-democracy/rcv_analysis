@@ -1,0 +1,145 @@
+{
+    "total_elections": 1128,
+    "completely_stable_elections": {
+        "top4plurality": 665,
+        "borda": 891,
+        "mention": 887,
+        "first_place": 887
+    },
+    "stable_metadata_KEY": {
+        "bool,bool,bool,bool": "top4plurality_isStable,borda_isStable,mention_isStable,first_place_isStable"
+    },
+    "stable_metadata": {
+        "plurality": {
+            "True,True,True,True": 913,
+            "False,True,True,True": 179,
+            "True,False,False,False": 16,
+            "True,False,False,True": 2,
+            "False,False,False,False": 15,
+            "True,True,False,True": 1,
+            "True,True,True,False": 2
+        },
+        "IRV": {
+            "True,True,True,True": 1126,
+            "False,True,False,False": 1,
+            "False,True,True,True": 1
+        },
+        "top-two": {
+            "True,True,True,True": 1048,
+            "False,True,True,True": 51,
+            "True,False,False,False": 10,
+            "False,False,False,False": 11,
+            "False,True,False,False": 1,
+            "False,True,False,True": 2,
+            "False,False,True,False": 2,
+            "False,True,True,False": 1,
+            "True,True,True,False": 2
+        },
+        "borda-pm": {
+            "True,True,True,True": 1031,
+            "False,True,True,True": 57,
+            "False,False,False,False": 25,
+            "True,False,False,False": 11,
+            "True,False,False,True": 3,
+            "False,True,False,False": 1
+        },
+        "borda-om": {
+            "True,True,True,True": 875,
+            "False,True,True,True": 145,
+            "False,False,False,False": 50,
+            "True,False,False,False": 45,
+            "True,True,True,False": 4,
+            "False,False,False,True": 5,
+            "False,True,False,False": 1,
+            "False,False,True,False": 1,
+            "True,True,False,True": 1,
+            "False,True,True,False": 1
+        },
+        "borda-avg": {
+            "True,True,True,True": 1041,
+            "False,True,True,True": 53,
+            "False,False,False,False": 20,
+            "True,True,False,True": 3,
+            "True,False,False,False": 7,
+            "False,True,False,False": 1,
+            "False,False,False,True": 2,
+            "True,False,False,True": 1
+        },
+        "top-3-truncation": {
+            "False,True,True,True": 57,
+            "False,False,False,False": 58,
+            "True,True,True,True": 981,
+            "False,True,True,False": 2,
+            "True,False,False,False": 22,
+            "False,True,False,False": 1,
+            "True,True,True,False": 2,
+            "True,True,False,True": 1,
+            "True,False,False,True": 2,
+            "False,False,True,False": 1,
+            "False,False,False,True": 1
+        },
+        "condorcet": {
+            "True,True,True,True": 1122,
+            "False,True,False,False": 1,
+            "False,True,True,True": 3,
+            "True,False,False,True": 1,
+            "False,False,False,False": 1
+        },
+        "minimax": {
+            "True,True,True,True": 1122,
+            "False,True,False,False": 1,
+            "False,True,True,True": 3,
+            "True,False,False,True": 1,
+            "False,False,False,False": 1
+        },
+        "smith_plurality": {
+            "True,True,True,True": 1122,
+            "False,True,False,False": 1,
+            "False,True,True,True": 2,
+            "True,False,False,True": 1,
+            "False,False,False,True": 1,
+            "False,False,False,False": 1
+        },
+        "smith_irv": {
+            "True,True,True,True": 1121,
+            "False,True,False,False": 1,
+            "False,True,True,True": 4,
+            "True,False,True,False": 1,
+            "False,False,False,False": 1
+        },
+        "smith-minimax": {
+            "True,True,True,True": 1122,
+            "False,True,False,False": 1,
+            "False,True,True,True": 3,
+            "True,False,False,True": 1,
+            "False,False,False,False": 1
+        },
+        "ranked-pairs": {
+            "True,True,True,True": 1120,
+            "False,True,False,False": 1,
+            "False,True,True,True": 3,
+            "True,False,False,True": 2,
+            "True,True,True,False": 1,
+            "False,False,False,False": 1
+        },
+        "bucklin": {
+            "True,True,True,True": 1033,
+            "True,False,False,False": 7,
+            "False,False,False,False": 26,
+            "False,True,True,True": 56,
+            "True,True,True,False": 2,
+            "False,True,False,False": 1,
+            "False,False,False,True": 1,
+            "False,False,True,True": 1,
+            "True,False,False,True": 1
+        },
+        "approval": {
+            "True,True,True,True": 1120,
+            "False,True,False,False": 1,
+            "False,True,True,True": 3,
+            "True,False,False,True": 2,
+            "True,True,True,False": 1,
+            "False,False,False,False": 1
+        }
+    }
+}
