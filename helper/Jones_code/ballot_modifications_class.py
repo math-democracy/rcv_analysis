@@ -18,6 +18,7 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 ###### TODO
 ## Finish checking over Adam's methods
+## Fix True/False flag for modifying ballots
 
 ###############################################################################
 ##### Ballot modifications
@@ -103,9 +104,6 @@ def modifyUp(ballot, winner):
 
 
 
-
-
-
 def get_secondLow(my_dict):
     """inputs dictionary, returns key for second-lowest value"""
     for key, value in my_dict.items():
@@ -123,6 +121,11 @@ def swapOneTwo(ballot):
         print("incorrect application of swapOneTwo function")
     return modified
 
+def swapOneLoser(ballot, loser):
+    """inputs a ballot with a bullet vote, puts loser above bullet vote"""
+    modified = loser + ballot
+    return modified
+
 def swapLoserUp(string,loser): 
     """Inputs string and loser.  moves loser up to top of ballot if loser is
     on ballot, otherwise adds loser to top of ballot"""
@@ -133,5 +136,11 @@ def swapLoserUp(string,loser):
         string = loser + string.replace(loser, "")
     return string
 
-
+def moveToTop(ballot, loser):
+    """takes in a ballot and candidate, and moves that candidate to top of ballot"""
+    if loser in ballot:
+        return str(loser) + str(ballot.replace(loser,''))
+    else:
+        return ballot
+    
 
