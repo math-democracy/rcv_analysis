@@ -14,7 +14,7 @@ import statistics
 import warnings
 import sys
 warnings.simplefilter(action='ignore', category=FutureWarning)
-
+import time
 
 
 ## used in IRV function
@@ -48,8 +48,8 @@ def Borda_PM(profile, cands, diagnostic=False):
             candidate = curBal[i]
             if candidate in cands:
                 cand_scores[candidate] += (max_score - (i )) * count
-            else:
-                print("Candidate in ballot that is not in candidate list")
+            # else:
+            #     print("Candidate in ballot that is not in candidate list")
     
     if diagnostic:
         print(cand_scores)
@@ -76,8 +76,8 @@ def Borda_OM(profile, cands, diagnostic=False):
             candidate = curBal[i]
             if candidate in cands:
                 cand_scores[candidate] += (max_score - (i )) * count
-            else:
-                print("Candidate in ballot that is not in candidate list")
+            # else:
+            #     print("Candidate in ballot that is not in candidate list")
         
         ## add score for all candidates not on ballot
         for cand in cands:
@@ -109,8 +109,8 @@ def Borda_AVG(profile, cands, diagnostic=False):
             candidate = curBal[i]
             if candidate in cands:
                 cand_scores[candidate] += (max_score - (i )) * count
-            else:
-                print("Candidate in ballot that is not in candidate list")
+            # else:
+            #     print("Candidate in ballot that is not in candidate list")
         
         ## add score for all candidates not on ballot
         missing_cand_num = num_cands - len(curBal) 
@@ -130,7 +130,7 @@ def Borda_AVG(profile, cands, diagnostic=False):
 ###############################################################################
 ###############################################################################
 
-## Needs to be checked over/merged with other methods
+## Old method
 def IRV(profile, cands, diagnostic=False):
 
     frame2 = profile.copy(deep=True)
@@ -156,6 +156,7 @@ def IRV(profile, cands, diagnostic=False):
     max_count=max(vote_counts.values())
     if diagnostic:
         print(vote_counts)
+        print(hopefuls)
     
     while len(winners)<1:
         max_count=max(vote_counts.values())
@@ -236,6 +237,11 @@ def IRV(profile, cands, diagnostic=False):
 
             eliminated_cand = list(vote_counts.keys())[list(vote_counts.values()).index(min_count)] 
             
+            
+            if diagnostic:
+                print(vote_counts)
+                print(eliminated_cand)
+                
             elimFrames[len(eliminatedCand)]=frame2.copy(deep=True) #save pref sched data at this level
             tempWinners[len(eliminatedCand)]=copy.deepcopy(winners) #save winners at this level
             eliminatedCand.append(eliminated_cand)
@@ -256,12 +262,125 @@ def IRV(profile, cands, diagnostic=False):
                     else:
                         vote_counts[frame2.at[k,'ballot'][0]]=frame2.iloc[k]['Count']
                         
-            # print(vote_counts, hopefuls, winners)
             max_count=max(vote_counts.values())
             if len(hopefuls)+len(winners)==1:
                 return winners+hopefuls
             frame2=pd.DataFrame(frame2.groupby(['ballot'],as_index=False)['Count'].sum())
     return winners #as a list--in this case, should return a list of just one winner
+
+###############################################################################
+###############################################################################
+
+def IRV3(frame3):
+    frame2 = frame3.copy(deep=True)
+    """Inputs election, Returns winners, losers=eliminated candidates, 
+      dictionary of pre-elimination data"""#, dictionary of winners at each step of elimination
+    winners=[]
+    hopefuls=[]
+    eliminatedCand=[]
+    elimFrames={}
+    tempWinners={}
+    quota=math.floor(sum(frame2['Count'])/(2))+1
+    
+    list1=[] #gather all the candidate names
+    for k in range(len(frame2)):
+        for i in range(len(frame2.at[k,'ballot'])):
+            if frame2.at[k,'ballot'][i] not in list1:
+                list1.append(frame2.at[k,'ballot'][i])
+    cand_dict={}
+    n = len(list1)
+    S=1
+    for i in range(n):#n
+        cand_dict[i]=list1[i]
+        hopefuls.append(list1[i])
+    
+    #Get each candidate's initial number of votes this round
+    vote_counts={}
+    
+    for k in range(len(frame2)):
+            if frame2.at[k,'ballot']!='':
+                if frame2.at[k,'ballot'][0] in vote_counts.keys():
+                    vote_counts[frame2.at[k,'ballot'][0]]+=frame2.iloc[k]['Count']
+                else:
+                    vote_counts[frame2.at[k,'ballot'][0]]=frame2.iloc[k]['Count']
+    
+    max_count=max(vote_counts.values())
+    while len(winners)<1:
+        
+        max_count=max(vote_counts.values())
+        
+        if max_count>=quota: #somebody is elected 
+            #There might be multiple people elected this round; save them as a sorted dictionary
+            votes_for_winners={k:vote_counts[k] for k in vote_counts.keys() if vote_counts[k]>=quota }
+            votes_for_winners=dict(sorted(votes_for_winners.items(),key=lambda x: x[1], reverse=True))
+            
+            #If we try to elect too many people, error
+            if len(winners)+len(votes_for_winners)>S:
+                print("Error in tabulation.  Multiple winners found.")
+                for k in range(len(winners)+len(votes_for_winners)-S):
+                    winners.append(list(votes_for_winners.keys())[k])
+            
+            else:
+                winners=winners+list(votes_for_winners.keys())
+                for cand in winners:
+                    if cand in hopefuls:
+                        hopefuls.remove(cand)
+                
+                while len(votes_for_winners)>0:
+                    
+                    cand=list(votes_for_winners.keys())[0]
+    
+                    if cand not in winners:
+                        winners.append(cand)
+                        hopefuls.remove(cand)
+                    if len(winners)==1:
+                        return winners, eliminatedCand, elimFrames #, tempWinners (don't need tempWinners?)
+                    
+        #nobody is elected by surpassing quota, but the number
+        #of candidates left equals S
+        elif len(hopefuls)+len(winners)==1:
+            return winners+hopefuls, eliminatedCand, elimFrames #, tempWinners
+        
+        #remove weakest cand and transfer their votes with weight one
+        else:
+            min_count=min(i for i in vote_counts.values() if i>0)
+            count=0
+            for votes in vote_counts:
+                if votes==min_count:
+                    count+=1
+            if count>1:
+                print("tie in candidate to remove")
+                return
+
+            eliminated_cand = list(vote_counts.keys())[list(vote_counts.values()).index(min_count)] #took str() away
+            
+            elimFrames[len(eliminatedCand)]=frame2.copy(deep=True)
+            #tempWinners[len(eliminatedCand)]=copy.deepcopy(winners)
+            #print(frame2)
+            eliminatedCand.append(eliminated_cand)
+            if eliminated_cand in hopefuls:
+                hopefuls.remove(eliminated_cand)
+            
+            for k in range(len(frame2)):
+                if eliminated_cand in frame2.iloc[k]['ballot']:
+                    frame2.at[k,'ballot']=frame2.at[k,'ballot'].replace(eliminated_cand,'')
+            for k in range(len(frame2)):
+                if frame2.at[k,'ballot']=='':
+                    frame2.drop(k)
+            vote_counts={}
+           
+            for k in range(len(frame2)):
+                if frame2.at[k,'ballot']!='':
+                    if frame2.at[k,'ballot'][0] in vote_counts.keys():
+                        vote_counts[frame2.at[k,'ballot'][0]]+=frame2.iloc[k]['Count']
+                    else:
+                        vote_counts[frame2.at[k,'ballot'][0]]=frame2.iloc[k]['Count']
+            #print(vote_counts)
+            max_count=max(vote_counts.values())
+            if len(hopefuls)+len(winners)==1:
+                return winners+hopefuls, eliminatedCand, elimFrames #, tempWinners
+            frame2=pd.DataFrame(frame2.groupby(['ballot'],as_index=False)['Count'].sum())
+    return [winners, eliminatedCand, elimFrames] #, tempWinners
 
 ###############################################################################
 ###############################################################################
@@ -302,7 +421,7 @@ def minimax(profile, cands, diagnostic=False):
     worst_loss = margins.min(axis=1)
     winners = [cands[i] for i in range(num_cands) if worst_loss[i] == max(worst_loss)]
     return [winners]
-    
+   
 ###############################################################################
 ###############################################################################
 
@@ -411,7 +530,8 @@ def bucklin(profile, cands, diagnostic=False):
             ballot = profile.at[k, 'ballot']
             if len(ballot) > round_indx:
                 cand = ballot[round_indx]
-                scores[cand] += profile.at[k, 'Count']
+                if cand in cands:
+                    scores[cand] += profile.at[k, 'Count']
 
         if diagnostic:
             print(scores)
@@ -438,7 +558,8 @@ def plurality(profile, cands, diagnostic=False):
     
     for k in range(len(profile)):
         ballot = profile.at[k, 'ballot']
-        scores[ballot[0]] += profile.at[k, 'Count']
+        if ballot[0] in cands:
+            scores[ballot[0]] += profile.at[k, 'Count']
     
     if diagnostic:
         print(scores)
@@ -453,12 +574,17 @@ def plurality(profile, cands, diagnostic=False):
 
 def plurality_runoff(profile, cands, diagnostic=False):
     
+    ## doesn't work unless there are two+ candidates
+    if len(cands)==1:
+        return cands
+    
     ## Initialize scores for candidates to 0
     r1scores = {cand: 0.0 for cand in cands}
     
     for k in range(len(profile)):
         ballot = profile.at[k, 'ballot']
-        r1scores[ballot[0]] += profile.at[k, 'Count']
+        if ballot[0] in cands:
+            r1scores[ballot[0]] += profile.at[k, 'Count']
     
     ## keep two candidates with highest scores
     cands.sort(key=lambda cand: r1scores[cand], reverse = True)
