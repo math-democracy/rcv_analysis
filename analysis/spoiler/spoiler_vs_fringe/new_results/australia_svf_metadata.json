@@ -1,4 +1,23 @@
 {
+    "total_counts": {
+        "borda_lt_0.1": 59,
+        "borda_lt_0.2": 59,
+        "borda_lt_0.3": 59,
+        "borda_lt_0.4": 59,
+        "borda_lt_0.5": 59,
+        "borda_lt_0.6": 59,
+        "borda_lt_0.7": 59,
+        "borda_lt_0.9": 59,
+        "mention_lt_0.1": 59,
+        "mention_lt_0.2": 59,
+        "mention_lt_0.3": 59,
+        "mention_lt_0.4": 59,
+        "mention_lt_0.5": 59,
+        "mention_lt_0.6": 59,
+        "mention_lt_0.7": 59,
+        "mention_lt_0.8": 59,
+        "mention_lt_0.9": 59
+    },
     "fringe_count": {
         "mention_lt_0.1": {},
         "mention_lt_0.2": {},

@@ -1,4 +1,23 @@
 {
+    "total_counts": {
+        "borda_lt_0.1": 697,
+        "borda_lt_0.2": 697,
+        "borda_lt_0.3": 697,
+        "borda_lt_0.4": 697,
+        "borda_lt_0.5": 697,
+        "borda_lt_0.6": 697,
+        "borda_lt_0.7": 697,
+        "borda_lt_0.9": 697,
+        "mention_lt_0.1": 697,
+        "mention_lt_0.2": 697,
+        "mention_lt_0.3": 697,
+        "mention_lt_0.4": 697,
+        "mention_lt_0.5": 697,
+        "mention_lt_0.6": 697,
+        "mention_lt_0.7": 697,
+        "mention_lt_0.8": 697,
+        "mention_lt_0.9": 697
+    },
     "fringe_count": {
         "mention_lt_0.1": {
             "approval": 24,

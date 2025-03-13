@@ -28,7 +28,7 @@ def get_metadata_for_country(country):
                            
                     total_counts[method].add(file)
 
-    print(len(write))
+    # print(len(write))
     # print(fringe_count)
     # print(fringe_count.items())
     # # print(total_counts)
@@ -48,7 +48,7 @@ def get_metadata_for_country(country):
     print(f"Grouped changes with metadata have been exported to {output_file}")
 
 if __name__ == '__main__':
-    # get_metadata_for_country('america_no_write_in')
+    get_metadata_for_country('australia')
     get_metadata_for_country('america')
-    # get_metadata_for_country('scotland')
+    get_metadata_for_country('scotland')
     # get_metadata_for_country('civs')
