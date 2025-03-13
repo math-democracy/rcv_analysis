@@ -1,67 +1,71 @@
-from main_methods2 import *
+import sys
+sys.path.append('/Users/belle/Desktop/build/rcv_proposal')
+import main_methods as mm
 import multiprocessing
 import csv
 import os
 
-data_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/civs_results.csv'
-root_dir = '/Users/belle/Desktop/build/rcv_proposal/civs/processed_data'
+data_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/scotland_results.csv'
+root_dir = '/Users/belle/Desktop/build/rcv_proposal/raw_data/scotland/processed_data'
 
-error_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/civs_error.txt'
-processed_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/civs_processed.txt'
+error_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/scotland_error.txt'
+processed_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/scotland_processed.txt'
 all_data = []
 
 def run_voting_methods(full_path):
     # create profile + candidate list
-    v =  v_profile(full_path)
-
-    profile, file_path, candidates_with_indices, candidates = p_profile(full_path)
-
-    candidates_index = list(range(len(candidates)))
     grouped_data = []
+    v_profile =  mm.v_profile(full_path)
+    candidates = [candidate for candidate in v_profile.candidates if candidate != "skipped"]
 
-    # calculate original winners for each method
-    data = {'file': full_path.replace('/Users/belle/Desktop/build/rcv_proposal/', ''), 'candidate_removed': 'none'}
-        
-    data['plurality'] = Plurality(prof=profile, cands_to_keep=candidates_index, candidates_with_indices=candidates_with_indices, package="pref_voting")
-    data['IRV'] = IRV(prof=profile, cands_to_keep=candidates_index, candidates_with_indices=candidates_with_indices, package="pref_voting")
-    # data['top-two'] = TopTwo(prof=v, cands_to_keep=candidates)
-    # data['borda-pm'] = Borda_PM(prof=v, cands_to_keep=candidates)
-    # data['top-3-truncation'] = Top3Truncation(prof=v, cands_to_keep=candidates)
-    data['condorcet'] = Condorcet(prof=profile, candidates_with_indices=candidates_with_indices, cands_to_keep=candidates_index)
-    data['minimax'] = Minimax(prof=profile, candidates_with_indices=candidates_with_indices, cands_to_keep=candidates_index)
-    data['smith'] = Smith(prof=profile, candidates_with_indices=candidates_with_indices, cands_to_keep=candidates_index)
-    data['smith-minimax'] = Smith_minimax(prof=profile, candidates_with_indices=candidates_with_indices,cands_to_keep=candidates_index)
-    data['ranked-pairs'] = Ranked_Pairs(prof=profile, candidates_with_indices=candidates_with_indices,cands_to_keep=candidates_index)
-    print(data)
-    grouped_data.append(data)
+    data = {'file': full_path.replace(root_dir, ''), 'candidate_removed': None}
 
+    num_cands = len(candidates)
+    data['numCands'] = num_cands
+
+    data['plurality'] = list(mm.Plurality(prof=v_profile))
+    data['IRV'] = list(mm.IRV(prof=v_profile))
+    data['top-two'] = list(mm.TopTwo(prof=v_profile, tiebreak="first_place"))
+    data['borda-pm'] = list(mm.Borda_PM(v_profile, tiebreak="first_place"))
+    data['borda-om-no-uwi'] = list(mm.Borda_OM(v_profile, tiebreak="first_place"))
+    data['borda-avg-no-uwi'] = list(mm.Borda_AVG(v_profile, tiebreak="first_place"))
+    data['top-3-truncation'] = list(mm.Top3Truncation(prof=v_profile))
+    data['condorcet'] = list(mm.Condorcet(prof=v_profile))
+    data['minimax'] = list(mm.Minimax(prof=v_profile))
+    data['smith'] = list(mm.Smith(prof=v_profile))
+    data['smith_plurality'] = list(mm.Smith_Plurality(prof=v_profile))
+    data['smith_irv'] = list(mm.Smith_IRV(prof=v_profile))
+    data['smith-minimax'] = list(mm.Smith_Minimax(prof=v_profile))
+    data['ranked-pairs'] = list(mm.Ranked_Pairs(prof=v_profile))
+    data['bucklin'] = list(mm.Bucklin(prof=v_profile))
+    data['approval'] = list(mm.Ranked_Pairs(prof=v_profile))
+    
     # check for spoiler effect by removing one candidate each time
     if len(candidates) > 1:
         print(candidates)
         for index, c in enumerate(candidates):
             new_candidates = candidates.copy()
             new_candidates.remove(c)
-            new_candidates_index = candidates_index.copy()
-            new_candidates_index.remove(index)
-            print(c)
-            print(new_candidates)
-            print(new_candidates_index)
        
-            data = {'file': full_path.replace('/Users/belle/Desktop/build/rcv_proposal/', ''), 'candidate_removed': c}
+            data = {'file': full_path.replace(root_dir, ''), 'candidate_removed': c}
             
-            data['plurality'] = Plurality(prof=profile, cands_to_keep=new_candidates_index, candidates_with_indices=candidates_with_indices, package="pref_voting")
-            data['IRV'] = IRV(prof=profile, cands_to_keep=new_candidates_index, candidates_with_indices=candidates_with_indices, package="pref_voting")
-            # data['top-two'] = TopTwo(prof=v, cands_to_keep=new_candidates)
-            data['borda-pm'] = Borda_PM(prof=profile, cands_to_keep=new_candidates, candidates_with_indices=candidates_with_indices)
-            # data['top-3-truncation'] = Top3Truncation(prof=v, cands_to_keep=new_candidates)
-            data['condorcet'] = Condorcet(prof=profile, candidates_with_indices=candidates_with_indices, cands_to_keep=new_candidates_index)
-            data['minimax'] = Minimax(prof=profile, candidates_with_indices=candidates_with_indices, cands_to_keep=new_candidates_index)
-            data['smith'] = Smith(prof=profile, candidates_with_indices=candidates_with_indices, cands_to_keep=new_candidates_index)
-            # data['smith-irv'] = Smith_IRV(prof=profile, candidates_with_indices=candidates_with_indices)
-            data['smith-minimax'] = Smith_minimax(prof=profile, candidates_with_indices=candidates_with_indices,cands_to_keep=new_candidates_index)
-            data['ranked-pairs'] = Ranked_Pairs(prof=profile, candidates_with_indices=candidates_with_indices,cands_to_keep=new_candidates_index)
-            # data['bucklin'] = Bucklin(prof=profile, candidates_with_indices=candidates_with_indices, package="pref_voting")
-            print(data)
+            data['plurality'] = list(mm.Plurality(prof=v_profile, cands_to_keep=new_candidates))
+            data['IRV'] = list(mm.IRV(prof=v_profile, cands_to_keep=new_candidates))
+            data['top-two'] = list(mm.TopTwo(prof=v_profile, cands_to_keep=new_candidates, tiebreak="first_place"))
+            data['borda-pm'] = list(mm.Borda_PM(v_profile, cands_to_keep=new_candidates, tiebreak="first_place"))
+            data['borda-om-no-uwi'] = list(mm.Borda_OM(v_profile, cands_to_keep=new_candidates, tiebreak="first_place"))
+            data['borda-avg-no-uwi'] = list(mm.Borda_AVG(v_profile, cands_to_keep=new_candidates, tiebreak="first_place"))
+            data['top-3-truncation'] = list(mm.Top3Truncation(prof=v_profile, cands_to_keep=new_candidates))
+            data['condorcet'] = list(mm.Condorcet(prof=v_profile, cands_to_keep=new_candidates))
+            data['minimax'] = list(mm.Minimax(prof=v_profile, cands_to_keep=new_candidates))
+            data['smith'] = list(mm.Smith(prof=v_profile, cands_to_keep=new_candidates))
+            data['smith_plurality'] = list(mm.Smith_Plurality(prof=v_profile, cands_to_keep=new_candidates))
+            data['smith_irv'] = list(mm.Smith_IRV(prof=v_profile, cands_to_keep=new_candidates))
+            data['smith-minimax'] = list(mm.Smith_Minimax(prof=v_profile, cands_to_keep=new_candidates))
+            data['ranked-pairs'] = list(mm.Ranked_Pairs(prof=v_profile, cands_to_keep=new_candidates))
+            data['bucklin'] = list(mm.Bucklin(prof=v_profile, cands_to_keep=new_candidates))
+            data['approval'] = list(mm.Ranked_Pairs(prof=v_profile, cands_to_keep=new_candidates))
+            # print(data)
             grouped_data.append(data)
     
     return grouped_data
@@ -98,7 +102,7 @@ def main():
                 if __name__ == '__main__':
                     p = multiprocessing.Process(target=process_file, args=(full_path,filename))
                     p.start()
-                    p.join(20)
+                    p.join(40)
 
                     if p.is_alive():
                         print("running... let's kill it...")

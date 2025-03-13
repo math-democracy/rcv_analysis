@@ -3,7 +3,7 @@ import json
 def is_fringe(scores, candidate, dict, prefix, filename, no_score):
     # get is fringe for 10-50%
     
-    for i in range(1,6):
+    for i in range(1,10):
         threshold = i/10
 
         # get score of candidate with highest score
@@ -25,13 +25,13 @@ def is_fringe(scores, candidate, dict, prefix, filename, no_score):
 def get_data_for_country(country):
     no_score = set()
 
-    with open(f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/spoiler/results/{country}_by_election.json', 'r') as file:
+    with open(f'../{country}.json', 'r') as file:
         spoiler_file = json.load(file)
 
-    with open(f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/fringe/borda_scores/{country}_borda_scores.json', 'r') as file:
+    with open(f'../../fringe/borda_scores/{country}_borda_scores.json', 'r') as file:
         borda_scores = json.load(file)
 
-    with open(f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/fringe/mention_scores/{country}_mention_scores.json', 'r') as file:
+    with open(f'../../fringe/mention_scores/{country}_mention_scores.json', 'r') as file:
         mention_scores = json.load(file)
 
     files = spoiler_file['winners'].keys()
@@ -46,6 +46,7 @@ def get_data_for_country(country):
         print(file)
         spoiler_changes = spoiler_metadata[file]
         spoiler_cands = []
+        spoiler_methods = {}
 
         if file.split('/')[-1] in borda_scores:
             borda = borda_scores[file.split('/')[-1]]
@@ -55,11 +56,17 @@ def get_data_for_country(country):
             mention = dict(sorted(mention.items(), key=lambda item: item[1], reverse=True))
         else:
             no_score.add(file)
+    
 
         # get all spoiler candidates for file
         for changes in spoiler_changes:
             spoiler_cands.append(changes['candidate_removed'])
+            m = []
+            for method in changes['changes']:
+                m.append(method)
+            spoiler_methods[changes['candidate_removed']] = m
         
+        print(spoiler_methods)
         spoilers_dict = dict.fromkeys(spoiler_cands,0)
 
         for cand in spoiler_cands:
@@ -69,23 +76,25 @@ def get_data_for_country(country):
                 cand = int(float(cand))
             methods_dict = is_fringe(borda, cand, methods_dict, 'borda_lt', file, no_score)
             methods_dict = is_fringe(mention, cand, methods_dict, 'mention_lt', file, no_score)
+            methods_dict['methods'] = spoiler_methods[cand]
             spoilers_dict[cand] = methods_dict
+            
         
         all_data[file] = spoilers_dict
 
     all_data['files_with_no_scores'] = list(no_score)
 
     # write to output file
-    output_file = f"/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/spoiler/spoiler_vs_fringe/results/{country}_spoiler_v_fringe.json"
+    output_file = f"./new_results/{country}_spoiler_v_fringe.json"
     with open(output_file, "w") as f:
         json.dump(all_data, f, indent=4)
 
     print(f"Grouped changes with metadata have been exported to {output_file}")
 
 if __name__ == '__main__':
+    # get_data_for_country('america')
     get_data_for_country('america')
-    get_data_for_country('australia')
-    get_data_for_country('scotland')
-    get_data_for_country('civs')
+    # get_data_for_country('scotland')
+    # get_data_for_country('civs')
 
     

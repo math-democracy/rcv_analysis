@@ -1,0 +1,120 @@
+{
+    "total_counts": {
+        "borda_lt_0.1": 80,
+        "borda_lt_0.2": 80,
+        "borda_lt_0.3": 80,
+        "borda_lt_0.4": 80,
+        "borda_lt_0.5": 80,
+        "borda_lt_0.6": 80,
+        "borda_lt_0.7": 80,
+        "borda_lt_0.9": 80,
+        "mention_lt_0.1": 80,
+        "mention_lt_0.2": 80,
+        "mention_lt_0.3": 80,
+        "mention_lt_0.4": 80,
+        "mention_lt_0.5": 80,
+        "mention_lt_0.6": 80,
+        "mention_lt_0.7": 80,
+        "mention_lt_0.8": 80,
+        "mention_lt_0.9": 80
+    },
+    "fringe_count": {
+        "mention_lt_0.1": {
+            "approval": 25,
+            "borda-avg": 5,
+            "top-3-truncation": 5,
+            "smith": 2,
+            "borda-pm": 4,
+            "plurality": 1,
+            "top-two": 1,
+            "borda-om": 1
+        },
+        "mention_lt_0.2": {
+            "approval": 26,
+            "borda-avg": 5,
+            "top-3-truncation": 5,
+            "smith": 2,
+            "borda-pm": 4,
+            "borda-om": 2,
+            "plurality": 1,
+            "top-two": 1
+        },
+        "mention_lt_0.3": {
+            "approval": 27,
+            "borda-avg": 5,
+            "top-3-truncation": 5,
+            "smith": 2,
+            "borda-pm": 4,
+            "borda-om": 4,
+            "plurality": 1,
+            "top-two": 1
+        },
+        "mention_lt_0.4": {
+            "approval": 29,
+            "borda-avg": 5,
+            "top-3-truncation": 5,
+            "borda-om": 9,
+            "smith": 2,
+            "borda-pm": 4,
+            "plurality": 1,
+            "top-two": 1
+        },
+        "mention_lt_0.5": {
+            "approval": 30,
+            "borda-om": 13,
+            "borda-avg": 5,
+            "top-3-truncation": 5,
+            "smith": 2,
+            "borda-pm": 4,
+            "plurality": 1,
+            "top-two": 1,
+            "bucklin": 2
+        },
+        "mention_lt_0.6": {
+            "approval": 32,
+            "borda-om": 17,
+            "borda-avg": 5,
+            "top-3-truncation": 6,
+            "plurality": 7,
+            "smith": 2,
+            "borda-pm": 4,
+            "bucklin": 4,
+            "top-two": 1
+        },
+        "mention_lt_0.7": {
+            "approval": 36,
+            "borda-om": 21,
+            "borda-avg": 5,
+            "top-3-truncation": 6,
+            "plurality": 9,
+            "smith": 2,
+            "borda-pm": 5,
+            "bucklin": 5,
+            "top-two": 1
+        },
+        "mention_lt_0.8": {
+            "approval": 36,
+            "borda-om": 27,
+            "borda-avg": 8,
+            "top-3-truncation": 8,
+            "plurality": 12,
+            "smith": 2,
+            "borda-pm": 6,
+            "bucklin": 11,
+            "top-two": 1
+        },
+        "mention_lt_0.9": {
+            "approval": 36,
+            "plurality": 22,
+            "IRV": 1,
+            "top-two": 3,
+            "borda-om": 31,
+            "borda-pm": 8,
+            "borda-avg": 9,
+            "top-3-truncation": 10,
+            "bucklin": 17,
+            "smith": 2,
+            "condorcet": 1
+        }
+    }
+}

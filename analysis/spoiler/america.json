@@ -23,13 +23,13 @@
             "borda-pm": 9,
             "IRV": 5,
             "top-two": 5,
+            "smith_plurality": 2,
+            "smith_irv": 2,
             "minimax": 2,
             "smith-minimax": 2,
             "condorcet": 2,
-            "smith_plurality": 2,
-            "smith": 2,
             "ranked-pairs": 2,
-            "smith_irv": 2
+            "smith": 2
         },
         "method_combinations": {
             "approval": 15,
