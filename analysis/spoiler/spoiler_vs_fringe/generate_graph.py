@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import json 
 import matplotlib.cm as cm
 
-def run(country, given_method="Mention"):
+def run(country, given_method="Plurality"):
     with open(f'./new_results/{country}_svf_metadata.json') as file:
         data = json.load(file)
 
@@ -10,7 +10,7 @@ def run(country, given_method="Mention"):
 
     x_values = sorted([float(key.split("_")[-1]) for key in data.keys()])
 
-    methods = ['plurality','IRV','top-two','borda-pm','borda-om','borda-avg','top-3-truncation','condorcet','minimax','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','smith']
+    methods = ['plurality','IRV','top-two','borda-pm','borda-om','borda-avg','top-3-truncation','condorcet','minimax','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','smith', 'approval']
 
     y_values = {method: [] for method in methods}
 

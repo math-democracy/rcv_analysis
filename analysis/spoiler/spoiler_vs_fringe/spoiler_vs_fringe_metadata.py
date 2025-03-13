@@ -1,6 +1,6 @@
 import json
 
-methods = ['borda_lt_0.1', 'borda_lt_0.2', 'borda_lt_0.3', 'borda_lt_0.4', 'borda_lt_0.5', 'borda_lt_0.6', 'borda_lt_0.7', 'borda_lt_0.9', 'mention_lt_0.1', 'mention_lt_0.2', 'mention_lt_0.3', 'mention_lt_0.4', 'mention_lt_0.5', 'mention_lt_0.6', 'mention_lt_0.7', 'mention_lt_0.8', 'mention_lt_0.9']
+methods = ['borda_lt_0.1', 'borda_lt_0.2', 'borda_lt_0.3', 'borda_lt_0.4', 'borda_lt_0.5', 'borda_lt_0.6', 'borda_lt_0.7', 'borda_lt_0.9', 'mention_lt_0.1', 'mention_lt_0.2', 'mention_lt_0.3', 'mention_lt_0.4', 'mention_lt_0.5', 'mention_lt_0.6', 'mention_lt_0.7', 'mention_lt_0.8', 'mention_lt_0.9', 'plurality_lt_0.1', 'plurality_lt_0.2', 'plurality_lt_0.3', 'plurality_lt_0.4', 'plurality_lt_0.5', 'plurality_lt_0.6', 'plurality_lt_0.7', 'plurality_lt_0.8', 'plurality_lt_0.9']
 
 def get_metadata_for_country(country):
     

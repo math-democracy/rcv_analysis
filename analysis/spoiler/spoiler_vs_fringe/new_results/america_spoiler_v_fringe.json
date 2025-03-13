@@ -19,6 +19,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -42,6 +51,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -67,6 +85,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality",
                 "IRV",
@@ -94,6 +121,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -119,6 +155,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -144,6 +189,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -167,6 +221,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -192,6 +255,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -215,6 +287,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality",
                 "borda-pm",
@@ -242,6 +323,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -267,6 +357,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-avg",
                 "top-3-truncation"
@@ -291,6 +390,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -316,6 +424,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -339,6 +456,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om",
                 "approval"
@@ -365,6 +491,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -390,6 +525,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om",
                 "approval"
@@ -414,6 +558,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "bucklin",
                 "approval"
@@ -438,6 +591,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -463,6 +625,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -488,6 +659,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -513,6 +693,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-pm"
             ]
@@ -538,6 +727,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -563,6 +761,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-avg",
                 "top-3-truncation"
@@ -587,6 +794,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -612,6 +828,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -635,6 +860,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -658,6 +892,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -681,6 +924,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -704,6 +956,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality",
                 "top-3-truncation",
@@ -729,6 +990,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -752,6 +1022,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -775,6 +1054,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality",
                 "top-3-truncation",
@@ -800,6 +1088,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality",
                 "borda-om",
@@ -829,6 +1126,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -854,6 +1160,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "smith"
             ]
@@ -877,6 +1192,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": false,
+            "plurality_lt_0.9": false,
             "methods": [
                 "condorcet"
             ]
@@ -900,6 +1224,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": false,
+            "plurality_lt_0.9": false,
             "methods": [
                 "condorcet",
                 "minimax",
@@ -928,6 +1261,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": false,
+            "plurality_lt_0.9": false,
             "methods": [
                 "IRV",
                 "top-two",
@@ -954,6 +1296,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "smith"
             ]
@@ -977,6 +1328,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality",
                 "borda-om",
@@ -1004,6 +1364,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -1029,6 +1398,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -1052,6 +1430,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-pm",
                 "approval"
@@ -1078,6 +1465,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-pm",
                 "approval"
@@ -1104,6 +1500,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -1129,6 +1534,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -1152,6 +1566,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -1175,6 +1598,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -1200,6 +1632,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-pm",
                 "approval"
@@ -1224,6 +1665,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om",
                 "borda-avg",
@@ -1250,6 +1700,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-pm",
                 "approval"
@@ -1274,6 +1733,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-pm",
                 "approval"
@@ -1300,6 +1768,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -1325,6 +1802,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": false,
+            "plurality_lt_0.9": false,
             "methods": [
                 "plurality"
             ]
@@ -1348,6 +1834,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -1373,6 +1868,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-pm"
             ]
@@ -1396,6 +1900,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "bucklin"
             ]
@@ -1419,6 +1932,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -1442,6 +1964,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -1467,6 +1998,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -1490,6 +2030,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": false,
+            "plurality_lt_0.9": false,
             "methods": [
                 "approval"
             ]
@@ -1513,6 +2062,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -1536,6 +2094,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om",
                 "top-3-truncation",
@@ -1561,6 +2128,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -1584,6 +2160,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -1609,6 +2194,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -1632,6 +2226,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -1655,6 +2258,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -1678,6 +2290,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -1701,6 +2322,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -1726,6 +2356,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -1751,6 +2390,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality",
                 "approval"
@@ -1775,6 +2423,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -1800,6 +2457,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "bucklin"
             ]
@@ -1825,6 +2491,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "top-two",
                 "top-3-truncation",
@@ -1850,6 +2525,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality",
                 "IRV",
@@ -1880,6 +2564,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "top-3-truncation",
                 "approval"
@@ -1904,6 +2597,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "top-3-truncation",
                 "approval"
@@ -1928,6 +2630,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -1953,6 +2664,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -1978,6 +2698,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -2003,6 +2732,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "bucklin",
                 "approval"
@@ -2027,6 +2765,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -2052,6 +2799,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -2075,6 +2831,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-pm",
                 "borda-avg",
@@ -2103,6 +2868,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": false,
+            "plurality_lt_0.9": false,
             "methods": [
                 "IRV",
                 "top-two"
@@ -2127,6 +2901,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": false,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -2152,6 +2935,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality",
                 "borda-om",
@@ -2181,6 +2973,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -2204,6 +3005,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -2227,6 +3037,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality",
                 "bucklin",
@@ -2254,6 +3073,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": false,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -2277,6 +3105,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "bucklin"
             ]
@@ -2300,6 +3137,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": false,
+            "plurality_lt_0.9": false,
             "methods": [
                 "plurality"
             ]
@@ -2325,6 +3171,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om",
                 "bucklin"
@@ -2351,6 +3206,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality",
                 "approval"
@@ -2377,6 +3241,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -2400,6 +3273,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -2423,6 +3305,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -2448,6 +3339,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "top-3-truncation"
             ]
@@ -2471,6 +3371,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "top-3-truncation",
                 "bucklin"
@@ -2495,6 +3404,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "top-3-truncation",
                 "bucklin"
@@ -2521,6 +3439,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": false,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -2546,6 +3473,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -2569,6 +3505,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -2594,6 +3539,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality",
                 "bucklin"
@@ -2618,6 +3572,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -2643,6 +3606,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -2666,6 +3638,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -2689,6 +3670,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -2712,6 +3702,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "bucklin",
                 "approval"
@@ -2736,6 +3735,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -2761,6 +3769,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -2786,6 +3803,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -2809,6 +3835,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -2834,6 +3869,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": false,
+            "plurality_lt_0.9": false,
             "methods": [
                 "IRV",
                 "borda-om",
@@ -2864,6 +3908,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": false,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality",
                 "top-two",
@@ -2891,6 +3944,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "top-two",
                 "borda-avg",
@@ -2917,6 +3979,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": false,
+            "plurality_lt_0.9": true,
             "methods": [
                 "condorcet"
             ]
@@ -2942,6 +4013,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -2965,6 +4045,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om",
                 "bucklin",
@@ -2990,6 +4079,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "bucklin",
                 "approval"
@@ -3016,6 +4114,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om",
                 "bucklin"
@@ -3042,6 +4149,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -3067,6 +4183,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -3092,6 +4217,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -3117,6 +4251,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -3140,6 +4283,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -3163,6 +4315,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om",
                 "approval"
@@ -3187,6 +4348,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -3210,6 +4380,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -3233,6 +4412,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om",
                 "top-3-truncation",
@@ -3258,6 +4446,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -3283,6 +4480,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -3306,6 +4512,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -3329,6 +4544,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -3352,6 +4576,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -3377,6 +4610,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -3400,6 +4642,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -3425,6 +4676,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -3448,6 +4708,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -3473,6 +4742,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -3498,6 +4776,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -3523,6 +4810,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-avg",
                 "approval"
@@ -3547,6 +4843,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om",
                 "borda-avg",
@@ -3572,6 +4877,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-avg",
                 "approval"
@@ -3598,6 +4912,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -3621,6 +4944,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -3644,6 +4976,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -3669,6 +5010,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -3692,6 +5042,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -3715,6 +5074,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -3740,6 +5108,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality"
             ]
@@ -3765,6 +5142,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -3788,6 +5174,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -3811,6 +5206,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "bucklin",
                 "approval"
@@ -3835,6 +5239,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -3858,6 +5271,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -3883,6 +5305,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -3906,6 +5337,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -3931,6 +5371,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": false,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -3954,6 +5403,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -3979,6 +5437,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -4002,6 +5469,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -4025,6 +5501,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -4048,6 +5533,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -4071,6 +5565,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -4094,6 +5597,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -4117,6 +5629,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -4140,6 +5661,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -4165,6 +5695,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -4190,6 +5729,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -4213,6 +5761,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -4236,6 +5793,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -4259,6 +5825,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -4282,6 +5857,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -4307,6 +5891,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-pm",
                 "borda-om",
@@ -4336,6 +5929,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -4359,6 +5961,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -4384,6 +5995,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality",
                 "bucklin",
@@ -4409,6 +6029,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -4432,6 +6061,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "bucklin",
                 "approval"
@@ -4456,6 +6094,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "bucklin",
                 "approval"
@@ -4480,6 +6127,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality",
                 "bucklin",
@@ -4505,6 +6161,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -4528,6 +6193,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "plurality",
                 "approval"
@@ -4554,6 +6228,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -4577,6 +6260,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -4600,6 +6292,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -4623,6 +6324,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -4648,6 +6358,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om"
             ]
@@ -4671,6 +6390,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om",
                 "bucklin"
@@ -4697,6 +6425,15 @@
             "mention_lt_0.7": false,
             "mention_lt_0.8": false,
             "mention_lt_0.9": false,
+            "plurality_lt_0.1": false,
+            "plurality_lt_0.2": false,
+            "plurality_lt_0.3": false,
+            "plurality_lt_0.4": false,
+            "plurality_lt_0.5": false,
+            "plurality_lt_0.6": false,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "approval"
             ]
@@ -4720,6 +6457,15 @@
             "mention_lt_0.7": true,
             "mention_lt_0.8": true,
             "mention_lt_0.9": true,
+            "plurality_lt_0.1": true,
+            "plurality_lt_0.2": true,
+            "plurality_lt_0.3": true,
+            "plurality_lt_0.4": true,
+            "plurality_lt_0.5": true,
+            "plurality_lt_0.6": true,
+            "plurality_lt_0.7": true,
+            "plurality_lt_0.8": true,
+            "plurality_lt_0.9": true,
             "methods": [
                 "borda-om",
                 "approval"

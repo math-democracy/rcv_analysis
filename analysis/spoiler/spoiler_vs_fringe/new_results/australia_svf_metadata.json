@@ -16,70 +16,104 @@
         "mention_lt_0.6": 59,
         "mention_lt_0.7": 59,
         "mention_lt_0.8": 59,
-        "mention_lt_0.9": 59
+        "mention_lt_0.9": 59,
+        "plurality_lt_0.1": 59,
+        "plurality_lt_0.2": 59,
+        "plurality_lt_0.3": 59,
+        "plurality_lt_0.4": 59,
+        "plurality_lt_0.5": 59,
+        "plurality_lt_0.6": 59,
+        "plurality_lt_0.7": 59,
+        "plurality_lt_0.8": 59,
+        "plurality_lt_0.9": 59
     },
     "fringe_count": {
-        "mention_lt_0.1": {},
-        "mention_lt_0.2": {},
-        "mention_lt_0.3": {
-            "borda-om": 2,
-            "plurality": 1,
-            "approval": 4,
-            "bucklin": 1
+        "plurality_lt_0.1": {
+            "approval": 25,
+            "borda-om": 14,
+            "bucklin": 4,
+            "top-3-truncation": 3,
+            "borda-avg": 3,
+            "borda-pm": 1,
+            "plurality": 1
         },
-        "mention_lt_0.4": {
-            "borda-om": 7,
-            "approval": 7,
-            "borda-avg": 1,
-            "plurality": 1,
-            "bucklin": 2
-        },
-        "mention_lt_0.5": {
-            "approval": 18,
-            "borda-avg": 4,
-            "borda-om": 15,
-            "plurality": 2,
-            "bucklin": 3,
-            "top-3-truncation": 2,
-            "borda-pm": 1
-        },
-        "mention_lt_0.6": {
-            "approval": 26,
-            "bucklin": 6,
-            "borda-om": 17,
-            "plurality": 6,
-            "borda-avg": 7,
-            "top-3-truncation": 4,
-            "borda-pm": 1
-        },
-        "mention_lt_0.7": {
+        "plurality_lt_0.2": {
             "approval": 28,
-            "bucklin": 6,
-            "borda-om": 17,
-            "plurality": 10,
-            "borda-avg": 8,
+            "bucklin": 7,
+            "borda-om": 16,
+            "borda-avg": 7,
+            "plurality": 5,
             "top-3-truncation": 6,
             "borda-pm": 1
         },
-        "mention_lt_0.8": {
-            "borda-om": 18,
-            "approval": 28,
-            "bucklin": 8,
-            "plurality": 13,
-            "borda-avg": 8,
+        "plurality_lt_0.3": {
+            "borda-avg": 9,
             "top-3-truncation": 8,
+            "approval": 29,
+            "bucklin": 7,
+            "borda-om": 17,
+            "plurality": 9,
             "borda-pm": 1
         },
-        "mention_lt_0.9": {
+        "plurality_lt_0.4": {
+            "borda-avg": 9,
+            "top-3-truncation": 9,
+            "approval": 29,
+            "bucklin": 8,
+            "borda-om": 17,
+            "plurality": 9,
+            "borda-pm": 1
+        },
+        "plurality_lt_0.5": {
+            "borda-avg": 9,
+            "top-3-truncation": 9,
+            "approval": 29,
+            "bucklin": 8,
+            "plurality": 12,
+            "borda-om": 17,
+            "borda-pm": 1
+        },
+        "plurality_lt_0.6": {
+            "borda-avg": 9,
+            "top-3-truncation": 9,
+            "approval": 29,
+            "bucklin": 8,
+            "plurality": 12,
+            "borda-om": 17,
+            "borda-pm": 1
+        },
+        "plurality_lt_0.7": {
             "borda-om": 18,
+            "borda-avg": 9,
+            "top-3-truncation": 9,
+            "approval": 29,
             "IRV": 1,
             "top-two": 1,
             "borda-pm": 2,
             "bucklin": 9,
+            "plurality": 15
+        },
+        "plurality_lt_0.8": {
+            "borda-om": 18,
+            "borda-avg": 9,
+            "top-3-truncation": 9,
             "approval": 29,
-            "plurality": 13,
-            "borda-avg": 8,
-            "top-3-truncation": 8
+            "IRV": 1,
+            "top-two": 1,
+            "borda-pm": 2,
+            "bucklin": 9,
+            "plurality": 15
+        },
+        "plurality_lt_0.9": {
+            "borda-om": 18,
+            "borda-avg": 9,
+            "top-3-truncation": 9,
+            "approval": 29,
+            "IRV": 1,
+            "top-two": 1,
+            "borda-pm": 2,
+            "bucklin": 9,
+            "plurality": 15
         }
     }
 }
