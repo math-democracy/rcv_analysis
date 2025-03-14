@@ -1,0 +1,364 @@
+{
+    "St Louis Park/StLouisPark_11022021_CityCouncilWard3.csv": [
+        "approval"
+    ],
+    "Alaska/Alaska_08162022_HouseofRepresentativesSpecial.csv": [
+        "plurality",
+        "IRV",
+        "top-two"
+    ],
+    "Alaska/Alaska_11082022_HouseDistrict21.csv": [
+        "approval"
+    ],
+    "Alaska/Alaska_11082022_HouseDistrict31.csv": [
+        "approval"
+    ],
+    "Alaska/Alaska_11082022_HouseDistrict18.csv": [
+        "plurality",
+        "borda-pm",
+        "approval"
+    ],
+    "Alaska/Alaska_11052024_StateHouseD6.csv": [
+        "borda-om"
+    ],
+    "Alaska/Alaska_11082022_HouseDistrict6.csv": [
+        "borda-om"
+    ],
+    "Alaska/Alaska_11082022_SenateDistrictP.csv": [
+        "borda-om",
+        "approval"
+    ],
+    "Alaska/Alaska_11082022_SenateDistrictH.csv": [
+        "approval"
+    ],
+    "Alaska/Alaska_11082022_USRepresentative.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "Alaska/Alaska_11052024_StateHouseD15.csv": [
+        "borda-om"
+    ],
+    "Alaska/Alaska_11052024_StateSenateP.csv": [
+        "approval"
+    ],
+    "Alaska/Alaska_11082022_HouseDistrict15.csv": [
+        "plurality",
+        "borda-pm"
+    ],
+    "Alaska/Alaska_11082022_HouseDistrict11.csv": [
+        "plurality"
+    ],
+    "Alaska/Alaska_11052024_US_House.csv": [
+        "borda-om"
+    ],
+    "Minneapolis/Minneapolis_11072017_ParkBoardAtLarge.csv": [
+        "plurality",
+        "borda-pm",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "Minneapolis/Minneapolis_11072017_Ward3CityCouncil.csv": [
+        "plurality"
+    ],
+    "Minneapolis/Minneapolis_11072017_Ward4CityCouncil.csv": [
+        "plurality"
+    ],
+    "Minneapolis/Minneapolis_11072023_CityCouncilWard8.csv": [
+        "plurality"
+    ],
+    "Minneapolis/Minneapolis_11072023_CityCouncilWard7.csv": [
+        "approval"
+    ],
+    "Minneapolis/Minneapolis_11072017_PRBoardDistrict4.csv": [
+        "borda-pm",
+        "approval"
+    ],
+    "Minneapolis/Minneapolis_11062009_MinneapolisParkRecBoard.csv": [
+        "plurality"
+    ],
+    "Minneapolis/Minneapolis_11072017_PRBoardDistrict6.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "Minneapolis/Minneapolis_11052013_Ward13CityCouncil.csv": [
+        "borda-pm",
+        "approval"
+    ],
+    "Minneapolis/Minneapolis_11022021_ParkBoardDistrict6.csv": [
+        "plurality"
+    ],
+    "Pierce County, WA/PierceCounty_11042008_CountyExecutiveMember.csv": [
+        "plurality"
+    ],
+    "Pierce County, WA/PierceCounty_11042008_CountyAssessorTreasurer.csv": [
+        "borda-pm",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "Portland, ME/Portland_06142022_SchoolboardAL-1.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "Portland, ME/Portland_06082021_charter_commission_at_large.csv": [
+        "plurality",
+        "top-two",
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin"
+    ],
+    "Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict90.csv": [
+        "approval"
+    ],
+    "Maine/Maine_11062018_CongressionalDistrict2.csv": [
+        "plurality",
+        "approval"
+    ],
+    "Utah cities/Moab_11022021_CityCouncil.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "borda-pm",
+        "top-3-truncation",
+        "approval"
+    ],
+    "Utah cities/ElkRidge_11022021_Mayor.csv": [
+        "approval"
+    ],
+    "Minnetonka/Minnetonka_11072023_CityCouncilWard4.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "Minnetonka/Minnetonka_11072023_CityCouncilWard3.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "Burlington/Burlington_03032009_Mayor.csv": [
+        "plurality",
+        "IRV",
+        "top-two"
+    ],
+    "APA/APA 2005.csv": [
+        "plurality"
+    ],
+    "APA/APA 2007.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "APA/APA 2018 BOD race2.csv": [
+        "borda-om",
+        "bucklin"
+    ],
+    "APA/APA 2020 BOD race2.csv": [
+        "plurality",
+        "approval"
+    ],
+    "APA/APA 2008.csv": [
+        "approval"
+    ],
+    "APA/APA 2009.csv": [
+        "borda-om",
+        "borda-avg",
+        "bucklin"
+    ],
+    "Alameda County/Berkeley_11062018_CityCouncilDistrict1.csv": [
+        "approval"
+    ],
+    "Alameda County/Oakland_11022010_Mayor.csv": [
+        "plurality"
+    ],
+    "Alameda County/Oakland_11082022_Mayor.csv": [
+        "plurality"
+    ],
+    "Alameda County/Oakland_11082016_SchoolDirectorDistrict5.csv": [
+        "plurality",
+        "borda-om"
+    ],
+    "Alameda County/Oakland_11062018_CityCouncilDistrict4.csv": [
+        "approval"
+    ],
+    "Alameda County/Oakland_11082016_CityCouncilDistrict3.csv": [
+        "approval"
+    ],
+    "Alameda County/Oakland_11062012_CityCouncilDistrict3.csv": [
+        "plurality"
+    ],
+    "Alameda County/Oakland_11042014_CityCouncilDistrict6.csv": [
+        "borda-om",
+        "approval"
+    ],
+    "Alameda County/SanLeandro_11062012_CountyCouncilDistrict2.csv": [
+        "borda-om",
+        "bucklin"
+    ],
+    "Alameda County/Oakland_11052024_CityCouncil_AtLarge.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "Alameda County/Berkeley_11082016_CityCouncilDistrict2.csv": [
+        "plurality"
+    ],
+    "Alameda County/SanLeandro_11062018_CountyCouncilDistrict3.csv": [
+        "approval"
+    ],
+    "Alameda County/SanLeandro_11022010_Mayor.csv": [
+        "plurality"
+    ],
+    "San Francisco/SanFrancisco_11052024_BoS_D7.csv": [
+        "borda-om"
+    ],
+    "San Francisco/SanFrancisco_06052018_Mayor.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "San Francisco/SanFrancisco_11052024_BoS_D11.csv": [
+        "plurality",
+        "borda-om"
+    ],
+    "San Francisco/SanFrancisco_11052024_BoS_D5.csv": [
+        "plurality"
+    ],
+    "San Francisco/SanFrancisco_11052024_BoS_D1.csv": [
+        "borda-om"
+    ],
+    "San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict2.csv": [
+        "plurality"
+    ],
+    "San Francisco/SanFrancisco_11052019_DistrictAttorney.csv": [
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict11.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT1.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT3.csv": [
+        "borda-om"
+    ],
+    "San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT7.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict10.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "San Francisco/SanFrancisco_11082011_Sheriff.csv": [
+        "borda-om"
+    ],
+    "San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict1.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "New York City/NewYorkCity_06222021_REPBoroughPresidentRichmond.csv": [
+        "borda-om"
+    ],
+    "New York City/NewYorkCity_06222021_DEMCouncilMember32ndCouncilDistrict.csv": [
+        "approval"
+    ],
+    "New York City/NewYorkCity_06222021_DEMBoroughPresidentQueens.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin"
+    ],
+    "New York City/NewYorkCity_06222021_DEMComptrollerCitywide.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv": [
+        "borda-om"
+    ],
+    "New York City/NewYorkCity_06222021_DEMCouncilMember25thCouncilDistrict.csv": [
+        "plurality",
+        "bucklin",
+        "approval"
+    ],
+    "New York City/NewYorkCity_06222021_DEMCouncilMember9thCouncilDistrict.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv": [
+        "plurality",
+        "borda-pm",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "New York City/NewYorkCity_06222021_DEMCouncilMember36thCouncilDistrict.csv": [
+        "borda-om",
+        "bucklin"
+    ],
+    "Cambridge, MA/Cambridge_11152019_SchoolCommittee.csv": [
+        "plurality"
+    ],
+    "Cambridge, MA/Cambridge_11082011_SchoolCommittee.csv": [
+        "plurality",
+        "top-two",
+        "borda-om"
+    ],
+    "Cambridge, MA/Cambridge_11032015_CityCouncil.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "Cambridge, MA/Cambridge_11082005_CityCouncil.csv": [
+        "plurality",
+        "top-two",
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "Cambridge, MA/Cambridge_11082005_SchoolCommittee.csv": [
+        "plurality",
+        "top-two",
+        "top-3-truncation"
+    ],
+    "Corvallis, OR/Corvallis_11082022_Mayor.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ]
+}

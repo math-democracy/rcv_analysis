@@ -1,0 +1,3271 @@
+{
+    "dumgal17-ballots/Nith_dumgal17-09.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "dumgal17-ballots/AnnandaleSouth_dumgal17-10.csv": [
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "dumgal17-ballots/AnnandaleNorth_dumgal17-11.csv": [
+        "borda-om",
+        "bucklin",
+        "approval"
+    ],
+    "dumgal17-ballots/MidGallowayandWigtownWest_dumgal17-02.csv": [
+        "borda-om"
+    ],
+    "dumgal17-ballots/CastleDouglasandCrocketford_dumgal17-04.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "dumgal17-ballots/NorthWestDumfries_dumgal17-06.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "top-3-truncation"
+    ],
+    "dumgal17-ballots/DeeandGlenkens_dumgal17-03.csv": [
+        "borda-om"
+    ],
+    "dumgal17-ballots/Abbey_dumgal17-05.csv": [
+        "borda-om"
+    ],
+    "dumgal17-ballots/MidandUpperNithsdale_dumgal17-07.csv": [
+        "plurality"
+    ],
+    "w-lothian17-ballots/Ward5-EastLivingstonandEastCalder_w-lothian17-05.csv": [
+        "borda-om"
+    ],
+    "w-lothian17-ballots/Ward3-LivingstonNorth_w-lothian17-03.csv": [
+        "plurality"
+    ],
+    "glasgow12/Ward7Langside_glasgow12-07-recalc.csv": [
+        "borda-om",
+        "borda-avg"
+    ],
+    "glasgow12/Ward1Linn_glasgow12-01.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "glasgow12/Ward12PartickWest_glasgow12-12.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "glasgow12/Ward5Govan_glasgow12-05.csv": [
+        "borda-om"
+    ],
+    "glasgow12/Ward6Pollokshields_glasgow12-06.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "glasgow12/Ward11Hillhead_glasgow12-11.csv": [
+        "borda-pm",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "stirling12-ballots/DunblaneandBridgeofAllanWard_stirling12-03.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "stirling12-ballots/BannockburnWard_stirling12-07.csv": [
+        "plurality",
+        "borda-om",
+        "top-3-truncation"
+    ],
+    "stirling12-ballots/StirlingEastWard_stirling12-06.csv": [
+        "plurality",
+        "IRV"
+    ],
+    "stirling12-ballots/TrossachsandTeithWard_stirling12-01.csv": [
+        "plurality",
+        "bucklin",
+        "approval"
+    ],
+    "stirling12-ballots/ForthandEndrickWard_stirling12-02.csv": [
+        "plurality",
+        "IRV",
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "stirling12-ballots/CastleWard_stirling12-04.csv": [
+        "plurality",
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation"
+    ],
+    "glasgow2007 preflib/Linn_linn.csv": [
+        "plurality"
+    ],
+    "glasgow2007 preflib/Pollokshields_pollokshields.csv": [
+        "borda-om"
+    ],
+    "glasgow2007 preflib/SouthsideCentral_southsidecentral.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "glasgow2007 preflib/Bailliestonward_baillieston.csv": [
+        "plurality"
+    ],
+    "glasgow2007 preflib/Langside_langside.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "glasgow2007 preflib/Greaterpollok_greater pollok.csv": [
+        "plurality"
+    ],
+    "glasgow2007 preflib/Craigtonward_craigton.csv": [
+        "plurality",
+        "top-two",
+        "borda-pm",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "glasgow2007 preflib/Canalward_canal.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "glasgow2007 preflib/Andersonward_anderston.csv": [
+        "plurality",
+        "borda-om",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "glasgow2007 preflib/Partick_partick.csv": [
+        "plurality",
+        "IRV",
+        "top-3-truncation"
+    ],
+    "glasgow2007 preflib/EastCentre_eastcentre.csv": [
+        "plurality"
+    ],
+    "glasgow2007 preflib/Newlands_newlands.csv": [
+        "plurality",
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "glasgow2007 preflib/Hillhead_hillhead.csv": [
+        "plurality"
+    ],
+    "glasgow2007 preflib/Shettleston_shettleston.csv": [
+        "plurality"
+    ],
+    "glasgow2007 preflib/Maryhill_maryhill.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "fife12-ballots/RosythWard_fife12-05.csv": [
+        "plurality"
+    ],
+    "fife12-ballots/InverkeithingAndDalgetyBayWard_fife12-06.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "fife12-ballots/TayBridgeheadWard_fife12-18.csv": [
+        "plurality",
+        "approval"
+    ],
+    "fife12-ballots/GlenrothesNorthLeslieAndMarkinchWard_fife12-15.csv": [
+        "plurality"
+    ],
+    "fife12-ballots/DunfermlineSouthWard_fife12-04.csv": [
+        "plurality",
+        "IRV",
+        "approval"
+    ],
+    "fife12-ballots/StAndrewsWard_fife12-19.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "fife12-ballots/DunfermlineNorthWard_fife12-02.csv": [
+        "plurality"
+    ],
+    "fife12-ballots/LochgellyAndCardendenWard_fife12-09.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "fife12-ballots/KirkcaldyEastWard_fife12-13.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "e-lothian12-ballots/Ward2MusselburghEastandCarberry_e-lothian12-02.csv": [
+        "plurality",
+        "top-two",
+        "bucklin"
+    ],
+    "e-lothian12-ballots/Ward7DunbarandEastLinton_e-lothian12-07.csv": [
+        "plurality"
+    ],
+    "e-renfs17-ballots/Clarkston,NetherleeandWilliamwood_e-renfs17-4.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "top-3-truncation"
+    ],
+    "e-renfs17-ballots/GiffnockandThornliebank_e-renfs17-3.csv": [
+        "plurality",
+        "borda-om"
+    ],
+    "moray22/Ward5-HeldonandLaich_file141902.csv": [
+        "plurality",
+        "bucklin",
+        "approval"
+    ],
+    "moray22/Ward7-ElginCitySouth_file141915.csv": [
+        "plurality"
+    ],
+    "moray22/Ward6-ElginCityNorth_file141913.csv": [
+        "plurality"
+    ],
+    "moray22/Ward2-KeithandCullen_file141894.csv": [
+        "borda-om",
+        "bucklin"
+    ],
+    "moray22/Ward4-FochabersLhanbryde_file141896.csv": [
+        "borda-om"
+    ],
+    "moray22/Ward1-SpeysideGlenlivet_file141884.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "eilean-siar22/Ward9Ste\u00f2rnabhaghaTuath_ward09_preferenceprofile.csv": [
+        "plurality"
+    ],
+    "glasgow22/Ward15Maryhill_Ward15.csv": [
+        "plurality",
+        "borda-pm",
+        "borda-avg",
+        "approval"
+    ],
+    "glasgow22/Ward22Dennistoun_Ward22.csv": [
+        "plurality",
+        "top-two",
+        "approval"
+    ],
+    "glasgow22/Ward16Canal_Ward16.csv": [
+        "borda-pm",
+        "bucklin",
+        "approval"
+    ],
+    "glasgow22/Ward12VictoriaPark_Ward12.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "glasgow22/Ward8SouthsideCentral_Ward8.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "glasgow22/Ward18EastCentre_Ward18.csv": [
+        "borda-om"
+    ],
+    "glasgow22/Ward6Pollokshields_Ward6.csv": [
+        "borda-pm",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "glasgow22/Ward14Drumchapel-Anniesland_Ward14.csv": [
+        "borda-om"
+    ],
+    "glasgow22/Ward19Shettleston_Ward19.csv": [
+        "plurality"
+    ],
+    "glasgow22/Ward2Newlands-Auldburn_Ward2.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "glasgow22/Ward7Langside_Ward7.csv": [
+        "top-3-truncation"
+    ],
+    "glasgow22/Ward13Garscadden-Scotstounhill_Ward13.csv": [
+        "borda-om"
+    ],
+    "glasgow22/Ward4Cardonald_Ward4.csv": [
+        "plurality",
+        "borda-om"
+    ],
+    "glasgow22/Ward5Govan_Ward5.csv": [
+        "plurality"
+    ],
+    "glasgow22/Ward10Anderston-City-Yorkhill_Ward10.csv": [
+        "IRV",
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation"
+    ],
+    "aberdeenshire12-ballots/MearnsWard_aberdeenshire12-19.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "borda-om",
+        "top-3-truncation"
+    ],
+    "aberdeenshire12-ballots/BanchoryandMidDeesideWard_aberdeenshire12-16.csv": [
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "aberdeenshire12-ballots/WesthillandDistrictWard_aberdeenshire12-13.csv": [
+        "plurality",
+        "IRV"
+    ],
+    "aberdeenshire12-ballots/AboyneUpperDeesideandDonsideWard_aberdeenshire12-15.csv": [
+        "borda-om",
+        "bucklin"
+    ],
+    "aberdeenshire12-ballots/HuntlyStrathbogieandHoweofAlfordWard_aberdeenshire12-14.csv": [
+        "plurality"
+    ],
+    "aberdeenshire12-ballots/InverurieandDistrictWard_aberdeenshire12-11.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "aberdeenshire12-ballots/BanffandDistrictWard_aberdeenshire12-01.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "sc-borders22/Ward2-TweeddaleEast_sc borders,2022,ward 2.csv": [
+        "plurality",
+        "top-two",
+        "borda-om",
+        "top-3-truncation"
+    ],
+    "sc-borders22/Ward8-Kelso&District_sc borders,2022,ward 8.csv": [
+        "bucklin"
+    ],
+    "sc-borders22/Ward1-TweeddaleWest_sc borders,2022,ward 1.csv": [
+        "plurality"
+    ],
+    "inverclyde17-ballots/InverclydeSouth_inverclyde17-07.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "inverclyde17-ballots/InverclydeEastCentral_inverclyde17-02.csv": [
+        "borda-om"
+    ],
+    "inverclyde17-ballots/InverclydeSouthWest_inverclyde17-06.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "inverclyde17-ballots/InverclydeCentral_inverclyde17-03.csv": [
+        "plurality"
+    ],
+    "e-lothian22/Ward2-PrestonSetonandGosford_Ward2.csv": [
+        "bucklin"
+    ],
+    "e-lothian22/Ward6-DunbarandEastLinton_Ward6.csv": [
+        "plurality"
+    ],
+    "e-lothian22/Ward5-HaddingtonandLammermuir_Ward5.csv": [
+        "plurality",
+        "bucklin",
+        "approval"
+    ],
+    "e-lothian22/Ward1-Musselburgh_Ward1.csv": [
+        "borda-pm",
+        "bucklin",
+        "approval"
+    ],
+    "s-ayrshire12-ballots/Ward2-Prestwick_s-ayrshire12-02.csv": [
+        "plurality",
+        "top-two",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation"
+    ],
+    "e-duns17-ballots/KirkintillochEastandNorthandTwechar_e-duns17-07.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "e-duns17-ballots/Milngavie_e-duns17-01.csv": [
+        "plurality"
+    ],
+    "e-duns17-ballots/LenzieandKirkintillochSouth_e-duns17-06.csv": [
+        "plurality",
+        "bucklin",
+        "approval"
+    ],
+    "e-duns17-ballots/BishopbriggsSouth_e-duns17-05.csv": [
+        "plurality",
+        "top-two",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation"
+    ],
+    "e-duns17-ballots/BearsdenSouth_e-duns17-03.csv": [
+        "plurality"
+    ],
+    "e-duns17-ballots/BishopbriggsNorthandCampsie_e-duns17-04.csv": [
+        "plurality",
+        "borda-pm",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "angus17-ballots/ForfarandDistrict_angus17-03.csv": [
+        "plurality"
+    ],
+    "angus17-ballots/MontroseandDistrict_angus17-08.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "top-3-truncation"
+    ],
+    "angus17-ballots/CarnoustieandDistrict_angus17-05.csv": [
+        "plurality",
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "angus17-ballots/ArbroathEastandLunan_angus17-07.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "angus17-ballots/BrechinandEdzell_angus17-02.csv": [
+        "plurality"
+    ],
+    "midlothian22/3_dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv": [
+        "approval"
+    ],
+    "moray12-ballots/BuckieWard_moray12-03.csv": [
+        "approval"
+    ],
+    "moray12-ballots/HeldonandLaichWard_moray12-05.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "moray12-ballots/ElginCityNorthWard_moray12-06.csv": [
+        "plurality",
+        "borda-pm",
+        "bucklin",
+        "approval"
+    ],
+    "moray12-ballots/SpeysideGlenlivetWard_moray12-01.csv": [
+        "plurality",
+        "approval"
+    ],
+    "clackmannanshire12-ballots/ClackmannanshireEast_clacks12-05.csv": [
+        "plurality",
+        "approval"
+    ],
+    "n-ayrshire22/Ward04-Arran_Preference-Profile-Arran_copy.csv": [
+        "borda-om",
+        "bucklin"
+    ],
+    "n-ayrshire22/Preference-Profile-Saltcoats-and-Stevenston_copy.csv": [
+        "plurality"
+    ],
+    "n-ayrshire22/Ward03-Ardrossan_Preference-Profile-Ardrossan_copy.csv": [
+        "borda-pm",
+        "bucklin",
+        "approval"
+    ],
+    "n-ayrshire22/Ward09-IrvineSouth_Preference-Profile-Irvine-South_copy.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "n-ayrshire22/Ward08-IrvineEast_Preference-Profile-Irvine-East_copy.csv": [
+        "approval"
+    ],
+    "n-ayrshire22/Ward01-NorthCoast_Preference-Profile-North-Coast_copy.csv": [
+        "plurality",
+        "IRV",
+        "borda-om",
+        "top-3-truncation"
+    ],
+    "highland17-ballots/Ward8-DingwallandSeaforth_highland17-08.csv": [
+        "plurality",
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "highland17-ballots/Ward20-BadenochandStrathspey_highland17-20.csv": [
+        "plurality"
+    ],
+    "highland17-ballots/Ward7-TainandEasterRoss_highland17-07.csv": [
+        "plurality"
+    ],
+    "highland17-ballots/Ward19-InvernessSouth_highland17-19.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "top-3-truncation"
+    ],
+    "highland17-ballots/Ward9-BlackIsle_highland17-09.csv": [
+        "plurality"
+    ],
+    "highland17-ballots/Ward1-North,WestandCentralSutherland_highland17-01.csv": [
+        "plurality",
+        "top-two",
+        "borda-om",
+        "bucklin"
+    ],
+    "highland17-ballots/Ward5-WesterRoss,StrathpefferandLochalsh_highland17-05.csv": [
+        "plurality",
+        "top-two",
+        "top-3-truncation"
+    ],
+    "s-lanarks17-ballots/Ward18-HamiltonWestandEarnock_s-lanarks17-18.csv": [
+        "plurality",
+        "top-two",
+        "borda-om",
+        "top-3-truncation"
+    ],
+    "s-lanarks17-ballots/Ward2-ClydesdaleNorth_s-lanarks17-02.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "s-lanarks17-ballots/Ward4-ClydesdaleSouth_s-lanarks17-04.csv": [
+        "plurality"
+    ],
+    "s-lanarks17-ballots/Ward11-RutherglenSouth_s-lanarks17-11.csv": [
+        "plurality"
+    ],
+    "s-lanarks17-ballots/Ward16-BothwellandUddingston_s-lanarks17-16.csv": [
+        "plurality",
+        "IRV",
+        "top-3-truncation"
+    ],
+    "s-lanarks17-ballots/Ward5-AvondaleandStonehouse_s-lanarks17-05.csv": [
+        "plurality",
+        "IRV",
+        "borda-pm",
+        "top-3-truncation"
+    ],
+    "s-lanarks17-ballots/Ward10-EastKilbrideEast_s-lanarks17-10.csv": [
+        "approval"
+    ],
+    "s-lanarks17-ballots/Ward9-EastKilbrideWest_s-lanarks17-09.csv": [
+        "borda-om",
+        "bucklin"
+    ],
+    "s-lanarks17-ballots/Ward8-EastKilbrideCentralNorth_s-lanarks17-08.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "s-lanarks17-ballots/Ward17-HamiltonNorthandEast_s-lanarks17-17.csv": [
+        "plurality",
+        "top-two",
+        "top-3-truncation"
+    ],
+    "s-lanarks17-ballots/Ward12-RutherglenCentralandNorth_s-lanarks17-12.csv": [
+        "borda-pm",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "s-lanarks17-ballots/Ward7-EastKilbrideCentralSouth_s-lanarks17-07.csv": [
+        "approval"
+    ],
+    "s-lanarks17-ballots/Ward19-HamiltonSouth_s-lanarks17-19.csv": [
+        "plurality",
+        "borda-om",
+        "top-3-truncation"
+    ],
+    "s-lanarks17-ballots/Ward1-ClydesdaleWest_s-lanarks17-01.csv": [
+        "plurality",
+        "IRV",
+        "top-two"
+    ],
+    "s-lanarks17-ballots/Ward20-Larkhall_s-lanarks17-20.csv": [
+        "plurality"
+    ],
+    "s-lanarks17-ballots/Ward13-CambuslangWest_s-lanarks17-13.csv": [
+        "borda-om"
+    ],
+    "eilean-siar12-ballots/SteornabhaghaTuath_eilean-siar12-07.csv": [
+        "borda-pm",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "eilean-siar12-ballots/LochaTuath_eilean-siar12-08.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "eilean-siar12-ballots/Sgir'UigeAgusCeannATuathNanLoch_eilean-siar12-04.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "e-ayrshire17-ballots/Annick_e-ayrshire17-01.csv": [
+        "borda-om"
+    ],
+    "e-ayrshire17-ballots/Ballochmyle_e-ayrshire17-07.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "e-ayrshire17-ballots/KilmarnockWestandCrosshouse_e-ayrshire17-03.csv": [
+        "plurality",
+        "top-two",
+        "bucklin",
+        "approval"
+    ],
+    "e-ayrshire17-ballots/IrvineValley_e-ayrshire17-06.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "e-ayrshire17-ballots/KilmarnockEastandHurlford_e-ayrshire17-04.csv": [
+        "approval"
+    ],
+    "angus22/Ward8-MontroseandDistrict_ward8.csv": [
+        "plurality"
+    ],
+    "angus22/Ward6-ArbroathWestLethamandFriockheim_ward6.csv": [
+        "plurality",
+        "bucklin",
+        "approval"
+    ],
+    "angus22/Ward2-BrechinandEdzell_ward2.csv": [
+        "plurality",
+        "IRV",
+        "top-two"
+    ],
+    "angus22/Ward4-MonifiethandSidlaw_ward4.csv": [
+        "plurality"
+    ],
+    "angus22/Ward5-CarnoustieandDistrict_ward5.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "w-lothian22/Ward2-BroxburnUphallandWinchburgh_west lothian,2022,ward 2.csv": [
+        "approval"
+    ],
+    "w-lothian22/Ward7-WhitburnandBlackburn_west lothian,2022,ward 7.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "w-lothian22/Ward6-FauldhouseandtheBreichValley_west lothian,2022,ward 6.csv": [
+        "plurality",
+        "borda-om"
+    ],
+    "w-lothian22/Ward1-Linlithgow_west lothian,2022,ward 1.csv": [
+        "plurality"
+    ],
+    "w-lothian22/Ward4-LivingstonSouth_west lothian,2022,ward 4.csv": [
+        "borda-pm",
+        "bucklin",
+        "approval"
+    ],
+    "renfs12-ballots/6.PaisleySouthWestWard_renfs12-06.csv": [
+        "plurality"
+    ],
+    "renfs12-ballots/10.BishoptonBridgeofWeir&LangbankWard_renfs12-10.csv": [
+        "plurality",
+        "top-two",
+        "borda-pm",
+        "bucklin",
+        "approval"
+    ],
+    "renfs12-ballots/2.RenfrewSouthGallowhillWard_renfs12-02.csv": [
+        "plurality"
+    ],
+    "renfs12-ballots/11.Erskine&InchinnanWard_renfs12-11.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "perth-kinross12-ballots/Strathallan_perth-kinross12-07.csv": [
+        "borda-om",
+        "bucklin",
+        "approval"
+    ],
+    "perth-kinross12-ballots/Kinross-shire_perth-kinross12-08.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "perth-kinross12-ballots/CarseofGowrie_perth-kinross12-01.csv": [
+        "plurality"
+    ],
+    "perth-kinross12-ballots/Strathtay_perth-kinross12-05.csv": [
+        "plurality",
+        "bucklin",
+        "approval"
+    ],
+    "perth-kinross12-ballots/Strathearn_perth-kinross12-06.csv": [
+        "plurality",
+        "bucklin",
+        "approval"
+    ],
+    "perth-kinross12-ballots/AlmondandEarn_perth-kinross12-09.csv": [
+        "plurality"
+    ],
+    "perth-kinross12-ballots/Strathmore_perth-kinross12-02.csv": [
+        "plurality",
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "renfs22/Preference_profile_for_Ward_5_Paisley_East_and_Central_copy.csv": [
+        "approval"
+    ],
+    "renfs22/Preference_profile_for_Ward_7_Paisley_Southwest_copy.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "top-3-truncation",
+        "approval"
+    ],
+    "renfs22/profile_for_Ward_11_Bishopton_Bridge_of_Weir_and_Langbank_copy.csv": [
+        "plurality",
+        "IRV"
+    ],
+    "renfs22/Preference_profile_for_Ward_8_Johnstone_South_and_Elderslie_copy.csv": [
+        "plurality"
+    ],
+    "argyll-bute17-ballots/Cowal_argyll-bute17-06.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "argyll-bute17-ballots/Dunoon_argyll-bute17-07.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "argyll-bute17-ballots/KintyreandtheIslands_argyll-bute17-02.csv": [
+        "plurality",
+        "top-two",
+        "borda-om",
+        "top-3-truncation"
+    ],
+    "argyll-bute17-ballots/ObanSouthandtheIsles_argyll-bute17-04.csv": [
+        "borda-om"
+    ],
+    "argyll-bute17-ballots/LomondNorth_argyll-bute17-09.csv": [
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "shetland17/Ward1-NorthIsles_shetland17-01.csv": [
+        "plurality",
+        "borda-om",
+        "approval"
+    ],
+    "shetland17/Ward7-LerwickSouth_shetland17-07.csv": [
+        "plurality"
+    ],
+    "n-ayrshire17-ballots/NorthCoastandCumbraes_n-ayrshire17-08.csv": [
+        "borda-om"
+    ],
+    "n-ayrshire17-ballots/IrvineEast_n-ayrshire17-02.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "n-ayrshire17-ballots/Stevenston_n-ayrshire17-04.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "n-ayrshire17-ballots/DalryandWestKilbride_n-ayrshire17-06.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "n-ayrshire17-ballots/ArdrossanandArran_n-ayrshire17-05.csv": [
+        "plurality",
+        "top-two",
+        "bucklin",
+        "approval"
+    ],
+    "n-ayrshire17-ballots/IrvineSouth_n-ayrshire17-10.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "n-ayrshire17-ballots/KilbirnieandBeith_n-ayrshire17-07.csv": [
+        "plurality"
+    ],
+    "aberdeenshire22/preferenceprofile_v0001_ward-9-ellon-and-district_06052022_172124.csv": [
+        "IRV"
+    ],
+    "aberdeenshire22/v0001_ward-16-banchory-and-mid-deeside_06052022_172124.csv": [
+        "plurality",
+        "top-two",
+        "top-3-truncation"
+    ],
+    "aberdeenshire22/preferenceprofile_v0001_ward-4-central-buchan_06052022_172124.csv": [
+        "borda-om"
+    ],
+    "aberdeenshire22/Ward1-BanffandDistrict_ward1.csv": [
+        "borda-pm",
+        "bucklin",
+        "approval"
+    ],
+    "aberdeenshire22/ward-14-huntly-strathbogie-and-howe-of-alford_06052022_172124.csv": [
+        "plurality",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "aberdeenshire22/v0001_ward-13-westhill-and-district_06052022_172124.csv": [
+        "plurality"
+    ],
+    "aberdeenshire22/preferenceprofile_v0001_ward-8-mid-formartine_06052022_172123.csv": [
+        "plurality",
+        "IRV",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "aberdeenshire22/v0001_ward-11-inverurie-and-district_06052022_172124.csv": [
+        "plurality",
+        "IRV",
+        "top-two"
+    ],
+    "aberdeenshire22/preferenceprofile_v0001_ward-17-north-kincardine_06052022_172124.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "aberdeenshire22/v0001_ward-3-fraserburgh-and-district_06052022_172124.csv": [
+        "plurality"
+    ],
+    "aberdeenshire22/v0001_ward-5-peterhead-north-and-rattray_06052022_172118.csv": [
+        "plurality"
+    ],
+    "aberdeenshire22/preferenceprofile_v0001_ward-19-mearns_06052022_172124.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "aberdeenshire22/v0001_ward-7-turriff-and-district_06052022_172118.csv": [
+        "plurality",
+        "IRV",
+        "top-3-truncation"
+    ],
+    "aberdeenshire22/v0001_ward-6-peterhead-south-and-cruden_06052022_172115.csv": [
+        "borda-om"
+    ],
+    "edinburgh22/Ward7-Sighthill-Gorgie_ward7.csv": [
+        "plurality",
+        "approval"
+    ],
+    "edinburgh22/Ward10-Morningside_ward10.csv": [
+        "IRV"
+    ],
+    "edinburgh22/Ward2-PentlandHills_ward2.csv": [
+        "plurality",
+        "borda-pm",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "edinburgh22/Ward11-CityCentre_ward11.csv": [
+        "plurality"
+    ],
+    "edinburgh22/Ward9-Fountainbridge-Craiglockhart_ward9.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "edinburgh22/Ward14-Craigentinny-Duddingston_ward14.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "approval"
+    ],
+    "edinburgh22/Ward4-Forth_ward4.csv": [
+        "plurality",
+        "IRV",
+        "borda-om",
+        "top-3-truncation"
+    ],
+    "edinburgh22/Ward13-Leith_ward13.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "perth-kinross22/Ward3-BlairgowrieandGlens_Ward3.csv": [
+        "borda-om",
+        "bucklin",
+        "approval"
+    ],
+    "perth-kinross22/Ward9-AlmondandEarn_Ward9.csv": [
+        "plurality"
+    ],
+    "perth-kinross22/Ward4-Highland_Ward4.csv": [
+        "plurality",
+        "IRV"
+    ],
+    "perth-kinross22/Ward5-Strathtay_Ward5.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "perth-kinross22/Ward8-Kinross-Shire_Ward8.csv": [
+        "plurality"
+    ],
+    "perth-kinross22/Ward2-Strathmore_Ward2.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "perth-kinross22/Ward6-Strathearn_Ward6.csv": [
+        "plurality"
+    ],
+    "falkirk17-ballots/Ward9-UpperBraes_falkirk17-09.csv": [
+        "plurality",
+        "IRV",
+        "top-3-truncation"
+    ],
+    "falkirk17-ballots/Ward7-FalkirkSouth_falkirk17-07.csv": [
+        "plurality",
+        "IRV",
+        "top-two"
+    ],
+    "falkirk17-ballots/Ward5-BonnybridgeandLarbert_falkirk17-05.csv": [
+        "bucklin"
+    ],
+    "falkirk17-ballots/Ward8-LowerBraes_falkirk17-08.csv": [
+        "borda-om"
+    ],
+    "falkirk17-ballots/Ward2-Grangemouth_falkirk17-02.csv": [
+        "approval"
+    ],
+    "falkirk17-ballots/Ward4-Carse,KinnairdandTryst_falkirk17-04.csv": [
+        "plurality"
+    ],
+    "n-lanarks17-ballots/Ward5-Stepps,ChrystonandMuirhead_n-lanarks17-005.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "n-lanarks17-ballots/Ward17-MotherwellWest_n-lanarks17-017.csv": [
+        "plurality",
+        "top-two",
+        "borda-om",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "n-lanarks17-ballots/Ward21-Wishaw_n-lanarks17-021.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "n-lanarks17-ballots/Ward18-MotherwellNorth_n-lanarks17-018.csv": [
+        "plurality",
+        "top-two",
+        "borda-pm",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "n-lanarks17-ballots/Ward8-AirdrieNorth_n-lanarks17-008.csv": [
+        "plurality"
+    ],
+    "n-lanarks17-ballots/Ward7-CoatbridgeNorth_n-lanarks17-007.csv": [
+        "plurality",
+        "borda-om"
+    ],
+    "highland22/PreferenceProfile_V0001_Cromarty_Firth_06052022_161538.csv": [
+        "plurality",
+        "borda-om"
+    ],
+    "highland22/PreferenceProfile_V0001_Inverness_Central_06052022_161539.csv": [
+        "plurality",
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "highland22/V0001_North_West_and_Central_Sutherland_06052022_161534.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "highland22/PreferenceProfile_V0001_Nairn_and_Cawdor_06052022_161539.csv": [
+        "plurality"
+    ],
+    "highland22/BlackIsle_PreferenceProfile_V0001_Black_Isle_06052022_161539.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "highland22/PreferenceProfile_V0001_Inverness_Millburn_06052022_161539.csv": [
+        "plurality"
+    ],
+    "highland22/PreferenceProfile_V0001_Inverness_South_06052022_161540.csv": [
+        "borda-pm",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "highland22/PreferenceProfile_V0001_Dingwall_and_Seaforth_06052022_161539.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "highland22/PreferenceProfile_V0001_Tain_and_Easter_Ross_06052022_161537.csv": [
+        "plurality",
+        "top-two",
+        "bucklin",
+        "approval"
+    ],
+    "highland22/PreferenceProfile_V0001_Aird_and_Loch_Ness_06052022_161539.csv": [
+        "plurality"
+    ],
+    "edinburgh12-ballots/LeithWalkWard_edinburgh12-12.csv": [
+        "plurality"
+    ],
+    "edinburgh12-ballots/Meadows_MorningsideWard_edinburgh12-10.csv": [
+        "plurality"
+    ],
+    "edinburgh12-ballots/Liberton_GilmertonWard_edinburgh12-16.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "edinburgh12-ballots/Craigentinny_DuddingstonWard_edinburgh12-14.csv": [
+        "borda-pm",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "edinburgh12-ballots/PentlandHillsWard_edinburgh12-02.csv": [
+        "plurality"
+    ],
+    "edinburgh12-ballots/CityCentreWard_edinburgh12-11.csv": [
+        "plurality",
+        "IRV",
+        "top-two"
+    ],
+    "edinburgh12-ballots/Corstorphine_MurrayfieldWard_edinburgh12-06.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "midlothian12-ballots/MidlothianWes0_midlothian12-04_cleaned.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "e-duns22-ballots/Ward7-KirkintillochEast&North&Twechar_ward7.csv": [
+        "plurality"
+    ],
+    "e-duns22-ballots/Ward1-Milngavie_ward1.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "e-duns22-ballots/Ward5-BishopbriggsSouth_ward5.csv": [
+        "plurality"
+    ],
+    "e-duns22-ballots/Ward3-BearsdenSouth_ward3.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "e-duns22-ballots/Ward6-Lenzie&KirkintillochSouth_ward6.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "e-duns22-ballots/Ward4-BishopbriggsNorth&Campsie_ward4.csv": [
+        "borda-pm",
+        "bucklin",
+        "approval"
+    ],
+    "dundee12-ballots/TheFerryWard_dundee12-08.csv": [
+        "plurality"
+    ],
+    "dundee22/Ward2-Lochee_Ward2.csv": [
+        "approval"
+    ],
+    "dundee22/Ward5-Maryfield_Ward5.csv": [
+        "plurality",
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "approval"
+    ],
+    "stirling22/preferenceprofile_v0001_ward-5-stirling-west_06052022_124253.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "top-3-truncation"
+    ],
+    "stirling22/preferenceprofile_v0001_ward-2-forth-and-endrick_06052022_124253.csv": [
+        "plurality",
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation"
+    ],
+    "stirling22/v0001_ward-3-dunblane-and-bridge-of-allan_06052022_124253.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "top-3-truncation"
+    ],
+    "s-lanarks22/ward_10_east_kilbride_east_preference_profile.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "s-lanarks22/Ward19-HamiltonSouth_ward_19_hamilton_south_preference_profile.csv": [
+        "plurality",
+        "bucklin"
+    ],
+    "s-lanarks22/ward_7_east_kilbride_central_south_preference_profile.csv": [
+        "approval"
+    ],
+    "s-lanarks22/ward_5_avondale_and_stonehouse_preference_profile.csv": [
+        "borda-om"
+    ],
+    "s-lanarks22/Ward15-Blantyre_ward_15_blantyre_preference_profile.csv": [
+        "plurality"
+    ],
+    "s-lanarks22/ward_8_east_kilbride_central_north_preference_profile.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "s-lanarks22/Ward11-RutherglenSouth_ward_11_rutherglen_south_preference_profile.csv": [
+        "plurality"
+    ],
+    "s-lanarks22/ward_18_hamilton_west_and_earnock_preference_profile.csv": [
+        "borda-pm",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "s-lanarks22/Ward4-ClydesdaleSouth_ward_4_clydesdale_south_preference_profile.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "s-lanarks22/Ward3-ClydesdaleEast_ward_3_clydesdale_east_preference_profile.csv": [
+        "plurality",
+        "borda-om",
+        "borda-avg"
+    ],
+    "aberdeen2017/TorryFerryhillWard_aberdeen17-12.csv": [
+        "plurality",
+        "borda-pm",
+        "bucklin",
+        "approval"
+    ],
+    "aberdeen2017/DyceBucksburnDanestoneWard_aberdeen17-01.csv": [
+        "plurality",
+        "bucklin",
+        "approval"
+    ],
+    "aberdeen2017/BridgeofDonWard_aberdeen17-02.csv": [
+        "plurality"
+    ],
+    "aberdeen2017/GeorgeStHarbourWard_aberdeen17-08.csv": [
+        "borda-pm",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "aberdeen2017/MidstocketRosemountWard_aberdeen17-07.csv": [
+        "plurality"
+    ],
+    "aberdeen2017/TillydroneSeatonOldAberdeenWard_aberdeen17-06.csv": [
+        "plurality",
+        "approval"
+    ],
+    "sc-borders12-ballots/SelkirkshireWard_sc-borders12-04.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "argyll22/Ward6-Cowal_ward6.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "argyll22/Ward9-LomondNorth_ward9.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "top-3-truncation"
+    ],
+    "argyll22/Ward8-IsleofBute_ward8.csv": [
+        "plurality"
+    ],
+    "argyll22/Ward5-ObanNorthandLorn_ward5.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "argyll22/Ward11-HelensburghandLomondSouth_ward11.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "argyll22/Ward10-HelensburghCentral_ward10.csv": [
+        "plurality",
+        "top-two",
+        "borda-om",
+        "top-3-truncation"
+    ],
+    "orkney22/Ward2-KirkwallWestandOrphirWard_ward2.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "orkney22/Ward1-KirkwallEastWard_ward1.csv": [
+        "plurality",
+        "approval"
+    ],
+    "orkney22/Ward3-StromnessandSouthIslesWard_ward3.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "n-lanarks22/Ward17-MotherwellWest_Preference Profile Ward 17 Motherwell West.csv": [
+        "borda-pm",
+        "bucklin",
+        "approval"
+    ],
+    "n-lanarks22/Ward1-Kilsyth_Preference Profile Ward 1 Kilsyth.csv": [
+        "plurality",
+        "borda-pm",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "n-lanarks22/Ward3-CumbernauldSouth_Preference Profile Ward 3 Cumbernauld South.csv": [
+        "plurality",
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "n-lanarks22/Ward8-AirdrieNorth_Preference Profile Ward 8 Airdrie North.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "n-lanarks22/Ward12-AirdrieSouth_Preference Profile Ward 12 Airdrie South.csv": [
+        "borda-om",
+        "bucklin",
+        "approval"
+    ],
+    "n-lanarks22/Ward9-AirdrieCentral_Preference Profile WArd 9 Airdrie Central.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "borda-om",
+        "top-3-truncation"
+    ],
+    "n-lanarks22/Ward21-Wishaw_Preference Profile Ward 21 Wishaw.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "n-lanarks22/Ward18-MotherwellNorth_Preference Profile Ward 18 Motherwell North.csv": [
+        "borda-pm",
+        "bucklin",
+        "approval"
+    ],
+    "n-lanarks22/Ward15-Bellshill_Preference Profile WArd 15 Bellshill.csv": [
+        "plurality"
+    ],
+    "n-lanarks22/Ward14-Thorniewood_Preference Profile WArd 14 Thorniewood.csv": [
+        "plurality"
+    ],
+    "n-lanarks22/Preference Profile Ward 6 Gartcosh, Glenboig and Moodiesburn.csv": [
+        "approval"
+    ],
+    "n-lanarks22/Preference Profile Ward 5 Stepps, Chryston and Muirhead.csv": [
+        "plurality",
+        "borda-om",
+        "top-3-truncation"
+    ],
+    "sc-borders17/Ward1-TweeddaleWest_sc-borders17-01.csv": [
+        "plurality",
+        "borda-om",
+        "bucklin"
+    ],
+    "sc-borders17/Ward3-GalashielsandDistrict_sc-borders17-03.csv": [
+        "borda-om"
+    ],
+    "sc-borders17/Ward9-JedburghandDistrict_sc-borders17-09.csv": [
+        "plurality"
+    ],
+    "sc-borders17/Ward2-TweeddaleEast_sc-borders17-02.csv": [
+        "bucklin"
+    ],
+    "edinburgh17-ballots/Ward11-CityCentre_edinburgh17-11.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "edinburgh17-ballots/Ward5-Inverleith_edinburgh17-05.csv": [
+        "plurality",
+        "top-two",
+        "top-3-truncation"
+    ],
+    "edinburgh17-ballots/Ward15-Southside-Newington_edinburgh17-15.csv": [
+        "plurality",
+        "top-two",
+        "borda-pm",
+        "bucklin",
+        "approval"
+    ],
+    "edinburgh17-ballots/Ward14-Craigentinny-Duddingston_edinburgh17-14.csv": [
+        "plurality",
+        "bucklin",
+        "approval"
+    ],
+    "edinburgh17-ballots/Ward6-CorstorphineMurrayfield_edinburgh17-06.csv": [
+        "plurality"
+    ],
+    "edinburgh17-ballots/Ward10-Morningside_edinburgh17-10.csv": [
+        "plurality",
+        "borda-pm",
+        "bucklin",
+        "approval"
+    ],
+    "edinburgh17-ballots/Ward4-Forth_edinburgh17-04.csv": [
+        "plurality",
+        "borda-pm",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "edinburgh17-ballots/Ward13-Leith_edinburgh17-13.csv": [
+        "approval"
+    ],
+    "edinburgh17-ballots/Ward12-LeithWalk_edinburgh17-12.csv": [
+        "IRV",
+        "top-3-truncation"
+    ],
+    "edinburgh17-ballots/Ward9-FountainbridgeCraiglockhart_edinburgh17-09.csv": [
+        "plurality"
+    ],
+    "edinburgh17-ballots/Ward7-SighthillGorgie_edinburgh17-07.csv": [
+        "plurality"
+    ],
+    "midlothian17-ballots/MidlothianEast_midlothian17-05.csv": [
+        "plurality",
+        "bucklin",
+        "approval"
+    ],
+    "midlothian17-ballots/MidlothianWest_midlothian17-04.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation"
+    ],
+    "midlothian17-ballots/Penicuik_midlothian17-01.csv": [
+        "plurality",
+        "borda-om"
+    ],
+    "midlothian17-ballots/Dalkeith_midlothian17-03.csv": [
+        "plurality",
+        "approval"
+    ],
+    "n-lanarks12-ballots/Ward2CumbernauldNorth_n-lanarks12-02.csv": [
+        "plurality",
+        "top-two",
+        "borda-pm",
+        "top-3-truncation"
+    ],
+    "n-lanarks12-ballots/Ward4AbronhillKildrumandTheVillage_n-lanarks12-04.csv": [
+        "plurality"
+    ],
+    "n-lanarks12-ballots/Ward16MotherwellWest_n-lanarks12-16.csv": [
+        "plurality",
+        "bucklin",
+        "approval"
+    ],
+    "n-lanarks12-ballots/Ward9CoatbridgeWest_n-lanarks12-09.csv": [
+        "bucklin"
+    ],
+    "n-lanarks12-ballots/Ward17MotherwellNorth_n-lanarks12-17.csv": [
+        "borda-om",
+        "bucklin"
+    ],
+    "n-lanarks12-ballots/Ward12Fortissat_n-lanarks12-12.csv": [
+        "plurality"
+    ],
+    "n-lanarks12-ballots/Ward11AirdrieSouth_n-lanarks12-11.csv": [
+        "borda-om"
+    ],
+    "n-lanarks12-ballots/Ward7AirdrieNorth_n-lanarks12-07.csv": [
+        "plurality",
+        "top-two",
+        "borda-pm",
+        "top-3-truncation"
+    ],
+    "shetland12-ballots/NorthIsles_shetland12-01.csv": [
+        "approval"
+    ],
+    "falkirk12-ballots/LowerBraes_falkirk12-08.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "glasgow17-ballots/Ward8SouthsideCentral_glasgow17-008.csv": [
+        "plurality"
+    ],
+    "glasgow17-ballots/Ward3GreaterPollok_glasgow17-003.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "glasgow17-ballots/Ward2NewlandsAuldburn_glasgow17-002.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "glasgow17-ballots/Ward13GarscaddenScotstounhill_glasgow17-013.csv": [
+        "plurality",
+        "approval"
+    ],
+    "glasgow17-ballots/Ward14DrumchapelAnniesland_glasgow17-014.csv": [
+        "plurality",
+        "borda-pm",
+        "top-3-truncation",
+        "approval"
+    ],
+    "glasgow17-ballots/Ward17SpringburnRobroyston_glasgow17-017.csv": [
+        "borda-om"
+    ],
+    "glasgow17-ballots/Ward1Linn_glasgow17-001.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "glasgow17-ballots/Ward19Shettleston_glasgow17-019.csv": [
+        "borda-om"
+    ],
+    "glasgow17-ballots/Ward23PartickEastKelvindale_glasgow17-023.csv": [
+        "borda-pm",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "glasgow17-ballots/Ward18EastCentre_glasgow17-018.csv": [
+        "plurality",
+        "borda-pm",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "glasgow17-ballots/Ward4Cardonald_glasgow17-004.csv": [
+        "borda-pm",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "glasgow17-ballots/Ward22Dennistoun_glasgow17-022.csv": [
+        "approval"
+    ],
+    "glasgow17-ballots/Ward15Maryhill_glasgow17-015.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "glasgow17-ballots/Ward12VictoriaPark_glasgow17-012.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "glasgow17-ballots/Ward5Govan_glasgow17-005.csv": [
+        "plurality"
+    ],
+    "n-ayrshire12-ballots/Ward01-IrvineWest_n-ayrshire12-01.csv": [
+        "plurality",
+        "borda-om",
+        "top-3-truncation"
+    ],
+    "n-ayrshire12-ballots/Ward05-ArdrossanandArran_n-ayrshire12-05.csv": [
+        "IRV"
+    ],
+    "perth-kinross17-ballots/Ward6-Strathearn_perth-kinross17-06.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "perth-kinross17-ballots/Ward8-Kinross-shire_perth-kinross17-08.csv": [
+        "plurality",
+        "top-two",
+        "top-3-truncation"
+    ],
+    "perth-kinross17-ballots/Ward12-PerthCityCentre_perth-kinross17-12.csv": [
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "clackmannanshire22/Ward3ClackmannanshireCentral_ward3.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "clackmannanshire22/Ward4ClackmannanshireSouth_ward4.csv": [
+        "plurality",
+        "borda-pm",
+        "bucklin",
+        "approval"
+    ],
+    "clackmannanshire22/Ward1ClackmannanshireWest_ward1.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "clackmannanshire22/Ward5ClackmannanshireEast_ward5.csv": [
+        "plurality",
+        "bucklin"
+    ],
+    "renfs17-ballots/Ward10-Houston,CrossleeandLinwood_renfs17-10.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "top-3-truncation"
+    ],
+    "renfs17-ballots/Ward5-PaisleyEastandCentral_renfs17-05.csv": [
+        "approval"
+    ],
+    "renfs17-ballots/Ward12-ErskineandInchinnan_renfs17-12.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "renfs17-ballots/Ward1-RenfrewNorthandBraehead_renfs17-01.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "renfs17-ballots/Ward3-PaisleyNortheastandRalston_renfs17-03.csv": [
+        "plurality",
+        "borda-pm",
+        "bucklin",
+        "approval"
+    ],
+    "renfs17-ballots/Ward7-PaisleySouthwest_renfs17-07.csv": [
+        "plurality",
+        "top-two",
+        "borda-pm",
+        "bucklin",
+        "approval"
+    ],
+    "argyll-bute12-ballots/COWALWARD_argyll-bute12-06.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "argyll-bute12-ballots/OBANSOUTHANDTHEISLESWARD_argyll-bute12-04.csv": [
+        "plurality",
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "argyll-bute12-ballots/HELENSBURGHCENTRALWARD_argyll-bute12-10.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "eilean-siar17-ballots/SgireanRubha_eilean-siar17-05.csv": [
+        "plurality"
+    ],
+    "eilean-siar17-ballots/Ste\u00f2rnabhaghaTuath_eilean-siar17-07.csv": [
+        "plurality",
+        "borda-pm",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin"
+    ],
+    "e-ayrshire12-ballots/Ward1Annick_e-ayrshire12-01.csv": [
+        "plurality",
+        "bucklin",
+        "approval"
+    ],
+    "e-ayrshire12-ballots/KilmarnockEastandHurlford_e-ayrshire12-04.csv": [
+        "approval"
+    ],
+    "e-ayrshire12-ballots/Ward7Ballochmyle_e-ayrshire12-07.csv": [
+        "plurality"
+    ],
+    "e-ayrshire12-ballots/Ward6IrvineValley_e-ayrshire12-06.csv": [
+        "plurality"
+    ],
+    "clackmannanshire17-ballots/Ward1ClackmannanshireWest_clacks17-001.csv": [
+        "plurality"
+    ],
+    "clackmannanshire17-ballots/Ward2ClackmannanshireNorth_clacks17-002.csv": [
+        "plurality"
+    ],
+    "highland12-ballots/InvernessSouthWard_highland12-20.csv": [
+        "plurality",
+        "top-two",
+        "top-3-truncation"
+    ],
+    "highland12-ballots/NorthWestandCentralSutherlandWard_highland12-01.csv": [
+        "plurality",
+        "borda-om",
+        "top-3-truncation"
+    ],
+    "highland12-ballots/InvernessWestWard_highland12-14.csv": [
+        "plurality",
+        "borda-om",
+        "top-3-truncation"
+    ],
+    "highland12-ballots/InvernessNess-sideWard_highland12-16.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "highland12-ballots/FortWilliamandArdnamurchanWard_highland12-22.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "top-3-truncation"
+    ],
+    "s-lanarks12-ballots/Ward7-EastKilbrideCentralSouth_s-lanarks12-07.csv": [
+        "plurality",
+        "borda-om"
+    ],
+    "s-lanarks12-ballots/Ward9-EastKilbrideWest_s-lanarks12-09.csv": [
+        "plurality"
+    ],
+    "s-lanarks12-ballots/Ward5-AvondaleandStonehouse_s-lanarks12-05.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "s-lanarks12-ballots/Ward16-BothwellandUddingston_s-lanarks12-16.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "falkirk22/Ward5-BonnybridgeandLarbert_ward5.csv": [
+        "borda-om"
+    ],
+    "falkirk22/Ward8-LowerBraes_ward8.csv": [
+        "borda-om"
+    ],
+    "falkirk22/Ward7-FalkirkSouth_ward7.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "falkirk22/Ward9-UpperBraes_ward9.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "dumgal22/Ward1-StranraerandtheRhins_ward1.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "dumgal22/Ward3-DeeandGlenkens_ward3.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "dumgal22/Ward7-MidandUpperNithsdale_ward7.csv": [
+        "plurality"
+    ],
+    "dumgal22/Ward9-Nith_ward9.csv": [
+        "borda-om",
+        "bucklin",
+        "approval"
+    ],
+    "dumgal22/Ward10-AnnandaleSouth_ward10.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "top-3-truncation"
+    ],
+    "dumgal22/Ward2-MidGallowayandWigtownWest_ward2.csv": [
+        "approval"
+    ],
+    "dumgal22/Ward8-Lochar_ward8.csv": [
+        "borda-pm",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "dumgal22/Ward11-AnnandaleNorth_ward11.csv": [
+        "plurality"
+    ],
+    "dumgal22/Ward5-Abbey_ward5.csv": [
+        "plurality",
+        "IRV"
+    ],
+    "dumgal22/Ward6-NorthWestDumfries_ward6.csv": [
+        "borda-om",
+        "bucklin",
+        "approval"
+    ],
+    "s-ayrshire22/Ward1-Troon_south ayrshire,2022ward 1.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "s-ayrshire22/Ward2-Prestwick_south ayrshire,2022ward 2.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "s-ayrshire22/Ward6-Kyle_south ayrshire,2022ward 6.csv": [
+        "plurality",
+        "IRV",
+        "top-3-truncation"
+    ],
+    "s-ayrshire22/Ward7-MayboleNorthCarrickandCoylton_south ayrshire,2022ward 7.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "top-3-truncation"
+    ],
+    "s-ayrshire17-ballots/Maybole,NorthCarrickandCoylton_s-ayrshire17-07.csv": [
+        "plurality",
+        "IRV",
+        "top-two"
+    ],
+    "s-ayrshire17-ballots/AyrEast_s-ayrshire17-04.csv": [
+        "borda-om"
+    ],
+    "s-ayrshire17-ballots/AyrNorth_s-ayrshire17-03.csv": [
+        "plurality",
+        "bucklin",
+        "approval"
+    ],
+    "fife22/PreferenceProfile_V0001_Ward-11-Kirkcaldy-Central_06052022_145551.csv": [
+        "plurality",
+        "IRV",
+        "borda-pm",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "fife22/V0001_Ward-22-Buckhaven-Methil-and-Wemyss-Villages_06052022_151928.csv": [
+        "approval"
+    ],
+    "fife22/Ward5-Rosyth_PreferenceProfile_V0001_Ward-5-Rosyth_06052022_145544.csv": [
+        "plurality",
+        "borda-pm",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "fife22/PreferenceProfile_V0001_Ward-17-Tay-Bridgehead_06052022_145551.csv": [
+        "plurality"
+    ],
+    "fife22/Ward-9-Burntisland-Kinghorn-and-Western-Kirkcaldy_06052022_145551.csv": [
+        "plurality",
+        "borda-om"
+    ],
+    "fife22/PreferenceProfile_V0001_Ward-3-Dunfermline-Central_06052022_145551.csv": [
+        "borda-om",
+        "bucklin",
+        "approval"
+    ],
+    "fife22/V0001_Ward-13-Glenrothes-West-and-Kinglassie_06052022_145551.csv": [
+        "approval"
+    ],
+    "fife22/PreferenceProfile_V0001_Ward-4-Dunfermline-South_06052022_151924.csv": [
+        "plurality"
+    ],
+    "fife22/V0001_Ward-16-Howe-Of-Fife-and-Tay-Coast_06052022_151928.csv": [
+        "plurality"
+    ],
+    "scottish by-elections/Ward6-CromartyFirth_Highland 2023 by-election Ward 6.csv": [
+        "borda-om",
+        "bucklin",
+        "approval"
+    ],
+    "scottish by-elections/Ward7-FalkirkSouth_Falkirk 2021 by-election South.csv": [
+        "approval"
+    ],
+    "scottish by-elections/aberdeenshire by-election 2016 inverurie and district.csv": [
+        "bucklin"
+    ],
+    "scottish by-elections/Ward1-Strathmartine_Dundee 2024 by-election Starthmartine.csv": [
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "scottish by-elections/East Lothian 2019 by-election Ward 5 haddington.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "scottish by-elections/Ward7-Strathallan_Perth and Kinross 2024 by-election Ward 7.csv": [
+        "plurality"
+    ],
+    "scottish by-elections/Ward11Hillhead_Glasgow 2023 by-election Hillhead.csv": [
+        "plurality",
+        "borda-pm",
+        "approval"
+    ],
+    "scottish by-elections/Ward7-FalkirkSouth_Falkirk 2024 Ward 7 by-election.csv": [
+        "plurality"
+    ],
+    "scottish by-elections/Ward14-InvernessCentral_Highland 2024 by-election Ward 14.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "scottish by-elections/Ward10-PerthCitySouth_Perth Kinross by-election 2020 South.csv": [
+        "plurality"
+    ],
+    "scottish by-elections/Ward2-Lochee_Dundee 2024 by-election Lochee.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "scottish by-elections/Ward19-Mearns_aberdeenshire 2024 by-election ward 19.csv": [
+        "borda-om"
+    ],
+    "scottish by-elections/Ward8-IsleofBute_Argyll Bute by-election Isle of Bute 2021.csv": [
+        "plurality",
+        "borda-pm",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "scottish by-elections/Glasgow by-election 2021 Ward 23 Partick East-Kelvindale.csv": [
+        "plurality"
+    ],
+    "scottish by-elections/Stirling 2024 August by-election ward 3.csv": [
+        "plurality"
+    ],
+    "scottish by-elections/Aberdeen_2023_by_election_Dyce_Bucksburn_Danestone.csv": [
+        "plurality"
+    ],
+    "scottish by-elections/Aberdeenshire 2020 by-election Ellon and District.csv": [
+        "approval"
+    ],
+    "scottish by-elections/Ward10-PerthCitySouth_Perth Kinross 2017 by-election Ward 10.csv": [
+        "plurality",
+        "IRV",
+        "top-two"
+    ],
+    "scottish by-elections/Ward9LomondNorth_Argyll Bute by-election 2021 Lomond North.csv": [
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "scottish by-elections/Ward5-LeaderdaleandMelrose_Scottish Borders 2021 by-elction Ward 5.csv": [
+        "borda-om"
+    ],
+    "scottish by-elections/Ward12-LeithWalk_edinburgh 2019 by-election Leith Walk.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "scottish by-elections/Ward13-InvernessWest_highland 2021 by-election Inverness West.csv": [
+        "plurality"
+    ],
+    "scottish by-elections/Ward5-BonnybridgeandLarbert_Falkirk 2018 by-election bonnybridge.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "scottish by-elections/Ward19-InvernessSouth_Highland 2024 by-election Ward 19.csv": [
+        "borda-om",
+        "borda-avg",
+        "bucklin"
+    ],
+    "angus12-ballots/MonifiethandSidlaw_angus12-04.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "angus12-ballots/KirriemuirandDean_angus12-01.csv": [
+        "plurality",
+        "approval"
+    ],
+    "angus12-ballots/ArbroathEastandLunan_angus12-07.csv": [
+        "plurality",
+        "borda-pm",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "angus12-ballots/ArbroathWestandLetham_angus12-06.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "moray17-ballots/SpeysideGlenlivet_moray17-01.csv": [
+        "plurality",
+        "IRV"
+    ],
+    "moray17-ballots/ElginCitySouth_moray17-07.csv": [
+        "plurality",
+        "IRV",
+        "top-two"
+    ],
+    "moray17-ballots/KeithandCullen_moray17-02.csv": [
+        "borda-om",
+        "bucklin",
+        "approval"
+    ],
+    "moray17-ballots/Forres_moray17-08.csv": [
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "orkney17-ballots/NorthIslesWard_orkney17-06.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "orkney17-ballots/KirkwallEastWard_orkney17-01.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "orkney17-ballots/WestMainlandWard_orkney17-04.csv": [
+        "plurality"
+    ],
+    "inverclyde22/Ward2-InverclydeEastCentral_PreferenceProfile_Ward-2.csv": [
+        "borda-om"
+    ],
+    "inverclyde22/Ward6-InverclydeSouthWest_PreferenceProfile_Ward-6.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "inverclyde22/Ward7-InverclydeSouth_PreferenceProfile_Ward-7.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "inverclyde22/Ward3-InverclydeCentral_PreferenceProfile_Ward-3.csv": [
+        "plurality",
+        "borda-om",
+        "top-3-truncation"
+    ],
+    "inverclyde12-ballots/Ward6-InverclydeSouthWest_inverclyde12-06.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "aberdeenshire17-ballots/Ward17-NorthKincardine_aberdeenshire17-17.csv": [
+        "plurality"
+    ],
+    "aberdeenshire17-ballots/Ward7-TurriffandDistrict_aberdeenshire17-07.csv": [
+        "borda-om"
+    ],
+    "aberdeenshire17-ballots/Ward12-EastGarioch_aberdeenshire17-12.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "top-3-truncation"
+    ],
+    "aberdeenshire17-ballots/Ward4-CentralBuchan_aberdeenshire17-04.csv": [
+        "borda-om",
+        "bucklin"
+    ],
+    "aberdeenshire17-ballots/Ward8-MidFormartine_aberdeenshire17-08.csv": [
+        "borda-om"
+    ],
+    "aberdeenshire17-ballots/Ward1-BanffandDistrict_aberdeenshire17-01.csv": [
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin"
+    ],
+    "aberdeenshire17-ballots/Ward3-FraserburghandDistrict_aberdeenshire17-03.csv": [
+        "plurality",
+        "IRV",
+        "top-3-truncation"
+    ],
+    "aberdeenshire17-ballots/Ward9-EllonandDistrict_aberdeenshire17-09.csv": [
+        "borda-om"
+    ],
+    "aberdeenshire17-ballots/Ward10-WestGarioch_aberdeenshire17-10.csv": [
+        "borda-om"
+    ],
+    "aberdeen2012/Ward8-GeorgeStreet-Harbour_aberdeen12-08.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "aberdeen2012/Ward2-BridgeofDon_aberdeen12-02.csv": [
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "aberdeen2012/Ward1-Dyce-Bucksburn-Danestone_aberdeen12-01.csv": [
+        "plurality"
+    ],
+    "aberdeen2012/Ward7-Midstocket-Rosemount_aberdeen12-07.csv": [
+        "plurality"
+    ],
+    "aberdeen2012/Ward13-Kincorth-Loirston_aberdeen12-13.csv": [
+        "plurality"
+    ],
+    "fife17-ballots/Ward4-DunfermlineSouth_fife17-04.csv": [
+        "plurality",
+        "IRV",
+        "top-two",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin"
+    ],
+    "fife17-ballots/Ward3-DunfermlineCentral_fife17-03.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "fife17-ballots/Ward19-EastNeuk&Landward_fife17-19.csv": [
+        "plurality"
+    ],
+    "fife17-ballots/Ward12-KirkcaldyEast_fife17-12.csv": [
+        "plurality",
+        "borda-pm",
+        "bucklin",
+        "approval"
+    ],
+    "fife17-ballots/Ward22-Buckhaven,Methil&WemyssVillages_fife17-22.csv": [
+        "borda-om"
+    ],
+    "fife17-ballots/Ward5-Rosyth_fife17-05.csv": [
+        "plurality"
+    ],
+    "fife17-ballots/Ward9-Burntisland,Kinghorn&WesternKirkcaldy_fife17-09.csv": [
+        "plurality",
+        "borda-pm",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "fife17-ballots/Ward2-DunfermlineNorth_fife17-02.csv": [
+        "plurality",
+        "top-two",
+        "borda-om",
+        "top-3-truncation"
+    ],
+    "fife17-ballots/Ward11-KirkcaldyCentral_fife17-11.csv": [
+        "plurality",
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "fife17-ballots/Ward21-Leven,Kennoway&Largo_fife17-21.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "e-renfs12-ballots/NeilstonUplawmoorandNewtonMearnsNorthWard_e-renfs12-01.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "e-renfs12-ballots/NetherleeStamperlandandWilliamwoodWard_e-renfs12-04.csv": [
+        "plurality"
+    ],
+    "e-lothian17-ballots/DunbarandEastLinton_e-lothian17-06.csv": [
+        "plurality",
+        "IRV"
+    ],
+    "e-lothian17-ballots/Tranent,WallyfordandMacmerry_e-lothian17-03.csv": [
+        "plurality"
+    ],
+    "e-lothian17-ballots/Musselburgh_e-lothian17-01.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "e-lothian17-ballots/HaddingtonandLammermuir_e-lothian17-05.csv": [
+        "plurality"
+    ],
+    "w-duns22/Ward5-ClydebankCentral_west dunbartonshire,2022,ward 5.csv": [
+        "approval"
+    ],
+    "w-duns22/Ward1-Lomond_west dunbartonshire,2022,ward 1.csv": [
+        "plurality",
+        "bucklin",
+        "approval"
+    ],
+    "w-duns22/Ward3-Dumbarton_west dunbartonshire,2022,ward 3.csv": [
+        "plurality"
+    ],
+    "e-renfs22/Ward2\u2010NewtonMearnsNorthandNeilston_ward2_copy.csv": [
+        "plurality",
+        "IRV",
+        "top-two"
+    ],
+    "e-renfs22/Ward5\u2010NewtonMearnsSouthandEaglesham_ward5_copy.csv": [
+        "plurality",
+        "borda-pm",
+        "borda-avg",
+        "bucklin",
+        "approval"
+    ],
+    "e-renfs22/Ward4\u2010ClarkstonNetherleeandWilliamwood_ward4_copy.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "e-renfs22/Ward3\u2010GiffnockandThornliebank_ward3_copy.csv": [
+        "plurality",
+        "IRV",
+        "top-two"
+    ],
+    "w-duns17-ballots/Leven_w-duns17-02.csv": [
+        "borda-pm",
+        "bucklin",
+        "approval"
+    ],
+    "w-duns17-ballots/Lomond_w-duns17-01.csv": [
+        "plurality",
+        "borda-om",
+        "top-3-truncation"
+    ],
+    "aberdeen2022/Midstocket-RosemountWard_Ward7.csv": [
+        "approval"
+    ],
+    "aberdeen2022/Dyce-Bucksburn-DanestoneWard_Ward1.csv": [
+        "bucklin"
+    ],
+    "aberdeen2022/LowerDeesideWard_Ward9.csv": [
+        "plurality",
+        "IRV",
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "stirling17-ballots/StirlingEast_stirling17-06.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "stirling17-ballots/ForthandEndrick_stirling17-02.csv": [
+        "approval"
+    ],
+    "stirling17-ballots/StirlingNorth_stirling17-04.csv": [
+        "plurality",
+        "approval"
+    ],
+    "stirling17-ballots/Bannockburn_stirling17-07.csv": [
+        "approval"
+    ],
+    "stirling17-ballots/StirlingWest_stirling17-05.csv": [
+        "borda-om",
+        "bucklin"
+    ],
+    "stirling17-ballots/DunblaneandBridgeofAllan_stirling17-03.csv": [
+        "borda-pm",
+        "borda-avg",
+        "top-3-truncation",
+        "bucklin",
+        "approval"
+    ],
+    "dumgal12-ballots/LocharWard_dumgal12-09.csv": [
+        "plurality"
+    ],
+    "dumgal12-ballots/AnnandaleSouthWard_dumgal12-11.csv": [
+        "plurality"
+    ],
+    "dumgal12-ballots/MidGallowayWard_dumgal12-03.csv": [
+        "plurality"
+    ],
+    "dumgal12-ballots/AnnandaleEastandEskdaleWard_dumgal12-13.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "dumgal12-ballots/NorthWestDumfriesWard_dumgal12-07.csv": [
+        "plurality",
+        "top-two",
+        "borda-pm",
+        "borda-om",
+        "borda-avg",
+        "top-3-truncation"
+    ],
+    "dumgal12-ballots/AnnandaleNorthWard_dumgal12-12.csv": [
+        "plurality",
+        "top-two"
+    ],
+    "dumgal12-ballots/AbbeyWard_dumgal12-06.csv": [
+        "plurality",
+        "IRV",
+        "top-two"
+    ],
+    "w-lothian12-ballots/Bathgate_w-lothian12-08.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "w-lothian12-ballots/Broxburn,UphallandWinchburgh_w-lothian12-02.csv": [
+        "bucklin",
+        "approval"
+    ],
+    "w-lothian12-ballots/Linlithgow_w-lothian12-01.csv": [
+        "plurality"
+    ],
+    "e-ayrshire22/Ward6-IrvineValley_Ward6.csv": [
+        "bucklin",
+        "approval",
+        "approval"
+    ],
+    "e-ayrshire22/Ward3-KilmarnockWestandCrosshouse_Ward3.csv": [
+        "borda-om"
+    ],
+    "e-ayrshire22/Ward7-Ballochmyle_Ward7.csv": [
+        "plurality",
+        "top-3-truncation"
+    ],
+    "e-ayrshire22/Ward2-KilmarnockNorth_Ward2.csv": [
+        "approval"
+    ],
+    "e-ayrshire22/Ward1-Annick_Ward1.csv": [
+        "plurality",
+        "IRV",
+        "borda-om",
+        "bucklin"
+    ]
+}{
+    "dumgal17-ballots/Nith_dumgal17-09.csv": [
+        "smith_plurality"
+    ],
+    "dumgal17-ballots/CastleDouglasandCrocketford_dumgal17-04.csv": [
+        "smith_plurality"
+    ],
+    "dumgal17-ballots/NorthWestDumfries_dumgal17-06.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "dumgal17-ballots/MidandUpperNithsdale_dumgal17-07.csv": [
+        "smith_plurality"
+    ],
+    "w-lothian17-ballots/Ward3-LivingstonNorth_w-lothian17-03.csv": [
+        "smith_plurality"
+    ],
+    "glasgow12/Ward6Pollokshields_glasgow12-06.csv": [
+        "smith_plurality"
+    ],
+    "stirling12-ballots/BannockburnWard_stirling12-07.csv": [
+        "smith_plurality"
+    ],
+    "stirling12-ballots/StirlingEastWard_stirling12-06.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "stirling12-ballots/TrossachsandTeithWard_stirling12-01.csv": [
+        "smith_plurality"
+    ],
+    "stirling12-ballots/ForthandEndrickWard_stirling12-02.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "stirling12-ballots/CastleWard_stirling12-04.csv": [
+        "smith_plurality"
+    ],
+    "glasgow2007 preflib/Linn_linn.csv": [
+        "smith_plurality"
+    ],
+    "glasgow2007 preflib/SouthsideCentral_southsidecentral.csv": [
+        "smith_plurality"
+    ],
+    "glasgow2007 preflib/Bailliestonward_baillieston.csv": [
+        "smith_plurality"
+    ],
+    "glasgow2007 preflib/Langside_langside.csv": [
+        "smith_plurality"
+    ],
+    "glasgow2007 preflib/Greaterpollok_greater pollok.csv": [
+        "smith_plurality"
+    ],
+    "glasgow2007 preflib/Craigtonward_craigton.csv": [
+        "smith_plurality"
+    ],
+    "glasgow2007 preflib/Canalward_canal.csv": [
+        "smith_plurality"
+    ],
+    "glasgow2007 preflib/Andersonward_anderston.csv": [
+        "smith_plurality"
+    ],
+    "glasgow2007 preflib/Partick_partick.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "glasgow2007 preflib/EastCentre_eastcentre.csv": [
+        "smith_plurality"
+    ],
+    "glasgow2007 preflib/Newlands_newlands.csv": [
+        "smith_plurality"
+    ],
+    "glasgow2007 preflib/Hillhead_hillhead.csv": [
+        "smith_plurality"
+    ],
+    "glasgow2007 preflib/Shettleston_shettleston.csv": [
+        "smith_plurality"
+    ],
+    "fife12-ballots/RosythWard_fife12-05.csv": [
+        "smith_plurality"
+    ],
+    "fife12-ballots/TayBridgeheadWard_fife12-18.csv": [
+        "smith_plurality"
+    ],
+    "fife12-ballots/GlenrothesNorthLeslieAndMarkinchWard_fife12-15.csv": [
+        "smith_plurality"
+    ],
+    "fife12-ballots/DunfermlineSouthWard_fife12-04.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "fife12-ballots/StAndrewsWard_fife12-19.csv": [
+        "smith_plurality"
+    ],
+    "fife12-ballots/DunfermlineNorthWard_fife12-02.csv": [
+        "smith_plurality"
+    ],
+    "e-lothian12-ballots/Ward2MusselburghEastandCarberry_e-lothian12-02.csv": [
+        "smith_plurality"
+    ],
+    "e-lothian12-ballots/Ward7DunbarandEastLinton_e-lothian12-07.csv": [
+        "smith_plurality"
+    ],
+    "e-renfs17-ballots/Clarkston,NetherleeandWilliamwood_e-renfs17-4.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "e-renfs17-ballots/GiffnockandThornliebank_e-renfs17-3.csv": [
+        "smith_plurality"
+    ],
+    "moray22/Ward5-HeldonandLaich_file141902.csv": [
+        "smith_plurality"
+    ],
+    "moray22/Ward7-ElginCitySouth_file141915.csv": [
+        "smith_plurality"
+    ],
+    "moray22/Ward6-ElginCityNorth_file141913.csv": [
+        "smith_plurality"
+    ],
+    "eilean-siar22/Ward9Ste\u00f2rnabhaghaTuath_ward09_preferenceprofile.csv": [
+        "smith_plurality"
+    ],
+    "glasgow22/Ward15Maryhill_Ward15.csv": [
+        "smith_plurality"
+    ],
+    "glasgow22/Ward22Dennistoun_Ward22.csv": [
+        "smith_plurality"
+    ],
+    "glasgow22/Ward12VictoriaPark_Ward12.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "glasgow22/Ward8SouthsideCentral_Ward8.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "glasgow22/Ward19Shettleston_Ward19.csv": [
+        "smith_plurality"
+    ],
+    "glasgow22/Ward2Newlands-Auldburn_Ward2.csv": [
+        "smith_plurality"
+    ],
+    "glasgow22/Ward4Cardonald_Ward4.csv": [
+        "smith_plurality"
+    ],
+    "glasgow22/Ward5Govan_Ward5.csv": [
+        "smith_plurality"
+    ],
+    "glasgow22/Ward10Anderston-City-Yorkhill_Ward10.csv": [
+        "smith_irv"
+    ],
+    "aberdeenshire12-ballots/MearnsWard_aberdeenshire12-19.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "aberdeenshire12-ballots/WesthillandDistrictWard_aberdeenshire12-13.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "aberdeenshire12-ballots/HuntlyStrathbogieandHoweofAlfordWard_aberdeenshire12-14.csv": [
+        "smith_plurality"
+    ],
+    "sc-borders22/Ward2-TweeddaleEast_sc borders,2022,ward 2.csv": [
+        "smith_plurality"
+    ],
+    "sc-borders22/Ward1-TweeddaleWest_sc borders,2022,ward 1.csv": [
+        "smith_plurality"
+    ],
+    "inverclyde17-ballots/InverclydeCentral_inverclyde17-03.csv": [
+        "smith_plurality"
+    ],
+    "e-lothian22/Ward6-DunbarandEastLinton_Ward6.csv": [
+        "smith_plurality"
+    ],
+    "e-lothian22/Ward5-HaddingtonandLammermuir_Ward5.csv": [
+        "smith_plurality"
+    ],
+    "s-ayrshire12-ballots/Ward2-Prestwick_s-ayrshire12-02.csv": [
+        "smith_plurality"
+    ],
+    "e-duns17-ballots/Milngavie_e-duns17-01.csv": [
+        "smith_plurality"
+    ],
+    "e-duns17-ballots/LenzieandKirkintillochSouth_e-duns17-06.csv": [
+        "smith_plurality"
+    ],
+    "e-duns17-ballots/BishopbriggsSouth_e-duns17-05.csv": [
+        "smith_plurality"
+    ],
+    "e-duns17-ballots/BearsdenSouth_e-duns17-03.csv": [
+        "smith_plurality"
+    ],
+    "e-duns17-ballots/BishopbriggsNorthandCampsie_e-duns17-04.csv": [
+        "smith_plurality"
+    ],
+    "angus17-ballots/ForfarandDistrict_angus17-03.csv": [
+        "smith_plurality"
+    ],
+    "angus17-ballots/MontroseandDistrict_angus17-08.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "angus17-ballots/CarnoustieandDistrict_angus17-05.csv": [
+        "smith_plurality"
+    ],
+    "angus17-ballots/ArbroathEastandLunan_angus17-07.csv": [
+        "smith_plurality"
+    ],
+    "angus17-ballots/BrechinandEdzell_angus17-02.csv": [
+        "smith_plurality"
+    ],
+    "moray12-ballots/HeldonandLaichWard_moray12-05.csv": [
+        "smith_plurality"
+    ],
+    "moray12-ballots/ElginCityNorthWard_moray12-06.csv": [
+        "smith_plurality"
+    ],
+    "moray12-ballots/SpeysideGlenlivetWard_moray12-01.csv": [
+        "smith_plurality"
+    ],
+    "clackmannanshire12-ballots/ClackmannanshireEast_clacks12-05.csv": [
+        "smith_plurality"
+    ],
+    "n-ayrshire22/Preference-Profile-Saltcoats-and-Stevenston_copy.csv": [
+        "smith_plurality"
+    ],
+    "n-ayrshire22/Ward01-NorthCoast_Preference-Profile-North-Coast_copy.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "highland17-ballots/Ward8-DingwallandSeaforth_highland17-08.csv": [
+        "smith_plurality"
+    ],
+    "highland17-ballots/Ward20-BadenochandStrathspey_highland17-20.csv": [
+        "smith_plurality"
+    ],
+    "highland17-ballots/Ward7-TainandEasterRoss_highland17-07.csv": [
+        "smith_plurality"
+    ],
+    "highland17-ballots/Ward19-InvernessSouth_highland17-19.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "highland17-ballots/Ward9-BlackIsle_highland17-09.csv": [
+        "smith_plurality"
+    ],
+    "highland17-ballots/Ward1-North,WestandCentralSutherland_highland17-01.csv": [
+        "smith_plurality"
+    ],
+    "highland17-ballots/Ward5-WesterRoss,StrathpefferandLochalsh_highland17-05.csv": [
+        "smith_plurality"
+    ],
+    "s-lanarks17-ballots/Ward18-HamiltonWestandEarnock_s-lanarks17-18.csv": [
+        "smith_plurality"
+    ],
+    "s-lanarks17-ballots/Ward2-ClydesdaleNorth_s-lanarks17-02.csv": [
+        "smith_plurality"
+    ],
+    "s-lanarks17-ballots/Ward4-ClydesdaleSouth_s-lanarks17-04.csv": [
+        "smith_plurality"
+    ],
+    "s-lanarks17-ballots/Ward11-RutherglenSouth_s-lanarks17-11.csv": [
+        "smith_plurality"
+    ],
+    "s-lanarks17-ballots/Ward16-BothwellandUddingston_s-lanarks17-16.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "s-lanarks17-ballots/Ward5-AvondaleandStonehouse_s-lanarks17-05.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "s-lanarks17-ballots/Ward17-HamiltonNorthandEast_s-lanarks17-17.csv": [
+        "smith_plurality"
+    ],
+    "s-lanarks17-ballots/Ward19-HamiltonSouth_s-lanarks17-19.csv": [
+        "smith_plurality"
+    ],
+    "s-lanarks17-ballots/Ward1-ClydesdaleWest_s-lanarks17-01.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "s-lanarks17-ballots/Ward20-Larkhall_s-lanarks17-20.csv": [
+        "smith_plurality"
+    ],
+    "eilean-siar12-ballots/LochaTuath_eilean-siar12-08.csv": [
+        "smith_plurality"
+    ],
+    "eilean-siar12-ballots/Sgir'UigeAgusCeannATuathNanLoch_eilean-siar12-04.csv": [
+        "smith_plurality"
+    ],
+    "e-ayrshire17-ballots/KilmarnockWestandCrosshouse_e-ayrshire17-03.csv": [
+        "smith_plurality"
+    ],
+    "angus22/Ward8-MontroseandDistrict_ward8.csv": [
+        "smith_plurality"
+    ],
+    "angus22/Ward6-ArbroathWestLethamandFriockheim_ward6.csv": [
+        "smith_plurality"
+    ],
+    "angus22/Ward3-ForfarandDistrict_ward3.csv": [
+        "smith_plurality"
+    ],
+    "angus22/Ward2-BrechinandEdzell_ward2.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "angus22/Ward4-MonifiethandSidlaw_ward4.csv": [
+        "smith_plurality"
+    ],
+    "angus22/Ward5-CarnoustieandDistrict_ward5.csv": [
+        "smith_plurality"
+    ],
+    "w-lothian22/Ward7-WhitburnandBlackburn_west lothian,2022,ward 7.csv": [
+        "smith_plurality"
+    ],
+    "w-lothian22/Ward6-FauldhouseandtheBreichValley_west lothian,2022,ward 6.csv": [
+        "smith_plurality"
+    ],
+    "w-lothian22/Ward1-Linlithgow_west lothian,2022,ward 1.csv": [
+        "smith_plurality"
+    ],
+    "renfs12-ballots/6.PaisleySouthWestWard_renfs12-06.csv": [
+        "smith_plurality"
+    ],
+    "renfs12-ballots/10.BishoptonBridgeofWeir&LangbankWard_renfs12-10.csv": [
+        "smith_plurality"
+    ],
+    "renfs12-ballots/2.RenfrewSouthGallowhillWard_renfs12-02.csv": [
+        "smith_plurality"
+    ],
+    "perth-kinross12-ballots/Kinross-shire_perth-kinross12-08.csv": [
+        "smith_plurality"
+    ],
+    "perth-kinross12-ballots/CarseofGowrie_perth-kinross12-01.csv": [
+        "smith_plurality"
+    ],
+    "perth-kinross12-ballots/Strathtay_perth-kinross12-05.csv": [
+        "smith_plurality"
+    ],
+    "perth-kinross12-ballots/Strathearn_perth-kinross12-06.csv": [
+        "smith_plurality"
+    ],
+    "perth-kinross12-ballots/AlmondandEarn_perth-kinross12-09.csv": [
+        "smith_plurality"
+    ],
+    "perth-kinross12-ballots/Strathmore_perth-kinross12-02.csv": [
+        "smith_plurality"
+    ],
+    "renfs22/Preference_profile_for_Ward_7_Paisley_Southwest_copy.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "renfs22/profile_for_Ward_11_Bishopton_Bridge_of_Weir_and_Langbank_copy.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "renfs22/Preference_profile_for_Ward_8_Johnstone_South_and_Elderslie_copy.csv": [
+        "smith_plurality"
+    ],
+    "argyll-bute17-ballots/Cowal_argyll-bute17-06.csv": [
+        "smith_plurality"
+    ],
+    "argyll-bute17-ballots/KintyreandtheIslands_argyll-bute17-02.csv": [
+        "smith_plurality"
+    ],
+    "shetland17/Ward1-NorthIsles_shetland17-01.csv": [
+        "smith_plurality"
+    ],
+    "shetland17/Ward7-LerwickSouth_shetland17-07.csv": [
+        "smith_plurality"
+    ],
+    "n-ayrshire17-ballots/Stevenston_n-ayrshire17-04.csv": [
+        "smith_plurality"
+    ],
+    "n-ayrshire17-ballots/DalryandWestKilbride_n-ayrshire17-06.csv": [
+        "smith_plurality"
+    ],
+    "n-ayrshire17-ballots/ArdrossanandArran_n-ayrshire17-05.csv": [
+        "smith_plurality"
+    ],
+    "n-ayrshire17-ballots/KilbirnieandBeith_n-ayrshire17-07.csv": [
+        "smith_plurality"
+    ],
+    "aberdeenshire22/preferenceprofile_v0001_ward-9-ellon-and-district_06052022_172124.csv": [
+        "smith_irv"
+    ],
+    "aberdeenshire22/v0001_ward-16-banchory-and-mid-deeside_06052022_172124.csv": [
+        "smith_plurality"
+    ],
+    "aberdeenshire22/ward-14-huntly-strathbogie-and-howe-of-alford_06052022_172124.csv": [
+        "smith_plurality"
+    ],
+    "aberdeenshire22/v0001_ward-13-westhill-and-district_06052022_172124.csv": [
+        "smith_plurality"
+    ],
+    "aberdeenshire22/preferenceprofile_v0001_ward-8-mid-formartine_06052022_172123.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "aberdeenshire22/v0001_ward-11-inverurie-and-district_06052022_172124.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "aberdeenshire22/v0001_ward-3-fraserburgh-and-district_06052022_172124.csv": [
+        "smith_plurality"
+    ],
+    "aberdeenshire22/v0001_ward-5-peterhead-north-and-rattray_06052022_172118.csv": [
+        "smith_plurality"
+    ],
+    "aberdeenshire22/v0001_ward-7-turriff-and-district_06052022_172118.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "edinburgh22/Ward7-Sighthill-Gorgie_ward7.csv": [
+        "smith_plurality"
+    ],
+    "edinburgh22/Ward10-Morningside_ward10.csv": [
+        "smith_irv"
+    ],
+    "edinburgh22/Ward2-PentlandHills_ward2.csv": [
+        "smith_plurality"
+    ],
+    "edinburgh22/Ward11-CityCentre_ward11.csv": [
+        "smith_plurality"
+    ],
+    "edinburgh22/Ward9-Fountainbridge-Craiglockhart_ward9.csv": [
+        "smith_plurality"
+    ],
+    "edinburgh22/Ward14-Craigentinny-Duddingston_ward14.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "edinburgh22/Ward4-Forth_ward4.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "perth-kinross22/Ward9-AlmondandEarn_Ward9.csv": [
+        "smith_plurality"
+    ],
+    "perth-kinross22/Ward4-Highland_Ward4.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "perth-kinross22/Ward8-Kinross-Shire_Ward8.csv": [
+        "smith_plurality"
+    ],
+    "perth-kinross22/Ward6-Strathearn_Ward6.csv": [
+        "smith_plurality"
+    ],
+    "falkirk17-ballots/Ward9-UpperBraes_falkirk17-09.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "falkirk17-ballots/Ward7-FalkirkSouth_falkirk17-07.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "falkirk17-ballots/Ward4-Carse,KinnairdandTryst_falkirk17-04.csv": [
+        "smith_plurality"
+    ],
+    "n-lanarks17-ballots/Ward5-Stepps,ChrystonandMuirhead_n-lanarks17-005.csv": [
+        "smith_plurality"
+    ],
+    "n-lanarks17-ballots/Ward17-MotherwellWest_n-lanarks17-017.csv": [
+        "smith_plurality"
+    ],
+    "n-lanarks17-ballots/Ward18-MotherwellNorth_n-lanarks17-018.csv": [
+        "smith_plurality"
+    ],
+    "n-lanarks17-ballots/Ward4-CumbernauldEast_n-lanarks17-004.csv": [
+        "smith_plurality"
+    ],
+    "n-lanarks17-ballots/Ward8-AirdrieNorth_n-lanarks17-008.csv": [
+        "smith_plurality"
+    ],
+    "n-lanarks17-ballots/Ward7-CoatbridgeNorth_n-lanarks17-007.csv": [
+        "smith_plurality"
+    ],
+    "highland22/PreferenceProfile_V0001_Cromarty_Firth_06052022_161538.csv": [
+        "smith_plurality"
+    ],
+    "highland22/PreferenceProfile_V0001_Inverness_Central_06052022_161539.csv": [
+        "smith_plurality"
+    ],
+    "highland22/PreferenceProfile_V0001_Nairn_and_Cawdor_06052022_161539.csv": [
+        "smith_plurality"
+    ],
+    "highland22/BlackIsle_PreferenceProfile_V0001_Black_Isle_06052022_161539.csv": [
+        "smith_plurality"
+    ],
+    "highland22/PreferenceProfile_V0001_Inverness_Millburn_06052022_161539.csv": [
+        "smith_plurality"
+    ],
+    "highland22/PreferenceProfile_V0001_Tain_and_Easter_Ross_06052022_161537.csv": [
+        "smith_plurality"
+    ],
+    "highland22/PreferenceProfile_V0001_Aird_and_Loch_Ness_06052022_161539.csv": [
+        "smith_plurality"
+    ],
+    "edinburgh12-ballots/LeithWalkWard_edinburgh12-12.csv": [
+        "smith_plurality"
+    ],
+    "edinburgh12-ballots/Meadows_MorningsideWard_edinburgh12-10.csv": [
+        "smith_plurality"
+    ],
+    "edinburgh12-ballots/PentlandHillsWard_edinburgh12-02.csv": [
+        "smith_plurality"
+    ],
+    "edinburgh12-ballots/CityCentreWard_edinburgh12-11.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "edinburgh12-ballots/Corstorphine_MurrayfieldWard_edinburgh12-06.csv": [
+        "smith_plurality"
+    ],
+    "e-duns22-ballots/Ward7-KirkintillochEast&North&Twechar_ward7.csv": [
+        "smith_plurality"
+    ],
+    "e-duns22-ballots/Ward1-Milngavie_ward1.csv": [
+        "smith_plurality"
+    ],
+    "e-duns22-ballots/Ward5-BishopbriggsSouth_ward5.csv": [
+        "smith_plurality"
+    ],
+    "e-duns22-ballots/Ward3-BearsdenSouth_ward3.csv": [
+        "smith_plurality"
+    ],
+    "e-duns22-ballots/Ward6-Lenzie&KirkintillochSouth_ward6.csv": [
+        "smith_plurality"
+    ],
+    "dundee12-ballots/TheFerryWard_dundee12-08.csv": [
+        "smith_plurality"
+    ],
+    "dundee22/Ward5-Maryfield_Ward5.csv": [
+        "smith_plurality"
+    ],
+    "stirling22/preferenceprofile_v0001_ward-5-stirling-west_06052022_124253.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "stirling22/preferenceprofile_v0001_ward-2-forth-and-endrick_06052022_124253.csv": [
+        "smith_plurality"
+    ],
+    "stirling22/v0001_ward-3-dunblane-and-bridge-of-allan_06052022_124253.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "s-lanarks22/Ward19-HamiltonSouth_ward_19_hamilton_south_preference_profile.csv": [
+        "smith_plurality"
+    ],
+    "s-lanarks22/Ward15-Blantyre_ward_15_blantyre_preference_profile.csv": [
+        "smith_plurality"
+    ],
+    "s-lanarks22/Ward11-RutherglenSouth_ward_11_rutherglen_south_preference_profile.csv": [
+        "smith_plurality"
+    ],
+    "s-lanarks22/Ward3-ClydesdaleEast_ward_3_clydesdale_east_preference_profile.csv": [
+        "smith_plurality"
+    ],
+    "aberdeen2017/TorryFerryhillWard_aberdeen17-12.csv": [
+        "smith_plurality"
+    ],
+    "aberdeen2017/DyceBucksburnDanestoneWard_aberdeen17-01.csv": [
+        "smith_plurality"
+    ],
+    "aberdeen2017/BridgeofDonWard_aberdeen17-02.csv": [
+        "smith_plurality"
+    ],
+    "aberdeen2017/MidstocketRosemountWard_aberdeen17-07.csv": [
+        "smith_plurality"
+    ],
+    "aberdeen2017/TillydroneSeatonOldAberdeenWard_aberdeen17-06.csv": [
+        "smith_plurality"
+    ],
+    "sc-borders12-ballots/SelkirkshireWard_sc-borders12-04.csv": [
+        "smith_plurality"
+    ],
+    "argyll22/Ward9-LomondNorth_ward9.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "argyll22/Ward8-IsleofBute_ward8.csv": [
+        "smith_plurality"
+    ],
+    "argyll22/Ward10-HelensburghCentral_ward10.csv": [
+        "smith_plurality"
+    ],
+    "orkney22/Ward1-KirkwallEastWard_ward1.csv": [
+        "smith_plurality"
+    ],
+    "n-lanarks22/Ward1-Kilsyth_Preference Profile Ward 1 Kilsyth.csv": [
+        "smith_plurality"
+    ],
+    "n-lanarks22/Ward3-CumbernauldSouth_Preference Profile Ward 3 Cumbernauld South.csv": [
+        "smith_plurality"
+    ],
+    "n-lanarks22/Ward9-AirdrieCentral_Preference Profile WArd 9 Airdrie Central.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "n-lanarks22/Ward15-Bellshill_Preference Profile WArd 15 Bellshill.csv": [
+        "smith_plurality"
+    ],
+    "n-lanarks22/Ward14-Thorniewood_Preference Profile WArd 14 Thorniewood.csv": [
+        "smith_plurality"
+    ],
+    "n-lanarks22/Preference Profile Ward 5 Stepps, Chryston and Muirhead.csv": [
+        "smith_plurality"
+    ],
+    "sc-borders17/Ward1-TweeddaleWest_sc-borders17-01.csv": [
+        "smith_plurality"
+    ],
+    "sc-borders17/Ward9-JedburghandDistrict_sc-borders17-09.csv": [
+        "smith_plurality"
+    ],
+    "edinburgh17-ballots/Ward11-CityCentre_edinburgh17-11.csv": [
+        "smith_plurality"
+    ],
+    "edinburgh17-ballots/Ward5-Inverleith_edinburgh17-05.csv": [
+        "smith_plurality"
+    ],
+    "edinburgh17-ballots/Ward15-Southside-Newington_edinburgh17-15.csv": [
+        "smith_plurality"
+    ],
+    "edinburgh17-ballots/Ward14-Craigentinny-Duddingston_edinburgh17-14.csv": [
+        "smith_plurality"
+    ],
+    "edinburgh17-ballots/Ward6-CorstorphineMurrayfield_edinburgh17-06.csv": [
+        "smith_plurality"
+    ],
+    "edinburgh17-ballots/Ward10-Morningside_edinburgh17-10.csv": [
+        "smith_plurality"
+    ],
+    "edinburgh17-ballots/Ward4-Forth_edinburgh17-04.csv": [
+        "smith_plurality"
+    ],
+    "edinburgh17-ballots/Ward12-LeithWalk_edinburgh17-12.csv": [
+        "smith_irv"
+    ],
+    "edinburgh17-ballots/Ward9-FountainbridgeCraiglockhart_edinburgh17-09.csv": [
+        "smith_plurality"
+    ],
+    "edinburgh17-ballots/Ward7-SighthillGorgie_edinburgh17-07.csv": [
+        "smith_plurality"
+    ],
+    "midlothian17-ballots/MidlothianEast_midlothian17-05.csv": [
+        "smith_plurality"
+    ],
+    "midlothian17-ballots/MidlothianWest_midlothian17-04.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "midlothian17-ballots/Penicuik_midlothian17-01.csv": [
+        "smith_plurality"
+    ],
+    "midlothian17-ballots/Dalkeith_midlothian17-03.csv": [
+        "smith_plurality"
+    ],
+    "n-lanarks12-ballots/Ward2CumbernauldNorth_n-lanarks12-02.csv": [
+        "smith_plurality"
+    ],
+    "n-lanarks12-ballots/Ward4AbronhillKildrumandTheVillage_n-lanarks12-04.csv": [
+        "smith_plurality"
+    ],
+    "n-lanarks12-ballots/Ward16MotherwellWest_n-lanarks12-16.csv": [
+        "smith_plurality"
+    ],
+    "n-lanarks12-ballots/Ward12Fortissat_n-lanarks12-12.csv": [
+        "smith_plurality"
+    ],
+    "n-lanarks12-ballots/Ward7AirdrieNorth_n-lanarks12-07.csv": [
+        "smith_plurality"
+    ],
+    "glasgow17-ballots/Ward8SouthsideCentral_glasgow17-008.csv": [
+        "smith_plurality"
+    ],
+    "glasgow17-ballots/Ward13GarscaddenScotstounhill_glasgow17-013.csv": [
+        "smith_plurality"
+    ],
+    "glasgow17-ballots/Ward14DrumchapelAnniesland_glasgow17-014.csv": [
+        "smith_plurality"
+    ],
+    "glasgow17-ballots/Ward18EastCentre_glasgow17-018.csv": [
+        "smith_plurality"
+    ],
+    "glasgow17-ballots/Ward5Govan_glasgow17-005.csv": [
+        "smith_plurality"
+    ],
+    "n-ayrshire12-ballots/Ward01-IrvineWest_n-ayrshire12-01.csv": [
+        "smith_plurality"
+    ],
+    "n-ayrshire12-ballots/Ward05-ArdrossanandArran_n-ayrshire12-05.csv": [
+        "smith_irv"
+    ],
+    "perth-kinross17-ballots/Ward6-Strathearn_perth-kinross17-06.csv": [
+        "smith_plurality"
+    ],
+    "perth-kinross17-ballots/Ward8-Kinross-shire_perth-kinross17-08.csv": [
+        "smith_plurality"
+    ],
+    "clackmannanshire22/Ward4ClackmannanshireSouth_ward4.csv": [
+        "smith_plurality"
+    ],
+    "clackmannanshire22/Ward5ClackmannanshireEast_ward5.csv": [
+        "smith_plurality"
+    ],
+    "renfs17-ballots/Ward10-Houston,CrossleeandLinwood_renfs17-10.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "renfs17-ballots/Ward1-RenfrewNorthandBraehead_renfs17-01.csv": [
+        "smith_plurality"
+    ],
+    "renfs17-ballots/Ward3-PaisleyNortheastandRalston_renfs17-03.csv": [
+        "smith_plurality"
+    ],
+    "renfs17-ballots/Ward7-PaisleySouthwest_renfs17-07.csv": [
+        "smith_plurality"
+    ],
+    "argyll-bute12-ballots/COWALWARD_argyll-bute12-06.csv": [
+        "smith_plurality"
+    ],
+    "argyll-bute12-ballots/OBANSOUTHANDTHEISLESWARD_argyll-bute12-04.csv": [
+        "smith_plurality"
+    ],
+    "eilean-siar17-ballots/SgireanRubha_eilean-siar17-05.csv": [
+        "smith_plurality"
+    ],
+    "eilean-siar17-ballots/Ste\u00f2rnabhaghaTuath_eilean-siar17-07.csv": [
+        "smith_plurality"
+    ],
+    "e-ayrshire12-ballots/Ward1Annick_e-ayrshire12-01.csv": [
+        "smith_plurality"
+    ],
+    "e-ayrshire12-ballots/Ward7Ballochmyle_e-ayrshire12-07.csv": [
+        "smith_plurality"
+    ],
+    "e-ayrshire12-ballots/Ward6IrvineValley_e-ayrshire12-06.csv": [
+        "smith_plurality"
+    ],
+    "clackmannanshire17-ballots/Ward1ClackmannanshireWest_clacks17-001.csv": [
+        "smith_plurality"
+    ],
+    "clackmannanshire17-ballots/Ward2ClackmannanshireNorth_clacks17-002.csv": [
+        "smith_plurality"
+    ],
+    "highland12-ballots/InvernessSouthWard_highland12-20.csv": [
+        "smith_plurality"
+    ],
+    "highland12-ballots/NorthWestandCentralSutherlandWard_highland12-01.csv": [
+        "smith_plurality"
+    ],
+    "highland12-ballots/InvernessWestWard_highland12-14.csv": [
+        "smith_plurality"
+    ],
+    "highland12-ballots/InvernessNess-sideWard_highland12-16.csv": [
+        "smith_plurality"
+    ],
+    "highland12-ballots/FortWilliamandArdnamurchanWard_highland12-22.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "s-lanarks12-ballots/Ward7-EastKilbrideCentralSouth_s-lanarks12-07.csv": [
+        "smith_plurality"
+    ],
+    "s-lanarks12-ballots/Ward9-EastKilbrideWest_s-lanarks12-09.csv": [
+        "smith_plurality"
+    ],
+    "dumgal22/Ward3-DeeandGlenkens_ward3.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "dumgal22/Ward7-MidandUpperNithsdale_ward7.csv": [
+        "smith_plurality"
+    ],
+    "dumgal22/Ward10-AnnandaleSouth_ward10.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "dumgal22/Ward11-AnnandaleNorth_ward11.csv": [
+        "smith_plurality"
+    ],
+    "dumgal22/Ward5-Abbey_ward5.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "s-ayrshire22/Ward2-Prestwick_south ayrshire,2022ward 2.csv": [
+        "smith_plurality"
+    ],
+    "s-ayrshire22/Ward6-Kyle_south ayrshire,2022ward 6.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "s-ayrshire22/Ward7-MayboleNorthCarrickandCoylton_south ayrshire,2022ward 7.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "s-ayrshire17-ballots/Maybole,NorthCarrickandCoylton_s-ayrshire17-07.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "s-ayrshire17-ballots/AyrNorth_s-ayrshire17-03.csv": [
+        "smith_plurality"
+    ],
+    "fife22/PreferenceProfile_V0001_Ward-11-Kirkcaldy-Central_06052022_145551.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "fife22/Ward5-Rosyth_PreferenceProfile_V0001_Ward-5-Rosyth_06052022_145544.csv": [
+        "smith_plurality"
+    ],
+    "fife22/PreferenceProfile_V0001_Ward-17-Tay-Bridgehead_06052022_145551.csv": [
+        "smith_plurality"
+    ],
+    "fife22/Ward-9-Burntisland-Kinghorn-and-Western-Kirkcaldy_06052022_145551.csv": [
+        "smith_plurality"
+    ],
+    "fife22/PreferenceProfile_V0001_Ward-4-Dunfermline-South_06052022_151924.csv": [
+        "smith_plurality"
+    ],
+    "fife22/V0001_Ward-16-Howe-Of-Fife-and-Tay-Coast_06052022_151928.csv": [
+        "smith_plurality"
+    ],
+    "scottish by-elections/Ward7-Strathallan_Perth and Kinross 2024 by-election Ward 7.csv": [
+        "smith_plurality"
+    ],
+    "scottish by-elections/Ward11Hillhead_Glasgow 2023 by-election Hillhead.csv": [
+        "smith_plurality"
+    ],
+    "scottish by-elections/Ward7-FalkirkSouth_Falkirk 2024 Ward 7 by-election.csv": [
+        "smith_plurality"
+    ],
+    "scottish by-elections/Ward14-InvernessCentral_Highland 2024 by-election Ward 14.csv": [
+        "smith_plurality"
+    ],
+    "scottish by-elections/Ward10-PerthCitySouth_Perth Kinross by-election 2020 South.csv": [
+        "smith_plurality"
+    ],
+    "scottish by-elections/Ward8-IsleofBute_Argyll Bute by-election Isle of Bute 2021.csv": [
+        "smith_plurality"
+    ],
+    "scottish by-elections/Glasgow by-election 2021 Ward 23 Partick East-Kelvindale.csv": [
+        "smith_plurality"
+    ],
+    "scottish by-elections/Stirling 2024 August by-election ward 3.csv": [
+        "smith_plurality"
+    ],
+    "scottish by-elections/Aberdeen_2023_by_election_Dyce_Bucksburn_Danestone.csv": [
+        "smith_plurality"
+    ],
+    "scottish by-elections/Ward10-PerthCitySouth_Perth Kinross 2017 by-election Ward 10.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "scottish by-elections/Ward13-InvernessWest_highland 2021 by-election Inverness West.csv": [
+        "smith_plurality"
+    ],
+    "angus12-ballots/MonifiethandSidlaw_angus12-04.csv": [
+        "smith_plurality"
+    ],
+    "angus12-ballots/KirriemuirandDean_angus12-01.csv": [
+        "smith_plurality"
+    ],
+    "angus12-ballots/ArbroathEastandLunan_angus12-07.csv": [
+        "smith_plurality"
+    ],
+    "angus12-ballots/ForfarandDistrict_angus12-03.csv": [
+        "smith_plurality"
+    ],
+    "moray17-ballots/SpeysideGlenlivet_moray17-01.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "moray17-ballots/ElginCitySouth_moray17-07.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "orkney17-ballots/WestMainlandWard_orkney17-04.csv": [
+        "smith_plurality"
+    ],
+    "inverclyde22/Ward3-InverclydeCentral_PreferenceProfile_Ward-3.csv": [
+        "smith_plurality"
+    ],
+    "aberdeenshire17-ballots/Ward17-NorthKincardine_aberdeenshire17-17.csv": [
+        "smith_plurality"
+    ],
+    "aberdeenshire17-ballots/Ward12-EastGarioch_aberdeenshire17-12.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "aberdeenshire17-ballots/Ward3-FraserburghandDistrict_aberdeenshire17-03.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "aberdeen2012/Ward1-Dyce-Bucksburn-Danestone_aberdeen12-01.csv": [
+        "smith_plurality"
+    ],
+    "aberdeen2012/Ward7-Midstocket-Rosemount_aberdeen12-07.csv": [
+        "smith_plurality"
+    ],
+    "aberdeen2012/Ward13-Kincorth-Loirston_aberdeen12-13.csv": [
+        "smith_plurality"
+    ],
+    "fife17-ballots/Ward4-DunfermlineSouth_fife17-04.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "fife17-ballots/Ward3-DunfermlineCentral_fife17-03.csv": [
+        "smith_plurality"
+    ],
+    "fife17-ballots/Ward19-EastNeuk&Landward_fife17-19.csv": [
+        "smith_plurality"
+    ],
+    "fife17-ballots/Ward12-KirkcaldyEast_fife17-12.csv": [
+        "smith_plurality"
+    ],
+    "fife17-ballots/Ward5-Rosyth_fife17-05.csv": [
+        "smith_plurality"
+    ],
+    "fife17-ballots/Ward9-Burntisland,Kinghorn&WesternKirkcaldy_fife17-09.csv": [
+        "smith_plurality"
+    ],
+    "fife17-ballots/Ward2-DunfermlineNorth_fife17-02.csv": [
+        "smith_plurality"
+    ],
+    "fife17-ballots/Ward11-KirkcaldyCentral_fife17-11.csv": [
+        "smith_plurality"
+    ],
+    "e-renfs12-ballots/NeilstonUplawmoorandNewtonMearnsNorthWard_e-renfs12-01.csv": [
+        "smith_plurality"
+    ],
+    "e-renfs12-ballots/NetherleeStamperlandandWilliamwoodWard_e-renfs12-04.csv": [
+        "smith_plurality"
+    ],
+    "e-lothian17-ballots/DunbarandEastLinton_e-lothian17-06.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "e-lothian17-ballots/Tranent,WallyfordandMacmerry_e-lothian17-03.csv": [
+        "smith_plurality"
+    ],
+    "e-lothian17-ballots/HaddingtonandLammermuir_e-lothian17-05.csv": [
+        "smith_plurality"
+    ],
+    "w-duns22/Ward1-Lomond_west dunbartonshire,2022,ward 1.csv": [
+        "smith_plurality"
+    ],
+    "w-duns22/Ward3-Dumbarton_west dunbartonshire,2022,ward 3.csv": [
+        "smith_plurality"
+    ],
+    "e-renfs22/Ward2\u2010NewtonMearnsNorthandNeilston_ward2_copy.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "e-renfs22/Ward5\u2010NewtonMearnsSouthandEaglesham_ward5_copy.csv": [
+        "smith_plurality"
+    ],
+    "e-renfs22/Ward3\u2010GiffnockandThornliebank_ward3_copy.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "w-duns17-ballots/Lomond_w-duns17-01.csv": [
+        "smith_plurality"
+    ],
+    "aberdeen2022/LowerDeesideWard_Ward9.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "stirling17-ballots/StirlingNorth_stirling17-04.csv": [
+        "smith_plurality"
+    ],
+    "dumgal12-ballots/LocharWard_dumgal12-09.csv": [
+        "smith_plurality"
+    ],
+    "dumgal12-ballots/AnnandaleSouthWard_dumgal12-11.csv": [
+        "smith_plurality"
+    ],
+    "dumgal12-ballots/MidGallowayWard_dumgal12-03.csv": [
+        "smith_plurality"
+    ],
+    "dumgal12-ballots/AnnandaleEastandEskdaleWard_dumgal12-13.csv": [
+        "smith_plurality"
+    ],
+    "dumgal12-ballots/NorthWestDumfriesWard_dumgal12-07.csv": [
+        "smith_plurality"
+    ],
+    "dumgal12-ballots/AnnandaleNorthWard_dumgal12-12.csv": [
+        "smith_plurality"
+    ],
+    "dumgal12-ballots/AbbeyWard_dumgal12-06.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ],
+    "w-lothian12-ballots/Bathgate_w-lothian12-08.csv": [
+        "smith_plurality"
+    ],
+    "w-lothian12-ballots/Linlithgow_w-lothian12-01.csv": [
+        "smith_plurality"
+    ],
+    "e-ayrshire22/Ward7-Ballochmyle_Ward7.csv": [
+        "smith_plurality"
+    ],
+    "e-ayrshire22/Ward1-Annick_Ward1.csv": [
+        "smith_plurality",
+        "smith_irv"
+    ]
+}
