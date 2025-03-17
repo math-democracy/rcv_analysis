@@ -84,60 +84,60 @@ def general_search(profile, num_cands, voteMethod, mod_ballot_method, diagnostic
 ###############################################################################
 
 ## misses lots of anomalies
-def general_search_fast(profile, num_cands, voteMethod, mod_ballot_method, diagnostic=False):
+# def general_search_fast(profile, num_cands, voteMethod, mod_ballot_method, diagnostic=False):
     
-    cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
-                  'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
-                  'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
-                  'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
-    full_cands = cand_names[:num_cands]
+#     cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+#                   'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
+#                   'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
+#                   'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+#     full_cands = cand_names[:num_cands]
     
-    ## restrict to top 12 candidates
-    scores = {cand: 0.0 for cand in full_cands}
-    for k in range(len(profile)):
-        ballot = profile.at[k, 'ballot']
-        scores[ballot[0]] += profile.at[k, 'Count']
-    cands = [cand for cand in full_cands if scores[cand]>0.5*max(scores.values())]
+#     ## restrict to top 12 candidates
+#     scores = {cand: 0.0 for cand in full_cands}
+#     for k in range(len(profile)):
+#         ballot = profile.at[k, 'ballot']
+#         scores[ballot[0]] += profile.at[k, 'Count']
+#     cands = [cand for cand in full_cands if scores[cand]>0.5*max(scores.values())]
     
     
-    winners = voteMethod(profile, cands, diagnostic=diagnostic)[0]
-    if len(winners)!=1:
-        print('##### WARNING: MULTIPLE WINNERS DETECTED ######')
-        return []
-    W=winners[0]
-    if diagnostic:
-        print(W)
+#     winners = voteMethod(profile, cands, diagnostic=diagnostic)[0]
+#     if len(winners)!=1:
+#         print('##### WARNING: MULTIPLE WINNERS DETECTED ######')
+#         return []
+#     W=winners[0]
+#     if diagnostic:
+#         print(W)
     
-    losers = cands.copy()
-    losers.remove(W)
-    if diagnostic:
-        print(losers)
+#     losers = cands.copy()
+#     losers.remove(W)
+#     if diagnostic:
+#         print(losers)
 
-    modified_ballot_list = []
-    for L in losers:
-        ## Make a copy of original profile to modify
-        new_profile = profile.copy(deep=True)
+#     modified_ballot_list = []
+#     for L in losers:
+#         ## Make a copy of original profile to modify
+#         new_profile = profile.copy(deep=True)
         
-        for k in range(len(new_profile)):
-            # if new_profile.at[k,'ballot']!='':
-            ## change the ballot in some way
-            oldBal = new_profile.at[k,'ballot']
-            newBal, modified = mod_ballot_method(curBal, W, L)
-            new_profile.at[k,'ballot'] = newBal
-            # if modified:
-            if oldBal!=newBal:
-                modified_ballot_list.append([oldBal, newBal, profile.at[k, 'Count']])
+#         for k in range(len(new_profile)):
+#             # if new_profile.at[k,'ballot']!='':
+#             ## change the ballot in some way
+#             oldBal = new_profile.at[k,'ballot']
+#             newBal, modified = mod_ballot_method(curBal, W, L)
+#             new_profile.at[k,'ballot'] = newBal
+#             # if modified:
+#             if oldBal!=newBal:
+#                 modified_ballot_list.append([oldBal, newBal, profile.at[k, 'Count']])
         
-        newWinners = voteMethod(new_profile, cands)[0]
-        if len(newWinners)!=1:
-            print('##### WARNING: MULTIPLE WINNERS DETECTED ######')
-            continue
-        newWinner = newWinners[0]
+#         newWinners = voteMethod(new_profile, cands)[0]
+#         if len(newWinners)!=1:
+#             print('##### WARNING: MULTIPLE WINNERS DETECTED ######')
+#             continue
+#         newWinner = newWinners[0]
         
-        if L == newWinner:
-            return [W, L, modified_ballot_list]
+#         if L == newWinner:
+#             return [W, L, modified_ballot_list]
     
-    return []
+#     return []
 
 ###############################################################################
 ###############################################################################
@@ -210,200 +210,201 @@ def upMonoPR(profile, num_cands, diagnostic=False):
     # upstart advances to second round instead of contender
     # confirm that upstart defeats winner
     
+    if num_cands>2:
+        cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+                      'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
+                      'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
+                      'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+        cands = cand_names[:num_cands]
+        
+        # Initialize scores for candidates to 0
+        scores = {cand: 0.0 for cand in cands}
+        
+        for k in range(len(profile)):
+            ballot = profile.at[k, 'ballot']
+            scores[ballot[0]] += profile.at[k, 'Count']
+        
+        if diagnostic:
+            print(scores)
     
-    cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
-                  'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
-                  'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
-                  'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
-    cands = cand_names[:num_cands]
     
-    # Initialize scores for candidates to 0
-    scores = {cand: 0.0 for cand in cands}
-    
-    for k in range(len(profile)):
-        ballot = profile.at[k, 'ballot']
-        scores[ballot[0]] += profile.at[k, 'Count']
-    
-    if diagnostic:
-        print(scores)
-    
-    # keep two candidates with highest scores
-    second_round_cands = cands.copy()
-    second_round_cands.sort(key=lambda cand: scores[cand], reverse = True)
-    second_round_cands = second_round_cands[:2]
-    
-    c1, c2 = second_round_cands
-    scores2 = {cand: 0.0 for cand in second_round_cands}
-    for k in range(len(profile)):
-        ballot = profile.at[k, 'ballot']
-        if c1 in ballot and c2 in ballot:
-            if ballot.find(c1)<ballot.find(c2):
+        # keep two candidates with highest scores
+        second_round_cands = cands.copy()
+        second_round_cands.sort(key=lambda cand: scores[cand], reverse = True)
+        second_round_cands = second_round_cands[:2]
+        
+        c1, c2 = second_round_cands
+        scores2 = {cand: 0.0 for cand in second_round_cands}
+        for k in range(len(profile)):
+            ballot = profile.at[k, 'ballot']
+            if c1 in ballot and c2 in ballot:
+                if ballot.find(c1)<ballot.find(c2):
+                    scores2[c1] += profile.at[k, 'Count']
+                else:
+                    scores2[c2] += profile.at[k, 'Count']
+            elif c1 in ballot:
                 scores2[c1] += profile.at[k, 'Count']
-            else:
+            elif c2 in ballot:
                 scores2[c2] += profile.at[k, 'Count']
-        elif c1 in ballot:
-            scores2[c1] += profile.at[k, 'Count']
-        elif c2 in ballot:
-            scores2[c2] += profile.at[k, 'Count']
-    
-    # Winner has most first place votes
-    max_score = max(scores2.values())
-    winners = [cand for cand, score in scores2.items() if score == max_score]
-    if len(winners)>1:
-        print('##### Multiple winners #####')
-        return []
-    
-    if diagnostic:
-        print(scores2)
-        print(winners)
         
-    ranked_cands = sorted(list(scores.keys()), key = lambda cand: scores[cand], reverse = True)
-    if diagnostic:
-        print(ranked_cands)
-    
-    if scores[ranked_cands[2]]==scores[ranked_cands[1]]:
-        print('##### multiple contenders #####')
-        return []
-    
-    winner = winners[0]
-    
-    ## find candidates that could beat winner in H2H
-    margins = np.zeros((num_cands, num_cands))
-    
-    for c1 in range(num_cands):
-        for c2 in range(c1+1, num_cands):
-            c1_let = cand_names[c1]
-            c2_let = cand_names[c2]
-            # number of votes c1 gets over c2 in H2H
-            margin = 0
+        # Winner has most first place votes
+        max_score = max(scores2.values())
+        winners = [cand for cand, score in scores2.items() if score == max_score]
+        if len(winners)>1:
+            print('##### Multiple winners #####')
+            return []
+        
+        if diagnostic:
+            print(scores2)
+            print(winners)
             
-            for k in range(len(profile)):
-                ballot = profile.at[k, 'ballot']
-                count = profile.at[k, 'Count']
-                ## ballot ranks both c1 and c2
-                if c1_let in ballot and c2_let in ballot:
-                    if ballot.find(c1_let) < ballot.find(c2_let):
+        ranked_cands = sorted(list(scores.keys()), key = lambda cand: scores[cand], reverse = True)
+        if diagnostic:
+            print(ranked_cands)
+        
+        if scores[ranked_cands[2]]==scores[ranked_cands[1]]:
+            print('##### multiple contenders #####')
+            return []
+        
+        winner = winners[0]
+        
+        ## find candidates that could beat winner in H2H
+        margins = np.zeros((num_cands, num_cands))
+        
+        for c1 in range(num_cands):
+            for c2 in range(c1+1, num_cands):
+                c1_let = cand_names[c1]
+                c2_let = cand_names[c2]
+                # number of votes c1 gets over c2 in H2H
+                margin = 0
+                
+                for k in range(len(profile)):
+                    ballot = profile.at[k, 'ballot']
+                    count = profile.at[k, 'Count']
+                    ## ballot ranks both c1 and c2
+                    if c1_let in ballot and c2_let in ballot:
+                        if ballot.find(c1_let) < ballot.find(c2_let):
+                            margin += count
+                        else:
+                            margin -= count
+                    ## ballot only ranks c1       
+                    elif c1_let in ballot:
                         margin += count
-                    else:
+                    ## ballot only ranks c2
+                    elif c2_let in ballot:
                         margin -= count
-                ## ballot only ranks c1       
-                elif c1_let in ballot:
-                    margin += count
-                ## ballot only ranks c2
-                elif c2_let in ballot:
-                    margin -= count
+                
+                margins[c1, c2] = margin
+                margins[c2, c1] = -1*margin
+        
+        
+        upstarts = [cand_names[c1] for c1 in range(num_cands) if margins[c1, cands.index(winner)]>0]
+        if diagnostic:
+            print(margins)
+            print(cands)
+            print(upstarts)
+        
+        for upstart in upstarts:
+            if diagnostic:
+                print(upstart)
+            ## check if upstart can make it to second round and defeat winner
+            upstart_win_margin = margins[cand_names.index(upstart), cand_names.index(winner)]
             
-            margins[c1, c2] = margin
-            margins[c2, c1] = -1*margin
-    
-    
-    upstarts = [cand_names[c1] for c1 in range(num_cands) if margins[c1, cands.index(winner)]>0]
-    if diagnostic:
-        print(margins)
-        print(cands)
-        print(upstarts)
-    
-    for upstart in upstarts:
-        if diagnostic:
-            print(upstart)
-        ## check if upstart can make it to second round and defeat winner
-        upstart_win_margin = margins[cand_names.index(upstart), cand_names.index(winner)]
-        
-        need_to_lose = ranked_cands[:ranked_cands.index(upstart)]
-        need_to_lose.remove(winner)
-        gaps = {cand: scores[cand] - scores[upstart] for cand in need_to_lose}
-        risky_ballots = {cand: 0 for cand in need_to_lose}
-        if diagnostic:
-            print(gaps)
-        
-        new_profile = profile.copy(deep = True)
-        modified_ballot_list = []
-        for k in range(len(new_profile)):
-            oldBal = new_profile.at[k, 'ballot']
-            cur_lead = oldBal[0]
-            if cur_lead in need_to_lose:
-                if (upstart not in oldBal and winner in oldBal) or (upstart in oldBal and winner in oldBal and oldBal.find(winner)<oldBal.find(upstart)):
-                    ## move winner to top
-                    newBal = modifyUp(oldBal, winner)
-                    new_profile.at[k, 'ballot'] = newBal
-                    modified_ballot_list.append([oldBal, newBal, new_profile.at[k, 'Count']])
-                    gaps[cur_lead] -= new_profile.at[k, 'Count']
-                elif (upstart in ballot and winner in ballot and ballot.find(upstart)<ballot.find(winner)) or (winner not in ballot and upstart not in ballot):
-                    risky_ballots[cur_lead] += new_profile.at[k, 'Count']
-        
-        if diagnostic:
-            print(gaps)
-            print(modified_ballot_list)
-        if max(gaps.values()) < 0:
-            ## upstart should advance to second round and beat winner
-            ## check election
-            new_win = plurality_runoff(new_profile, cands)[0]
-            if new_win[0] == upstart:
-                return [winner, upstart, modified_ballot_list]
-            else:
-                print(new_win[0])
-                print('##### Error with safe ballots #####')
-        else:
-            ## check if risky ballots can be removed
-            upstart_can_advance = True
-            for cand in need_to_lose:
-                if gaps[cand]>risky_ballots[cand]:
-                    upstart_can_advance = False
-                    break
+            need_to_lose = ranked_cands[:ranked_cands.index(upstart)]
+            need_to_lose.remove(winner)
+            gaps = {cand: scores[cand] - scores[upstart] for cand in need_to_lose}
+            risky_ballots = {cand: 0 for cand in need_to_lose}
+            if diagnostic:
+                print(gaps)
             
-            ballots_to_change = {}
-            for cand in need_to_lose:
-                if gaps[cand] >= 0:
-                    ballots_to_change[cand] = gaps[cand]
-            if sum(ballots_to_change.values()) + len(ballots_to_change) > upstart_win_margin:
-                upstart_can_advance = False
+            new_profile = profile.copy(deep = True)
+            modified_ballot_list = []
+            for k in range(len(new_profile)):
+                oldBal = new_profile.at[k, 'ballot']
+                cur_lead = oldBal[0]
+                if cur_lead in need_to_lose:
+                    if (upstart not in oldBal and winner in oldBal) or (upstart in oldBal and winner in oldBal and oldBal.find(winner)<oldBal.find(upstart)):
+                        ## move winner to top
+                        newBal = modifyUp(oldBal, winner)
+                        new_profile.at[k, 'ballot'] = newBal
+                        modified_ballot_list.append([oldBal, newBal, new_profile.at[k, 'Count']])
+                        gaps[cur_lead] -= new_profile.at[k, 'Count']
+                    elif (upstart in ballot and winner in ballot and ballot.find(upstart)<ballot.find(winner)) or (winner not in ballot and upstart not in ballot):
+                        risky_ballots[cur_lead] += new_profile.at[k, 'Count']
             
             if diagnostic:
-                print(ballots_to_change)
-            if upstart_can_advance:
-                ## remove just enough risky ballots
-                for k in range(len(profile)):
-                    oldBal = new_profile.at[k, 'ballot']
-                    cur_lead = oldBal[0]
-                    if cur_lead in ballots_to_change.keys():
-                        if (upstart in oldBal and winner in oldBal and oldBal.find(upstart)<oldBal.find(winner)) or (winner not in oldBal and upstart not in oldBal):
-                            if ballots_to_change[cur_lead] < 0:
-                                ## already removed enough ballots, no need to remove more
-                                pass
-                            elif ballots_to_change[cur_lead] >= (new_profile.at[k, 'Count']+1):
-                                ## change all ballots
-                                newBal = modifyUp(oldBal, winner)
-                                new_profile.at[k, 'ballot'] = newBal
-                                modified_ballot_list.append([oldBal, newBal, new_profile.at[k, 'Count']])
-                                ballots_to_change[cur_lead] -= new_profile.at[k, 'Count']
-                                new_profile.at[k, 'Count'] = 0
-                            else:
-                                ## only change enough ballots
-                                ## add new row to new_profile
-                                newBal = modifyUp(oldBal, winner)
-                                new_profile.at[k, 'Count'] -= (ballots_to_change[cur_lead] + 1)
-                                modified_ballot_list.append([oldBal, newBal, ballots_to_change[cur_lead]+1])
-                                row={'Count':[ballots_to_change[cur_lead]+1], 'ballot':[newBal]}
-                                df2=pd.DataFrame(row)
-                                new_profile = pd.concat([new_profile, df2], ignore_index=True)
-                                ballots_to_change[cur_lead] = -1
-                            
-                ## test election having removed the risky ballots
+                print(gaps)
+                print(modified_ballot_list)
+            if max(gaps.values()) < 0:
+                ## upstart should advance to second round and beat winner
+                ## check election
                 new_win = plurality_runoff(new_profile, cands)[0]
-                if new_win[0] == upstart:        
+                if new_win[0] == upstart:
                     return [winner, upstart, modified_ballot_list]
-                
                 else:
-                    if diagnostic:
-                        print(winner)
-                        print(upstart)
-                        print(new_win)
-                        print(need_to_lose)
-                        print(upstart_win_margin)
-                        print(gaps)
-                        print(ballots_to_change)
-                    print('##### Error with risky ballots #####')
-            
+                    print(new_win[0])
+                    print('##### Error with safe ballots #####')
+            else:
+                ## check if risky ballots can be removed
+                upstart_can_advance = True
+                for cand in need_to_lose:
+                    if gaps[cand]>risky_ballots[cand]:
+                        upstart_can_advance = False
+                        break
+                
+                ballots_to_change = {}
+                for cand in need_to_lose:
+                    if gaps[cand] >= 0:
+                        ballots_to_change[cand] = gaps[cand]
+                if sum(ballots_to_change.values()) + len(ballots_to_change) > upstart_win_margin:
+                    upstart_can_advance = False
+                
+                if diagnostic:
+                    print(ballots_to_change)
+                if upstart_can_advance:
+                    ## remove just enough risky ballots
+                    for k in range(len(profile)):
+                        oldBal = new_profile.at[k, 'ballot']
+                        cur_lead = oldBal[0]
+                        if cur_lead in ballots_to_change.keys():
+                            if (upstart in oldBal and winner in oldBal and oldBal.find(upstart)<oldBal.find(winner)) or (winner not in oldBal and upstart not in oldBal):
+                                if ballots_to_change[cur_lead] < 0:
+                                    ## already removed enough ballots, no need to remove more
+                                    pass
+                                elif ballots_to_change[cur_lead] >= (new_profile.at[k, 'Count']+1):
+                                    ## change all ballots
+                                    newBal = modifyUp(oldBal, winner)
+                                    new_profile.at[k, 'ballot'] = newBal
+                                    modified_ballot_list.append([oldBal, newBal, new_profile.at[k, 'Count']])
+                                    ballots_to_change[cur_lead] -= new_profile.at[k, 'Count']
+                                    new_profile.at[k, 'Count'] = 0
+                                else:
+                                    ## only change enough ballots
+                                    ## add new row to new_profile
+                                    newBal = modifyUp(oldBal, winner)
+                                    new_profile.at[k, 'Count'] -= (ballots_to_change[cur_lead] + 1)
+                                    modified_ballot_list.append([oldBal, newBal, ballots_to_change[cur_lead]+1])
+                                    row={'Count':[ballots_to_change[cur_lead]+1], 'ballot':[newBal]}
+                                    df2=pd.DataFrame(row)
+                                    new_profile = pd.concat([new_profile, df2], ignore_index=True)
+                                    ballots_to_change[cur_lead] = -1
+                                
+                    ## test election having removed the risky ballots
+                    new_win = plurality_runoff(new_profile, cands)[0]
+                    if new_win[0] == upstart:        
+                        return [winner, upstart, modified_ballot_list]
+                    
+                    else:
+                        if diagnostic:
+                            print(winner)
+                            print(upstart)
+                            print(new_win)
+                            print(need_to_lose)
+                            print(upstart_win_margin)
+                            print(gaps)
+                            print(ballots_to_change)
+                        print('##### Error with risky ballots #####')
+                
     return []
 
 ###############################################################################
@@ -413,114 +414,116 @@ def noShowPR(profile, num_cands, diagnostic=False):
     ## check if any upstart can beat winner in h2h
     ## see if any contender supporters could no show and let upstart advance
     ## to second round
-    cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
-                  'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
-                  'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
-                  'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
-    cands = cand_names[:num_cands]
     
-    ## Initialize scores for candidates to 0
-    scores = {cand: 0.0 for cand in cands}
-    
-    for k in range(len(profile)):
-        ballot = profile.at[k, 'ballot']
-        scores[ballot[0]] += profile.at[k, 'Count']
+    if num_cands>2:
+        cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+                      'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
+                      'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
+                      'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+        cands = cand_names[:num_cands]
         
-    if diagnostic:
-        print(scores)
-    
-    ## keep two candidates with highest scores
-    second_round_cands = cands.copy()
-    second_round_cands.sort(key=lambda cand: scores[cand], reverse = True)
-    second_round_cands = second_round_cands[:2]
-    
-    c1, c2 = second_round_cands
-    scores2 = {cand: 0.0 for cand in second_round_cands}
-    for k in range(len(profile)):
-        ballot = profile.at[k, 'ballot']
-        if c1 in ballot and c2 in ballot:
-            if ballot.find(c1)<ballot.find(c2):
-                scores2[c1] += profile.at[k, 'Count']
-            else:
-                scores2[c2] += profile.at[k, 'Count']
-        elif c1 in ballot:
-            scores2[c1] += profile.at[k, 'Count']
-        elif c2 in ballot:
-            scores2[c2] += profile.at[k, 'Count']
-    
-    # Winner has most first place votes
-    max_score = max(scores2.values())
-    winners = [cand for cand, score in scores2.items() if score == max_score]
-    if len(winners)>1:
-        print('##### Multiple winners #####')
-        return []
-    
-    ranked_cands = sorted(list(scores.keys()), key = lambda cand: scores[cand], reverse = True)
-    if diagnostic:
-        print(winners)
-        print(scores2)
-        print(ranked_cands)
-    
-    if scores[ranked_cands[2]]==scores[ranked_cands[1]]:
-        print('##### multiple contenders #####')
-        return []
-    
-    winner = winners[0]
-    
-    ## find candidates that could beat winner in H2H
-    margins = np.zeros((num_cands, num_cands))
-    
-    for c1 in range(num_cands):
-        for c2 in range(c1+1, num_cands):
-            c1_let = cand_names[c1]
-            c2_let = cand_names[c2]
-            ## number of votes c1 gets over c2 in H2H
-            margin = 0
+        ## Initialize scores for candidates to 0
+        scores = {cand: 0.0 for cand in cands}
+        
+        for k in range(len(profile)):
+            ballot = profile.at[k, 'ballot']
+            scores[ballot[0]] += profile.at[k, 'Count']
             
-            for k in range(len(profile)):
-                ballot = profile.at[k, 'ballot']
-                count = profile.at[k, 'Count']
-                ## ballot ranks both c1 and c2
-                if c1_let in ballot and c2_let in ballot:
-                    if ballot.find(c1_let) < ballot.find(c2_let):
-                        margin += count
-                    else:
-                        margin -= count
-                ## ballot only ranks c1       
-                elif c1_let in ballot:
-                    margin += count
-                ## ballot only ranks c2
-                elif c2_let in ballot:
-                    margin -= count
-            
-            margins[c1, c2] = margin
-            margins[c2, c1] = -1*margin
-    
-    upstarts = [cand_names[c1] for c1 in range(num_cands) if margins[c1, cands.index(winner)]>0]
-    if diagnostic:
-        print(margins)
-        print(cands)
-        print(upstarts)
-    
-    for upstart in upstarts:
-        remove_ballots = []
         if diagnostic:
-            print(upstart)
-        ## check if upstart can make it to second round and defeat winner
-        need_to_lose = ranked_cands[:ranked_cands.index(upstart)]
+            print(scores)
         
-        new_profile = profile.copy(deep = True)
-        for k in range(len(new_profile)):
-            ballot = new_profile.at[k, 'ballot']
-            cur_lead = ballot[0]
-            if cur_lead in need_to_lose:
-                if (upstart in ballot and winner not in ballot) or (upstart in ballot and winner in ballot and ballot.find(upstart)<ballot.find(winner)):
-                    remove_ballots.append([ballot, new_profile.at[k, 'Count']])
-                    new_profile.at[k, 'Count'] = 0
+        ## keep two candidates with highest scores
+        second_round_cands = cands.copy()
+        second_round_cands.sort(key=lambda cand: scores[cand], reverse = True)
+        second_round_cands = second_round_cands[:2]
         
-        new_win = plurality_runoff(new_profile, cands)[0]
-        if new_win[0] == upstart:
-            return [winner, upstart, remove_ballots]
+        c1, c2 = second_round_cands
+        scores2 = {cand: 0.0 for cand in second_round_cands}
+        for k in range(len(profile)):
+            ballot = profile.at[k, 'ballot']
+            if c1 in ballot and c2 in ballot:
+                if ballot.find(c1)<ballot.find(c2):
+                    scores2[c1] += profile.at[k, 'Count']
+                else:
+                    scores2[c2] += profile.at[k, 'Count']
+            elif c1 in ballot:
+                scores2[c1] += profile.at[k, 'Count']
+            elif c2 in ballot:
+                scores2[c2] += profile.at[k, 'Count']
+        
+        # Winner has most first place votes
+        max_score = max(scores2.values())
+        winners = [cand for cand, score in scores2.items() if score == max_score]
+        if len(winners)>1:
+            print('##### Multiple winners #####')
+            return []
+        
+        ranked_cands = sorted(list(scores.keys()), key = lambda cand: scores[cand], reverse = True)
+        if diagnostic:
+            print(winners)
+            print(scores2)
+            print(ranked_cands)
+        
+        if scores[ranked_cands[2]]==scores[ranked_cands[1]]:
+            print('##### multiple contenders #####')
+            return []
+        
+        winner = winners[0]
+        
+        ## find candidates that could beat winner in H2H
+        margins = np.zeros((num_cands, num_cands))
+        
+        for c1 in range(num_cands):
+            for c2 in range(c1+1, num_cands):
+                c1_let = cand_names[c1]
+                c2_let = cand_names[c2]
+                ## number of votes c1 gets over c2 in H2H
+                margin = 0
+                
+                for k in range(len(profile)):
+                    ballot = profile.at[k, 'ballot']
+                    count = profile.at[k, 'Count']
+                    ## ballot ranks both c1 and c2
+                    if c1_let in ballot and c2_let in ballot:
+                        if ballot.find(c1_let) < ballot.find(c2_let):
+                            margin += count
+                        else:
+                            margin -= count
+                    ## ballot only ranks c1       
+                    elif c1_let in ballot:
+                        margin += count
+                    ## ballot only ranks c2
+                    elif c2_let in ballot:
+                        margin -= count
+                
+                margins[c1, c2] = margin
+                margins[c2, c1] = -1*margin
+        
+        upstarts = [cand_names[c1] for c1 in range(num_cands) if margins[c1, cands.index(winner)]>0]
+        if diagnostic:
+            print(margins)
+            print(cands)
+            print(upstarts)
+        
+        for upstart in upstarts:
+            remove_ballots = []
+            if diagnostic:
+                print(upstart)
+            ## check if upstart can make it to second round and defeat winner
+            need_to_lose = ranked_cands[:ranked_cands.index(upstart)]
+            
+            new_profile = profile.copy(deep = True)
+            for k in range(len(new_profile)):
+                ballot = new_profile.at[k, 'ballot']
+                cur_lead = ballot[0]
+                if cur_lead in need_to_lose:
+                    if (upstart in ballot and winner not in ballot) or (upstart in ballot and winner in ballot and ballot.find(upstart)<ballot.find(winner)):
+                        remove_ballots.append([ballot, new_profile.at[k, 'Count']])
+                        new_profile.at[k, 'Count'] = 0
+            
+            new_win = plurality_runoff(new_profile, cands)[0]
+            if new_win[0] == upstart:
+                return [winner, upstart, remove_ballots]
         
     return []
 
@@ -547,7 +550,7 @@ def downMonoIRV(profile, num_cands, diagnostic=False): #streamlined version (rea
 
     quota=math.floor(sum(profile['Count'])/(2))+1 #calculate quota   
     
-    winners, losers, elimFrames=IRV3(profile) #note that losers is list in order of dropout
+    winners, losers, elimFrames=IRV3(profile, cands) #note that losers is list in order of dropout
    
     for i in range(len(losers)): #function removes i losers from original data frame, 
         # then searches for all possible anomalies at a given level<=n, right before each "loser" is 
@@ -559,7 +562,8 @@ def downMonoIRV(profile, num_cands, diagnostic=False): #streamlined version (rea
         tempFrame = elimFrames[i].copy(deep=True) #actual data before ith cand is removed 
         loser = losers[i]
         
-        vote_counts={}
+        # vote_counts={}
+        vote_counts = {cand:0 for cand in cands}
         for k in range(len(tempFrame)):
             if tempFrame.at[k,'ballot']!='':
                 if tempFrame.at[k,'ballot'][0] in vote_counts.keys():
@@ -627,7 +631,7 @@ def downMonoIRV(profile, num_cands, diagnostic=False): #streamlined version (rea
                     # Run STV election on modifed election.  Check to see if W_j is in new winners list
                     # if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate level.
                     # votes modified to 1 ranking"
-                    win1, foo1, foo2 = IRV3(tempFrame1)#win1 = IRV_check(tempFrame1) #also try win1, thing1, thing2 = IRV3(tempFrame1) 
+                    win1, foo1, foo2 = IRV3(tempFrame1, cands)#win1 = IRV_check(tempFrame1) #also try win1, thing1, thing2 = IRV3(tempFrame1) 
                     #print("New winner is " + str(win1))
                     #print("Checkable is " + str(checkables[k]))
                     if checkables[k] in win1:
@@ -693,7 +697,7 @@ def downMonoIRV(profile, num_cands, diagnostic=False): #streamlined version (rea
                                         pass
                         # Run STV election on modifed election.  Check to see if C_k is in new winners list
                         # if yes, report anomaly "
-                        win1, foo1, foo2  = IRV3(tempFrame1)#win1 = IRV_check(tempFrame1) 
+                        win1, foo1, foo2  = IRV3(tempFrame1, cands)#win1 = IRV_check(tempFrame1) 
                         if checkables[k] in win1:
                             if diagnostic:
                                 print("DOWNWARD MONOTONICITY ANOMALY for " + checkables[k]+". "  + "Change all "+ checkables[k]+loser + 
@@ -722,8 +726,16 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
     runs election to find winners/losers/prefData before candidate eliminated, tempWinners,
     then identifies and makes vote swaps to find 
     upward monotonicity anomalies.  Returns if an anomaly exists, and how anomaly happens""" 
+    
+    cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+                  'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
+                  'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
+                  'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+    cands = cand_names[:num_cands]
+    n = num_cands
+    
     quota=math.floor(sum(frame['Count'])/(2))+1 #calculate quota   
-    winners, losers, elimFrames=IRV3(frame) #get election data from IRV3
+    winners, losers, elimFrames=IRV3(frame, cands) #get election data from IRV3
     winner = winners[0]
     #print("Original winners are ")
     #print(winners)
@@ -734,14 +746,10 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
     #             cand_List1.append(frame.at[k,'ballot'][i])
     # n = len(cand_List1)
     
-    cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
-                  'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
-                  'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
-                  'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
-    cands = cand_names[:num_cands]
+    if diagnostic:
+        print(winners)
+        print(losers)
     
-    
-    S = 1
     for i in range(len(losers)): #function looks at real data before ith loser drops, 
         # then searches for all possible anomalies at a given level<=n, right before each "loser" is 
         # eliminated.  outputs if anomaly occurs, and if so, how...could also output other information
@@ -755,7 +763,8 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
          #   remainingWinners.remove(tempWinners[y]) #remove people who already got seats
         # remainingWinners are the future winners who are still in the election
         loser = losers[i]
-        vote_counts={}
+        # vote_counts={}
+        vote_counts = {cand: 0 for cand in cands}
         for k in range(len(tempFrame)):
             if tempFrame.at[k,'ballot']!='':
                 if tempFrame.at[k,'ballot'][0] in vote_counts.keys():
@@ -772,7 +781,12 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
         loser_gap ={} #gap in votes between a candidate and the losing candidate
         for x in range(len(vote_counts)):
             loser_gap[list(vote_counts.keys())[x]]=vote_counts[list(vote_counts.keys())[x]]-vote_counts[loser]                                                                           
-                                                                                    
+                   
+        if diagnostic:
+            print(loser)
+            print(vote_counts)  
+            print(quota_gap)
+            print(loser_gap)
         
         if quota_gap[winner] < 0:
             print("No anomaly for " + str(winner) + ".  Meets quota at " + str(n-i) + "-candidate level." +
@@ -781,10 +795,16 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
             checkables = list(vote_counts.keys()) #list of all candidates
             checkables.remove(winner) #remove winner from checkables
             checkables.remove(loser)#remove loser/next eliminated candidate from checkables 
-
+            if diagnostic:
+                print(checkables)
+            
             #we now try to modify C_k...W_j ballots to change dropout order, see if it changes overall result 
             for k in range(len(checkables)): #choose the kth checkable = C_k
                 gap = loser_gap[checkables[k]]
+                if diagnostic:
+                    print(checkables[k])
+                    print(gap)
+                
                 if gap > quota_gap[winner]:
                     pass
 #                         print("No anomaly for " + winner + " with " + checkables[k] + " under " + loser + 
@@ -836,7 +856,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                         # Run STV election on modifed election.  Check to see if W_j is in new winners list
                         # if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate level.
                         # votes modified to 1 ranking"
-                        win1, foo1, foo2 = IRV3(tempFrame1)
+                        win1, foo1, foo2 = IRV3(tempFrame1, cands)
                         if winner in win1:
                             pass
 #                                 print("No anomaly for " + winner + " with " + checkables[k] + " under " + loser + 
@@ -920,7 +940,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                             # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
                             # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
                             # level. votes modified to 2 rankings"
-                            win1, foo1, foo2 = IRV3(tempFrame1)
+                            win1, foo1, foo2 = IRV3(tempFrame1, cands)
                             if winner in win1:
                                 pass
 
@@ -994,7 +1014,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                 # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
                                 # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
                                 # level. votes modified to 2 rankings"
-                                win1, foo1, foo2 = IRV3(tempFrame1)
+                                win1, foo1, foo2 = IRV3(tempFrame1, cands)
                                 if winner in win1:
                                     pass
                                 else:
@@ -1067,7 +1087,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                     # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
                                     # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
                                     # level. votes modified to 2 rankings"
-                                    win1, foo1, foo2 = IRV3(tempFrame1)
+                                    win1, foo1, foo2 = IRV3(tempFrame1, cands)
                                     if winner in win1:
                                         pass
 
@@ -1146,7 +1166,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                         # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
                                         # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
                                         # level. votes modified to 2 rankings"
-                                        win1, foo1, foo2 = IRV3(tempFrame1)
+                                        win1, foo1, foo2 = IRV3(tempFrame1, cands)
                                         if winner in win1:
                                             pass
                                         else:
@@ -1212,7 +1232,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                             # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
                                             # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
                                             # level. votes modified to 2 rankings"
-                                            win1, foo1, foo2 = IRV3(tempFrame1)
+                                            win1, foo1, foo2 = IRV3(tempFrame1, cands)
                                             if winner in win1:
                                                 pass
                                             else:
@@ -1271,7 +1291,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                                 # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
                                                 # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
                                                 # level. votes modified to 2 rankings"
-                                                win1, foo1, foo2 = IRV3(tempFrame1)
+                                                win1, foo1, foo2 = IRV3(tempFrame1, cands)
                                                 if winner in win1:
                                                     pass
                                                 else:
@@ -1330,7 +1350,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                                     # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
                                                     # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
                                                     # level. votes modified to..."
-                                                    win1, foo1, foo2 = IRV3(tempFrame1)
+                                                    win1, foo1, foo2 = IRV3(tempFrame1, cands)
                                                     if winner in win1:
                                                         pass
                                                     else:
@@ -1351,9 +1371,9 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                                                 tempFrame1.at[z,'ballot'] = modifyUp(winner,tempFrame1.at[z,'ballot'])
                                                                 gap = gap - tempFrame1.at[z,'Count']
 
-#                                                     print(winner+" cannot overcome gap with "+ checkables[k] + 
-#                                                           " when modified up to 5 rankings and 3 bullet votes under " + 
-#                                                           loser + ". REACHED END OF CODE.")
+                                                    print(winner+" cannot overcome gap with "+ checkables[k] + 
+                                                          " when modified up to 5 rankings and 3 bullet votes under " + 
+                                                          loser + ". REACHED END OF CODE.")
     
     return []
 ###############################################################################
@@ -1365,11 +1385,18 @@ def noShowIRV(frame, num_cands, diagnostic=False):
     No Show anomalies connected to change in dropout order.  
     outputs if an anomaly exists, and how anomaly happens""" 
     # print("lets do this")
+    cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+                  'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
+                  'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
+                  'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+    cands = cand_names[:num_cands]
+    
     quota=math.floor(sum(frame['Count'])/(2))+1 #calculate quota   
-    winners, losers, elimFrames=IRV3(frame) #Run original STV election, 
+    winners, losers, elimFrames=IRV3(frame, cands) #Run original STV election, 
     winner=winners[0]
-    print("Original winners are: ")
-    print(winners) 
+    if diagnostic:
+        print("Original winners are: ")
+        print(winners) 
     # cand_List1=[]
     # for k in range(len(frame)):
     #     for i in range(len(frame.at[k,'ballot'])):
@@ -1391,7 +1418,8 @@ def noShowIRV(frame, num_cands, diagnostic=False):
         tempFrame = elimFrames[i].copy(deep=True)
         #tempWinners = copy.deepcopy(winners_dict[i]) #candidates who have already won a seat at this point
         loser = losers[i] #loser is the candidate about to be eliminated
-        vote_counts={}
+        # vote_counts={}
+        vote_counts = {cand:0 for cand in cands}
         
         for k in range(len(tempFrame)):
             if tempFrame.at[k,'ballot']!='':
@@ -1521,7 +1549,7 @@ def noShowIRV(frame, num_cands, diagnostic=False):
                         # Run STV election on modifed election. If W_j is NOT in winners and H_m is, 
                         # AND all the other winners stay the same, then report anomaly 
 
-                        win1, foo1, foo2 = IRV3(tempFrame1) #n-i
+                        win1, foo1, foo2 = IRV3(tempFrame1, cands) #n-i
                         if (hopefuls[m] in win1) and (winner not in win1):# and (set(oldWinners).issubset(set(win1))):
                             if diagnostic:
                                 print("")
@@ -1587,7 +1615,7 @@ def noShowIRV(frame, num_cands, diagnostic=False):
                         # Run STV election on modifed election. If W_j is NOT in winners and H_m is, 
                         # AND all the other winners stay the same, then report anomaly 
 
-                        win1, foo1, foo2 = IRV3(tempFrame1)
+                        win1, foo1, foo2 = IRV3(tempFrame1, cands)
 
                         if (hopefuls[m] in win1) and (winner not in win1):# and (set(oldWinners).issubset(set(win1))):
                             if diagnostic:
@@ -1622,17 +1650,360 @@ def noShowIRV(frame, num_cands, diagnostic=False):
 
     return []
 
+###############################################################################
+###############################################################################
 
+def noShowCondPlur(profile, num_cands, diagnostic=False):
+    cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+                  'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
+                  'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
+                  'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+    cands = cand_names[:num_cands]
+    
+    smith_set, new_profile = restrict_to_smith(profile, cands)
+    if diagnostic:
+        print(smith_set)
+    
+    margins = np.zeros((num_cands, num_cands))
+    for c1 in range(num_cands):
+        for c2 in range(c1+1, num_cands):
+            c1_let = cands[c1]
+            c2_let = cands[c2]
+            ## number of votes c1 gets over c2 in H2H
+            margin = 0
+            for k in range(len(profile)):
+                ballot = profile.at[k, 'ballot']
+                count = profile.at[k, 'Count']
+                ## ballot ranks both c1 and c2
+                if c1_let in ballot and c2_let in ballot:
+                    if ballot.find(c1_let) < ballot.find(c2_let):
+                        margin += count
+                    else:
+                        margin -= count
+                ## ballot only ranks c1       
+                elif c1_let in ballot:
+                    margin += count
+                ## ballot only ranks c2
+                elif c2_let in ballot:
+                    margin -= count
+            margins[c1, c2] = margin
+            margins[c2, c1] = -1*margin
+    if diagnostic:
+        print(margins)
+    
+    ## if there is a top cycle, try to break it
+    if len(smith_set)>1:
+        if diagnostic:
+            print('Top cycle')
+        plur_wins = plurality(profile, cands)[0]
+        if len(plur_wins)>1:
+            print('##### Multiple winners #####')
+            return []
+        plur_win = plur_wins[0]
+        if diagnostic:
+            print(plur_win)
+            
+        cond_wins = [cand for cand in smith_set if margins[cands.index(cand), cands.index(plur_win)]>0]
+        if diagnostic:
+            print(cond_wins)
+        for cond_win in cond_wins:
+            need_to_lose = {cand: margins[cands.index(cand), cands.index(cond_win)]+1 for cand in smith_set if margins[cands.index(cand), cands.index(cond_win)]>0}
+            # need_to_lose = [cand for cand in smith_set if margins[cands.index(cand), cands.index(cond_win)]>0]
+            margin = margins[cands.index(cond_win), cands.index(plur_win)]
+            
+            if diagnostic:
+                print(cond_win)
+                print(need_to_lose)
+                print(margin)
+            ## remove ballots that prevent cond_win from being condorcet winner
+            new_profile = profile.copy(deep=True)
+            remove_ballots = []
+            for k in range(len(new_profile)):
+                ballot = new_profile.at[k, 'ballot']
+                ## ballot prefers cond_win to plur_win
+                if (cond_win in ballot and plur_win not in ballot) or (cond_win in ballot and plur_win in ballot and ballot.find(cond_win)<ballot.find(plur_win)):
+                    ## removing ballot will help break top cycle
+                    relevant_cands = set(ballot.split(cond_win)[0]).intersection(need_to_lose)
+                    if relevant_cands:
+                        remove_count = min([new_profile.at[k, 'Count']]+[need_to_lose[cand] for cand in relevant_cands])
+                        remove_ballots.append([ballot, remove_count])
+                        new_profile.at[k, 'Count'] -= remove_count
+            
+            if diagnostic:
+                print(remove_ballots)
+                print(new_profile)
+            new_wins = condorcet_plurality(new_profile, cands)[0]
+            # new_smith, foo = restrict_to_smith(new_profile, cands)
+            if len(new_wins)>1:
+                print('##### Multiple winners #####')
+                continue
+            if new_wins[0]==cond_win:
+                return [plur_win, cond_win, remove_ballots]
+                
+        
+    ## if there is a condorcet winner, try to make top cycle
+    else:
+        if diagnostic:
+            print('Condorcet winner')
+        cond_win = smith_set[0]
+        
+        plur_wins = plurality(profile, cands)[0]
+        if len(plur_wins)>1:
+            print('##### Multiple winners #####')
+            return []
+        plur_win = plur_wins[0]
+        margin = margins[cands.index(cond_win), cands.index(plur_win)]
+        
+        if diagnostic:
+            print(cond_win)
+            print(plur_win)
+        
+        if plur_win != cond_win:
+            threats = [cand for cand in cands if cand != plur_win and cand != cond_win]
+            if diagnostic:
+                print(threats)
+            for threat in threats:
+                threat_marg = margins[cands.index(cond_win), cands.index(threat)]
+                if diagnostic:
+                    print(threat)
+                    print(threat_marg)
+                risky_ballots = []
+                new_profile = profile.copy(deep=True)
+                remove_ballots = []
+                for k in range(len(new_profile)):
+                    ballot = new_profile.at[k, 'ballot']
+                    ## prefers plur_win over cond_win over threat
+                    if plur_win in ballot and cond_win in ballot and ballot.find(plur_win)<ballot.find(cond_win):
+                        if threat not in ballot or (threat in ballot and ballot.find(cond_win)<ballot.find(threat)):
+                            ## not a risky ballot to remove
+                            if ballot[0]!=plur_win:
+                                remove_ballots.append([ballot, new_profile.at[k, 'Count']])
+                                threat_marg -= new_profile.at[k, 'Count']
+                                new_profile.at[k, 'Count'] = 0
+                
+                if diagnostic:
+                    print(remove_ballots)
+                    print(new_profile)
+                    print(threat_marg)
+                
+                new_wins = condorcet_plurality(new_profile, cands)[0]
+                if diagnostic:
+                    print(new_wins)
+                    
+                if new_wins != [plur_win]:
+                    ## remove some risky ballots
+                    for k in range(len(new_profile)):
+                        ballot = new_profile.at[k, 'ballot']
+                        ## prefers plur_win over cond_win over threat
+                        if plur_win in ballot and cond_win in ballot and ballot.find(plur_win)<ballot.find(cond_win):
+                            if threat not in ballot or (threat in ballot and ballot.find(cond_win)<ballot.find(threat)):
+                                ## is a risky ballot to remove
+                                if ballot[0]==plur_win:
+                                    if profile.at[k, 'Count'] < threat_marg + 1:
+                                        remove_ballots.append([ballot, new_profile.at[k, 'Count']])
+                                        threat_marg -= new_profile.at[k, 'Count']
+                                        new_profile.at[k, 'Count'] = 0
+                                    else:
+                                        remove_ballots.append([ballot, threat_marg + 1])
+                                        new_profile.at[k, 'Count'] -= (threat_marg+1)
+                                        break
+                    
+                if diagnostic:
+                    print(remove_ballots)
+                    print(new_profile)
+                new_wins = condorcet_plurality(new_profile, cands)[0]
+                if diagnostic:
+                    print(new_wins)
+                if len(new_wins)>1:
+                    print('##### Multiple winners #####')
+                    continue
+                new_win = new_wins[0]
+                if new_win == plur_win:
+                    return [cond_win, plur_win, remove_ballots]
+            
+###############################################################################
+###############################################################################
 
-
-
-
-
-
-
-
-
-
-
-
-
+def noShowSmithIRV(profile, num_cands, diagnostic=False):
+    cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+                  'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
+                  'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
+                  'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+    cands = cand_names[:num_cands]
+    
+    smith_set, new_profile = restrict_to_smith(profile, cands)
+    if diagnostic:
+        print(smith_set)
+    
+    margins = np.zeros((num_cands, num_cands))
+    for c1 in range(num_cands):
+        for c2 in range(c1+1, num_cands):
+            c1_let = cands[c1]
+            c2_let = cands[c2]
+            ## number of votes c1 gets over c2 in H2H
+            margin = 0
+            for k in range(len(profile)):
+                ballot = profile.at[k, 'ballot']
+                count = profile.at[k, 'Count']
+                ## ballot ranks both c1 and c2
+                if c1_let in ballot and c2_let in ballot:
+                    if ballot.find(c1_let) < ballot.find(c2_let):
+                        margin += count
+                    else:
+                        margin -= count
+                ## ballot only ranks c1       
+                elif c1_let in ballot:
+                    margin += count
+                ## ballot only ranks c2
+                elif c2_let in ballot:
+                    margin -= count
+            margins[c1, c2] = margin
+            margins[c2, c1] = -1*margin
+    if diagnostic:
+        print(margins)
+    
+    ## if there is a top cycle, try to break it
+    if len(smith_set)>1:
+        if diagnostic:
+            print('Top cycle')
+        irv_wins = IRV3(profile, cands)[0]
+        if len(irv_wins)>1:
+            print('##### Multiple winners #####')
+            return []
+        irv_win = irv_wins[0]
+        if diagnostic:
+            print(irv_win)
+            
+        cond_wins = [cand for cand in smith_set if margins[cands.index(cand), cands.index(irv_win)]>0]
+        if diagnostic:
+            print(cond_wins)
+        for cond_win in cond_wins:
+            need_to_lose = {cand: margins[cands.index(cand), cands.index(cond_win)]+1 for cand in smith_set if margins[cands.index(cand), cands.index(cond_win)]>0}
+            # need_to_lose = [cand for cand in smith_set if margins[cands.index(cand), cands.index(cond_win)]>0]
+            margin = margins[cands.index(cond_win), cands.index(irv_win)]
+            
+            if diagnostic:
+                print(cond_win)
+                print(need_to_lose)
+                print(margin)
+            ## remove ballots that prevent cond_win from being condorcet winner
+            new_profile = profile.copy(deep=True)
+            remove_ballots = []
+            for k in range(len(new_profile)):
+                ballot = new_profile.at[k, 'ballot']
+                ## ballot prefers cond_win to irv_win
+                if (cond_win in ballot and irv_win not in ballot) or (cond_win in ballot and irv_win in ballot and ballot.find(cond_win)<ballot.find(irv_win)):
+                    ## removing ballot will help break top cycle
+                    relevant_cands = set(ballot.split(cond_win)[0]).intersection(need_to_lose)
+                    if relevant_cands:
+                        remove_count = min([new_profile.at[k, 'Count']]+[need_to_lose[cand] for cand in relevant_cands])
+                        remove_ballots.append([ballot, remove_count])
+                        new_profile.at[k, 'Count'] -= remove_count
+            
+            if diagnostic:
+                print(remove_ballots)
+                print(new_profile)
+            new_wins = smith_irv(new_profile, cands)[0]
+            # new_smith, foo = restrict_to_smith(new_profile, cands)
+            if len(new_wins)>1:
+                print('##### Multiple winners #####')
+                continue
+            if new_wins[0]==cond_win:
+                return [irv_win, cond_win, remove_ballots]
+                
+        
+    ## if there is a condorcet winner, try to make top cycle
+    else:
+        if diagnostic:
+            print('Condorcet winner')
+        cond_win = smith_set[0]
+        
+        irv_wins = IRV3(profile, cands)[0]
+        if len(irv_wins)>1:
+            print('##### Multiple winners #####')
+            return []
+        irv_win = irv_wins[0]
+        margin = margins[cands.index(cond_win), cands.index(irv_win)]
+        
+        if diagnostic:
+            print(cond_win)
+            print(irv_win)
+        
+        if irv_win != cond_win:
+            threats = [cand for cand in cands if cand != irv_win and cand != cond_win]
+            if diagnostic:
+                print(threats)
+            for threat in threats:
+                threat_marg = margins[cands.index(cond_win), cands.index(threat)]
+                if diagnostic:
+                    print(threat)
+                    print(threat_marg)
+                risky_ballots = []
+                new_profile = profile.copy(deep=True)
+                remove_ballots = []
+                for k in range(len(new_profile)):
+                    ballot = new_profile.at[k, 'ballot']
+                    ## prefers irv_win over cond_win over threat
+                    if irv_win in ballot and cond_win in ballot and ballot.find(irv_win)<ballot.find(cond_win):
+                        if threat not in ballot or (threat in ballot and ballot.find(cond_win)<ballot.find(threat)):
+                            ## not a risky ballot to remove
+                            if ballot[0]!=irv_win:
+                                remove_ballots.append([ballot, new_profile.at[k, 'Count']])
+                                threat_marg -= new_profile.at[k, 'Count']
+                                new_profile.at[k, 'Count'] = 0
+                
+                if diagnostic:
+                    print(remove_ballots)
+                    print(new_profile)
+                    print(threat_marg)
+                
+                new_wins = smith_irv(new_profile, cands)[0]
+                if diagnostic:
+                    print(new_wins)
+                    
+                if new_wins != [irv_win]:
+                    ## remove some risky ballots
+                    for k in range(len(new_profile)):
+                        ballot = new_profile.at[k, 'ballot']
+                        ## prefers irv_win over cond_win over threat
+                        if irv_win in ballot and cond_win in ballot and ballot.find(irv_win)<ballot.find(cond_win):
+                            if threat not in ballot or (threat in ballot and ballot.find(cond_win)<ballot.find(threat)):
+                                ## is a risky ballot to remove
+                                if ballot[0]==irv_win:
+                                    if profile.at[k, 'Count'] < threat_marg + 1:
+                                        remove_ballots.append([ballot, new_profile.at[k, 'Count']])
+                                        threat_marg -= new_profile.at[k, 'Count']
+                                        new_profile.at[k, 'Count'] = 0
+                                    else:
+                                        remove_ballots.append([ballot, threat_marg + 1])
+                                        new_profile.at[k, 'Count'] -= (threat_marg+1)
+                                        break
+                    
+                if diagnostic:
+                    print(remove_ballots)
+                    print(new_profile)
+                new_wins = smith_irv(new_profile, cands)[0]
+                if diagnostic:
+                    print(new_wins)
+                if len(new_wins)>1:
+                    print('##### Multiple winners #####')
+                    continue
+                new_win = new_wins[0]
+                if new_win == irv_win:
+                    return [cond_win, irv_win, remove_ballots]        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
