@@ -3,7 +3,7 @@ import json
 
 def gen_metadata(country):
     num_cands_kept = 4
-    file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/{country}_results_top{num_cands_kept}.csv'  # Replace with file path
+    file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/{country}_results_top{num_cands_kept}.csv'  # Replace with file path
     df = pd.read_csv(file_path)
 
     methods = ['plurality','IRV','top-two','borda-pm','borda-om','borda-avg','top-3-truncation','condorcet','minimax','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','approval']
@@ -83,13 +83,13 @@ def gen_metadata(country):
     }
 
     # write to output file
-    output_file = f"/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/{country}_results_top{num_cands_kept}.json"
+    output_file = f"/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/{country}_results_top{num_cands_kept}.json"
     with open(output_file, "w") as f:
         json.dump(output_data, f, indent=4)
 
     print(f"Grouped changes with metadata have been exported to {output_file}")
 
 gen_metadata('america')
-gen_metadata('australia')
-gen_metadata('scotland')
-gen_metadata('civs')
+#gen_metadata('australia')
+#gen_metadata('scotland')
+#gen_metadata('civs')

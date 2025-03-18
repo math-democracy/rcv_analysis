@@ -25,7 +25,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 23,Uilleam MACLEOD (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),skipped,skipped,,7
 24,Uilleam MACLEOD (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
 25,Uilleam MACLEOD (Ind),Keith DODSON (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
-26,Uilleam MACLEOD (Ind),Keith DODSON (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),skipped,,7
+26,Uilleam MACLEOD (Ind),Keith DODSON (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),skipped,,7
 27,Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 28,Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 29,Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -41,9 +41,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 39,Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),skipped,skipped,skipped,,7
 40,Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
 41,Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
-42,Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Keith DODSON (Ind),Bob DUNCAN (SNP),skipped,,7
+42,Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,skipped,,7
 43,Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-44,Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Keith DODSON (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),skipped,,7
+44,Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,,7
 45,Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
 46,Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
 47,Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
@@ -74,8 +74,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 72,Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,7
 73,Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
 74,Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
-75,Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
-76,Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Keith DODSON (Ind),skipped,,7
+75,Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
+76,Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Bob DUNCAN (SNP),Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),skipped,,7
 77,Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
 78,Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
 79,Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -86,7 +86,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 84,Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
 85,Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
 86,Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),skipped,skipped,,7
-87,Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,,7
+87,Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),skipped,,7
 88,Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
 89,Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
 90,Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
@@ -115,7 +115,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 113,Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
 114,Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,,7
 115,Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
-116,Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Keith DODSON (Ind),skipped,,7
+116,Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,,7
 117,Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 118,Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 119,Angus MCCORMACK (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
@@ -159,10 +159,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 157,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
 158,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),skipped,,7
 159,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),skipped,skipped,,7
-160,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,,7
+160,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),skipped,skipped,,7
 161,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Keith DODSON (Ind),skipped,skipped,skipped,,7
-162,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Angus CAMPBELL (Ind),skipped,,7
-163,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Angus CAMPBELL (Ind),skipped,,7
+162,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Keith DODSON (Ind),skipped,,7
+163,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Keith DODSON (Ind),skipped,,7
 164,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
 165,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
 166,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
@@ -182,7 +182,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 180,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),skipped,skipped,skipped,,7
 181,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),skipped,skipped,skipped,,7
 182,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Bob DUNCAN (SNP),skipped,,7
-183,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,,7
+183,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Bob DUNCAN (SNP),skipped,skipped,,7
 184,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,,7
 185,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
 186,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
@@ -217,8 +217,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 215,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
 216,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),Keith DODSON (Ind),skipped,,7
 217,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-218,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
-219,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
+218,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
+219,Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
 220,Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
 221,Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
 222,Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
@@ -232,8 +232,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 230,Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
 231,Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
 232,Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
-233,Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),Bob DUNCAN (SNP),skipped,,7
-234,Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
+233,Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),skipped,skipped,,7
+234,Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
 235,Angus MCCORMACK (Ind),Bob DUNCAN (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
 236,Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 237,Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
@@ -256,7 +256,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 254,Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
 255,Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,,7
 256,Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
-257,Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),Bob DUNCAN (SNP),Keith DODSON (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),skipped,,7
+257,Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),Bob DUNCAN (SNP),Keith DODSON (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,,7
 258,Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,skipped,,7
 259,Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,skipped,,7
 260,Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -302,8 +302,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 300,Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,skipped,,7
 301,Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),skipped,,7
 302,Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
-303,Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,,7
-304,Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),Keith DODSON (Ind),Bob DUNCAN (SNP),skipped,,7
+303,Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,,7
+304,Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),Keith DODSON (Ind),Charlie NICOLSON (Ind),skipped,,7
 305,Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
 306,Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
 307,Angus CAMPBELL (Ind),Keith DODSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -334,7 +334,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 332,Angus CAMPBELL (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
 333,Angus CAMPBELL (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),skipped,,7
 334,Angus CAMPBELL (Ind),Keith DODSON (Ind),Bob DUNCAN (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
-335,Angus CAMPBELL (Ind),Keith DODSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
+335,Angus CAMPBELL (Ind),Keith DODSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
 336,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 337,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 338,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -404,7 +404,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 402,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,skipped,,7
 403,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,skipped,,7
 404,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,skipped,,7
-405,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,,7
+405,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,,7
 406,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
 407,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
 408,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
@@ -418,16 +418,16 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 416,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
 417,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
 418,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
-419,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,,7
+419,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),skipped,,7
 420,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
-421,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Keith DODSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,,7
+421,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Keith DODSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
 422,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
 423,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
-424,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
+424,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
 425,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
-426,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
-427,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),skipped,skipped,,7
-428,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,,7
+426,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
+427,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Uilleam MACLEOD (Ind),skipped,skipped,skipped,,7
+428,Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,,7
 429,Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
 430,Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
 431,Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
@@ -435,12 +435,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 433,Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
 434,Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Keith DODSON (Ind),skipped,skipped,,7
 435,Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,,7
-436,Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Keith DODSON (Ind),skipped,,7
+436,Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,,7
 437,Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),skipped,,7
 438,Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
 439,Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
 440,Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Keith DODSON (Ind),skipped,skipped,skipped,,7
-441,Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
+441,Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
 442,Keith DODSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 443,Keith DODSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 444,Keith DODSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
@@ -466,7 +466,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 464,Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,7
 465,Keith DODSON (Ind),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
 466,Keith DODSON (Ind),Uilleam MACLEOD (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
-467,Keith DODSON (Ind),Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,,7
+467,Keith DODSON (Ind),Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),Angus CAMPBELL (Ind),skipped,,7
 468,Keith DODSON (Ind),Uilleam MACLEOD (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
 469,Keith DODSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,skipped,,7
 470,Keith DODSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -491,8 +491,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 489,Keith DODSON (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
 490,Keith DODSON (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
 491,Keith DODSON (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
-492,Keith DODSON (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),Bob DUNCAN (SNP),skipped,,7
-493,Keith DODSON (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,,7
+492,Keith DODSON (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),Angus CAMPBELL (Ind),skipped,,7
+493,Keith DODSON (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
 494,Keith DODSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
 495,Keith DODSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
 496,Keith DODSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
@@ -505,14 +505,14 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 503,Keith DODSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
 504,Keith DODSON (Ind),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 505,Keith DODSON (Ind),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-506,Keith DODSON (Ind),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),skipped,,7
+506,Keith DODSON (Ind),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,,7
 507,Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
 508,Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
 509,Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
 510,Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
 511,Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
 512,Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
-513,Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,,7
+513,Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
 514,Keith DODSON (Ind),Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
 515,Keith DODSON (Ind),Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
 516,Keith DODSON (Ind),Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
@@ -551,12 +551,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 549,Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),skipped,,7
 550,Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),skipped,,7
 551,Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
-552,Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,,7
-553,Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,,7
-554,Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,,7
+552,Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),skipped,,7
+553,Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),skipped,,7
+554,Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),Uilleam MACLEOD (Ind),skipped,,7
 555,Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
 556,Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,,7
-557,Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Angus CAMPBELL (Ind),skipped,,7
+557,Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),skipped,,7
 558,Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
 559,Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
 560,Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
@@ -582,7 +582,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 580,Keith DODSON (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),skipped,skipped,skipped,,7
 581,Keith DODSON (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
 582,Keith DODSON (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
-583,Keith DODSON (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
+583,Keith DODSON (Ind),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
 584,Keith DODSON (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
 585,Keith DODSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
 586,Keith DODSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
@@ -599,19 +599,19 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 597,Keith DODSON (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
 598,Keith DODSON (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,skipped,,7
 599,Keith DODSON (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,skipped,,7
-600,Keith DODSON (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),Angus CAMPBELL (Ind),skipped,,7
+600,Keith DODSON (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),skipped,,7
 601,Keith DODSON (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
-602,Keith DODSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-603,Keith DODSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-604,Keith DODSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-605,Keith DODSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
-606,Keith DODSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
+602,Keith DODSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+603,Keith DODSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+604,Keith DODSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+605,Keith DODSON (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
+606,Keith DODSON (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
 607,Keith DODSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-608,Keith DODSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
-609,Keith DODSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
-610,Keith DODSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
-611,Keith DODSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
-612,Keith DODSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
+608,Keith DODSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
+609,Keith DODSON (Ind),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
+610,Keith DODSON (Ind),Bob DUNCAN (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
+611,Keith DODSON (Ind),Bob DUNCAN (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
+612,Keith DODSON (Ind),Bob DUNCAN (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
 613,Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 614,Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 615,Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
@@ -723,12 +723,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 721,Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),skipped,,7
 722,Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
 723,Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
-724,Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),Keith DODSON (Ind),skipped,,7
+724,Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),skipped,,7
 725,Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
 726,Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),skipped,,7
 727,Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,,7
 728,Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),skipped,,7
-729,Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
+729,Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
 730,Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
 731,Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
 732,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -781,7 +781,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 779,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Keith DODSON (Ind),skipped,skipped,skipped,,7
 780,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Keith DODSON (Ind),skipped,,7
 781,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,,7
-782,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Angus CAMPBELL (Ind),skipped,,7
+782,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Keith DODSON (Ind),skipped,,7
 783,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
 784,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
 785,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
@@ -879,7 +879,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 877,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
 878,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),skipped,skipped,,7
 879,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,,7
-880,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),skipped,,7
+880,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),skipped,,7
 881,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
 882,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
 883,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
@@ -909,24 +909,24 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 907,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Keith DODSON (Ind),skipped,skipped,,7
 908,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Keith DODSON (Ind),skipped,skipped,,7
 909,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,,7
-910,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),skipped,skipped,,7
-911,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),Keith DODSON (Ind),skipped,,7
+910,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
+911,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,,7
 912,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,,7
 913,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,,7
 914,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,,7
 915,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,,7
 916,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,,7
 917,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,,7
-918,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Bob DUNCAN (SNP),skipped,skipped,,7
-919,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
-920,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
-921,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Angus CAMPBELL (Ind),skipped,skipped,,7
-922,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Angus CAMPBELL (Ind),Keith DODSON (Ind),skipped,,7
-923,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Keith DODSON (Ind),Angus CAMPBELL (Ind),skipped,,7
+918,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,,7
+919,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
+920,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
+921,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
+922,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,,7
+923,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),skipped,,7
 924,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
 925,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-926,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
-927,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
+926,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
+927,Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
 928,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
 929,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
 930,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -999,8 +999,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 997,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),skipped,skipped,skipped,,7
 998,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),skipped,skipped,skipped,,7
 999,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),skipped,,7
-1000,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,,7
-1001,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,,7
+1000,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,,7
+1001,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,,7
 1002,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,skipped,skipped,,7
 1003,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,skipped,skipped,,7
 1004,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,skipped,skipped,,7
@@ -1014,7 +1014,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1012,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,skipped,,7
 1013,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,,7
 1014,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),skipped,,7
-1015,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,,7
+1015,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),skipped,,7
 1016,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
 1017,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
 1018,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
@@ -1025,10 +1025,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1023,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
 1024,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,,7
 1025,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,,7
-1026,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Bob DUNCAN (SNP),skipped,,7
-1027,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Uilleam MACLEOD (Ind),skipped,,7
-1028,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Keith DODSON (Ind),skipped,,7
-1029,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,,7
+1026,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,,7
+1027,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),Keith DODSON (Ind),skipped,,7
+1028,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,,7
+1029,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,,7
 1030,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
 1031,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
 1032,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
@@ -1043,8 +1043,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1041,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,skipped,skipped,,7
 1042,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),skipped,skipped,,7
 1043,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),skipped,skipped,,7
-1044,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,,7
-1045,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,,7
+1044,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),skipped,,7
+1045,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),skipped,,7
 1046,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
 1047,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
 1048,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
@@ -1063,16 +1063,16 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1061,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
 1062,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
 1063,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,skipped,,7
-1064,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Keith DODSON (Ind),Bob DUNCAN (SNP),skipped,,7
+1064,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,,7
 1065,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,,7
 1066,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,,7
 1067,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,,7
-1068,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),skipped,,7
-1069,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),skipped,,7
+1068,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),skipped,,7
+1069,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),skipped,,7
 1070,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
 1071,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),Keith DODSON (Ind),skipped,skipped,skipped,,7
-1072,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
-1073,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,,7
+1072,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
+1073,Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,,7
 1074,Charlie NICOLSON (Ind),Keith DODSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1075,Charlie NICOLSON (Ind),Keith DODSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1076,Charlie NICOLSON (Ind),Keith DODSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -1117,15 +1117,15 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1115,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),skipped,skipped,,7
 1116,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),skipped,skipped,,7
 1117,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),skipped,skipped,,7
-1118,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,,7
+1118,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),skipped,,7
 1119,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
 1120,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
 1121,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
 1122,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),Angus CAMPBELL (Ind),skipped,,7
 1123,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,,7
 1124,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
-1125,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,,7
-1126,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,,7
+1125,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
+1126,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),skipped,,7
 1127,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
 1128,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
 1129,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
@@ -1152,9 +1152,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1150,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),skipped,,7
 1151,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Rae MACKENZIE (SNP),skipped,,7
 1152,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),skipped,,7
-1153,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,,7
+1153,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),Uilleam MACLEOD (Ind),skipped,,7
 1154,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
-1155,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),skipped,,7
+1155,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),skipped,,7
 1156,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
 1157,Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
 1158,Charlie NICOLSON (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
@@ -1172,14 +1172,14 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1170,Charlie NICOLSON (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
 1171,Charlie NICOLSON (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
 1172,Charlie NICOLSON (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
-1173,Charlie NICOLSON (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
-1174,Charlie NICOLSON (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
-1175,Charlie NICOLSON (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
+1173,Charlie NICOLSON (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
+1174,Charlie NICOLSON (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
+1175,Charlie NICOLSON (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
 1176,Charlie NICOLSON (Ind),Keith DODSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
 1177,Charlie NICOLSON (Ind),Keith DODSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
 1178,Charlie NICOLSON (Ind),Keith DODSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1179,Charlie NICOLSON (Ind),Keith DODSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
-1180,Charlie NICOLSON (Ind),Keith DODSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
+1179,Charlie NICOLSON (Ind),Keith DODSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
+1180,Charlie NICOLSON (Ind),Keith DODSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
 1181,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
 1182,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
 1183,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
@@ -1225,8 +1225,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1223,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,skipped,skipped,,7
 1224,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,skipped,skipped,,7
 1225,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,skipped,,7
-1226,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
-1227,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
+1226,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
+1227,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
 1228,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
 1229,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
 1230,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
@@ -1245,58 +1245,58 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1243,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
 1244,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
 1245,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Keith DODSON (Ind),skipped,skipped,skipped,,7
-1246,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
-1247,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
+1246,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
+1247,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
 1248,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
 1249,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
 1250,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
-1251,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Bob DUNCAN (SNP),Angus CAMPBELL (Ind),skipped,,7
+1251,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),skipped,,7
 1252,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
 1253,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
 1254,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
-1255,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
-1256,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
-1257,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1258,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1259,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1260,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1261,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1262,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1263,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1264,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1265,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1266,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1267,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1268,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1269,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1270,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1271,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1272,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1273,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1274,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1275,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1276,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1277,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1278,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Uilleam MACLEOD (Ind),skipped,skipped,skipped,,7
-1279,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Uilleam MACLEOD (Ind),skipped,skipped,skipped,,7
-1280,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Uilleam MACLEOD (Ind),skipped,skipped,skipped,,7
-1281,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Uilleam MACLEOD (Ind),skipped,skipped,skipped,,7
-1282,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Uilleam MACLEOD (Ind),skipped,skipped,skipped,,7
-1283,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
-1284,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,,7
-1285,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),skipped,,7
+1255,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
+1256,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
+1257,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1258,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1259,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1260,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1261,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1262,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1263,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1264,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1265,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1266,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1267,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1268,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1269,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1270,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1271,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1272,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1273,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1274,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1275,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1276,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1277,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1278,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+1279,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+1280,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+1281,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+1282,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+1283,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
+1284,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,,7
+1285,Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,,7
 1286,Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
 1287,Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
 1288,Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
 1289,Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,skipped,skipped,,7
-1290,Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
-1291,Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,skipped,skipped,,7
+1290,Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
+1291,Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
 1292,Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
-1293,Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Keith DODSON (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),skipped,,7
-1294,Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
-1295,Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
-1296,Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,,7
-1297,Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,,7
+1293,Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,,7
+1294,Charlie NICOLSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1295,Charlie NICOLSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1296,Charlie NICOLSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
+1297,Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),skipped,,7
 1298,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
 1299,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
 1300,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
@@ -1309,20 +1309,20 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1307,Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Charlie NICOLSON (Ind),skipped,skipped,,7
 1308,Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
 1309,Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),skipped,,7
-1310,Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),Keith DODSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
-1311,Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
+1310,Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
+1311,Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1312,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,skipped,,7
-1313,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Keith DODSON (Ind),skipped,,7
-1314,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Keith DODSON (Ind),skipped,,7
+1313,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),Keith DODSON (Ind),skipped,skipped,,7
+1314,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),Keith DODSON (Ind),skipped,skipped,,7
 1315,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
 1316,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
-1317,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
-1318,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
+1317,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
+1318,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
 1319,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
 1320,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
 1321,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Keith DODSON (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
-1322,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
-1323,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),Keith DODSON (Ind),skipped,skipped,skipped,,7
+1322,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
+1323,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
 1324,Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1325,Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1326,Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -1333,22 +1333,22 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1331,Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
 1332,Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
 1333,Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),Keith DODSON (Ind),skipped,,7
-1334,Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1335,Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
+1334,Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1335,Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
 1336,Rae MACKENZIE (SNP),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 1337,Rae MACKENZIE (SNP),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
-1338,Rae MACKENZIE (SNP),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),skipped,,7
+1338,Rae MACKENZIE (SNP),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,,7
 1339,Rae MACKENZIE (SNP),Keith DODSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
 1340,Rae MACKENZIE (SNP),Keith DODSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
 1341,Rae MACKENZIE (SNP),Keith DODSON (Ind),Angus MCCORMACK (Ind),Uilleam MACLEOD (Ind),skipped,skipped,skipped,,7
 1342,Rae MACKENZIE (SNP),Keith DODSON (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
-1343,Rae MACKENZIE (SNP),Keith DODSON (Ind),Angus MCCORMACK (Ind),Bob DUNCAN (SNP),Charlie NICOLSON (Ind),skipped,skipped,,7
+1343,Rae MACKENZIE (SNP),Keith DODSON (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
 1344,Rae MACKENZIE (SNP),Keith DODSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
 1345,Rae MACKENZIE (SNP),Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
 1346,Rae MACKENZIE (SNP),Keith DODSON (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
 1347,Rae MACKENZIE (SNP),Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),skipped,,7
 1348,Rae MACKENZIE (SNP),Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),skipped,,7
-1349,Rae MACKENZIE (SNP),Keith DODSON (Ind),Bob DUNCAN (SNP),Uilleam MACLEOD (Ind),skipped,skipped,skipped,,7
+1349,Rae MACKENZIE (SNP),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 1350,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1351,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1352,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -1364,7 +1364,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1362,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
 1363,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
 1364,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
-1365,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Bob DUNCAN (SNP),skipped,skipped,,7
+1365,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,skipped,skipped,,7
 1366,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
 1367,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
 1368,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
@@ -1374,7 +1374,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1372,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,skipped,,7
 1373,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,skipped,,7
 1374,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,,7
-1375,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,,7
+1375,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
 1376,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
 1377,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,skipped,skipped,,7
 1378,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
@@ -1382,120 +1382,120 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1380,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
 1381,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),skipped,skipped,,7
 1382,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),skipped,skipped,,7
-1383,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1384,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1385,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1386,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,,7
-1387,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),skipped,,7
-1388,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
-1389,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Bob DUNCAN (SNP),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),skipped,,7
-1390,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1391,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1392,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1393,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1394,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1395,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1396,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1397,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1398,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1399,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1400,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1401,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1402,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1403,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1404,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1405,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1406,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1407,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1408,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1409,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1410,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1411,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1412,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Uilleam MACLEOD (Ind),Keith DODSON (Ind),skipped,skipped,skipped,,7
-1413,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Uilleam MACLEOD (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),skipped,,7
-1414,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Uilleam MACLEOD (Ind),Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),skipped,,7
-1415,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
-1416,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
-1417,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
-1418,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
-1419,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
-1420,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
-1421,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
-1422,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
-1423,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Angus CAMPBELL (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),skipped,,7
-1424,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
-1425,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,,7
-1426,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
-1427,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
-1428,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
-1429,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
-1430,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Keith DODSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
-1431,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
-1432,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
-1433,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
-1434,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
-1435,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
-1436,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
-1437,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
-1438,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
-1439,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),skipped,,7
-1440,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
-1441,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,,7
-1442,Rae MACKENZIE (SNP),Bob DUNCAN (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),skipped,,7
+1383,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1384,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1385,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1386,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1387,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),skipped,skipped,,7
+1388,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
+1389,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,,7
+1390,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1391,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1392,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1393,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1394,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1395,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1396,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1397,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1398,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1399,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1400,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1401,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1402,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1403,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1404,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1405,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1406,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1407,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1408,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1409,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1410,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1411,Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1412,Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
+1413,Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,,7
+1414,Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),Keith DODSON (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,,7
+1415,Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
+1416,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
+1417,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
+1418,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
+1419,Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
+1420,Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1421,Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1422,Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1423,Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,,7
+1424,Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
+1425,Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7
+1426,Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1427,Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1428,Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1429,Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1430,Rae MACKENZIE (SNP),Keith DODSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
+1431,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1432,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1433,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1434,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1435,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1436,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
+1437,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
+1438,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
+1439,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),skipped,,7
+1440,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
+1441,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
+1442,Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,,7
 1443,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
 1444,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
 1445,Bob DUNCAN (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
-1446,Bob DUNCAN (SNP),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),skipped,skipped,,7
+1446,Bob DUNCAN (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),skipped,skipped,skipped,,7
 1447,Bob DUNCAN (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1448,Bob DUNCAN (SNP),Charlie NICOLSON (Ind),Uilleam MACLEOD (Ind),Keith DODSON (Ind),skipped,skipped,skipped,,7
 1449,Bob DUNCAN (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
-1450,Bob DUNCAN (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),Rae MACKENZIE (SNP),skipped,,7
-1451,Bob DUNCAN (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),Rae MACKENZIE (SNP),skipped,,7
-1452,Bob DUNCAN (SNP),Charlie NICOLSON (Ind),Keith DODSON (Ind),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),skipped,,7
-1453,Bob DUNCAN (SNP),Charlie NICOLSON (Ind),Rae MACKENZIE (SNP),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),skipped,,7
-1454,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1455,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1456,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1457,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1458,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1459,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1460,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1461,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1462,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1463,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1464,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1465,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1466,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1467,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1468,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1469,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1470,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1471,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1472,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1473,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1474,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1475,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1476,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1477,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1478,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-1479,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Uilleam MACLEOD (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),skipped,,7
-1480,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
-1481,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,,7
-1482,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
-1483,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
-1484,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
-1485,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
-1486,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
-1487,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
-1488,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,,7
-1489,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),skipped,skipped,skipped,,7
-1490,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,,7
-1491,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Keith DODSON (Ind),skipped,skipped,skipped,skipped,,7
-1492,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
-1493,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
-1494,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
-1495,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
-1496,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
-1497,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
-1498,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
-1499,Bob DUNCAN (SNP),Rae MACKENZIE (SNP),Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,,7
+1450,Bob DUNCAN (SNP),Charlie NICOLSON (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),skipped,,7
+1451,Bob DUNCAN (SNP),Charlie NICOLSON (Ind),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),Keith DODSON (Ind),skipped,,7
+1452,Bob DUNCAN (SNP),Charlie NICOLSON (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,,7
+1453,Bob DUNCAN (SNP),Charlie NICOLSON (Ind),Keith DODSON (Ind),Uilleam MACLEOD (Ind),Angus MCCORMACK (Ind),Angus CAMPBELL (Ind),skipped,,7
+1454,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1455,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1456,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1457,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1458,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1459,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1460,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1461,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1462,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1463,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1464,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1465,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1466,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1467,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1468,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1469,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1470,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1471,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1472,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1473,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1474,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1475,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1476,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1477,Bob DUNCAN (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
+1478,Bob DUNCAN (SNP),Uilleam MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1479,Bob DUNCAN (SNP),Uilleam MACLEOD (Ind),Keith DODSON (Ind),Angus CAMPBELL (Ind),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,,7
+1480,Bob DUNCAN (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1481,Bob DUNCAN (SNP),Angus MCCORMACK (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1482,Bob DUNCAN (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
+1483,Bob DUNCAN (SNP),Angus MCCORMACK (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
+1484,Bob DUNCAN (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1485,Bob DUNCAN (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1486,Bob DUNCAN (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1487,Bob DUNCAN (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1488,Bob DUNCAN (SNP),Angus CAMPBELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1489,Bob DUNCAN (SNP),Angus CAMPBELL (Ind),Uilleam MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+1490,Bob DUNCAN (SNP),Angus CAMPBELL (Ind),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,,7
+1491,Bob DUNCAN (SNP),Keith DODSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1492,Bob DUNCAN (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1493,Bob DUNCAN (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1494,Bob DUNCAN (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1495,Bob DUNCAN (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1496,Bob DUNCAN (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1497,Bob DUNCAN (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1498,Bob DUNCAN (SNP),Charlie NICOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1499,Bob DUNCAN (SNP),Charlie NICOLSON (Ind),Keith DODSON (Ind),Angus MCCORMACK (Ind),skipped,skipped,skipped,,7

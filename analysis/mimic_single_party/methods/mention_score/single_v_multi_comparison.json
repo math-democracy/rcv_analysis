@@ -2,20 +2,20 @@
     "metadata": {
         "total_elections": 1128,
         "elections_with_changes": 425,
-        "total_method_count": 1320,
+        "total_method_count": 1316,
         "method_counts": {
             "plurality": 290,
             "IRV": 65,
             "top-two": 111,
             "borda-pm": 60,
-            "borda-om": 186,
+            "borda-om": 185,
             "borda-avg": 71,
             "top-3-truncation": 113,
             "condorcet": 54,
-            "minimax": 53,
-            "smith_plurality": 55,
+            "minimax": 52,
+            "smith_plurality": 54,
             "smith_irv": 53,
-            "smith-minimax": 53,
+            "smith-minimax": 52,
             "ranked-pairs": 52,
             "bucklin": 52,
             "approval": 52
@@ -9177,39 +9177,6 @@
                 "Con": 1
             }
         },
-        "raw_data/scotland/processed_data/shetland17/Ward1-NorthIsles_shetland17-01.csv": {
-            "changes": {
-                "borda-om": {
-                    "multi_party_winner": "['Alec George PRIEST (Ind)', 'Ryan James Andrew THOMSON (Ind)']",
-                    "single_party_winner": "['Ryan James Andrew THOMSON (Ind)', 'Alec George PRIEST (Ind)']"
-                }
-            },
-            "candidates": [
-                "Cecil HUGHSON (Ind)",
-                "Lynsay Anne CUNNINGHAM (Ind)",
-                "Duncan SIMPSON (Ind)",
-                "Alec George PRIEST (Ind)",
-                "Ryan James Andrew THOMSON (Ind)"
-            ],
-            "new_candidates": [
-                "Cecil HUGHSON (Ind)",
-                "Lynsay Anne CUNNINGHAM (Ind)",
-                "Alec George PRIEST (Ind)",
-                "Ryan James Andrew THOMSON (Ind)",
-                "Duncan SIMPSON (Ind)"
-            ],
-            "removed_candidates": [],
-            "scores": {
-                "Lynsay Anne CUNNINGHAM (Ind)": 419,
-                "Cecil HUGHSON (Ind)": 733,
-                "Alec George PRIEST (Ind)": 1065,
-                "Duncan SIMPSON (Ind)": 1052,
-                "Ryan James Andrew THOMSON (Ind)": 1030
-            },
-            "parties": {
-                "Ind": 5
-            }
-        },
         "raw_data/scotland/processed_data/n-ayrshire17-ballots/Saltcoats_n-ayrshire17-09.csv": {
             "changes": {
                 "plurality": {
@@ -10837,7 +10804,7 @@
                     "single_party_winner": "['Olivia CARSON (Lab)']"
                 },
                 "borda-avg": {
-                    "multi_party_winner": "[\"Pat O'ROURKE (Lab)\", 'Olivia CARSON (Lab)']",
+                    "multi_party_winner": "['Olivia CARSON (Lab)', \"Pat O'ROURKE (Lab)\"]",
                     "single_party_winner": "['Olivia CARSON (Lab)']"
                 },
                 "bucklin": {
@@ -12006,10 +11973,6 @@
                 "borda-om": {
                     "multi_party_winner": "['Gladys FERGUSON-MILLER (SNP)']",
                     "single_party_winner": "['Graham SCOTT (Lab)']"
-                },
-                "bucklin": {
-                    "multi_party_winner": "['Graham SCOTT (Lab)']",
-                    "single_party_winner": "['Gladys FERGUSON-MILLER (SNP)']"
                 }
             },
             "candidates": [
@@ -15552,21 +15515,9 @@
                     "multi_party_winner": "['Maureen BURKE (Lab)']",
                     "single_party_winner": "['Ruairi KELLY (SNP)']"
                 },
-                "minimax": {
-                    "multi_party_winner": "['Maureen BURKE (Lab)', 'Ruairi KELLY (SNP)']",
-                    "single_party_winner": "['Ruairi KELLY (SNP)', 'Maureen BURKE (Lab)']"
-                },
                 "smith_plurality": {
                     "multi_party_winner": "['Maureen BURKE (Lab)']",
                     "single_party_winner": "['Ruairi KELLY (SNP)']"
-                },
-                "smith_irv": {
-                    "multi_party_winner": "['Maureen BURKE (Lab)']",
-                    "single_party_winner": "['Ruairi KELLY (SNP)']"
-                },
-                "smith-minimax": {
-                    "multi_party_winner": "['Maureen BURKE (Lab)', 'Ruairi KELLY (SNP)']",
-                    "single_party_winner": "['Ruairi KELLY (SNP)', 'Maureen BURKE (Lab)']"
                 }
             },
             "candidates": [
@@ -15996,6 +15947,10 @@
                     "multi_party_winner": "['John FERGUSON (SNP)']",
                     "single_party_winner": "['Joe CULLINANE (Lab)']"
                 },
+                "top-two": {
+                    "multi_party_winner": "['John FERGUSON (SNP)']",
+                    "single_party_winner": "['Joe CULLINANE (Lab)']"
+                },
                 "borda-pm": {
                     "multi_party_winner": "['John FERGUSON (SNP)']",
                     "single_party_winner": "['Joe CULLINANE (Lab)']"
@@ -16005,24 +15960,24 @@
                     "single_party_winner": "['Joe CULLINANE (Lab)']"
                 },
                 "minimax": {
-                    "multi_party_winner": "['John FERGUSON (SNP)', 'Joe CULLINANE (Lab)']",
-                    "single_party_winner": "['Joe CULLINANE (Lab)', 'John FERGUSON (SNP)']"
+                    "multi_party_winner": "['Joe CULLINANE (Lab)', 'John FERGUSON (SNP)']",
+                    "single_party_winner": "['John FERGUSON (SNP)', 'Joe CULLINANE (Lab)']"
                 },
-                "smith_plurality": {
+                "smith_irv": {
+                    "multi_party_winner": "['John FERGUSON (SNP)']",
+                    "single_party_winner": "['Joe CULLINANE (Lab)']"
+                },
+                "smith-minimax": {
+                    "multi_party_winner": "['Joe CULLINANE (Lab)', 'John FERGUSON (SNP)']",
+                    "single_party_winner": "['John FERGUSON (SNP)', 'Joe CULLINANE (Lab)']"
+                },
+                "ranked-pairs": {
                     "multi_party_winner": "['Joe CULLINANE (Lab)']",
                     "single_party_winner": "['John FERGUSON (SNP)']"
                 },
-                "smith-minimax": {
-                    "multi_party_winner": "['John FERGUSON (SNP)', 'Joe CULLINANE (Lab)']",
-                    "single_party_winner": "['Joe CULLINANE (Lab)', 'John FERGUSON (SNP)']"
-                },
-                "ranked-pairs": {
-                    "multi_party_winner": "['John FERGUSON (SNP)']",
-                    "single_party_winner": "['Joe CULLINANE (Lab)']"
-                },
                 "approval": {
-                    "multi_party_winner": "['John FERGUSON (SNP)']",
-                    "single_party_winner": "['Joe CULLINANE (Lab)']"
+                    "multi_party_winner": "['Joe CULLINANE (Lab)']",
+                    "single_party_winner": "['John FERGUSON (SNP)']"
                 }
             },
             "candidates": [
@@ -17531,6 +17486,63 @@
                 "SNP": 2,
                 "Lab": 2,
                 "EKA": 1
+            }
+        },
+        "raw_data/scotland/processed_data/s-lanarks12-ballots/Ward5-AvondaleandStonehouse_s-lanarks12-05.csv": {
+            "changes": {
+                "bucklin": {
+                    "multi_party_winner": "['William HOLMAN (SNP)']",
+                    "single_party_winner": "['Isobel DORMAN (SNP)']"
+                }
+            },
+            "candidates": [
+                "Erica YOUNG (Grn)",
+                "Graeme CAMPBELL (Ind)",
+                "Lynn FILSHIE (Ind)",
+                "Kenny WEIR (Ind)",
+                "Isobel DORMAN (SNP)",
+                "William HOLMAN (SNP)",
+                "Margaret COOPER (Lab)",
+                "Melvyn Donald RANDALL (UKIP)",
+                "Jim MALLOY (Ind)",
+                "John HAMILTON (Lab)",
+                "Allan FINNIE (Con)"
+            ],
+            "new_candidates": [
+                "Erica YOUNG (Grn)",
+                "Graeme CAMPBELL (Ind)",
+                "Kenny WEIR (Ind)",
+                "Lynn FILSHIE (Ind)",
+                "Isobel DORMAN (SNP)",
+                "Melvyn Donald RANDALL (UKIP)",
+                "Jim MALLOY (Ind)",
+                "John HAMILTON (Lab)",
+                "Allan FINNIE (Con)"
+            ],
+            "removed_candidates": [
+                "William HOLMAN (SNP)",
+                "Margaret COOPER (Lab)"
+            ],
+            "scores": {
+                "Graeme CAMPBELL (Ind)": 1596,
+                "Kenny WEIR (Ind)": 810,
+                "Erica YOUNG (Grn)": 1309,
+                "William HOLMAN (SNP)": 2558,
+                "Lynn FILSHIE (Ind)": 1918,
+                "Margaret COOPER (Lab)": 1621,
+                "Allan FINNIE (Con)": 1194,
+                "Isobel DORMAN (SNP)": 2561,
+                "Melvyn Donald RANDALL (UKIP)": 442,
+                "Jim MALLOY (Ind)": 1575,
+                "John HAMILTON (Lab)": 1633
+            },
+            "parties": {
+                "Grn": 1,
+                "Ind": 4,
+                "SNP": 2,
+                "Lab": 2,
+                "UKIP": 1,
+                "Con": 1
             }
         },
         "raw_data/scotland/processed_data/s-lanarks12-ballots/Ward16-BothwellandUddingston_s-lanarks12-16.csv": {
@@ -19578,7 +19590,7 @@
                     "single_party_winner": "['Gordon MCDONALD (SNP)']"
                 },
                 "top-two": {
-                    "multi_party_winner": "['Sonya WARREN (SNP)']",
+                    "multi_party_winner": "['Tim EAGLE (Con)']",
                     "single_party_winner": "['Gordon MCDONALD (SNP)']"
                 },
                 "borda-pm": {
@@ -22375,10 +22387,6 @@
         },
         "raw_data/scotland/processed_data/dumgal12-ballots/CastleDouglasandGlenkensWard_dumgal12-05.csv": {
             "changes": {
-                "top-two": {
-                    "multi_party_winner": "['(Con) Finlay CARSON']",
-                    "single_party_winner": "['(Ind) George N PRENTICE']"
-                },
                 "top-3-truncation": {
                     "multi_party_winner": "['(Con) Finlay CARSON']",
                     "single_party_winner": "['(Ind) George N PRENTICE']"

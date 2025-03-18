@@ -14,9 +14,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 12,Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 13,Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 14,Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),skipped,skipped,,9
-15,Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Alex Dan SMITH (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),skipped,,9
+15,Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),DJ MACRAE (Ind),skipped,,9
 16,Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-17,Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Denise WILSON (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),skipped,,9
+17,Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Denise WILSON (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
 18,Sheena MACLEOD (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 19,Sheena MACLEOD (Ind),DJ MACRAE (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 20,Sheena MACLEOD (Ind),DJ MACRAE (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -51,7 +51,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 49,Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
 50,Sheena MACLEOD (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 51,Sheena MACLEOD (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-52,Sheena MACLEOD (Ind),Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),skipped,skipped,,9
+52,Sheena MACLEOD (Ind),Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),skipped,skipped,skipped,,9
 53,Sheena MACLEOD (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 54,Sheena MACLEOD (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 55,Sheena MACLEOD (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -77,7 +77,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 75,Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),skipped,skipped,skipped,skipped,skipped,,9
 76,Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Denise WILSON (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),skipped,skipped,skipped,,9
 77,Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Denise WILSON (Ind),Alex Dan SMITH (Ind),skipped,skipped,skipped,skipped,skipped,,9
-78,Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
+78,Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 79,Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 80,Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 81,Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -122,16 +122,16 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 120,Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 121,Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 122,Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,,9
-123,Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),John Graham MITCHELL (SNP),DJ MACRAE (Ind),skipped,,9
+123,Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),Fiona MACLEOD (SNP),DJ MACRAE (Ind),skipped,,9
 124,Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,,9
 125,Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 126,Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,,9
-127,Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),John Graham MITCHELL (SNP),skipped,,9
+127,Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),DJ MACRAE (Ind),John Graham MITCHELL (SNP),skipped,,9
 128,Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
 129,Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
 130,Paul Anthony FINNEGAN (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 131,Paul Anthony FINNEGAN (Ind),DJ MACRAE (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-132,Paul Anthony FINNEGAN (Ind),DJ MACRAE (Ind),Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),skipped,,9
+132,Paul Anthony FINNEGAN (Ind),DJ MACRAE (Ind),Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),skipped,,9
 133,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 134,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 135,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -151,17 +151,17 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 149,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,,9
 150,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,,9
 151,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,,9
-152,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),Alex Dan SMITH (Ind),John Graham MITCHELL (SNP),skipped,,9
-153,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),Alex Dan SMITH (Ind),Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),DJ MACRAE (Ind),skipped,,9
-154,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),Alex Dan SMITH (Ind),Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),DJ MACRAE (Ind),skipped,,9
+152,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),John Graham MITCHELL (SNP),skipped,,9
+153,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),Alex Dan SMITH (Ind),Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),DJ MACRAE (Ind),skipped,,9
+154,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),Alex Dan SMITH (Ind),Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),DJ MACRAE (Ind),skipped,,9
 155,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,,9
-156,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),Denise WILSON (Ind),Fiona MACLEOD (SNP),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
+156,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),Fiona MACLEOD (SNP),Alex Dan SMITH (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),skipped,,9
 157,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 158,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 159,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 160,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 161,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,,9
-162,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),Alex Dan SMITH (Ind),Denise WILSON (Ind),John Graham MITCHELL (SNP),skipped,,9
+162,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),Catherine MACDONALD (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),skipped,,9
 163,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,,9
 164,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),skipped,skipped,,9
 165,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -178,7 +178,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 176,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 177,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 178,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,,9
-179,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Denise WILSON (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,,9
+179,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Denise WILSON (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,,9
 180,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 181,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
 182,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -243,31 +243,31 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 241,Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 242,Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 243,Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,,9
-244,Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-245,Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,,9
-246,Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Catherine MACDONALD (Ind),Alex Dan SMITH (Ind),skipped,,9
+244,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+245,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
+246,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),skipped,,9
 247,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 248,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 249,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 250,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 251,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 252,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,,9
-253,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,,9
+253,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,9
 254,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 255,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),DJ MACRAE (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,,9
-256,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,,9
+256,Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
 257,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 258,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-259,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),DJ MACRAE (Ind),skipped,,9
-260,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-261,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-262,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-263,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-264,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-265,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-266,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,,9
-267,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,,9
-268,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,,9
+259,Paul Anthony FINNEGAN (Ind),Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
+260,Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+261,Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+262,Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+263,Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+264,Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+265,Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+266,Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
+267,Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,,9
+268,Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,,9
 269,DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 270,DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 271,DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -299,17 +299,17 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 297,DJ MACRAE (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 298,DJ MACRAE (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 299,DJ MACRAE (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-300,DJ MACRAE (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Alex Dan SMITH (Ind),skipped,,9
-301,DJ MACRAE (Ind),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,,9
+300,DJ MACRAE (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Alex Dan SMITH (Ind),skipped,,9
+301,DJ MACRAE (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,,9
 302,DJ MACRAE (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 303,DJ MACRAE (Ind),Catherine MACDONALD (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 304,DJ MACRAE (Ind),Denise WILSON (Ind),Alex Dan SMITH (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,,9
 305,DJ MACRAE (Ind),Alex Dan SMITH (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 306,DJ MACRAE (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-307,DJ MACRAE (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),Denise WILSON (Ind),skipped,skipped,skipped,skipped,,9
-308,DJ MACRAE (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-309,DJ MACRAE (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-310,DJ MACRAE (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),skipped,,9
+307,DJ MACRAE (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,,9
+308,DJ MACRAE (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+309,DJ MACRAE (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+310,DJ MACRAE (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),skipped,,9
 311,Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 312,Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 313,Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -426,7 +426,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 424,Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
 425,Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
 426,Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-427,Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),DJ MACRAE (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),skipped,skipped,,9
+427,Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),DJ MACRAE (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,,9
 428,Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,,9
 429,Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,,9
 430,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -467,11 +467,11 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 465,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 466,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 467,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-468,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Fiona MACLEOD (SNP),Alex Dan SMITH (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),skipped,,9
+468,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),skipped,,9
 469,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,,9
 470,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 471,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-472,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),DJ MACRAE (Ind),Denise WILSON (Ind),John Graham MITCHELL (SNP),Alex Dan SMITH (Ind),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),skipped,,9
+472,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),DJ MACRAE (Ind),Denise WILSON (Ind),Alex Dan SMITH (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Catherine MACDONALD (Ind),skipped,,9
 473,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 474,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 475,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -508,7 +508,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 506,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),skipped,skipped,,9
 507,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,,9
 508,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),DJ MACRAE (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),skipped,,9
-509,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Alex Dan SMITH (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),skipped,,9
+509,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),Alex Dan SMITH (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),DJ MACRAE (Ind),skipped,,9
 510,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 511,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 512,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -516,8 +516,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 514,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,,9
 515,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Alex Dan SMITH (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 516,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,,9
-517,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,,9
-518,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),skipped,skipped,,9
+517,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,,9
+518,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),skipped,skipped,skipped,,9
 519,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
 520,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
 521,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -531,10 +531,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 529,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,,9
 530,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,,9
 531,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,,9
-532,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),Fiona MACLEOD (SNP),skipped,,9
-533,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),Denise WILSON (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),skipped,,9
-534,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),skipped,skipped,,9
-535,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Denise WILSON (Ind),Sheena MACLEOD (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),skipped,,9
+532,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),DJ MACRAE (Ind),Fiona MACLEOD (SNP),skipped,,9
+533,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),Denise WILSON (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),skipped,skipped,,9
+534,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),skipped,skipped,skipped,,9
+535,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Denise WILSON (Ind),Sheena MACLEOD (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),skipped,skipped,,9
 536,Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 537,Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 538,Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -588,7 +588,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 586,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 587,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 588,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-589,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
+589,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),DJ MACRAE (Ind),skipped,,9
 590,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 591,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 592,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -609,9 +609,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 607,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 608,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,9
 609,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,,9
-610,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),DJ MACRAE (Ind),Fiona MACLEOD (SNP),Alex Dan SMITH (Ind),John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),skipped,,9
+610,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),John Graham MITCHELL (SNP),Denise WILSON (Ind),Sheena MACLEOD (Ind),skipped,,9
 611,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),skipped,skipped,,9
-612,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Fiona MACLEOD (SNP),skipped,,9
+612,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),Fiona MACLEOD (SNP),skipped,,9
 613,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 614,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 615,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -627,8 +627,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 625,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
 626,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
 627,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,,9
-628,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Denise WILSON (Ind),skipped,,9
-629,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
+628,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),skipped,,9
+629,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),DJ MACRAE (Ind),skipped,,9
 630,Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 631,Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 632,Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -636,11 +636,11 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 634,Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 635,Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 636,Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-637,Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,,9
+637,Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),skipped,,9
 638,Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),Alex Dan SMITH (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 639,Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
 640,Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-641,Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),DJ MACRAE (Ind),Denise WILSON (Ind),skipped,,9
+641,Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),Fiona MACLEOD (SNP),Denise WILSON (Ind),skipped,,9
 642,Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,,9
 643,Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,,9
 644,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -653,12 +653,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 651,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 652,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,9
 653,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),Alex Dan SMITH (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-654,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-655,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-656,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-657,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-658,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,,9
-659,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),DJ MACRAE (Ind),Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),Denise WILSON (Ind),skipped,,9
+654,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+655,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+656,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+657,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+658,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
+659,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),DJ MACRAE (Ind),Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),skipped,,9
 660,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 661,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 662,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -671,7 +671,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 669,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 670,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 671,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-672,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,,9
+672,Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,,9
 673,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,,9
 674,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,,9
 675,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,,9
@@ -681,16 +681,16 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 679,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 680,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 681,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,,9
-682,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),Fiona MACLEOD (SNP),Alex Dan SMITH (Ind),skipped,,9
-683,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,,9
-684,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),skipped,,9
+682,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),Fiona MACLEOD (SNP),DJ MACRAE (Ind),Alex Dan SMITH (Ind),skipped,,9
+683,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,,9
+684,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),Denise WILSON (Ind),skipped,,9
 685,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-686,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-687,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-688,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-689,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-690,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),skipped,,9
-691,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Denise WILSON (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
+686,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+687,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+688,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+689,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+690,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
+691,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),Denise WILSON (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Alex Dan SMITH (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),skipped,,9
 692,Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 693,Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 694,Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -709,9 +709,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 707,Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 708,Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 709,Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-710,Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),DJ MACRAE (Ind),Denise WILSON (Ind),skipped,,9
+710,Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),skipped,,9
 711,Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),skipped,skipped,skipped,skipped,skipped,,9
-712,Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Alex Dan SMITH (Ind),Denise WILSON (Ind),Fiona MACLEOD (SNP),DJ MACRAE (Ind),skipped,,9
+712,Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),DJ MACRAE (Ind),skipped,,9
 713,Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
 714,Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
 715,Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -750,7 +750,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 748,Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
 749,Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
 750,Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-751,Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,,9
+751,Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,,9
 752,Catherine MACDONALD (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 753,Catherine MACDONALD (Ind),DJ MACRAE (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 754,Catherine MACDONALD (Ind),DJ MACRAE (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -810,20 +810,20 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 808,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),Fiona MACLEOD (SNP),skipped,,9
 809,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,,9
 810,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),DJ MACRAE (Ind),John Graham MITCHELL (SNP),skipped,,9
-811,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),DJ MACRAE (Ind),skipped,,9
-812,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),DJ MACRAE (Ind),Alex Dan SMITH (Ind),John Graham MITCHELL (SNP),skipped,,9
+811,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),Fiona MACLEOD (SNP),Denise WILSON (Ind),DJ MACRAE (Ind),skipped,,9
+812,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),John Graham MITCHELL (SNP),skipped,,9
 813,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,,9
 814,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Denise WILSON (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),skipped,skipped,skipped,,9
 815,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,,9
 816,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,,9
-817,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Denise WILSON (Ind),Alex Dan SMITH (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),skipped,,9
-818,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,,9
+817,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Denise WILSON (Ind),Alex Dan SMITH (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Fiona MACLEOD (SNP),skipped,,9
+818,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,,9
 819,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,,9
 820,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 821,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 822,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,,9
 823,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),skipped,skipped,,9
-824,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,,9
+824,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,9
 825,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
 826,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
 827,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -831,13 +831,13 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 829,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,9
 830,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,9
 831,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,,9
-832,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,,9
-833,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,,9
+832,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
+833,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,,9
 834,Catherine MACDONALD (Ind),Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 835,Catherine MACDONALD (Ind),Denise WILSON (Ind),Alex Dan SMITH (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,9
-836,Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,,9
-837,Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),DJ MACRAE (Ind),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),Denise WILSON (Ind),skipped,,9
-838,Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Denise WILSON (Ind),skipped,,9
+836,Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
+837,Catherine MACDONALD (Ind),DJ MACRAE (Ind),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),skipped,,9
+838,Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),skipped,,9
 839,Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 840,Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 841,Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -853,10 +853,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 851,Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 852,Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 853,Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,9
-854,Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-855,Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-856,Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-857,Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
+854,Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+855,Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+856,Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+857,Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 858,Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 859,Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 860,Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -884,9 +884,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 882,Denise WILSON (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,,9
 883,Denise WILSON (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,,9
 884,Denise WILSON (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Alex Dan SMITH (Ind),skipped,skipped,skipped,skipped,,9
-885,Denise WILSON (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Alex Dan SMITH (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),skipped,,9
+885,Denise WILSON (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Alex Dan SMITH (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),skipped,,9
 886,Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-887,Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),DJ MACRAE (Ind),skipped,,9
+887,Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
 888,Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 889,Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 890,Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -897,30 +897,30 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 895,Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 896,Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 897,Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-898,Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Alex Dan SMITH (Ind),skipped,,9
-899,Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),DJ MACRAE (Ind),skipped,,9
-900,Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Alex Dan SMITH (Ind),skipped,,9
-901,Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Alex Dan SMITH (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),skipped,,9
+898,Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),skipped,,9
+899,Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
+900,Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),skipped,,9
+901,Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Alex Dan SMITH (Ind),Sheena MACLEOD (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),skipped,,9
 902,Denise WILSON (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 903,Denise WILSON (Ind),Alex Dan SMITH (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 904,Denise WILSON (Ind),Alex Dan SMITH (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 905,Denise WILSON (Ind),Alex Dan SMITH (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 906,Denise WILSON (Ind),Alex Dan SMITH (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 907,Denise WILSON (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,9
-908,Denise WILSON (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),skipped,,9
+908,Denise WILSON (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),skipped,,9
 909,Denise WILSON (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 910,Denise WILSON (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-911,Denise WILSON (Ind),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),skipped,,9
-912,Denise WILSON (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),skipped,,9
-913,Denise WILSON (Ind),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,,9
-914,Denise WILSON (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-915,Denise WILSON (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-916,Denise WILSON (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-917,Denise WILSON (Ind),Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Alex Dan SMITH (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),skipped,,9
+911,Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
+912,Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
+913,Denise WILSON (Ind),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,,9
+914,Denise WILSON (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+915,Denise WILSON (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+916,Denise WILSON (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+917,Denise WILSON (Ind),John Graham MITCHELL (SNP),Alex Dan SMITH (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,,9
 918,Denise WILSON (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 919,Denise WILSON (Ind),John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Alex Dan SMITH (Ind),skipped,skipped,skipped,skipped,skipped,,9
-920,Denise WILSON (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-921,Denise WILSON (Ind),John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),skipped,,9
+920,Denise WILSON (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+921,Denise WILSON (Ind),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Catherine MACDONALD (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
 922,Alex Dan SMITH (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 923,Alex Dan SMITH (Ind),DJ MACRAE (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 924,Alex Dan SMITH (Ind),DJ MACRAE (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -932,49 +932,49 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 930,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 931,Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 932,Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,,9
-933,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,,9
-934,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
+933,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,9
+934,Paul Anthony FINNEGAN (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 935,Fiona MACLEOD (SNP),DJ MACRAE (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-936,Fiona MACLEOD (SNP),DJ MACRAE (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-937,Fiona MACLEOD (SNP),DJ MACRAE (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-938,Fiona MACLEOD (SNP),DJ MACRAE (Ind),John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,,9
-939,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,,9
+936,DJ MACRAE (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+937,DJ MACRAE (Ind),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+938,DJ MACRAE (Ind),John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,,9
+939,Finlay CUNNINGHAM (Ind),John Graham MITCHELL (SNP),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 940,Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-941,Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),John Graham MITCHELL (SNP),Alex Dan SMITH (Ind),Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),skipped,,9
+941,Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),John Graham MITCHELL (SNP),Alex Dan SMITH (Ind),Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),skipped,,9
 942,Fiona MACLEOD (SNP),Alex Dan SMITH (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-943,Fiona MACLEOD (SNP),Alex Dan SMITH (Ind),Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Catherine MACDONALD (Ind),John Graham MITCHELL (SNP),skipped,,9
-944,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-945,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-946,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-947,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-948,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-949,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-950,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-951,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-952,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-953,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-954,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-955,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-956,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-957,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-958,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),Denise WILSON (Ind),skipped,,9
-959,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-960,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-961,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,,9
-962,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Denise WILSON (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),skipped,skipped,,9
-963,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-964,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-965,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),DJ MACRAE (Ind),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),skipped,,9
-966,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),DJ MACRAE (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,,9
-967,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-968,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-969,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-970,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,,9
-971,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,,9
-972,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-973,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-974,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
-975,Fiona MACLEOD (SNP),John Graham MITCHELL (SNP),Denise WILSON (Ind),Alex Dan SMITH (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,,9
+943,Alex Dan SMITH (Ind),Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),John Graham MITCHELL (SNP),skipped,,9
+944,John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+945,John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+946,John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+947,John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+948,John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+949,John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+950,John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+951,John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+952,John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+953,John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+954,John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+955,John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+956,John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+957,John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+958,John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),skipped,,9
+959,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+960,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+961,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
+962,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Denise WILSON (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,,9
+963,John Graham MITCHELL (SNP),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+964,John Graham MITCHELL (SNP),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+965,John Graham MITCHELL (SNP),DJ MACRAE (Ind),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),Alex Dan SMITH (Ind),Catherine MACDONALD (Ind),skipped,,9
+966,John Graham MITCHELL (SNP),DJ MACRAE (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
+967,John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+968,John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+969,John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+970,John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
+971,John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,,9
+972,John Graham MITCHELL (SNP),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+973,John Graham MITCHELL (SNP),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+974,John Graham MITCHELL (SNP),Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),skipped,,9
+975,John Graham MITCHELL (SNP),Denise WILSON (Ind),Alex Dan SMITH (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,,9
 976,John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 977,John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 978,John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -984,10 +984,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 982,John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 983,John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 984,John Graham MITCHELL (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-985,John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,,9
+985,Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,,9
 986,John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-987,John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),skipped,skipped,,9
-988,John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),skipped,skipped,,9
+987,Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,,9
+988,Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,,9
 989,John Graham MITCHELL (SNP),Sheena MACLEOD (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 990,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 991,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -998,13 +998,13 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 996,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 997,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 998,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,9
-999,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),DJ MACRAE (Ind),Catherine MACDONALD (Ind),skipped,,9
+999,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),DJ MACRAE (Ind),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),skipped,,9
 1000,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,,9
-1001,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Denise WILSON (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Alex Dan SMITH (Ind),skipped,,9
-1002,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Denise WILSON (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),DJ MACRAE (Ind),skipped,,9
-1003,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),Denise WILSON (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),skipped,,9
-1004,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),skipped,,9
-1005,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Catherine MACDONALD (Ind),skipped,,9
+1001,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Denise WILSON (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),DJ MACRAE (Ind),Alex Dan SMITH (Ind),skipped,,9
+1002,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Denise WILSON (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
+1003,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),Denise WILSON (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),skipped,,9
+1004,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),DJ MACRAE (Ind),Catherine MACDONALD (Ind),skipped,,9
+1005,Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),skipped,,9
 1006,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 1007,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 1008,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -1012,14 +1012,14 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 1010,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 1011,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,,9
 1012,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,,9
-1013,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Denise WILSON (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,,9
-1014,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Denise WILSON (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
-1015,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1016,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1017,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1018,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1019,John Graham MITCHELL (SNP),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),skipped,,9
-1020,John Graham MITCHELL (SNP),DJ MACRAE (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),skipped,,9
+1013,Paul Anthony FINNEGAN (Ind),Denise WILSON (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
+1014,Paul Anthony FINNEGAN (Ind),Denise WILSON (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),skipped,,9
+1015,Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1016,Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1017,Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1018,Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1019,Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),Denise WILSON (Ind),Alex Dan SMITH (Ind),skipped,,9
+1020,DJ MACRAE (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),Alex Dan SMITH (Ind),Catherine MACDONALD (Ind),skipped,,9
 1021,John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 1022,John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 1023,John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -1037,15 +1037,15 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 1035,John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 1036,John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,,9
 1037,John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,,9
-1038,John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,,9
-1039,John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,,9
-1040,John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1041,John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1042,John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1043,John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1044,John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1045,John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,,9
-1046,John Graham MITCHELL (SNP),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,,9
+1038,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),skipped,,9
+1039,Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
+1040,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1041,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1042,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1043,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1044,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1045,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,,9
+1046,Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,,9
 1047,John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 1048,John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
 1049,John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
@@ -1055,95 +1055,95 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,numSeats,numCands
 1053,John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 1054,John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
 1055,John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1056,John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,,9
+1056,Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,9
 1057,John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1058,John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Alex Dan SMITH (Ind),Denise WILSON (Ind),skipped,,9
+1058,Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Fiona MACLEOD (SNP),Alex Dan SMITH (Ind),DJ MACRAE (Ind),Denise WILSON (Ind),skipped,,9
 1059,John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,,9
-1060,John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Denise WILSON (Ind),skipped,,9
-1061,John Graham MITCHELL (SNP),Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Denise WILSON (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
-1062,John Graham MITCHELL (SNP),Denise WILSON (Ind),Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
-1063,John Graham MITCHELL (SNP),Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,,9
-1064,John Graham MITCHELL (SNP),Denise WILSON (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),skipped,,9
-1065,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-1066,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-1067,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-1068,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-1069,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-1070,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-1071,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-1072,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-1073,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-1074,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-1075,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-1076,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-1077,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-1078,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-1079,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-1080,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-1081,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-1082,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-1083,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-1084,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
-1085,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1086,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1087,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,,9
-1088,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),skipped,,9
-1089,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),skipped,,9
-1090,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),skipped,,9
-1091,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Denise WILSON (Ind),Alex Dan SMITH (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),DJ MACRAE (Ind),skipped,,9
-1092,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1093,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1094,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1095,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1096,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1097,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1098,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1099,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1100,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1101,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,9
-1102,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),Alex Dan SMITH (Ind),skipped,,9
-1103,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),Alex Dan SMITH (Ind),skipped,,9
-1104,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),Alex Dan SMITH (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),skipped,,9
-1105,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,,9
-1106,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,,9
-1107,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,,9
-1108,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
-1109,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Denise WILSON (Ind),skipped,,9
-1110,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Denise WILSON (Ind),skipped,,9
-1111,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),skipped,,9
-1112,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1113,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1114,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1115,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1116,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1117,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1118,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1119,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1120,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1121,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1122,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1123,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1124,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1125,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1126,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,,9
-1127,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,,9
-1128,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,,9
-1129,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),DJ MACRAE (Ind),skipped,skipped,,9
-1130,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,,9
-1131,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,,9
-1132,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,,9
-1133,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,,9
-1134,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1135,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1136,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1137,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1138,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1139,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1140,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1141,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,,9
-1142,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),skipped,skipped,,9
-1143,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,,9
-1144,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1145,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1146,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
-1147,John Graham MITCHELL (SNP),Fiona MACLEOD (SNP),Denise WILSON (Ind),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Finlay CUNNINGHAM (Ind),skipped,,9
+1060,Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),skipped,,9
+1061,Catherine MACDONALD (Ind),Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Denise WILSON (Ind),Alex Dan SMITH (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),skipped,,9
+1062,Denise WILSON (Ind),Sheena MACLEOD (Ind),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Fiona MACLEOD (SNP),Alex Dan SMITH (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),skipped,,9
+1063,Denise WILSON (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,,9
+1064,Denise WILSON (Ind),Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),DJ MACRAE (Ind),Catherine MACDONALD (Ind),Alex Dan SMITH (Ind),skipped,,9
+1065,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1066,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1067,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1068,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1069,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1070,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1071,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1072,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1073,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1074,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1075,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1076,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1077,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1078,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1079,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1080,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1081,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1082,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1083,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1084,Fiona MACLEOD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1085,Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1086,Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1087,Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
+1088,Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
+1089,Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Denise WILSON (Ind),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
+1090,Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
+1091,Fiona MACLEOD (SNP),Sheena MACLEOD (Ind),Denise WILSON (Ind),Alex Dan SMITH (Ind),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),skipped,,9
+1092,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1093,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1094,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1095,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1096,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1097,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1098,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1099,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1100,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1101,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
+1102,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),skipped,,9
+1103,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),Catherine MACDONALD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),skipped,,9
+1104,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Denise WILSON (Ind),Alex Dan SMITH (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),DJ MACRAE (Ind),skipped,,9
+1105,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
+1106,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
+1107,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
+1108,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),DJ MACRAE (Ind),skipped,,9
+1109,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),skipped,,9
+1110,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),skipped,,9
+1111,Fiona MACLEOD (SNP),Paul Anthony FINNEGAN (Ind),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),Sheena MACLEOD (Ind),Alex Dan SMITH (Ind),DJ MACRAE (Ind),skipped,,9
+1112,Fiona MACLEOD (SNP),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1113,Fiona MACLEOD (SNP),DJ MACRAE (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1114,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1115,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1116,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1117,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1118,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1119,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1120,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1121,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1122,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1123,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1124,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1125,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1126,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
+1127,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
+1128,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
+1129,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),Alex Dan SMITH (Ind),Denise WILSON (Ind),DJ MACRAE (Ind),skipped,skipped,skipped,,9
+1130,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
+1131,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
+1132,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
+1133,Fiona MACLEOD (SNP),Finlay CUNNINGHAM (Ind),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
+1134,Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1135,Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1136,Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1137,Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1138,Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1139,Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1140,Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1141,Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,9
+1142,Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Paul Anthony FINNEGAN (Ind),Sheena MACLEOD (Ind),Finlay CUNNINGHAM (Ind),Denise WILSON (Ind),skipped,skipped,skipped,,9
+1143,Fiona MACLEOD (SNP),Catherine MACDONALD (Ind),Finlay CUNNINGHAM (Ind),Paul Anthony FINNEGAN (Ind),skipped,skipped,skipped,skipped,skipped,,9
+1144,Fiona MACLEOD (SNP),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1145,Fiona MACLEOD (SNP),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1146,Fiona MACLEOD (SNP),Denise WILSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,skipped,,9
+1147,Fiona MACLEOD (SNP),Denise WILSON (Ind),Catherine MACDONALD (Ind),Sheena MACLEOD (Ind),DJ MACRAE (Ind),Alex Dan SMITH (Ind),Paul Anthony FINNEGAN (Ind),Finlay CUNNINGHAM (Ind),skipped,,9

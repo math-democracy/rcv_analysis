@@ -19,8 +19,8 @@ def gen_metadata(filepath):
     file_summary = {method: [] for method in methods}
 
     for _, row in df.iterrows():
-        #candidates = party_info[f'raw_data/scotland/processed_data/{row['file'].replace('analysis/mimic_single_party/data/','')}']['party_dict']
-        #parties = party_info[f'raw_data/scotland/processed_data/{row['file'].replace('analysis/mimic_single_party/data/','')}']['parties']
+        #candidates = party_info[f'raw_data/scotland/processed_data/{row['file'].replace('analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/','')}']['party_dict']
+        #parties = party_info[f'raw_data/scotland/processed_data/{row['file'].replace('analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/','')}']['parties']
         candidates = party_info[f'{row['file']}']['party_dict']
         parties = party_info[f'{row['file']}']['parties']
 
@@ -79,6 +79,7 @@ def gen_metadata(filepath):
 
 # gen_metadata('america')
 # gen_metadata('australia')
-file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_place_score/scotland_results_top4.csv'  # Replace with file path
+METHOD = 'mention_score'
+file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/{METHOD}/scotland_results_top4.csv'  # Replace with file path
 gen_metadata(file_path)
 # gen_metadata('civs')

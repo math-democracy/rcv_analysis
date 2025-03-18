@@ -1,7 +1,7 @@
 import json
 import os
 
-with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/scotland_results_top4.json') as file:
+with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/scotland_results_top4.json') as file:
     stability = json.load(file)
 
 with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/borda_score/scotland_results_top4.json') as file:
@@ -47,7 +47,7 @@ for dirpath, dirnames, filenames in os.walk(root_dir):
                     elif file_key in borda['stable_elections']:
                         stable[method]['borda']  = True
                     else:
-                        stable[method]['borda']  = 'TEST'
+                        stable[method]['borda']  = None
                     
                     if file_key in mention['changes'].keys():
                         if method in mention['changes'][file_key]['changes'].keys():

@@ -1,7 +1,7 @@
 import sys
 sys.path.append('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal')
 import main_methods as mm
-import votekit.elections as v
+import votekit.elections as vk
 import pandas as pd
 import multiprocessing
 import csv
@@ -27,8 +27,12 @@ first_place_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_propo
 
 with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/metadata/party_breakdown.json') as file:
     party_breakdown = json.load(file)
-    
-def get_condensed_cands(filepath, filename, method):
+
+# method oprtions: 'borda','mention','first_place' 
+#   for each party, only keep the cand with the highest borda, mention, or first place score
+def get_condensed_cands(filepath, method):
+    filename = filepath.split('/')[-1]
+
     if method == 'borda':
         with open(borda_file) as file:
             scores = json.load(file)
@@ -64,21 +68,38 @@ def get_condensed_cands(filepath, filename, method):
 
     return list(cands_to_keep)
     
+# def get_cands_to_keep(profile, condensed_cands, num_cands, num_cands_to_keep):
+#     # get top4 plurality winners
+#         # if there are less than 5 candidates, then top4 and top5 are both the whole candidate list
+#     prof = mm.process_cands(profile, condensed_cands)
+
+#     if num_cands > num_cands_to_keep:
+#         cands_to_keep = vk.Plurality(profile=prof,m=num_cands_to_keep,tiebreak='first_place').election_states[-1].elected
+#         cands_to_keep = [list(w)[0] for w in cands_to_keep]
+#     else:
+#         cands_to_keep = list(prof.candidates)
+
+#     return cands_to_keep
+
 def get_cands_to_keep(profile, condensed_cands, num_cands, num_cands_to_keep):
-    # get top4 plurality winners
-        # if there are less than 5 candidates, then top4 and top5 are both the whole candidate list
     prof = mm.process_cands(profile, condensed_cands)
 
+    # get top4 plurality winners
+        # if there are less than 5 candidates, then top4 and top5 are both the whole candidate list
     if num_cands > num_cands_to_keep:
-        cands_to_keep = v.Plurality(profile=prof,m=num_cands_to_keep,tiebreak='first_place').election_states[-1].elected
-        cands_to_keep = [list(w)[0] for w in cands_to_keep]
+        cands_to_keep_set = vk.Plurality(profile=prof, m=num_cands_to_keep, tiebreak='first_place').election_states[-1].elected
+        cands_to_keep_set = [list(set(f)) for f in cands_to_keep_set]
+        cands_to_keep = []
+        for l in cands_to_keep_set:
+            for c in l:
+                cands_to_keep.append(c)
     else:
         cands_to_keep = list(prof.candidates)
 
     return cands_to_keep
     
 def run_voting_methods(full_path, filename):
-    condensed_cands = get_condensed_cands(full_path.replace('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/',''), filename, METHOD)
+    condensed_cands = get_condensed_cands(full_path.replace('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/',''), METHOD)
     
     if condensed_cands:
         num_cands = len([x for x in condensed_cands if x != 'skipped'])

@@ -25,9 +25,9 @@ def get_party(candidate):
     else:
         return candidate
     
-def gen_metadata(country):
-    file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_place_score/single_v_multi_comparison.csv'  # Replace with file path
-    if 'mention' in file_path:
+def gen_metadata(METHOD):
+    file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/{METHOD}/single_v_multi_comparison.csv'  # Replace with file path
+    if 'mention_score' in file_path:
         score = 'mention_cands'
         with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/fringe/mention_scores/scotland_mention_scores.json', 'r') as file:
             score_info = json.load(file)
@@ -39,6 +39,8 @@ def gen_metadata(country):
         score = 'first_place_cands'
         with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/scotland_first_place_ranks.json', 'r') as file:
             score_info = json.load(file)
+    else:
+        score_info = None
 
     df = pd.read_csv(file_path)
 
@@ -103,25 +105,36 @@ def gen_metadata(country):
 
         new_filename = row['file'].split('/')[-1]
 
-        if 'mention_score' in file_path or 'borda_score' in file_path:
-            if new_filename == 'dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv':
-                new_filename = 'Ward6-MidlothianSouth_ward_6_midlothian_south_dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv'
-            elif new_filename == '3_dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv':
-                new_filename = 'Ward3-Dalkeith_ward_3_dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv'
-            elif new_filename not in score_info:
-                new_filename = [f for f in score_info if f.endswith(new_filename)][0]
-        
         if changes:
-            new_candidates = party_info[f'{row['file']}'][score]
-            files[row['file']] = {
-                "changes":changes,
-                "candidates": list(candidates.keys()),
-                "new_candidates": new_candidates,
-                "removed_candidates": [c for c in list(candidates.keys()) if c not in new_candidates],
-                "scores": score_info[new_filename],
-                "parties":parties
-                #"candidates": candidate_ranks
-            }
+            if score_info:
+                new_candidates = party_info[f'{row['file']}'][score]
+
+                if 'mention_score' in file_path or 'borda_score' in file_path:
+                    if new_filename == 'dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv':
+                        new_filename = 'Ward6-MidlothianSouth_ward_6_midlothian_south_dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv'
+                    elif new_filename == '3_dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv':
+                        new_filename = 'Ward3-Dalkeith_ward_3_dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv'
+                    elif new_filename not in score_info:
+                        new_filename = [f for f in score_info if f.endswith(new_filename)][0]
+
+                files[row['file']] = {
+                    "changes":changes,
+                    "candidates": list(candidates.keys()),
+                    "new_candidates": new_candidates,
+                    "removed_candidates": [c for c in list(candidates.keys()) if c not in new_candidates],
+                    "scores": score_info[new_filename],
+                    "parties":parties
+                    #"candidates": candidate_ranks
+                }
+            else:
+                files[row['file']] = {
+                    "changes":changes,
+                    "candidates": list(candidates.keys()),
+                    #"new_candidates": new_candidates,
+                    #"removed_candidates": [c for c in list(candidates.keys()) if c not in new_candidates],
+                    "parties":parties
+                    #"candidates": candidate_ranks
+                }
 
     # calculate file statistics
     total_files = len(df)
@@ -153,5 +166,5 @@ def gen_metadata(country):
 
 # gen_metadata('america')
 # gen_metadata('australia')
-gen_metadata('scotland')
+gen_metadata('borda_score')
 # gen_metadata('civs')

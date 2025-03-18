@@ -201,8 +201,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 199,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
 200,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
 201,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-202,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,,5
-203,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,,5
+202,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+203,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
 204,Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
 205,Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
 206,Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
@@ -225,52 +225,52 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 223,Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
 224,Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
 225,Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
-226,Lawrence O'NEILL (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
-227,Lawrence O'NEILL (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-228,Lawrence O'NEILL (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-229,Lawrence O'NEILL (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-230,Lawrence O'NEILL (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-231,Lawrence O'NEILL (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-232,Lawrence O'NEILL (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-233,Lawrence O'NEILL (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-234,Lawrence O'NEILL (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-235,Lawrence O'NEILL (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-236,Lawrence O'NEILL (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-237,Lawrence O'NEILL (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-238,Lawrence O'NEILL (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-239,Lawrence O'NEILL (Lab),skipped,skipped,skipped,skipped,,5
-240,Lawrence O'NEILL (Lab),skipped,skipped,skipped,skipped,,5
-241,Lawrence O'NEILL (Lab),skipped,skipped,skipped,skipped,,5
-242,Lawrence O'NEILL (Lab),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
-243,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-244,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-245,Lawrence O'NEILL (Lab),skipped,skipped,skipped,skipped,,5
-246,Lawrence O'NEILL (Lab),skipped,skipped,skipped,skipped,,5
-247,Lawrence O'NEILL (Lab),skipped,skipped,skipped,skipped,,5
-248,Lawrence O'NEILL (Lab),skipped,skipped,skipped,skipped,,5
-249,Lawrence O'NEILL (Lab),skipped,skipped,skipped,skipped,,5
-250,Lawrence O'NEILL (Lab),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
-251,Lawrence O'NEILL (Lab),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
-252,Lawrence O'NEILL (Lab),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
-253,Lawrence O'NEILL (Lab),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
-254,Lawrence O'NEILL (Lab),Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-255,Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-256,Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-257,Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-258,Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-259,Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-260,Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-261,Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-262,Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-263,Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-264,Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-265,Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-266,Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-267,Lawrence O'NEILL (Lab),skipped,skipped,skipped,skipped,,5
-268,Lawrence O'NEILL (Lab),skipped,skipped,skipped,skipped,,5
-269,Lawrence O'NEILL (Lab),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
-270,Lawrence O'NEILL (Lab),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
-271,Lawrence O'NEILL (Lab),Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
+226,Lawrence O'NEILL (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+227,Lawrence O'NEILL (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+228,Lawrence O'NEILL (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+229,Lawrence O'NEILL (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+230,Lawrence O'NEILL (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+231,Lawrence O'NEILL (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+232,Lawrence O'NEILL (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+233,Lawrence O'NEILL (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+234,Lawrence O'NEILL (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+235,Lawrence O'NEILL (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+236,Lawrence O'NEILL (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+237,Lawrence O'NEILL (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+238,Lawrence O'NEILL (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+239,Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+240,Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+241,Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+242,Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+243,Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+244,Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+245,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+246,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+247,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+248,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+249,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+250,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+251,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+252,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+253,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+254,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+255,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+256,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+257,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+258,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+259,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+260,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+261,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+262,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+263,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+264,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+265,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+266,Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+267,Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+268,Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+269,Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+270,Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+271,Lawrence O'NEILL (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
 272,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
 273,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
 274,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
@@ -1365,7 +1365,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 1363,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
 1364,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
 1365,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-1366,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),skipped,skipped,,5
+1366,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
 1367,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
 1368,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
 1369,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
@@ -1612,10 +1612,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 1610,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
 1611,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
 1612,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-1613,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,,5
-1614,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,,5
-1615,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,,5
-1616,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,,5
+1613,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+1614,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+1615,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+1616,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
 1617,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
 1618,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
 1619,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
@@ -1891,289 +1891,289 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 1889,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
 1890,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
 1891,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
-1892,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
-1893,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
-1894,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
-1895,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
-1896,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
-1897,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
-1898,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
-1899,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
-1900,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
-1901,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
-1902,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
-1903,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
-1904,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
-1905,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
-1906,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
-1907,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
-1908,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
-1909,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
-1910,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1911,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1912,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1913,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1914,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1915,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1916,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1917,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1918,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1919,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1920,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1921,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1922,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1923,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1924,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1925,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1926,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1927,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1928,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1929,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1930,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1931,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1932,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1933,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1934,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1935,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1936,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1937,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1938,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1939,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1940,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1941,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1942,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1943,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1944,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1945,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1946,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1947,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1948,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1949,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1950,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1951,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1952,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1953,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1954,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1955,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1956,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1957,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1958,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1959,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1960,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1961,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1962,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1963,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1964,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1965,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1966,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1967,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1968,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1969,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1970,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-1971,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-1972,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-1973,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-1974,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-1975,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-1976,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-1977,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-1978,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-1979,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-1980,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-1981,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-1982,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-1983,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-1984,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-1985,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-1986,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-1987,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-1988,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-1989,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-1990,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-1991,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-1992,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
-1993,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
-1994,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-1995,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-1996,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-1997,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-1998,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-1999,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-2000,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-2001,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-2002,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-2003,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2004,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2005,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2006,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2007,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2008,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,,5
-2009,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2010,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2011,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2012,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2013,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2014,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2015,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2016,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2017,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2018,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2019,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2020,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2021,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2022,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2023,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2024,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2025,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2026,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2027,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2028,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2029,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2030,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2031,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2032,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2033,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2034,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2035,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2036,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2037,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2038,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2039,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2040,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
-2041,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
-2042,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
-2043,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
-2044,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
-2045,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
-2046,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
-2047,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
-2048,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
-2049,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
-2050,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
-2051,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
-2052,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2053,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2054,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2055,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2056,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2057,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2058,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2059,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2060,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2061,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2062,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2063,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2064,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2065,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2066,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2067,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2068,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2069,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2070,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2071,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2072,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2073,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2074,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2075,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2076,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2077,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2078,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2079,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2080,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2081,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2082,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2083,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2084,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2085,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2086,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2087,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2088,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2089,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2090,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,,5
-2091,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,,5
-2092,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
-2093,Douglas MCALLISTER (Lab),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
-2094,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2095,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2096,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2097,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2098,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2099,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2100,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2101,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2102,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2103,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2104,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2105,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2106,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2107,Douglas MCALLISTER (Lab),skipped,skipped,skipped,skipped,,5
-2108,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2109,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2110,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2111,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2112,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2113,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2114,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2115,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2116,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2117,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2118,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2119,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2120,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2121,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2122,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2123,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2124,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2125,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2126,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2127,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2128,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2129,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2130,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2131,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2132,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2133,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2134,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2135,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2136,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2137,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2138,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2139,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2140,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2141,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2142,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2143,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2144,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2145,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2146,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2147,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2148,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2149,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2150,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2151,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2152,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2153,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2154,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2155,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2156,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2157,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2158,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2159,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2160,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2161,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
-2162,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
-2163,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-2164,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-2165,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-2166,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-2167,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-2168,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-2169,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-2170,Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-2171,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2172,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-2173,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,,5
-2174,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+1892,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+1893,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+1894,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+1895,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+1896,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+1897,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+1898,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+1899,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+1900,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+1901,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+1902,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+1903,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+1904,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+1905,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+1906,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+1907,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+1908,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+1909,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1910,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1911,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1912,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1913,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1914,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1915,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1916,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1917,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1918,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1919,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1920,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1921,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1922,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1923,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1924,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1925,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1926,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1927,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1928,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1929,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1930,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1931,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1932,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1933,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1934,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1935,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1936,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1937,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1938,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1939,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1940,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1941,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1942,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1943,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1944,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1945,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1946,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1947,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1948,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1949,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1950,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1951,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1952,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1953,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1954,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1955,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1956,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1957,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1958,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1959,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1960,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1961,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1962,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1963,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1964,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1965,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1966,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1967,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1968,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1969,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1970,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+1971,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1972,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1973,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1974,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1975,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1976,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1977,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1978,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1979,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1980,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1981,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1982,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1983,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1984,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1985,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1986,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1987,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1988,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1989,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1990,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1991,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1992,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+1993,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+1994,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1995,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1996,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1997,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1998,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+1999,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+2000,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+2001,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+2002,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+2003,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2004,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2005,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2006,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2007,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2008,Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2009,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2010,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2011,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2012,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2013,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2014,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2015,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2016,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2017,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2018,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2019,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2020,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2021,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2022,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2023,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2024,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2025,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2026,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2027,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2028,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2029,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2030,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2031,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2032,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2033,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2034,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2035,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2036,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2037,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2038,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2039,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2040,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2041,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2042,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2043,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2044,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2045,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2046,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2047,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2048,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2049,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2050,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2051,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2052,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2053,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2054,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2055,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2056,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2057,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2058,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2059,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2060,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2061,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2062,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2063,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2064,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2065,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2066,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2067,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2068,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2069,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2070,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2071,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2072,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2073,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2074,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2075,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2076,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2077,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2078,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2079,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2080,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2081,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2082,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+2083,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2084,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2085,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2086,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2087,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2088,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2089,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2090,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2091,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2092,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2093,Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2094,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2095,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2096,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2097,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2098,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2099,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2100,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2101,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2102,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2103,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2104,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2105,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2106,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2107,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2108,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2109,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2110,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2111,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2112,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2113,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2114,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2115,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2116,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2117,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2118,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2119,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2120,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2121,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2122,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2123,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2124,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2125,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2126,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2127,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2128,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2129,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2130,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2131,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2132,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2133,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2134,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2135,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2136,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2137,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2138,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2139,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2140,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2141,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2142,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2143,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2144,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2145,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2146,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2147,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2148,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2149,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2150,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2151,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2152,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2153,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2154,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2155,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2156,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2157,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2158,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2159,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2160,Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,skipped,,5
+2161,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+2162,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+2163,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+2164,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+2165,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+2166,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+2167,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+2168,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+2169,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+2170,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+2171,Douglas MCALLISTER (Lab),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+2172,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+2173,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
+2174,Douglas MCALLISTER (Lab),David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,,5
 2175,MARINA SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
 2176,MARINA SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
 2177,MARINA SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
@@ -2193,35 +2193,35 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 2191,MARINA SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
 2192,MARINA SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
 2193,MARINA SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-2194,MARINA SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-2195,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-2196,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-2197,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-2198,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-2199,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-2200,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-2201,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-2202,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-2203,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2204,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2205,MARINA SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-2206,MARINA SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-2207,MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2208,MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
-2209,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-2210,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-2211,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-2212,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-2213,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-2214,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-2215,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-2216,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2217,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2218,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2219,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2220,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2221,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2222,MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
+2194,MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2195,MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2196,MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2197,MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2198,MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2199,MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2200,MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2201,MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2202,MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2203,MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
+2204,MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
+2205,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2206,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2207,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2208,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2209,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2210,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2211,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2212,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2213,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2214,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2215,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2216,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2217,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2218,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2219,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2220,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2221,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2222,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
 2223,MARINA SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
 2224,MARINA SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
 2225,MARINA SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
@@ -2526,7 +2526,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 2524,MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
 2525,MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
 2526,MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
-2527,MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),Douglas MCALLISTER (Lab),skipped,skipped,,5
+2527,MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
 2528,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
 2529,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
 2530,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
@@ -2641,25 +2641,25 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 2639,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
 2640,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
 2641,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
-2642,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
-2643,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,,5
-2644,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,,5
+2642,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2643,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2644,MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
 2645,MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,skipped,,5
 2646,MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,skipped,,5
 2647,MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,skipped,,5
 2648,MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,skipped,,5
 2649,MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,skipped,,5
 2650,MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,skipped,,5
-2651,MARINA SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
-2652,MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,skipped,,5
-2653,MARINA SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
-2654,MARINA SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
-2655,MARINA SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
-2656,MARINA SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
-2657,MARINA SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
-2658,MARINA SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
-2659,MARINA SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
-2660,MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2651,MARINA SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
+2652,MARINA SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
+2653,MARINA SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
+2654,MARINA SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
+2655,MARINA SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
+2656,MARINA SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
+2657,MARINA SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
+2658,MARINA SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
+2659,MARINA SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
+2660,MARINA SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
 2661,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
 2662,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
 2663,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
@@ -2705,78 +2705,78 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 2703,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
 2704,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
 2705,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-2706,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-2707,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-2708,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-2709,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-2710,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-2711,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-2712,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
-2713,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
-2714,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-2715,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2716,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2717,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2718,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2719,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2720,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2721,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2722,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2723,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2724,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2725,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2726,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2727,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2728,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-2729,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-2730,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-2731,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-2732,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-2733,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-2734,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-2735,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-2736,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2737,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2738,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2739,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2740,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2741,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2742,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2743,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2744,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-2745,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
-2746,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
-2747,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
-2748,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2749,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2750,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2751,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2752,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2753,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2754,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2755,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2756,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2757,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2758,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2759,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2760,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2761,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2762,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2763,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2764,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2765,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2766,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-2767,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2768,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2769,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2770,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2771,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2772,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2773,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2774,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),David JARDINE (Con),skipped,skipped,,5
-2775,GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,,5
-2776,GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,skipped,,5
-2777,GORDON SCANLAN (SNP),David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,,5
+2706,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2707,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2708,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2709,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2710,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2711,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2712,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2713,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
+2714,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
+2715,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2716,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2717,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2718,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2719,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2720,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2721,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2722,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2723,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2724,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+2725,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
+2726,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
+2727,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
+2728,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2729,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2730,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2731,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2732,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2733,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2734,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2735,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2736,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2737,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2738,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2739,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2740,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2741,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2742,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2743,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2744,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2745,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2746,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2747,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2748,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2749,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2750,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2751,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2752,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2753,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2754,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2755,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2756,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2757,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2758,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2759,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2760,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2761,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2762,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2763,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2764,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2765,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2766,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+2767,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2768,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2769,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2770,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2771,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2772,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2773,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2774,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2775,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2776,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
+2777,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),David JARDINE (Con),skipped,skipped,,5
 2778,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
 2779,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
 2780,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
@@ -3371,7 +3371,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 3369,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
 3370,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
 3371,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
-3372,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),Douglas MCALLISTER (Lab),skipped,skipped,,5
+3372,GORDON SCANLAN (SNP),Lawrence O'NEILL (Lab),David JARDINE (Con),skipped,skipped,,5
 3373,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
 3374,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
 3375,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
@@ -3630,22 +3630,22 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 3628,GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,skipped,,5
 3629,GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,skipped,,5
 3630,GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,skipped,,5
-3631,GORDON SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
-3632,GORDON SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
-3633,GORDON SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
-3634,GORDON SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
-3635,GORDON SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
-3636,GORDON SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
-3637,GORDON SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
-3638,GORDON SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
-3639,GORDON SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
-3640,GORDON SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
-3641,GORDON SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
-3642,GORDON SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
-3643,GORDON SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
-3644,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-3645,GORDON SCANLAN (SNP),skipped,skipped,skipped,skipped,,5
-3646,GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),Lawrence O'NEILL (Lab),skipped,skipped,,5
+3631,GORDON SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
+3632,GORDON SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
+3633,GORDON SCANLAN (SNP),David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,,5
+3634,GORDON SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
+3635,GORDON SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
+3636,GORDON SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
+3637,GORDON SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
+3638,GORDON SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
+3639,GORDON SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
+3640,GORDON SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
+3641,GORDON SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
+3642,GORDON SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
+3643,GORDON SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
+3644,GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,skipped,,5
+3645,GORDON SCANLAN (SNP),David JARDINE (Con),skipped,skipped,skipped,,5
+3646,GORDON SCANLAN (SNP),David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,,5
 3647,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
 3648,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
 3649,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
@@ -3727,151 +3727,151 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 3725,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
 3726,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
 3727,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
-3728,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
-3729,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
-3730,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
-3731,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
-3732,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
-3733,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
-3734,David JARDINE (Con),Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
-3735,David JARDINE (Con),Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-3736,David JARDINE (Con),Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-3737,David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-3738,David JARDINE (Con),MARINA SCANLAN (SNP),GORDON SCANLAN (SNP),skipped,skipped,,5
-3739,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
-3740,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
-3741,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
-3742,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
-3743,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
-3744,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
-3745,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
-3746,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
-3747,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
-3748,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
-3749,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
-3750,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
-3751,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
-3752,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
-3753,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
-3754,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
-3755,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3756,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3757,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3758,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3759,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3760,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3761,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3762,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3763,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3764,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3765,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3766,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3767,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3768,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3769,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3770,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3771,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3772,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3773,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3774,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3775,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3776,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3777,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3778,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3779,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3780,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3781,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3782,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3783,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3784,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3785,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3786,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3787,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3788,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3789,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3790,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3791,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3792,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3793,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3794,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3795,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3796,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3797,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3798,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3799,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3800,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3801,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3802,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3803,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3804,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3805,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3806,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3807,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3808,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3809,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3810,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3811,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3812,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3813,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3814,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3815,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3816,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3817,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3818,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3819,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3820,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3821,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3822,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3823,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3824,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3825,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3826,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3827,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3828,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3829,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3830,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3831,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3832,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3833,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3834,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3835,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3836,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3837,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3838,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3839,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3840,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3841,David JARDINE (Con),Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
-3842,David JARDINE (Con),Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
-3843,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
-3844,David JARDINE (Con),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-3845,David JARDINE (Con),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-3846,David JARDINE (Con),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-3847,David JARDINE (Con),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-3848,David JARDINE (Con),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-3849,David JARDINE (Con),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-3850,David JARDINE (Con),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-3851,David JARDINE (Con),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-3852,David JARDINE (Con),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-3853,David JARDINE (Con),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-3854,David JARDINE (Con),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-3855,David JARDINE (Con),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
-3856,David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-3857,David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-3858,David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
-3859,David JARDINE (Con),GORDON SCANLAN (SNP),MARINA SCANLAN (SNP),skipped,skipped,,5
-3860,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
-3861,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
-3862,David JARDINE (Con),GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,,5
-3863,David JARDINE (Con),skipped,skipped,skipped,skipped,,5
-3864,David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-3865,David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-3866,David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-3867,David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-3868,David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-3869,David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-3870,David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-3871,David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-3872,David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
-3873,David JARDINE (Con),MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,,5
-3874,David JARDINE (Con),MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,,5
-3875,David JARDINE (Con),MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,,5
+3728,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+3729,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+3730,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+3731,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+3732,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+3733,David JARDINE (Con),Lawrence O'NEILL (Lab),skipped,skipped,skipped,,5
+3734,David JARDINE (Con),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
+3735,David JARDINE (Con),Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
+3736,David JARDINE (Con),Lawrence O'NEILL (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
+3737,David JARDINE (Con),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
+3738,David JARDINE (Con),Lawrence O'NEILL (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
+3739,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3740,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3741,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3742,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3743,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3744,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3745,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3746,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3747,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3748,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3749,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3750,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3751,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3752,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3753,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3754,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3755,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3756,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3757,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3758,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3759,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3760,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3761,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3762,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3763,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3764,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3765,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3766,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3767,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3768,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3769,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3770,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3771,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3772,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3773,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3774,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3775,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3776,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3777,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3778,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3779,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3780,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3781,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3782,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3783,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3784,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3785,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3786,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3787,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3788,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3789,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3790,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3791,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3792,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3793,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3794,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3795,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3796,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3797,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3798,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3799,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3800,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3801,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3802,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3803,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3804,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3805,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3806,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3807,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3808,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3809,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3810,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3811,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3812,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3813,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3814,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3815,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3816,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3817,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3818,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3819,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3820,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3821,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3822,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3823,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3824,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3825,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3826,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3827,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3828,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3829,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3830,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3831,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3832,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3833,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3834,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3835,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3836,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3837,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3838,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3839,David JARDINE (Con),Douglas MCALLISTER (Lab),skipped,skipped,skipped,,5
+3840,David JARDINE (Con),Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
+3841,David JARDINE (Con),Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
+3842,David JARDINE (Con),Douglas MCALLISTER (Lab),MARINA SCANLAN (SNP),skipped,skipped,,5
+3843,David JARDINE (Con),Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
+3844,David JARDINE (Con),Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
+3845,David JARDINE (Con),Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
+3846,David JARDINE (Con),Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
+3847,David JARDINE (Con),Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
+3848,David JARDINE (Con),Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
+3849,David JARDINE (Con),Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
+3850,David JARDINE (Con),Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
+3851,David JARDINE (Con),Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
+3852,David JARDINE (Con),Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
+3853,David JARDINE (Con),Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
+3854,David JARDINE (Con),Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
+3855,David JARDINE (Con),Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
+3856,David JARDINE (Con),Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
+3857,David JARDINE (Con),Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
+3858,David JARDINE (Con),Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
+3859,David JARDINE (Con),Douglas MCALLISTER (Lab),GORDON SCANLAN (SNP),skipped,skipped,,5
+3860,David JARDINE (Con),MARINA SCANLAN (SNP),skipped,skipped,skipped,,5
+3861,David JARDINE (Con),MARINA SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,,5
+3862,David JARDINE (Con),MARINA SCANLAN (SNP),Lawrence O'NEILL (Lab),skipped,skipped,,5
+3863,David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+3864,David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+3865,David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+3866,David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+3867,David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+3868,David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+3869,David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+3870,David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+3871,David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+3872,David JARDINE (Con),GORDON SCANLAN (SNP),skipped,skipped,skipped,,5
+3873,David JARDINE (Con),GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,,5
+3874,David JARDINE (Con),GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,,5
+3875,David JARDINE (Con),GORDON SCANLAN (SNP),Douglas MCALLISTER (Lab),skipped,skipped,,5

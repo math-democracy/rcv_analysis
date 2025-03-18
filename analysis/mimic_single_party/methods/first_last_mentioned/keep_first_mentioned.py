@@ -64,19 +64,21 @@ def keep_first(filepath, output):
     for ballot in ballots:
         party_ballot = []
         for i in range(1,len(ballot)-1):
-            party_ballot.append(candidate_parties[i])
-
+            party_ballot.append(candidate_parties[ballot[i]])
+        
         keep = []
         seen_parties = set()
         for i in range(0, len(party_ballot)):
             if party_ballot[i] not in seen_parties:
+                
                 keep.append(ballot[i+1])
                 seen_parties.add(party_ballot[i])
+        
         keep.append(0)
         keep.insert(0,ballot[0])
 
         new_ballots.append(keep)
-    
+
     new_pref_profile = {
         "num_positions": None,
         "num_candidates": len(cands),
@@ -94,7 +96,7 @@ def keep_last(filepath, output):
     for ballot in ballots:
         party_ballot = []
         for i in range(1,len(ballot)-1):
-            party_ballot.append(candidate_parties[i])
+            party_ballot.append(candidate_parties[ballot[i]])
 
         keep = []
         seen_parties = set()
@@ -126,7 +128,6 @@ def parse_to_csv(data, outfilepath):
     voter_id = 0
 
     all_votes = []
-
     for ballot in ballots:
         for voter in range(ballot[0]):
             c = {"voterId": voter_id}
@@ -149,7 +150,7 @@ def parse_to_csv(data, outfilepath):
 
 def main():
     root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/preference_profiles/scotland' # UPDATE TO WHERE BLT DATA IS STORED eg. /Users/belle/Downloads/Scotland data, LEAP parties
-    method = 'first'
+    method = 'last'
     output_folder = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_{method}/processed_data' # UPDATE TO WHERE CSV DATA SHOULD BE SAVED eg. /Users/belle/Desktop/build/rcv_proposal/data
 
     for dirpath, dirnames, filenames in os.walk(root_dir):
@@ -166,7 +167,6 @@ def main():
                     if method == 'last':
                         print(f"RUNNING KEEP LAST: {filename}")
                         keep_last(full_path, output)
-                        
                     else:
                         print(f"RUNNING KEEP FIRST: {filename}")
                         keep_first(full_path, output)
@@ -178,4 +178,6 @@ def main():
                         error_file.write(f'"{filename}",\n')
                 
 if __name__ == '__main__':
+    #filepath = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/preference_profiles/scotland/aberdeen2012/Ward1-Dyce-Bucksburn-Danestone_aberdeen12-01.csv'
+    #keep_first(filepath, '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_first/processed_data/aberdeen2012')
     main()

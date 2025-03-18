@@ -1,67 +1,67 @@
 {
     "original_single_v_multi_metadata": {
         "total_elections": 1128,
-        "elections_with_changes": 419,
-        "total_method_count": 977,
+        "elections_with_changes": 420,
+        "total_method_count": 980,
         "method_counts": {
             "plurality": 273,
             "IRV": 38,
-            "top-two": 84,
+            "top-two": 82,
             "borda-pm": 36,
             "borda-om": 165,
             "borda-avg": 46,
             "top-3-truncation": 84,
             "condorcet": 30,
-            "minimax": 27,
+            "minimax": 29,
             "smith_plurality": 29,
             "smith_irv": 29,
-            "smith-minimax": 27,
+            "smith-minimax": 29,
             "ranked-pairs": 28,
-            "bucklin": 53,
+            "bucklin": 54,
             "approval": 28
         }
     },
     "new_winner_from_removed_multi_party": {
         "plurality": 270,
         "IRV": 38,
-        "top-two": 63,
+        "top-two": 62,
         "borda-pm": 34,
         "borda-om": 53,
         "borda-avg": 24,
         "top-3-truncation": 70,
         "condorcet": 29,
-        "minimax": 26,
+        "minimax": 28,
         "smith_plurality": 29,
         "smith_irv": 29,
-        "smith-minimax": 26,
+        "smith-minimax": 28,
         "ranked-pairs": 27,
-        "bucklin": 42,
+        "bucklin": 43,
         "approval": 27
     },
     "new_winner_from_removed_multi_party_pct": {
         "plurality": 0.989,
         "IRV": 1.0,
-        "top-two": 0.75,
+        "top-two": 0.756,
         "borda-pm": 0.944,
         "borda-om": 0.321,
         "borda-avg": 0.522,
         "top-3-truncation": 0.833,
         "condorcet": 0.967,
-        "minimax": 0.963,
+        "minimax": 0.966,
         "smith_plurality": 1.0,
         "smith_irv": 1.0,
-        "smith-minimax": 0.963,
+        "smith-minimax": 0.966,
         "ranked-pairs": 0.964,
-        "bucklin": 0.792,
+        "bucklin": 0.796,
         "approval": 0.964
     },
     "multi_winner_removed": {
         "plurality": 43,
         "IRV": 33,
-        "top-two": 36,
+        "top-two": 35,
         "borda-pm": 4,
         "borda-om": 23,
-        "borda-avg": 5,
+        "borda-avg": 6,
         "top-3-truncation": 21,
         "condorcet": 20,
         "minimax": 25,
@@ -69,16 +69,16 @@
         "smith_irv": 23,
         "smith-minimax": 25,
         "ranked-pairs": 25,
-        "bucklin": 30,
+        "bucklin": 31,
         "approval": 25
     },
     "multi_winner_removed_party_still_wins": {
         "plurality": 43,
         "IRV": 33,
-        "top-two": 36,
+        "top-two": 35,
         "borda-pm": 4,
         "borda-om": 18,
-        "borda-avg": 5,
+        "borda-avg": 6,
         "top-3-truncation": 20,
         "condorcet": 20,
         "minimax": 25,
@@ -86,7 +86,7 @@
         "smith_irv": 23,
         "smith-minimax": 25,
         "ranked-pairs": 25,
-        "bucklin": 30,
+        "bucklin": 31,
         "approval": 25
     },
     "multi_winner_removed_party_still_wins_pct": {
@@ -4137,7 +4137,7 @@
                 "single_party_winner": "[\"Pat O'ROURKE (Lab)\"]"
             },
             "borda-avg": {
-                "multi_party_winner": "[\"Pat O'ROURKE (Lab)\", 'Olivia CARSON (Lab)']",
+                "multi_party_winner": "['Olivia CARSON (Lab)', \"Pat O'ROURKE (Lab)\"]",
                 "single_party_winner": "[\"Pat O'ROURKE (Lab)\"]"
             },
             "top-3-truncation": {
@@ -6104,13 +6104,17 @@
                 "multi_party_winner": "['Maureen BURKE (Lab)']",
                 "single_party_winner": "['Ruairi KELLY (SNP)']"
             },
-            "smith_plurality": {
-                "multi_party_winner": "['Maureen BURKE (Lab)']",
-                "single_party_winner": "['Ruairi KELLY (SNP)']"
+            "minimax": {
+                "multi_party_winner": "['Maureen BURKE (Lab)', 'Ruairi KELLY (SNP)']",
+                "single_party_winner": "['Ruairi KELLY (SNP)', 'Maureen BURKE (Lab)']"
             },
             "smith_irv": {
                 "multi_party_winner": "['Maureen BURKE (Lab)']",
                 "single_party_winner": "['Ruairi KELLY (SNP)']"
+            },
+            "smith-minimax": {
+                "multi_party_winner": "['Maureen BURKE (Lab)', 'Ruairi KELLY (SNP)']",
+                "single_party_winner": "['Ruairi KELLY (SNP)', 'Maureen BURKE (Lab)']"
             },
             "ranked-pairs": {
                 "multi_party_winner": "['Maureen BURKE (Lab)']",
@@ -6300,10 +6304,6 @@
                 "multi_party_winner": "['John FERGUSON (SNP)']",
                 "single_party_winner": "['Joe CULLINANE (Lab)']"
             },
-            "top-two": {
-                "multi_party_winner": "['John FERGUSON (SNP)']",
-                "single_party_winner": "['Joe CULLINANE (Lab)']"
-            },
             "borda-pm": {
                 "multi_party_winner": "['John FERGUSON (SNP)']",
                 "single_party_winner": "['Joe CULLINANE (Lab)']"
@@ -6312,9 +6312,21 @@
                 "multi_party_winner": "['John FERGUSON (SNP)']",
                 "single_party_winner": "['Joe CULLINANE (Lab)']"
             },
-            "smith_irv": {
+            "minimax": {
+                "multi_party_winner": "['Joe CULLINANE (Lab)', 'John FERGUSON (SNP)']",
+                "single_party_winner": "['John FERGUSON (SNP)', 'Joe CULLINANE (Lab)']"
+            },
+            "smith_plurality": {
                 "multi_party_winner": "['Joe CULLINANE (Lab)']",
                 "single_party_winner": "['John FERGUSON (SNP)']"
+            },
+            "smith_irv": {
+                "multi_party_winner": "['John FERGUSON (SNP)']",
+                "single_party_winner": "['Joe CULLINANE (Lab)']"
+            },
+            "smith-minimax": {
+                "multi_party_winner": "['Joe CULLINANE (Lab)', 'John FERGUSON (SNP)']",
+                "single_party_winner": "['John FERGUSON (SNP)', 'Joe CULLINANE (Lab)']"
             }
         },
         "raw_data/scotland/processed_data/clackmannanshire22/Ward4ClackmannanshireSouth_ward4.csv": {
@@ -6878,6 +6890,29 @@
             "plurality": {
                 "multi_party_winner": "['Graham SIMPSON (Con)']",
                 "single_party_winner": "['David WATSON (SNP)']"
+            }
+        },
+        "raw_data/scotland/processed_data/s-lanarks12-ballots/Ward5-AvondaleandStonehouse_s-lanarks12-05.csv": {
+            "scores": {
+                "Isobel DORMAN (SNP)": 25698.0,
+                "William HOLMAN (SNP)": 25322.0,
+                "Lynn FILSHIE (Ind)": 17830.0,
+                "Margaret COOPER (Lab)": 15704.0,
+                "John HAMILTON (Lab)": 15609.0,
+                "Graeme CAMPBELL (Ind)": 14949.0,
+                "Jim MALLOY (Ind)": 14227.0,
+                "Allan FINNIE (Con)": 11621.0,
+                "Erica YOUNG (Grn)": 11274.0,
+                "Kenny WEIR (Ind)": 6516.0,
+                "Melvyn Donald RANDALL (UKIP)": 3222.0
+            },
+            "removed": [
+                "William HOLMAN (SNP)",
+                "John HAMILTON (Lab)"
+            ],
+            "bucklin": {
+                "multi_party_winner": "['William HOLMAN (SNP)']",
+                "single_party_winner": "['Isobel DORMAN (SNP)']"
             }
         },
         "raw_data/scotland/processed_data/s-lanarks12-ballots/Ward16-BothwellandUddingston_s-lanarks12-16.csv": {
@@ -7607,7 +7642,7 @@
                 "single_party_winner": "['Gordon MCDONALD (SNP)']"
             },
             "top-two": {
-                "multi_party_winner": "['Sonya WARREN (SNP)']",
+                "multi_party_winner": "['Tim EAGLE (Con)']",
                 "single_party_winner": "['Gordon MCDONALD (SNP)']"
             },
             "borda-pm": {

@@ -4,20 +4,20 @@
         "elections_with_changes": 241,
         "method_counts": {
             "plurality": 34,
-            "IRV": 1,
+            "IRV": 0,
             "top-two": 24,
-            "borda-pm": 40,
-            "borda-om": 102,
-            "borda-avg": 34,
-            "top-3-truncation": 85,
-            "condorcet": 3,
-            "minimax": 3,
-            "smith_plurality": 4,
+            "borda-pm": 39,
+            "borda-om": 100,
+            "borda-avg": 32,
+            "top-3-truncation": 84,
+            "condorcet": 1,
+            "minimax": 1,
+            "smith_plurality": 3,
             "smith_irv": 2,
-            "smith-minimax": 3,
-            "ranked-pairs": 4,
-            "bucklin": 36,
-            "approval": 4
+            "smith-minimax": 1,
+            "ranked-pairs": 1,
+            "bucklin": 35,
+            "approval": 1
         },
         "file_summary": {
             "plurality": [
@@ -56,15 +56,12 @@
                 "raw_data/scotland/processed_data/scottish by-elections/Ward12-AirdandLochNess_Highland 2021 by-election Aird Ward 3.csv",
                 "raw_data/scotland/processed_data/fife17-ballots/Ward11-KirkcaldyCentral_fife17-11.csv"
             ],
-            "IRV": [
-                "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv"
-            ],
+            "IRV": [],
             "top-two": [
                 "raw_data/scotland/processed_data/glasgow2007 preflib/Hillhead_hillhead.csv",
                 "raw_data/scotland/processed_data/n-ayrshire22/Ward02-GarnockValley_Preference-Profile-Garnock-Valley_copy.csv",
                 "raw_data/scotland/processed_data/highland17-ballots/Ward1-North,WestandCentralSutherland_highland17-01.csv",
                 "raw_data/scotland/processed_data/highland17-ballots/Ward5-WesterRoss,StrathpefferandLochalsh_highland17-05.csv",
-                "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv",
                 "raw_data/scotland/processed_data/perth-kinross12-ballots/Kinross-shire_perth-kinross12-08.csv",
                 "raw_data/scotland/processed_data/renfs22/for_Ward_9_Johnstone_North_Kilbarchan_Howwood_and_Lochwinnoch_copy.csv",
                 "raw_data/scotland/processed_data/argyll-bute17-ballots/KintyreandtheIslands_argyll-bute17-02.csv",
@@ -80,6 +77,7 @@
                 "raw_data/scotland/processed_data/edinburgh17-ballots/Ward15-Southside-Newington_edinburgh17-15.csv",
                 "raw_data/scotland/processed_data/midlothian17-ballots/MidlothianEast_midlothian17-05.csv",
                 "raw_data/scotland/processed_data/midlothian17-ballots/Penicuik_midlothian17-01.csv",
+                "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv",
                 "raw_data/scotland/processed_data/perth-kinross17-ballots/Ward8-Kinross-shire_perth-kinross17-08.csv",
                 "raw_data/scotland/processed_data/highland12-ballots/InvernessWestWard_highland12-14.csv",
                 "raw_data/scotland/processed_data/fife17-ballots/Ward3-DunfermlineCentral_fife17-03.csv",
@@ -96,7 +94,6 @@
                 "raw_data/scotland/processed_data/n-ayrshire22/Ward03-Ardrossan_Preference-Profile-Ardrossan_copy.csv",
                 "raw_data/scotland/processed_data/n-ayrshire22/Ward01-NorthCoast_Preference-Profile-North-Coast_copy.csv",
                 "raw_data/scotland/processed_data/s-lanarks17-ballots/Ward5-AvondaleandStonehouse_s-lanarks17-05.csv",
-                "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv",
                 "raw_data/scotland/processed_data/angus22/Ward3-ForfarandDistrict_ward3.csv",
                 "raw_data/scotland/processed_data/w-lothian22/Ward4-LivingstonSouth_west lothian,2022,ward 4.csv",
                 "raw_data/scotland/processed_data/aberdeenshire22/Ward1-BanffandDistrict_ward1.csv",
@@ -155,7 +152,6 @@
                 "raw_data/scotland/processed_data/s-lanarks17-ballots/Ward9-EastKilbrideWest_s-lanarks17-09.csv",
                 "raw_data/scotland/processed_data/s-lanarks17-ballots/Ward12-RutherglenCentralandNorth_s-lanarks17-12.csv",
                 "raw_data/scotland/processed_data/s-lanarks17-ballots/Ward19-HamiltonSouth_s-lanarks17-19.csv",
-                "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv",
                 "raw_data/scotland/processed_data/e-ayrshire17-ballots/IrvineValley_e-ayrshire17-06.csv",
                 "raw_data/scotland/processed_data/angus22/Ward6-ArbroathWestLethamandFriockheim_ward6.csv",
                 "raw_data/scotland/processed_data/argyll-bute17-ballots/Dunoon_argyll-bute17-07.csv",
@@ -188,7 +184,6 @@
                 "raw_data/scotland/processed_data/sc-borders12-ballots/TweeddaleEastWard_sc-borders12-02.csv",
                 "raw_data/scotland/processed_data/sc-borders12-ballots/JedburghandDistrictWard_sc-borders12-09.csv",
                 "raw_data/scotland/processed_data/sc-borders12-ballots/Kelso&DistrictWard_sc-borders12-08.csv",
-                "raw_data/scotland/processed_data/argyll22/Ward2-KintyreandtheIslands_ward2.csv",
                 "raw_data/scotland/processed_data/argyll22/Ward5-ObanNorthandLorn_ward5.csv",
                 "raw_data/scotland/processed_data/n-lanarks22/Preference Profile Ward 5 Stepps, Chryston and Muirhead.csv",
                 "raw_data/scotland/processed_data/dundee17-ballots/TheFerry_dundee17-08.csv",
@@ -240,7 +235,6 @@
                 "raw_data/scotland/processed_data/e-lothian22/Ward1-Musselburgh_Ward1.csv",
                 "raw_data/scotland/processed_data/s-lanarks17-ballots/Ward12-RutherglenCentralandNorth_s-lanarks17-12.csv",
                 "raw_data/scotland/processed_data/eilean-siar12-ballots/SteornabhaghaTuath_eilean-siar12-07.csv",
-                "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv",
                 "raw_data/scotland/processed_data/argyll-bute17-ballots/LomondNorth_argyll-bute17-09.csv",
                 "raw_data/scotland/processed_data/aberdeenshire22/Ward1-BanffandDistrict_ward1.csv",
                 "raw_data/scotland/processed_data/edinburgh22/Ward2-PentlandHills_ward2.csv",
@@ -248,7 +242,6 @@
                 "raw_data/scotland/processed_data/stirling22/preferenceprofile_v0001_ward-2-forth-and-endrick_06052022_124253.csv",
                 "raw_data/scotland/processed_data/s-lanarks22/ward_18_hamilton_west_and_earnock_preference_profile.csv",
                 "raw_data/scotland/processed_data/aberdeen2017/DyceBucksburnDanestoneWard_aberdeen17-01.csv",
-                "raw_data/scotland/processed_data/argyll22/Ward2-KintyreandtheIslands_ward2.csv",
                 "raw_data/scotland/processed_data/edinburgh17-ballots/Ward15-Southside-Newington_edinburgh17-15.csv",
                 "raw_data/scotland/processed_data/n-lanarks12-ballots/Ward2CumbernauldNorth_n-lanarks12-02.csv",
                 "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv",
@@ -297,7 +290,6 @@
                 "raw_data/scotland/processed_data/s-lanarks17-ballots/Ward12-RutherglenCentralandNorth_s-lanarks17-12.csv",
                 "raw_data/scotland/processed_data/s-lanarks17-ballots/Ward19-HamiltonSouth_s-lanarks17-19.csv",
                 "raw_data/scotland/processed_data/s-lanarks17-ballots/Ward13-CambuslangWest_s-lanarks17-13.csv",
-                "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv",
                 "raw_data/scotland/processed_data/angus22/Ward3-ForfarandDistrict_ward3.csv",
                 "raw_data/scotland/processed_data/angus22/Ward5-CarnoustieandDistrict_ward5.csv",
                 "raw_data/scotland/processed_data/w-lothian22/Ward4-LivingstonSouth_west lothian,2022,ward 4.csv",
@@ -355,34 +347,24 @@
                 "raw_data/scotland/processed_data/e-ayrshire22/Ward1-Annick_Ward1.csv"
             ],
             "condorcet": [
-                "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv",
-                "raw_data/scotland/processed_data/argyll22/Ward2-KintyreandtheIslands_ward2.csv",
                 "raw_data/scotland/processed_data/highland12-ballots/FortWilliamandArdnamurchanWard_highland12-22.csv"
             ],
             "minimax": [
-                "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv",
-                "raw_data/scotland/processed_data/argyll22/Ward2-KintyreandtheIslands_ward2.csv",
                 "raw_data/scotland/processed_data/highland12-ballots/FortWilliamandArdnamurchanWard_highland12-22.csv"
             ],
             "smith_plurality": [
-                "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv",
-                "raw_data/scotland/processed_data/argyll22/Ward2-KintyreandtheIslands_ward2.csv",
                 "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv",
+                "raw_data/scotland/processed_data/n-ayrshire12-ballots/Ward03-Kilwinning_n-ayrshire12-03.csv",
                 "raw_data/scotland/processed_data/highland12-ballots/FortWilliamandArdnamurchanWard_highland12-22.csv"
             ],
             "smith_irv": [
-                "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv",
+                "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv",
                 "raw_data/scotland/processed_data/highland12-ballots/FortWilliamandArdnamurchanWard_highland12-22.csv"
             ],
             "smith-minimax": [
-                "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv",
-                "raw_data/scotland/processed_data/argyll22/Ward2-KintyreandtheIslands_ward2.csv",
                 "raw_data/scotland/processed_data/highland12-ballots/FortWilliamandArdnamurchanWard_highland12-22.csv"
             ],
             "ranked-pairs": [
-                "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv",
-                "raw_data/scotland/processed_data/argyll22/Ward2-KintyreandtheIslands_ward2.csv",
-                "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv",
                 "raw_data/scotland/processed_data/highland12-ballots/FortWilliamandArdnamurchanWard_highland12-22.csv"
             ],
             "bucklin": [
@@ -396,7 +378,6 @@
                 "raw_data/scotland/processed_data/highland17-ballots/Ward1-North,WestandCentralSutherland_highland17-01.csv",
                 "raw_data/scotland/processed_data/s-lanarks17-ballots/Ward10-EastKilbrideEast_s-lanarks17-10.csv",
                 "raw_data/scotland/processed_data/s-lanarks17-ballots/Ward8-EastKilbrideCentralNorth_s-lanarks17-08.csv",
-                "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv",
                 "raw_data/scotland/processed_data/shetland17/Ward1-NorthIsles_shetland17-01.csv",
                 "raw_data/scotland/processed_data/edinburgh22/Ward14-Craigentinny-Duddingston_ward14.csv",
                 "raw_data/scotland/processed_data/perth-kinross22/Ward12-PerthCityCentre_Ward12.csv",
@@ -404,8 +385,8 @@
                 "raw_data/scotland/processed_data/highland22/PreferenceProfile_V0001_Cromarty_Firth_06052022_161538.csv",
                 "raw_data/scotland/processed_data/highland22/PreferenceProfile_V0001_Tain_and_Easter_Ross_06052022_161537.csv",
                 "raw_data/scotland/processed_data/edinburgh12-ballots/AlmondWard_edinburgh12-01.csv",
+                "raw_data/scotland/processed_data/s-lanarks22/ward_10_east_kilbride_east_preference_profile.csv",
                 "raw_data/scotland/processed_data/sc-borders12-ballots/TweeddaleEastWard_sc-borders12-02.csv",
-                "raw_data/scotland/processed_data/argyll22/Ward2-KintyreandtheIslands_ward2.csv",
                 "raw_data/scotland/processed_data/orkney22/Ward3-StromnessandSouthIslesWard_ward3.csv",
                 "raw_data/scotland/processed_data/sc-borders17/Ward3-GalashielsandDistrict_sc-borders17-03.csv",
                 "raw_data/scotland/processed_data/edinburgh17-ballots/Ward2-PentlandHills_edinburgh17-02.csv",
@@ -424,9 +405,6 @@
                 "raw_data/scotland/processed_data/e-ayrshire22/Ward1-Annick_Ward1.csv"
             ],
             "approval": [
-                "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv",
-                "raw_data/scotland/processed_data/argyll22/Ward2-KintyreandtheIslands_ward2.csv",
-                "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv",
                 "raw_data/scotland/processed_data/highland12-ballots/FortWilliamandArdnamurchanWard_highland12-22.csv"
             ]
         }
@@ -2622,76 +2600,6 @@
                     "numCands": 7,
                     "baseline_winner": "['ALASDAIR MACLEOD (Ind)']",
                     "top4": "['Zena STEWART (Ind)']"
-                },
-                "IRV": {
-                    "numCands": 7,
-                    "baseline_winner": "['ALASDAIR MACLEOD (Ind)']",
-                    "top4": "['Zena STEWART (Ind)']"
-                },
-                "top-two": {
-                    "numCands": 7,
-                    "baseline_winner": "['ALASDAIR MACLEOD (Ind)']",
-                    "top4": "['Zena STEWART (Ind)']"
-                },
-                "borda-pm": {
-                    "numCands": 7,
-                    "baseline_winner": "['ALASDAIR MACLEOD (Ind)']",
-                    "top4": "['Zena STEWART (Ind)']"
-                },
-                "borda-om": {
-                    "numCands": 7,
-                    "baseline_winner": "['ALASDAIR MACLEOD (Ind)']",
-                    "top4": "['Zena STEWART (Ind)']"
-                },
-                "borda-avg": {
-                    "numCands": 7,
-                    "baseline_winner": "['ALASDAIR MACLEOD (Ind)']",
-                    "top4": "['Zena STEWART (Ind)']"
-                },
-                "top-3-truncation": {
-                    "numCands": 7,
-                    "baseline_winner": "['ALASDAIR MACLEOD (Ind)']",
-                    "top4": "['Zena STEWART (Ind)']"
-                },
-                "condorcet": {
-                    "numCands": 7,
-                    "baseline_winner": "['ALASDAIR MACLEOD (Ind)']",
-                    "top4": "['Zena STEWART (Ind)']"
-                },
-                "minimax": {
-                    "numCands": 7,
-                    "baseline_winner": "['ALASDAIR MACLEOD (Ind)']",
-                    "top4": "['Zena STEWART (Ind)']"
-                },
-                "smith_plurality": {
-                    "numCands": 7,
-                    "baseline_winner": "['ALASDAIR MACLEOD (Ind)']",
-                    "top4": "['Zena STEWART (Ind)']"
-                },
-                "smith_irv": {
-                    "numCands": 7,
-                    "baseline_winner": "['ALASDAIR MACLEOD (Ind)']",
-                    "top4": "['Zena STEWART (Ind)']"
-                },
-                "smith-minimax": {
-                    "numCands": 7,
-                    "baseline_winner": "['ALASDAIR MACLEOD (Ind)']",
-                    "top4": "['Zena STEWART (Ind)']"
-                },
-                "ranked-pairs": {
-                    "numCands": 7,
-                    "baseline_winner": "['ALASDAIR MACLEOD (Ind)']",
-                    "top4": "['Zena STEWART (Ind)']"
-                },
-                "bucklin": {
-                    "numCands": 7,
-                    "baseline_winner": "['ALASDAIR MACLEOD (Ind)']",
-                    "top4": "['Zena STEWART (Ind)']"
-                },
-                "approval": {
-                    "numCands": 7,
-                    "baseline_winner": "['ALASDAIR MACLEOD (Ind)']",
-                    "top4": "['Zena STEWART (Ind)']"
                 }
             },
             "candidates": {
@@ -4345,6 +4253,11 @@
                     "numCands": 6,
                     "baseline_winner": "['Graham SCOTT (Lab)']",
                     "top4": "['Gladys FERGUSON-MILLER (SNP)']"
+                },
+                "bucklin": {
+                    "numCands": 6,
+                    "baseline_winner": "['Graham SCOTT (Lab)']",
+                    "top4": "['Gladys FERGUSON-MILLER (SNP)']"
                 }
             },
             "candidates": {
@@ -4681,55 +4594,10 @@
         },
         "raw_data/scotland/processed_data/argyll22/Ward2-KintyreandtheIslands_ward2.csv": {
             "changes": {
-                "borda-om": {
-                    "numCands": 6,
-                    "baseline_winner": "['Robin CURRIE (LD)']",
-                    "top4": "['John MCALPINE (Ind)']"
-                },
-                "borda-avg": {
-                    "numCands": 6,
-                    "baseline_winner": "['Robin CURRIE (LD)']",
-                    "top4": "['John MCALPINE (Ind)']"
-                },
                 "top-3-truncation": {
                     "numCands": 6,
                     "baseline_winner": "['Dougie MCFADZEAN (SNP)']",
-                    "top4": "['John MCALPINE (Ind)']"
-                },
-                "condorcet": {
-                    "numCands": 6,
-                    "baseline_winner": "[]",
-                    "top4": "['John MCALPINE (Ind)']"
-                },
-                "minimax": {
-                    "numCands": 6,
-                    "baseline_winner": "['Dougie MCFADZEAN (SNP)']",
-                    "top4": "['John MCALPINE (Ind)']"
-                },
-                "smith_plurality": {
-                    "numCands": 6,
-                    "baseline_winner": "['Dougie MCFADZEAN (SNP)']",
-                    "top4": "['John MCALPINE (Ind)']"
-                },
-                "smith-minimax": {
-                    "numCands": 6,
-                    "baseline_winner": "['Dougie MCFADZEAN (SNP)']",
-                    "top4": "['John MCALPINE (Ind)']"
-                },
-                "ranked-pairs": {
-                    "numCands": 6,
-                    "baseline_winner": "['Dougie MCFADZEAN (SNP)']",
-                    "top4": "['John MCALPINE (Ind)']"
-                },
-                "bucklin": {
-                    "numCands": 6,
-                    "baseline_winner": "['Robin CURRIE (LD)']",
-                    "top4": "['John MCALPINE (Ind)']"
-                },
-                "approval": {
-                    "numCands": 6,
-                    "baseline_winner": "['Dougie MCFADZEAN (SNP)']",
-                    "top4": "['John MCALPINE (Ind)']"
+                    "top4": "['Robin CURRIE (LD)']"
                 }
             },
             "candidates": {
@@ -5354,6 +5222,11 @@
         },
         "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv": {
             "changes": {
+                "top-two": {
+                    "numCands": 6,
+                    "baseline_winner": "['Maureen BURKE (Lab)']",
+                    "top4": "['Ruairi KELLY (SNP)']"
+                },
                 "borda-om": {
                     "numCands": 6,
                     "baseline_winner": "['Ruairi KELLY (SNP)']",
@@ -5374,12 +5247,7 @@
                     "baseline_winner": "['Ruairi KELLY (SNP)']",
                     "top4": "['Maureen BURKE (Lab)']"
                 },
-                "ranked-pairs": {
-                    "numCands": 6,
-                    "baseline_winner": "['Maureen BURKE (Lab)']",
-                    "top4": "['Ruairi KELLY (SNP)']"
-                },
-                "approval": {
+                "smith_irv": {
                     "numCands": 6,
                     "baseline_winner": "['Maureen BURKE (Lab)']",
                     "top4": "['Ruairi KELLY (SNP)']"
@@ -5461,6 +5329,11 @@
         "raw_data/scotland/processed_data/n-ayrshire12-ballots/Ward03-Kilwinning_n-ayrshire12-03.csv": {
             "changes": {
                 "top-3-truncation": {
+                    "numCands": 7,
+                    "baseline_winner": "['Joe CULLINANE (Lab)']",
+                    "top4": "['John FERGUSON (SNP)']"
+                },
+                "smith_plurality": {
                     "numCands": 7,
                     "baseline_winner": "['Joe CULLINANE (Lab)']",
                     "top4": "['John FERGUSON (SNP)']"
@@ -5814,7 +5687,7 @@
                 },
                 "borda-om": {
                     "numCands": 6,
-                    "baseline_winner": "['Aileen MORTON (LD)', 'Vivien DANCE (Ind)']",
+                    "baseline_winner": "['Vivien DANCE (Ind)', 'Aileen MORTON (LD)']",
                     "top4": "['Aileen MORTON (LD)']"
                 },
                 "top-3-truncation": {

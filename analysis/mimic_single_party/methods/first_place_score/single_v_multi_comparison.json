@@ -1,24 +1,24 @@
 {
     "metadata": {
         "total_elections": 1128,
-        "elections_with_changes": 420,
-        "total_method_count": 998,
+        "elections_with_changes": 421,
+        "total_method_count": 996,
         "method_counts": {
             "plurality": 259,
             "IRV": 19,
-            "top-two": 60,
+            "top-two": 58,
             "borda-pm": 62,
             "borda-om": 177,
             "borda-avg": 66,
             "top-3-truncation": 89,
             "condorcet": 28,
-            "minimax": 28,
-            "smith_plurality": 23,
-            "smith_irv": 22,
-            "smith-minimax": 28,
-            "ranked-pairs": 26,
+            "minimax": 27,
+            "smith_plurality": 24,
+            "smith_irv": 21,
+            "smith-minimax": 27,
+            "ranked-pairs": 27,
             "bucklin": 85,
-            "approval": 26
+            "approval": 27
         }
     },
     "changes": {
@@ -10265,7 +10265,7 @@
                     "single_party_winner": "[\"Pat O'ROURKE (Lab)\"]"
                 },
                 "borda-avg": {
-                    "multi_party_winner": "[\"Pat O'ROURKE (Lab)\", 'Olivia CARSON (Lab)']",
+                    "multi_party_winner": "['Olivia CARSON (Lab)', \"Pat O'ROURKE (Lab)\"]",
                     "single_party_winner": "[\"Pat O'ROURKE (Lab)\"]"
                 },
                 "top-3-truncation": {
@@ -11293,10 +11293,6 @@
                 "borda-om": {
                     "multi_party_winner": "['Gladys FERGUSON-MILLER (SNP)']",
                     "single_party_winner": "['Graham SCOTT (Lab)']"
-                },
-                "bucklin": {
-                    "multi_party_winner": "['Graham SCOTT (Lab)']",
-                    "single_party_winner": "['Gladys FERGUSON-MILLER (SNP)']"
                 }
             },
             "candidates": [
@@ -15096,10 +15092,6 @@
                     "multi_party_winner": "['John FERGUSON (SNP)']",
                     "single_party_winner": "['Joe CULLINANE (Lab)']"
                 },
-                "top-two": {
-                    "multi_party_winner": "['John FERGUSON (SNP)']",
-                    "single_party_winner": "['Joe CULLINANE (Lab)']"
-                },
                 "borda-pm": {
                     "multi_party_winner": "['John FERGUSON (SNP)']",
                     "single_party_winner": "['Joe CULLINANE (Lab)']"
@@ -15108,17 +15100,17 @@
                     "multi_party_winner": "['John FERGUSON (SNP)']",
                     "single_party_winner": "['Joe CULLINANE (Lab)']"
                 },
-                "minimax": {
-                    "multi_party_winner": "['John FERGUSON (SNP)', 'Joe CULLINANE (Lab)']",
-                    "single_party_winner": "['Joe CULLINANE (Lab)', 'John FERGUSON (SNP)']"
-                },
-                "smith_irv": {
+                "smith_plurality": {
                     "multi_party_winner": "['Joe CULLINANE (Lab)']",
                     "single_party_winner": "['John FERGUSON (SNP)']"
                 },
-                "smith-minimax": {
-                    "multi_party_winner": "['John FERGUSON (SNP)', 'Joe CULLINANE (Lab)']",
-                    "single_party_winner": "['Joe CULLINANE (Lab)', 'John FERGUSON (SNP)']"
+                "ranked-pairs": {
+                    "multi_party_winner": "['Joe CULLINANE (Lab)']",
+                    "single_party_winner": "['John FERGUSON (SNP)']"
+                },
+                "approval": {
+                    "multi_party_winner": "['Joe CULLINANE (Lab)']",
+                    "single_party_winner": "['John FERGUSON (SNP)']"
                 }
             },
             "candidates": [
@@ -16522,6 +16514,63 @@
                 "SNP": 2,
                 "Lab": 2,
                 "EKA": 1
+            }
+        },
+        "raw_data/scotland/processed_data/s-lanarks12-ballots/Ward5-AvondaleandStonehouse_s-lanarks12-05.csv": {
+            "changes": {
+                "bucklin": {
+                    "multi_party_winner": "['William HOLMAN (SNP)']",
+                    "single_party_winner": "['Isobel DORMAN (SNP)']"
+                }
+            },
+            "candidates": [
+                "Erica YOUNG (Grn)",
+                "Graeme CAMPBELL (Ind)",
+                "Lynn FILSHIE (Ind)",
+                "Kenny WEIR (Ind)",
+                "Isobel DORMAN (SNP)",
+                "William HOLMAN (SNP)",
+                "Margaret COOPER (Lab)",
+                "Melvyn Donald RANDALL (UKIP)",
+                "Jim MALLOY (Ind)",
+                "John HAMILTON (Lab)",
+                "Allan FINNIE (Con)"
+            ],
+            "new_candidates": [
+                "Erica YOUNG (Grn)",
+                "Graeme CAMPBELL (Ind)",
+                "Kenny WEIR (Ind)",
+                "Margaret COOPER (Lab)",
+                "Lynn FILSHIE (Ind)",
+                "Isobel DORMAN (SNP)",
+                "Melvyn Donald RANDALL (UKIP)",
+                "Jim MALLOY (Ind)",
+                "Allan FINNIE (Con)"
+            ],
+            "removed_candidates": [
+                "William HOLMAN (SNP)",
+                "John HAMILTON (Lab)"
+            ],
+            "scores": {
+                "Isobel DORMAN (SNP)": 1148,
+                "William HOLMAN (SNP)": 866,
+                "Margaret COOPER (Lab)": 670,
+                "Allan FINNIE (Con)": 624,
+                "Graeme CAMPBELL (Ind)": 502,
+                "John HAMILTON (Lab)": 494,
+                "Lynn FILSHIE (Ind)": 409,
+                "Jim MALLOY (Ind)": 339,
+                "Erica YOUNG (Grn)": 181,
+                "Kenny WEIR (Ind)": 94,
+                "Melvyn Donald RANDALL (UKIP)": 37
+            },
+            "parties": {
+                "Grn": 1,
+                "Ind": 4,
+                "SNP": 2,
+                "Lab": 2,
+                "UKIP": 1,
+                "Con": 1
             }
         },
         "raw_data/scotland/processed_data/s-lanarks12-ballots/Ward16-BothwellandUddingston_s-lanarks12-16.csv": {
@@ -20929,10 +20978,6 @@
         },
         "raw_data/scotland/processed_data/dumgal12-ballots/CastleDouglasandGlenkensWard_dumgal12-05.csv": {
             "changes": {
-                "top-two": {
-                    "multi_party_winner": "['(Con) Finlay CARSON']",
-                    "single_party_winner": "['(Ind) George N PRENTICE']"
-                },
                 "top-3-truncation": {
                     "multi_party_winner": "['(Con) Finlay CARSON']",
                     "single_party_winner": "['(Ind) George N PRENTICE']"
@@ -21425,43 +21470,6 @@
                 "SNP": 2
             }
         },
-        "raw_data/scotland/processed_data/e-ayrshire22/Ward6-IrvineValley_Ward6.csv": {
-            "changes": {
-                "borda-om": {
-                    "multi_party_winner": "['Beverley Michele CLARK (SNP) ']",
-                    "single_party_winner": "['Kevin MCGREGOR (Labour and Co-operative Party) ']"
-                }
-            },
-            "candidates": [
-                "Kevin MCGREGOR (Labour and Co-operative Party) ",
-                "Beverley Michele CLARK (SNP) ",
-                "Lee-Anne Margaret TO (SNP) ",
-                "Susan MCFADZEAN (Con) ",
-                "Sally Jane COGLEY The (Rubbish) Party "
-            ],
-            "new_candidates": [
-                "Kevin MCGREGOR (Labour and Co-operative Party) ",
-                "Beverley Michele CLARK (SNP) ",
-                "Susan MCFADZEAN (Con) ",
-                "Sally Jane COGLEY The (Rubbish) Party "
-            ],
-            "removed_candidates": [
-                "Lee-Anne Margaret TO (SNP) "
-            ],
-            "scores": {
-                "Beverley Michele CLARK (SNP) ": 1309,
-                "Kevin MCGREGOR (Labour and Co-operative Party) ": 962,
-                "Sally Jane COGLEY The (Rubbish) Party ": 787,
-                "Susan MCFADZEAN (Con) ": 737,
-                "Lee-Anne Margaret TO (SNP) ": 461
-            },
-            "parties": {
-                "Labour and Co-operative Party": 1,
-                "SNP": 2,
-                "Con": 1,
-                "Rubbish": 1
-            }
-        },
         "raw_data/scotland/processed_data/e-ayrshire22/Ward3-KilmarnockWestandCrosshouse_Ward3.csv": {
             "changes": {
                 "plurality": {
@@ -21511,46 +21519,6 @@
                 "SNP": 2
             }
         },
-        "raw_data/scotland/processed_data/e-ayrshire22/Ward7-Ballochmyle_Ward7.csv": {
-            "changes": {
-                "top-3-truncation": {
-                    "multi_party_winner": "['Claire LEITCH (SNP) ']",
-                    "single_party_winner": "['Linda HOLLAND (Lab) ']"
-                }
-            },
-            "candidates": [
-                "Stephen MCCARRON (Lab) ",
-                "Claire LEITCH (SNP) ",
-                "William LENNOX (SNP) ",
-                "David SHAW   (UNKNOWN)",
-                "Alyson SIMMONS (Con) ",
-                "Linda HOLLAND (Lab) "
-            ],
-            "new_candidates": [
-                "Linda HOLLAND (Lab) ",
-                "Claire LEITCH (SNP) ",
-                "Alyson SIMMONS (Con) ",
-                "David SHAW   (UNKNOWN)"
-            ],
-            "removed_candidates": [
-                "Stephen MCCARRON (Lab) ",
-                "William LENNOX (SNP) "
-            ],
-            "scores": {
-                "Claire LEITCH (SNP) ": 1301,
-                "Linda HOLLAND (Lab) ": 1085,
-                "Alyson SIMMONS (Con) ": 779,
-                "William LENNOX (SNP) ": 542,
-                "David SHAW   (UNKNOWN)": 507,
-                "Stephen MCCARRON (Lab) ": 432
-            },
-            "parties": {
-                "Lab": 2,
-                "SNP": 2,
-                "UNKNOWN": 1,
-                "Con": 1
-            }
-        },
         "raw_data/scotland/processed_data/e-ayrshire22/Ward1-Annick_Ward1.csv": {
             "changes": {
                 "plurality": {
@@ -21597,6 +21565,83 @@
                 "Ind": 2,
                 "Con": 1,
                 "Lab": 1
+            }
+        },
+        "raw_data/scotland/processed_data/e-ayrshire22/Ward6-IrvineValley_Ward6.csv": {
+            "changes": {
+                "borda-om": {
+                    "multi_party_winner": "['Beverley Michele CLARK (SNP) ']",
+                    "single_party_winner": "['Kevin MCGREGOR (Labour and Co-operative Party) ']"
+                }
+            },
+            "candidates": [
+                "Kevin MCGREGOR (Labour and Co-operative Party) ",
+                "Beverley Michele CLARK (SNP) ",
+                "Lee-Anne Margaret TO (SNP) ",
+                "Susan MCFADZEAN (Con) ",
+                "Sally Jane COGLEY The (Rubbish) Party "
+            ],
+            "new_candidates": [
+                "Kevin MCGREGOR (Labour and Co-operative Party) ",
+                "Beverley Michele CLARK (SNP) ",
+                "Susan MCFADZEAN (Con) ",
+                "Sally Jane COGLEY The (Rubbish) Party "
+            ],
+            "removed_candidates": [
+                "Lee-Anne Margaret TO (SNP) "
+            ],
+            "scores": {
+                "Beverley Michele CLARK (SNP) ": 1309,
+                "Kevin MCGREGOR (Labour and Co-operative Party) ": 962,
+                "Sally Jane COGLEY The (Rubbish) Party ": 787,
+                "Susan MCFADZEAN (Con) ": 737,
+                "Lee-Anne Margaret TO (SNP) ": 461
+            },
+            "parties": {
+                "Labour and Co-operative Party": 1,
+                "SNP": 2,
+                "Con": 1,
+                "Rubbish": 1
+            }
+        },
+        "raw_data/scotland/processed_data/e-ayrshire22/Ward7-Ballochmyle_Ward7.csv": {
+            "changes": {
+                "top-3-truncation": {
+                    "multi_party_winner": "['Claire LEITCH (SNP) ']",
+                    "single_party_winner": "['Linda HOLLAND (Lab) ']"
+                }
+            },
+            "candidates": [
+                "Stephen MCCARRON (Lab) ",
+                "Claire LEITCH (SNP) ",
+                "William LENNOX (SNP) ",
+                "David SHAW   (UNKNOWN)",
+                "Alyson SIMMONS (Con) ",
+                "Linda HOLLAND (Lab) "
+            ],
+            "new_candidates": [
+                "Linda HOLLAND (Lab) ",
+                "Claire LEITCH (SNP) ",
+                "Alyson SIMMONS (Con) ",
+                "David SHAW   (UNKNOWN)"
+            ],
+            "removed_candidates": [
+                "Stephen MCCARRON (Lab) ",
+                "William LENNOX (SNP) "
+            ],
+            "scores": {
+                "Claire LEITCH (SNP) ": 1301,
+                "Linda HOLLAND (Lab) ": 1085,
+                "Alyson SIMMONS (Con) ": 779,
+                "William LENNOX (SNP) ": 542,
+                "David SHAW   (UNKNOWN)": 507,
+                "Stephen MCCARRON (Lab) ": 432
+            },
+            "parties": {
+                "Lab": 2,
+                "SNP": 2,
+                "UNKNOWN": 1,
+                "Con": 1
             }
         }
     }

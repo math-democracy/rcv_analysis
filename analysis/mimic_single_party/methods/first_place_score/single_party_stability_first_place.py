@@ -1,7 +1,7 @@
 import sys
 sys.path.append('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal')
 import main_methods as mm
-import votekit.elections as v
+import votekit.elections as vk
 import pandas as pd
 import multiprocessing
 import csv
@@ -63,13 +63,17 @@ def get_condensed_cands(filepath, filename, method):
     return list(cands_to_keep)
     
 def get_cands_to_keep(profile, condensed_cands, num_cands, num_cands_to_keep):
-    # get top4 plurality winners
-        # if there are less than 5 candidates, then top4 and top5 are both the whole candidate list
     prof = mm.process_cands(profile, condensed_cands)
 
+    # get top4 plurality winners
+        # if there are less than 5 candidates, then top4 and top5 are both the whole candidate list
     if num_cands > num_cands_to_keep:
-        cands_to_keep = v.Plurality(profile=prof,m=num_cands_to_keep,tiebreak='first_place').election_states[-1].elected
-        cands_to_keep = [list(w)[0] for w in cands_to_keep]
+        cands_to_keep_set = vk.Plurality(profile=prof, m=num_cands_to_keep, tiebreak='first_place').election_states[-1].elected
+        cands_to_keep_set = [list(set(f)) for f in cands_to_keep_set]
+        cands_to_keep = []
+        for l in cands_to_keep_set:
+            for c in l:
+                cands_to_keep.append(c)
     else:
         cands_to_keep = list(prof.candidates)
 
@@ -198,5 +202,8 @@ def main():
                         print("\n")
 
 if __name__ == '__main__':
-    main()
-    #process_file('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data/aberdeenshire22/ward-14-huntly-strathbogie-and-howe-of-alford_06052022_172124.csv','ward-14-huntly-strathbogie-and-howe-of-alford_06052022_172124.csv')
+    #main()
+    filepath = 'raw_data/scotland/processed_data/aberdeenshire22/Ward1-BanffandDistrict_ward1.csv'
+    filename = filepath.split('/')[-1]
+    process_file(filepath, filename)
+    #process_file('raw_data/scotland/processed_data/e-ayrshire22/Ward4-KilmarnockEastandHurlford_Ward4.csv','Ward4-KilmarnockEastandHurlford_Ward4.csv')

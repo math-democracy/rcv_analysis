@@ -42,13 +42,13 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 40,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
 41,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
 42,Patsy GOWANS (SNP),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-43,Patsy GOWANS (SNP),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
-44,Patsy GOWANS (SNP),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
-45,Patsy GOWANS (SNP),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
-46,Patsy GOWANS (SNP),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
-47,Patsy GOWANS (SNP),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
-48,Patsy GOWANS (SNP),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
-49,Patsy GOWANS (SNP),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
+43,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
+44,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
+45,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
+46,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
+47,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
+48,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
+49,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
 50,Darren MARGACH (Ind),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,,5
 51,Darren MARGACH (Ind),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,,5
 52,Darren MARGACH (Ind),Frank BROWN (Con),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
@@ -60,19 +60,19 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 58,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),skipped,skipped,,5
 59,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
 60,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
-61,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,,5
-62,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,,5
-63,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,,5
-64,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,,5
-65,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,,5
-66,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,,5
-67,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,,5
-68,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,,5
-69,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,,5
-70,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,,5
-71,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,,5
-72,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,,5
-73,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,,5
+61,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+62,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+63,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+64,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+65,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+66,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+67,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+68,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+69,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+70,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+71,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+72,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+73,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
 74,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
 75,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
 76,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
@@ -82,272 +82,272 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 80,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,skipped,,5
 81,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,skipped,,5
 82,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,,5
-83,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-84,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-85,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-86,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-87,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-88,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-89,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-90,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-91,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-92,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-93,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-94,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-95,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-96,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-97,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-98,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-99,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-100,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-101,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-102,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-103,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-104,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-105,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-106,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-107,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-108,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-109,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-110,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-111,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-112,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-113,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-114,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-115,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-116,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-117,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-118,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-119,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-120,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-121,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-122,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-123,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-124,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-125,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-126,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-127,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-128,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-129,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-130,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-131,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-132,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-133,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-134,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-135,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-136,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-137,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-138,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-139,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-140,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-141,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-142,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-143,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-144,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-145,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-146,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-147,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-148,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-149,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-150,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-151,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-152,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-153,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-154,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-155,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-156,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-157,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-158,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-159,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-160,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-161,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-162,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-163,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-164,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-165,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-166,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-167,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-168,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-169,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-170,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-171,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-172,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-173,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-174,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-175,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-176,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-177,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-178,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-179,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-180,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-181,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-182,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-183,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-184,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-185,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-186,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-187,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-188,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-189,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-190,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-191,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-192,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-193,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-194,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-195,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-196,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-197,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-198,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-199,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-200,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-201,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-202,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-203,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-204,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-205,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-206,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-207,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-208,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-209,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-210,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-211,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-212,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-213,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-214,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-215,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-216,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-217,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-218,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-219,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-220,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-221,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-222,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-223,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-224,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-225,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-226,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-227,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-228,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-229,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-230,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-231,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-232,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-233,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-234,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-235,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-236,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-237,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-238,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-239,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-240,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-241,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-242,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-243,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-244,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-245,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-246,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-247,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-248,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-249,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-250,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-251,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-252,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-253,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-254,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-255,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-256,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-257,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-258,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-259,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-260,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-261,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-262,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-263,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-264,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-265,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-266,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-267,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-268,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-269,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-270,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-271,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-272,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-273,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-274,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-275,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-276,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-277,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-278,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-279,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-280,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-281,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-282,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-283,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-284,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-285,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-286,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-287,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-288,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-289,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-290,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-291,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-292,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-293,Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,skipped,,5
-294,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-295,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-296,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-297,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-298,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-299,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-300,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-301,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-302,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-303,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-304,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-305,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-306,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-307,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-308,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-309,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-310,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-311,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-312,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-313,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-314,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-315,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-316,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-317,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-318,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-319,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-320,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-321,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-322,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-323,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-324,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-325,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-326,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-327,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-328,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-329,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-330,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-331,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-332,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-333,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-334,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-335,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-336,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-337,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-338,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-339,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-340,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-341,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-342,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-343,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-344,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-345,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-346,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-347,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-348,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
+83,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+84,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+85,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+86,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+87,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+88,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+89,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+90,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+91,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+92,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+93,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+94,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+95,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+96,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+97,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+98,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+99,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+100,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+101,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+102,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+103,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+104,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+105,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+106,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+107,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+108,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+109,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+110,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+111,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+112,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+113,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+114,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+115,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+116,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+117,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+118,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+119,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+120,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+121,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+122,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+123,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+124,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+125,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+126,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+127,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+128,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+129,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+130,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+131,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+132,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+133,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+134,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+135,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+136,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+137,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+138,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+139,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+140,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+141,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+142,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+143,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+144,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+145,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+146,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+147,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+148,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+149,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+150,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+151,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+152,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+153,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+154,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+155,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+156,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+157,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+158,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+159,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+160,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+161,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+162,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+163,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+164,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+165,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+166,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+167,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+168,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+169,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+170,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+171,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+172,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+173,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+174,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+175,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+176,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+177,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+178,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+179,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+180,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+181,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+182,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+183,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+184,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+185,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+186,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+187,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+188,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+189,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+190,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+191,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+192,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+193,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+194,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+195,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+196,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+197,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+198,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+199,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+200,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+201,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+202,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+203,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+204,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+205,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+206,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+207,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+208,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+209,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+210,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+211,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+212,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+213,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+214,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+215,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+216,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+217,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+218,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+219,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+220,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+221,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+222,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+223,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+224,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+225,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+226,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+227,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+228,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+229,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+230,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+231,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+232,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+233,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+234,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+235,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+236,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+237,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+238,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+239,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+240,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+241,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+242,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+243,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+244,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+245,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+246,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+247,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+248,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+249,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+250,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+251,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+252,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+253,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+254,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+255,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+256,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+257,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+258,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+259,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+260,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+261,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+262,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+263,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+264,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+265,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+266,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+267,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+268,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+269,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+270,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+271,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+272,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+273,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+274,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+275,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+276,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+277,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+278,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+279,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+280,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+281,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+282,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+283,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+284,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+285,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+286,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+287,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+288,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+289,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+290,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+291,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+292,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+293,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
+294,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+295,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+296,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+297,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+298,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+299,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+300,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+301,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+302,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+303,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+304,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+305,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+306,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+307,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+308,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+309,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+310,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+311,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+312,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+313,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+314,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+315,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+316,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+317,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+318,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+319,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+320,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+321,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+322,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+323,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+324,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+325,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+326,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+327,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+328,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+329,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+330,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+331,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+332,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+333,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+334,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+335,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+336,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+337,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+338,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+339,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+340,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+341,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+342,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+343,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+344,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+345,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+346,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+347,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+348,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
 349,Mike SHAND (SNP),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,skipped,,5
 350,Mike SHAND (SNP),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,skipped,,5
 351,Mike SHAND (SNP),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,skipped,,5
@@ -376,59 +376,59 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 374,Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,,5
 375,Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,,5
 376,Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,,5
-377,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-378,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-379,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-380,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-381,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-382,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-383,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-384,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-385,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-386,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-387,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-388,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-389,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-390,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-391,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-392,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-393,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-394,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-395,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-396,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-397,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-398,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-399,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-400,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-401,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-402,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-403,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-404,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-405,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-406,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-407,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-408,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-409,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-410,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-411,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-412,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-413,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-414,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-415,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-416,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-417,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-418,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-419,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-420,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-421,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-422,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-423,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-424,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-425,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-426,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-427,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-428,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-429,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
+377,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+378,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+379,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+380,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+381,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+382,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+383,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+384,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+385,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+386,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+387,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+388,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+389,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+390,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+391,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+392,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+393,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+394,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+395,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+396,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+397,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+398,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+399,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+400,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+401,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+402,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+403,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+404,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+405,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+406,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+407,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+408,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+409,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+410,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+411,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+412,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+413,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+414,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+415,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+416,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+417,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+418,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+419,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+420,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+421,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+422,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+423,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+424,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+425,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+426,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+427,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+428,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+429,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
 430,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),skipped,skipped,,5
 431,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),skipped,skipped,,5
 432,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),skipped,skipped,,5
@@ -479,10 +479,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 477,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
 478,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
 479,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
-480,Patsy GOWANS (SNP),Mike SHAND (SNP),Frank BROWN (Con),skipped,skipped,,5
-481,Patsy GOWANS (SNP),Mike SHAND (SNP),Frank BROWN (Con),skipped,skipped,,5
-482,Patsy GOWANS (SNP),Mike SHAND (SNP),Frank BROWN (Con),skipped,skipped,,5
-483,Patsy GOWANS (SNP),Mike SHAND (SNP),Frank BROWN (Con),skipped,skipped,,5
+480,Mike SHAND (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
+481,Mike SHAND (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
+482,Mike SHAND (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
+483,Mike SHAND (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
 484,Mike SHAND (SNP),Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,,5
 485,Mike SHAND (SNP),Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,,5
 486,Mike SHAND (SNP),Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,,5
@@ -504,13 +504,13 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 502,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
 503,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
 504,Patsy GOWANS (SNP),Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-505,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),skipped,skipped,,5
+505,Patsy GOWANS (SNP),Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),skipped,,5
 506,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
 507,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,,5
-508,Patsy GOWANS (SNP),Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,,5
-509,Patsy GOWANS (SNP),Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,,5
-510,Patsy GOWANS (SNP),Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,,5
-511,Patsy GOWANS (SNP),Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,,5
+508,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
+509,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
+510,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
+511,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
 512,Frank BROWN (Con),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
 513,Frank BROWN (Con),Mike SHAND (SNP),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,,5
 514,Frank BROWN (Con),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
@@ -578,20 +578,20 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 576,Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
 577,Darren MARGACH (Ind),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
 578,Darren MARGACH (Ind),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-579,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
-580,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-581,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-582,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-583,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-584,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-585,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-586,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-587,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-588,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-589,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-590,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,,5
-591,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,,5
-592,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,,5
+579,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
+580,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
+581,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
+582,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
+583,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
+584,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
+585,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
+586,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
+587,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
+588,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
+589,Darren MARGACH (Ind),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
+590,Darren MARGACH (Ind),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,,5
+591,Darren MARGACH (Ind),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,,5
+592,Darren MARGACH (Ind),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,,5
 593,Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
 594,Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
 595,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
@@ -620,20 +620,20 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 618,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
 619,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
 620,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
-621,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
-622,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
+621,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
+622,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
 623,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,,5
 624,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,,5
 625,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,,5
 626,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,,5
-627,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-628,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-629,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-630,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-631,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-632,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
-633,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
-634,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+627,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+628,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+629,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+630,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+631,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+632,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+633,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+634,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
 635,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,skipped,,5
 636,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,skipped,,5
 637,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,skipped,,5
@@ -651,15 +651,15 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 649,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,skipped,,5
 650,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,skipped,,5
 651,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,skipped,,5
-652,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,skipped,,5
-653,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-654,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-655,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-656,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-657,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
-658,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
-659,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
-660,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
+652,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+653,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
+654,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
+655,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
+656,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
+657,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+658,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+659,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+660,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
 661,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
 662,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
 663,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
@@ -668,18 +668,18 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 666,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
 667,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
 668,Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,skipped,,5
-669,Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-670,Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-671,Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-672,Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-673,Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-674,Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-675,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,,5
-676,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,,5
-677,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
-678,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,,5
-679,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,,5
-680,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,,5
+669,Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+670,Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+671,Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+672,Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+673,Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+674,Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+675,Darren MARGACH (Ind),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,,5
+676,Darren MARGACH (Ind),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,,5
+677,Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
+678,Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,,5
+679,Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,,5
+680,Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,,5
 681,Darren MARGACH (Ind),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
 682,Darren MARGACH (Ind),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
 683,Darren MARGACH (Ind),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
@@ -687,12 +687,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 685,Darren MARGACH (Ind),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
 686,Darren MARGACH (Ind),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
 687,Darren MARGACH (Ind),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-688,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,,5
-689,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-690,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+688,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,,5
+689,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+690,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
 691,Darren MARGACH (Ind),Mike SHAND (SNP),Frank BROWN (Con),skipped,skipped,,5
 692,Darren MARGACH (Ind),Mike SHAND (SNP),Frank BROWN (Con),skipped,skipped,,5
-693,Mike SHAND (SNP),Frank BROWN (Con),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,,5
+693,Darren MARGACH (Ind),Frank BROWN (Con),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,,5
 694,Darren MARGACH (Ind),Frank BROWN (Con),skipped,skipped,skipped,,5
 695,Darren MARGACH (Ind),Frank BROWN (Con),skipped,skipped,skipped,,5
 696,Darren MARGACH (Ind),Frank BROWN (Con),skipped,skipped,skipped,,5
@@ -716,13 +716,13 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 714,Darren MARGACH (Ind),Frank BROWN (Con),skipped,skipped,skipped,,5
 715,Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,skipped,,5
 716,Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,skipped,,5
-717,Frank BROWN (Con),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
-718,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
-719,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
-720,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
-721,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
-722,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
-723,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
+717,Darren MARGACH (Ind),Frank BROWN (Con),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
+718,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
+719,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
+720,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
+721,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
+722,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
+723,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
 724,Darren MARGACH (Ind),Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,skipped,,5
 725,Darren MARGACH (Ind),Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,skipped,,5
 726,Darren MARGACH (Ind),Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,skipped,,5
@@ -741,10 +741,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 739,Darren MARGACH (Ind),Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,skipped,,5
 740,Darren MARGACH (Ind),Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,skipped,,5
 741,Darren MARGACH (Ind),Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-742,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-743,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-744,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-745,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
+742,Darren MARGACH (Ind),Frank BROWN (Con),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
+743,Darren MARGACH (Ind),Frank BROWN (Con),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
+744,Darren MARGACH (Ind),Frank BROWN (Con),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
+745,Darren MARGACH (Ind),Frank BROWN (Con),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,,5
 746,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,,5
 747,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,,5
 748,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,,5
@@ -752,9 +752,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 750,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,,5
 751,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,,5
 752,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,,5
-753,Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,,5
-754,Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,,5
-755,Frank BROWN (Con),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,,5
+753,Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,,5
+754,Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,,5
+755,Darren MARGACH (Ind),Frank BROWN (Con),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,,5
 756,Barry Alexander JARVIS (Lab),skipped,skipped,skipped,skipped,,5
 757,Barry Alexander JARVIS (Lab),skipped,skipped,skipped,skipped,,5
 758,Barry Alexander JARVIS (Lab),skipped,skipped,skipped,skipped,,5
@@ -1039,64 +1039,64 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 1037,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
 1038,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
 1039,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1040,Patsy GOWANS (SNP),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
-1041,Patsy GOWANS (SNP),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
-1042,Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,skipped,,5
-1043,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1044,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1045,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1046,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1047,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1048,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1049,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1050,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1051,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1052,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1053,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1054,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1055,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1056,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1057,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1058,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1059,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1060,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1061,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1062,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1063,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1064,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1065,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1066,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1067,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1068,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1069,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1070,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1071,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1072,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1073,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1074,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1075,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1076,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1077,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1078,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1079,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1080,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1081,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1082,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1083,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1084,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1085,Patsy GOWANS (SNP),Mike SHAND (SNP),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
-1086,Patsy GOWANS (SNP),Mike SHAND (SNP),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
-1087,Patsy GOWANS (SNP),Mike SHAND (SNP),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
-1088,Patsy GOWANS (SNP),Mike SHAND (SNP),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
+1040,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
+1041,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
+1042,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1043,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1044,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1045,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1046,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1047,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1048,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1049,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1050,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1051,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1052,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1053,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1054,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1055,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1056,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1057,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1058,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1059,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1060,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1061,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1062,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1063,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1064,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1065,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1066,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1067,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
+1068,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
+1069,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
+1070,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
+1071,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
+1072,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1073,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1074,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1075,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1076,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1077,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1078,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1079,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1080,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1081,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1082,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1083,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1084,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1085,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
+1086,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
+1087,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
+1088,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
 1089,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
 1090,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
 1091,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
 1092,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
 1093,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
-1094,Patsy GOWANS (SNP),Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
-1095,Patsy GOWANS (SNP),Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,,5
-1096,Patsy GOWANS (SNP),Frank BROWN (Con),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,,5
-1097,Patsy GOWANS (SNP),Frank BROWN (Con),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,,5
+1094,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+1095,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,,5
+1096,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,,5
+1097,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,,5
 1098,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),skipped,skipped,skipped,,5
 1099,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),skipped,skipped,skipped,,5
 1100,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),skipped,skipped,skipped,,5
@@ -1198,17 +1198,17 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 1196,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,,5
 1197,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,,5
 1198,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,,5
-1199,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
-1200,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
-1201,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
-1202,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
-1203,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
-1204,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
-1205,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
-1206,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
-1207,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
-1208,Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
-1209,Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
+1199,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
+1200,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
+1201,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
+1202,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
+1203,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
+1204,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
+1205,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
+1206,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
+1207,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),Frank BROWN (Con),skipped,,5
+1208,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
+1209,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
 1210,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
 1211,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
 1212,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
@@ -1222,19 +1222,19 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 1220,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
 1221,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
 1222,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
-1223,Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-1224,Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-1225,Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-1226,Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-1227,Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-1228,Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-1229,Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-1230,Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-1231,Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-1232,Darren MARGACH (Ind),Mike SHAND (SNP),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
-1233,Darren MARGACH (Ind),Mike SHAND (SNP),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
-1234,Darren MARGACH (Ind),Mike SHAND (SNP),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
-1235,Darren MARGACH (Ind),Mike SHAND (SNP),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+1223,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+1224,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+1225,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+1226,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+1227,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+1228,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+1229,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+1230,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+1231,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+1232,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+1233,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+1234,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+1235,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
 1236,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),skipped,skipped,,5
 1237,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),skipped,skipped,,5
 1238,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),skipped,skipped,,5
@@ -1278,30 +1278,30 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 1276,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),skipped,skipped,,5
 1277,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),skipped,skipped,,5
 1278,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),skipped,skipped,,5
-1279,Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,skipped,,5
-1280,Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,skipped,,5
-1281,Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1282,Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1283,Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1284,Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1285,Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1286,Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1287,Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1288,Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1289,Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1290,Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1291,Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1292,Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1293,Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1294,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
-1295,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
-1296,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
-1297,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
-1298,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
-1299,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
-1300,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
-1301,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
-1302,Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
+1279,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+1280,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+1281,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
+1282,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
+1283,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
+1284,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
+1285,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
+1286,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
+1287,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
+1288,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
+1289,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
+1290,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
+1291,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
+1292,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
+1293,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Mike SHAND (SNP),skipped,,5
+1294,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+1295,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+1296,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+1297,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+1298,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+1299,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+1300,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+1301,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+1302,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
 1303,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
 1304,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
 1305,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
@@ -1336,51 +1336,51 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 1334,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
 1335,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
 1336,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,skipped,,5
-1337,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1338,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1339,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1340,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1341,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1342,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1343,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1344,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1345,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1346,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1347,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1348,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1349,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1350,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1351,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1352,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1353,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1354,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1355,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1356,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1357,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1358,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1359,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1360,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1361,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1362,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1363,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1364,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1365,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1366,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1367,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1368,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1369,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1370,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1371,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1372,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1373,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1374,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1375,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1376,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
-1377,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
-1378,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
-1379,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
-1380,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
-1381,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
+1337,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1338,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1339,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1340,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1341,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1342,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1343,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1344,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1345,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1346,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1347,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1348,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1349,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1350,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1351,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1352,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1353,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1354,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1355,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1356,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1357,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1358,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1359,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1360,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1361,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1362,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1363,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1364,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1365,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+1366,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
+1367,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
+1368,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1369,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1370,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1371,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1372,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1373,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1374,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1375,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1376,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),skipped,,5
+1377,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
+1378,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
+1379,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
+1380,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
+1381,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
 1382,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
 1383,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
 1384,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
@@ -1389,21 +1389,21 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 1387,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
 1388,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
 1389,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1390,Mike SHAND (SNP),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,,5
-1391,Mike SHAND (SNP),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-1392,Mike SHAND (SNP),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-1393,Mike SHAND (SNP),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-1394,Mike SHAND (SNP),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-1395,Mike SHAND (SNP),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-1396,Mike SHAND (SNP),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
-1397,Mike SHAND (SNP),Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
+1390,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,,5
+1391,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+1392,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+1393,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+1394,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+1395,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+1396,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,,5
+1397,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,,5
 1398,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Frank BROWN (Con),skipped,skipped,,5
 1399,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Frank BROWN (Con),skipped,skipped,,5
-1400,Mike SHAND (SNP),Frank BROWN (Con),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
-1401,Mike SHAND (SNP),Frank BROWN (Con),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
-1402,Mike SHAND (SNP),Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
-1403,Mike SHAND (SNP),Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
-1404,Mike SHAND (SNP),Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
+1400,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
+1401,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
+1402,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
+1403,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
+1404,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
 1405,Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,skipped,skipped,,5
 1406,Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,skipped,skipped,,5
 1407,Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,skipped,skipped,,5
@@ -1440,13 +1440,13 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 1438,Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,skipped,skipped,,5
 1439,Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,skipped,skipped,,5
 1440,Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,skipped,skipped,,5
-1441,Frank BROWN (Con),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1442,Frank BROWN (Con),Patsy GOWANS (SNP),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
-1443,Frank BROWN (Con),Patsy GOWANS (SNP),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
-1444,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1445,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-1446,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,,5
-1447,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,,5
+1441,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
+1442,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+1443,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+1444,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,,5
+1445,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,,5
+1446,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,,5
+1447,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,,5
 1448,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),skipped,skipped,,5
 1449,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),skipped,skipped,,5
 1450,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),skipped,skipped,,5
@@ -1495,19 +1495,19 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 1493,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),skipped,skipped,,5
 1494,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),skipped,skipped,,5
 1495,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),skipped,skipped,,5
-1496,Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1497,Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1498,Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1499,Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1500,Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1501,Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1502,Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1503,Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1504,Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-1505,Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
-1506,Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
-1507,Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
-1508,Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
+1496,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+1497,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+1498,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+1499,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+1500,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+1501,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+1502,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+1503,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+1504,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+1505,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
+1506,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
+1507,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
+1508,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
 1509,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,,5
 1510,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,,5
 1511,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,,5
@@ -1515,12 +1515,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 1513,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,,5
 1514,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,,5
 1515,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,,5
-1516,Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-1517,Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
-1518,Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
-1519,Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
-1520,Frank BROWN (Con),Mike SHAND (SNP),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
-1521,Frank BROWN (Con),Mike SHAND (SNP),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
+1516,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,skipped,,5
+1517,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
+1518,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
+1519,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
+1520,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
+1521,Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
 1522,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
 1523,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
 1524,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
@@ -1559,307 +1559,307 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 1557,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
 1558,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
 1559,Mike SHAND (SNP),skipped,skipped,skipped,skipped,,5
-1560,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1561,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1562,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1563,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1564,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1565,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1566,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1567,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1568,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1569,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1570,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1571,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1572,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1573,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1574,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1575,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1576,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1577,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1578,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1579,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1580,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1581,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1582,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1583,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1584,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1585,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1586,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1587,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1588,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1589,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1590,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1591,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1592,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1593,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1594,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1595,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1596,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1597,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1598,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1599,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1600,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1601,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1602,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1603,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1604,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1605,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1606,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1607,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1608,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1609,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1610,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1611,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1612,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1613,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1614,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1615,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1616,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1617,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1618,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1619,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1620,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1621,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1622,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1623,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1624,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1625,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1626,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1627,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1628,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1629,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1630,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1631,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1632,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1633,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1634,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1635,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1636,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1637,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1638,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1639,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1640,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1641,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1642,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1643,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1644,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1645,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1646,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1647,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1648,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1649,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1650,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1651,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1652,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1653,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1654,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1655,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1656,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1657,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1658,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1659,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1660,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1661,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1662,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1663,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1664,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1665,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1666,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1667,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1668,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1669,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1670,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1671,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1672,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1673,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1674,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1675,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1676,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1677,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1678,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1679,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1680,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1681,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1682,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1683,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1684,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1685,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1686,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1687,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1688,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1689,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1690,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1691,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1692,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1693,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1694,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1695,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1696,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1697,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1698,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1699,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1700,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1701,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1702,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1703,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1704,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1705,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1706,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1707,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1708,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1709,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1710,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1711,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1712,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1713,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1714,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1715,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1716,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1717,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1718,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1719,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1720,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1721,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1722,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1723,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1724,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1725,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1726,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1727,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1728,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1729,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1730,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1731,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1732,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1733,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1734,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1735,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1736,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1737,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1738,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1739,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1740,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1741,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1742,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1743,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1744,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1745,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1746,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1747,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1748,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1749,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1750,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1751,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1752,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1753,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1754,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1755,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1756,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1757,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1758,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1759,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1760,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1761,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1762,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1763,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1764,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1765,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1766,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1767,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1768,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1769,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1770,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1771,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1772,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1773,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1774,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1775,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1776,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1777,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1778,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1779,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1780,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1781,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1782,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1783,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1784,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1785,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1786,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1787,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1788,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1789,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1790,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1791,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1792,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1793,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1794,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1795,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1796,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1797,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1798,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1799,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1800,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1801,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1802,Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
-1803,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1804,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1805,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1806,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1807,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1808,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1809,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1810,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1811,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1812,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1813,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1814,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1815,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1816,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1817,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1818,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1819,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1820,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1821,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1822,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1823,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1824,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1825,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1826,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1827,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1828,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1829,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1830,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1831,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1832,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1833,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1834,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1835,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1836,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1837,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1838,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1839,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1840,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1841,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1842,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1843,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1844,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1845,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1846,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1847,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1848,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1849,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1850,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1851,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1852,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1853,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1854,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1855,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1856,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1857,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1858,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1859,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-1860,Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
+1560,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1561,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1562,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1563,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1564,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1565,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1566,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1567,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1568,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1569,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1570,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1571,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1572,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1573,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1574,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1575,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1576,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1577,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1578,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1579,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1580,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1581,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1582,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1583,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1584,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1585,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1586,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1587,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1588,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1589,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1590,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1591,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1592,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1593,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1594,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1595,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1596,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1597,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1598,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1599,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1600,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1601,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1602,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1603,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1604,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1605,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1606,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1607,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1608,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1609,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1610,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1611,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1612,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1613,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1614,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1615,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1616,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1617,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1618,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1619,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1620,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1621,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1622,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1623,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1624,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1625,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1626,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1627,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1628,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1629,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1630,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1631,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1632,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1633,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1634,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1635,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1636,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1637,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1638,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1639,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1640,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1641,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1642,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1643,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1644,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1645,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1646,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1647,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1648,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1649,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1650,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1651,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1652,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1653,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1654,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1655,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1656,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1657,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1658,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1659,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1660,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1661,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1662,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1663,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1664,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1665,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1666,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1667,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1668,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1669,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1670,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1671,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1672,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1673,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1674,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1675,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1676,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1677,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1678,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1679,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1680,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1681,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1682,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1683,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1684,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1685,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1686,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1687,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1688,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1689,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1690,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1691,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1692,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1693,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1694,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1695,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1696,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1697,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1698,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1699,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1700,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1701,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1702,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1703,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1704,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1705,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1706,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1707,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1708,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1709,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1710,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1711,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1712,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1713,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1714,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1715,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1716,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1717,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1718,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1719,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1720,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1721,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1722,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1723,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1724,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1725,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1726,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1727,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1728,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1729,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1730,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1731,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1732,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1733,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1734,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1735,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1736,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1737,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1738,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1739,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1740,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1741,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1742,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1743,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1744,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1745,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1746,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1747,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1748,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1749,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1750,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1751,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1752,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1753,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1754,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1755,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1756,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1757,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1758,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1759,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1760,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1761,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1762,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1763,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1764,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1765,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1766,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1767,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1768,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1769,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1770,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1771,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1772,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1773,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1774,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1775,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1776,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1777,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1778,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1779,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1780,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1781,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1782,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1783,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1784,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1785,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1786,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1787,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1788,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1789,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1790,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1791,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1792,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1793,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1794,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1795,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1796,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1797,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1798,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1799,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1800,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1801,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1802,Patsy GOWANS (SNP),skipped,skipped,skipped,skipped,,5
+1803,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1804,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1805,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1806,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1807,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1808,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1809,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1810,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1811,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1812,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1813,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1814,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1815,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1816,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1817,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1818,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1819,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1820,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1821,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1822,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1823,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1824,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1825,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1826,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1827,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1828,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1829,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1830,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1831,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1832,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1833,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1834,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1835,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1836,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1837,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1838,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1839,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1840,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1841,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1842,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1843,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1844,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1845,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1846,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1847,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1848,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1849,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1850,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1851,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1852,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1853,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1854,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1855,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1856,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1857,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1858,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1859,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
+1860,Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
 1861,Patsy GOWANS (SNP),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,skipped,,5
 1862,Patsy GOWANS (SNP),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,skipped,,5
 1863,Patsy GOWANS (SNP),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,skipped,,5
@@ -1895,75 +1895,75 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 1893,Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,,5
 1894,Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,,5
 1895,Patsy GOWANS (SNP),Darren MARGACH (Ind),Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,,5
-1896,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1897,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1898,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1899,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1900,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1901,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1902,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1903,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1904,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1905,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1906,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1907,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1908,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1909,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1910,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1911,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1912,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1913,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1914,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1915,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1916,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1917,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1918,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1919,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1920,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1921,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1922,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1923,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1924,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1925,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1926,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1927,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1928,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1929,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1930,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1931,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1932,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1933,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1934,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1935,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1936,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1937,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1938,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1939,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1940,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1941,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1942,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1943,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1944,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1945,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1946,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1947,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1948,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1949,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1950,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1951,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1952,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1953,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1954,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1955,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1956,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1957,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1958,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1959,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1960,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1961,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1962,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1963,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-1964,Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
+1896,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1897,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1898,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1899,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1900,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1901,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1902,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1903,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1904,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1905,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1906,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1907,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1908,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1909,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1910,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1911,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1912,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1913,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1914,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1915,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1916,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1917,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1918,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1919,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1920,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1921,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1922,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1923,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1924,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1925,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1926,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1927,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1928,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1929,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1930,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1931,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1932,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1933,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1934,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1935,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1936,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1937,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1938,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1939,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1940,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1941,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1942,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1943,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1944,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1945,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1946,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1947,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1948,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1949,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1950,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1951,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1952,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1953,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1954,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1955,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1956,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1957,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1958,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1959,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1960,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1961,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1962,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1963,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
+1964,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
 1965,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),skipped,skipped,,5
 1966,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),skipped,skipped,,5
 1967,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),skipped,skipped,,5
@@ -2015,24 +2015,24 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 2013,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
 2014,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
 2015,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),Darren MARGACH (Ind),skipped,,5
-2016,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
-2017,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
-2018,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
-2019,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
-2020,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
-2021,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
-2022,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
-2023,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
-2024,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
-2025,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
-2026,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
-2027,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
-2028,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
-2029,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
-2030,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
-2031,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
-2032,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
-2033,Mike SHAND (SNP),Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,,5
+2016,Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
+2017,Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
+2018,Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
+2019,Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
+2020,Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
+2021,Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
+2022,Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
+2023,Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
+2024,Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
+2025,Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
+2026,Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
+2027,Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
+2028,Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
+2029,Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
+2030,Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
+2031,Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
+2032,Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
+2033,Patsy GOWANS (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
 2034,Patsy GOWANS (SNP),Frank BROWN (Con),Darren MARGACH (Ind),skipped,skipped,,5
 2035,Patsy GOWANS (SNP),Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,,5
 2036,Patsy GOWANS (SNP),Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,,5
@@ -2048,9 +2048,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 2046,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
 2047,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
 2048,Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,skipped,,5
-2049,Mike SHAND (SNP),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,,5
-2050,Mike SHAND (SNP),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,,5
-2051,Mike SHAND (SNP),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,,5
+2049,Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+2050,Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+2051,Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
 2052,Darren MARGACH (Ind),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
 2053,Darren MARGACH (Ind),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,,5
 2054,Darren MARGACH (Ind),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,,5
@@ -2079,17 +2079,17 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 2077,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
 2078,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
 2079,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
-2080,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,,5
-2081,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,,5
-2082,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,,5
-2083,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,,5
-2084,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,,5
-2085,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,,5
-2086,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,,5
-2087,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,,5
-2088,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,,5
-2089,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,,5
-2090,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,,5
+2080,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+2081,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+2082,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+2083,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+2084,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+2085,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+2086,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+2087,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+2088,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+2089,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+2090,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
 2091,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
 2092,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
 2093,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
@@ -2112,8 +2112,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 2110,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Frank BROWN (Con),skipped,skipped,,5
 2111,Mike SHAND (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
 2112,Mike SHAND (SNP),Frank BROWN (Con),skipped,skipped,skipped,,5
-2113,Mike SHAND (SNP),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,skipped,,5
-2114,Mike SHAND (SNP),Frank BROWN (Con),Patsy GOWANS (SNP),skipped,skipped,,5
+2113,Frank BROWN (Con),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+2114,Frank BROWN (Con),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
 2115,Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,,5
 2116,Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,,5
 2117,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
@@ -2231,30 +2231,30 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 2229,Frank BROWN (Con),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
 2230,Frank BROWN (Con),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
 2231,Frank BROWN (Con),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-2232,Patsy GOWANS (SNP),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
-2233,Patsy GOWANS (SNP),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
-2234,Patsy GOWANS (SNP),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
-2235,Patsy GOWANS (SNP),Darren MARGACH (Ind),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
+2232,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
+2233,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
+2234,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
+2235,Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
 2236,Frank BROWN (Con),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
 2237,Frank BROWN (Con),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-2238,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
-2239,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
-2240,Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,,5
-2241,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-2242,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-2243,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-2244,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-2245,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-2246,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-2247,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-2248,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-2249,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-2250,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-2251,Frank BROWN (Con),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,skipped,,5
-2252,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-2253,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,,5
-2254,Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,,5
-2255,Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
+2238,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+2239,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+2240,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,,5
+2241,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
+2242,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
+2243,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
+2244,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
+2245,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
+2246,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
+2247,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
+2248,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
+2249,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
+2250,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
+2251,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
+2252,Frank BROWN (Con),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
+2253,Frank BROWN (Con),Mike SHAND (SNP),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,,5
+2254,Frank BROWN (Con),Mike SHAND (SNP),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,,5
+2255,Frank BROWN (Con),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
 2256,Frank BROWN (Con),Darren MARGACH (Ind),skipped,skipped,skipped,,5
 2257,Frank BROWN (Con),Darren MARGACH (Ind),skipped,skipped,skipped,,5
 2258,Frank BROWN (Con),Darren MARGACH (Ind),skipped,skipped,skipped,,5
@@ -2369,12 +2369,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 2367,Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,,5
 2368,Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,,5
 2369,Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,,5
-2370,Darren MARGACH (Ind),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-2371,Darren MARGACH (Ind),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-2372,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
-2373,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
-2374,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
-2375,Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
+2370,Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,,5
+2371,Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,,5
+2372,Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
+2373,Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
+2374,Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
+2375,Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
 2376,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,skipped,,5
 2377,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,skipped,,5
 2378,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,skipped,,5
@@ -2418,27 +2418,27 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 2416,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,skipped,,5
 2417,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,skipped,,5
 2418,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-2419,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-2420,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-2421,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-2422,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-2423,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-2424,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-2425,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-2426,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-2427,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-2428,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-2429,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-2430,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-2431,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
-2432,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
-2433,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
-2434,Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
+2419,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
+2420,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
+2421,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
+2422,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
+2423,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
+2424,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
+2425,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
+2426,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
+2427,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
+2428,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
+2429,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
+2430,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,,5
+2431,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,,5
+2432,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,,5
+2433,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,,5
+2434,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,,5
 2435,Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
 2436,Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
 2437,Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
-2438,Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,,5
-2439,Darren MARGACH (Ind),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
+2438,Frank BROWN (Con),Darren MARGACH (Ind),Patsy GOWANS (SNP),Barry Alexander JARVIS (Lab),skipped,,5
+2439,Frank BROWN (Con),Darren MARGACH (Ind),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,,5
 2440,Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
 2441,Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
 2442,Frank BROWN (Con),Barry Alexander JARVIS (Lab),skipped,skipped,skipped,,5
@@ -2475,12 +2475,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 2473,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,,5
 2474,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,,5
 2475,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,skipped,,5
-2476,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
-2477,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
-2478,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,,5
-2479,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,,5
-2480,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,,5
-2481,Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,,5
+2476,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+2477,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+2478,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,,5
+2479,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,,5
+2480,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,,5
+2481,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,,5
 2482,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),skipped,skipped,,5
 2483,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),skipped,skipped,,5
 2484,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),skipped,skipped,,5
@@ -2525,25 +2525,25 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 2523,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),skipped,skipped,,5
 2524,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),skipped,skipped,,5
 2525,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),skipped,skipped,,5
-2526,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,skipped,,5
-2527,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-2528,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-2529,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-2530,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-2531,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-2532,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),Mike SHAND (SNP),skipped,,5
-2533,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,skipped,,5
-2534,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
-2535,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
-2536,Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,,5
+2526,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
+2527,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+2528,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+2529,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+2530,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+2531,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+2532,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+2533,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Mike SHAND (SNP),skipped,,5
+2534,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
+2535,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
+2536,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
 2537,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Mike SHAND (SNP),skipped,skipped,,5
-2538,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
-2539,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
-2540,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
-2541,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
-2542,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
-2543,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
-2544,Barry Alexander JARVIS (Lab),Mike SHAND (SNP),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
+2538,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
+2539,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
+2540,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
+2541,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
+2542,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
+2543,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
+2544,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Darren MARGACH (Ind),Patsy GOWANS (SNP),skipped,,5
 2545,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
 2546,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
 2547,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
@@ -2553,15 +2553,15 @@ voterId,rank1,rank2,rank3,rank4,rank5,numSeats,numCands
 2551,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
 2552,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
 2553,Frank BROWN (Con),Mike SHAND (SNP),skipped,skipped,skipped,,5
-2554,Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-2555,Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-2556,Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-2557,Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
-2558,Frank BROWN (Con),Mike SHAND (SNP),Patsy GOWANS (SNP),skipped,skipped,,5
+2554,Frank BROWN (Con),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+2555,Frank BROWN (Con),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+2556,Frank BROWN (Con),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+2557,Frank BROWN (Con),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
+2558,Frank BROWN (Con),Patsy GOWANS (SNP),skipped,skipped,skipped,,5
 2559,Frank BROWN (Con),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
 2560,Frank BROWN (Con),Mike SHAND (SNP),Darren MARGACH (Ind),skipped,skipped,,5
-2561,Mike SHAND (SNP),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,,5
-2562,Mike SHAND (SNP),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,,5
+2561,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,,5
+2562,Frank BROWN (Con),Darren MARGACH (Ind),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),skipped,,5
 2563,Frank BROWN (Con),Mike SHAND (SNP),Barry Alexander JARVIS (Lab),skipped,skipped,,5
-2564,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
-2565,Mike SHAND (SNP),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
+2564,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5
+2565,Frank BROWN (Con),Barry Alexander JARVIS (Lab),Patsy GOWANS (SNP),Darren MARGACH (Ind),skipped,,5

@@ -26147,7 +26147,7 @@
             "first_place": true
         },
         "borda-pm": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
             "mention": true,
             "first_place": true
@@ -27786,93 +27786,93 @@
     "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv": {
         "plurality": {
             "top4plurality": true,
-            "borda": true,
+            "borda": false,
             "mention": false,
             "first_place": true
         },
         "IRV": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
-            "mention": false,
-            "first_place": false
+            "mention": true,
+            "first_place": true
         },
         "top-two": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
-            "mention": false,
-            "first_place": false
+            "mention": true,
+            "first_place": true
         },
         "borda-pm": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
-            "mention": false,
-            "first_place": false
+            "mention": true,
+            "first_place": true
         },
         "borda-om": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
-            "mention": false,
-            "first_place": false
+            "mention": true,
+            "first_place": true
         },
         "borda-avg": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
-            "mention": false,
-            "first_place": false
+            "mention": true,
+            "first_place": true
         },
         "top-3-truncation": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
-            "mention": false,
-            "first_place": false
+            "mention": true,
+            "first_place": true
         },
         "condorcet": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
-            "mention": false,
-            "first_place": false
+            "mention": true,
+            "first_place": true
         },
         "minimax": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
-            "mention": false,
-            "first_place": false
+            "mention": true,
+            "first_place": true
         },
         "smith_plurality": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
-            "mention": false,
-            "first_place": false
+            "mention": true,
+            "first_place": true
         },
         "smith_irv": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
-            "mention": false,
-            "first_place": false
+            "mention": true,
+            "first_place": true
         },
         "smith-minimax": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
-            "mention": false,
-            "first_place": false
+            "mention": true,
+            "first_place": true
         },
         "ranked-pairs": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
-            "mention": false,
-            "first_place": false
+            "mention": true,
+            "first_place": true
         },
         "bucklin": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
-            "mention": false,
-            "first_place": false
+            "mention": true,
+            "first_place": true
         },
         "approval": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
-            "mention": false,
-            "first_place": false
+            "mention": true,
+            "first_place": true
         }
     },
     "raw_data/scotland/processed_data/e-ayrshire17-ballots/KilmarnockNorth_e-ayrshire17-02.csv": {
@@ -32109,7 +32109,7 @@
     },
     "raw_data/scotland/processed_data/perth-kinross12-ballots/BlairgowrieandGlens_perth-kinross12-03.csv": {
         "plurality": {
-            "top4plurality": true,
+            "top4plurality": false,
             "borda": true,
             "mention": true,
             "first_place": true
@@ -49945,8 +49945,8 @@
         "bucklin": {
             "top4plurality": false,
             "borda": false,
-            "mention": true,
-            "first_place": true
+            "mention": false,
+            "first_place": false
         },
         "approval": {
             "top4plurality": true,
@@ -53753,39 +53753,39 @@
             "first_place": true
         },
         "borda-om": {
-            "top4plurality": false,
-            "borda": false,
-            "mention": false,
-            "first_place": false
+            "top4plurality": true,
+            "borda": true,
+            "mention": true,
+            "first_place": true
         },
         "borda-avg": {
+            "top4plurality": true,
+            "borda": true,
+            "mention": true,
+            "first_place": true
+        },
+        "top-3-truncation": {
             "top4plurality": false,
             "borda": false,
             "mention": false,
             "first_place": false
-        },
-        "top-3-truncation": {
-            "top4plurality": true,
-            "borda": false,
-            "mention": false,
-            "first_place": true
         },
         "condorcet": {
             "top4plurality": true,
-            "borda": false,
-            "mention": false,
+            "borda": true,
+            "mention": true,
             "first_place": true
         },
         "minimax": {
             "top4plurality": true,
-            "borda": false,
-            "mention": false,
+            "borda": true,
+            "mention": true,
             "first_place": true
         },
         "smith_plurality": {
             "top4plurality": true,
-            "borda": false,
-            "mention": false,
+            "borda": true,
+            "mention": true,
             "first_place": true
         },
         "smith_irv": {
@@ -53796,26 +53796,26 @@
         },
         "smith-minimax": {
             "top4plurality": true,
-            "borda": false,
-            "mention": false,
+            "borda": true,
+            "mention": true,
             "first_place": true
         },
         "ranked-pairs": {
             "top4plurality": true,
-            "borda": false,
-            "mention": false,
+            "borda": true,
+            "mention": true,
             "first_place": true
         },
         "bucklin": {
             "top4plurality": true,
-            "borda": false,
-            "mention": false,
+            "borda": true,
+            "mention": true,
             "first_place": true
         },
         "approval": {
             "top4plurality": true,
-            "borda": false,
-            "mention": false,
+            "borda": true,
+            "mention": true,
             "first_place": true
         }
     },
@@ -65426,9 +65426,9 @@
         },
         "top-two": {
             "top4plurality": false,
-            "borda": false,
-            "mention": true,
-            "first_place": false
+            "borda": true,
+            "mention": false,
+            "first_place": true
         },
         "borda-pm": {
             "top4plurality": true,
@@ -65467,15 +65467,15 @@
             "first_place": true
         },
         "smith_plurality": {
-            "top4plurality": false,
-            "borda": false,
+            "top4plurality": true,
+            "borda": true,
             "mention": false,
             "first_place": true
         },
         "smith_irv": {
-            "top4plurality": false,
-            "borda": true,
-            "mention": true,
+            "top4plurality": true,
+            "borda": false,
+            "mention": false,
             "first_place": true
         },
         "smith-minimax": {
@@ -65487,7 +65487,7 @@
         "ranked-pairs": {
             "top4plurality": true,
             "borda": false,
-            "mention": false,
+            "mention": true,
             "first_place": true
         },
         "bucklin": {
@@ -65499,7 +65499,7 @@
         "approval": {
             "top4plurality": true,
             "borda": false,
-            "mention": false,
+            "mention": true,
             "first_place": true
         }
     },
@@ -66989,8 +66989,8 @@
             "first_place": true
         },
         "top-two": {
-            "top4plurality": false,
-            "borda": false,
+            "top4plurality": true,
+            "borda": true,
             "mention": true,
             "first_place": false
         },
@@ -67031,13 +67031,13 @@
             "first_place": true
         },
         "smith_plurality": {
-            "top4plurality": true,
-            "borda": true,
-            "mention": true,
+            "top4plurality": false,
+            "borda": false,
+            "mention": false,
             "first_place": true
         },
         "smith_irv": {
-            "top4plurality": true,
+            "top4plurality": false,
             "borda": false,
             "mention": true,
             "first_place": false
@@ -67050,7 +67050,7 @@
         },
         "ranked-pairs": {
             "top4plurality": true,
-            "borda": true,
+            "borda": false,
             "mention": true,
             "first_place": false
         },
@@ -67062,7 +67062,7 @@
         },
         "approval": {
             "top4plurality": true,
-            "borda": true,
+            "borda": false,
             "mention": true,
             "first_place": false
         }
@@ -76715,7 +76715,7 @@
             "first_place": true
         },
         "bucklin": {
-            "top4plurality": true,
+            "top4plurality": false,
             "borda": true,
             "mention": true,
             "first_place": true
@@ -101397,79 +101397,79 @@
             "first_place": true
         },
         "top-two": {
-            "top4plurality": true,
+            "top4plurality": false,
             "borda": false,
             "mention": false,
             "first_place": false
         },
         "borda-pm": {
-            "top4plurality": false,
-            "borda": true,
-            "mention": true,
-            "first_place": true
-        },
-        "borda-om": {
-            "top4plurality": false,
-            "borda": true,
-            "mention": true,
-            "first_place": true
-        },
-        "borda-avg": {
-            "top4plurality": false,
-            "borda": true,
-            "mention": true,
-            "first_place": true
-        },
-        "top-3-truncation": {
             "top4plurality": true,
             "borda": true,
             "mention": true,
             "first_place": true
         },
-        "condorcet": {
+        "borda-om": {
+            "top4plurality": true,
+            "borda": true,
+            "mention": true,
+            "first_place": true
+        },
+        "borda-avg": {
+            "top4plurality": true,
+            "borda": true,
+            "mention": true,
+            "first_place": true
+        },
+        "top-3-truncation": {
             "top4plurality": false,
+            "borda": true,
+            "mention": true,
+            "first_place": true
+        },
+        "condorcet": {
+            "top4plurality": true,
             "borda": true,
             "mention": true,
             "first_place": true
         },
         "minimax": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
             "mention": true,
             "first_place": true
         },
         "smith_plurality": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
             "mention": true,
             "first_place": true
         },
         "smith_irv": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
             "mention": true,
             "first_place": true
         },
         "smith-minimax": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
             "mention": true,
             "first_place": true
         },
         "ranked-pairs": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
             "mention": true,
             "first_place": true
         },
         "bucklin": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
             "mention": true,
             "first_place": true
         },
         "approval": {
-            "top4plurality": false,
+            "top4plurality": true,
             "borda": true,
             "mention": true,
             "first_place": true

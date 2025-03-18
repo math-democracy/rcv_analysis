@@ -1,7 +1,7 @@
 import sys
 sys.path.append('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal')
 import main_methods as mm
-import votekit.elections as v
+import votekit.elections as vk
 import pandas as pd
 import multiprocessing
 import csv
@@ -9,11 +9,11 @@ import os
 
 num_cands_to_keep = 4
 
-data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/results/scotland_results_top{num_cands_to_keep}.csv'
-root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data'
+data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_first/scotland_results_top{num_cands_to_keep}.csv'
+root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_first/processed_data'
 
-error_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/results/supporting_files/scotland_error.txt'
-processed_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/results/supporting_files/scotland_processed.txt'
+error_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_first/supporting_files/scotland_error.txt'
+processed_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_first/supporting_files/scotland_processed.txt'
 all_data = []
 
 processed = []
@@ -31,10 +31,14 @@ def get_cands_to_keep(profile, num_cands, num_cands_to_keep):
     # get top4 plurality winners
         # if there are less than 5 candidates, then top4 and top5 are both the whole candidate list
     if num_cands > num_cands_to_keep:
-        cands_to_keep = v.Plurality(profile=profile, m=num_cands_to_keep, tiebreak='random').election_states[-1].elected
-        cands_to_keep = [list(w)[0] for w in cands_to_keep]
+        cands_to_keep_set = vk.Plurality(profile=profile, m=num_cands_to_keep, tiebreak='random').election_states[-1].elected
+        cands_to_keep_set = [list(set(f)) for f in cands_to_keep_set]
+        cands_to_keep = []
+        for l in cands_to_keep_set:
+            for c in l:
+                cands_to_keep.append(c)
     else:
-        cands_to_keep = profile.candidates
+        cands_to_keep = list(profile.candidates)
 
     return cands_to_keep
     

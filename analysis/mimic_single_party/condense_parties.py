@@ -1,18 +1,41 @@
 import sys
 sys.path.append('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal')
 import main_methods as mm
-import csv
 import json
-import os
-import pandas as pd
 from itertools import groupby
+from typing import Optional
 
-with open('./analysis/mimic_single_party/party_breakdown.json') as file:
-    party_breakdown = json.load(file)
+borda_file = './analysis/fringe/borda_scores/scotland_borda_scores.json'
+mention_file =  './analysis/fringe/mention_scores/scotland_mention_scores.json'
+first_place_file = './analysis/first_place_analysis/scotland_first_place_ranks.json'
 
-df = pd.read_csv('./raw_data/scotland/processed_data/w-lothian12-ballots/LivingstonNorth_w-lothian12-03.csv')
+def gen_party_dict(candidates):
+    party_dict = {}
+    for candidate in candidates:
+        if candidate[0] == "(":
+            party = candidate[1:candidate.find(")")]
+        else:
+            left = candidate.rfind("(")
+            right = candidate[left:].rfind(")")
+            if right == -1:
+                right = -1
+            else:
+                right = left + right
+            party = candidate[left+1:right]
 
-def get_cands_to_keep(filepath, filename, method):
+        if party != 'Ind' and party != 'UNKNOWN':
+            party_dict[candidate] = party
+        else:
+            party_dict[candidate] = candidate
+
+    return party_dict
+            
+# method options: 'borda','mention','first_place' 
+#   for each party, only keep the cand with the highest borda, mention, or first place score
+def get_condensed_cands(filepath, method, candidates: Optional[list] = None):
+    filename = filepath.split('/')[-1]
+
+    # load scores file based on what metric you wish to condense on
     if method == 'borda':
         with open(borda_file) as file:
             scores = json.load(file)
@@ -23,29 +46,41 @@ def get_cands_to_keep(filepath, filename, method):
         with open(first_place_file) as file:
             scores = json.load(file)
 
-    party_info = party_breakdown[filepath]
-    candidate_dict = party_info['party_dict']
+    # if no candidates given, get candidates
+    if candidates is None:
+        prof = mm.v_profile(filepath)
+        candidates = prof.candidates
 
+    # create dictionary storing each candidate's party
+    cands = [c for c in candidates if c != 'skipped']
+    candidate_dict = gen_party_dict(cands)
+
+    # get corresponding scores for filename
     if filename in scores:
         candidate_scores = scores[filename]
+    else:
+        if filename == '3_dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv':
+            new_filename = ['Ward3-Dalkeith_ward_3_dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv']
+        elif filename == 'dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv':
+            new_filename = ['Ward6-MidlothianSouth_ward_6_midlothian_south_dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv']
+        else:
+            new_filename = [f for f in scores if f.endswith(filename)]
+
+        candidate_scores = scores[new_filename[0]]
+    
+    # condense candidates based on highest scorer
+    if candidate_scores:
         grouped_by_party = {i: [j[0] for j in j] for i, j in groupby(sorted(candidate_dict.items(), key = lambda x : x[1]), lambda x : x[1])}
         cands_to_keep = set()
         for party in grouped_by_party.values():
             keep = [i for i in candidate_dict.keys() if candidate_scores[i] == max(candidate_scores[title] for title in party)]
             cands_to_keep.update(keep)
     else:
-        cands_to_keep = []
-        with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/metadata/no_borda_score.txt', "a") as no_borda:
-            no_borda.write(f"{method}: {filepath}\n")
+        return None
 
-    return cands_to_keep
+    return list(cands_to_keep)
 
-borda_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/fringe/borda_scores/scotland_borda_scores.json'
-mention_file =  '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/fringe/mention_scores/scotland_mention_scores.json'
-first_place_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/scotland_first_place_ranks.json'
 
-with open(mention_file) as file:
-    scores = json.load(file)
-
-filepath = 'raw_data/scotland/processed_data/w-lothian12-ballots/LivingstonNorth_w-lothian12-03.csv'
-get_cands_to_keep(filepath, 'LivingstonNorth_w-lothian12-03.csv', scores)
+## RUNNING EXAMPLE
+# filepath = 'raw_data/scotland/processed_data/w-lothian12-ballots/LivingstonNorth_w-lothian12-03.csv'
+# cands_to_keep = get_condensed_cands(filepath, 'borda')
