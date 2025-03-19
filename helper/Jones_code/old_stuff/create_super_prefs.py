@@ -86,101 +86,101 @@ lxn_names = []
 # base_name = '../australia/processed_data'
 # json_name = 'australia_super_pref.json'
 #### American data
-# base_name = '../american/processed_data'
-# json_name = 'american_super_pref.json'
+base_name = '../../../raw_data/america/processed_data'
+json_name = 'america_super_pref.json'
 #### civs data
-base_name = '../civs/processed_data'
-json_name = 'civs_super_pref.json'
+# base_name = '../civs/processed_data'
+# json_name = 'civs_super_pref.json'
 
 
 #### use for scottish, australian, american data
-# for folder_name in os.listdir(base_name):
-#     for file_name in os.listdir(base_name+'/'+folder_name):
-#         file_path = base_name+'/'+folder_name+'/'+file_name
-#         lxn_names.append(file_path)
+for folder_name in os.listdir(base_name):
+    for file_name in os.listdir(base_name+'/'+folder_name):
+        file_path = base_name+'/'+folder_name+'/'+file_name
+        lxn_names.append(file_path)
         
-#         lxn_name = folder_name+'/'+file_name 
+        lxn_name = folder_name+'/'+file_name 
     
-#         sys.stdout.write('\r')
-#         sys.stdout.write(f'Election {len(lxn_names)}'+'         ')
-#         sys.stdout.flush()
+        sys.stdout.write('\r')
+        sys.stdout.write(f'Election {len(lxn_names)}'+'         ')
+        sys.stdout.flush()
 
-#         num_ranks = get_num_ranks(file_path)
-#         rankings, rcounts, cands_with_inds, seat_num = process_csv(file_path)
+        num_ranks = get_num_ranks(file_path)
+        rankings, rcounts, cands_with_inds, seat_num = process_csv(file_path)
         
-#         rows = [[str(len(cands_with_inds))+' '+str(seat_num)]]
+        rows = [[str(len(cands_with_inds))+' '+str(seat_num)]]
         
-#         ballot_list = []
-#         for i in range(len(rankings)):
-#             cand_list = [cand+1 for cand in rankings[i].keys()]
-#             # cand_list = list(rankings[i].keys())
-#             ballot_list.append([rcounts[i], cand_list])
+        ballot_list = []
+        for i in range(len(rankings)):
+            cand_list = [cand+1 for cand in rankings[i].keys()]
+            # cand_list = list(rankings[i].keys())
+            ballot_list.append([rcounts[i], cand_list])
         
-#         ballot_list.sort(key = lambda x: x[1])
+        ballot_list.sort(key = lambda x: x[1])
         
-#         for ballot in ballot_list:
-#             string = str(ballot[0])
-#             for cand in ballot[1]:
-#                 string += ' '+str(cand)
-#             string += ' 0'
-#             rows.append([string])
+        for ballot in ballot_list:
+            string = str(ballot[0])
+            for cand in ballot[1]:
+                string += ' '+str(cand)
+            string += ' 0'
+            rows.append([string])
         
-#         rows.append(['0'])
+        rows.append(['0'])
         
-#         for name in cands_with_inds.values():
-#             rows.append([name])
+        for name in cands_with_inds.values():
+            rows.append([name])
             
-#         full_dict[lxn_name] = rows
+        full_dict[lxn_name] = rows
         
-#         # with open(destination_path, 'w', newline='') as csvfile:
-#         #     writer = csv.writer(csvfile)
-#         #     writer.writerows(rows)
+        # with open(destination_path, 'w', newline='') as csvfile:
+        #     writer = csv.writer(csvfile)
+        #     writer.writerows(rows)
 
 
 
 
 
-#### use for civs data
-for file_name in os.listdir(base_name):
-    file_path = base_name+'/'+file_name
-    lxn_names.append(file_path)
+# #### use for civs data
+# for file_name in os.listdir(base_name):
+#     file_path = base_name+'/'+file_name
+#     lxn_names.append(file_path)
     
-    lxn_name = file_name 
+#     lxn_name = file_name 
 
-    sys.stdout.write('\r')
-    sys.stdout.write(f'Election {len(lxn_names)}'+'         ')
-    sys.stdout.flush()
+#     sys.stdout.write('\r')
+#     sys.stdout.write(f'Election {len(lxn_names)}'+'         ')
+#     sys.stdout.flush()
 
-    num_ranks = get_num_ranks(file_path)
-    rankings, rcounts, cands_with_inds, seat_num = process_csv(file_path)
+#     num_ranks = get_num_ranks(file_path)
+#     rankings, rcounts, cands_with_inds, seat_num = process_csv(file_path)
     
-    rows = [[str(len(cands_with_inds))+' '+str(seat_num)]]
+#     rows = [[str(len(cands_with_inds))+' '+str(seat_num)]]
     
-    ballot_list = []
-    for i in range(len(rankings)):
-        cand_list = [cand+1 for cand in rankings[i].keys()]
-        # cand_list = list(rankings[i].keys())
-        ballot_list.append([rcounts[i], cand_list])
+#     ballot_list = []
+#     for i in range(len(rankings)):
+#         cand_list = [cand+1 for cand in rankings[i].keys()]
+#         # cand_list = list(rankings[i].keys())
+#         ballot_list.append([rcounts[i], cand_list])
     
-    ballot_list.sort(key = lambda x: x[1])
+#     ballot_list.sort(key = lambda x: x[1])
     
-    for ballot in ballot_list:
-        string = str(ballot[0])
-        for cand in ballot[1]:
-            string += ' '+str(cand)
-        string += ' 0'
-        rows.append([string])
+#     for ballot in ballot_list:
+#         string = str(ballot[0])
+#         for cand in ballot[1]:
+#             string += ' '+str(cand)
+#         string += ' 0'
+#         rows.append([string])
     
-    rows.append(['0'])
+#     rows.append(['0'])
     
-    for name in cands_with_inds.values():
-        rows.append([name])
+#     for name in cands_with_inds.values():
+#         rows.append([name])
         
-    full_dict[lxn_name] = rows
+#     full_dict[lxn_name] = rows
     
-    # with open(destination_path, 'w', newline='') as csvfile:
-    #     writer = csv.writer(csvfile)
-    #     writer.writerows(rows)
+#     # with open(destination_path, 'w', newline='') as csvfile:
+#     #     writer = csv.writer(csvfile)
+#     #     writer.writerows(rows)
 
 
 
