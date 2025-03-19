@@ -837,7 +837,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                     if currentBallot[0]==checkables[k] and currentBallot[1]==winner:
                                         if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
                                             #print("Ballot modified is " + tempFrame1.at[z,'ballot'] + " at line "+ str(z))
-                                            newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                            newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                             modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
                                             tempFrame1.at[z,'ballot'] = newBallot
                                             #print("Ballot modified to " + tempFrame1.at[z,'ballot'])
@@ -847,7 +847,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                             #print("Ballot modified is " + tempFrame1.at[z,'ballot'] + " at line "+ str(z))
                                             tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)
                                             #now add new line to frame with modified ballot
-                                            newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                            newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                             modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
                                             tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
                                             check = -1
@@ -888,7 +888,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                 continue
                             else:
                                 if currentBallot[0]==checkables[k] and currentBallot[1]==winner:
-                                    newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                    newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                     modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
                                     tempFrame1.at[z,'ballot'] = newBallot
                                     gap = gap - tempFrame1.at[z,'Count']
@@ -906,7 +906,11 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                             else:
                                 if currentBallot[0]==checkables[k] and currentBallot[2]==winner:
                                     modifiableVotes2 += tempFrame1.at[z,'Count']  
-
+                                    if diagnostic:
+                                        print(currentBallot)
+                        
+                        if diagnostic:
+                            print(modifiableVotes2)
                         if modifiableVotes2 > gap:  # modify gap of the C_k __ W_j votes in modified_df_kj1 to become 
                                                     # W_j C_k ___ votes.
 
@@ -921,7 +925,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                     else:
                                         if currentBallot[0]==checkables[k] and currentBallot[2]==winner:
                                             if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
-                                                newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                                newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                                 modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
                                                 tempFrame1.at[z,'ballot'] = newBallot
                                                 check = check - tempFrame1.at[z,'Count']
@@ -930,13 +934,15 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                                 #take check+1 ballots from current ballot
                                                 tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
                                                 #make new ballot with winner moved up, add line to election frame with check+1 as count
-                                                newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                                newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                                 modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
                                                 tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
                                                 check = -1
                                         else:
                                             pass
-
+                            
+                            if diagnostic:
+                                print(tempFrame1)
                             # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
                             # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
                             # level. votes modified to 2 rankings"
@@ -962,7 +968,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                     continue
                                 else:
                                     if currentBallot[0]==checkables[k] and currentBallot[2]==winner:
-                                        newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                        newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                         modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
                                         tempFrame1.at[z,'ballot'] = newBallot
                                         gap = gap - tempFrame1.at[z,'Count']
@@ -995,7 +1001,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                         else:
                                             if currentBallot[0]==checkables[k] and currentBallot[3]==winner:
                                                 if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
-                                                    newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                                    newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                                     modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
                                                     tempFrame1.at[z,'ballot'] = newBallot
                                                     check = check - tempFrame1.at[z,'Count']
@@ -1004,7 +1010,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                                     #take check+1 ballots from current ballot
                                                     tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
                                                     #make new ballot with winner moved up, add line to election frame with check+1 as count
-                                                    newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                                    newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                                     modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
                                                     tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
                                                     check = -1
@@ -1035,7 +1041,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                         continue
                                     else:
                                         if currentBallot[0]==checkables[k] and currentBallot[3]==winner:
-                                            newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                            newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                             modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
                                             tempFrame1.at[z,'ballot'] = newBallot
                                             gap = gap - tempFrame1.at[z,'Count']
@@ -1068,7 +1074,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                             else:
                                                 if currentBallot[0]==checkables[k] and currentBallot[4]==winner:
                                                     if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
-                                                        newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                                        newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                                         modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
                                                         tempFrame1.at[z,'ballot'] = newBallot
                                                         check = check - tempFrame1.at[z,'Count']
@@ -1077,7 +1083,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                                         #take check+1 ballots from current ballot
                                                         tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
                                                         #make new ballot with winner moved up, add line to election frame with check+1 as count
-                                                        newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                                        newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                                         modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
                                                         tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
                                                         check = -1
@@ -1114,7 +1120,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                             continue
                                         else:
                                             if currentBallot[0]==checkables[k] and currentBallot[4]==winner:
-                                                newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                                newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                                 modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
                                                 tempFrame1.at[z,'ballot'] = newBallot
                                                 gap = gap - tempFrame1.at[z,'Count']
@@ -1147,7 +1153,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                                 else:
                                                     if currentBallot[0]==checkables[k] and currentBallot[5]==winner:
                                                         if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
-                                                            newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                                            newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                                             modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
                                                             tempFrame1.at[z,'ballot'] = newBallot
                                                             check = check - tempFrame1.at[z,'Count']
@@ -1156,7 +1162,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                                             #take check+1 ballots from current ballot
                                                             tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
                                                             #make new ballot with winner moved up, add line to election frame with check+1 as count
-                                                            newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                                            newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                                             modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
                                                             tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
                                                             check = -1
@@ -1188,7 +1194,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                                 continue
                                             else:
                                                 if currentBallot[0]==checkables[k] and currentBallot[5]==winner:
-                                                    newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                                    newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                                     modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
                                                     tempFrame1.at[z,'ballot'] = newBallot
                                                     gap = gap - tempFrame1.at[z,'Count']
@@ -1215,7 +1221,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                                     if len(currentBallot) == 1:
                                                         if currentBallot[0]==checkables[k]:
                                                             if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
-                                                                newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                                                newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                                                 modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
                                                                 tempFrame1.at[z,'ballot'] = newBallot
                                                                 check = check - tempFrame1.at[z,'Count']
@@ -1224,7 +1230,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                                                 #take check+1 ballots from current ballot
                                                                 tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
                                                                 #make new ballot with winner moved up, add line to election frame with check+1 as count
-                                                                newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                                                newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                                                 modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
                                                                 tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
                                                                 check = -1
@@ -1250,7 +1256,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                                 currentBallot = tempFrame1.at[z,'ballot']
                                                 if len(currentBallot) == 1:
                                                     if currentBallot[0]==checkables[k]:
-                                                        newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                                        newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                                         modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
                                                         tempFrame1.at[z,'ballot'] = newBallot
                                                         gap = gap - tempFrame1.at[z,'Count']
@@ -1274,7 +1280,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                                         if len(currentBallot) == 2:
                                                             if currentBallot[0]==checkables[k] and currentBallot[1]!=winner: 
                                                                 if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
-                                                                    newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                                                    newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                                                     modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
                                                                     tempFrame1.at[z,'ballot'] = newBallot
                                                                     check = check - tempFrame1.at[z,'Count']
@@ -1283,7 +1289,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                                                     #take check+1 ballots from current ballot
                                                                     tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
                                                                     #make new ballot with winner moved up, add line to election frame with check+1 as count
-                                                                    newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                                                    newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                                                     modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
                                                                     tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
                                                                     check = -1
@@ -1309,7 +1315,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                                     currentBallot = tempFrame1.at[z,'ballot']
                                                     if len(currentBallot) == 2:
                                                         if currentBallot[0]==checkables[k] and currentBallot[1]!=winner: #Note: should not need and
-                                                            newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                                            newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                                             modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
                                                             tempFrame1.at[z,'ballot'] = newBallot
                                                             gap = gap - tempFrame1.at[z,'Count']
@@ -1333,7 +1339,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                                             if len(currentBallot) == 3:
                                                                 if currentBallot[0]==checkables[k] and winner not in currentBallot: #Note: should not need and
                                                                     if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
-                                                                        newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                                                        newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                                                         modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
                                                                         tempFrame1.at[z,'ballot'] = newBallot
                                                                         check = check - tempFrame1.at[z,'Count']
@@ -1342,7 +1348,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                                                         #take check+1 ballots from current ballot
                                                                         tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
                                                                         #make new ballot with winner moved up, add line to election frame with check+1 as count
-                                                                        newBallot = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                                                        newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                                                         modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
                                                                         tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
                                                                         check = -1
@@ -1368,7 +1374,7 @@ def upMonoIRV(frame, num_cands, diagnostic=False):
                                                         currentBallot = tempFrame1.at[z,'ballot']
                                                         if len(currentBallot) == 3:
                                                             if currentBallot[0]==checkables[k] and winner not in currentBallot: 
-                                                                tempFrame1.at[z,'ballot'] = modifyUp(winner,tempFrame1.at[z,'ballot'])
+                                                                tempFrame1.at[z,'ballot'] = modifyUp(tempFrame1.at[z,'ballot'], winner)
                                                                 gap = gap - tempFrame1.at[z,'Count']
 
                                                     print(winner+" cannot overcome gap with "+ checkables[k] + 

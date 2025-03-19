@@ -67,9 +67,9 @@ def get_election_data(election_location, specific_lxn=-1, diagnostic=False):
     # base_name = './data/' + election_location
 
     lxn_count = 0
-    # for folder_name in os.listdir(base_name):
+    for folder_name in os.listdir(base_name):
     ## test folder in scotland
-    for folder_name in ['falkirk17-ballots']:
+    # for folder_name in ['falkirk17-ballots']:
     ## test folder in american
     # for folder_name in ['Portland, ME']:
         for file_name in os.listdir(base_name+'/'+folder_name):
