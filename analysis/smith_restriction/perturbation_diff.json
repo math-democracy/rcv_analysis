@@ -1,0 +1,112 @@
+{
+    "0.1": {
+        "scotland": {
+            "smith_irv": 2,
+            "smith_plurality": 0,
+            "smith-minimax": 4
+        },
+        "australia": {
+            "smith_irv": 0,
+            "smith_plurality": 0,
+            "smith-minimax": 0
+        },
+        "america": {
+            "smith_irv": 2,
+            "smith_plurality": 0,
+            "smith-minimax": 1
+        },
+        "civs": {
+            "smith_irv": 40,
+            "smith_plurality": 33,
+            "smith-minimax": 62
+        }
+    },
+    "0.2": {
+        "scotland": {
+            "smith_irv": 5,
+            "smith_plurality": 2,
+            "smith-minimax": 6
+        },
+        "australia": {
+            "smith_irv": 0,
+            "smith_plurality": 0,
+            "smith-minimax": 0
+        },
+        "america": {
+            "smith_irv": 1,
+            "smith_plurality": 0,
+            "smith-minimax": 0
+        },
+        "civs": {
+            "smith_irv": 58,
+            "smith_plurality": 40,
+            "smith-minimax": 75
+        }
+    },
+    "0.4": {
+        "scotland": {
+            "smith_irv": 7,
+            "smith_plurality": 3,
+            "smith-minimax": 8
+        },
+        "australia": {
+            "smith_irv": 0,
+            "smith_plurality": 0,
+            "smith-minimax": 0
+        },
+        "america": {
+            "smith_irv": 1,
+            "smith_plurality": 0,
+            "smith-minimax": 1
+        },
+        "civs": {
+            "smith_irv": 74,
+            "smith_plurality": 72,
+            "smith-minimax": 98
+        }
+    },
+    "0.6": {
+        "scotland": {
+            "smith_irv": 8,
+            "smith_plurality": 4,
+            "smith-minimax": 9
+        },
+        "australia": {
+            "smith_irv": 0,
+            "smith_plurality": 0,
+            "smith-minimax": 0
+        },
+        "america": {
+            "smith_irv": 2,
+            "smith_plurality": 1,
+            "smith-minimax": 2
+        },
+        "civs": {
+            "smith_irv": 85,
+            "smith_plurality": 80,
+            "smith-minimax": 98
+        }
+    },
+    "0.8": {
+        "scotland": {
+            "smith_irv": 10,
+            "smith_plurality": 5,
+            "smith-minimax": 9
+        },
+        "australia": {
+            "smith_irv": 0,
+            "smith_plurality": 0,
+            "smith-minimax": 0
+        },
+        "america": {
+            "smith_irv": 1,
+            "smith_plurality": 1,
+            "smith-minimax": 0
+        },
+        "civs": {
+            "smith_irv": 92,
+            "smith_plurality": 95,
+            "smith-minimax": 107
+        }
+    }
+}

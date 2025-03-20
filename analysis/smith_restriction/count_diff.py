@@ -60,10 +60,29 @@ def count_diff(loc):
     with open('Smith_diff_'+loc+'.json', 'w') as f:
         json.dump(different_smith_results, f, indent=4)
 
-count_diff('australia')
-count_diff('america')
-count_diff('scotland')
-count_diff('civs')
+#count_diff('australia')
+#count_diff('america')
+#count_diff('scotland')
+#count_diff('civs')
+
+def perturbation_hits():
+    diff={}
+    for k in ['0.1','0.2','0.4','0.6','0.8']:
+        diff[k] = {}
+        for loc in ['scotland','australia','america','civs']:
+            df1 = pd.read_csv("../../results/current/"+loc+".csv",dtype=str)
+            df2 = pd.read_csv(k+"_perturbation/"+loc+".csv",dtype=str)
+            diff[k][loc]={'smith_irv':0,'smith_plurality':0,'smith-minimax':0}
+            for i in range(len(df1)):
+                for method in ['smith_irv','smith_plurality','smith-minimax']:
+                    if set(ast.literal_eval(df1.loc[i,method]))!=set(ast.literal_eval(df2.loc[i,method])):
+                        diff[k][loc][method]+= 1
+    with open('perturbation_diff.json', 'w') as f:
+        json.dump(diff, f, indent=4)
+
+
+
+perturbation_hits()
     
 
 
