@@ -37,26 +37,26 @@ def count_diff(loc):
         different_smith_results[row['file']] = []
         for method in method_map.keys():
             winners = [x.strip() for x in ast.literal_eval(row[method]) if x]
-            for c in winners:
+            '''for c in winners:
                 if c not in smith:
                     if row['file'] in CL_losers_elections:
                         CL_losers_elections[row['file']].append(method)
                     else:
                         CL_losers_elections[row['file']]=[method]
-
+            '''
             if method == 'smith_irv':
-                if winners!= [x.strip() for x in ast.literal_eval(row['IRV']) if x]:
+                if set(winners)!= set([x.strip() for x in ast.literal_eval(row['IRV']) if x]):
                     different_smith_results[row['file']].append(method)
             elif method =='smith_plurality':
-                if winners!= [x.strip() for x in ast.literal_eval(row['plurality']) if x]:
+                if set(winners)!= set([x.strip() for x in ast.literal_eval(row['plurality']) if x]):
                     different_smith_results[row['file']].append(method)
             elif method == 'smith_minimax':
-                if winners!= [x.strip() for x in ast.literal_eval(row['minimax']) if x]:
+                if set(winners)!= set([x.strip() for x in ast.literal_eval(row['minimax']) if x]):
                     different_smith_results[row['file']].append(method)
         if different_smith_results[row['file']]==[]:
             different_smith_results.pop(row['file'])
-    with open('CL_losers_'+loc+'.json', 'w') as f:
-        json.dump(CL_losers_elections, f, indent=4)
+    #with open('CL_losers_'+loc+'.json', 'w') as f:
+    #    json.dump(CL_losers_elections, f, indent=4)
     with open('Smith_diff_'+loc+'.json', 'w') as f:
         json.dump(different_smith_results, f, indent=4)
 
