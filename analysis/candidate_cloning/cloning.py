@@ -8,10 +8,14 @@ import random
 from collections import defaultdict
 from raw_data.scotland.scotland_parser import parse_file, parse_to_csv
 import os
+import re
 
-root_dir = '../../raw_data/preference_profiles/scotland'
-output_folder = './temp_files'
-country = "scotland"
+root_dir = '../../raw_data/preference_profiles/australia'
+output_folder = './files2'
+country = "australia"
+
+def clean_path(path):
+    return re.sub(r"/0\.[0-5]/", "/", path)  # Remove /0.x/ where x is 0-5
 
 def run_voting_methods(full_path):
     # create profile + candidate list
@@ -20,37 +24,36 @@ def run_voting_methods(full_path):
     v_profile =  mm.v_profile(full_path)
     candidates = [candidate for candidate in v_profile.candidates if candidate != "skipped"]
 
-    data = {'file': filename.replace(output_folder, ''), 'candidate_cloned': candidate}
+    data = {'file': clean_path(filename.replace(output_folder, '')), 'candidate_cloned': candidate}
 
     num_cands = len(candidates)
     data['numCands'] = num_cands
 
-    # data['plurality'] = list(mm.Plurality(prof=v_profile))
-    # data['IRV'] = list(mm.IRV(prof=v_profile))
-    # data['top-two'] = list(mm.TopTwo(prof=v_profile, tiebreak="first_place"))
-    # data['borda-pm'] = list(mm.Borda_PM(v_profile, tiebreak="first_place"))
-    # data['borda-om-no-uwi'] = list(mm.Borda_OM(v_profile, tiebreak="first_place"))
-    # data['borda-avg-no-uwi'] = list(mm.Borda_AVG(v_profile, tiebreak="first_place"))
-    # data['top-3-truncation'] = list(mm.Top3Truncation(prof=v_profile))
-    # data['condorcet'] = list(mm.Condorcet(prof=v_profile))
-    # data['minimax'] = list(mm.Minimax(prof=v_profile))
-    # data['smith_plurality'] = list(mm.Smith_Plurality(prof=v_profile))
-    # data['smith_irv'] = list(mm.Smith_IRV(prof=v_profile))
-    # data['smith-minimax'] = list(mm.Smith_Minimax(prof=v_profile))
-    # data['ranked-pairs'] = list(mm.Ranked_Pairs(prof=v_profile))
+    data['plurality'] = list(mm.Plurality(prof=v_profile))
+    data['IRV'] = list(mm.IRV(prof=v_profile))
+    data['top-two'] = list(mm.TopTwo(prof=v_profile, tiebreak="first_place"))
+    data['borda-pm'] = list(mm.Borda_PM(v_profile, tiebreak="first_place"))
+    data['borda-om-no-uwi'] = list(mm.Borda_OM(v_profile, tiebreak="first_place"))
+    data['borda-avg-no-uwi'] = list(mm.Borda_AVG(v_profile, tiebreak="first_place"))
+    data['top-3-truncation'] = list(mm.Top3Truncation(prof=v_profile))
+    data['condorcet'] = list(mm.Condorcet(prof=v_profile))
+    data['minimax'] = list(mm.Minimax(prof=v_profile))
+    data['smith_plurality'] = list(mm.Smith_Plurality(prof=v_profile))
+    data['smith_irv'] = list(mm.Smith_IRV(prof=v_profile))
+    data['smith-minimax'] = list(mm.Smith_Minimax(prof=v_profile))
+    data['ranked-pairs'] = list(mm.Ranked_Pairs(prof=v_profile))
     data['bucklin'] = list(mm.Bucklin(prof=v_profile))
-    # data['approval'] = list(mm.Ranked_Pairs(prof=v_profile))
+    data['approval'] = list(mm.Ranked_Pairs(prof=v_profile))
 
-    if os.path.exists(full_path):
-        os.remove(full_path)
-        print("file deleted successfully")
-    else:
-        print("file not found")
+    # if os.path.exists(full_path):
+    #     os.remove(full_path)
+    #     print("file deleted successfully")
+    # else:
+    #     print("file not found")
      
     return data
 
 def insert_after_n(arr, n, x, percent):
-    # fix this so the randomness deals not with full arrays but for each
     result = []
     
     for sublist in arr:
@@ -100,7 +103,11 @@ def process_data(file, filename, output_folder, results, percent):
             "candidates": candidates,
         }
         c = c.replace('/', '_')
-        outfilepath = f'{output_folder}/{filename}_{c}.csv'
+        new_output_folder = os.path.join(output_folder, str(percent))
+
+        if not os.path.exists(new_output_folder):
+            os.mkdir(new_output_folder)
+        outfilepath = f'{new_output_folder}/{filename}_{c}.csv'
         print('start processing')
         parse_to_csv(new_election, outfilepath)
         print('done parsing')
@@ -131,7 +138,7 @@ def main(percent):
                 full_path = os.path.join(dirpath, filename)
                 lowest_folder = os.path.basename(os.path.dirname(full_path))
                 output = os.path.join(output_folder, lowest_folder)
-                results = f'./results1/{country}_{percent}.csv'
+                results = f'./results3/{country}_{percent}.csv'
                 if not os.path.exists(output):
                     os.makedirs(output)
 
@@ -163,7 +170,4 @@ if __name__ == '__main__':
 # arr = [[1, 2, 3, 4, 5, 6, 7, 8], [1, 2, 4, 5, 6, 7, 8]]
 
 # for i in range(20):
-#     print(insert_after_n(arr, 4, 9, 1))
-                        
-
-# process_data('/Users/belle/Desktop/build/rcv_proposal/raw_data/preference_profiles/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Auburn.csv', 'test', './test', 'results2.csv', 0.4)
+#     process_data('/Users/belle/Desktop/build/rcv_proposal/raw_data/preference_profiles/scotland/glasgow12/Ward7Langside_glasgow12-07-recalc.csv', 'Ward7Langside_glasgow12-07-recalc', './temp_files', 'results2.csv', 0.5)

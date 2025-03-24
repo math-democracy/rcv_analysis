@@ -28,7 +28,7 @@ def load_and_compare(folder_path):
 
                 print(filename, country, percentage)
 
-    df1 = pd.read_csv('/Users/belle/Desktop/build/rcv_proposal/results/current/american.csv', usecols=lambda col: col not in ["Unnamed: 0", "smith"])
+    df1 = pd.read_csv('/Users/belle/Desktop/build/rcv_proposal/results/current/america.csv', usecols=lambda col: col not in ["Unnamed: 0", "smith"])
     df1['country'] = "america"
     df1['percentage'] = "ORIGINAL"
     df1["file"] = df1["file"].apply(lambda x: x[1:] if isinstance(x, str) and x.startswith("/") else x)
@@ -56,4 +56,4 @@ def load_and_compare(folder_path):
     master_df.to_csv('updated_results.csv')
 
 
-load_and_compare('/Users/belle/Desktop/build/rcv_proposal/analysis/candidate_cloning/results')
+load_and_compare('/Users/belle/Desktop/build/rcv_proposal/analysis/candidate_cloning/results_hpc/2')
