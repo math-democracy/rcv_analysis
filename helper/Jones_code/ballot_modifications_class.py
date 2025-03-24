@@ -27,7 +27,7 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 
 ## LNH type 1 (Truncate at L)
-def truncBalAtL(ballot, winner, loser):
+def truncBalAtL(ballot, winner, loser, cands_ranked):
     """inputs ballot and a loser, and truncates the ballot after the loser"""
     if loser in ballot:
         return ballot[:ballot.index(loser)+1], True
@@ -35,7 +35,7 @@ def truncBalAtL(ballot, winner, loser):
         return ballot, False
 
 ## LNH type 2 (Truncate at W)
-def truncBalAtW(ballot, winner, loser):
+def truncBalAtW(ballot, winner, loser, cands_ranked):
     """inputs ballot, winner, and loser"""
     """if loser is ranked above winner, truncates the ballot after the winner"""
     # if winner in ballot:
@@ -45,7 +45,7 @@ def truncBalAtW(ballot, winner, loser):
         return ballot, False
 
 ## LNH type 3/Burying (Bury W)    
-def buryWinBal(ballot, winner, loser):
+def buryWinBal(ballot, winner, loser, cands_ranked):
     """inputs ballot, winner, and loser"""
     """if loser is ranked above winner, remove winner from ballot"""
     if (loser in ballot) and (winner in ballot) and (ballot.find(loser)<ballot.find(winner)):
@@ -54,7 +54,7 @@ def buryWinBal(ballot, winner, loser):
         return ballot, False
     
 ## LNH type 4 (W hurting self with lower rankings)
-def boostLinBal(ballot, winner, loser):    
+def boostLinBal(ballot, winner, loser, cands_ranked):    
     """inputs ballot, winner, and loser"""
     """if winner is ranked and loser is ranked below winner or not ranked,"""
     """move loser up until it is right behind winner"""
@@ -70,8 +70,31 @@ def boostLinBal(ballot, winner, loser):
     else:
         return ballot, False
     
+## LNH type 5 (fill up ballot to maximally bury W)
+def deepBuryW(ballot, winner, loser, cands_ranked):
+    """inputs ballot, winner, and loser"""
+    """if loser is ranked above winner, fill up ballot with other candidates"""
+    """place winner at the bottom"""
+    if (loser in ballot) and (winner in ballot) and (ballot.find(loser)<ballot.find(winner)):
+        newBallot = ballot.split(winner)[0]+ballot.split(winner)[1]
+        for cand in cands_ranked:
+            if cand not in newBallot and cand != winner:
+                newBallot += cand
+        newBallot += winner
+        return newBallot, True
+    elif loser in ballot and winner not in ballot:
+        newBallot = ballot
+        for cand in cands_ranked:
+            if cand not in newBallot and cand != winner:
+                newBallot += cand
+        newBallot += winner
+        return newBallot, True
+    else:
+        return ballot, False
+    
+    
 ## compromise anomaly (move L to top if L ranked above W)
-def LtoTop(ballot, winner, loser):
+def LtoTop(ballot, winner, loser, cands_ranked):
     """inputs ballot, winner, and loser"""
     """if loser ranked above winner, move loser to top of ballot"""
     if (loser in ballot and winner in ballot and ballot.find(loser)<ballot.find(winner)) or (loser in ballot and winner not in ballot):
