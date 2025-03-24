@@ -9,8 +9,8 @@ import os
 
 num_cands_to_keep = 4
 
-data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/america_results_top{num_cands_to_keep}.csv'
-root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/america/processed_data'
+data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/america_results_top{num_cands_to_keep}.csv'
+root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/america/processed_data/New Mexico'
 
 error_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/supporting_files/america_error.txt'
 processed_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/supporting_files/america_processed.txt'
@@ -169,4 +169,10 @@ def main():
                         print("\n")
 
 if __name__ == '__main__':
-    main()
+    #main()
+    for dirpath, dirnames, filenames in os.walk(root_dir):
+        for filename in filenames:
+            print(filename)
+            if filename not in processed and filename not in error_d and (filename.endswith('.blt') or filename.endswith('.csv') or filename.endswith('.txt')):
+                full_path = os.path.join(dirpath, filename)
+                process_file(full_path, filename)
