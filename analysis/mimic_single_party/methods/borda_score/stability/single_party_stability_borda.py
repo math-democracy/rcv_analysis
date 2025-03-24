@@ -28,7 +28,7 @@ first_place_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_propo
 with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/metadata/party_breakdown.json') as file:
     party_breakdown = json.load(file)
 
-# method oprtions: 'borda','mention','first_place' 
+# method options: 'borda','mention','first_place' 
 #   for each party, only keep the cand with the highest borda, mention, or first place score
 def get_condensed_cands(filepath, method):
     filename = filepath.split('/')[-1]
