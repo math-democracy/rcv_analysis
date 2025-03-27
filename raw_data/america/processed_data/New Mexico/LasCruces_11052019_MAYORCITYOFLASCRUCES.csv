@@ -1,4 +1,4 @@
-ballotID,precinctPortion,ballot_type,countingGroup,precinct,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,rank10,Num cands,Num seats
+ballotID,precinctPortion,ballot_type,countingGroup,precinct,rank1,rank2,rank3,rank4,rank5,rank6,rank7,rank8,rank9,rank10,numCands,numSeats
 01662_00000_014453,117.001,Ballot 16 - Type 16,Early,117,MIKE A TELLEZ,BEV COURTNEY,JESUSITA DOLORES LUCERO,WILLIAM BILL MATTIACE,ISABELLA SOLIS,EUGENIA (GINA) MONTOYA ORTEGA,JORGE SANCHEZ,ALEXANDER PAIGE FRESQUEZ,GREGORY Z SMITH,KEN MIYAGISHIMA,10,1
 01662_00000_683706,59.0,Ballot 16 - Type 16,Early,59,MIKE A TELLEZ,WILLIAM BILL MATTIACE,BEV COURTNEY,ISABELLA SOLIS,JESUSITA DOLORES LUCERO,skipped,skipped,skipped,skipped,skipped,10,1
 01662_00000_757762,59.0,Ballot 16 - Type 16,Early,59,WILLIAM BILL MATTIACE,ISABELLA SOLIS,MIKE A TELLEZ,skipped,skipped,skipped,skipped,skipped,skipped,skipped,10,1
