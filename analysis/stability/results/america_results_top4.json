@@ -1,13 +1,13 @@
 {
     "metadata": {
-        "total_elections": 572,
-        "elections_with_changes": 35,
+        "total_elections": 577,
+        "elections_with_changes": 36,
         "method_counts": {
             "plurality": 9,
             "IRV": 0,
             "top-two": 4,
             "borda-pm": 10,
-            "borda-om": 8,
+            "borda-om": 9,
             "borda-avg": 6,
             "top-3-truncation": 12,
             "condorcet": 0,
@@ -58,7 +58,8 @@
                 "raw_data/america/processed_data/San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict7.csv",
                 "raw_data/america/processed_data/New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv",
                 "raw_data/america/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember36thCouncilDistrict.csv",
-                "raw_data/america/processed_data/Cambridge, MA/Cambridge_11062001_CityCouncil.csv"
+                "raw_data/america/processed_data/Cambridge, MA/Cambridge_11062001_CityCouncil.csv",
+                "raw_data/america/processed_data/New Mexico/LasCruces_11052019_MAYORCITYOFLASCRUCES.csv"
             ],
             "borda-avg": [
                 "raw_data/america/processed_data/Alaska/Alaska_11052024_US_House.csv",
@@ -6252,6 +6253,62 @@
                 "Andrew Struthers": 7123,
                 "Roen Hogg": 5508,
                 "Write-in": 175
+            }
+        },
+        "raw_data/america/processed_data/New Mexico/LasCruces_11052019_COUNCILORPOSITION2CITYOFLASCRUCESDISTRICT2COUNCILOR.csv": {
+            "changes": {},
+            "candidates": {
+                "TESSA ABEYTA STUVE": 970,
+                "PHILIP A VANVEEN": 783,
+                "JACK L VALENCIA, JR": 373,
+                "JASON D ESTRADA": 122
+            }
+        },
+        "raw_data/america/processed_data/New Mexico/SantaFe_03062018_Mayor.csv": {
+            "changes": {},
+            "candidates": {
+                "Alan Webber": 8080,
+                "Ronald S. Trujillo": 5026,
+                "Kate I. Noble": 4611,
+                "Joseph M. Maestas": 1649,
+                "Peter N. Ives": 1238
+            }
+        },
+        "raw_data/america/processed_data/New Mexico/LasCruces_11052019_COUNCILORPOSITION4CITYOFLASCRUCESDISTRICT4COUNCILOR.csv": {
+            "changes": {},
+            "candidates": {
+                "JOHANA BENCOMO": 763,
+                "ROBERT J PALACIOS": 458,
+                "ANTOINETTE M REYES": 336
+            }
+        },
+        "raw_data/america/processed_data/New Mexico/SantaFe_03062018_CityCouncilDistrict4.csv": {
+            "changes": {},
+            "candidates": {
+                "JoAnne Vigil Coppler": 2121,
+                "Greg Scargall": 1473,
+                "Eric John Holmes": 1305
+            }
+        },
+        "raw_data/america/processed_data/New Mexico/LasCruces_11052019_MAYORCITYOFLASCRUCES.csv": {
+            "changes": {
+                "borda-om": {
+                    "numCands": 10,
+                    "baseline_winner": "['WILLIAM BILL MATTIACE']",
+                    "top4": "['KEN MIYAGISHIMA']"
+                }
+            },
+            "candidates": {
+                "KEN MIYAGISHIMA": 5172,
+                "WILLIAM BILL MATTIACE": 2725,
+                "MIKE A TELLEZ": 1610,
+                "GREGORY Z SMITH": 1433,
+                "EUGENIA (GINA) MONTOYA ORTEGA": 1147,
+                "ISABELLA SOLIS": 664,
+                "BEV COURTNEY": 492,
+                "JESUSITA DOLORES LUCERO": 426,
+                "JORGE SANCHEZ": 210,
+                "ALEXANDER PAIGE FRESQUEZ": 106
             }
         }
     }

@@ -1,14 +1,14 @@
 {
     "metadata": {
-        "total_elections": 567,
+        "total_elections": 572,
         "total_elections_with_hits": 15,
         "total_method_counts_third_or_lower": {
             "plurality": 0,
             "IRV": 7,
             "top-two": 0,
-            "borda-pm": 9,
-            "borda-om-no-uwi": 8,
-            "borda-avg-no-uwi": 9,
+            "borda-pm": 7,
+            "borda-om": 9,
+            "borda-avg": 9,
             "top-3-truncation": 6,
             "condorcet": 9,
             "minimax": 10,
@@ -16,7 +16,7 @@
             "smith_irv": 10,
             "smith-minimax": 10,
             "ranked-pairs": 10,
-            "bucklin": 14,
+            "bucklin": 12,
             "approval": 11,
             "smith": 9
         },
@@ -24,9 +24,9 @@
             "plurality": 0,
             "IRV": 6,
             "top-two": 0,
-            "borda-pm": 9,
-            "borda-om-no-uwi": 8,
-            "borda-avg-no-uwi": 9,
+            "borda-pm": 7,
+            "borda-om": 9,
+            "borda-avg": 9,
             "top-3-truncation": 6,
             "condorcet": 8,
             "minimax": 9,
@@ -34,7 +34,7 @@
             "smith_irv": 9,
             "smith-minimax": 9,
             "ranked-pairs": 9,
-            "bucklin": 13,
+            "bucklin": 12,
             "approval": 11,
             "smith": 8
         },
@@ -43,8 +43,8 @@
             "IRV": 1,
             "top-two": 0,
             "borda-pm": 0,
-            "borda-om-no-uwi": 0,
-            "borda-avg-no-uwi": 0,
+            "borda-om": 0,
+            "borda-avg": 0,
             "top-3-truncation": 0,
             "condorcet": 1,
             "minimax": 1,
@@ -52,7 +52,7 @@
             "smith_irv": 1,
             "smith-minimax": 1,
             "ranked-pairs": 1,
-            "bucklin": 1,
+            "bucklin": 0,
             "approval": 0,
             "smith": 1
         },
@@ -63,27 +63,22 @@
             7,
             11,
             13,
-            14,
             22
         ],
         "num_cands_for_third_or_lower_hits": [
-            19,
-            11
+            19
         ],
         "places": [
             3,
-            4,
-            5
+            4
         ],
         "num_cands:place": {
             "4:3": 24,
             "5:3": 2,
             "7:3": 18,
-            "11:3": 25,
-            "11:5": 1,
+            "11:3": 24,
             "6:3": 25,
             "22:3": 14,
-            "14:3": 1,
             "13:3": 13,
             "19:4": 8
         },
@@ -94,8 +89,8 @@
             ],
             "top-two": [],
             "borda-pm": [],
-            "borda-om-no-uwi": [],
-            "borda-avg-no-uwi": [],
+            "borda-om": [],
+            "borda-avg": [],
             "top-3-truncation": [],
             "condorcet": [
                 "(place = 4, numCands = 19, diff = 537, total votes = 15969)  Cambridge, MA/Cambridge_11082005_CityCouncil.csv"
@@ -115,9 +110,7 @@
             "ranked-pairs": [
                 "(place = 4, numCands = 19, diff = 537, total votes = 15969)  Cambridge, MA/Cambridge_11082005_CityCouncil.csv"
             ],
-            "bucklin": [
-                "(place = 5, numCands = 11, diff = 983, total votes = 8747)  Portland, ME/Portland_06082021_charter_commission_at_large.csv"
-            ],
+            "bucklin": [],
             "approval": [],
             "smith": [
                 "(place = 4, numCands = 19, diff = 537, total votes = 15969)  Cambridge, MA/Cambridge_11082005_CityCouncil.csv"
@@ -141,12 +134,12 @@
                 "winner": "['Begich, Nick']",
                 "rank (out of first place votes)": 3
             },
-            "borda-om-no-uwi": {
+            "borda-om": {
                 "num_cands": 4,
                 "winner": "['Begich, Nick']",
                 "rank (out of first place votes)": 3
             },
-            "borda-avg-no-uwi": {
+            "borda-avg": {
                 "num_cands": 4,
                 "winner": "['Begich, Nick']",
                 "rank (out of first place votes)": 3
@@ -423,7 +416,7 @@
                 "winner": "['Jan Shabro']",
                 "rank (out of first place votes)": 3
             },
-            "borda-avg-no-uwi": {
+            "borda-avg": {
                 "num_cands": 7,
                 "winner": "['Jan Shabro']",
                 "rank (out of first place votes)": 3
@@ -458,11 +451,6 @@
                 "winner": "['Chann, Marpheen S.']",
                 "rank (out of first place votes)": 3
             },
-            "borda-pm": {
-                "num_cands": 11,
-                "winner": "['Chann, Marpheen S.']",
-                "rank (out of first place votes)": 3
-            },
             "condorcet": {
                 "num_cands": 11,
                 "winner": "['Chann, Marpheen S.']",
@@ -492,11 +480,6 @@
                 "num_cands": 11,
                 "winner": "['Chann, Marpheen S.']",
                 "rank (out of first place votes)": 3
-            },
-            "bucklin": {
-                "num_cands": 11,
-                "winner": "['Buxton, Catherine A.']",
-                "rank (out of first place votes)": 5
             },
             "approval": {
                 "num_cands": 11,
@@ -549,12 +532,12 @@
         "Utah cities/Genola_11022021_CityCouncil.csv": {},
         "Utah cities/Vineyard_11052019_CityCouncil.csv": {},
         "Utah cities/Moab_11022021_CityCouncil.csv": {
-            "borda-om-no-uwi": {
+            "borda-om": {
                 "num_cands": 6,
                 "winner": "['LUKE WOJCIECHOWSKI']",
                 "rank (out of first place votes)": 3
             },
-            "borda-avg-no-uwi": {
+            "borda-avg": {
                 "num_cands": 6,
                 "winner": "['LUKE WOJCIECHOWSKI']",
                 "rank (out of first place votes)": 3
@@ -630,12 +613,12 @@
                 "winner": "['Andy Montroll']",
                 "rank (out of first place votes)": 3
             },
-            "borda-om-no-uwi": {
+            "borda-om": {
                 "num_cands": 6,
                 "winner": "['Andy Montroll']",
                 "rank (out of first place votes)": 3
             },
-            "borda-avg-no-uwi": {
+            "borda-avg": {
                 "num_cands": 6,
                 "winner": "['Andy Montroll']",
                 "rank (out of first place votes)": 3
@@ -818,17 +801,12 @@
                 "winner": "['MIKE HUTCHINSON']",
                 "rank (out of first place votes)": 3
             },
-            "borda-pm": {
+            "borda-om": {
                 "num_cands": 4,
                 "winner": "['MIKE HUTCHINSON']",
                 "rank (out of first place votes)": 3
             },
-            "borda-om-no-uwi": {
-                "num_cands": 4,
-                "winner": "['MIKE HUTCHINSON']",
-                "rank (out of first place votes)": 3
-            },
-            "borda-avg-no-uwi": {
+            "borda-avg": {
                 "num_cands": 4,
                 "winner": "['MIKE HUTCHINSON']",
                 "rank (out of first place votes)": 3
@@ -1018,12 +996,12 @@
                 "winner": "['MYRNA MELGAR']",
                 "rank (out of first place votes)": 3
             },
-            "borda-om-no-uwi": {
+            "borda-om": {
                 "num_cands": 7,
                 "winner": "['MYRNA MELGAR']",
                 "rank (out of first place votes)": 3
             },
-            "borda-avg-no-uwi": {
+            "borda-avg": {
                 "num_cands": 7,
                 "winner": "['MYRNA MELGAR']",
                 "rank (out of first place votes)": 3
@@ -1101,12 +1079,12 @@
                 "winner": "['MALIA COHEN']",
                 "rank (out of first place votes)": 3
             },
-            "borda-om-no-uwi": {
+            "borda-om": {
                 "num_cands": 22,
                 "winner": "['MALIA COHEN']",
                 "rank (out of first place votes)": 3
             },
-            "borda-avg-no-uwi": {
+            "borda-avg": {
                 "num_cands": 22,
                 "winner": "['MALIA COHEN']",
                 "rank (out of first place votes)": 3
@@ -1187,7 +1165,19 @@
             }
         },
         "San Francisco/SanFrancisco_11032015_Sheriff.csv": {},
-        "San Francisco/SanFrancisco_11082011_Sheriff.csv": {},
+        "San Francisco/SanFrancisco_11082011_Sheriff.csv": {
+            "borda-om": {
+                "num_cands": 4,
+                "winner": "['PAUL MIYAMOTO']",
+                "rank (out of first place votes)": 3
+            },
+            "first_place_ranks": {
+                "ROSS MIRKARIMI": 70457,
+                "CHRIS CUNNIE": 51602,
+                "PAUL MIYAMOTO": 49814,
+                "DAVID WONG": 11360
+            }
+        },
         "San Francisco/SanFrancisco_06052018_BoardofSupervisorsDistrict8.csv": {},
         "San Francisco/SanFrancisco_11082022_BoardofSupervisorsD2.csv": {},
         "San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict8.csv": {},
@@ -1238,29 +1228,7 @@
         "New York City/NewYorkCity_06222021_DEMBoroughPresidentNewYork.csv": {},
         "New York City/NewYorkCity_06222021_DEMCouncilMember20thCouncilDistrict.csv": {},
         "New York City/NewYorkCity_06222021_REPCouncilMember32ndCouncilDistrict.csv": {},
-        "New York City/NewYorkCity_06222021_DEMCouncilMember9thCouncilDistrict.csv": {
-            "bucklin": {
-                "num_cands": 14,
-                "winner": "['Athena Moore']",
-                "rank (out of first place votes)": 3
-            },
-            "first_place_ranks": {
-                "Bill Perkins": 5409,
-                "Kristin Richardson Jordan": 4873,
-                "Athena Moore": 2802,
-                "Cordell Cleare": 2544,
-                "Mario Rosser": 2176,
-                "William A. Allen": 1638,
-                "Keith Taylor": 1432,
-                "Joshua Albert Clennon": 1389,
-                "Ruth L. McDaniels": 931,
-                "Billy Council": 736,
-                "Pierre A. Gooding": 732,
-                "Sheba T. Simpson-Amsterdam": 583,
-                "Bernadette McNear": 334,
-                "writein": 47
-            }
-        },
+        "New York City/NewYorkCity_06222021_DEMCouncilMember9thCouncilDistrict.csv": {},
         "New York City/NewYorkCity_06222021_DEMCouncilMember17thCouncilDistrict.csv": {},
         "New York City/NewYorkCity_06222021_CONCouncilMember19thCouncilDistrict.csv": {},
         "New York City/NewYorkCity_06222021_DEMCouncilMember21stCouncilDistrict.csv": {},
@@ -1268,7 +1236,7 @@
         "New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv": {},
         "New York City/NewYorkCity_06222021_DEMCouncilMember41stCouncilDistrict.csv": {},
         "New York City/NewYorkCity_06222021_DEMCouncilMember36thCouncilDistrict.csv": {
-            "borda-om-no-uwi": {
+            "borda-om": {
                 "num_cands": 6,
                 "winner": "['Tahirah A. Moore']",
                 "rank (out of first place votes)": 3
@@ -1317,7 +1285,7 @@
                 "winner": "['Turkel, Alice L.']",
                 "rank (out of first place votes)": 3
             },
-            "borda-avg-no-uwi": {
+            "borda-avg": {
                 "num_cands": 13,
                 "winner": "['Turkel, Alice L.']",
                 "rank (out of first place votes)": 3
@@ -1466,12 +1434,12 @@
                 "winner": "['Walser, Nancy']",
                 "rank (out of first place votes)": 3
             },
-            "borda-om-no-uwi": {
+            "borda-om": {
                 "num_cands": 11,
                 "winner": "['Walser, Nancy']",
                 "rank (out of first place votes)": 3
             },
-            "borda-avg-no-uwi": {
+            "borda-avg": {
                 "num_cands": 11,
                 "winner": "['Walser, Nancy']",
                 "rank (out of first place votes)": 3
@@ -1535,6 +1503,11 @@
             }
         },
         "Corvallis, OR/Corvallis_11082022_CityCouncilWard9.csv": {},
-        "Corvallis, OR/Corvallis_11082022_Mayor.csv": {}
+        "Corvallis, OR/Corvallis_11082022_Mayor.csv": {},
+        "New Mexico/LasCruces_11052019_COUNCILORPOSITION2CITYOFLASCRUCESDISTRICT2COUNCILOR.csv": {},
+        "New Mexico/SantaFe_03062018_Mayor.csv": {},
+        "New Mexico/LasCruces_11052019_COUNCILORPOSITION4CITYOFLASCRUCESDISTRICT4COUNCILOR.csv": {},
+        "New Mexico/SantaFe_03062018_CityCouncilDistrict4.csv": {},
+        "New Mexico/LasCruces_11052019_MAYORCITYOFLASCRUCES.csv": {}
     }
 }
