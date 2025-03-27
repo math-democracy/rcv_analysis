@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal')
+sys.path.append('/Users/student/Desktop/MyPythonCode/rcv_proposal')
 import main_methods as mm
 import multiprocessing
 import csv
@@ -9,18 +9,20 @@ from itertools import groupby
 
 METHOD = 'first_place'
 
-data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/{METHOD}_score/spoiler/scotland_results.csv'
-root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data'
+root = '/Users/student/Desktop/MyPythonCode/rcv_proposal'
 
-error_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/{METHOD}_score/supporting_files/spoiler_scotland_error.txt'
-processed_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/{METHOD}_score/supporting_files/spoiler_scotland_processed.txt'
+data_file = f'{root}/analysis/mimic_single_party/methods/{METHOD}_score/spoiler/scotland_results.csv'
+root_dir = './raw_data/scotland/processed_data'
+
+error_file = f'{root}/analysis/mimic_single_party/methods/{METHOD}_score/supporting_files/spoiler_scotland_error.txt'
+processed_file = f'{root}/analysis/mimic_single_party/methods/{METHOD}_score/supporting_files/spoiler_scotland_processed.txt'
 all_data = []
 
 borda_file = './analysis/fringe/borda_scores/scotland_borda_scores.json'
 mention_file =  './analysis/fringe/mention_scores/scotland_mention_scores.json'
 first_place_file = './analysis/first_place_analysis/scotland_first_place_ranks.json'
 
-with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/metadata/party_breakdown.json') as file:
+with open('./analysis/mimic_single_party/metadata/party_breakdown.json') as file:
     party_breakdown = json.load(file)
 
 # method options: 'borda','mention','first_place' 
@@ -38,7 +40,7 @@ def get_condensed_cands(filepath, method):
         with open(first_place_file) as file:
             scores = json.load(file)
 
-    party_info = party_breakdown[filepath]
+    party_info = party_breakdown[filepath[2:]]
     candidate_dict = party_info['party_dict']
 
     if filename in scores:
@@ -46,8 +48,6 @@ def get_condensed_cands(filepath, method):
     else:
         new_filename = [f for f in scores if f.endswith(filename)]
         if len(new_filename) != 1:
-            with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/metadata/error.txt', "a") as no_score:
-                no_score.write(f"{method}: {filepath}\n")
             candidate_scores = None
         else: 
             candidate_scores = scores[new_filename[0]]
@@ -64,7 +64,7 @@ def get_condensed_cands(filepath, method):
     return list(cands_to_keep)
 
 def run_voting_methods(full_path):
-    condensed_cands = get_condensed_cands(full_path.replace('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/',''), METHOD)
+    condensed_cands = get_condensed_cands(full_path.replace(f'{root}/',''), METHOD)
     
     if condensed_cands:
         # create profile + candidate list
