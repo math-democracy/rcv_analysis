@@ -9,15 +9,15 @@ import json
 #      helper methods      #
 ############################
 
-root_dir = '/Users/belle/Desktop/build/rcv_proposal/american' # where the data is
+root_dir = '/Users/belle/Desktop/build/rcv/raw_data/america/processed_data' # where the data is
 country = "america" # country of the dataset
 
-data_file = '/Users/belle/Desktop/build/rcv_proposal/metadata/metadata.csv' # where you want to put the summary of each election
-metadata_file = '/Users/belle/Desktop/build/rcv_proposal/metadata/metadata.json' # where you want to put the overall statistics
+data_file = './metadata_america.csv' # where you want to put the summary of each election
+metadata_file = './metadata_america.json' # where you want to put the overall statistics
 
 def process_files():
     data = read_folders(root_dir)
-    write_to_data_file(data)
+    # write_to_data_file(data)
 
 def generate_data():
     df = pd.read_csv(data_file)
@@ -39,6 +39,18 @@ def get_insights(df):
     elections_per_country = df['country'].value_counts().to_dict()
     elections_per_country["total"] = df.shape[0]
 
+    # one skips vs two skips vs three skips
+    
+    # Calculate percentages
+    df["no_skipped_percent"] = (df["no_skipped"] / df["num_voters"]) * 100
+    df["one_skipped_percent"] = (df["one_skipped"] / df["num_voters"]) * 100
+    df["two_skipped_percent"] = (df["two_skipped"] / df["num_voters"]) * 100
+    df["three_skipped_percent"] = (df["three_skipped"] / df["num_voters"]) * 100
+    
+    # Generate descriptive statistics for percentage skipped categories
+    percentage_columns = ["no_skipped_percent", "one_skipped_percent", "two_skipped_percent", "three_skipped_percent"]
+    stats = df[percentage_columns].describe()
+
     # num of winners per election
     winners_per_election = df.groupby(['country', 'num_seats']).size().reset_index(name='count').groupby('country').apply(lambda x: x[['num_seats', 'count']].to_dict(orient='records')).to_dict()
 
@@ -53,6 +65,7 @@ def get_insights(df):
     # create buckets of 1000 voters and leave only the upper bound
     df['voter_category'] = pd.cut(df['num_voters'], bins=range(0, df['num_voters'].max() + 1000, 1000), right=False)
     df['voter_category'] = df['voter_category'].apply(lambda x: x.right)
+    
     # group the data together
     votes_per_election = df.groupby(['country', 'voter_category']).size().reset_index(name='voter_category_count')
     votes_per_election = votes_per_election[votes_per_election['voter_category_count'] > 0].groupby('country').apply(lambda x: x[['voter_category', 'voter_category_count']].to_dict(orient='records')).to_dict()
@@ -60,6 +73,7 @@ def get_insights(df):
     # export data
     all_insights = {
         "elections_per_country": elections_per_country, 
+        "skips": stats.to_dict(),
         "aggregate_candidates": aggregate_candidates,
         "candidates_per_election": candidates_per_election,
         "winners_per_election": winners_per_election, 
@@ -94,7 +108,7 @@ def read_folders(root_dir):
         for filename in filenames:
             if filename.endswith('.blt') or filename.endswith('.csv') or filename.endswith('.txt'):
                 full_path = os.path.join(dirpath, filename)
-                data.append(get_file_data(filename, full_path))
+                get_file_data(filename, full_path)
 
     return data
 
@@ -148,8 +162,8 @@ def get_file_data(filename, full_path):
 
             if len(rows) >= 1: 
                 if country == "america": 
-                    num_cands = rows[0].get("Num cands", None) 
-                    num_seats = rows[0].get("Num seats", None) 
+                    num_cands = rows[0].get("numCands", None) 
+                    num_seats = rows[0].get("numSeats", None) 
                     header = reader.fieldnames
                     rank_numbers = [
                         int(match.group(1))
@@ -162,8 +176,8 @@ def get_file_data(filename, full_path):
                         file_data['truncated'] = 1
 
                 if country == "civs":
-                    num_cands = rows[0].get("Num Cands", None) 
-                    num_seats = rows[0].get("Num Seats", None) 
+                    num_cands = rows[0].get("numCands", None) 
+                    num_seats = rows[0].get("numSeats", None) 
                 if country == "scotland":
                     num_cands = rows[0].get("numCands", None) 
                     num_seats = rows[0].get("numSeats", None) 
@@ -195,17 +209,17 @@ def get_file_data(filename, full_path):
         # length = len(skipped_columns)
         # if largest_rank_number <= int(num_cands) and length != 0:
         #     print(full_path + ": " + str(length))
-        
+    write_to_data_file(file_data)
     return file_data
 
 def write_to_data_file(data):
-    keys = data[0].keys()
+    keys = data.keys()
 
     with open(data_file, mode='a', newline='') as file:
         writer = csv.writer(file)
-        writer.writerow(keys)
-        for d in data:
-            row = [d.get(key, '') for key in keys]
-            writer.writerow(row)
+        if os.stat(data_file).st_size == 0:
+             writer.writerow(keys)
+        row = [data.get(key, '') for key in keys]
+        writer.writerow(row)
 
 generate_data()
