@@ -47,9 +47,10 @@ def get_insights(df):
     filtered_df["one_skipped_percent"] = (filtered_df["one_skipped"] / filtered_df["num_voters"]) * 100
     filtered_df["two_skipped_percent"] = (filtered_df["two_skipped"] / filtered_df["num_voters"]) * 100
     filtered_df["three_skipped_percent"] = (filtered_df["three_skipped"] / filtered_df["num_voters"]) * 100
-    
+    filtered_df["other_skipped_percent"] = (filtered_df["other_skipped"] / filtered_df["num_voters"]) * 100
+
     # Generate descriptive statistics for percentage skipped categories
-    percentage_columns = ["no_skipped_percent", "one_skipped_percent", "two_skipped_percent", "three_skipped_percent"]
+    percentage_columns = ["no_skipped_percent", "one_skipped_percent", "two_skipped_percent", "three_skipped_percent", "other_skipped_percent"]
     stats = filtered_df[percentage_columns].describe()
 
     # num of winners per election
@@ -134,7 +135,7 @@ def get_file_data(filename, full_path):
             reader = csv.DictReader(file)
             rows = list(reader) 
             file_data["num_voters"] = len(rows)
-            no_skipped = one_skipped = two_skipped = three_skipped = 0
+            no_skipped = one_skipped = two_skipped = three_skipped = other_skipped = 0
             unique_write_ins = set()
 
             for row in rows:
@@ -154,6 +155,8 @@ def get_file_data(filename, full_path):
                     two_skipped += 1
                 elif skipped_count == 3:
                     three_skipped += 1
+                elif skipped_count > 3:
+                    other_skipped += 1
 
             unique_write_in = len(unique_write_ins)
             
@@ -202,6 +205,7 @@ def get_file_data(filename, full_path):
                 file_data["one_skipped"] = one_skipped
                 file_data["two_skipped"] = two_skipped
                 file_data["three_skipped"] = three_skipped
+                file_data["other_skipped"] = other_skipped
                 file_data["write_in"] = unique_write_in
         
        # test for truncation? no results.
@@ -223,4 +227,5 @@ def write_to_data_file(data):
         row = [data.get(key, '') for key in keys]
         writer.writerow(row)
 
+# process_files()
 generate_data()
