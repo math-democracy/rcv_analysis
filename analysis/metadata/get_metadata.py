@@ -40,16 +40,17 @@ def get_insights(df):
     elections_per_country["total"] = df.shape[0]
 
     # one skips vs two skips vs three skips
-    
+    filtered_df = df[df["num_cands"] >= 4]
+
     # Calculate percentages
-    df["no_skipped_percent"] = (df["no_skipped"] / df["num_voters"]) * 100
-    df["one_skipped_percent"] = (df["one_skipped"] / df["num_voters"]) * 100
-    df["two_skipped_percent"] = (df["two_skipped"] / df["num_voters"]) * 100
-    df["three_skipped_percent"] = (df["three_skipped"] / df["num_voters"]) * 100
+    filtered_df["no_skipped_percent"] = (filtered_df["no_skipped"] / filtered_df["num_voters"]) * 100
+    filtered_df["one_skipped_percent"] = (filtered_df["one_skipped"] / filtered_df["num_voters"]) * 100
+    filtered_df["two_skipped_percent"] = (filtered_df["two_skipped"] / filtered_df["num_voters"]) * 100
+    filtered_df["three_skipped_percent"] = (filtered_df["three_skipped"] / filtered_df["num_voters"]) * 100
     
     # Generate descriptive statistics for percentage skipped categories
     percentage_columns = ["no_skipped_percent", "one_skipped_percent", "two_skipped_percent", "three_skipped_percent"]
-    stats = df[percentage_columns].describe()
+    stats = filtered_df[percentage_columns].describe()
 
     # num of winners per election
     winners_per_election = df.groupby(['country', 'num_seats']).size().reset_index(name='count').groupby('country').apply(lambda x: x[['num_seats', 'count']].to_dict(orient='records')).to_dict()
