@@ -3,9 +3,9 @@ import multiprocessing
 import pandas as pd
 import json
 
-root_dir = '/Users/belle/Desktop/build/rcv_proposal/raw_data/civs/processed_data'
-error_file = './civs_error_2.txt'
-output_file = './civs_mention_scores_real.json'
+root_dir = './raw_data/america/processed_data'
+error_file = './analysis/fringe/supporting_files/america_error.txt'
+output_file = './analysis/fringe/mention_scores/america_mention_scores.json'
 def calculate_mention_scores(df, filename):
     rank_columns = [col for col in df.columns if col.startswith('rank')]
     num_ranks = len(rank_columns)
@@ -14,9 +14,9 @@ def calculate_mention_scores(df, filename):
     num_cands = 0
     for index, row in df.iterrows(): 
         if index == 0:
-            num_cands = row['Num Cands']
+            num_cands = row['numCands']
 
-        print(num_cands)
+        #print(num_cands)
         ranked_candidates = [row[col] for col in rank_columns if (row[col] != "skipped" and row[col] != "Unknown" and row[col] != "nan")]
         # if pd.isna(row['Num Cands']):
         #     with open(error_file, "a") as ef:
@@ -50,7 +50,7 @@ def process_file(file_path, filename):
     # Append new data
     data[filename] = scores
     
-    with open(output_file, "w") as json_file:
+    with open(output_file, "a") as json_file:
         json.dump(data, json_file, indent=4)
     print(scores)
 
@@ -77,7 +77,12 @@ def main():
                         print("\n")
             
 if __name__ == '__main__':
-    main()
+    #main()
+    process_file('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/america/processed_data/New Mexico/LasCruces_11052019_COUNCILORPOSITION2CITYOFLASCRUCESDISTRICT2COUNCILOR.csv','LasCruces_11052019_COUNCILORPOSITION2CITYOFLASCRUCESDISTRICT2COUNCILOR.csv')
+    process_file('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/america/processed_data/New Mexico/LasCruces_11052019_COUNCILORPOSITION4CITYOFLASCRUCESDISTRICT4COUNCILOR.csv','LasCruces_11052019_COUNCILORPOSITION4CITYOFLASCRUCESDISTRICT4COUNCILOR.csv')
+    process_file('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/america/processed_data/New Mexico/LasCruces_11052019_MAYORCITYOFLASCRUCES.csv','LasCruces_11052019_MAYORCITYOFLASCRUCES.csv')
+    process_file('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/america/processed_data/New Mexico/SantaFe_03062018_CityCouncilDistrict4.csv','SantaFe_03062018_CityCouncilDistrict4.csv')
+    process_file('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/america/processed_data/New Mexico/SantaFe_03062018_Mayor.csv','SantaFe_03062018_Mayor.csv')
                         
 
 # process_file('/Users/belle/Desktop/build/rcv_proposal/raw_data/american/processed_data/New York City/NewYorkCity_06222021_REPBoroughPresidentRichmond.csv', 'test.csv')

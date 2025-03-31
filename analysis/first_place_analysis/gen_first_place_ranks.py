@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import json
 
-american_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/american/processed_data'
+american_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/america/processed_data'
 australia_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/australia/processed_data'
 scotland_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data'
 civs_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/civs/processed_data'
@@ -66,7 +66,7 @@ def main():
                 
                 civs[full_path.replace('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/', '')] = rank
 
-    output_data = {"american": american,
+    output_data = {"america": american,
                    "australia": australia,
                    "scotland": scotland,
                    "civs": civs}

@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/Users/belle/Desktop/build/rcv_proposal')
+sys.path.append('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal')
 from main_methods import v_profile, Borda_AVG_Return_Full
 # from david_methods import Borda_AVG_Return_Full
 import os
@@ -27,11 +27,11 @@ def calculate_borda(file):
 # calculate_borda('/Users/belle/Desktop/build/rcv_proposal/raw_data/australia/processed_data/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Northcote with candidates.csv')
 
 
-processed_file = './american_processed.txt'
+processed_file = './analysis/fringe/supporting_files/america_processed.txt'
 
-root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/america/processed_data'
-error_file = './american_error.txt'
-output_file = './american_mention_scores.json'
+root_dir = './raw_data/america/processed_data'
+error_file = './analysis/fringe/supporting_files/america_error.txt'
+output_file = './analysis/fringe/borda_scores/america_borda_scores.json'
 
 def process_file(file_path, filename):
     print("processing: ",file_path)
@@ -79,4 +79,9 @@ def main():
             
 if __name__ == '__main__':
     #main()
-    process_file('american/Cambridge, MA/Cambridge_11042003_SchoolCommittee.csv','Cambridge_11042003_SchoolCommittee.csv')
+    process_file('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/america/processed_data/New Mexico/LasCruces_11052019_COUNCILORPOSITION2CITYOFLASCRUCESDISTRICT2COUNCILOR.csv','LasCruces_11052019_COUNCILORPOSITION2CITYOFLASCRUCESDISTRICT2COUNCILOR.csv')
+    process_file('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/america/processed_data/New Mexico/LasCruces_11052019_COUNCILORPOSITION4CITYOFLASCRUCESDISTRICT4COUNCILOR.csv','LasCruces_11052019_COUNCILORPOSITION4CITYOFLASCRUCESDISTRICT4COUNCILOR.csv')
+    process_file('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/america/processed_data/New Mexico/LasCruces_11052019_MAYORCITYOFLASCRUCES.csv','LasCruces_11052019_MAYORCITYOFLASCRUCES.csv')
+    process_file('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/america/processed_data/New Mexico/SantaFe_03062018_CityCouncilDistrict4.csv','SantaFe_03062018_CityCouncilDistrict4.csv')
+    process_file('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/america/processed_data/New Mexico/SantaFe_03062018_Mayor.csv','SantaFe_03062018_Mayor.csv')
+    #process_file('american/Cambridge, MA/Cambridge_11042003_SchoolCommittee.csv','Cambridge_11042003_SchoolCommittee.csv')

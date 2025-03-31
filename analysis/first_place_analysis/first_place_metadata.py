@@ -3,13 +3,14 @@ import json
 from collections import Counter
 import ast
 
-country = 'american'
+country = 'america'
 
 def gen_metadata_for_country(country):
     file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/new/{country}.csv'  # Replace with file path
     df = pd.read_csv(file_path)
+    print(df.columns)
 
-    methods = ['plurality','IRV','top-two','borda-pm','borda-om-no-uwi','borda-avg-no-uwi','top-3-truncation','condorcet','minimax','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','approval','smith']
+    methods = ['plurality','IRV','top-two','borda-pm','borda-om','borda-avg','top-3-truncation','condorcet','minimax','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','approval','smith']
     num_cands_kept = 4
 
     files = {}
@@ -39,6 +40,7 @@ def gen_metadata_for_country(country):
 
         for method in methods:
             #print(row[f'{method}_rank'])
+            #print(row)
             if row[method] not in none_types and row[method] != "unknown" and row[method] != "writein" and row['numCands'] > 3 and row[f'{method}_rank'] != 'multiple' and int(row[f'{method}_rank']) >= 3:
                 changes[method] = {
                     "num_cands": int(row['numCands']),
@@ -106,10 +108,10 @@ def gen_metadata_for_country(country):
     print(f"Grouped changes with metadata have been exported to {output_file}")
 
 def main():
-    gen_metadata_for_country('civs')
-    gen_metadata_for_country('australia')
+    #gen_metadata_for_country('civs')
+    #gen_metadata_for_country('australia')
     gen_metadata_for_country('america')
-    gen_metadata_for_country('scotland')
+    #gen_metadata_for_country('scotland')
 
 if __name__ == "__main__":
     main()

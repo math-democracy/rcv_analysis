@@ -262,6 +262,48 @@ def Borda_AVG(
     elected = set([c for c in cands_to_keep if el_scores[c]==winning_score])
     return elected
 
+def Borda_AVG_Return_Full(
+    #filename: str,
+    prof: Union[PreferenceProfile, str],
+    cands_to_keep: Optional[list] = None,
+    tiebreak: Optional[str] = None 
+)-> set:
+    if type(prof)==str:
+        prof = v_profile(prof)
+    
+    if not cands_to_keep:
+        cands_to_keep = prof.candidates
+    if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
+        cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
+
+    prof = process_cands(prof, cands_to_keep)
+    
+    max_score=len(prof.candidates)-1 
+    ballots = prof.ballots
+    el_scores= {c:0 for c in cands_to_keep}
+    for i in range(1,len(prof.candidates)+1):
+        bal = [b for b in ballots if len(b.ranking) == i]
+        new_ballots = []
+        for b in bal:
+            cands_in_b = []
+            for c in cands_to_keep:
+                for y in b.ranking:
+                    if c in y:
+                        cands_in_b.append(c)
+                        break
+            not_in_b = [{c} for c in cands_to_keep if c not in cands_in_b]
+            new_ballots.append(Ballot(ranking = list(b.ranking) + not_in_b, weight = b.weight))
+        if new_ballots!=[]:
+            vector = list(range(max_score,max_score-i,-1))+[(max_score-i)/2 for k in range(len(cands_to_keep)-i)] 
+            p = PreferenceProfile(ballots = new_ballots)
+            el = v.Borda(profile = p, score_vector = vector,tiebreak=tiebreak).election_states[0].scores
+            for c in cands_to_keep:
+                if c not in el:
+                    el[c]=0
+                el_scores[c]+=el[c]
+    
+    return el_scores
+
 #top3 truncation using 3-2-1. converts to 2-1 if we are only keeping 2 candidates
 def Top3Truncation(
     prof: Union[PreferenceProfile, str],

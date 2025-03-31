@@ -1,4 +1,4 @@
-ballotID,precinctPortion,ballot_type,countingGroup,precinct,rank1,rank2,rank3,Num cands,Num seats
+ballotID,precinctPortion,ballot_type,countingGroup,precinct,rank1,rank2,rank3,numCands,numSeats
 01662_00000_099843,90.002,Ballot 19 - Type 19,Early,90,JOHANA BENCOMO,ANTOINETTE M REYES,ROBERT J PALACIOS,3,1
 01662_00000_111428,22.002,Ballot 19 - Type 19,Early,22,ROBERT J PALACIOS,JOHANA BENCOMO,ANTOINETTE M REYES,3,1
 01665_00000_349858,39.0,Ballot 19 - Type 19,Early,39,ROBERT J PALACIOS,skipped,skipped,3,1

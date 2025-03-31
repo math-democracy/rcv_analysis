@@ -1,4 +1,4 @@
-ballotID,precinctPortion,ballot_type,countingGroup,precinct,rank1,rank2,rank3,rank4,Num cands,Num seats
+ballotID,precinctPortion,ballot_type,countingGroup,precinct,rank1,rank2,rank3,rank4,numCands,numSeats
 01662_00000_880986,7.002,Ballot 14 - Type 14,Early,7,PHILIP A VANVEEN,skipped,skipped,skipped,4,1
 01662_00000_718491,71.0,Ballot 14 - Type 14,Early,71,PHILIP A VANVEEN,"JACK L VALENCIA, JR",skipped,skipped,4,1
 01662_00000_200009,73.0,Ballot 14 - Type 14,Early,73,PHILIP A VANVEEN,JASON D ESTRADA,"JACK L VALENCIA, JR",TESSA ABEYTA STUVE,4,1
