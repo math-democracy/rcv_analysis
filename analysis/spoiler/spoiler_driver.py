@@ -5,11 +5,11 @@ import multiprocessing
 import csv
 import os
 
-data_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/scotland_results.csv'
-root_dir = '/Users/belle/Desktop/build/rcv_proposal/raw_data/scotland/processed_data'
+data_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/new_mexico_results.csv'
+root_dir = '/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/New Mexico'
 
-error_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/scotland_error.txt'
-processed_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/scotland_processed.txt'
+error_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/new_mexico_error.txt'
+processed_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/new_mexico_processed.txt'
 all_data = []
 
 def run_voting_methods(full_path):
@@ -102,7 +102,7 @@ def main():
                 if __name__ == '__main__':
                     p = multiprocessing.Process(target=process_file, args=(full_path,filename))
                     p.start()
-                    p.join(40)
+                    p.join(180)
 
                     if p.is_alive():
                         print("running... let's kill it...")
