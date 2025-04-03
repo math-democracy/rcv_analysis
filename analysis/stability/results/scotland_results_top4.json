@@ -12,6 +12,7 @@
             "top-3-truncation": 121,
             "condorcet": 3,
             "minimax": 3,
+            "smith": 5,
             "smith_plurality": 3,
             "smith_irv": 4,
             "smith-minimax": 3,
@@ -779,6 +780,13 @@
             "minimax": [
                 "raw_data/scotland/processed_data/edinburgh22/Ward14-Craigentinny-Duddingston_ward14.csv",
                 "raw_data/scotland/processed_data/highland12-ballots/FortWilliamandArdnamurchanWard_highland12-22.csv",
+                "raw_data/scotland/processed_data/dumgal12-ballots/AnnandaleNorthWard_dumgal12-12.csv"
+            ],
+            "smith": [
+                "raw_data/scotland/processed_data/renfs12-ballots/7.JohnstoneSouthElderslie&HowwoodWard_renfs12-07.csv",
+                "raw_data/scotland/processed_data/edinburgh22/Ward14-Craigentinny-Duddingston_ward14.csv",
+                "raw_data/scotland/processed_data/highland12-ballots/FortWilliamandArdnamurchanWard_highland12-22.csv",
+                "raw_data/scotland/processed_data/w-duns22/Ward2-Leven_west dunbartonshire,2022,ward 2.csv",
                 "raw_data/scotland/processed_data/dumgal12-ballots/AnnandaleNorthWard_dumgal12-12.csv"
             ],
             "smith_plurality": [
@@ -2978,7 +2986,16 @@
         },
         "raw_data/scotland/processed_data/eilean-siar22/ward02_preferenceprofile.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "PAUL FRANCIS STEELE (Ind)": 275,
+                "Susan THOMSON (SNP)": 221,
+                "Iain Murdoch MACLEOD (Ind)": 177,
+                "Roddy MACKAY (Grn)": 176,
+                "DONNIE STEELE (Ind)": 155,
+                "Iain Archie MACNEIL (Ind)": 138,
+                "Calum MACMILLAN (Alba)": 92,
+                "Andrew Veitch WALKER (Ind)": 72
+            }
         },
         "raw_data/scotland/processed_data/eilean-siar22/Ward8LochaTuath_ward08_preferenceprofile.csv": {
             "changes": {},
@@ -4656,19 +4673,47 @@
         },
         "raw_data/scotland/processed_data/midlothian22/3_dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Stephen CURRAN (Lab)": 1163,
+                "Colin John CASSIDY (SNP)": 1012,
+                "Margot RUSSELL (Lab)": 816,
+                "Karen Mary GREEN (SNP)": 501,
+                "Mark WELLS (Con)": 459,
+                "Marion BLACK (Grn)": 299,
+                "Jamie BRYANT (Alba)": 56
+            }
         },
         "raw_data/scotland/processed_data/midlothian22/east_preference_profile_open_from_within_ms_word_or_similar.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Bryan POTTINGER (Lab)": 1473,
+                "Peter SMAILL (Con)": 1106,
+                "Stuart Douglas MCKENZIE (SNP)": 1045,
+                "Ann MONTAGUE (SNP)": 616,
+                "Bill KERR-SMITH (Grn)": 428,
+                "Jenny Claire MARR (LD)": 274
+            }
         },
         "raw_data/scotland/processed_data/midlothian22/2_bonnyrigg_preference_profile_open_from_within_ms_word_or_similar.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Derek MILLIGAN (Lab)": 2428,
+                "Dianne ALEXANDER (SNP)": 2117,
+                "David VIRGO (Con)": 1012,
+                "Daya FELDWICK (Grn)": 459
+            }
         },
         "raw_data/scotland/processed_data/midlothian22/1_penicuik_preference_profile_open_from_within_ms_word_or_similar.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Debbi MCCALL (SNP)": 1639,
+                "Willie MCEWAN (Lab)": 1234,
+                "Richard THOMSON (Con)": 912,
+                "Connor MCMANUS (SNP)": 589,
+                "Helen Margaret ARMSTRONG (Grn)": 383,
+                "Ken BROWN (LD)": 351,
+                "George BOYD (Alba)": 46
+            }
         },
         "raw_data/scotland/processed_data/midlothian22/west_preference_profile_open_from_within_ms_word_or_similar.csv": {
             "changes": {
@@ -4678,7 +4723,15 @@
                     "top4": "['Kelly PARRY (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Russell IMRIE (Labour and Co-operative Party)": 1645,
+                "Pat KENNY (SNP)": 1149,
+                "Pauline WINCHESTER (Con)": 1144,
+                "Kelly PARRY (SNP)": 1126,
+                "Jill SIMON (Grn)": 624,
+                "Richard Philip CHANDLER (LD)": 400,
+                "Andrew COVENTRY (Alba)": 74
+            }
         },
         "raw_data/scotland/processed_data/midlothian22/dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv": {
             "changes": {
@@ -4688,7 +4741,16 @@
                     "top4": "['Ellen SCOTT (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Kelly DRUMMOND (Lab)": 1243,
+                "Ellen SCOTT (SNP)": 1045,
+                "Douglas BOWEN (SNP)": 1005,
+                "Robin STENHOUSE (Con)": 637,
+                "Hazel FLANAGAN (Lab)": 573,
+                "Malcolm Gray SPAVEN (Grn)": 349,
+                "Daniel FRASER (Libtn)": 58,
+                "Christopher Ringland HAMPTON (Alba)": 44
+            }
         },
         "raw_data/scotland/processed_data/moray12-ballots/BuckieWard_moray12-03.csv": {
             "changes": {
@@ -5040,7 +5102,16 @@
         },
         "raw_data/scotland/processed_data/n-ayrshire22/Preference-Profile-Saltcoats-and-Stevenston_copy.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Jean MCCLUNG (SNP)": 1908,
+                "Jim MONTGOMERIE (Lab)": 1822,
+                "John SWEENEY (Lab)": 796,
+                "Cameron INGLIS (Con)": 742,
+                "\fDavina MCTIERNAN (SNP)": 666,
+                "Ronnie MCNICOL (Ind)": 366,
+                "David HIGGINS Independence for Scotland Party (UNKNOWN)": 111,
+                "Jimmy MILLER (Ind)": 95
+            }
         },
         "raw_data/scotland/processed_data/highland17-ballots/Ward3-WickandEastCaithness_highland17-03.csv": {
             "changes": {},
@@ -6311,6 +6382,11 @@
         },
         "raw_data/scotland/processed_data/renfs12-ballots/7.JohnstoneSouthElderslie&HowwoodWard_renfs12-07.csv": {
             "changes": {
+                "smith": {
+                    "numCands": 8,
+                    "baseline_winner": "['John CALDWELL (Lab)', 'John HOOD (Lab)', 'Iain MCMILLAN (Lab)']",
+                    "top4": "['John HOOD (Lab)', 'John CALDWELL (Lab)', 'Iain MCMILLAN (Lab)']"
+                },
                 "bucklin": {
                     "numCands": 8,
                     "baseline_winner": "['John CALDWELL (Lab)']",
@@ -6634,19 +6710,44 @@
                     "top4": "['Edward GRADY (Lab)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Cathy MCEWAN (SNP)": 1129,
+                "Edward GRADY (Lab)": 1003,
+                "Jim PATERSON (SNP)": 842,
+                "Dale NELSON (Con)": 446,
+                "Kate HUGHES (Lab)": 341
+            }
         },
         "raw_data/scotland/processed_data/renfs22/profile_for_Ward_11_Bishopton_Bridge_of_Weir_and_Langbank_copy.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Fiona AIRLIE-NICOLSON (SNP)": 2384,
+                "Colin Alan MCCULLOCH (Lab)": 1534,
+                "James MACLAREN (Con)": 1353,
+                "\fMark DOUGAN (Con)": 902,
+                "Grant TOGHILL (LD)": 392
+            }
         },
         "raw_data/scotland/processed_data/renfs22/Preference_profile_for_Ward_12_Erskine_and_Inchinnan_copy.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Sam MULLIN (Lab)": 1998,
+                "Iain NICOLSON (SNP)": 1381,
+                "Michelle CAMPBELL (SNP)": 1213,
+                "Alec LEISHMAN (Con)": 1054,
+                "Alan JELFS (LD)": 187,
+                "Robert IRWIN (SFP)": 112
+            }
         },
         "raw_data/scotland/processed_data/renfs22/Preference_profile_for_Ward_10_Houston_Crosslee_and_Linwood_copy.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Alison ANN-DOWLING (Labour and Co-operative Party)": 1568,
+                "David MCGONIGLE (Con)": 1334,
+                "Audrey DOIG (SNP)": 1172,
+                "Robert INNES (SNP)": 1020,
+                "Connor CUNNINGHAM (Labour and Co-operative Party)": 515
+            }
         },
         "raw_data/scotland/processed_data/renfs22/for_Ward_9_Johnstone_North_Kilbarchan_Howwood_and_Lochwinnoch_copy.csv": {
             "changes": {
@@ -6666,7 +6767,16 @@
                     "top4": "['Chris GILMOUR (Lab)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Andy DOIG (Ind)": 1416,
+                "Emma RODDEN (SNP)": 1215,
+                "Chris GILMOUR (Lab)": 968,
+                "Gillian GRAHAM (Lab)": 689,
+                "\fLouise REID (Con)": 628,
+                "Graeme STOCKTON (SNP)": 582,
+                "Heather HUDSON (Grn)": 234,
+                "Andrew JACKSON (LD)": 89
+            }
         },
         "raw_data/scotland/processed_data/renfs22/Preference_profile_for_Ward_6_Paisley_Southeast_copy.csv": {
             "changes": {
@@ -6676,19 +6786,56 @@
                     "top4": "['Eddie DEVINE (Lab)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Bruce MACFARLANE (SNP)": 862,
+                "Eddie DEVINE (Lab)": 800,
+                "Marie MCGURK (SNP)": 693,
+                "Jim MCILROY (Con)": 496,
+                "Paul MACK  (UNKNOWN)": 452,
+                "Stuart Alexander MCAUSLAND (Lab)": 385,
+                "David Richard LAFFAN (Grn)": 194,
+                "Allan HERON (LD)": 154,
+                "Sandra Amelia WEBSTER (Soc) Party - End Fuel Poverty": 44
+            }
         },
         "raw_data/scotland/processed_data/renfs22/Preference_profile_for_Ward_5_Paisley_East_and_Central_copy.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "John MCNAUGHTAN (SNP)": 1241,
+                "Carolann DAVIDSON (Lab)": 1040,
+                "Will MYLET (SNP)": 486,
+                "John CAMERON (Con)": 418,
+                "Jonathan SMITH (Lab)": 306,
+                "Athol BOND (Grn)": 293,
+                "Duncan GRANT (Libtn)": 45
+            }
         },
         "raw_data/scotland/processed_data/renfs22/Preference_profile_for_Ward_4_Paisley_Northwest_copy.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "KENNY MACLAREN (SNP)": 1305,
+                "Janis MCDONALD (Lab)": 852,
+                "MAGS MACLAREN (SNP)": 851,
+                "Ben SMITH (Lab)": 679,
+                "Fraser PAUL (Con)": 443,
+                "Cara RAE (Grn)": 228,
+                "Mark BAILEY (LD)": 128,
+                "John MCINTYRE (Ind)": 119,
+                "Rona GRIEVE (SFP)": 75,
+                "Samuel Oludare YEROKUN (Alba)": 53,
+                "Jim HALFPENNY (Soc)": 46
+            }
         },
         "raw_data/scotland/processed_data/renfs22/Preference_profile_for_Ward_8_Johnstone_South_and_Elderslie_copy.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Jacqueline CAMERON (SNP)": 1613,
+                "John HOOD (Lab)": 1310,
+                "Iain MCMILLAN (Lab)": 1270,
+                "Andy STEEL (SNP)": 634,
+                "Brian JACKSON (Con)": 595,
+                "Robert MACINTYRE (LD)": 141
+            }
         },
         "raw_data/scotland/processed_data/renfs22/Preference_profile_for_Ward_7_Paisley_Southwest_copy.csv": {
             "changes": {
@@ -6703,7 +6850,15 @@
                     "top4": "['Lorraine CAMERON (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Kevin MONTGOMERY (Lab)": 1384,
+                "Stephen BURNS (SNP)": 1288,
+                "Lorraine CAMERON (SNP)": 1120,
+                "Anne HANNIGAN (LD)": 754,
+                "Marc SCHMITZ (Con)": 524,
+                "Richard VASSIE (Ind)": 108,
+                "Scott KERR (Ind)": 86
+            }
         },
         "raw_data/scotland/processed_data/argyll-bute17-ballots/MidArgyll_argyll-bute17-03.csv": {
             "changes": {},
@@ -7137,7 +7292,15 @@
                     "top4": "['Ron MCKAIL (Con)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Ron MCKAIL (Con)": 1655,
+                "Iris Margaret WALKER (LD)": 1498,
+                "Fatima JOJI (SNP)": 1430,
+                "Craig MILLER (Con)": 605,
+                "Lesley YOUNG (Lab)": 434,
+                "Colin MCKAY (Alba)": 48,
+                "Stephen William CAMERON Independence for Scotland Party (UNKNOWN)": 36
+            }
         },
         "raw_data/scotland/processed_data/aberdeenshire22/v0001_ward-7-turriff-and-district_06052022_172118.csv": {
             "changes": {
@@ -7147,7 +7310,14 @@
                     "top4": "['Anne STIRLING (LD)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Iain Walker TAYLOR (Con)": 1075,
+                "Anne STIRLING (LD)": 1059,
+                "Alastair FORSYTH (SNP)": 792,
+                "Susan DUBOIS (SNP)": 740,
+                "Gordon LANG (Con)": 690,
+                "Kathryn Louise VINCENT (Grn)": 159
+            }
         },
         "raw_data/scotland/processed_data/aberdeenshire22/preferenceprofile_v0001_ward-19-mearns_06052022_172124.csv": {
             "changes": {
@@ -7167,7 +7337,19 @@
                     "top4": "['George CARR (Con)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Kevin STELFOX (SNP)": 1677,
+                "George CARR (Con)": 1217,
+                "Alison Elizabeth McBean EVISON (Ind)": 623,
+                "Laurie CARNIE (Con)": 619,
+                "Dave STEWART  (UNKNOWN)": 513,
+                "Shona EWEN (LD)": 377,
+                "Yvonne ALLAN (Lab)": 336,
+                "Douglas FRASER (Grn)": 194,
+                "Leigh WILSON (Alba)": 99,
+                "David Allen NEILL (Ind)": 75,
+                "Diane Elizabeth LAURENSON (SFP)": 52
+            }
         },
         "raw_data/scotland/processed_data/aberdeenshire22/Ward1-BanffandDistrict_ward1.csv": {
             "changes": {
@@ -7216,11 +7398,25 @@
                     "top4": "['Paul JOHNSTON (Ind)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Jenny NICOL (SNP)": 971,
+                "Paul JOHNSTON (Ind)": 916,
+                "Derek RITCHIE (Con)": 876,
+                "Sheila POWELL (Con)": 803,
+                "Andrew John HASSAN (LD)": 752,
+                "Kenny HUTCHISON (SNP)": 728
+            }
         },
         "raw_data/scotland/processed_data/aberdeenshire22/preferenceprofile_v0001_ward-12-east-garioch_06052022_172124.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Glen REID (SNP)": 1727,
+                "Dominic LONCHAY (Con)": 1156,
+                "Trevor Booth MASON (LD)": 398,
+                "Rosanna DOBBIN (Lab)": 323,
+                "Jim GIFFORD (Ind)": 321,
+                "Drew CULLINANE (Ind)": 290
+            }
         },
         "raw_data/scotland/processed_data/aberdeenshire22/preferenceprofile_v0001_ward-4-central-buchan_06052022_172124.csv": {
             "changes": {
@@ -7230,7 +7426,18 @@
                     "top4": "['Hannah POWELL (Con)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Hannah POWELL (Con)": 871,
+                "David MAIR (SNP)": 744,
+                "Geoff CROWSON (SNP)": 705,
+                "Steve OWEN (Con)": 679,
+                "Anne Margaret SIMPSON (LD)": 607,
+                "Norman John SMITH (Ind)": 527,
+                "Arif MAHMOOD (Lab)": 213,
+                "Jamie COLE-HAMILTON (Grn)": 135,
+                "Charlotte Diana CROSS (Alba)": 111,
+                "Joanna MOORE (SFP)": 65
+            }
         },
         "raw_data/scotland/processed_data/aberdeenshire22/Ward2-Troup_preferenceprofile_v0001_ward-2-troup_06052022_172123.csv": {
             "changes": {},
@@ -7250,7 +7457,15 @@
                     "top4": "['Louise MCALLISTER (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Isobel DAVIDSON (LD)": 1205,
+                "Louise MCALLISTER (SNP)": 1139,
+                "John CRAWLEY (Con)": 1050,
+                "Gillian OWEN (Con)": 906,
+                "Josh GALL (SNP)": 599,
+                "Mark LAPPIN (Lab)": 348,
+                "Craig William STEWART (Grn)": 241
+            }
         },
         "raw_data/scotland/processed_data/aberdeenshire22/v0001_ward-3-fraserburgh-and-district_06052022_172124.csv": {
             "changes": {
@@ -7260,7 +7475,15 @@
                     "top4": "['Doreen Anne Elizabeth MAIR (Ind)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "James ADAMS (Con)": 1526,
+                "Doreen Anne Elizabeth MAIR (Ind)": 1509,
+                "Seamus LOGAN (SNP)": 941,
+                "Brian TOPPING (Alba)": 274,
+                "Ann BELL (LD)": 228,
+                "Paul GREENALL (Ind)": 182,
+                "John MCCOLL (SFP)": 43
+            }
         },
         "raw_data/scotland/processed_data/aberdeenshire22/ward-14-huntly-strathbogie-and-howe-of-alford_06052022_172124.csv": {
             "changes": {
@@ -7275,11 +7498,28 @@
                     "top4": "['Lauren KNIGHT (Con)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Gwyneth Elaine PETRIE (SNP)": 1945,
+                "Lauren KNIGHT (Con)": 1491,
+                "Robbie WITHEY (Con)": 788,
+                "Jeff GOODHALL (LD)": 784,
+                "Bryan Scott BEGG (Lab)": 441,
+                "Rosie LEAGAS (Ind)": 152,
+                "Stuart WHITBY (Libtn)": 34
+            }
         },
         "raw_data/scotland/processed_data/aberdeenshire22/v0001_ward-5-peterhead-north-and-rattray_06052022_172118.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Leeann MCWHINNIE (SNP)": 1222,
+                "Dianne BEAGRIE (Ind)": 974,
+                "Matthew JAMES (Con)": 599,
+                "Alan S. BUCHAN (Ind)": 548,
+                "Iain SUTHERLAND (Con)": 523,
+                "Kevin Robert ANDERSON (LD)": 156,
+                "Trish MCPHERSON (Alba)": 99,
+                "Sharon BRADFORD (Ind)": 79
+            }
         },
         "raw_data/scotland/processed_data/aberdeenshire22/preferenceprofile_v0001_ward-10-west-garioch_06052022_172124.csv": {
             "changes": {
@@ -7299,11 +7539,25 @@
                     "top4": "['Hazel Linda SMITH (LD)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Moray Charles GRANT (SNP)": 1247,
+                "Sam PAYNE (Con)": 1150,
+                "Hazel Linda SMITH (LD)": 539,
+                "Sheena Margaret LONCHAY (Ind)": 451,
+                "Sasha BRYDON (Lab)": 324,
+                "Sebastian LESLIE (Ind)": 273,
+                "Anne MANSFIELD (Grn)": 182,
+                "Elaine Helen Grace MITCHELL (Alba)": 71
+            }
         },
         "raw_data/scotland/processed_data/aberdeenshire22/v0001_ward-6-peterhead-south-and-cruden_06052022_172115.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Stephen William SMITH (SNP)": 1578,
+                "George HALL (Con)": 1105,
+                "Colin Alexander SIMPSON (LD)": 414,
+                "Neil JOHNSTONE (Con)": 298
+            }
         },
         "raw_data/scotland/processed_data/aberdeenshire22/v0001_ward-15-aboyne-upper-deeside-and-donside_06052022_172124.csv": {
             "changes": {
@@ -7313,7 +7567,14 @@
                     "top4": "['Sarah BROWN (Con)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Geva BLACKETT (Ind)": 1098,
+                "Anouk KLOPPERT (SNP)": 1049,
+                "Sarah BROWN (Con)": 1029,
+                "Peter John ARGYLE (LD)": 846,
+                "Claudia LEITH (Con)": 640,
+                "John LAWSON (Lab)": 179
+            }
         },
         "raw_data/scotland/processed_data/aberdeenshire22/v0001_ward-16-banchory-and-mid-deeside_06052022_172124.csv": {
             "changes": {
@@ -7338,7 +7599,14 @@
                     "top4": "['Yi-pei CHOU TURVEY (LD)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Ann ROSS (Con)": 1211,
+                "Eileen DURNO (SNP)": 1158,
+                "Yi-pei CHOU TURVEY (LD)": 1040,
+                "Harriet CROSS (Con)": 852,
+                "Andy BROWN (Lab)": 536,
+                "Graeme CRAIB (SFP)": 35
+            }
         },
         "raw_data/scotland/processed_data/aberdeenshire22/preferenceprofile_v0001_ward-17-north-kincardine_06052022_172124.csv": {
             "changes": {
@@ -7348,7 +7616,17 @@
                     "top4": "['Shirley BURNETT (Con)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "David AITCHISON (SNP)": 1182,
+                "Shirley BURNETT (Con)": 855,
+                "Mel SULLIVAN (LD)": 850,
+                "Catherine Mary VICTOR (SNP)": 799,
+                "Jeff HUTCHISON (Con)": 620,
+                "Colin PIKE (Ind)": 527,
+                "Louise Claire ROSS (Grn)": 314,
+                "Alastair BEWS (Ind)": 255,
+                "Elizabeth Wilson LESLIE (SFP)": 75
+            }
         },
         "raw_data/scotland/processed_data/aberdeenshire22/v0001_ward-11-inverurie-and-district_06052022_172124.csv": {
             "changes": {
@@ -7358,11 +7636,27 @@
                     "top4": "['Neil BAILLIE (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "David KEATING (Con)": 1276,
+                "Neil BAILLIE (SNP)": 1200,
+                "Judy Margaret WHYTE (Ind)": 1120,
+                "Marion Jane Muir EWENSON (LD)": 843,
+                "Archie PEEBLES (SNP)": 343,
+                "Denise May ROTHNIE (Grn)": 187
+            }
         },
         "raw_data/scotland/processed_data/aberdeenshire22/v0001_ward-18-stonehaven-and-lower-deeside_06052022_172124.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Sarah DICKINSON (LD)": 1263,
+                "Wendy AGNEW (Con)": 1147,
+                "Dawn BLACK (SNP)": 951,
+                "Alan TURNER (Con)": 630,
+                "Dennis ROBERTSON (SNP)": 550,
+                "Ma SIMPSON (Ind)": 462,
+                "Raymond James CHRISTIE (Lab)": 383,
+                "Rachel Katherine SHANKS (Grn)": 173
+            }
         },
         "raw_data/scotland/processed_data/edinburgh22/Ward12-LeithWalk_ward12.csv": {
             "changes": {
@@ -7586,6 +7880,11 @@
                     "top4": "['Danny ASTON (SNP)']"
                 },
                 "minimax": {
+                    "numCands": 6,
+                    "baseline_winner": "['Shelly-Ann BROWN (SNP)']",
+                    "top4": "['Danny ASTON (SNP)']"
+                },
+                "smith": {
                     "numCands": 6,
                     "baseline_winner": "['Shelly-Ann BROWN (SNP)']",
                     "top4": "['Danny ASTON (SNP)']"
@@ -8416,19 +8715,47 @@
         },
         "raw_data/scotland/processed_data/highland22/V0001_North_West_and_Central_Sutherland_06052022_161534.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Marianne HUTCHISON (SNP)": 968,
+                "Michael BAIRD (LD)": 773,
+                "Hugh MORRISON (Ind)": 477,
+                "Charlotte GIBSON (Con)": 302,
+                "Clive SOLEY (Lab)": 108,
+                "Philipp TANZER (SFP)": 80,
+                "Robert Alan JARDINE (Freedom Alliance). People Power.Politics.": 48
+            }
         },
         "raw_data/scotland/processed_data/highland22/V0001_East_Sutherland_and_Edderton_06052022_161530.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Richard GALE (LD)": 1151,
+                "Leslie-anne NIVEN (SNP)": 853,
+                "Jim MCGILLIVRAY (Ind)": 611,
+                "Max BANNERMAN (Con)": 546,
+                "Harry CHRISTIAN (Libtn)": 53
+            }
         },
         "raw_data/scotland/processed_data/highland22/V0001_Wester_Ross_Strathpeffer_and_Lochalsh_06052022_161539.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Biz CAMPBELL (Ind)": 1552,
+                "Liz KRAFT (SNP)": 1234,
+                "Chris BIRT (SNP)": 988,
+                "Patrick LOGUE (Con)": 937,
+                "Margot KERR (LD)": 700
+            }
         },
         "raw_data/scotland/processed_data/highland22/PreferenceProfile_V0001_Culloden_and_Ardersier_06052022_161539.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Glynis CAMPBELL-SINCLAIR (SNP)": 1542,
+                "Mary SCANLON (Con)": 732,
+                "Morven REID (Ind)": 626,
+                "TRISH ROBERTSON (LD)": 626,
+                "Steven CALVERT (Lab)": 413,
+                "Mya CHEMONGES-MURZYNOWSKA (Alba)": 137,
+                "MEL ROBERTSON (Ind)": 24
+            }
         },
         "raw_data/scotland/processed_data/highland22/PreferenceProfile_V0001_Inverness_South_06052022_161540.csv": {
             "changes": {
@@ -8448,11 +8775,29 @@
                     "top4": "['Duncan MACPHERSON (Ind)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Ken GOWANS (SNP)": 1949,
+                "Duncan MACPHERSON (Ind)": 1375,
+                "Andrew SINCLAIR (Con)": 936,
+                "Colin AITKEN (LD)": 478,
+                "David JARDINE (Lab)": 402,
+                "Claire FILER (Grn)": 299,
+                "Jimmy DUNCAN (Alba)": 104
+            }
         },
         "raw_data/scotland/processed_data/highland22/PreferenceProfile_V0001_Inverness_West_06052022_161539.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Alex GRAHAM (LD)": 1198,
+                "Bill BOYD (SNP)": 1092,
+                "Ryan FORBES (Con)": 327,
+                "Shaun Alexander FRASER (Lab)": 295,
+                "Ryan MACKINTOSH (Grn) - Delivering for Our Community": 262,
+                "Duncan MCDONALD (Ind)": 173,
+                "Helen SMITH (Ind)": 100,
+                "Iain FORSYTH Independence for Scotland Party (UNKNOWN)": 46,
+                "David SANSUM (Ind)": 10
+            }
         },
         "raw_data/scotland/processed_data/highland22/PreferenceProfile_V0001_Aird_and_Loch_Ness_06052022_161539.csv": {
             "changes": {
@@ -8462,15 +8807,41 @@
                     "top4": "['David FRASER (Ind)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Emma KNOX (SNP)": 1364,
+                "David FRASER (Ind)": 1182,
+                "Helen CRAWFORD (Con)": 1099,
+                "Chris BALLANCE (Grn)": 528,
+                "Aarron DUNCAN-MACLEOD (Ind)": 430,
+                "Holly KINGHAM (LD)": 342,
+                "Michael PERERA (Lab)": 253
+            }
         },
         "raw_data/scotland/processed_data/highland22/PreferenceProfile_V0001_Nairn_and_Cawdor_06052022_161539.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Paul OLDHAM (SNP)": 1401,
+                "Laurie FRASER (Ind)": 1215,
+                "Michael GREEN (Ind)": 857,
+                "Barbara Babs JARVIE (Con)": 836,
+                "Kevin James REID (LD)": 540,
+                "Kevin BROOKS (Ind)": 192,
+                "Marjory SMITH (Alba)": 77,
+                "Cal MACLEOD (SFP)": 38
+            }
         },
         "raw_data/scotland/processed_data/highland22/PreferenceProfile_V0001_Badenoch_and_Strathspey_06052022_161540.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Russell JONES (Ind)": 1280,
+                "Muriel COCKBURN (SNP)": 886,
+                "John BRUCE (Con)": 861,
+                "Bill LOBBAN (Ind)": 842,
+                "Pippa HADLEY Re-elect your (Grn) Councillor": 568,
+                "Declan GALLACHER (LD)": 489,
+                "Dave FALLOWS (SNP)": 371,
+                "Charlie WHELAN (Lab)": 232
+            }
         },
         "raw_data/scotland/processed_data/highland22/BlackIsle_PreferenceProfile_V0001_Black_Isle_06052022_161539.csv": {
             "changes": {
@@ -8509,15 +8880,37 @@
                     "top4": "['Pauline MUNRO (Ind)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Tamala COLLIER (SNP)": 1127,
+                "Molly NOLAN (LD)": 1079,
+                "Pauline MUNRO (Ind)": 679,
+                "Maxine MORLEY-SMITH (Ind)": 283,
+                "Andrew Phillip BAXTER (Con)": 261,
+                "Kirsty STEWART (Lab)": 162,
+                "Kate STEVENSON (Ind)": 122,
+                "Daniel REAT (Grn)": 112,
+                "Eric FRASER (Ind)": 45
+            }
         },
         "raw_data/scotland/processed_data/highland22/PreferenceProfile_V0001_Inverness_Millburn_06052022_161539.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Ian BROWN (SNP)": 1430,
+                "David GREGG (LD)": 835,
+                "Isabelle MACKENZIE (Con)": 757,
+                "Lewis WHYTE (Lab)": 486
+            }
         },
         "raw_data/scotland/processed_data/highland22/V0001_Thurso_and_Northwest_Caithness_06052022_161528.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Ron GUNN (LD)": 1411,
+                "Matthew REISS (Ind)": 1049,
+                "Karl ROSIE (SNP)": 947,
+                "Struan MACKIE (Con)": 921,
+                "Iain GREGORY (Ind)": 660,
+                "Alexander GLASGOW (Ind)": 151
+            }
         },
         "raw_data/scotland/processed_data/highland22/PreferenceProfile_V0001_Inverness_Central_06052022_161539.csv": {
             "changes": {
@@ -8527,23 +8920,65 @@
                     "top4": "['Michael CAMERON (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Bet MCALLISTER (Lab)": 793,
+                "Michael CAMERON (SNP)": 769,
+                "Kate MACLEAN (SNP)": 589,
+                "Donald MACKENZIE (Con)": 420,
+                "Arun SHARMA (Grn)": 245,
+                "Martin RATTRAY (LD)": 211,
+                "Andrew BARNETT (Ind)": 141,
+                "Sean ROBERTSON (Soc)": 47,
+                "John William MCCOLL (SFP)": 45,
+                "Luigi Andrew MACKINNON (Ind)": 26
+            }
         },
         "raw_data/scotland/processed_data/highland22/PreferenceProfile_V0001_Wick_and_East_Caithness_06052022_161532.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Jan MCEWAN (LD)": 1245,
+                "Raymond BREMNER (SNP)": 1059,
+                "Andrew JARVIE (Con)": 632,
+                "A.I. Willie MACKAY (Ind)": 534,
+                "Bill FERNIE (Ind)": 438,
+                "Neil MACDONALD (Lab)": 272
+            }
         },
         "raw_data/scotland/processed_data/highland22/PreferenceProfile_V0001_Eilean_a__Che___06052022_161539.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "John FINLAYSON (Ind)": 1450,
+                "Drew MILLAR (SNP)": 1019,
+                "Calum MUNRO (Ind)": 583,
+                "Ruraidh STEWART (Con)": 485,
+                "Fay THOMSON (Ind)": 258,
+                "Donald MACDONALD (Ind)": 240,
+                "Hector MACLEOD (Alba)": 166,
+                "Peter \u00c3\u201c DONNGHAILE (Lab)": 157,
+                "Jack CLARK (LD)": 157
+            }
         },
         "raw_data/scotland/processed_data/highland22/V0001_Fort_William_and_Ardnamurchan_06052022_161540.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Angus MACDONALD (LD)": 1500,
+                "Sarah FANET (SNP)": 1341,
+                "Fiona FAWCETT (Con)": 404,
+                "Kate WILLIS (Grn)": 385,
+                "Thomas MACLENNAN (Ind)": 373
+            }
         },
         "raw_data/scotland/processed_data/highland22/PreferenceProfile_V0001_Dingwall_and_Seaforth_06052022_161539.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Graham Alexander MACKENZIE (SNP)": 1494,
+                "Angela MACLEAN (LD)": 773,
+                "Margaret PATERSON (Ind)": 698,
+                "Gavin BERKENHEGER (Con)": 650,
+                "Sean Edward KENNEDY (Ind)": 599,
+                "Les HOOD (Lab)": 216,
+                "Thomas WIDROW (Grn)": 210
+            }
         },
         "raw_data/scotland/processed_data/highland22/PreferenceProfile_V0001_Tain_and_Easter_Ross_06052022_161537.csv": {
             "changes": {
@@ -8553,11 +8988,25 @@
                     "top4": "['Alasdair RHIND (Ind)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Derek LOUDEN (SNP)": 1051,
+                "Sarah RAWLINGS (LD)": 739,
+                "Alasdair RHIND (Ind)": 726,
+                "Fiona ROBERTSON (Ind)": 554,
+                "Veronica MORRISON (Con)": 364
+            }
         },
         "raw_data/scotland/processed_data/highland22/PreferenceProfile_V0001_Inverness_Ness_side_06052022_161539.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Alasdair CHRISTIE Scottish (LD)": 1934,
+                "Jackie HENDRY (SNP)": 1270,
+                "Ric SCOTT (Con)": 379,
+                "Andrew MACKINTOSH (Lab)": 276,
+                "Ron MACWILLIAM (Ind)": 243,
+                "Claire MACLEAN (Grn)": 226,
+                "Calum Mark LIPTROT (Libtn)": 18
+            }
         },
         "raw_data/scotland/processed_data/edinburgh12-ballots/LeithWalkWard_edinburgh12-12.csv": {
             "changes": {
@@ -9271,7 +9720,16 @@
         },
         "raw_data/scotland/processed_data/stirling22/preferenceprofile_v0001_ward-6-stirling-east_06052022_124253.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Gerry MCLAUGHLAN (SNP)": 1177,
+                "Bryan FLANNAGAN (Con)": 893,
+                "Chris KANE (Lab)": 829,
+                "Grant THOMS (SNP)": 306,
+                "Gary MCGROW (Ind)": 303,
+                "Linda HENDRY (Grn)": 182,
+                "Gordon MURPHY (LD)": 91,
+                "David TORTOLANO (SFP)": 53
+            }
         },
         "raw_data/scotland/processed_data/stirling22/v0001_ward-3-dunblane-and-bridge-of-allan_06052022_124253.csv": {
             "changes": {
@@ -9286,11 +9744,30 @@
                     "top4": "['Alasdair TOLLEMACHE Re-elect your (Grn) Councillor']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Douglas DODDS (Con)": 1536,
+                "Graham HOUSTON (SNP)": 1266,
+                "Alasdair TOLLEMACHE Re-elect your (Grn) Councillor": 1138,
+                "Ewan DILLON (Lab)": 842,
+                "Fayzan REHMAN (LD)": 665,
+                "Willy STIRLING (Con)": 598,
+                "Ahsan KHAN (SNP)": 564,
+                "Alastair George MAJURY (Ind)": 377,
+                "Bill COWAN (Alba)": 61,
+                "Nickie WILLIS (SFP)": 50
+            }
         },
         "raw_data/scotland/processed_data/stirling22/preferenceprofile_v0001_ward-4-stirling-north_06052022_124253.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Susan MCGILL (SNP)": 1305,
+                "Rachel NUNN (Con)": 1161,
+                "Danny GIBSON (Labour and Co-operative Party)": 1029,
+                "Amy SMITH (Grn)": 695,
+                "Jim THOMSON (SNP)": 642,
+                "Oliver FRANKLIN (LD)": 190,
+                "Shena MCLELLAND (SFP)": 64
+            }
         },
         "raw_data/scotland/processed_data/stirling22/preferenceprofile_v0001_ward-7-bannockburn_06052022_124254.csv": {
             "changes": {
@@ -9300,7 +9777,16 @@
                     "top4": "['Brian HAMBLY (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "ALASDAIR MACPHERSON (Ind)": 955,
+                "Margaret BRISLEY (Lab)": 762,
+                "Brian HAMBLY (SNP)": 749,
+                "Stuart MCLUCKIE (Con)": 702,
+                "Diane TORTOLANO (SNP)": 306,
+                "Marie STADTLER (Grn)": 87,
+                "HILARY MACPHERSON (LD)": 77,
+                "Sophie HENDRY (SFP)": 41
+            }
         },
         "raw_data/scotland/processed_data/stirling22/preferenceprofile_v0001_ward-1-trossachs-and-teith_06052022_124254.csv": {
             "changes": {
@@ -9310,7 +9796,16 @@
                     "top4": "['Gene MAXWELL (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Martin EARL (Con)": 2031,
+                "Gene MAXWELL (SNP)": 1031,
+                "John WATSON (SNP)": 761,
+                "Josh HAMILTON (Lab)": 491,
+                "Wendy FAULKNER (Grn)": 444,
+                "Elaine WATTERSON (Con)": 385,
+                "Galen MILNE (LD)": 188,
+                "Dolores HUGHES (SFP)": 41
+            }
         },
         "raw_data/scotland/processed_data/stirling22/preferenceprofile_v0001_ward-2-forth-and-endrick_06052022_124253.csv": {
             "changes": {
@@ -9320,7 +9815,16 @@
                     "top4": "['Paul HENKE (Con)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Rosemary FRASER (SNP)": 1451,
+                "Paul HENKE (Con)": 1130,
+                "Thomas HEALD (Con)": 1043,
+                "Gerry MCGARVEY (Lab)": 846,
+                "Paul GOODWIN (SNP)": 671,
+                "Rob DAVIES (Ind)": 468,
+                "James MACLAREN (LD)": 345,
+                "Liam MCKECHNIE (SFP)": 69
+            }
         },
         "raw_data/scotland/processed_data/stirling22/preferenceprofile_v0001_ward-5-stirling-west_06052022_124253.csv": {
             "changes": {
@@ -9350,7 +9854,15 @@
                     "top4": "['Scott FARMER (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Neil BENNY (Con)": 1313,
+                "Scott FARMER (SNP)": 1207,
+                "Jen PRESTON (Lab)": 1100,
+                "Morag FULTON (SNP)": 760,
+                "Alastair PETTIGREW (Con)": 730,
+                "Dick MOERMAN (LD)": 285,
+                "Michael WILLIS (SFP)": 110
+            }
         },
         "raw_data/scotland/processed_data/s-lanarks22/Ward19-HamiltonSouth_ward_19_hamilton_south_preference_profile.csv": {
             "changes": {
@@ -9385,7 +9897,14 @@
         },
         "raw_data/scotland/processed_data/s-lanarks22/ward_16_bothwell_and_uddingston_preference_profile.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Maureen DEVLIN (Lab)": 1633,
+                "Kenny MCCREARY (Con)": 1485,
+                "Cal DEMPSEY (SNP)": 924,
+                "Jim MCGUIGAN (SNP)": 811,
+                "Troy DAVIDSON (LD)": 285,
+                "John Reid STUBBS (Grn)": 243
+            }
         },
         "raw_data/scotland/processed_data/s-lanarks22/ward_5_avondale_and_stonehouse_preference_profile.csv": {
             "changes": {
@@ -9400,7 +9919,15 @@
                     "top4": "['Margaret COOPER (Ind)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Margaret COOPER (Ind)": 1629,
+                "Elise FRAME (SNP)": 1454,
+                "Gary BURNS (Con)": 1416,
+                "Susan KERR (Lab)": 1363,
+                "Leigh PAYNE (SNP)": 495,
+                "Erica BRADLEY-YOUNG (Grn)": 437,
+                "Colin MACLAREN (Alba)": 75
+            }
         },
         "raw_data/scotland/processed_data/s-lanarks22/ward_10_east_kilbride_east_preference_profile.csv": {
             "changes": {
@@ -9410,7 +9937,15 @@
                     "top4": "['Gladys FERGUSON-MILLER (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Gladys FERGUSON-MILLER (SNP)": 1420,
+                "Graham SCOTT (Lab)": 1329,
+                "Graeme David MULLIN (Con)": 664,
+                "Kirsten ROBB (Grn)": 626,
+                "Robert GILLIES (SNP)": 420,
+                "Jim WARDHAUGH (Ind)": 336,
+                "Lorna GALL (LD)": 126
+            }
         },
         "raw_data/scotland/processed_data/s-lanarks22/ward_9_east_kilbride_west_preference_profile.csv": {
             "changes": {
@@ -9420,7 +9955,16 @@
                     "top4": "['Craig SLOAN (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Monique MCADAMS (Labour and Co-operative Party)": 1780,
+                "Ian HARROW (Con)": 1339,
+                "David WATSON (Ind)": 1248,
+                "Craig SLOAN (SNP)": 1041,
+                "Ali SALAMATI (SNP)": 1031,
+                "Huaiquan ZHANG (LD)": 142,
+                "Denise HAY (SFP)": 110,
+                "Yvonne MACKAY (UKIP)": 18
+            }
         },
         "raw_data/scotland/processed_data/s-lanarks22/Ward15-Blantyre_ward_15_blantyre_preference_profile.csv": {
             "changes": {
@@ -9453,11 +9997,28 @@
                     "top4": "['Colin DEWAR (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Davie MCLACHLAN (Labour and Co-operative Party)": 1539,
+                "Colin DEWAR (SNP)": 1442,
+                "Martin HOSE (Con)": 902,
+                "Phil SYKES (SNP)": 501,
+                "Andrew REYNOLDS (LD)": 249,
+                "Balarabe BABA (Ind)": 124
+            }
         },
         "raw_data/scotland/processed_data/s-lanarks22/ward_6_east_kilbride_south_preference_profile.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "ARCHIE BUCHANAN (SNP)": 1948,
+                "MATHEW BUCHANAN (Labour and Co-operative Party)": 1215,
+                "Paul MCGARRY (LD)": 722,
+                "Geri GRAY (SNP)": 621,
+                "Patrick NAILON (Con)": 458,
+                "John MCKECHNIE (Grn)": 154,
+                "Jonathan RICHARDSON (SFP)": 68,
+                "Iain LECKENBY (Alba)": 57,
+                "Ross GIBSON (Libtn)": 31
+            }
         },
         "raw_data/scotland/processed_data/s-lanarks22/ward_8_east_kilbride_central_north_preference_profile.csv": {
             "changes": {
@@ -9482,11 +10043,29 @@
                     "top4": "['Grant FERGUSON (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Grant FERGUSON (SNP)": 1889,
+                "Joe FAGAN (Lab)": 1709,
+                "Alex BROWN (Con)": 694,
+                "Hugh MACDONALD (SNP)": 612,
+                "Tam MITCHELL (Lab)": 420,
+                "Kristofer KEANE (Ind)": 194,
+                "Tom BRYSON (LD)": 187
+            }
         },
         "raw_data/scotland/processed_data/s-lanarks22/ward_7_east_kilbride_central_south_preference_profile.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "John ANDERSON (SNP)": 1570,
+                "Gerry CONVERY (Lab)": 1387,
+                "Elaine MCDOUGALL (SNP)": 713,
+                "Lisa QUARRELL (Lab)": 623,
+                "Alan FRASER (Con)": 473,
+                "Alan James CRESSWELL (Grn)": 202,
+                "Lorna CAMMOCK (LD)": 138,
+                "Rita BAILLIE (Alba)": 66,
+                "David MACKAY (UKIP)": 30
+            }
         },
         "raw_data/scotland/processed_data/s-lanarks22/ward_18_hamilton_west_and_earnock_preference_profile.csv": {
             "changes": {
@@ -9506,7 +10085,15 @@
                     "top4": "['Allan FALCONER (Lab)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Mary DONNELLY (SNP)": 1731,
+                "Allan FALCONER (Lab)": 1404,
+                "Graham William FISHER (Con)": 753,
+                "Mark MCGEEVER (LD)": 691,
+                "Graeme HORNE (SNP)": 680,
+                "Jim LEE (Lab)": 385,
+                "Leonard GINGELL (Grn)": 179
+            }
         },
         "raw_data/scotland/processed_data/s-lanarks22/Ward13-CambuslangWest_ward_13_cambuslang_west_preference_profile.csv": {
             "changes": {
@@ -9590,7 +10177,15 @@
                     "top4": "['Janine CALIKES (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Martin Patrick LENNON (Lab)": 1245,
+                "Janine CALIKES (SNP)": 1188,
+                "Andrea COWAN (SNP)": 725,
+                "Libby FOX (Con)": 609,
+                "Jack David MCGINTY (Lab)": 531,
+                "Gloria ADEBO (LD)": 517,
+                "Alex MCRAE (Grn)": 261
+            }
         },
         "raw_data/scotland/processed_data/s-lanarks22/Ward4-ClydesdaleSouth_ward_4_clydesdale_south_preference_profile.csv": {
             "changes": {
@@ -10315,7 +10910,15 @@
                     "top4": "['John MCLAREN (Lab)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Josh CAIRNS (SNP)": 1299,
+                "John MCLAREN (Lab)": 1159,
+                "Crissy SANDHU (Con)": 725,
+                "Claire Louise WILLIAMS (Grn)": 523,
+                "Margaret-Anne SHAW (Lab)": 521,
+                "Ian MACQUARRIE (SNP)": 467,
+                "Neil K CASEY (LD)": 154
+            }
         },
         "raw_data/scotland/processed_data/n-lanarks22/Ward1-Kilsyth_Preference Profile Ward 1 Kilsyth.csv": {
             "changes": {
@@ -10499,7 +11102,14 @@
                     "top4": "['Beth BAUDO (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Frank MCNALLY (Lab)": 1132,
+                "Beth BAUDO (SNP)": 974,
+                "Michael CLARKSON (SNP)": 642,
+                "Sheila CAMERON (Con)": 486,
+                "Jim REDDIN (Lab)": 364,
+                "John MARSHALL (Alba)": 198
+            }
         },
         "raw_data/scotland/processed_data/n-lanarks22/Ward18-MotherwellNorth_Preference Profile Ward 18 Motherwell North.csv": {
             "changes": {
@@ -10558,11 +11168,27 @@
         },
         "raw_data/scotland/processed_data/n-lanarks22/Preference Profile Ward 6 Gartcosh, Glenboig and Moodiesburn.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Greg LENNON (SNP)": 1365,
+                "Michael MCPAKE (Lab)": 929,
+                "Joseph BEEKMAN (Lab)": 826,
+                "Joanne Katy KELTIE (SNP)": 728,
+                "Norma RAESIDE (Con)": 421,
+                "Patrick Pearse MCALEER (Grn)": 203
+            }
         },
         "raw_data/scotland/processed_data/n-lanarks22/Preference Profile Ward 19 Motherwell South East and Ravenscraig.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Agnes MAGOWAN (SNP)": 1941,
+                "Kenneth DUFFY (Lab)": 1368,
+                "NATHAN WILSON (Con)": 1010,
+                "David ROBB (SNP)": 653,
+                "Michael ROSS (Lab)": 525,
+                "Derek WATSON (Grn)": 472,
+                "James Joseph MITCHELL (SFP)": 54,
+                "NEIL WILSON (UKIP)": 40
+            }
         },
         "raw_data/scotland/processed_data/n-lanarks22/Ward7-CoatbridgeNorth_Preference Profile WArd 7 Coatbridge North.csv": {
             "changes": {},
@@ -13493,7 +14119,13 @@
         },
         "raw_data/scotland/processed_data/shetland22/ward-5-lerwick-north-and-bressay-preference-profile.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Stephen LEASK (Ind)": 310,
+                "Gary ROBINSON (Ind)": 301,
+                "Arwed WENGER (Ind)": 136,
+                "Marie WILLIAMSON (Ind)": 115,
+                "Stephen FERGUSON (Ind)": 66
+            }
         },
         "raw_data/scotland/processed_data/shetland22/Ward3-ShetlandWest_ward-3-shetland-west-preference-profile.csv": {
             "changes": {},
@@ -13933,6 +14565,11 @@
                     "top4": "['Andrew Phillip BAXTER (Ind)']"
                 },
                 "minimax": {
+                    "numCands": 8,
+                    "baseline_winner": "['Thomas MACLENNAN (Ind)']",
+                    "top4": "['Andrew Phillip BAXTER (Ind)']"
+                },
+                "smith": {
                     "numCands": 8,
                     "baseline_winner": "['Thomas MACLENNAN (Ind)']",
                     "top4": "['Andrew Phillip BAXTER (Ind)']"
@@ -14959,7 +15596,16 @@
         },
         "raw_data/scotland/processed_data/fife22/V0001_Ward-14-Glenrothes-North-Leslie-and-Markinch_06052022_151925.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "John BEARE (SNP)": 1730,
+                "Peter GULLINE (Con)": 1161,
+                "Lynn MOWATT (SNP)": 1059,
+                "Jan WINCOTT (Lab)": 940,
+                "Afifa KHANAM (Lab)": 714,
+                "Frances Jean BENNIE (LD)": 318,
+                "Bryce GOODALL (Grn)": 224,
+                "George Thomas CARRATT (SFP)": 109
+            }
         },
         "raw_data/scotland/processed_data/fife22/PreferenceProfile_V0001_Ward-7-Cowdenbeath_06052022_145532.csv": {
             "changes": {
@@ -14969,7 +15615,17 @@
                     "top4": "['Alie BAIN (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Alex CAMPBELL (Lab)": 2028,
+                "Alie BAIN (SNP)": 1916,
+                "Darren WATT (Con)": 1256,
+                "Bailey-Lee ROBB (SNP)": 513,
+                "Gary GUICHAN (Lab)": 489,
+                "Alyssa LEE (Grn)": 169,
+                "Peter James VENTURI (LD)": 96,
+                "Jacqueline BIJSTER (Alba)": 85,
+                "Helen Foster GREIG (SFP)": 80
+            }
         },
         "raw_data/scotland/processed_data/fife22/PreferenceProfile_V0001_Ward-2-Dunfermline-North_06052022_151927.csv": {
             "changes": {
@@ -14979,7 +15635,16 @@
                     "top4": "['Auxi BARRERA (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Gordon PRYDE (Lab)": 1627,
+                "Auxi BARRERA (SNP)": 1350,
+                "Gavin ELLIS (Con)": 1017,
+                "Craig Robert MCIVOR (SNP)": 882,
+                "Caroline MCILWRAITH (LD)": 363,
+                "Mags HALL (Grn)": 338,
+                "Karen Margaret SMITH (SFP)": 80,
+                "Dave EDLER (Soc)": 53
+            }
         },
         "raw_data/scotland/processed_data/fife22/PreferenceProfile_V0001_Ward-10-Kirkcaldy-North_06052022_151928.csv": {
             "changes": {
@@ -14989,19 +15654,54 @@
                     "top4": "['Carol LINDSAY (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "David ROSS (Lab)": 1804,
+                "Carol LINDSAY (SNP)": 1661,
+                "James LESLIE (Con)": 789,
+                "Sally WALSH (SNP)": 352,
+                "Ryan SMART (Lab)": 213,
+                "Michael COLLIE (Grn)": 204,
+                "Craig DEMPSEY (Alba)": 101,
+                "Gerald HADDRELL (UKIP)": 45
+            }
         },
         "raw_data/scotland/processed_data/fife22/V0001_Ward-15-Glenrothes-Central-and-Thornton_06052022_145551.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Ross VETTRAINO (SNP)": 1588,
+                "Derek James NOBLE (Lab)": 1299,
+                "Daniel WILSON (SNP)": 679,
+                "Heather GULLINE (Con)": 561,
+                "Jane Lawrence KERR (LD)": 183,
+                "Morven Jane OVENSTONE-JONES (Grn)": 170,
+                "Jim BRYCE (Alba)": 101,
+                "Steve SAUNDERS (SFP)": 71
+            }
         },
         "raw_data/scotland/processed_data/fife22/PreferenceProfile_V0001_Ward-3-Dunfermline-Central_06052022_145551.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Aude BOUBAKER-CALDER (LD)": 1970,
+                "Derek Gareth GLEN (SNP)": 1603,
+                "Jean HALL MUIR (SNP)": 1057,
+                "Jim LEISHMAN (Lab)": 1055,
+                "Garry Kirwin HALDANE (Lab)": 909,
+                "Malcolm MACAULAY (Con)": 752,
+                "Lewis CAMPBELL (Grn)": 478,
+                "Leanne TERVIT (Alba)": 94,
+                "Gary Christopher PRATT (SFP)": 53
+            }
         },
         "raw_data/scotland/processed_data/fife22/V0001_Ward-13-Glenrothes-West-and-Kinglassie_06052022_145551.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Julie Christina FORD (SNP)": 1740,
+                "Altany Steel Andrew CRAIK (Lab)": 1491,
+                "Craig WALKER (SNP)": 533,
+                "David CROLL (Con)": 531,
+                "Keith William SMITH (LD)": 174,
+                "Ian ROBERTSON  (UNKNOWN)": 119
+            }
         },
         "raw_data/scotland/processed_data/fife22/V0001_Ward-1-West-Fife-and-Coastal-Villages_06052022_145537.csv": {
             "changes": {
@@ -15011,7 +15711,18 @@
                     "top4": "['Sam STEELE (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Graeme James DOWNIE (Lab)": 1482,
+                "Sam STEELE (SNP)": 1301,
+                "Conner YOUNG (Con)": 1017,
+                "Katie Margaret STRANG (SNP)": 837,
+                "Jacqueline MCKENNA (Lab)": 458,
+                "Jo COCKBURN (LD)": 399,
+                "Craig MCCUTCHEON (Grn)": 246,
+                "Danny SMITH (SFP)": 94,
+                "William GAVIN (Alba)": 83,
+                "Martin James KEATINGS  (UNKNOWN)": 46
+            }
         },
         "raw_data/scotland/processed_data/fife22/Ward5-Rosyth_PreferenceProfile_V0001_Ward-5-Rosyth_06052022_145544.csv": {
             "changes": {
@@ -15035,7 +15746,15 @@
         },
         "raw_data/scotland/processed_data/fife22/V0001_Ward-16-Howe-Of-Fife-and-Tay-Coast_06052022_151928.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "David Victor MACDIARMID (SNP)": 1871,
+                "Donald Norman LOTHIAN (LD)": 1448,
+                "Gary Richard HOLT (LD)": 1261,
+                "Andy HEER (Con)": 880,
+                "Malcolm JACK (Grn)": 458,
+                "Jackie ANDERSON (Alba)": 58,
+                "Alan Henry BROWN (SFP)": 54
+            }
         },
         "raw_data/scotland/processed_data/fife22/PreferenceProfile_V0001_Ward-11-Kirkcaldy-Central_06052022_145551.csv": {
             "changes": {
@@ -15050,31 +15769,91 @@
                     "top4": "['Judy HAMILTON (Lab)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Blair ALLAN (SNP)": 1005,
+                "Alistair CAMERON (Lab)": 984,
+                "Judy HAMILTON (Lab)": 915,
+                "Zoe HISBENT (SNP)": 723,
+                "Graham DUNCAN (Con)": 619,
+                "Tao Jack Alexander Ruaridh MACLEOD (Grn)": 203,
+                "Karen UTTING (LD)": 115
+            }
         },
         "raw_data/scotland/processed_data/fife22/V0001_Ward-6-Inverkeithing-and-Dalgety-Bay_06052022_151927.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "David BARRATT (SNP)": 2187,
+                "Patrick Charles BROWNE (Lab)": 1426,
+                "Dave DEMPSEY (Con)": 1355,
+                "Dave COLEMAN (Con)": 897,
+                "Sarah NEAL (SNP)": 802,
+                "Ryan BLACKADDER (Grn)": 634,
+                "Callum John HAWTHORNE (LD)": 309,
+                "Sarah Ann DAVIS (SFP)": 93
+            }
         },
         "raw_data/scotland/processed_data/fife22/V0001_Ward-21-Leven-Kennoway-and-Largo_06052022_145552.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "David ALEXANDER (SNP)": 2077,
+                "Colin DAVIDSON (Lab)": 1348,
+                "Eugene McDonald CLARKE (LD)": 1268,
+                "Alistair Belford SUTTIE (SNP)": 707,
+                "Graham RITCHIE (Con)": 683,
+                "Jacob Stewart WINTON (Lab)": 271,
+                "Iain Duncan MORRICE (Grn)": 156,
+                "Davina Graham SAUNDERS (SFP)": 49
+            }
         },
         "raw_data/scotland/processed_data/fife22/PreferenceProfile_V0001_Ward-17-Tay-Bridgehead_06052022_145551.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Louise KENNEDY-DALBY (SNP)": 1783,
+                "Jonny TEPP (LD)": 1692,
+                "Allan McLean KNOX (LD)": 1333,
+                "Keith BARTON (Con)": 527,
+                "Colin Neil Alexander PALMER (Grn)": 397,
+                "Philip THOMPSON (Lab)": 271,
+                "Sean David ELDER  (UNKNOWN)": 177,
+                "Steven SIMPSON (Alba)": 100
+            }
         },
         "raw_data/scotland/processed_data/fife22/PreferenceProfile_V0001_Ward-18-St.-Andrews_06052022_151928.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Jane Ann LISTON (LD)": 1265,
+                "Al CLARK (LD)": 1161,
+                "Ann VERNER (SNP)": 1123,
+                "Robin LAWSON (Con)": 742,
+                "Rosalind GARTON (Lab)": 422,
+                "Fergus Ramsay COOK (Grn)": 335
+            }
         },
         "raw_data/scotland/processed_data/fife22/V0001_Ward-19-East-Neuk-and-Landward_06052022_145551.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Fiona CORPS (LD)": 1721,
+                "Alycia Helen HAYES (SNP)": 1345,
+                "Debbie MACCALLUM (Con)": 707,
+                "Sean Frazer DILLON (LD)": 679,
+                "Linda Martha HOLT (Ind)": 404,
+                "David STUTCHFIELD (Grn)": 281,
+                "Stuart IRWIN (Lab)": 139,
+                "John James McIntosh DOCHERTY (Ind)": 80
+            }
         },
         "raw_data/scotland/processed_data/fife22/V0001_Ward-22-Buckhaven-Methil-and-Wemyss-Villages_06052022_151928.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Ken CALDWELL (SNP)": 1532,
+                "David GRAHAM (Lab)": 1248,
+                "John O'BRIEN (SNP)": 890,
+                "Thomas McKenzie Christie ADAMS (Lab)": 809,
+                "Brian MILLS (Con)": 330,
+                "Celyn Jean Emlyn ASHWORTH (LD)": 117,
+                "Jerome VAN LEEUWEN (Grn)": 113,
+                "Susan BLAIR (Alba)": 66
+            }
         },
         "raw_data/scotland/processed_data/fife22/Ward20-Cupar_PreferenceProfile_V0001_Ward-20-Cupar_06052022_151928.csv": {
             "changes": {},
@@ -15098,7 +15877,18 @@
                     "top4": "['Lynn BALLANTYNE WARDLAW (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "James CALDER (LD)": 1523,
+                "Cara HILTON (Lab)": 1505,
+                "Lynn BALLANTYNE WARDLAW (SNP)": 1316,
+                "Naz ANIS-MIAH (SNP)": 1292,
+                "David ROSS (Con)": 825,
+                "Martin John WILLCOCKS  (UNKNOWN)": 541,
+                "Ross PATERSON (Lab)": 304,
+                "Tom FREEMAN (Grn)": 279,
+                "Paul LYNCH (SFP)": 105,
+                "Rob THOMPSON (Alba)": 103
+            }
         },
         "raw_data/scotland/processed_data/fife22/Ward-9-Burntisland-Kinghorn-and-Western-Kirkcaldy_06052022_145551.csv": {
             "changes": {
@@ -15108,11 +15898,30 @@
                     "top4": "['Julie MACDOUGALL (Lab)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Lesley Rankin BACKHOUSE (SNP)": 1735,
+                "Julie MACDOUGALL (Lab)": 1730,
+                "Kathleen LESLIE (Con)": 1239,
+                "Olaf David STANDO (SNP)": 493,
+                "Claire Emily LUXFORD (Grn)": 336,
+                "Anne O'BRIEN (LD)": 209,
+                "Colin FRASER (Alba)": 76,
+                "Garry V DOWNIE (SFP)": 40,
+                "Andrew Ewan BENTLEY-STEED Independence for Scotland Party (UNKNOWN)": 33
+            }
         },
         "raw_data/scotland/processed_data/fife22/V0001_Ward-8-Lochgelly-Cardenden-and-Benarty_06052022_151928.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Mary BAIN-LOCKHART (Lab)": 1230,
+                "Rosemary LIEWALD (SNP)": 1173,
+                "Lea MCLELLAND (SNP)": 965,
+                "Linda Wilson Martin ERSKINE (Lab)": 925,
+                "Margaret FAIRGRIEVE (Con)": 379,
+                "Danny OSWALD (Grn)": 115,
+                "Russel MCPHATE (LD)": 88,
+                "Anil ALEXANDER (SFP)": 72
+            }
         },
         "raw_data/scotland/processed_data/fife22/PreferenceProfile_V0001_Ward-12-Kirkcaldy-East_06052022_151925.csv": {
             "changes": {
@@ -15122,7 +15931,16 @@
                     "top4": "['Rod CAVANAGH (SNP)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Ian John CAMERON (Lab)": 1313,
+                "Rod CAVANAGH (SNP)": 924,
+                "Nicola PATRICK (SNP)": 687,
+                "Richard WATT (Con)": 469,
+                "George MACDONALD (Lab)": 273,
+                "David HANSEN (Grn)": 172,
+                "Wink THOMPSON (LD)": 116,
+                "Walter NEILSON (Sovereignty)": 41
+            }
         },
         "raw_data/scotland/processed_data/scottish by-elections/Ward4-LivingstonSouth_West Lothian 2021 by-election Ward_4.csv": {
             "changes": {},
@@ -15215,7 +16033,13 @@
                     "top4": "['Neal BLACK (UNKNOWN)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Craig HOY (UNKNOWN)": 2212,
+                "Lorraine GLASS (UNKNOWN)": 1866,
+                "Neal BLACK (UNKNOWN)": 1359,
+                "Stuart CRAWFORD (UNKNOWN)": 774,
+                "David SISSON (UNKNOWN)": 108
+            }
         },
         "raw_data/scotland/processed_data/scottish by-elections/Ward7-FalkirkSouth_Falkirk 2021 by-election South.csv": {
             "changes": {},
@@ -15228,7 +16052,14 @@
         },
         "raw_data/scotland/processed_data/scottish by-elections/clackmannanshire 2019 by-election ward 3 central.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Jane MCTAGGART (UNKNOWN)": 865,
+                "Margaret BROOKES (UNKNOWN)": 675,
+                "William MARLIN (UNKNOWN)": 419,
+                "Dawson MICHIE (UNKNOWN)": 69,
+                "Marion ROBERTSON (UNKNOWN)": 53,
+                "John Shier BIGGAM (UNKNOWN)": 36
+            }
         },
         "raw_data/scotland/processed_data/scottish by-elections/Glasgow by-election 2021 Ward 23 Partick East-Kelvindale.csv": {
             "changes": {
@@ -15238,7 +16069,14 @@
                     "top4": "['Blair ANDERSON (UNKNOWN)']"
                 }
             },
-            "candidates": {}
+            "candidates": {
+                "Abdul BOSTANI (UNKNOWN)": 2084,
+                "Jill BROWN (UNKNOWN)": 1836,
+                "Blair ANDERSON (UNKNOWN)": 1200,
+                "Naveed ASGHAR (UNKNOWN)": 1084,
+                "Tahir JAMEEL (UNKNOWN)": 259,
+                "Donald MACKAY (UNKNOWN)": 33
+            }
         },
         "raw_data/scotland/processed_data/scottish by-elections/Ward1-Strathmartine_Dundee 2024 by-election Starthmartine.csv": {
             "changes": {
@@ -15259,15 +16097,39 @@
         },
         "raw_data/scotland/processed_data/scottish by-elections/Aberdeen City Torry-Ferryhill Ward by election 2019.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Audrey NICOLL (UNKNOWN)": 1618,
+                "Neil MURRAY (UNKNOWN)": 972,
+                "Willie YOUNG (UNKNOWN)": 395,
+                "Gregor MCABERY (UNKNOWN)": 315,
+                "Betty LYON (UNKNOWN)": 304,
+                "Simon Paul MCLEAN (UNKNOWN)": 86,
+                "Roy HILL (UNKNOWN)": 53
+            }
         },
         "raw_data/scotland/processed_data/scottish by-elections/North Lanarkshire 2023 by-election Motherweel South East and Ravenscraig.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Kaye HARMON (Lab) and Co-Operative Party": 1368,
+                "Rosa ZAMBONINI (SNP)": 934,
+                "Oyebola AJALA (Con)": 296,
+                "Derek WATSON (Grn)": 255,
+                "Billy ACHESON British Unionists - For a Better Britain (UNKNOWN)": 96,
+                "Robert Stewart MCGEORGE (LD)": 68,
+                "Mark SHIELDS (Alba)": 66,
+                "Neil WILSON (UKIP)": 24
+            }
         },
         "raw_data/scotland/processed_data/scottish by-elections/West Lothian 2021 by-election Ward_5.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Thomas George ULLATHORNE (UNKNOWN)": 1890,
+                "David PHILIP (UNKNOWN)": 1085,
+                "Danny LOGUE (UNKNOWN)": 969,
+                "Neal DRUMMOND (UNKNOWN)": 336,
+                "Hans EDGINGTON (UNKNOWN)": 118,
+                "John HANNAH (UNKNOWN)": 47
+            }
         },
         "raw_data/scotland/processed_data/scottish by-elections/Ward7-Strathallan_Perth and Kinross 2024 by-election Ward 7.csv": {
             "changes": {},
@@ -15340,7 +16202,12 @@
         },
         "raw_data/scotland/processed_data/scottish by-elections/aberdeenshire by-election 2016 inverurie and district.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Colin Clark (UNKNOWN)": 1302,
+                "Neil Baillie (UNKNOWN)": 1164,
+                "Alison Auld (UNKNOWN)": 755,
+                "Sarah Flavell (UNKNOWN)": 139
+            }
         },
         "raw_data/scotland/processed_data/scottish by-elections/Ward2-Lochee_Dundee 2024 by-election Lochee.csv": {
             "changes": {
@@ -15440,11 +16307,27 @@
         },
         "raw_data/scotland/processed_data/scottish by-elections/Stirling 2024 August by-election ward 3.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Stuart MCLUCKIE (Con)": 1143,
+                "David WILSON (Lab)": 952,
+                "John WATSON (SNP)": 770,
+                "Andrew ADAM (Grn)": 659,
+                "Dick MOERMAN (LD)": 345,
+                "Alastair George MAJURY (Ind)": 225
+            }
         },
         "raw_data/scotland/processed_data/scottish by-elections/Aberdeen_2023_by_election_Dyce_Bucksburn_Danestone.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Tomasz BRZEZINSKI (SNP)": 1455,
+                "Graeme LAWRENCE (Lab)": 1227,
+                "Akila KANTHASWAMY (Con)": 1190,
+                "Mevrick FERNANDES (LD)": 452,
+                "Charlie ABEL (Alba)": 178,
+                "Sylvia HARDIE (Grn)": 111,
+                "Amy\u2010Marie STRATTON (SFP)Pro\u2010Life": 60,
+                "Simon MCLEAN (Ind)": 52
+            }
         },
         "raw_data/scotland/processed_data/scottish by-elections/Ward7-TainandEasterRoss_Highland 2023 by-election Ward 7.csv": {
             "changes": {},
@@ -15465,8 +16348,7 @@
                 "Wilma,LUMSDEN (UNKNOWN)": 1327,
                 "Dave MACKENZIE (UNKNOWN)": 219,
                 "George HAYTON (UNKNOWN)": 157,
-                "Denise BAYKAL (UNKNOWN)": 77,
-                "skipped": 5
+                "Denise BAYKAL (UNKNOWN)": 77
             }
         },
         "raw_data/scotland/processed_data/scottish by-elections/Ward5-InverclydeWest_Inverclyde 2024 by-election ward 5.csv": {
@@ -15503,7 +16385,14 @@
         },
         "raw_data/scotland/processed_data/scottish by-elections/North Lanarkshire 2024 by-election Ward 16.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Helena GRAY (Lab)": 616,
+                "Shahnawaz KHAN (SNP)": 586,
+                "Duncan MACMILLAN Reform UK (UNKNOWN)": 263,
+                "Aimee ALEXANDER (Con)": 127,
+                "John COLE (LD)": 83,
+                "Neil WILSON (UKIP)": 11
+            }
         },
         "raw_data/scotland/processed_data/scottish by-elections/Ward10-PerthCitySouth_Perth Kinross 2017 by-election Ward 10.csv": {
             "changes": {},
@@ -15538,7 +16427,13 @@
         },
         "raw_data/scotland/processed_data/scottish by-elections/Aberdeenshire 2020 by-election Ellon and District.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Louise MCALLISTER (UNKNOWN)": 1683,
+                "John Paul CRAWLEY (UNKNOWN)": 1658,
+                "Trevor Booth MASON (UNKNOWN)": 405,
+                "John David BENNETT (UNKNOWN)": 114,
+                "Peter Alexander KENNEDY (UNKNOWN)": 112
+            }
         },
         "raw_data/scotland/processed_data/scottish by-elections/Ward5-LeaderdaleandMelrose_Scottish Borders 2021 by-elction Ward 5.csv": {
             "changes": {
@@ -15560,7 +16455,13 @@
         },
         "raw_data/scotland/processed_data/scottish by-elections/East Ayrshire by-election 2024 Ward 3.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Jayne SANGSTER (Lab)": 1213,
+                "Marie ROBERTSON (SNP)": 1025,
+                "Allan MACDONALD (Con)": 623,
+                "Lee MANLEY (LD)": 145,
+                "Stephen MCNAMARA  (UNKNOWN)": 75
+            }
         },
         "raw_data/scotland/processed_data/scottish by-elections/Ward12-EastGarioch_Aberdeenshire 2021 by-election East Garioch.csv": {
             "changes": {},
@@ -15606,11 +16507,25 @@
         },
         "raw_data/scotland/processed_data/scottish by-elections/aberdeenshire by-election 2017 inverurie.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Lesley BERRY (UNKNOWN)": 1672,
+                "Elaine MITCHELL (UNKNOWN)": 1146,
+                "Scott James BREMNER (UNKNOWN)": 295,
+                "Sarah FLAVELL (UNKNOWN)": 276,
+                "Craig STEWART (UNKNOWN)": 56
+            }
         },
         "raw_data/scotland/processed_data/scottish by-elections/Highland 2021 by-election Fort William.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Sarah FANET (SNP)": 905,
+                "Ruraidh STEWART (Con)": 485,
+                "Kate WILLIS (Grn)": 328,
+                "Roger LILEY (LD)": 231,
+                "Andy MCKENNA (Ind)": 194,
+                "Joanne MATHESON (Ind)": 88,
+                "Mark DRAYTON . (UNKNOWN)": 56
+            }
         },
         "raw_data/scotland/processed_data/scottish by-elections/Ward13-InvernessWest_highland 2021 by-election Inverness West.csv": {
             "changes": {},
@@ -15626,7 +16541,15 @@
         },
         "raw_data/scotland/processed_data/scottish by-elections/South Lanarkshire 2019 by-election East Kilbride.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Grant FERGUSON (UNKNOWN)": 1582,
+                "Kirsty WILLIAMS (UNKNOWN)": 690,
+                "Graham William FISHER (UNKNOWN)": 498,
+                "Paul MCGARRY (UNKNOWN)": 422,
+                "Antony LEE (UNKNOWN)": 153,
+                "David MACKAY (UNKNOWN)": 48,
+                "Stephen MCNAMARA (UNKNOWN)": 12
+            }
         },
         "raw_data/scotland/processed_data/scottish by-elections/Ward11-PerthCityNorth_Perth and Kinross 2024 by-election Ward 11.csv": {
             "changes": {},
@@ -15659,7 +16582,11 @@
         },
         "raw_data/scotland/processed_data/scottish by-elections/aberdeenshire by-election 2016 Banff and District.csv": {
             "changes": {},
-            "candidates": {}
+            "candidates": {
+                "Iain Taylor (UNKNOWN)": 1170,
+                "Glen Reynolds (UNKNOWN)": 962,
+                "Alistair Mason (UNKNOWN)": 526
+            }
         },
         "raw_data/scotland/processed_data/scottish by-elections/Ward4-CentralBuchan_aberdeenshire 2024 by-election ward 4.csv": {
             "changes": {},
@@ -17305,6 +18232,11 @@
                     "numCands": 8,
                     "baseline_winner": "['Ian DICKSON (SNP)']",
                     "top4": "['John Kelly MILLAR (Lab)']"
+                },
+                "smith": {
+                    "numCands": 8,
+                    "baseline_winner": "['Ian DICKSON (SNP)', 'John Kelly MILLAR (Lab)', 'Michelle Marie MCGINTY (Lab)']",
+                    "top4": "['Michelle Marie MCGINTY (Lab)', 'John Kelly MILLAR (Lab)', 'Ian DICKSON (SNP)']"
                 }
             },
             "candidates": {
@@ -18136,6 +19068,11 @@
                 "minimax": {
                     "numCands": 7,
                     "baseline_winner": "['(Con) Roger GRANT']",
+                    "top4": "['(Con) Peter DIGGLE']"
+                },
+                "smith": {
+                    "numCands": 7,
+                    "baseline_winner": "['(Con) Gail MACGREGOR', '(Con) Roger GRANT', '(Con) Peter DIGGLE']",
                     "top4": "['(Con) Peter DIGGLE']"
                 },
                 "smith_irv": {

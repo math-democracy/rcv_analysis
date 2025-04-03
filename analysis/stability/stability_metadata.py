@@ -6,7 +6,7 @@ def gen_metadata(country):
     file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/{country}_results_top{num_cands_kept}.csv'  # Replace with file path
     df = pd.read_csv(file_path)
 
-    methods = ['plurality','IRV','top-two','borda-pm','borda-om','borda-avg','top-3-truncation','condorcet','minimax','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','approval']
+    methods = ['plurality','IRV','top-two','borda-pm','borda-om','borda-avg','top-3-truncation','condorcet','minimax','smith','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','approval']
     
 
     files = {}
@@ -89,7 +89,7 @@ def gen_metadata(country):
 
     print(f"Grouped changes with metadata have been exported to {output_file}")
 
-gen_metadata('america')
+#gen_metadata('america')
 #gen_metadata('australia')
-#gen_metadata('scotland')
+gen_metadata('scotland')
 #gen_metadata('civs')

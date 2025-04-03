@@ -4,12 +4,13 @@ import json
 with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/metadata/party_breakdown.json', 'r') as file:
     party_info = json.load(file)
 
+root = 'raw_data/scotland/processed_data/'
 
-def gen_metadata(filepath):
+def gen_metadata(file_path):
     num_cands_kept = 4
     df = pd.read_csv(file_path)
 
-    methods = ['plurality','IRV','top-two','borda-pm','borda-om','borda-avg','top-3-truncation','condorcet','minimax','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','approval']
+    methods = ['plurality','IRV','top-two','borda-pm','borda-om','borda-avg','top-3-truncation','condorcet','minimax','smith','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','approval']
     
     files = {}
     method_counts = dict.fromkeys(methods, 0)
@@ -19,10 +20,10 @@ def gen_metadata(filepath):
     file_summary = {method: [] for method in methods}
 
     for _, row in df.iterrows():
-        #candidates = party_info[f'raw_data/scotland/processed_data/{row['file'].replace('analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/','')}']['party_dict']
-        #parties = party_info[f'raw_data/scotland/processed_data/{row['file'].replace('analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/','')}']['parties']
-        candidates = party_info[f'{row['file']}']['party_dict']
-        parties = party_info[f'{row['file']}']['parties']
+        candidates = party_info[f'raw_data/scotland/processed_data/{row['file'].replace(root,'')}']['party_dict']
+        parties = party_info[f'raw_data/scotland/processed_data/{row['file'].replace(root,'')}']['parties']
+        #candidates = party_info[f'{row['file']}']['party_dict']
+        #parties = party_info[f'{row['file']}']['parties']
 
         changes = {}
         
@@ -80,6 +81,6 @@ def gen_metadata(filepath):
 # gen_metadata('america')
 # gen_metadata('australia')
 METHOD = 'mention_score'
-file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/{METHOD}/scotland_results_top4.csv'  # Replace with file path
+file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/borda_score/stability/scotland_results_top4.csv'  # Replace with file path
 gen_metadata(file_path)
 # gen_metadata('civs')

@@ -1,7 +1,7 @@
 import json
 import ast
 
-methods = ['plurality','IRV','top-two','borda-pm','borda-om','borda-avg','top-3-truncation','condorcet','minimax','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','approval']
+methods = ['plurality','IRV','top-two','borda-pm','borda-om','borda-avg','top-3-truncation','condorcet','minimax','smith','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','approval']
 files = {}
 
 def get_party(candidate):
@@ -84,8 +84,8 @@ def get_comparisons(filepath):
 
 
 def main():
-    METHOD = 'mention_score'
-    filepath = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/{METHOD}/single_v_multi_comparison.json'
+    METHOD = 'first_place_score'
+    filepath = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/{METHOD}/stability/single_v_multi_comparison.json'
     output_data = get_comparisons(filepath)
 
     # write to output file

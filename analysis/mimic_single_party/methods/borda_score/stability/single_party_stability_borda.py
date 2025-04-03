@@ -11,7 +11,7 @@ from itertools import groupby
 
 num_cands_to_keep = 4
 METHOD = 'borda'
-data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/borda_score/scotland_results_top{num_cands_to_keep}.csv'
+data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/borda_score/stability/scotland_results_top{num_cands_to_keep}.csv'
 root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data'
 
 error_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/borda_score/supporting_files/scotland_error.txt'
@@ -30,9 +30,7 @@ with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analy
 
 # method options: 'borda','mention','first_place' 
 #   for each party, only keep the cand with the highest borda, mention, or first place score
-def get_condensed_cands(filepath, method):
-    filename = filepath.split('/')[-1]
-
+def get_condensed_cands(filepath, filename, method):
     if method == 'borda':
         with open(borda_file) as file:
             scores = json.load(file)
@@ -46,16 +44,18 @@ def get_condensed_cands(filepath, method):
     party_info = party_breakdown[filepath]
     candidate_dict = party_info['party_dict']
 
+    # get corresponding scores for filename
     if filename in scores:
         candidate_scores = scores[filename]
     else:
-        new_filename = [f for f in scores if f.endswith(filename)]
-        if len(new_filename) != 1:
-            with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/metadata/error.txt', "a") as no_score:
-                no_score.write(f"{method}: {filepath}\n")
-            candidate_scores = None
-        else: 
-            candidate_scores = scores[new_filename[0]]
+        if filename == '3_dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv':
+            new_filename = ['Ward3-Dalkeith_ward_3_dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv']
+        elif filename == 'dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv':
+            new_filename = ['Ward6-MidlothianSouth_ward_6_midlothian_south_dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv']
+        else:
+            new_filename = [f for f in scores if f.endswith(filename)]
+
+        candidate_scores = scores[new_filename[0]]
     
     if candidate_scores:
         grouped_by_party = {i: [j[0] for j in j] for i, j in groupby(sorted(candidate_dict.items(), key = lambda x : x[1]), lambda x : x[1])}
@@ -68,19 +68,6 @@ def get_condensed_cands(filepath, method):
 
     return list(cands_to_keep)
     
-# def get_cands_to_keep(profile, condensed_cands, num_cands, num_cands_to_keep):
-#     # get top4 plurality winners
-#         # if there are less than 5 candidates, then top4 and top5 are both the whole candidate list
-#     prof = mm.process_cands(profile, condensed_cands)
-
-#     if num_cands > num_cands_to_keep:
-#         cands_to_keep = vk.Plurality(profile=prof,m=num_cands_to_keep,tiebreak='first_place').election_states[-1].elected
-#         cands_to_keep = [list(w)[0] for w in cands_to_keep]
-#     else:
-#         cands_to_keep = list(prof.candidates)
-
-#     return cands_to_keep
-
 def get_cands_to_keep(profile, condensed_cands, num_cands, num_cands_to_keep):
     prof = mm.process_cands(profile, condensed_cands)
 
@@ -99,8 +86,8 @@ def get_cands_to_keep(profile, condensed_cands, num_cands, num_cands_to_keep):
     return cands_to_keep
     
 def run_voting_methods(full_path, filename):
-    condensed_cands = get_condensed_cands(full_path.replace('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/',''), METHOD)
-    
+    condensed_cands = get_condensed_cands(full_path.replace('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/',''), filename, METHOD)
+    print(condensed_cands)
     if condensed_cands:
         num_cands = len([x for x in condensed_cands if x != 'skipped'])
         
@@ -125,26 +112,27 @@ def run_voting_methods(full_path, filename):
         data['numCands'] = num_cands
 
         # get result of election considering all candidates
-        data['plurality'] = list(mm.Plurality(prof=v,cands_to_keep=condensed_cands,tiebreak='first_place'))
-        data['IRV'] = list(mm.IRV(prof=v,cands_to_keep=condensed_cands,tiebreak='first_place'))
+        data['plurality'] = list(mm.Plurality(prof=v,cands_to_keep=condensed_cands, tiebreak='first_place'))
+        data['IRV'] = list(mm.IRV(prof=v,cands_to_keep=condensed_cands, tiebreak='first_place'))
         data['top-two'] = list(mm.TopTwo(prof=v,cands_to_keep=condensed_cands,tiebreak='first_place'))
         data['borda-pm'] = list(mm.Borda_PM(prof=v,cands_to_keep=condensed_cands,tiebreak='first_place'))
         data['borda-om'] = list(mm.Borda_OM(prof=v,cands_to_keep=condensed_cands,tiebreak='first_place'))
         data['borda-avg'] = list(mm.Borda_AVG(prof=v,cands_to_keep=condensed_cands,tiebreak='first_place'))
-        data['top-3-truncation'] = mm.Top3Truncation(prof=v,cands_to_keep=condensed_cands,tiebreak='first_place')
+        data['top-3-truncation'] = mm.Top3Truncation(prof=v,cands_to_keep=condensed_cands, tiebreak='first_place')
         # sometimes top-3-trunc returns a list not a set
         if isinstance(data['top-3-truncation'], str):
             data['top-3-truncation'] = [data['top-3-truncation']]
         else:
             data['top-3-truncation'] = list(data['top-3-truncation'])
-        data['condorcet'] = list(mm.Condorcet(prof=v,cands_to_keep=condensed_cands,tiebreak='first_place'))
-        data['minimax'] = list(mm.Minimax(prof=v,cands_to_keep=condensed_cands,tiebreak='first_place'))
-        data['smith_plurality'] = list(mm.Smith_Plurality(prof=v,cands_to_keep=condensed_cands,tiebreak='first_place'))
-        data['smith_irv'] = list(mm.Smith_IRV(prof=v,cands_to_keep=condensed_cands,tiebreak='first_place'))
-        data['smith-minimax'] = list(mm.Smith_Minimax(prof=v,cands_to_keep=condensed_cands,tiebreak='first_place'))
-        data['ranked-pairs'] = list(mm.Ranked_Pairs(prof=v,cands_to_keep=condensed_cands,tiebreak='first_place'))
-        data['bucklin'] = list(mm.Bucklin(prof=v,cands_to_keep=condensed_cands,tiebreak='first_place'))
-        data['approval'] = list(mm.Ranked_Pairs(prof=v,cands_to_keep=condensed_cands,tiebreak='first_place'))
+        data['condorcet'] = list(mm.Condorcet(prof=v,cands_to_keep=condensed_cands, tiebreak='first_place'))
+        data['minimax'] = list(mm.Minimax(prof=v,cands_to_keep=condensed_cands, tiebreak='first_place'))
+        data['smith'] = list(mm.Smith(prof=v, cands_to_keep=condensed_cands, tiebreak='first_place'))
+        data['smith_plurality'] = list(mm.Smith_Plurality(prof=v,cands_to_keep=condensed_cands, tiebreak='first_place'))
+        data['smith_irv'] = list(mm.Smith_IRV(prof=v,cands_to_keep=condensed_cands, tiebreak='first_place'))
+        data['smith-minimax'] = list(mm.Smith_Minimax(prof=v,cands_to_keep=condensed_cands, tiebreak='first_place'))
+        data['ranked-pairs'] = list(mm.Ranked_Pairs(prof=v,cands_to_keep=condensed_cands, tiebreak='first_place'))
+        data['bucklin'] = list(mm.Bucklin(prof=v,cands_to_keep=condensed_cands, tiebreak='first_place'))
+        data['approval'] = list(mm.Ranked_Pairs(prof=v,cands_to_keep=condensed_cands, tiebreak='first_place'))
 
         # get top 4 based on plurality score
         cands_to_keep = get_cands_to_keep(v, condensed_cands, num_cands, num_cands_to_keep)
@@ -156,13 +144,14 @@ def run_voting_methods(full_path, filename):
         data[f'top{num_cands_to_keep}_borda-pm'] = list(mm.Borda_PM(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
         data[f'top{num_cands_to_keep}_borda-om'] = list(mm.Borda_OM(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
         data[f'top{num_cands_to_keep}_borda-avg'] = list(mm.Borda_AVG(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
-        data[f'top{num_cands_to_keep}_top-3-truncation'] = mm.Top3Truncation(prof=v, cands_to_keep=cands_to_keep,tiebreak='first_place')
+        data[f'top{num_cands_to_keep}_top-3-truncation'] = mm.Top3Truncation(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place')
         # sometimes top-3-trunc returns a list not a set
         if isinstance(data[f'top{num_cands_to_keep}_top-3-truncation'], str):
             data[f'top{num_cands_to_keep}_top-3-truncation'] = [data[f'top{num_cands_to_keep}_top-3-truncation']]
         else:
             data[f'top{num_cands_to_keep}_top-3-truncation'] = list(data[f'top{num_cands_to_keep}_top-3-truncation'])
         data[f'top{num_cands_to_keep}_condorcet'] = list(mm.Condorcet(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
+        data[f'top{num_cands_to_keep}_smith'] = list(mm.Smith(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
         data[f'top{num_cands_to_keep}_minimax'] = list(mm.Minimax(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
         data[f'top{num_cands_to_keep}_smith_plurality'] = list(mm.Smith_Plurality(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
         data[f'top{num_cands_to_keep}_smith_irv'] = list(mm.Smith_IRV(prof=v, cands_to_keep=cands_to_keep, tiebreak='first_place'))
@@ -221,5 +210,15 @@ def main():
                         print("\n")
 
 if __name__ == '__main__':
-    process_file('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data/midlothian22/dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv','Ward6-MidlothianSouth_ward_6_midlothian_south_dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv')
-    #main()
+    #process_file('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data/midlothian22/dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv','Ward6-MidlothianSouth_ward_6_midlothian_south_dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv')
+    # main()
+    files = ["/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data/midlothian22/dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv",
+"/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data/n-lanarks12-ballots/Ward2CumbernauldNorth_n-lanarks12-02.csv",
+"/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv",
+"/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv",
+"/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data/n-ayrshire12-ballots/Ward03-Kilwinning_n-ayrshire12-03.csv"]
+    
+    for file in files:
+        filename = file.split('/')[-1]
+        print(filename)
+        process_file(file, filename)

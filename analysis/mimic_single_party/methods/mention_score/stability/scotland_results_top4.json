@@ -12,8 +12,9 @@
             "top-3-truncation": 84,
             "condorcet": 1,
             "minimax": 1,
+            "smith": 1,
             "smith_plurality": 3,
-            "smith_irv": 2,
+            "smith_irv": 1,
             "smith-minimax": 1,
             "ranked-pairs": 1,
             "bucklin": 35,
@@ -34,7 +35,6 @@
                 "raw_data/scotland/processed_data/highland17-ballots/Ward6-CromartyFirth_highland17-06.csv",
                 "raw_data/scotland/processed_data/highland17-ballots/Ward1-North,WestandCentralSutherland_highland17-01.csv",
                 "raw_data/scotland/processed_data/eilean-siar12-ballots/SteornabhaghaTuath_eilean-siar12-07.csv",
-                "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv",
                 "raw_data/scotland/processed_data/perth-kinross12-ballots/Kinross-shire_perth-kinross12-08.csv",
                 "raw_data/scotland/processed_data/aberdeenshire22/preferenceprofile_v0001_ward-19-mearns_06052022_172124.csv",
                 "raw_data/scotland/processed_data/aberdeenshire22/preferenceprofile_v0001_ward-9-ellon-and-district_06052022_172124.csv",
@@ -54,7 +54,8 @@
                 "raw_data/scotland/processed_data/highland12-ballots/InvernessNess-sideWard_highland12-16.csv",
                 "raw_data/scotland/processed_data/fife22/PreferenceProfile_V0001_Ward-10-Kirkcaldy-North_06052022_151928.csv",
                 "raw_data/scotland/processed_data/scottish by-elections/Ward12-AirdandLochNess_Highland 2021 by-election Aird Ward 3.csv",
-                "raw_data/scotland/processed_data/fife17-ballots/Ward11-KirkcaldyCentral_fife17-11.csv"
+                "raw_data/scotland/processed_data/fife17-ballots/Ward11-KirkcaldyCentral_fife17-11.csv",
+                "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv"
             ],
             "IRV": [],
             "top-two": [
@@ -77,11 +78,11 @@
                 "raw_data/scotland/processed_data/edinburgh17-ballots/Ward15-Southside-Newington_edinburgh17-15.csv",
                 "raw_data/scotland/processed_data/midlothian17-ballots/MidlothianEast_midlothian17-05.csv",
                 "raw_data/scotland/processed_data/midlothian17-ballots/Penicuik_midlothian17-01.csv",
-                "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv",
                 "raw_data/scotland/processed_data/perth-kinross17-ballots/Ward8-Kinross-shire_perth-kinross17-08.csv",
                 "raw_data/scotland/processed_data/highland12-ballots/InvernessWestWard_highland12-14.csv",
                 "raw_data/scotland/processed_data/fife17-ballots/Ward3-DunfermlineCentral_fife17-03.csv",
-                "raw_data/scotland/processed_data/dumgal12-ballots/CastleDouglasandGlenkensWard_dumgal12-05.csv"
+                "raw_data/scotland/processed_data/dumgal12-ballots/CastleDouglasandGlenkensWard_dumgal12-05.csv",
+                "raw_data/scotland/processed_data/n-ayrshire12-ballots/Ward03-Kilwinning_n-ayrshire12-03.csv"
             ],
             "borda-pm": [
                 "raw_data/scotland/processed_data/glasgow12/Ward11Hillhead_glasgow12-11.csv",
@@ -190,7 +191,6 @@
                 "raw_data/scotland/processed_data/midlothian17-ballots/MidlothianWest_midlothian17-04.csv",
                 "raw_data/scotland/processed_data/falkirk12-ballots/BonnybridgeandLarbert_falkirk12-05.csv",
                 "raw_data/scotland/processed_data/falkirk12-ballots/Grangemouth_falkirk12-02.csv",
-                "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv",
                 "raw_data/scotland/processed_data/perth-kinross17-ballots/Ward2-Strathmore_perth-kinross17-02.csv",
                 "raw_data/scotland/processed_data/perth-kinross17-ballots/Ward5-Strathtay_perth-kinross17-05.csv",
                 "raw_data/scotland/processed_data/clackmannanshire22/Ward5ClackmannanshireEast_ward5.csv",
@@ -224,7 +224,8 @@
                 "raw_data/scotland/processed_data/aberdeen2022/Midstocket-RosemountWard_Ward7.csv",
                 "raw_data/scotland/processed_data/aberdeen2022/LowerDeesideWard_Ward9.csv",
                 "raw_data/scotland/processed_data/e-ayrshire22/Ward1-Annick_Ward1.csv",
-                "raw_data/scotland/processed_data/midlothian22/dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv"
+                "raw_data/scotland/processed_data/midlothian22/dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv",
+                "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv"
             ],
             "borda-avg": [
                 "raw_data/scotland/processed_data/glasgow12/Ward11Hillhead_glasgow12-11.csv",
@@ -243,8 +244,6 @@
                 "raw_data/scotland/processed_data/s-lanarks22/ward_18_hamilton_west_and_earnock_preference_profile.csv",
                 "raw_data/scotland/processed_data/aberdeen2017/DyceBucksburnDanestoneWard_aberdeen17-01.csv",
                 "raw_data/scotland/processed_data/edinburgh17-ballots/Ward15-Southside-Newington_edinburgh17-15.csv",
-                "raw_data/scotland/processed_data/n-lanarks12-ballots/Ward2CumbernauldNorth_n-lanarks12-02.csv",
-                "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv",
                 "raw_data/scotland/processed_data/perth-kinross17-ballots/Ward12-PerthCityCentre_perth-kinross17-12.csv",
                 "raw_data/scotland/processed_data/clackmannanshire22/Ward5ClackmannanshireEast_ward5.csv",
                 "raw_data/scotland/processed_data/eilean-siar17-ballots/Ste\u00f2rnabhaghaTuath_eilean-siar17-07.csv",
@@ -258,7 +257,9 @@
                 "raw_data/scotland/processed_data/moray17-ballots/Forres_moray17-08.csv",
                 "raw_data/scotland/processed_data/orkney17-ballots/NorthIslesWard_orkney17-06.csv",
                 "raw_data/scotland/processed_data/orkney17-ballots/KirkwallEastWard_orkney17-01.csv",
-                "raw_data/scotland/processed_data/aberdeen2012/Ward8-GeorgeStreet-Harbour_aberdeen12-08.csv"
+                "raw_data/scotland/processed_data/aberdeen2012/Ward8-GeorgeStreet-Harbour_aberdeen12-08.csv",
+                "raw_data/scotland/processed_data/n-lanarks12-ballots/Ward2CumbernauldNorth_n-lanarks12-02.csv",
+                "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv"
             ],
             "top-3-truncation": [
                 "raw_data/scotland/processed_data/dumgal17-ballots/AnnandaleSouth_dumgal17-10.csv",
@@ -316,10 +317,7 @@
                 "raw_data/scotland/processed_data/edinburgh17-ballots/Ward5-Inverleith_edinburgh17-05.csv",
                 "raw_data/scotland/processed_data/edinburgh17-ballots/Ward15-Southside-Newington_edinburgh17-15.csv",
                 "raw_data/scotland/processed_data/midlothian17-ballots/MidlothianWest_midlothian17-04.csv",
-                "raw_data/scotland/processed_data/n-lanarks12-ballots/Ward2CumbernauldNorth_n-lanarks12-02.csv",
-                "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv",
                 "raw_data/scotland/processed_data/glasgow17-ballots/Ward23PartickEastKelvindale_glasgow17-023.csv",
-                "raw_data/scotland/processed_data/n-ayrshire12-ballots/Ward03-Kilwinning_n-ayrshire12-03.csv",
                 "raw_data/scotland/processed_data/perth-kinross17-ballots/Ward8-Kinross-shire_perth-kinross17-08.csv",
                 "raw_data/scotland/processed_data/renfs17-ballots/Ward1-RenfrewNorthandBraehead_renfs17-01.csv",
                 "raw_data/scotland/processed_data/renfs17-ballots/Ward7-PaisleySouthwest_renfs17-07.csv",
@@ -344,7 +342,10 @@
                 "raw_data/scotland/processed_data/fife17-ballots/Ward4-DunfermlineSouth_fife17-04.csv",
                 "raw_data/scotland/processed_data/w-duns17-ballots/Leven_w-duns17-02.csv",
                 "raw_data/scotland/processed_data/w-duns17-ballots/Lomond_w-duns17-01.csv",
-                "raw_data/scotland/processed_data/e-ayrshire22/Ward1-Annick_Ward1.csv"
+                "raw_data/scotland/processed_data/e-ayrshire22/Ward1-Annick_Ward1.csv",
+                "raw_data/scotland/processed_data/n-lanarks12-ballots/Ward2CumbernauldNorth_n-lanarks12-02.csv",
+                "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv",
+                "raw_data/scotland/processed_data/n-ayrshire12-ballots/Ward03-Kilwinning_n-ayrshire12-03.csv"
             ],
             "condorcet": [
                 "raw_data/scotland/processed_data/highland12-ballots/FortWilliamandArdnamurchanWard_highland12-22.csv"
@@ -352,13 +353,15 @@
             "minimax": [
                 "raw_data/scotland/processed_data/highland12-ballots/FortWilliamandArdnamurchanWard_highland12-22.csv"
             ],
-            "smith_plurality": [
-                "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv",
-                "raw_data/scotland/processed_data/n-ayrshire12-ballots/Ward03-Kilwinning_n-ayrshire12-03.csv",
+            "smith": [
                 "raw_data/scotland/processed_data/highland12-ballots/FortWilliamandArdnamurchanWard_highland12-22.csv"
             ],
-            "smith_irv": [
+            "smith_plurality": [
+                "raw_data/scotland/processed_data/highland12-ballots/FortWilliamandArdnamurchanWard_highland12-22.csv",
                 "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv",
+                "raw_data/scotland/processed_data/n-ayrshire12-ballots/Ward03-Kilwinning_n-ayrshire12-03.csv"
+            ],
+            "smith_irv": [
                 "raw_data/scotland/processed_data/highland12-ballots/FortWilliamandArdnamurchanWard_highland12-22.csv"
             ],
             "smith-minimax": [
@@ -2594,28 +2597,6 @@
                 "Lab": 1
             }
         },
-        "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv": {
-            "changes": {
-                "plurality": {
-                    "numCands": 7,
-                    "baseline_winner": "['ALASDAIR MACLEOD (Ind)']",
-                    "top4": "['Zena STEWART (Ind)']"
-                }
-            },
-            "candidates": {
-                "Iain Don MACIVER (Ind)": "Iain Don MACIVER (Ind)",
-                "Donald NICHOLSON (Ind)": "Donald NICHOLSON (Ind)",
-                "ALASDAIR MACLEOD (Ind)": "ALASDAIR MACLEOD (Ind)",
-                "Zena STEWART (Ind)": "Zena STEWART (Ind)",
-                "NORMAN M MACLEOD (Ind)": "NORMAN M MACLEOD (Ind)",
-                "Donald John MACSWEEN (Ind)": "Donald John MACSWEEN (Ind)",
-                "John Norman Orica MACDONALD (SNP)": "SNP"
-            },
-            "parties": {
-                "Ind": 6,
-                "SNP": 1
-            }
-        },
         "raw_data/scotland/processed_data/e-ayrshire17-ballots/IrvineValley_e-ayrshire17-06.csv": {
             "changes": {
                 "borda-om": {
@@ -2944,7 +2925,7 @@
             "changes": {
                 "borda-om": {
                     "numCands": 5,
-                    "baseline_winner": "['Ryan James Andrew THOMSON (Ind)', 'Alec George PRIEST (Ind)']",
+                    "baseline_winner": "['Alec George PRIEST (Ind)', 'Ryan James Andrew THOMSON (Ind)']",
                     "top4": "['Ryan James Andrew THOMSON (Ind)']"
                 },
                 "bucklin": {
@@ -5111,37 +5092,6 @@
                 "Lab": 1
             }
         },
-        "raw_data/scotland/processed_data/n-lanarks12-ballots/Ward2CumbernauldNorth_n-lanarks12-02.csv": {
-            "changes": {
-                "borda-avg": {
-                    "numCands": 5,
-                    "baseline_winner": "['Bob CHADHA (Lab)']",
-                    "top4": "['Bob CHADHA (Lab)', 'Alan MASTERTON (SNP)']"
-                },
-                "top-3-truncation": {
-                    "numCands": 5,
-                    "baseline_winner": "['Alan MASTERTON (SNP)']",
-                    "top4": "['Bob CHADHA (Lab)']"
-                }
-            },
-            "candidates": {
-                "Andrew ROBERTS (SNP)": "SNP",
-                "Bob CHADHA (Lab)": "Lab",
-                "Barry MCCULLOCH (Lab)": "Lab",
-                "Kevin MCMAIL (SNP)": "SNP",
-                "Alan O\ufffdBRIEN (CICA)": "CICA",
-                "Arthur PAWSON (Con)": "Con",
-                "Alan MASTERTON (SNP)": "SNP",
-                "John MILLER(Soc)": "Soc"
-            },
-            "parties": {
-                "SNP": 3,
-                "Lab": 2,
-                "CICA": 1,
-                "Con": 1,
-                "Soc": 1
-            }
-        },
         "raw_data/scotland/processed_data/falkirk12-ballots/BonnybridgeandLarbert_falkirk12-05.csv": {
             "changes": {
                 "borda-om": {
@@ -5220,58 +5170,6 @@
                 "LD": 1
             }
         },
-        "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv": {
-            "changes": {
-                "top-two": {
-                    "numCands": 6,
-                    "baseline_winner": "['Maureen BURKE (Lab)']",
-                    "top4": "['Ruairi KELLY (SNP)']"
-                },
-                "borda-om": {
-                    "numCands": 6,
-                    "baseline_winner": "['Ruairi KELLY (SNP)']",
-                    "top4": "['Maureen BURKE (Lab)']"
-                },
-                "borda-avg": {
-                    "numCands": 6,
-                    "baseline_winner": "['Ruairi KELLY (SNP)']",
-                    "top4": "['Maureen BURKE (Lab)']"
-                },
-                "top-3-truncation": {
-                    "numCands": 6,
-                    "baseline_winner": "['Ruairi KELLY (SNP)']",
-                    "top4": "['Maureen BURKE (Lab)']"
-                },
-                "smith_plurality": {
-                    "numCands": 6,
-                    "baseline_winner": "['Ruairi KELLY (SNP)']",
-                    "top4": "['Maureen BURKE (Lab)']"
-                },
-                "smith_irv": {
-                    "numCands": 6,
-                    "baseline_winner": "['Maureen BURKE (Lab)']",
-                    "top4": "['Ruairi KELLY (SNP)']"
-                }
-            },
-            "candidates": {
-                "Ruairi KELLY (SNP)": "SNP",
-                "Gerry BOYLE (Ind)": "Gerry BOYLE (Ind)",
-                "Carole URE (Grn)": "Grn",
-                "Frances HOWELL (Con)": "Con",
-                "Maureen BURKE (Lab)": "Lab",
-                "Mandy MORGAN (SNP)": "SNP",
-                "Stephen DOCHERTY (Lab)": "Lab",
-                "Jenny KIERNAN (Sol)": "Sol"
-            },
-            "parties": {
-                "SNP": 2,
-                "Ind": 1,
-                "Grn": 1,
-                "Con": 1,
-                "Lab": 2,
-                "Sol": 1
-            }
-        },
         "raw_data/scotland/processed_data/glasgow17-ballots/Ward23PartickEastKelvindale_glasgow17-023.csv": {
             "changes": {
                 "top-3-truncation": {
@@ -5324,40 +5222,6 @@
                 "SNP": 3,
                 "Con": 1,
                 "Grn": 1
-            }
-        },
-        "raw_data/scotland/processed_data/n-ayrshire12-ballots/Ward03-Kilwinning_n-ayrshire12-03.csv": {
-            "changes": {
-                "top-3-truncation": {
-                    "numCands": 7,
-                    "baseline_winner": "['Joe CULLINANE (Lab)']",
-                    "top4": "['John FERGUSON (SNP)']"
-                },
-                "smith_plurality": {
-                    "numCands": 7,
-                    "baseline_winner": "['Joe CULLINANE (Lab)']",
-                    "top4": "['John FERGUSON (SNP)']"
-                }
-            },
-            "candidates": {
-                "Helen HAINEY (Lab)": "Lab",
-                "Joe CULLINANE (Lab)": "Lab",
-                "Stuart GARDINER (LD)": "LD",
-                "Andy JONES (Lab)": "Lab",
-                "Colin HEDLEY (Ind)": "Colin HEDLEY (Ind)",
-                "Philip HOGG (Ind)": "Philip HOGG (Ind)",
-                "Robert STEEL (Ind)": "Robert STEEL (Ind)",
-                "Scott GALLACHER (Con)": "Con",
-                "John FERGUSON (SNP)": "SNP",
-                "Iain WALKER (SNP)": "SNP",
-                "Donald REID (Lab)": "Lab"
-            },
-            "parties": {
-                "Lab": 4,
-                "LD": 1,
-                "Ind": 3,
-                "Con": 1,
-                "SNP": 2
             }
         },
         "raw_data/scotland/processed_data/perth-kinross17-ballots/Ward8-Kinross-shire_perth-kinross17-08.csv": {
@@ -5902,6 +5766,11 @@
                     "top4": "['William Keelie MACDONALD (SNP)']"
                 },
                 "minimax": {
+                    "numCands": 7,
+                    "baseline_winner": "['Thomas MACLENNAN (Ind)']",
+                    "top4": "['William Keelie MACDONALD (SNP)']"
+                },
+                "smith": {
                     "numCands": 7,
                     "baseline_winner": "['Thomas MACLENNAN (Ind)']",
                     "top4": "['William Keelie MACDONALD (SNP)']"
@@ -7379,6 +7248,140 @@
                 "Con": 1,
                 "Grn": 1,
                 "Alba": 1
+            }
+        },
+        "raw_data/scotland/processed_data/n-lanarks12-ballots/Ward2CumbernauldNorth_n-lanarks12-02.csv": {
+            "changes": {
+                "borda-avg": {
+                    "numCands": 5,
+                    "baseline_winner": "['Bob CHADHA (Lab)']",
+                    "top4": "['Bob CHADHA (Lab)', 'Alan MASTERTON (SNP)']"
+                },
+                "top-3-truncation": {
+                    "numCands": 5,
+                    "baseline_winner": "['Alan MASTERTON (SNP)']",
+                    "top4": "['Bob CHADHA (Lab)']"
+                }
+            },
+            "candidates": {
+                "Andrew ROBERTS (SNP)": "SNP",
+                "Bob CHADHA (Lab)": "Lab",
+                "Barry MCCULLOCH (Lab)": "Lab",
+                "Kevin MCMAIL (SNP)": "SNP",
+                "Alan O\ufffdBRIEN (CICA)": "CICA",
+                "Arthur PAWSON (Con)": "Con",
+                "Alan MASTERTON (SNP)": "SNP",
+                "John MILLER(Soc)": "Soc"
+            },
+            "parties": {
+                "SNP": 3,
+                "Lab": 2,
+                "CICA": 1,
+                "Con": 1,
+                "Soc": 1
+            }
+        },
+        "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv": {
+            "changes": {
+                "plurality": {
+                    "numCands": 7,
+                    "baseline_winner": "['ALASDAIR MACLEOD (Ind)']",
+                    "top4": "['Zena STEWART (Ind)']"
+                }
+            },
+            "candidates": {
+                "Iain Don MACIVER (Ind)": "Iain Don MACIVER (Ind)",
+                "Donald NICHOLSON (Ind)": "Donald NICHOLSON (Ind)",
+                "ALASDAIR MACLEOD (Ind)": "ALASDAIR MACLEOD (Ind)",
+                "Zena STEWART (Ind)": "Zena STEWART (Ind)",
+                "NORMAN M MACLEOD (Ind)": "NORMAN M MACLEOD (Ind)",
+                "Donald John MACSWEEN (Ind)": "Donald John MACSWEEN (Ind)",
+                "John Norman Orica MACDONALD (SNP)": "SNP"
+            },
+            "parties": {
+                "Ind": 6,
+                "SNP": 1
+            }
+        },
+        "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv": {
+            "changes": {
+                "borda-om": {
+                    "numCands": 6,
+                    "baseline_winner": "['Ruairi KELLY (SNP)']",
+                    "top4": "['Maureen BURKE (Lab)']"
+                },
+                "borda-avg": {
+                    "numCands": 6,
+                    "baseline_winner": "['Ruairi KELLY (SNP)']",
+                    "top4": "['Maureen BURKE (Lab)']"
+                },
+                "top-3-truncation": {
+                    "numCands": 6,
+                    "baseline_winner": "['Ruairi KELLY (SNP)']",
+                    "top4": "['Maureen BURKE (Lab)']"
+                },
+                "smith_plurality": {
+                    "numCands": 6,
+                    "baseline_winner": "['Ruairi KELLY (SNP)']",
+                    "top4": "['Maureen BURKE (Lab)']"
+                }
+            },
+            "candidates": {
+                "Ruairi KELLY (SNP)": "SNP",
+                "Gerry BOYLE (Ind)": "Gerry BOYLE (Ind)",
+                "Carole URE (Grn)": "Grn",
+                "Frances HOWELL (Con)": "Con",
+                "Maureen BURKE (Lab)": "Lab",
+                "Mandy MORGAN (SNP)": "SNP",
+                "Stephen DOCHERTY (Lab)": "Lab",
+                "Jenny KIERNAN (Sol)": "Sol"
+            },
+            "parties": {
+                "SNP": 2,
+                "Ind": 1,
+                "Grn": 1,
+                "Con": 1,
+                "Lab": 2,
+                "Sol": 1
+            }
+        },
+        "raw_data/scotland/processed_data/n-ayrshire12-ballots/Ward03-Kilwinning_n-ayrshire12-03.csv": {
+            "changes": {
+                "top-two": {
+                    "numCands": 7,
+                    "baseline_winner": "['Joe CULLINANE (Lab)']",
+                    "top4": "['John FERGUSON (SNP)']"
+                },
+                "top-3-truncation": {
+                    "numCands": 7,
+                    "baseline_winner": "['Joe CULLINANE (Lab)']",
+                    "top4": "['John FERGUSON (SNP)']"
+                },
+                "smith_plurality": {
+                    "numCands": 7,
+                    "baseline_winner": "['John FERGUSON (SNP)']",
+                    "top4": "['Joe CULLINANE (Lab)']"
+                }
+            },
+            "candidates": {
+                "Helen HAINEY (Lab)": "Lab",
+                "Joe CULLINANE (Lab)": "Lab",
+                "Stuart GARDINER (LD)": "LD",
+                "Andy JONES (Lab)": "Lab",
+                "Colin HEDLEY (Ind)": "Colin HEDLEY (Ind)",
+                "Philip HOGG (Ind)": "Philip HOGG (Ind)",
+                "Robert STEEL (Ind)": "Robert STEEL (Ind)",
+                "Scott GALLACHER (Con)": "Con",
+                "John FERGUSON (SNP)": "SNP",
+                "Iain WALKER (SNP)": "SNP",
+                "Donald REID (Lab)": "Lab"
+            },
+            "parties": {
+                "Lab": 4,
+                "LD": 1,
+                "Ind": 3,
+                "Con": 1,
+                "SNP": 2
             }
         }
     },
