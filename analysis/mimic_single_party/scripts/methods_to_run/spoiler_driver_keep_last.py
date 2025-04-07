@@ -5,15 +5,15 @@ import multiprocessing
 import csv
 import os
 
-METHOD = 'party_blocs'
+METHOD = 'keep_last'
 
 root = '/Users/student/Desktop/MyPythonCode/rcv_proposal'
 
-data_file = f'{root}/analysis/mimic_single_party/methods/party_blocs/results/spoiler/scotland_results.csv'
-root_dir = f'{root}/analysis/mimic_single_party/methods/party_blocs/processed_data'
+data_file = f'{root}/analysis/mimic_single_party/methods/first_last_mentioned/{METHOD}/spoiler/scotland_results.csv'
+root_dir = f'{root}/analysis/mimic_single_party/methods/first_last_mentioned/{METHOD}/processed_data'
 
-error_file = f'{root}/analysis/mimic_single_party/methods/party_blocs/supporting_files/spoiler_scotland_error.txt'
-processed_file = f'{root}/analysis/mimic_single_party/methods/party_blocs/supporting_files/spoiler_scotland_processed.txt'
+error_file = f'{root}/analysis/mimic_single_party/methods/first_last_mentioned/{METHOD}/supporting_files/spoiler_scotland_error.txt'
+processed_file = f'{root}/analysis/mimic_single_party/methods/first_last_mentioned/{METHOD}/supporting_files/spoiler_scotland_processed.txt'
 all_data = []
 
 def run_voting_methods(full_path):
@@ -80,6 +80,7 @@ def process_file(full_path, filename):
     print("DONE", "\n")
 
     with open(data_file, mode='a', newline='') as file:
+        print(data_file)
         writer = csv.writer(file)
 
         # write header if the file is empty
@@ -93,7 +94,7 @@ def process_file(full_path, filename):
             writer.writerow(row)
 
     with open(processed_file, "a") as ef:
-        ef.write(f"{filename}, ")
+        ef.write(f"'{filename}',\n")
 
 def main():
     # loop through data files
