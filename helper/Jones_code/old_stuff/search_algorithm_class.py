@@ -20,17 +20,18 @@ from election_class import *
 from ballot_modifications_class import *
 
 ##### TODO
-## 
+## decide what to do with undetermined elections
+## perhaps modify bucklin, plurality_runoff methods to return more info
+## line 65-66, return to modified after fixing
 
 
 ###############################################################################
 ##### Anomaly search algorithms
 ##### general_search works with all election methods
 ##### more targeted searches are for specific election methods
-##### all methods take in parameter that adjusts certain percent of votes
 ###############################################################################
 
-def frac_general_search(profile, num_cands, voteMethod, mod_ballot_method, vote_frac, diagnostic=False):
+def general_search(profile, num_cands, voteMethod, mod_ballot_method, diagnostic=False):
     
     cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
                   'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
@@ -70,18 +71,15 @@ def frac_general_search(profile, num_cands, voteMethod, mod_ballot_method, vote_
         ## Make a copy of original profile to modify
         new_profile = profile.copy(deep=True)
         
-        for k in range(len(profile)):
+        for k in range(len(new_profile)):
             # if new_profile.at[k,'ballot']!='':
             ## change the ballot in some way
             curBal = new_profile.at[k,'ballot']
-            count = int(new_profile.at[k, 'Count']*vote_frac)
             modBal, modified = mod_ballot_method(curBal, W, L, cands_ranked)
-            # new_profile.at[k,'ballot'] = modBal
+            new_profile.at[k,'ballot'] = modBal
             # if modified:
             if curBal!=modBal:
-                modified_ballot_list.append([curBal, modBal, count])
-                new_profile.at[k, 'Count'] -= count
-                new_profile = pd.concat([new_profile, pd.DataFrame({'ballot': [modBal], 'Count': [count]})], ignore_index=True)
+                modified_ballot_list.append([curBal, modBal, profile.at[k, 'Count']])
         
         newWinners = voteMethod(new_profile, cands, diagnostic = diagnostic)[0]
         if len(newWinners)!=1:
@@ -97,7 +95,7 @@ def frac_general_search(profile, num_cands, voteMethod, mod_ballot_method, vote_
 ###############################################################################
 ###############################################################################
 
-def frac_noShowBucklin(profile, num_cands, vote_frac, diagnostic=False):
+def noShowBucklin(profile, num_cands, diagnostic=False):
     # search through the election. If at any stage a loser is beating the winner, 
     # see if ballots that rank loser above winner but are not yet being counted
     # can be thrown out to lower the quota so that loser wins without having to 
@@ -138,6 +136,7 @@ def frac_noShowBucklin(profile, num_cands, vote_frac, diagnostic=False):
 
         if diagnostic:
             print(scores)
+            
         if scores[winner]>=threshold:
             return []
         
@@ -145,22 +144,15 @@ def frac_noShowBucklin(profile, num_cands, vote_frac, diagnostic=False):
         for loser in losers:
             # if scores[loser] > scores[winner]:
             if scores[loser] == max(scores.values()):
-                new_profile = profile.copy(deep=True)
                 remove_ballots = []
                 remove_ballot_total = 0
                 for k in range(len(profile)):
                     ballot = profile.at[k, 'ballot']
-                    count = int(profile.at[k, 'Count']*vote_frac)
                     if ballot.find(loser)>round_indx:
                         if (winner not in ballot) or (ballot.find(winner) > ballot.find(loser)):
-                            remove_ballots.append([ballot, count])
-                            remove_ballot_total += count
-                            new_profile.at[k, 'Count'] -= count
+                            remove_ballots.append([ballot, profile.at[k, 'Count']])
+                            remove_ballot_total += profile.at[k, 'Count']
                 if threshold - remove_ballot_total/2 < scores[loser]:
-                    new_wins = bucklin(new_profile, cands)[0]
-                    if new_wins != [loser]:
-                        print('##### WARNING: ERROR WITH BUCKLIN NO SHOW SEARCH #####')
-                        print(breakhere)
                     return [winner, loser, remove_ballots]
 
     return []
@@ -168,7 +160,7 @@ def frac_noShowBucklin(profile, num_cands, vote_frac, diagnostic=False):
 ###############################################################################
 ###############################################################################
 
-def frac_upMonoPR(profile, num_cands, vote_frac, diagnostic=False):
+def upMonoPR(profile, num_cands, diagnostic=False):
     # run original election to get winner and contender
     # see if any upstart candidates defeat winner in h2h
     # check if winner can be moved above contender in enough ballots so that
@@ -284,19 +276,16 @@ def frac_upMonoPR(profile, num_cands, vote_frac, diagnostic=False):
             
             new_profile = profile.copy(deep = True)
             modified_ballot_list = []
-            for k in range(len(profile)):
+            for k in range(len(new_profile)):
                 oldBal = new_profile.at[k, 'ballot']
                 cur_lead = oldBal[0]
                 if cur_lead in need_to_lose:
                     if (upstart not in oldBal and winner in oldBal) or (upstart in oldBal and winner in oldBal and oldBal.find(winner)<oldBal.find(upstart)):
                         ## move winner to top
                         newBal = modifyUp(oldBal, winner)
-                        count = int(new_profile.at[k, 'Count']*vote_frac)
-                        # new_profile.at[k, 'ballot'] = newBal
-                        new_profile.at[k, 'Count'] -= count
-                        new_profile = pd.concat([new_profile, pd.DataFrame({'ballot': [newBal], 'Count': [count]})], ignore_index=True)
-                        modified_ballot_list.append([oldBal, newBal, count])
-                        gaps[cur_lead] -= count
+                        new_profile.at[k, 'ballot'] = newBal
+                        modified_ballot_list.append([oldBal, newBal, new_profile.at[k, 'Count']])
+                        gaps[cur_lead] -= new_profile.at[k, 'Count']
                     elif (upstart in ballot and winner in ballot and ballot.find(upstart)<ballot.find(winner)) or (winner not in ballot and upstart not in ballot):
                         risky_ballots[cur_lead] += new_profile.at[k, 'Count']
             
@@ -339,16 +328,13 @@ def frac_upMonoPR(profile, num_cands, vote_frac, diagnostic=False):
                                 if ballots_to_change[cur_lead] < 0:
                                     ## already removed enough ballots, no need to remove more
                                     pass
-                                elif ballots_to_change[cur_lead] >= (int(new_profile.at[k, 'Count']*vote_frac)+1):
+                                elif ballots_to_change[cur_lead] >= (new_profile.at[k, 'Count']+1):
                                     ## change all ballots
                                     newBal = modifyUp(oldBal, winner)
-                                    count = int(new_profile.at[k, 'Count']*vote_frac)
-                                    # new_profile.at[k, 'ballot'] = newBal
-                                    new_profile.at[k, 'Count'] -= count
-                                    new_profile = pd.concat([new_profile, pd.DataFrame({'ballot': [newBal], 'Count': [count]})], ignore_index=True)
-                                    modified_ballot_list.append([oldBal, newBal, count])
-                                    ballots_to_change[cur_lead] -= count
-                                    # new_profile.at[k, 'Count'] = 0
+                                    new_profile.at[k, 'ballot'] = newBal
+                                    modified_ballot_list.append([oldBal, newBal, new_profile.at[k, 'Count']])
+                                    ballots_to_change[cur_lead] -= new_profile.at[k, 'Count']
+                                    new_profile.at[k, 'Count'] = 0
                                 else:
                                     ## only change enough ballots
                                     ## add new row to new_profile
@@ -381,7 +367,7 @@ def frac_upMonoPR(profile, num_cands, vote_frac, diagnostic=False):
 ###############################################################################
 ###############################################################################
 
-def frac_noShowPR(profile, num_cands, vote_frac, diagnostic=False):
+def noShowPR(profile, num_cands, diagnostic=False):
     ## check if any upstart can beat winner in h2h
     ## see if any contender supporters could no show and let upstart advance
     ## to second round
@@ -484,17 +470,13 @@ def frac_noShowPR(profile, num_cands, vote_frac, diagnostic=False):
             need_to_lose = ranked_cands[:ranked_cands.index(upstart)]
             
             new_profile = profile.copy(deep = True)
-            for k in range(len(profile)):
+            for k in range(len(new_profile)):
                 ballot = new_profile.at[k, 'ballot']
                 cur_lead = ballot[0]
                 if cur_lead in need_to_lose:
                     if (upstart in ballot and winner not in ballot) or (upstart in ballot and winner in ballot and ballot.find(upstart)<ballot.find(winner)):
-                        count = int(new_profile.at[k, 'Count']*vote_frac)
-                        new_profile.at[k, 'Count'] -= count
-                        
-                        remove_ballots.append([ballot, count])
-                        # new_profile.at[k, 'Count'] = 0
-                        
+                        remove_ballots.append([ballot, new_profile.at[k, 'Count']])
+                        new_profile.at[k, 'Count'] = 0
             
             new_win = plurality_runoff(new_profile, cands)[0]
             if new_win[0] == upstart:
@@ -505,7 +487,7 @@ def frac_noShowPR(profile, num_cands, vote_frac, diagnostic=False):
 ###############################################################################
 ###############################################################################
 
-def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamlined version (really only works for IRV)
+def downMonoIRV(profile, num_cands, diagnostic=False): #streamlined version (really only works for IRV)
     """inputs: name of election, dataframe of election, voting method
     runs election to find winners/hopefuls/losers, then identifies and makes vote swaps to find 
     downward monotonicity anomalies connected to change in dropout order.  
@@ -529,7 +511,7 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
     if diagnostic:
         print(winners)
         print(losers)
-        
+    
     for i in range(len(losers)): #function removes i losers from original data frame, 
         # then searches for all possible anomalies at a given level<=n, right before each "loser" is 
         # eliminated.  outputs if anomaly occurs, and if so, how...could also output other information
@@ -542,7 +524,7 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
         
         if diagnostic:
             print(loser)
-        
+            
         vote_counts={}
         # vote_counts = {cand:0 for cand in cands}
         for k in range(len(tempFrame)):
@@ -553,7 +535,7 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
                     vote_counts[tempFrame.at[k,'ballot'][0]]=tempFrame.iloc[k]['Count']
         if diagnostic:
             print(vote_counts)
-                    
+        
         checkables = list(vote_counts.keys())
         checkables.remove(winners[0])
         checkables.remove(loser)
@@ -588,7 +570,7 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
                         continue
                     else:
                         if currentBallot[0]==checkables[k] and currentBallot[1]==loser:
-                            modifiableVotes1 += int(tempFrame1.at[z,'Count']*vote_frac)
+                            modifiableVotes1 += tempFrame1.at[z,'Count']
                 #print("Modifiable votes are " + str(modifiableVotes1) + " and gap is " + str(gap))
                 if modifiableVotes1 > gap:
                     check = copy.deepcopy(gap)
@@ -601,14 +583,11 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
                                 continue
                             else:
                                 if currentBallot[0]==checkables[k] and currentBallot[1]==loser:
-                                    if check - int(tempFrame1.at[z,'Count']*vote_frac)>=0: #modify all such ballots
+                                    if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
                                         newBallot = swapOneTwo(tempFrame1.at[z,'ballot'])
-                                        count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                        modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                        # tempFrame1.at[z,'ballot'] = newBallot
-                                        tempFrame1.at[z, 'Count'] -= count
-                                        tempFrame1 = pd.concat([tempFrame1, pd.DataFrame({'ballot': [newBallot], 'Count': [count]})], ignore_index=True)
-                                        check = check - count
+                                        modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z,'Count']])
+                                        tempFrame1.at[z,'ballot'] = newBallot
+                                        check = check - tempFrame1.at[z,'Count']
                                     else: #modify only check+1 such ballots
                                         tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)
                                         #now add new line to frame with modified ballot
@@ -650,12 +629,9 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
                         else:
                             if currentBallot[0]==checkables[k] and currentBallot[1]==loser:
                                 newBallot = swapOneTwo(tempFrame1.at[z,'ballot'])
-                                count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                # tempFrame1.at[z,'ballot'] = newBallot
-                                tempFrame1.at[z, 'Count'] -= count
-                                tempFrame1 = pd.concat([tempFrame1, pd.DataFrame({'ballot': [newBallot], 'Count': [count]})], ignore_index=True)
-                                gap = gap - count
+                                modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z,'Count']])
+                                tempFrame1.at[z,'ballot'] = newBallot
+                                gap = gap - tempFrame1.at[z,'Count']
 
                     #CHECK THE BULLET VOTES
                     modifiableVotesBullet1 = 0 # = sum of all bullet votes w/ length 1
@@ -663,7 +639,7 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
                         currentBallot = tempFrame1.at[z,'ballot']
                         if len(currentBallot) == 1:
                             if currentBallot[0]==checkables[k]:
-                                modifiableVotesBullet1 += int(tempFrame1.at[z,'Count']*vote_frac)  
+                                modifiableVotesBullet1 += tempFrame1.at[z,'Count']  
                     #print("Modifiable bullet votes are " + str(modifiableVotesBullet1) + " and gap is " + str(gap))
                     if modifiableVotesBullet1 > gap: 
                         check = copy.deepcopy(gap)
@@ -672,14 +648,11 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
                                 currentBallot = tempFrame1.at[z,'ballot']
                                 if len(currentBallot) == 1:
                                     if currentBallot[0]==checkables[k]:
-                                        if check - int(tempFrame1.at[z,'Count']*vote_frac)>=0: #modify all such ballots
+                                        if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
                                             newBallot = swapOneLoser(tempFrame1.at[z,'ballot'], loser)
-                                            count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                            modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                            # tempFrame1.at[z,'ballot'] = newBallot
-                                            tempFrame1.at[z, 'Count'] -= count
-                                            tempFrame1 = pd.concat([tempFrame1, pd.DataFrame({'ballot': [newBallot], 'Count': [count]})], ignore_index=True)
-                                            check = check - count
+                                            modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z,'Count']])
+                                            tempFrame1.at[z,'ballot'] = newBallot
+                                            check = check - tempFrame1.at[z,'Count']
 
                                         else: #modify only check+1 such ballots
                                             #take check+1 ballots from current ballot
@@ -717,7 +690,7 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
 ###############################################################################
 ###############################################################################
 
-def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False): 
+def upMonoIRV(frame, num_cands, diagnostic=False): 
     """inputs: dataframe of election, n= number of candidates, S= number of seats
     runs election to find winners/losers/prefData before candidate eliminated, tempWinners,
     then identifies and makes vote swaps to find 
@@ -746,13 +719,17 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
         print(winners)
         print(losers)
     
-    for i in range(len(losers)): #function looks at real data before ith loser drops, 
+    for i in range(len(losers)):
+    # for i in [losers.index('F')]:    
+        #function looks at real data before ith loser drops, 
         # then searches for all possible anomalies at a given level<=n, right before each "loser" is 
         # eliminated.  outputs if anomaly occurs, and if so, how...could also output other information
 #         print("")
 #         print("Results at the " +str(n-i)+"-candidate level:")
         
         tempFrame = elimFrames[i].copy(deep=True) #actual data before ith cand is removed 
+        if diagnostic:
+            print(tempFrame)
         #tempWinners = copy.deepcopy(winners_dict[i])
         #remainingWinners = copy.deepcopy(winners) #put in all winners
         #for y in range(len(tempWinners)):
@@ -796,10 +773,11 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
             
             #we now try to modify C_k...W_j ballots to change dropout order, see if it changes overall result 
             for k in range(len(checkables)): #choose the kth checkable = C_k
+            # for k in [2]:
                 gap = loser_gap[checkables[k]]
                 if diagnostic:
                     print(checkables[k])
-                    print(gap)
+                    # print(gap)
                 
                 if gap > quota_gap[winner]:
                     pass
@@ -818,29 +796,26 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                             continue
                         else:
                             if currentBallot[0]==checkables[k] and currentBallot[1]==winner:
-                                modifiableVotes1 += int(tempFrame1.at[z,'Count']*vote_frac)
+                                modifiableVotes1 += tempFrame1.at[z,'Count']
                     if modifiableVotes1 > gap: #if so, can change dropout order just by modifying these ballots
                         check = copy.deepcopy(gap)
 
                         for z in range(len(tempFrame1)):
                             if check>=0:
                                 currentBallot = tempFrame1.at[z,'ballot']
-                                count = int(tempFrame1.at[z, 'Count']*vote_frac)
                                 try:
                                     currentBallot[1]
                                 except: 
                                     continue
                                 else:
                                     if currentBallot[0]==checkables[k] and currentBallot[1]==winner:
-                                        if check - count>=0: #modify all such ballots
+                                        if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
                                             #print("Ballot modified is " + tempFrame1.at[z,'ballot'] + " at line "+ str(z))
                                             newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                            modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                            # tempFrame1.at[z,'ballot'] = newBallot
-                                            tempFrame1.at[z, 'Count'] -= count
-                                            tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
+                                            modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
+                                            tempFrame1.at[z,'ballot'] = newBallot
                                             #print("Ballot modified to " + tempFrame1.at[z,'ballot'])
-                                            check = check - count
+                                            check = check - tempFrame1.at[z,'Count']
                                             #print("check is now " +str(check))
                                         else: #modify only check+1 such ballots
                                             #print("Ballot modified is " + tempFrame1.at[z,'ballot'] + " at line "+ str(z))
@@ -881,7 +856,6 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                             # modify all modifiableVotes C_k W_j votes in reduced_df to become W_j C_k 
                         for z in range(len(tempFrame1)):
                             currentBallot = tempFrame1.at[z,'ballot']
-                            count = int(tempFrame1.at[z, 'Count']*vote_frac)
                             try:
                                 currentBallot[1]
                             except: 
@@ -889,11 +863,9 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                             else:
                                 if currentBallot[0]==checkables[k] and currentBallot[1]==winner:
                                     newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                    modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                    # tempFrame1.at[z,'ballot'] = newBallot
-                                    tempFrame1.at[z, 'Count'] -= count
-                                    tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                    gap = gap - count
+                                    modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
+                                    tempFrame1.at[z,'ballot'] = newBallot
+                                    gap = gap - tempFrame1.at[z,'Count']
 
                         #CHECK THE 2-RANKINGS 
                         # modifiableVotes_kj2 = sum of all ballots that start with C_k ___ W_j  ##that is, 
@@ -901,19 +873,18 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                         modifiableVotes2 = 0 #modifiableVotes2 = sum of all ballots that start with C_k ___ W_j
                         for z in range(len(tempFrame1)):
                             currentBallot = tempFrame1.at[z,'ballot']
-                            count = int(tempFrame1.at[z, 'Count']*vote_frac)
                             try:
                                 currentBallot[2]
                             except: 
                                 continue
                             else:
                                 if currentBallot[0]==checkables[k] and currentBallot[2]==winner:
-                                    modifiableVotes2 += count
-                                    if diagnostic:
-                                        print(currentBallot)
+                                    modifiableVotes2 += tempFrame1.at[z,'Count']  
+                                    # if diagnostic:
+                                    #     print(currentBallot)
                         
-                        if diagnostic:
-                            print(modifiableVotes2)
+                        # if diagnostic:
+                        #     print(modifiableVotes2)
                         if modifiableVotes2 > gap:  # modify gap of the C_k __ W_j votes in modified_df_kj1 to become 
                                                     # W_j C_k ___ votes.
 
@@ -921,20 +892,17 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                             for z in range(len(tempFrame1)): #tempFrame in place of reduceFrame(frame,losers)[i]
                                 if check>=0:
                                     currentBallot = tempFrame1.at[z,'ballot']
-                                    count = int(tempFrame1.at[k, 'Count']*vote_frac)
                                     try:
                                         currentBallot[2]
                                     except: 
                                         continue
                                     else:
                                         if currentBallot[0]==checkables[k] and currentBallot[2]==winner:
-                                            if check - count>=0: #modify all such ballots
+                                            if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
                                                 newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                # tempFrame1.at[z,'ballot'] = newBallot
-                                                tempFrame1.at[z, 'Count'] -= count
-                                                tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                check = check - count
+                                                modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
+                                                tempFrame1.at[z,'ballot'] = newBallot
+                                                check = check - tempFrame1.at[z,'Count']
 
                                             else: #modify only check+1 such ballots
                                                 #take check+1 ballots from current ballot
@@ -947,12 +915,14 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                         else:
                                             pass
                             
-                            if diagnostic:
-                                print(tempFrame1)
+                            # if diagnostic:
+                            #     print(tempFrame1)
                             # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
                             # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
                             # level. votes modified to 2 rankings"
                             win1, foo1, foo2 = IRV3(tempFrame1, cands)
+                            if diagnostic:
+                                print(modified_ballot_list)
                             if winner in win1:
                                 pass
 
@@ -962,13 +932,13 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                     print("MONOTONICITY ANOMALY for " + winner + " with " + checkables[k] + " under " + loser + 
                                     " at the "+ str(n-i) + "-candidate level!!!! Modifying " + str(modifiedNum) +" "+checkables[k]+ winner+"_"  
                                       " to " +  winner +checkables[k]+ "_ makes " + winner + " lose their seat.")
+                                    print(tempFrame1)
                                 return [winner, str(win1), modified_ballot_list]
 
                         else: 
                             # modify all modifiableVotes C ___  W votes in reduced_df to become W_j C_k ___
                             for z in range(len(tempFrame1)):
                                 currentBallot = tempFrame1.at[z,'ballot']
-                                count = int(tempFrame1.at[z, 'Count']*vote_frac)
                                 try:
                                     currentBallot[2]
                                 except: 
@@ -976,11 +946,9 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                 else:
                                     if currentBallot[0]==checkables[k] and currentBallot[2]==winner:
                                         newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                        modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                        # tempFrame1.at[z,'ballot'] = newBallot
-                                        tempFrame1.at[z, 'Count'] -= count
-                                        tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                        gap = gap - count
+                                        modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
+                                        tempFrame1.at[z,'ballot'] = newBallot
+                                        gap = gap - tempFrame1.at[z,'Count']
 
                             #CHECK THE 3-RANKINGS
                             # modifiableVotes3 = sum of all ballots that start with C_k ___ __ W_j  ##that is, 
@@ -988,14 +956,13 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                             modifiableVotes3 = 0 
                             for z in range(len(tempFrame1)):
                                 currentBallot = tempFrame1.at[z,'ballot']
-                                count = int(tempFrame1.at[z, 'Count']*vote_frac)
                                 try:
                                     currentBallot[3]
                                 except: 
                                     continue
                                 else:
                                     if currentBallot[0]==checkables[k] and currentBallot[3]==winner:
-                                        modifiableVotes3 += count
+                                        modifiableVotes3 += tempFrame1.at[z,'Count']  
 
                             if modifiableVotes3 > gap:  # modify gap of the C_k __ W_j votes in modified_df_kj1 to become 
                                                         # W_j C_k ___ votes.
@@ -1004,20 +971,17 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                 for z in range(len(tempFrame1)): 
                                     if check>=0:
                                         currentBallot = tempFrame1.at[z,'ballot']
-                                        count = int(tempFrame1.at[z, 'Count']*vote_frac)
                                         try:
                                             currentBallot[3]
                                         except: 
                                             continue
                                         else:
                                             if currentBallot[0]==checkables[k] and currentBallot[3]==winner:
-                                                if check - count>=0: #modify all such ballots
+                                                if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
                                                     newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                    modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                    # tempFrame1.at[z,'ballot'] = newBallot
-                                                    tempFrame1.at[z, 'Count'] -= count
-                                                    tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                    check = check - count
+                                                    modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
+                                                    tempFrame1.at[z,'ballot'] = newBallot
+                                                    check = check - tempFrame1.at[z,'Count']
 
                                                 else: #modify only check+1 such ballots
                                                     #take check+1 ballots from current ballot
@@ -1048,7 +1012,6 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                 # modify all modifiableVotes_kj1 C ___ ___ W votes in reduced_df to become W_j C_k ___
                                 for z in range(len(tempFrame1)):
                                     currentBallot = tempFrame1.at[z,'ballot']
-                                    count = int(tempFrame1.at[z, 'Count']*vote_frac)
                                     try:
                                         currentBallot[3]
                                     except: 
@@ -1056,11 +1019,9 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                     else:
                                         if currentBallot[0]==checkables[k] and currentBallot[3]==winner:
                                             newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                            modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                            # tempFrame1.at[z,'ballot'] = newBallot
-                                            tempFrame1.at[z, 'Count'] -= count
-                                            tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                            gap = gap - count
+                                            modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
+                                            tempFrame1.at[z,'ballot'] = newBallot
+                                            gap = gap - tempFrame1.at[z,'Count']
 
                                 #CHECK THE 4-RANKINGS
                                 # modifiableVotes4 = sum of all ballots that start with C_k ___ __ ___ W_j  ##that is, 
@@ -1068,14 +1029,13 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                 modifiableVotes4 = 0 # = sum of all ballots that start with 4-ranking
                                 for z in range(len(tempFrame1)):
                                     currentBallot = tempFrame1.at[z,'ballot']
-                                    count = int(tempFrame1.at[z, 'Count']*vote_frac)
                                     try:
                                         currentBallot[4]
                                     except: 
                                         continue
                                     else:
                                         if currentBallot[0]==checkables[k] and currentBallot[4]==winner:
-                                            modifiableVotes4 += count
+                                            modifiableVotes4 += tempFrame1.at[z,'Count']  
 
                                 if modifiableVotes4 > gap:  # modify gap of the C_k __ W_j votes in modified_df_kj1 to become 
                                                             # W_j C_k ___ votes.
@@ -1084,20 +1044,17 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                     for z in range(len(tempFrame1)): 
                                         if check>=0:
                                             currentBallot = tempFrame1.at[z,'ballot']
-                                            count = int(tempFrame1.at[z, 'Count']*vote_frac)
                                             try:
                                                 currentBallot[4]
                                             except: 
                                                 continue
                                             else:
                                                 if currentBallot[0]==checkables[k] and currentBallot[4]==winner:
-                                                    if check - count>=0: #modify all such ballots
+                                                    if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
                                                         newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                        modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                        # tempFrame1.at[z,'ballot'] = newBallot
-                                                        tempFrame1.at[z, 'Count'] -= count
-                                                        tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                        check = check - count
+                                                        modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
+                                                        tempFrame1.at[z,'ballot'] = newBallot
+                                                        check = check - tempFrame1.at[z,'Count']
 
                                                     else: #modify only check+1 such ballots
                                                         #take check+1 ballots from current ballot
@@ -1134,7 +1091,6 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                     # modify all modifiableVotes_kj1 C ___ ___ ___W votes in reduced_df to become W_j C_k ___
                                     for z in range(len(tempFrame1)):
                                         currentBallot = tempFrame1.at[z,'ballot']
-                                        count = int(tempFrame1.at[z, 'Count']*vote_frac)
                                         try:
                                             currentBallot[4]
                                         except: 
@@ -1142,11 +1098,9 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                         else:
                                             if currentBallot[0]==checkables[k] and currentBallot[4]==winner:
                                                 newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                # tempFrame1.at[z,'ballot'] = newBallot
-                                                tempFrame1.at[z, 'Count'] -= count
-                                                tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                gap = gap - count
+                                                modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
+                                                tempFrame1.at[z,'ballot'] = newBallot
+                                                gap = gap - tempFrame1.at[z,'Count']
 
                                     #CHECK THE 5-RANKINGS
                                     # modifiableVotes5 = sum of all ballots  
@@ -1154,14 +1108,13 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                     modifiableVotes5 = 0 # = sum of all 5-ranking ballots that start with C_k 
                                     for z in range(len(tempFrame1)):
                                         currentBallot = tempFrame1.at[z,'ballot']
-                                        count = int(tempFrame1.at[z, 'Count']*vote_frac)
                                         try:
                                             currentBallot[5]
                                         except: 
                                             continue
                                         else:
                                             if currentBallot[0]==checkables[k] and currentBallot[5]==winner:
-                                                modifiableVotes5 += count
+                                                modifiableVotes5 += tempFrame1.at[z,'Count']  
 
                                     if modifiableVotes5 > gap:  # modify gap of the C_k __ W_j votes in modified_df_kj1 to become 
                                                                 # W_j C_k ___ votes.
@@ -1170,20 +1123,17 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                         for z in range(len(tempFrame1)): #tempFrame in place of reduceFrame(frame,losers)[i]
                                             if check>=0:
                                                 currentBallot = tempFrame1.at[z,'ballot']
-                                                count = int(tempFrame1.at[z, 'Count']*vote_frac)
                                                 try:
                                                     currentBallot[5]
                                                 except: 
                                                     continue
                                                 else:
                                                     if currentBallot[0]==checkables[k] and currentBallot[5]==winner:
-                                                        if check - count>=0: #modify all such ballots
+                                                        if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
                                                             newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                            modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                            # tempFrame1.at[z,'ballot'] = newBallot
-                                                            tempFrame1.at[z, 'Count'] -= count
-                                                            tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                            check = check - count
+                                                            modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
+                                                            tempFrame1.at[z,'ballot'] = newBallot
+                                                            check = check - tempFrame1.at[z,'Count']
 
                                                         else: #modify only check+1 such ballots
                                                             #take check+1 ballots from current ballot
@@ -1215,7 +1165,6 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                         # modify all modifiableVotes C ... W votes in reduced_df to become W_j C_k ___
                                         for z in range(len(tempFrame1)):
                                             currentBallot = tempFrame1.at[z,'ballot']
-                                            count = int(tempFrame1.at[z, 'Count']*vote_frac)
                                             try:
                                                 currentBallot[5]
                                             except: 
@@ -1223,11 +1172,9 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                             else:
                                                 if currentBallot[0]==checkables[k] and currentBallot[5]==winner:
                                                     newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                    modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                    # tempFrame1.at[z,'ballot'] = newBallot
-                                                    tempFrame1.at[z, 'Count'] -= count
-                                                    tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                    gap = gap - count
+                                                    modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
+                                                    tempFrame1.at[z,'ballot'] = newBallot
+                                                    gap = gap - tempFrame1.at[z,'Count']
 
                                         #We chose to modify most/all of ranked votes before doing bullet votes, as we think
                                         # that is most likely to case anomalies
@@ -1237,10 +1184,9 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                         modifiableVotesBullet1 = 0 # = sum of all bullet votes w/ length 1
                                         for z in range(len(tempFrame1)):
                                             currentBallot = tempFrame1.at[z,'ballot']
-                                            count = int(tempFrame1.at[z, 'Count']*vote_frac)
                                             if len(currentBallot) == 1:
                                                 if currentBallot[0]==checkables[k]:
-                                                        modifiableVotesBullet1 += count
+                                                        modifiableVotesBullet1 += tempFrame1.at[z,'Count']  
 
                                         if modifiableVotesBullet1 > gap:  # modify gap of the C_k  votes in modified_df_kj1 to become 
                                                                     # W_j C_k votes.
@@ -1249,16 +1195,13 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                             for z in range(len(tempFrame1)): 
                                                 if check>=0:
                                                     currentBallot = tempFrame1.at[z,'ballot']
-                                                    count = int(tempFrame1.at[z, 'Count']*vote_frac)
                                                     if len(currentBallot) == 1:
                                                         if currentBallot[0]==checkables[k]:
-                                                            if check - count>=0: #modify all such ballots
+                                                            if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
                                                                 newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                                modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                                # tempFrame1.at[z,'ballot'] = newBallot
-                                                                tempFrame1.at[z, 'Count'] -= count
-                                                                tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                                check = check - count
+                                                                modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
+                                                                tempFrame1.at[z,'ballot'] = newBallot
+                                                                check = check - tempFrame1.at[z,'Count']
 
                                                             else: #modify only check+1 such ballots
                                                                 #take check+1 ballots from current ballot
@@ -1288,25 +1231,21 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                             # modify all modifiableVotes C_k  votes in reduced_df to become W_j C_k 
                                             for z in range(len(tempFrame1)):
                                                 currentBallot = tempFrame1.at[z,'ballot']
-                                                count = int(tempFrame1.at[z, 'Count']*vote_frac)
                                                 if len(currentBallot) == 1:
                                                     if currentBallot[0]==checkables[k]:
                                                         newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                        modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                        # tempFrame1.at[z,'ballot'] = newBallot
-                                                        tempFrame1.at[z, 'Count'] -= count
-                                                        tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                        gap = gap - count
+                                                        modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
+                                                        tempFrame1.at[z,'ballot'] = newBallot
+                                                        gap = gap - tempFrame1.at[z,'Count']
 
                                             #CHECK THE BULLET VOTES, length 2
                                             # modifiableVotesBullet2 = sum of all ballots that are just C_k C_i  
                                             modifiableVotesBullet2 = 0 # = sum of all bullet votes w/ length 2
                                             for z in range(len(tempFrame1)):
                                                 currentBallot = tempFrame1.at[z,'ballot']
-                                                count = int(tempFrame1.at[z, 'Count']*vote_frac)
                                                 if len(currentBallot) == 2:
                                                     if currentBallot[0]==checkables[k] and currentBallot[1]!=winner: 
-                                                            modifiableVotesBullet2 += count
+                                                            modifiableVotesBullet2 += tempFrame1.at[z,'Count']  
 
                                             if modifiableVotesBullet2 > gap:  # modify gap of the C_k C_i votes in modified to become 
                                                                         # W_j C_k C_i votes.
@@ -1315,16 +1254,13 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                                 for z in range(len(tempFrame1)): 
                                                     if check>=0:
                                                         currentBallot = tempFrame1.at[z,'ballot']
-                                                        count = int(tempFrame1.at[z, 'Count']*vote_frac)
                                                         if len(currentBallot) == 2:
                                                             if currentBallot[0]==checkables[k] and currentBallot[1]!=winner: 
-                                                                if check - count>=0: #modify all such ballots
+                                                                if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
                                                                     newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                                    modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                                    # tempFrame1.at[z,'ballot'] = newBallot
-                                                                    tempFrame1.at[z, 'Count'] -= count
-                                                                    tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                                    check = check - count
+                                                                    modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
+                                                                    tempFrame1.at[z,'ballot'] = newBallot
+                                                                    check = check - tempFrame1.at[z,'Count']
 
                                                                 else: #modify only check+1 such ballots
                                                                     #take check+1 ballots from current ballot
@@ -1354,25 +1290,21 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                                 # modify all modifiableVotes C_k  votes in reduced_df to become W_j C_k 
                                                 for z in range(len(tempFrame1)):
                                                     currentBallot = tempFrame1.at[z,'ballot']
-                                                    count = int(tempFrame1.at[z, 'Count']*vote_frac)
                                                     if len(currentBallot) == 2:
                                                         if currentBallot[0]==checkables[k] and currentBallot[1]!=winner: #Note: should not need and
                                                             newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                            modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                            # tempFrame1.at[z,'ballot'] = newBallot
-                                                            tempFrame1.at[z, 'Count'] -= count
-                                                            tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                            gap = gap - count
+                                                            modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
+                                                            tempFrame1.at[z,'ballot'] = newBallot
+                                                            gap = gap - tempFrame1.at[z,'Count']
 
                                                 #CHECK THE BULLET VOTES, length 3
                                                 # modifiableVotesBullet3 = sum of all ballots that are just C_k ___ C_i  
                                                 modifiableVotesBullet3 = 0 # = sum of all bullet votes w/ length 3
                                                 for z in range(len(tempFrame1)):
                                                     currentBallot = tempFrame1.at[z,'ballot']
-                                                    count = int(tempFrame1.at[z, 'Count']*vote_frac)
                                                     if len(currentBallot) == 3:
                                                         if currentBallot[0]==checkables[k] and winner not in currentBallot: 
-                                                                modifiableVotesBullet3 += count
+                                                                modifiableVotesBullet3 += tempFrame1.at[z,'Count']  
 
                                                 if modifiableVotesBullet3 > gap:  # modify gap of the C_k C_i votes in modified to become 
                                                                             # W_j C_k C_i votes.
@@ -1381,16 +1313,13 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                                     for z in range(len(tempFrame1)): 
                                                         if check>=0:
                                                             currentBallot = tempFrame1.at[z,'ballot']
-                                                            count = int(tempFrame1.at[k, 'Count']*vote_frac)
                                                             if len(currentBallot) == 3:
                                                                 if currentBallot[0]==checkables[k] and winner not in currentBallot: #Note: should not need and
                                                                     if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
                                                                         newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                                        modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                                        # tempFrame1.at[z,'ballot'] = newBallot
-                                                                        tempFrame1.at[z, 'Count'] -= count
-                                                                        tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                                        check = check - count
+                                                                        modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, tempFrame1.at[z, 'Count']])
+                                                                        tempFrame1.at[z,'ballot'] = newBallot
+                                                                        check = check - tempFrame1.at[z,'Count']
 
                                                                     else: #modify only check+1 such ballots
                                                                         #take check+1 ballots from current ballot
@@ -1420,13 +1349,10 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
                                                     # modify all modifiableVotes C_k  votes in reduced_df to become W_j C_k 
                                                     for z in range(len(tempFrame1)):
                                                         currentBallot = tempFrame1.at[z,'ballot']
-                                                        count = int(tempFrame1.at[k, 'Count']*vote_frac)
                                                         if len(currentBallot) == 3:
                                                             if currentBallot[0]==checkables[k] and winner not in currentBallot: 
-                                                                newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                                tempFrame1.at[z, 'Count'] -= count
-                                                                tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                                gap = gap - count
+                                                                tempFrame1.at[z,'ballot'] = modifyUp(tempFrame1.at[z,'ballot'], winner)
+                                                                gap = gap - tempFrame1.at[z,'Count']
 
                                                     print(winner+" cannot overcome gap with "+ checkables[k] + 
                                                           " when modified up to 5 rankings and 3 bullet votes under " + 
@@ -1436,7 +1362,7 @@ def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False):
 ###############################################################################
 ###############################################################################
 
-def frac_noShowIRV(frame, num_cands, vote_frac, diagnostic=False): 
+def noShowIRV(frame, num_cands, diagnostic=False): 
     """inputs: dataframe of election, n= number of candidates, S= number of seats
     runs election to find winners/losers/frames, then identifies and eliminates votes to find 
     No Show anomalies connected to change in dropout order.  
@@ -1527,10 +1453,10 @@ def frac_noShowIRV(frame, num_cands, vote_frac, diagnostic=False):
                         continue
                     else: 
                         if currentBallot[0]==checkables[k] and hopefuls[m] in currentBallot and winner not in currentBallot:
-                            modifiableVotes1 += int(tempFrame1.at[z,'Count']*vote_frac) #ballots without winner on the ballot
+                            modifiableVotes1 += tempFrame1.at[z,'Count'] #ballots without winner on the ballot
                         if currentBallot[0]==checkables[k] and hopefuls[m] in currentBallot and winner in currentBallot:
                             if currentBallot.index(hopefuls[m])<currentBallot.index(winner):
-                                modifiableVotes2 += int(tempFrame1.at[z,'Count']*vote_frac) #ballots where winner is ranked below
+                                modifiableVotes2 += tempFrame1.at[z,'Count'] #ballots where winner is ranked below
                 # check if enough votes to change
                 if (modifiableVotes1 + modifiableVotes2) <= (loser_gap[checkables[k]]+1): 
                     if diagnostic:
@@ -1585,17 +1511,16 @@ def frac_noShowIRV(frame, num_cands, vote_frac, diagnostic=False):
                         for z in range(len(tempFrame1)):
                             if check >= 0:
                                 currentBallot = tempFrame1.at[z,'ballot']
-                                count = int(tempFrame1.at[z, 'Count']*vote_frac)
                                 try:
                                     currentBallot[0]
                                 except: 
                                     continue
                                 else:
                                     if currentBallot[0]==checkables[k] and hopefuls[m] in currentBallot and winner not in currentBallot:
-                                        if check - count>=-1: #remove all such ballots
-                                            check = check - count
-                                            remove_ballots.append([tempFrame1.at[z, 'ballot'], count])
-                                            tempFrame1.at[z,'Count'] -= count
+                                        if check - tempFrame1.at[z,'Count']>=-1: #remove all such ballots
+                                            check = check - tempFrame1.at[z,'Count']
+                                            remove_ballots.append([tempFrame1.at[z, 'ballot'], tempFrame1.at[z,'Count']])
+                                            tempFrame1.at[z,'Count'] = 0
 
                                         else: #remove check+1 such ballots
                                             remove_ballots.append([tempFrame1.at[z, 'ballot'], check+1])
@@ -1637,22 +1562,20 @@ def frac_noShowIRV(frame, num_cands, vote_frac, diagnostic=False):
                     else: #remove all modifiable1 ballots, then remove gap+1 modifiable2s
                         for z in range(len(tempFrame1)):
                             currentBallot = tempFrame1.at[z,'ballot']
-                            count = int(tempFrame1.at[z, 'Count']*vote_frac)
                             try:
                                 currentBallot[0]
                             except: 
                                 continue
                             else:
                                 if currentBallot[0]==checkables[k] and hopefuls[m] in currentBallot and winner not in currentBallot:
-                                    gap = gap - count
-                                    remove_ballots.append([tempFrame1.at[z, 'ballot'], count])
-                                    tempFrame1.at[z,'Count'] -= count 
+                                    gap = gap - tempFrame1.at[z,'Count']
+                                    remove_ballots.append([tempFrame1.at[z, 'ballot'], tempFrame1.at[z,'Count']])
+                                    tempFrame1.at[z,'Count'] = 0 
 
                         check = copy.deepcopy(gap)
                         for z in range(len(tempFrame1)):
                             if check >= 0:
-                                currentBallot = tempFrame1.at[z,'ballot']
-                                count = int(tempFrame1.at[z, 'Count']*vote_frac)
+                                currentBallot = tempFrame1.at[z,'ballot']       
                                 try:
                                     currentBallot[0]
                                 except: 
@@ -1660,10 +1583,10 @@ def frac_noShowIRV(frame, num_cands, vote_frac, diagnostic=False):
                                 else:
                                     if currentBallot[0]==checkables[k] and hopefuls[m] in currentBallot and winner in currentBallot:
                                         if currentBallot.index(hopefuls[m])<currentBallot.index(winner):
-                                            if check - count>=-1: #remove all such ballots
-                                                check = check - count
-                                                remove_ballots.append([tempFrame1.at[z, 'ballot'], count])
-                                                tempFrame1.at[z,'Count'] -= count
+                                            if check - tempFrame1.at[z,'Count']>=-1: #remove all such ballots
+                                                check = check - tempFrame1.at[z,'Count']
+                                                remove_ballots.append([tempFrame1.at[z, 'ballot'], tempFrame1.at[z,'Count']])
+                                                tempFrame1.at[z,'Count'] = 0
 
                                             else: #remove check+1 such ballots
                                                 remove_ballots.append([tempFrame1.at[z, 'ballot'], check+1])
@@ -1713,7 +1636,7 @@ def frac_noShowIRV(frame, num_cands, vote_frac, diagnostic=False):
 ###############################################################################
 ###############################################################################
 
-def frac_noShowCondPlur(profile, num_cands, vote_frac, diagnostic=False):
+def noShowCondPlur(profile, num_cands, diagnostic=False):
     cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
                   'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
                   'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
@@ -1780,13 +1703,12 @@ def frac_noShowCondPlur(profile, num_cands, vote_frac, diagnostic=False):
             remove_ballots = []
             for k in range(len(new_profile)):
                 ballot = new_profile.at[k, 'ballot']
-                count = int(new_profile.at[k, 'Count']*vote_frac)
                 ## ballot prefers cond_win to plur_win
                 if (cond_win in ballot and plur_win not in ballot) or (cond_win in ballot and plur_win in ballot and ballot.find(cond_win)<ballot.find(plur_win)):
                     ## removing ballot will help break top cycle
                     relevant_cands = set(ballot.split(cond_win)[0]).intersection(need_to_lose)
                     if relevant_cands:
-                        remove_count = min([count]+[need_to_lose[cand] for cand in relevant_cands])
+                        remove_count = min([new_profile.at[k, 'Count']]+[need_to_lose[cand] for cand in relevant_cands])
                         remove_ballots.append([ballot, remove_count])
                         new_profile.at[k, 'Count'] -= remove_count
             
@@ -1833,15 +1755,14 @@ def frac_noShowCondPlur(profile, num_cands, vote_frac, diagnostic=False):
                 remove_ballots = []
                 for k in range(len(new_profile)):
                     ballot = new_profile.at[k, 'ballot']
-                    count = int(new_profile.at[k, 'Count']*vote_frac)
                     ## prefers plur_win over cond_win over threat
                     if plur_win in ballot and cond_win in ballot and ballot.find(plur_win)<ballot.find(cond_win):
                         if threat not in ballot or (threat in ballot and ballot.find(cond_win)<ballot.find(threat)):
                             ## not a risky ballot to remove
                             if ballot[0]!=plur_win:
-                                remove_ballots.append([ballot, count])
-                                threat_marg -= count
-                                new_profile.at[k, 'Count'] -= count
+                                remove_ballots.append([ballot, new_profile.at[k, 'Count']])
+                                threat_marg -= new_profile.at[k, 'Count']
+                                new_profile.at[k, 'Count'] = 0
                 
                 if diagnostic:
                     print(remove_ballots)
@@ -1856,16 +1777,15 @@ def frac_noShowCondPlur(profile, num_cands, vote_frac, diagnostic=False):
                     ## remove some risky ballots
                     for k in range(len(new_profile)):
                         ballot = new_profile.at[k, 'ballot']
-                        count = new_profile.at[k, 'Count']
                         ## prefers plur_win over cond_win over threat
                         if plur_win in ballot and cond_win in ballot and ballot.find(plur_win)<ballot.find(cond_win):
                             if threat not in ballot or (threat in ballot and ballot.find(cond_win)<ballot.find(threat)):
                                 ## is a risky ballot to remove
                                 if ballot[0]==plur_win:
-                                    if count < threat_marg + 1:
-                                        remove_ballots.append([ballot, count])
-                                        threat_marg -= count
-                                        new_profile.at[k, 'Count'] -= count
+                                    if profile.at[k, 'Count'] < threat_marg + 1:
+                                        remove_ballots.append([ballot, new_profile.at[k, 'Count']])
+                                        threat_marg -= new_profile.at[k, 'Count']
+                                        new_profile.at[k, 'Count'] = 0
                                     else:
                                         remove_ballots.append([ballot, threat_marg + 1])
                                         new_profile.at[k, 'Count'] -= (threat_marg+1)
@@ -1883,11 +1803,13 @@ def frac_noShowCondPlur(profile, num_cands, vote_frac, diagnostic=False):
                 new_win = new_wins[0]
                 if new_win == plur_win:
                     return [cond_win, plur_win, remove_ballots]
+                
+    return []
             
 ###############################################################################
 ###############################################################################
 
-def frac_noShowSmithIRV(profile, num_cands, vote_frac, diagnostic=False):
+def noShowSmithIRV(profile, num_cands, diagnostic=False):
     cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
                   'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
                   'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
@@ -1954,13 +1876,12 @@ def frac_noShowSmithIRV(profile, num_cands, vote_frac, diagnostic=False):
             remove_ballots = []
             for k in range(len(new_profile)):
                 ballot = new_profile.at[k, 'ballot']
-                count = int(new_profile.at[k, 'Count']*vote_frac)
                 ## ballot prefers cond_win to irv_win
                 if (cond_win in ballot and irv_win not in ballot) or (cond_win in ballot and irv_win in ballot and ballot.find(cond_win)<ballot.find(irv_win)):
                     ## removing ballot will help break top cycle
                     relevant_cands = set(ballot.split(cond_win)[0]).intersection(need_to_lose)
                     if relevant_cands:
-                        remove_count = min([count]+[need_to_lose[cand] for cand in relevant_cands])
+                        remove_count = min([new_profile.at[k, 'Count']]+[need_to_lose[cand] for cand in relevant_cands])
                         remove_ballots.append([ballot, remove_count])
                         new_profile.at[k, 'Count'] -= remove_count
             
@@ -2007,15 +1928,14 @@ def frac_noShowSmithIRV(profile, num_cands, vote_frac, diagnostic=False):
                 remove_ballots = []
                 for k in range(len(new_profile)):
                     ballot = new_profile.at[k, 'ballot']
-                    count = int(new_profile.at[k, 'Count']*vote_frac)
                     ## prefers irv_win over cond_win over threat
                     if irv_win in ballot and cond_win in ballot and ballot.find(irv_win)<ballot.find(cond_win):
                         if threat not in ballot or (threat in ballot and ballot.find(cond_win)<ballot.find(threat)):
                             ## not a risky ballot to remove
                             if ballot[0]!=irv_win:
-                                remove_ballots.append([ballot, count])
-                                threat_marg -= count
-                                new_profile.at[k, 'Count'] -= count
+                                remove_ballots.append([ballot, new_profile.at[k, 'Count']])
+                                threat_marg -= new_profile.at[k, 'Count']
+                                new_profile.at[k, 'Count'] = 0
                 
                 if diagnostic:
                     print(remove_ballots)
@@ -2030,16 +1950,15 @@ def frac_noShowSmithIRV(profile, num_cands, vote_frac, diagnostic=False):
                     ## remove some risky ballots
                     for k in range(len(new_profile)):
                         ballot = new_profile.at[k, 'ballot']
-                        count = new_profile.at[k, 'Count']
                         ## prefers irv_win over cond_win over threat
                         if irv_win in ballot and cond_win in ballot and ballot.find(irv_win)<ballot.find(cond_win):
                             if threat not in ballot or (threat in ballot and ballot.find(cond_win)<ballot.find(threat)):
                                 ## is a risky ballot to remove
                                 if ballot[0]==irv_win:
                                     if profile.at[k, 'Count'] < threat_marg + 1:
-                                        remove_ballots.append([ballot, count])
-                                        threat_marg -= count
-                                        new_profile.at[k, 'Count'] -= count
+                                        remove_ballots.append([ballot, new_profile.at[k, 'Count']])
+                                        threat_marg -= new_profile.at[k, 'Count']
+                                        new_profile.at[k, 'Count'] = 0
                                     else:
                                         remove_ballots.append([ballot, threat_marg + 1])
                                         new_profile.at[k, 'Count'] -= (threat_marg+1)
@@ -2056,7 +1975,9 @@ def frac_noShowSmithIRV(profile, num_cands, vote_frac, diagnostic=False):
                     continue
                 new_win = new_wins[0]
                 if new_win == irv_win:
-                    return [cond_win, irv_win, remove_ballots]        
+                    return [cond_win, irv_win, remove_ballots]   
+                
+    return []
         
         
         

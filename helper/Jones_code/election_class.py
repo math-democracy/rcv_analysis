@@ -130,148 +130,7 @@ def Borda_AVG(profile, cands, diagnostic=False):
 ###############################################################################
 ###############################################################################
 
-## Old method
-# def IRV(profile, cands, diagnostic=False):
-
-#     frame2 = profile.copy(deep=True)
-#     winners=[]
-#     hopefuls=cands.copy()
-#     eliminatedCand=[]
-#     elimFrames={}
-#     tempWinners={}
-#     quota=math.floor(sum(frame2['Count'])/(2))+1
-#     if diagnostic:
-#         print(quota)
- 
-#     ## Get each candidate's initial number of votes this round
-#     vote_counts={}
-    
-#     for k in range(len(frame2)):
-#         if frame2.at[k,'ballot']!='':
-#             if frame2.at[k,'ballot'][0] in vote_counts.keys():
-#                 vote_counts[frame2.at[k,'ballot'][0]]+=frame2.iloc[k]['Count']
-#             else:
-#                 vote_counts[frame2.at[k,'ballot'][0]]=frame2.iloc[k]['Count']
-    
-#     max_count=max(vote_counts.values())
-#     if diagnostic:
-#         print(vote_counts)
-#         print(hopefuls)
-    
-#     while len(winners)<1:
-#         max_count=max(vote_counts.values())
-#         ## somebody is elected and we have to transfer their votes
-#         if max_count>=quota:
-#             ## There might be multiple people elected this round; save them as a sorted dictionary
-#             votes_for_winners={k:vote_counts[k] for k in vote_counts.keys() if vote_counts[k]>=quota }
-#             votes_for_winners=dict(sorted(votes_for_winners.items(),key=lambda x: x[1], reverse=True))
-            
-#             ## If we try to elect too many people, need to drop someone who surpassed quota
-#             if len(winners)+len(votes_for_winners)>1:
-                
-#                 for k in range(len(winners)+len(votes_for_winners)-1):
-#                     winners.append(list(votes_for_winners.keys())[k])
-            
-#             else:
-#                 winners=winners+list(votes_for_winners.keys())
-#                 for cand in winners:
-#                     if cand in hopefuls:
-#                         hopefuls.remove(cand) #remove winner from hopefuls list
-                
-#                 while len(votes_for_winners)>0:
-                    
-#                     cand=list(votes_for_winners.keys())[0]
-    
-#                     if cand not in winners:
-#                         winners.append(cand)
-#                         hopefuls.remove(cand)
-#                     if len(winners)==1:
-#                         return winners
-#                     #print("cand elected", cand)
-                    
-#                     weight=truncate((vote_counts[cand]-quota)/vote_counts[cand],5) #calculate weight for transfer
-#                     for k in range(len(frame2)): 
-#                         if frame2.at[k,'ballot']!='':
-#                             if frame2.at[k,'ballot'][0]==cand: #make fractional votes
-#                                 frame2.at[k,'Count']=frame2.at[k,'Count']*weight
-#                                 for x in winners:
-#                                     if x in frame2.at[k,'ballot']: #remove winner from ballots
-#                                         frame2.at[k,'ballot']=frame2.at[k,'ballot'].replace(x,'')
-#                             else: #remove winner from ballot
-#                                 if cand in frame2.at[k,'ballot']:
-#                                      frame2.at[k,'ballot']=frame2.at[k,'ballot'].replace(cand,'')
-#                     votes_for_winners.pop(cand)
-#                     vote_counts={}
-                    
-#                     for k in range(len(frame2)): #calculate new vote counts
-#                         if frame2.at[k,'ballot']!='':
-#                             if frame2.at[k,'ballot'][0] in vote_counts.keys():
-#                                 vote_counts[frame2.at[k,'ballot'][0]]+=frame2.iloc[k]['Count']
-#                             else:
-#                                 vote_counts[frame2.at[k,'ballot'][0]]=frame2.iloc[k]['Count']
-
-#                     votes_for_winners={k:vote_counts[k] for k in vote_counts.keys() if vote_counts[k]>=quota }
-#                     votes_for_winners=dict(sorted(votes_for_winners.items(),key=lambda x: x[1], reverse=True))
-#                     for cand in votes_for_winners.keys():
-#                         if cand not in winners:
-#                             winners.append(cand)
-#                             hopefuls.remove(cand)
-#                     if len(winners)==1:
-#                         return winners
-#                     frame2=pd.DataFrame(frame2.groupby(['ballot'],as_index=False)['Count'].sum())
-#         #nobody is elected by surpassing quota, but the number
-#         #of candidates left equals 1
-#         elif len(hopefuls)+len(winners)==1:
-#             return winners+hopefuls
-        
-#         #remove weakest cand and transfer their votes with weight one
-#         else:
-#             min_count=min(i for i in vote_counts.values() if i>0)
-#             count=0
-#             for votes in vote_counts:
-#                 if votes==min_count:
-#                     count+=1
-#             if count>1: #this basically never happens, but it is here just in case
-#                 print("tie in candidate to remove")
-#                 return
-
-#             eliminated_cand = list(vote_counts.keys())[list(vote_counts.values()).index(min_count)] 
-            
-            
-#             if diagnostic:
-#                 print(vote_counts)
-#                 print(eliminated_cand)
-                
-#             elimFrames[len(eliminatedCand)]=frame2.copy(deep=True) #save pref sched data at this level
-#             tempWinners[len(eliminatedCand)]=copy.deepcopy(winners) #save winners at this level
-#             eliminatedCand.append(eliminated_cand)
-#             if eliminated_cand in hopefuls:
-#                 hopefuls.remove(eliminated_cand)
-            
-#             for k in range(len(frame2)): #remove eliminated candidate from ballots
-#                 if eliminated_cand in frame2.iloc[k]['ballot']:
-#                     frame2.at[k,'ballot']=frame2.at[k,'ballot'].replace(eliminated_cand,'')
-#             for k in range(len(frame2)):
-#                 if frame2.at[k,'ballot']=='':
-#                     frame2.drop(k)
-#             vote_counts={} 
-#             for k in range(len(frame2)): #calculate new vote counts
-#                 if frame2.at[k,'ballot']!='':
-#                     if frame2.at[k,'ballot'][0] in vote_counts.keys():
-#                         vote_counts[frame2.at[k,'ballot'][0]]+=frame2.iloc[k]['Count']
-#                     else:
-#                         vote_counts[frame2.at[k,'ballot'][0]]=frame2.iloc[k]['Count']
-                        
-#             max_count=max(vote_counts.values())
-#             if len(hopefuls)+len(winners)==1:
-#                 return winners+hopefuls
-#             frame2=pd.DataFrame(frame2.groupby(['ballot'],as_index=False)['Count'].sum())
-#     return winners #as a list--in this case, should return a list of just one winner
-
-###############################################################################
-###############################################################################
-
-def IRV3(frame3, cands, diagnostic=False):
+def IRV(frame3, cands, diagnostic=False):
     frame2 = frame3.copy(deep=True)
     """Inputs election, Returns winners, losers=eliminated candidates, 
       dictionary of pre-elimination data"""#, dictionary of winners at each step of elimination
@@ -731,7 +590,7 @@ def smith_irv(profile, cands, diagnostic=False):
     smith_set, new_profile = restrict_to_smith(profile, cands, diagnostic=diagnostic)
     if diagnostic:
         print(smith_set)
-    return IRV3(new_profile, smith_set, diagnostic=diagnostic)
+    return IRV(new_profile, smith_set, diagnostic=diagnostic)
 
 ###############################################################################
 ###############################################################################
@@ -745,7 +604,7 @@ def smith_minimax(profile, cands, diagnostic=False):
 ###############################################################################
 ###############################################################################
     
-def condorcet_plurality(profile, cands, diagnostic=False):
+def smith_plurality(profile, cands, diagnostic=False):
     smith_set, new_profile = restrict_to_smith(profile, cands, diagnostic=diagnostic)
     if diagnostic:
         print(smith_set)

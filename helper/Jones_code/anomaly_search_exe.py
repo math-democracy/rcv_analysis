@@ -17,15 +17,42 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 import multiprocessing
 import time
 import traceback
+import json
+
+class NpEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, np.integer):
+            return int(obj)
+        # if isinstance(obj, np.floating):
+        #     return float(obj)
+        # if isinstance(obj, np.ndarray):
+        #     return obj.tolist()
+        return super(NpEncoder, self).default(obj)
+
+
 
 from election_class import *
-from search_algorithm_class import *
 from ballot_modifications_class import *
-from frac_search_algorithm_class import *
+from anomaly_search_class import *
 
 
 #####TODO
 ## 
+
+
+
+
+###############################################################################
+###############################################################################
+##### parameters
+election_group = 'scotland'
+frac = 1
+mp_pool_size = 6
+###############################################################################
+###############################################################################
+
+
+
 
 
 
@@ -70,7 +97,7 @@ def get_election_data(election_location, specific_lxn=-1, diagnostic=False):
     lxn_count = 0
     for folder_name in os.listdir(base_name):
     ## test folder in scotland
-    # for folder_name in ['dumgal12-ballots']:
+    # for folder_name in ['s-lanarks17-ballots']:
     ## test folder in america
     # for folder_name in ['Portland, ME']:
         for file_name in os.listdir(base_name+'/'+folder_name):
@@ -112,44 +139,95 @@ def get_election_data(election_location, specific_lxn=-1, diagnostic=False):
 def gen_search_for_anomaly(params):
     lxn_method, ballot_mod, file_path, profile, num_cands = params
     
-    return [lxn_method.__name__, ballot_mod.__name__, file_path, num_cands] + frac_general_search(profile, num_cands, lxn_method, ballot_mod, 1)
+    for vote_frac in vote_fracs:
+        data = frac_general_search(profile, num_cands, lxn_method, ballot_mod, vote_frac)
+        if data:
+            return [lxn_method.__name__, ballot_mod.__name__, file_path, num_cands] + data
+    
+    return [lxn_method.__name__, ballot_mod.__name__, file_path, num_cands]
     
 ###############################################################################
 ###############################################################################
 
 def IRV_upMonoSearch(params):
     foo1, foo2, file_path, profile, num_cands = params
-    return ['IRV3', 'upMono', file_path, num_cands] + frac_upMonoIRV(profile, num_cands, 1)
-
+    
+    for vote_frac in vote_fracs:
+        data = frac_upMonoIRV(profile, num_cands, vote_frac)
+        if data:
+            return ['IRV', 'upMono', file_path, num_cands] + data
+    
+    return ['IRV', 'upMono', file_path, num_cands]
+    
 def IRV_downMonoSearch(params):
     foo1, foo2, file_path, profile, num_cands = params
-    return ['IRV3', 'downMono', file_path, num_cands] + frac_downMonoIRV(profile, num_cands, 1)
-
+    
+    for vote_frac in vote_fracs:
+        data = frac_downMonoIRV(profile, num_cands, vote_frac)
+        if data:
+            return ['IRV', 'downMono', file_path, num_cands] + data
+    
+    return ['IRV', 'downMono', file_path, num_cands]
+    
 def IRV_noShowSearch(params):
     foo1, foo2, file_path, profile, num_cands = params
-    return ['IRV3', 'noShow', file_path, num_cands] + frac_noShowIRV(profile, num_cands, 1)
-
+    
+    for vote_frac in vote_fracs:
+        data = frac_noShowIRV(profile, num_cands, vote_frac)
+        if data:
+            return ['IRV', 'noShow', file_path, num_cands] + data
+    
+    return ['IRV', 'noShow', file_path, num_cands]
+    
 def PR_upMonoSearch(params):
     foo1, foo2, file_path, profile, num_cands = params
-    return ['plurality_runoff', 'upMono', file_path, num_cands] + frac_upMonoPR(profile, num_cands, 1)
-
+    for vote_frac in vote_fracs:
+        data = frac_upMonoPR(profile, num_cands, vote_frac)
+        if data:
+            return ['plurality_runoff', 'upMono', file_path, num_cands] + data
+    
+    return ['plurality_runoff', 'upMono', file_path, num_cands]
+    
 def PR_noShowSearch(params):
     foo1, foo2, file_path, profile, num_cands = params
-    return ['plurality_runoff', 'noShow', file_path, num_cands] + frac_noShowPR(profile, num_cands, 1)
-
+    
+    for vote_frac in vote_fracs:
+        data = frac_noShowPR(profile, num_cands, vote_frac)
+        if data:
+            return ['plurality_runoff', 'noShow', file_path, num_cands] + data
+    
+    return ['plurality_runoff', 'noShow', file_path, num_cands]
+    
 def bucklin_noShowSearch(params):
     foo1, foo2, file_path, profile, num_cands = params
-    return ['bucklin', 'noShow', file_path, num_cands] + frac_noShowBucklin(profile, num_cands, 1)
-
-def cond_plur_noShowSearch(params):
+    
+    for vote_frac in vote_fracs:
+        data = frac_noShowBucklin(profile, num_cands, vote_frac)
+        if data:
+            return ['bucklin', 'noShow', file_path, num_cands] + data
+    
+    return ['bucklin', 'noShow', file_path, num_cands]
+    
+def smith_plur_noShowSearch(params):
     foo1, foo2, file_path, profile, num_cands = params
-    return ['condorcet_plurality', 'noShow', file_path, num_cands] + frac_noShowCondPlur(profile, num_cands, 1)
-
+    
+    for vote_frac in vote_fracs:
+        data = frac_noShowSmithPlur(profile, num_cands, vote_frac)
+        if data:
+            return ['smith_plurality', 'noShow', file_path, num_cands] + data
+    
+    return ['smith_plurality', 'noShow', file_path, num_cands]
+    
 def smith_irv_noShowSearch(params):
     foo1, foo2, file_path, profile, num_cands = params
-    return ['smith_irv', 'noShow', file_path, num_cands] + frac_noShowSmithIRV(profile, num_cands, 1)
-
-
+    
+    for vote_frac in vote_fracs:
+        data = frac_noShowSmithIRV(profile, num_cands, vote_frac)
+        if data:
+            return ['smith_irv', 'noShow', file_path, num_cands] + data
+    
+    return ['smith_irv', 'noShow', file_path, num_cands]
+    
 
 ###############################################################################
 ###############################################################################
@@ -157,11 +235,11 @@ def smith_irv_noShowSearch(params):
 def sort_search(params):
     try:
         if type(params[0])==str:
-            if params[0]=='IRV3' and params[1]=='upMono':
+            if params[0]=='IRV' and params[1]=='upMono':
                 return IRV_upMonoSearch(params)
-            if params[0]=='IRV3' and params[1]=='downMono':
+            if params[0]=='IRV' and params[1]=='downMono':
                 return IRV_downMonoSearch(params)
-            if params[0]=='IRV3' and params[1]=='noShow':
+            if params[0]=='IRV' and params[1]=='noShow':
                 return IRV_noShowSearch(params)
             if params[0]=='plurality_runoff' and params[1]=='upMono':
                 return PR_upMonoSearch(params)
@@ -169,8 +247,8 @@ def sort_search(params):
                 return PR_noShowSearch(params)
             if params[0]=='bucklin' and params[1]=='noShow':
                 return bucklin_noShowSearch(params)
-            if params[0]=='condorcet_plurality' and params[1]=='noShow':
-                return cond_plur_noShowSearch(params)
+            if params[0]=='smith_plurality' and params[1]=='noShow':
+                return smith_plur_noShowSearch(params)
             if params[0]=='smith_irv' and params[1]=='noShow':
                 return smith_irv_noShowSearch(params)
         else:
@@ -197,15 +275,16 @@ def sort_search(params):
 ###############################################################################
 ###############################################################################
 
-election_group = 'scotland'
-if not os.path.exists(election_group):
-    os.makedirs(election_group)
 
-lxn_methods = [IRV3, smith_irv, Borda_PM, Borda_OM, Borda_AVG, minimax, 
-                smith_minimax, ranked_pairs, plurality, condorcet_plurality,
-                plurality_runoff, bucklin]
+vote_fracs = [1 - i/frac for i in range(frac)]
+if not os.path.exists(election_group+'_anomalies'):
+    os.makedirs(election_group+'_anomalies')
 
-ballot_mod_methods = [LtoTop, truncBalAtL, truncBalAtW, buryWinBal, boostLinBal, deepBuryW]
+lxn_methods = [plurality, plurality_runoff, IRV, smith_irv, smith_plurality, 
+               minimax, smith_minimax, ranked_pairs, 
+               Borda_PM, Borda_OM, Borda_AVG, bucklin]
+
+ballot_mod_methods = [laterNoHarm, strat_compromise, strat_truncate_L, strat_truncate_W, strat_bury_shallow, strat_bury_deep]
 full_anomaly_types = ['upMono', 'downMono', 'noShow'] + [ballot_mod.__name__ for ballot_mod in ballot_mod_methods]
 
 search_combos = {}
@@ -215,13 +294,13 @@ for lxn_method in lxn_methods:
         ## list is file_names, num_cands, old_winner, new_winner, modified_ballots
         search_combos[combo_name] = [[], [], [], [], []]
 ## adding the eight odd anomalies
-search_combos['IRV3_upMono'] = [[], [], [], [], []]
-search_combos['IRV3_downMono'] = [[], [], [], [], []]
-search_combos['IRV3_noShow'] = [[], [], [], [], []]
+search_combos['IRV_upMono'] = [[], [], [], [], []]
+search_combos['IRV_downMono'] = [[], [], [], [], []]
+search_combos['IRV_noShow'] = [[], [], [], [], []]
 search_combos['plurality_runoff_upMono'] = [[], [], [], [], []]
 search_combos['plurality_runoff_noShow'] = [[], [], [], [], []]
 search_combos['bucklin_noShow'] = [[], [], [], [], []]
-search_combos['condorcet_plurality_noShow'] = [[], [], [], [], []]
+search_combos['smith_plurality_noShow'] = [[], [], [], [], []]
 search_combos['smith_irv_noShow'] = [[], [], [], [], []]
 
 
@@ -235,36 +314,38 @@ if __name__ == '__main__':
             for ballot_mod in ballot_mod_methods:
                 gen_lxn_list.append([lxn_method, ballot_mod]+lxn)
     for lxn in lxn_list:
-        gen_lxn_list.append(['IRV3', 'upMono']+lxn)
-        gen_lxn_list.append(['IRV3', 'downMono']+lxn)
-        gen_lxn_list.append(['IRV3', 'noShow']+lxn)
+        gen_lxn_list.append(['IRV', 'upMono']+lxn)
+        gen_lxn_list.append(['IRV', 'downMono']+lxn)
+        gen_lxn_list.append(['IRV', 'noShow']+lxn)
         gen_lxn_list.append(['plurality_runoff', 'upMono']+lxn)
         gen_lxn_list.append(['plurality_runoff', 'noShow']+lxn)
         gen_lxn_list.append(['bucklin', 'noShow']+lxn)
-        gen_lxn_list.append(['condorcet_plurality', 'noShow']+lxn)
+        gen_lxn_list.append(['smith_plurality', 'noShow']+lxn)
         gen_lxn_list.append(['smith_irv', 'noShow']+lxn)
     
     
     ## search for general anomalies
-    pool = multiprocessing.Pool(processes=8)
+    pool = multiprocessing.Pool(processes=mp_pool_size)
     massive_results = pool.map(sort_search, gen_lxn_list)
+    
+    with open(election_group+"_anomalies/massive_results_data.json", "w") as f:
+        json.dump(massive_results, f, cls=NpEncoder)
     
     ## data frame for top line results 
     summary_results = pd.DataFrame(-1, index = full_anomaly_types, 
-                                    columns = [lxn_method.__name__ for lxn_method in lxn_methods])
+            columns = [lxn_method.__name__ for lxn_method in lxn_methods])
     for lxn_method in lxn_methods:
         for ballot_mod in ballot_mod_methods:
             summary_results[lxn_method.__name__][ballot_mod.__name__] = 0
-    summary_results['IRV3']['upMono'] = 0
-    summary_results['IRV3']['downMono'] = 0
-    summary_results['IRV3']['noShow'] = 0
+    summary_results['IRV']['upMono'] = 0
+    summary_results['IRV']['downMono'] = 0
+    summary_results['IRV']['noShow'] = 0
     summary_results['plurality_runoff']['upMono'] = 0
     summary_results['plurality_runoff']['noShow'] = 0
     summary_results['bucklin']['noShow'] = 0
-    summary_results['condorcet_plurality']['noShow'] = 0
+    summary_results['smith_plurality']['noShow'] = 0
     summary_results['smith_irv']['noShow'] = 0
-    
-    
+
     for lxn in massive_results:
         if len(lxn)>4:
             lxn_method = lxn[0]
@@ -277,19 +358,25 @@ if __name__ == '__main__':
             search_combos[combo_name][3].append(lxn[5])
             search_combos[combo_name][4].append(lxn[6])
     
-    
+    summary_results.to_csv(election_group+'_anomalies/top_line_results.csv')    
 
-    summary_results.to_csv(election_group+'/top_line_results.csv')
-    
-    
+
     for combo_name in search_combos.keys():
         full_list = search_combos[combo_name]
-        change_list = [sum([x[-1] for x in y]) for y in full_list[4]]
+        ballot_counts = []
+        for y in full_list[4]:
+            count = 0
+            for x in y:
+                if x:
+                    if type(x[-1])!=str:
+                        count += x[-1]
+            ballot_counts.append(count)
+        change_list = ballot_counts
         df_dict = {'file_name': full_list[0], 'num_cands': full_list[1], 
                     'old_winner': full_list[2], 'new_winner': full_list[3],
                     'ballot_change_num':change_list, 'modified_ballots': full_list[4]}
         csv_data = pd.DataFrame(df_dict)
-        csv_data.to_csv(election_group+'/'+combo_name+'.csv')
+        csv_data.to_csv(election_group+'_anomalies/'+combo_name+'.csv')
     
     
 
@@ -317,9 +404,9 @@ if __name__ == '__main__':
 
 # print('##### Searching for anomalies #####')
 # print('###################################')
-# # vote_methods = [IRV3, smith_irv, Borda_PM, Borda_OM, Borda_AVG, minimax, smith_minimax, ranked_pairs, plurality, condorcet_plurality, plurality_runoff, bucklin]
+# # vote_methods = [IRV, smith_irv, Borda_PM, Borda_OM, Borda_AVG, minimax, smith_minimax, ranked_pairs, plurality, condorcet_plurality, plurality_runoff, bucklin]
 # # vote_methods = [minimax, minimax_fast]
-# # vote_methods = [IRV3]
+# # vote_methods = [IRV]
 
 # # for method in vote_methods:
     
@@ -338,7 +425,7 @@ if __name__ == '__main__':
 #     lxn, profile, num_cands = lxn_list[i]
     
 #     # data = general_search(profile, num_cands, minimax, deepBuryW)
-#     data = frac_upMonoIRV(profile, num_cands, 1)
+#     data = frac_noShowCondPlur(profile, num_cands, 1)
 #     # data = noShowIRV(profile, num_cands)
     
 #     if data:
@@ -347,6 +434,15 @@ if __name__ == '__main__':
 # print(time.time()-start_time)    
 # print(len(anomaly_data))
 # print('###################################')
+
+
+
+
+
+
+
+
+
 
 
 
