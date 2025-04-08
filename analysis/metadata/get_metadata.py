@@ -12,8 +12,8 @@ import json
 root_dir = '/Users/belle/Desktop/build/rcv/raw_data/america/processed_data' # where the data is
 country = "america" # country of the dataset
 
-data_file = './metadata_america.csv' # where you want to put the summary of each election
-metadata_file = './metadata_america.json' # where you want to put the overall statistics
+data_file = './metadata_america2.csv' # where you want to put the summary of each election
+metadata_file = './metadata_america2.json' # where you want to put the overall statistics
 
 def process_files():
     data = read_folders(root_dir)
@@ -48,9 +48,10 @@ def get_insights(df):
     filtered_df["two_skipped_percent"] = (filtered_df["two_skipped"] / filtered_df["num_voters"]) * 100
     filtered_df["three_skipped_percent"] = (filtered_df["three_skipped"] / filtered_df["num_voters"]) * 100
     filtered_df["other_skipped_percent"] = (filtered_df["other_skipped"] / filtered_df["num_voters"]) * 100
+    filtered_df["bullet_vote_percent"] = (filtered_df["bullet_vote"] / filtered_df["num_voters"]) * 100
 
     # Generate descriptive statistics for percentage skipped categories
-    percentage_columns = ["no_skipped_percent", "one_skipped_percent", "two_skipped_percent", "three_skipped_percent", "other_skipped_percent"]
+    percentage_columns = ["no_skipped_percent", "one_skipped_percent", "two_skipped_percent", "three_skipped_percent", "other_skipped_percent", "bullet_vote_percent"]
     stats = filtered_df[percentage_columns].describe()
 
     # num of winners per election
@@ -133,9 +134,20 @@ def get_file_data(filename, full_path):
         with open(full_path, 'r') as file:
             
             reader = csv.DictReader(file)
+            header = reader.fieldnames
+            rank_columns = [col for col in header if col.lower().startswith('rank')]
+            print(rank_columns)
+            max_rank_num = max(
+                int(re.search(r'\d+', col).group())
+                for col in rank_columns
+                if re.search(r'\d+', col)
+            )
+            print(max_rank_num)
+
             rows = list(reader) 
             file_data["num_voters"] = len(rows)
             no_skipped = one_skipped = two_skipped = three_skipped = other_skipped = 0
+            bullet_vote = 0
             unique_write_ins = set()
 
             for row in rows:
@@ -157,6 +169,9 @@ def get_file_data(filename, full_path):
                     three_skipped += 1
                 elif skipped_count > 3:
                     other_skipped += 1
+
+                if skipped_count == (int(max_rank_num) -1):
+                    bullet_vote += 1
 
             unique_write_in = len(unique_write_ins)
             
@@ -207,6 +222,7 @@ def get_file_data(filename, full_path):
                 file_data["three_skipped"] = three_skipped
                 file_data["other_skipped"] = other_skipped
                 file_data["write_in"] = unique_write_in
+                file_data["bullet_vote"] = bullet_vote
         
        # test for truncation? no results.
         # df = pd.read_csv(full_path)   

@@ -1,0 +1,676 @@
+{
+    "elections_per_country": {
+        "america": 583,
+        "total": 583
+    },
+    "skips": {
+        "no_skipped_percent": {
+            "count": 360.0,
+            "mean": 31.706294444007685,
+            "std": 23.635714585627998,
+            "min": 0.0,
+            "25%": 4.249401157873152,
+            "50%": 31.922414087917858,
+            "75%": 52.672768709403016,
+            "max": 83.64585346994006
+        },
+        "one_skipped_percent": {
+            "count": 360.0,
+            "mean": 15.598603809205391,
+            "std": 11.293104290122578,
+            "min": 0.45835219556360346,
+            "25%": 6.515541702425602,
+            "50%": 14.480917733857531,
+            "75%": 22.11396753724856,
+            "max": 59.31931012712715
+        },
+        "two_skipped_percent": {
+            "count": 360.0,
+            "mean": 22.328043625682444,
+            "std": 14.748764573953654,
+            "min": 0.2027712064886786,
+            "25%": 10.898566247286748,
+            "50%": 19.37811206521619,
+            "75%": 30.746511779840638,
+            "max": 68.38540226707217
+        },
+        "three_skipped_percent": {
+            "count": 360.0,
+            "mean": 13.341006556540407,
+            "std": 17.731994153603424,
+            "min": 0.0,
+            "25%": 0.0,
+            "50%": 5.8216643914411925,
+            "75%": 19.64495841042189,
+            "max": 74.4671097868439
+        },
+        "other_skipped_percent": {
+            "count": 360.0,
+            "mean": 17.026051564564078,
+            "std": 25.471569668157752,
+            "min": 0.0,
+            "25%": 0.0,
+            "50%": 0.0,
+            "75%": 29.033792142580477,
+            "max": 96.67117269347753
+        },
+        "bullet_vote_percent": {
+            "count": 360.0,
+            "mean": 31.93192605000122,
+            "std": 15.2173214060171,
+            "min": 2.390985709050934,
+            "25%": 20.961409952853074,
+            "50%": 29.666057195890957,
+            "75%": 42.019488988324284,
+            "max": 74.4671097868439
+        }
+    },
+    "aggregate_candidates": {
+        "america": {
+            "count": 583.0,
+            "mean": 5.39622641509434,
+            "std": 4.515622309507172,
+            "min": 1.0,
+            "25%": 3.0,
+            "50%": 4.0,
+            "75%": 6.0,
+            "max": 36.0
+        }
+    },
+    "candidates_per_election": {
+        "america": [
+            {
+                "num_cands": 1,
+                "count": 9
+            },
+            {
+                "num_cands": 2,
+                "count": 67
+            },
+            {
+                "num_cands": 3,
+                "count": 147
+            },
+            {
+                "num_cands": 4,
+                "count": 117
+            },
+            {
+                "num_cands": 5,
+                "count": 94
+            },
+            {
+                "num_cands": 6,
+                "count": 25
+            },
+            {
+                "num_cands": 7,
+                "count": 31
+            },
+            {
+                "num_cands": 8,
+                "count": 18
+            },
+            {
+                "num_cands": 9,
+                "count": 13
+            },
+            {
+                "num_cands": 10,
+                "count": 12
+            },
+            {
+                "num_cands": 11,
+                "count": 8
+            },
+            {
+                "num_cands": 12,
+                "count": 5
+            },
+            {
+                "num_cands": 13,
+                "count": 6
+            },
+            {
+                "num_cands": 14,
+                "count": 3
+            },
+            {
+                "num_cands": 15,
+                "count": 2
+            },
+            {
+                "num_cands": 16,
+                "count": 2
+            },
+            {
+                "num_cands": 17,
+                "count": 2
+            },
+            {
+                "num_cands": 18,
+                "count": 2
+            },
+            {
+                "num_cands": 19,
+                "count": 3
+            },
+            {
+                "num_cands": 20,
+                "count": 1
+            },
+            {
+                "num_cands": 21,
+                "count": 3
+            },
+            {
+                "num_cands": 22,
+                "count": 3
+            },
+            {
+                "num_cands": 23,
+                "count": 3
+            },
+            {
+                "num_cands": 24,
+                "count": 1
+            },
+            {
+                "num_cands": 26,
+                "count": 2
+            },
+            {
+                "num_cands": 27,
+                "count": 1
+            },
+            {
+                "num_cands": 31,
+                "count": 2
+            },
+            {
+                "num_cands": 36,
+                "count": 1
+            }
+        ]
+    },
+    "winners_per_election": {
+        "america": [
+            {
+                "num_seats": 1.0,
+                "count": 540
+            },
+            {
+                "num_seats": 2.0,
+                "count": 14
+            },
+            {
+                "num_seats": 3.0,
+                "count": 9
+            },
+            {
+                "num_seats": 6.0,
+                "count": 9
+            },
+            {
+                "num_seats": 9.0,
+                "count": 11
+            }
+        ]
+    },
+    "aggregate_voters": {
+        "america": {
+            "count": 583.0,
+            "mean": 39343.54888507719,
+            "std": 88127.88188207652,
+            "min": 121.0,
+            "25%": 6961.5,
+            "50%": 14106.0,
+            "75%": 26109.5,
+            "max": 942031.0
+        }
+    },
+    "votes_per_election": {
+        "america": [
+            {
+                "voter_category": 1000,
+                "voter_category_count": 11
+            },
+            {
+                "voter_category": 2000,
+                "voter_category_count": 17
+            },
+            {
+                "voter_category": 3000,
+                "voter_category_count": 19
+            },
+            {
+                "voter_category": 4000,
+                "voter_category_count": 23
+            },
+            {
+                "voter_category": 5000,
+                "voter_category_count": 18
+            },
+            {
+                "voter_category": 6000,
+                "voter_category_count": 30
+            },
+            {
+                "voter_category": 7000,
+                "voter_category_count": 29
+            },
+            {
+                "voter_category": 8000,
+                "voter_category_count": 41
+            },
+            {
+                "voter_category": 9000,
+                "voter_category_count": 27
+            },
+            {
+                "voter_category": 10000,
+                "voter_category_count": 17
+            },
+            {
+                "voter_category": 11000,
+                "voter_category_count": 18
+            },
+            {
+                "voter_category": 12000,
+                "voter_category_count": 14
+            },
+            {
+                "voter_category": 13000,
+                "voter_category_count": 8
+            },
+            {
+                "voter_category": 14000,
+                "voter_category_count": 18
+            },
+            {
+                "voter_category": 15000,
+                "voter_category_count": 21
+            },
+            {
+                "voter_category": 16000,
+                "voter_category_count": 18
+            },
+            {
+                "voter_category": 17000,
+                "voter_category_count": 19
+            },
+            {
+                "voter_category": 18000,
+                "voter_category_count": 19
+            },
+            {
+                "voter_category": 19000,
+                "voter_category_count": 8
+            },
+            {
+                "voter_category": 20000,
+                "voter_category_count": 11
+            },
+            {
+                "voter_category": 21000,
+                "voter_category_count": 13
+            },
+            {
+                "voter_category": 22000,
+                "voter_category_count": 7
+            },
+            {
+                "voter_category": 23000,
+                "voter_category_count": 6
+            },
+            {
+                "voter_category": 24000,
+                "voter_category_count": 11
+            },
+            {
+                "voter_category": 25000,
+                "voter_category_count": 6
+            },
+            {
+                "voter_category": 26000,
+                "voter_category_count": 8
+            },
+            {
+                "voter_category": 27000,
+                "voter_category_count": 5
+            },
+            {
+                "voter_category": 28000,
+                "voter_category_count": 5
+            },
+            {
+                "voter_category": 29000,
+                "voter_category_count": 10
+            },
+            {
+                "voter_category": 30000,
+                "voter_category_count": 6
+            },
+            {
+                "voter_category": 31000,
+                "voter_category_count": 2
+            },
+            {
+                "voter_category": 32000,
+                "voter_category_count": 7
+            },
+            {
+                "voter_category": 33000,
+                "voter_category_count": 5
+            },
+            {
+                "voter_category": 34000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 35000,
+                "voter_category_count": 5
+            },
+            {
+                "voter_category": 36000,
+                "voter_category_count": 7
+            },
+            {
+                "voter_category": 37000,
+                "voter_category_count": 3
+            },
+            {
+                "voter_category": 38000,
+                "voter_category_count": 2
+            },
+            {
+                "voter_category": 40000,
+                "voter_category_count": 2
+            },
+            {
+                "voter_category": 41000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 42000,
+                "voter_category_count": 2
+            },
+            {
+                "voter_category": 43000,
+                "voter_category_count": 2
+            },
+            {
+                "voter_category": 46000,
+                "voter_category_count": 2
+            },
+            {
+                "voter_category": 51000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 53000,
+                "voter_category_count": 2
+            },
+            {
+                "voter_category": 54000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 59000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 60000,
+                "voter_category_count": 2
+            },
+            {
+                "voter_category": 61000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 70000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 77000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 78000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 80000,
+                "voter_category_count": 2
+            },
+            {
+                "voter_category": 81000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 85000,
+                "voter_category_count": 2
+            },
+            {
+                "voter_category": 96000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 98000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 99000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 102000,
+                "voter_category_count": 2
+            },
+            {
+                "voter_category": 105000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 107000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 120000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 127000,
+                "voter_category_count": 2
+            },
+            {
+                "voter_category": 129000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 132000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 135000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 143000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 144000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 145000,
+                "voter_category_count": 2
+            },
+            {
+                "voter_category": 146000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 150000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 154000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 155000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 159000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 161000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 162000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 164000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 177000,
+                "voter_category_count": 2
+            },
+            {
+                "voter_category": 184000,
+                "voter_category_count": 2
+            },
+            {
+                "voter_category": 186000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 187000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 189000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 190000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 194000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 195000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 196000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 200000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 225000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 238000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 252000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 256000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 262000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 263000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 264000,
+                "voter_category_count": 2
+            },
+            {
+                "voter_category": 276000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 290000,
+                "voter_category_count": 2
+            },
+            {
+                "voter_category": 293000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 300000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 305000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 311000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 315000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 317000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 318000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 330000,
+                "voter_category_count": 2
+            },
+            {
+                "voter_category": 338000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 348000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 391000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 819000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 869000,
+                "voter_category_count": 1
+            },
+            {
+                "voter_category": 943000,
+                "voter_category_count": 1
+            }
+        ]
+    }
+}
