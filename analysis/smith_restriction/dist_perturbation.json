@@ -1,0 +1,83 @@
+{
+    "america": {
+        "0.1": {
+            "smith_irv": 2,
+            "smith_plurality": 2,
+            "smith_minimax": 2
+        },
+        "0.2": {
+            "smith_irv": 2,
+            "smith_plurality": 2,
+            "smith_minimax": 2
+        },
+        "0.4": {
+            "smith_irv": 2,
+            "smith_plurality": 2,
+            "smith_minimax": 2
+        },
+        "0.6": {
+            "smith_irv": 2,
+            "smith_plurality": 2,
+            "smith_minimax": 2
+        },
+        "0.8": {
+            "smith_irv": 2,
+            "smith_plurality": 2,
+            "smith_minimax": 2
+        }
+    },
+    "australia": {
+        "0.1": {
+            "smith_irv": 0,
+            "smith_plurality": 0,
+            "smith_minimax": 0
+        },
+        "0.2": {
+            "smith_irv": 0,
+            "smith_plurality": 0,
+            "smith_minimax": 0
+        },
+        "0.4": {
+            "smith_irv": 0,
+            "smith_plurality": 0,
+            "smith_minimax": 0
+        },
+        "0.6": {
+            "smith_irv": 0,
+            "smith_plurality": 0,
+            "smith_minimax": 0
+        },
+        "0.8": {
+            "smith_irv": 0,
+            "smith_plurality": 0,
+            "smith_minimax": 0
+        }
+    },
+    "scotland": {
+        "0.1": {
+            "smith_irv": 9,
+            "smith_plurality": 12,
+            "smith_minimax": 10
+        },
+        "0.2": {
+            "smith_irv": 11,
+            "smith_plurality": 13,
+            "smith_minimax": 12
+        },
+        "0.4": {
+            "smith_irv": 12,
+            "smith_plurality": 13,
+            "smith_minimax": 13
+        },
+        "0.6": {
+            "smith_irv": 12,
+            "smith_plurality": 13,
+            "smith_minimax": 14
+        },
+        "0.8": {
+            "smith_irv": 12,
+            "smith_plurality": 13,
+            "smith_minimax": 14
+        }
+    }
+}
