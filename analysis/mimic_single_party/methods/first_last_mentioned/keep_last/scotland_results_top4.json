@@ -12,11 +12,12 @@
             "top-3-truncation": 108,
             "condorcet": 48,
             "minimax": 47,
+            "smith": 48,
             "smith_plurality": 42,
             "smith_irv": 40,
             "smith-minimax": 47,
             "ranked-pairs": 47,
-            "bucklin": 93,
+            "bucklin": 94,
             "approval": 47
         },
         "file_summary": {
@@ -801,6 +802,56 @@
                 "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/stirling17-ballots/DunblaneandBridgeofAllan_stirling17-03.csv",
                 "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/w-lothian12-ballots/FauldhouseandtheBriechValley_w-lothian12-06.csv"
             ],
+            "smith": [
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/w-lothian17-ballots/Ward8-Bathgate_w-lothian17-08.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/glasgow12/Ward15Maryhill-Kelvin_glasgow12-15.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/fife12-ballots/LevenKennowayAndLargoWard_fife12-22.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/fife12-ballots/InverkeithingAndDalgetyBayWard_fife12-06.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/glasgow22/Ward1Linn_Ward1.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/aberdeenshire12-ballots/StonehavenandLowerDeesideWard_aberdeenshire12-18.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/sc-borders22/Ward7-EastBerwickshire_sc borders,2022,ward 7.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/e-lothian22/Ward2-PrestonSetonandGosford_Ward2.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/s-ayrshire12-ballots/Ward5-AyrWest_s-ayrshire12-05.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/s-lanarks17-ballots/Ward8-EastKilbrideCentralNorth_s-lanarks17-08.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/e-ayrshire17-ballots/Ballochmyle_e-ayrshire17-07.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/angus22/Ward8-MontroseandDistrict_ward8.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/angus22/Ward6-ArbroathWestLethamandFriockheim_ward6.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/angus22/Ward4-MonifiethandSidlaw_ward4.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/w-lothian22/Ward5-EastLivingstonandEastCalder_west lothian,2022,ward 5.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/renfs22/Preference_profile_for_Ward_6_Paisley_Southeast_copy.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/n-ayrshire17-ballots/Stevenston_n-ayrshire17-04.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/edinburgh22/Ward16-Liberton-Gilmerton_ward16.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/n-lanarks17-ballots/Ward5-Stepps,ChrystonandMuirhead_n-lanarks17-005.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/n-lanarks17-ballots/Ward18-MotherwellNorth_n-lanarks17-018.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/n-lanarks17-ballots/Ward4-CumbernauldEast_n-lanarks17-004.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/n-lanarks17-ballots/Ward7-CoatbridgeNorth_n-lanarks17-007.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/n-lanarks17-ballots/Ward2-CumbernauldNorth_n-lanarks17-002.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/edinburgh12-ballots/Portobello_CraigmillarWard_edinburgh12-17.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/dundee12-ballots/TheFerryWard_dundee12-08.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/stirling22/preferenceprofile_v0001_ward-1-trossachs-and-teith_06052022_124254.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/s-lanarks22/ward_18_hamilton_west_and_earnock_preference_profile.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/n-lanarks22/Ward17-MotherwellWest_Preference Profile Ward 17 Motherwell West.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/falkirk12-ballots/FalkirkSouth_falkirk12-07.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/glasgow17-ballots/Ward2NewlandsAuldburn_glasgow17-002.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/glasgow17-ballots/Ward13GarscaddenScotstounhill_glasgow17-013.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/glasgow17-ballots/Ward1Linn_glasgow17-001.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/perth-kinross17-ballots/Ward5-Strathtay_perth-kinross17-05.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/renfs17-ballots/Ward5-PaisleyEastandCentral_renfs17-05.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/renfs17-ballots/Ward12-ErskineandInchinnan_renfs17-12.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/renfs17-ballots/Ward3-PaisleyNortheastandRalston_renfs17-03.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/argyll-bute12-ballots/OBANSOUTHANDTHEISLESWARD_argyll-bute12-04.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/highland12-ballots/FortWilliamandArdnamurchanWard_highland12-22.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/s-lanarks12-ballots/Ward5-AvondaleandStonehouse_s-lanarks12-05.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/fife22/V0001_Ward-14-Glenrothes-North-Leslie-and-Markinch_06052022_151925.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/fife22/PreferenceProfile_V0001_Ward-18-St.-Andrews_06052022_151928.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/fife17-ballots/Ward12-KirkcaldyEast_fife17-12.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/fife17-ballots/Ward11-KirkcaldyCentral_fife17-11.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/e-renfs12-ballots/NeilstonUplawmoorandNewtonMearnsNorthWard_e-renfs12-01.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/e-lothian17-ballots/Musselburgh_e-lothian17-01.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/stirling17-ballots/ForthandEndrick_stirling17-02.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/stirling17-ballots/DunblaneandBridgeofAllan_stirling17-03.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/w-lothian12-ballots/FauldhouseandtheBriechValley_w-lothian12-06.csv"
+            ],
             "smith_plurality": [
                 "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/w-lothian17-ballots/Ward8-Bathgate_w-lothian17-08.csv",
                 "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/glasgow12/Ward15Maryhill-Kelvin_glasgow12-15.csv",
@@ -1005,6 +1056,7 @@
                 "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/angus17-ballots/ArbroathWest,LethamandFriockheim_angus17-06.csv",
                 "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/angus17-ballots/KirriemuirandDean_angus17-01.csv",
                 "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/highland17-ballots/Ward1-North,WestandCentralSutherland_highland17-01.csv",
+                "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/s-lanarks17-ballots/Ward8-EastKilbrideCentralNorth_s-lanarks17-08.csv",
                 "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/s-lanarks17-ballots/Ward12-RutherglenCentralandNorth_s-lanarks17-12.csv",
                 "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/s-lanarks17-ballots/Ward7-EastKilbrideCentralSouth_s-lanarks17-07.csv",
                 "analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/e-ayrshire17-ballots/Ballochmyle_e-ayrshire17-07.csv",
@@ -1378,6 +1430,11 @@
                     "baseline_winner": "['Jim WALKER (Ind)']",
                     "top4": "['Charles KENNEDY (Con)']"
                 },
+                "smith": {
+                    "numCands": 9,
+                    "baseline_winner": "['Jim WALKER (Ind)']",
+                    "top4": "['Charles KENNEDY (Con)']"
+                },
                 "smith_plurality": {
                     "numCands": 9,
                     "baseline_winner": "['Jim WALKER (Ind)']",
@@ -1580,6 +1637,11 @@
                     "top4": "['Franny SCALLY (SNP)']"
                 },
                 "minimax": {
+                    "numCands": 8,
+                    "baseline_winner": "['Steen PARISH (Grn)']",
+                    "top4": "['Franny SCALLY (SNP)']"
+                },
+                "smith": {
                     "numCands": 8,
                     "baseline_winner": "['Steen PARISH (Grn)']",
                     "top4": "['Franny SCALLY (SNP)']"
@@ -2157,6 +2219,11 @@
                     "baseline_winner": "['Joe COCHRANE (SSC)']",
                     "top4": "['Tom ADAMS (Lab)']"
                 },
+                "smith": {
+                    "numCands": 8,
+                    "baseline_winner": "['Joe COCHRANE (SSC)']",
+                    "top4": "['Tom ADAMS (Lab)']"
+                },
                 "smith_plurality": {
                     "numCands": 8,
                     "baseline_winner": "['Joe COCHRANE (SSC)']",
@@ -2295,6 +2362,11 @@
                     "top4": "['Dave DEMPSEY (Con)']"
                 },
                 "minimax": {
+                    "numCands": 7,
+                    "baseline_winner": "['Dave WALKER (LD)']",
+                    "top4": "['Dave DEMPSEY (Con)']"
+                },
+                "smith": {
                     "numCands": 7,
                     "baseline_winner": "['Dave WALKER (LD)']",
                     "top4": "['Dave DEMPSEY (Con)']"
@@ -2681,6 +2753,11 @@
                     "baseline_winner": "['Keith WARWICK (Grn)']",
                     "top4": "['Catherine VALLIS Glasgow (Lab)']"
                 },
+                "smith": {
+                    "numCands": 9,
+                    "baseline_winner": "['Joe MCCAULEY (LD)', 'Catherine VALLIS Glasgow (Lab)', 'Keith WARWICK (Grn)', 'Margaret MORGAN (SNP)']",
+                    "top4": "['Catherine VALLIS Glasgow (Lab)']"
+                },
                 "smith_plurality": {
                     "numCands": 9,
                     "baseline_winner": "['Margaret MORGAN (SNP)']",
@@ -2927,6 +3004,11 @@
                     "baseline_winner": "['Bob MICHIE (Ind)']",
                     "top4": "['Wendy AGNEW (Con)']"
                 },
+                "smith": {
+                    "numCands": 10,
+                    "baseline_winner": "['Bob MICHIE (Ind)']",
+                    "top4": "['Wendy AGNEW (Con)']"
+                },
                 "smith_plurality": {
                     "numCands": 10,
                     "baseline_winner": "['Bob MICHIE (Ind)']",
@@ -3123,6 +3205,11 @@
                     "baseline_winner": "['Raquel LLOYD-JONES (Ind)']",
                     "top4": "['James ANDERSON (Ind)']"
                 },
+                "smith": {
+                    "numCands": 8,
+                    "baseline_winner": "['Raquel LLOYD-JONES (Ind)']",
+                    "top4": "['James ANDERSON (Ind)']"
+                },
                 "smith_plurality": {
                     "numCands": 8,
                     "baseline_winner": "['Raquel LLOYD-JONES (Ind)']",
@@ -3252,6 +3339,11 @@
                 "condorcet": {
                     "numCands": 8,
                     "baseline_winner": "[]",
+                    "top4": "['Lachlan BRUCE (Con)']"
+                },
+                "smith": {
+                    "numCands": 8,
+                    "baseline_winner": "['Brooke RITCHIE (Lab)', 'Lachlan BRUCE (Con)', 'Tim PORTEUS (Grn)']",
                     "top4": "['Lachlan BRUCE (Con)']"
                 },
                 "smith_irv": {
@@ -3413,6 +3505,11 @@
                     "top4": "['Robin REID (Con)']"
                 },
                 "minimax": {
+                    "numCands": 7,
+                    "baseline_winner": "['Brian MCKINLAY (Ind)']",
+                    "top4": "['Robin REID (Con)']"
+                },
+                "smith": {
                     "numCands": 7,
                     "baseline_winner": "['Brian MCKINLAY (Ind)']",
                     "top4": "['Robin REID (Con)']"
@@ -4228,6 +4325,11 @@
                     "baseline_winner": "['James THORNBURY (Grn)']",
                     "top4": "['Darren CLYDE (Con)']"
                 },
+                "smith": {
+                    "numCands": 8,
+                    "baseline_winner": "['James THORNBURY (Grn)']",
+                    "top4": "['Darren CLYDE (Con)']"
+                },
                 "smith_plurality": {
                     "numCands": 8,
                     "baseline_winner": "['James THORNBURY (Grn)']",
@@ -4244,6 +4346,11 @@
                     "top4": "['Darren CLYDE (Con)']"
                 },
                 "ranked-pairs": {
+                    "numCands": 8,
+                    "baseline_winner": "['James THORNBURY (Grn)']",
+                    "top4": "['Darren CLYDE (Con)']"
+                },
+                "bucklin": {
                     "numCands": 8,
                     "baseline_winner": "['James THORNBURY (Grn)']",
                     "top4": "['Darren CLYDE (Con)']"
@@ -4522,6 +4629,11 @@
                     "baseline_winner": "['David SHAW (Ind)']",
                     "top4": "['Alyson SIMMONS (Con)']"
                 },
+                "smith": {
+                    "numCands": 7,
+                    "baseline_winner": "['David SHAW (Ind)']",
+                    "top4": "['Alyson SIMMONS (Con)']"
+                },
                 "smith_plurality": {
                     "numCands": 7,
                     "baseline_winner": "['David SHAW (Ind)']",
@@ -4739,6 +4851,11 @@
                     "baseline_winner": "['Mark SALMOND (Ind)']",
                     "top4": "['Tommy STEWART (Ind)']"
                 },
+                "smith": {
+                    "numCands": 9,
+                    "baseline_winner": "['Mark SALMOND (Ind)']",
+                    "top4": "['Tommy STEWART (Ind)']"
+                },
                 "smith_plurality": {
                     "numCands": 9,
                     "baseline_winner": "['Mark SALMOND (Ind)']",
@@ -4803,6 +4920,11 @@
                     "top4": "['Ian WREN (Ind)']"
                 },
                 "minimax": {
+                    "numCands": 10,
+                    "baseline_winner": "['David FAIRWEATHER (Ind)']",
+                    "top4": "['Ian WREN (Ind)']"
+                },
+                "smith": {
                     "numCands": 10,
                     "baseline_winner": "['David FAIRWEATHER (Ind)']",
                     "top4": "['Ian WREN (Ind)']"
@@ -4925,6 +5047,11 @@
                     "top4": "['Heather DORAN (Lab)']"
                 },
                 "minimax": {
+                    "numCands": 8,
+                    "baseline_winner": "['Ben George LAWRIE (LD)']",
+                    "top4": "['Heather DORAN (Lab)']"
+                },
+                "smith": {
                     "numCands": 8,
                     "baseline_winner": "['Ben George LAWRIE (LD)']",
                     "top4": "['Heather DORAN (Lab)']"
@@ -5161,6 +5288,11 @@
                     "top4": "['Damian DORAN-TIMSON (Con)']"
                 },
                 "minimax": {
+                    "numCands": 10,
+                    "baseline_winner": "['Neal DRUMMOND (Grn)']",
+                    "top4": "['Damian DORAN-TIMSON (Con)']"
+                },
+                "smith": {
                     "numCands": 10,
                     "baseline_winner": "['Neal DRUMMOND (Grn)']",
                     "top4": "['Damian DORAN-TIMSON (Con)']"
@@ -5425,6 +5557,11 @@
                     "top4": "['Stuart Alexander MCAUSLAND (Lab)']"
                 },
                 "minimax": {
+                    "numCands": 9,
+                    "baseline_winner": "['David Richard LAFFAN (Grn)']",
+                    "top4": "['Stuart Alexander MCAUSLAND (Lab)']"
+                },
+                "smith": {
                     "numCands": 9,
                     "baseline_winner": "['David Richard LAFFAN (Grn)']",
                     "top4": "['Stuart Alexander MCAUSLAND (Lab)']"
@@ -5714,7 +5851,7 @@
             "changes": {
                 "borda-om": {
                     "numCands": 5,
-                    "baseline_winner": "['Alec George PRIEST (Ind)', 'Ryan James Andrew THOMSON (Ind)']",
+                    "baseline_winner": "['Ryan James Andrew THOMSON (Ind)', 'Alec George PRIEST (Ind)']",
                     "top4": "['Ryan James Andrew THOMSON (Ind)']"
                 },
                 "bucklin": {
@@ -5845,6 +5982,11 @@
                     "top4": "['Tom MCCAMMONT (Con)']"
                 },
                 "minimax": {
+                    "numCands": 8,
+                    "baseline_winner": "['Alan MUNRO (Ind)']",
+                    "top4": "['Tom MCCAMMONT (Con)']"
+                },
+                "smith": {
                     "numCands": 8,
                     "baseline_winner": "['Alan MUNRO (Ind)']",
                     "top4": "['Tom MCCAMMONT (Con)']"
@@ -6416,6 +6558,11 @@
                     "baseline_winner": "['John NICHOL (Grn)']",
                     "top4": "['Ishrat MEASOM (Labour and Co-operative Party)']"
                 },
+                "smith": {
+                    "numCands": 10,
+                    "baseline_winner": "['John NICHOL (Grn)', 'Martha MATTOS COELHO (SNP)', 'Ishrat MEASOM (Labour and Co-operative Party)']",
+                    "top4": "['Ishrat MEASOM (Labour and Co-operative Party)']"
+                },
                 "smith-minimax": {
                     "numCands": 10,
                     "baseline_winner": "['John NICHOL (Grn)']",
@@ -6834,6 +6981,11 @@
                     "baseline_winner": "['Frances MCGLINCHEY (Ind)']",
                     "top4": "['Stephen GOLDSACK (Con)']"
                 },
+                "smith": {
+                    "numCands": 6,
+                    "baseline_winner": "['Frances MCGLINCHEY (Ind)']",
+                    "top4": "['Stephen GOLDSACK (Con)']"
+                },
                 "smith_plurality": {
                     "numCands": 6,
                     "baseline_winner": "['Frances MCGLINCHEY (Ind)']",
@@ -6934,6 +7086,11 @@
                     "top4": "['Olivia CARSON (Lab)']"
                 },
                 "minimax": {
+                    "numCands": 6,
+                    "baseline_winner": "['Helen MCKENNA (IANL) (UNKNOWN)']",
+                    "top4": "['Olivia CARSON (Lab)']"
+                },
+                "smith": {
                     "numCands": 6,
                     "baseline_winner": "['Helen MCKENNA (IANL) (UNKNOWN)']",
                     "top4": "['Olivia CARSON (Lab)']"
@@ -7102,6 +7259,11 @@
                     "baseline_winner": "['Anne MCCROSSAN (Grn)']",
                     "top4": "['Stevie GRANT (Lab)']"
                 },
+                "smith": {
+                    "numCands": 8,
+                    "baseline_winner": "['Anne MCCROSSAN (Grn)', 'Stevie GRANT (Lab)', 'David STARK (Con)', 'Tom JOHNSTON (SNP)']",
+                    "top4": "['Stevie GRANT (Lab)']"
+                },
                 "smith_plurality": {
                     "numCands": 8,
                     "baseline_winner": "['Tom JOHNSTON (SNP)']",
@@ -7256,6 +7418,11 @@
                     "baseline_winner": "['Julie Patricia MCANULTY (Ind)']",
                     "top4": "['Bill SHIELDS (Lab)']"
                 },
+                "smith": {
+                    "numCands": 8,
+                    "baseline_winner": "['Julie Patricia MCANULTY (Ind)']",
+                    "top4": "['Bill SHIELDS (Lab)']"
+                },
                 "smith_plurality": {
                     "numCands": 8,
                     "baseline_winner": "['Julie Patricia MCANULTY (Ind)']",
@@ -7328,6 +7495,11 @@
                     "top4": "[\"Alan O'BRIEN (Ind)\"]"
                 },
                 "minimax": {
+                    "numCands": 10,
+                    "baseline_winner": "['Fraser MORRISON (Ind)']",
+                    "top4": "[\"Alan O'BRIEN (Ind)\"]"
+                },
+                "smith": {
                     "numCands": 10,
                     "baseline_winner": "['Fraser MORRISON (Ind)']",
                     "top4": "[\"Alan O'BRIEN (Ind)\"]"
@@ -7768,6 +7940,11 @@
                     "baseline_winner": "['Peter MCCOLL(Grn)']",
                     "top4": "['Maureen CHILD(Lab)']"
                 },
+                "smith": {
+                    "numCands": 8,
+                    "baseline_winner": "['Peter MCCOLL(Grn)']",
+                    "top4": "['Maureen CHILD(Lab)']"
+                },
                 "smith_plurality": {
                     "numCands": 8,
                     "baseline_winner": "['Peter MCCOLL(Grn)']",
@@ -8076,6 +8253,11 @@
                     "baseline_winner": "['Craig Robertson DUNCAN (LD)']",
                     "top4": "['Laurie BIDWELL (Lab)']"
                 },
+                "smith": {
+                    "numCands": 6,
+                    "baseline_winner": "['Craig Robertson DUNCAN (LD)']",
+                    "top4": "['Laurie BIDWELL (Lab)']"
+                },
                 "smith_plurality": {
                     "numCands": 6,
                     "baseline_winner": "['Craig Robertson DUNCAN (LD)']",
@@ -8257,6 +8439,11 @@
                     "top4": "['Elaine WATTERSON (Con)']"
                 },
                 "minimax": {
+                    "numCands": 8,
+                    "baseline_winner": "['Wendy FAULKNER (Grn)']",
+                    "top4": "['Elaine WATTERSON (Con)']"
+                },
+                "smith": {
                     "numCands": 8,
                     "baseline_winner": "['Wendy FAULKNER (Grn)']",
                     "top4": "['Elaine WATTERSON (Con)']"
@@ -8493,6 +8680,11 @@
                 "minimax": {
                     "numCands": 7,
                     "baseline_winner": "['Mark MCGEEVER (LD)']",
+                    "top4": "['Graeme HORNE (SNP)']"
+                },
+                "smith": {
+                    "numCands": 7,
+                    "baseline_winner": "['Graeme HORNE (SNP)', 'Mark MCGEEVER (LD)', 'Jim LEE (Lab)']",
                     "top4": "['Graeme HORNE (SNP)']"
                 },
                 "smith_irv": {
@@ -9080,6 +9272,11 @@
                 "minimax": {
                     "numCands": 6,
                     "baseline_winner": "['Gordon Thomas MILLER (Grn)']",
+                    "top4": "['Megan MCCANN (Lab)']"
+                },
+                "smith": {
+                    "numCands": 6,
+                    "baseline_winner": "['Megan MCCANN (Lab)', 'Gordon Thomas MILLER (Grn)', 'Lindsey EVANS (SNP)']",
                     "top4": "['Megan MCCANN (Lab)']"
                 },
                 "smith-minimax": {
@@ -10108,6 +10305,11 @@
                     "baseline_winner": "['Joe LEMETTI (Ind)']",
                     "top4": "['GERRY GOLDIE (Lab)']"
                 },
+                "smith": {
+                    "numCands": 7,
+                    "baseline_winner": "['Joe LEMETTI (Ind)']",
+                    "top4": "['GERRY GOLDIE (Lab)']"
+                },
                 "smith_plurality": {
                     "numCands": 7,
                     "baseline_winner": "['Joe LEMETTI (Ind)']",
@@ -10409,6 +10611,11 @@
                     "baseline_winner": "['Charles GAY (Grn)']",
                     "top4": "['Kyle THORNTON (Con)']"
                 },
+                "smith": {
+                    "numCands": 7,
+                    "baseline_winner": "['Charles GAY (Grn)']",
+                    "top4": "['Kyle THORNTON (Con)']"
+                },
                 "smith_plurality": {
                     "numCands": 7,
                     "baseline_winner": "['Charles GAY (Grn)']",
@@ -10475,6 +10682,11 @@
                     "top4": "['Eva MURRAY (Lab)']"
                 },
                 "minimax": {
+                    "numCands": 10,
+                    "baseline_winner": "['Gillian MACDONALD (Grn)']",
+                    "top4": "['Eva MURRAY (Lab)']"
+                },
+                "smith": {
                     "numCands": 10,
                     "baseline_winner": "['Gillian MACDONALD (Grn)']",
                     "top4": "['Eva MURRAY (Lab)']"
@@ -10624,6 +10836,11 @@
                     "top4": "['Euan BLOCKLEY (Con)']"
                 },
                 "minimax": {
+                    "numCands": 12,
+                    "baseline_winner": "['Cathy MILLIGAN (Ind)']",
+                    "top4": "['Euan BLOCKLEY (Con)']"
+                },
+                "smith": {
                     "numCands": 12,
                     "baseline_winner": "['Cathy MILLIGAN (Ind)']",
                     "top4": "['Euan BLOCKLEY (Con)']"
@@ -11098,6 +11315,11 @@
                     "baseline_winner": "['Elspeth Anne COUTTS (Grn)']",
                     "top4": "['Ian JAMES (Con)']"
                 },
+                "smith": {
+                    "numCands": 7,
+                    "baseline_winner": "['Elspeth Anne COUTTS (Grn)']",
+                    "top4": "['Ian JAMES (Con)']"
+                },
                 "smith_plurality": {
                     "numCands": 7,
                     "baseline_winner": "['Elspeth Anne COUTTS (Grn)']",
@@ -11416,6 +11638,11 @@
                     "baseline_winner": "['Will MYLET (SNP)']",
                     "top4": "['Stuart Alexander MCAUSLAND (Lab)']"
                 },
+                "smith": {
+                    "numCands": 7,
+                    "baseline_winner": "['Stuart Alexander MCAUSLAND (Lab)', 'Daniel Alexander SPEIRS (Grn)', 'Will MYLET (SNP)']",
+                    "top4": "['Stuart Alexander MCAUSLAND (Lab)']"
+                },
                 "smith_plurality": {
                     "numCands": 7,
                     "baseline_winner": "['Will MYLET (SNP)']",
@@ -11482,6 +11709,11 @@
                     "top4": "['Tom BEGG (Con)']"
                 },
                 "minimax": {
+                    "numCands": 9,
+                    "baseline_winner": "['Andy CAMERON (Ind)']",
+                    "top4": "['Tom BEGG (Con)']"
+                },
+                "smith": {
                     "numCands": 9,
                     "baseline_winner": "['Andy CAMERON (Ind)']",
                     "top4": "['Tom BEGG (Con)']"
@@ -11630,6 +11862,11 @@
                     "baseline_winner": "['Catriona CAMPBELL (LD)']",
                     "top4": "['Neill GRAHAM (Con)']"
                 },
+                "smith": {
+                    "numCands": 9,
+                    "baseline_winner": "['Catriona CAMPBELL (LD)']",
+                    "top4": "['Neill GRAHAM (Con)']"
+                },
                 "smith_plurality": {
                     "numCands": 9,
                     "baseline_winner": "['Catriona CAMPBELL (LD)']",
@@ -11743,6 +11980,11 @@
                     "baseline_winner": "['Alistair MACDOUGALL (Ind)']",
                     "top4": "['Gordon CHALMERS (Ind)']"
                 },
+                "smith": {
+                    "numCands": 9,
+                    "baseline_winner": "['Alistair MACDOUGALL (Ind)']",
+                    "top4": "['Gordon CHALMERS (Ind)']"
+                },
                 "smith_plurality": {
                     "numCands": 9,
                     "baseline_winner": "['Alistair MACDOUGALL (Ind)']",
@@ -11801,7 +12043,7 @@
                 },
                 "borda-om": {
                     "numCands": 6,
-                    "baseline_winner": "['Aileen MORTON (LD)', 'Vivien DANCE (Ind)']",
+                    "baseline_winner": "['Vivien DANCE (Ind)', 'Aileen MORTON (LD)']",
                     "top4": "['Aileen MORTON (LD)']"
                 },
                 "top-3-truncation": {
@@ -12143,6 +12385,11 @@
                     "baseline_winner": "['Thomas MACLENNAN (Ind)']",
                     "top4": "['Andrew Phillip BAXTER (Ind)']"
                 },
+                "smith": {
+                    "numCands": 8,
+                    "baseline_winner": "['Thomas MACLENNAN (Ind)']",
+                    "top4": "['Andrew Phillip BAXTER (Ind)']"
+                },
                 "smith_plurality": {
                     "numCands": 8,
                     "baseline_winner": "['Thomas MACLENNAN (Ind)']",
@@ -12310,6 +12557,11 @@
                     "top4": "['William HOLMAN (SNP)']"
                 },
                 "minimax": {
+                    "numCands": 11,
+                    "baseline_winner": "['Lynn FILSHIE (Ind)']",
+                    "top4": "['William HOLMAN (SNP)']"
+                },
+                "smith": {
                     "numCands": 11,
                     "baseline_winner": "['Lynn FILSHIE (Ind)']",
                     "top4": "['William HOLMAN (SNP)']"
@@ -12746,6 +12998,11 @@
                     "baseline_winner": "['Lynn MOWATT (SNP)']",
                     "top4": "['Peter GULLINE (Con)']"
                 },
+                "smith": {
+                    "numCands": 8,
+                    "baseline_winner": "['Frances Jean BENNIE (LD)', 'Lynn MOWATT (SNP)', 'Bryce GOODALL (Grn)', 'Peter GULLINE (Con)']",
+                    "top4": "['Peter GULLINE (Con)']"
+                },
                 "smith_plurality": {
                     "numCands": 8,
                     "baseline_winner": "['Lynn MOWATT (SNP)']",
@@ -12976,6 +13233,11 @@
                 "minimax": {
                     "numCands": 6,
                     "baseline_winner": "['Rosalind GARTON (Lab)']",
+                    "top4": "['Ann VERNER (SNP)']"
+                },
+                "smith": {
+                    "numCands": 6,
+                    "baseline_winner": "['Ann VERNER (SNP)', 'Al CLARK (LD)', 'Rosalind GARTON (Lab)']",
                     "top4": "['Ann VERNER (SNP)']"
                 },
                 "smith-minimax": {
@@ -14083,6 +14345,11 @@
                     "baseline_winner": "['Marie PENMAN (Ind)']",
                     "top4": "['MHAIRI CAITLIN CAMERON (Lab)']"
                 },
+                "smith": {
+                    "numCands": 9,
+                    "baseline_winner": "['Marie PENMAN (Ind)']",
+                    "top4": "['MHAIRI CAITLIN CAMERON (Lab)']"
+                },
                 "smith_plurality": {
                     "numCands": 9,
                     "baseline_winner": "['Marie PENMAN (Ind)']",
@@ -14224,6 +14491,11 @@
                 "minimax": {
                     "numCands": 9,
                     "baseline_winner": "['Judy HAMILTON (Lab)']",
+                    "top4": "['Dorothy ROSS (Con)']"
+                },
+                "smith": {
+                    "numCands": 9,
+                    "baseline_winner": "['Cairinne MACDONALD (Grn)', 'Maciej WICZYNSKI (SNP)', 'Dorothy ROSS (Con)', 'Judy HAMILTON (Lab)']",
                     "top4": "['Dorothy ROSS (Con)']"
                 },
                 "smith-minimax": {
@@ -14412,6 +14684,11 @@
                     "baseline_winner": "['Grace MCCARTHY (Grn)']",
                     "top4": "[\"Paul O'KANE (Lab)\"]"
                 },
+                "smith": {
+                    "numCands": 9,
+                    "baseline_winner": "['Grace MCCARTHY (Grn)']",
+                    "top4": "[\"Paul O'KANE (Lab)\"]"
+                },
                 "smith_plurality": {
                     "numCands": 9,
                     "baseline_winner": "['Grace MCCARTHY (Grn)']",
@@ -14481,6 +14758,11 @@
                     "top4": "['Katie MACKIE (Con)']"
                 },
                 "minimax": {
+                    "numCands": 9,
+                    "baseline_winner": "['Jason ROSE (Grn)']",
+                    "top4": "['Katie MACKIE (Con)']"
+                },
+                "smith": {
                     "numCands": 9,
                     "baseline_winner": "['Jason ROSE (Grn)']",
                     "top4": "['Katie MACKIE (Con)']"
@@ -14972,6 +15254,11 @@
                     "baseline_winner": "['Evan MCLEAN (Ind)']",
                     "top4": "['Robert DAVIES (Con)']"
                 },
+                "smith": {
+                    "numCands": 7,
+                    "baseline_winner": "['Evan MCLEAN (Ind)']",
+                    "top4": "['Robert DAVIES (Con)']"
+                },
                 "smith_plurality": {
                     "numCands": 7,
                     "baseline_winner": "['Evan MCLEAN (Ind)']",
@@ -15090,6 +15377,11 @@
                     "top4": "['Mike ROBBINS (Lab)']"
                 },
                 "minimax": {
+                    "numCands": 7,
+                    "baseline_winner": "['Alasdair TOLLEMACHE (Grn)']",
+                    "top4": "['Mike ROBBINS (Lab)']"
+                },
+                "smith": {
                     "numCands": 7,
                     "baseline_winner": "['Alasdair TOLLEMACHE (Grn)']",
                     "top4": "['Mike ROBBINS (Lab)']"
@@ -15270,6 +15562,11 @@
                     "top4": "['Cathy MULDOON (Lab)']"
                 },
                 "minimax": {
+                    "numCands": 6,
+                    "baseline_winner": "['Jim WARNOCK (Ind)']",
+                    "top4": "['Cathy MULDOON (Lab)']"
+                },
+                "smith": {
                     "numCands": 6,
                     "baseline_winner": "['Jim WARNOCK (Ind)']",
                     "top4": "['Cathy MULDOON (Lab)']"

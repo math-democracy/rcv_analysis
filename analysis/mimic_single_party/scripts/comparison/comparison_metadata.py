@@ -26,21 +26,9 @@ def get_party(candidate):
         return candidate
 
 def gen_scoreless_metadata():
-    file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_first/single_v_multi_comparison.csv'  # Replace with file path
-    if 'mention_score' in file_path:
-        score = 'mention_cands'
-        with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/fringe/mention_scores/scotland_mention_scores.json', 'r') as file:
-            score_info = json.load(file)
-    elif 'borda' in file_path:
-        score = 'borda_cands'
-        with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/fringe/borda_scores/scotland_borda_scores.json', 'r') as file:
-            score_info = json.load(file)
-    elif 'first_place' in file_path:
-        score = 'first_place_cands'
-        with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/scotland_first_place_ranks.json', 'r') as file:
-            score_info = json.load(file)
-    else:
-        score_info = None
+    file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_last/single_v_multi_comparison.csv'  # Replace with file path
+
+    score_info = None
 
     df = pd.read_csv(file_path)
 
@@ -295,6 +283,6 @@ def gen_metadata(METHOD):
 
 # gen_metadata('america')
 # gen_metadata('australia')
-gen_metadata('borda_score')
+#gen_metadata('borda_score')
 # gen_metadata('civs')
-#gen_scoreless_metadata()
+gen_scoreless_metadata()
