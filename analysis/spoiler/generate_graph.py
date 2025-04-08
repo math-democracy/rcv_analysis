@@ -12,9 +12,9 @@ def run(country):
 
     plt.figure(figsize=(10, 6))
     plt.barh(methods, counts, color="skyblue")
-    plt.xlabel("Count")
+    plt.xlabel("Number of elections")
     plt.ylabel("Method")
-    plt.title("Method Counts Bar Chart")
+    plt.title("Number of elections where a method is susceptible to spoiler effect")
     plt.gca().invert_yaxis()  
     plt.savefig(f'{country}.png')
 
