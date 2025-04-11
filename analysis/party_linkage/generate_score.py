@@ -79,6 +79,8 @@ def count_second_somewhere(df, party_to_candidates):
 
     rank_cols = [col for col in df.columns if col.startswith("rank")]
 
+    rank_obj = {key: 0 for key in rank_cols}
+
     print(rank_cols)
 
     for _, row in df.iterrows():
@@ -103,28 +105,31 @@ def count_second_somewhere(df, party_to_candidates):
         for col in rank_cols[1:]:  # skip rank1
             candidate = row[col]
             if candidate != "skipped" and candidate in same_party_candidates and candidate != rank1:
+                rank_obj[col] += 1
                 found_same_party_elsewhere = True
-                break
 
         if found_same_party_elsewhere:
             same_party_elsewhere += 1
-    
+        
     if votes == 0:
         return -1
     elif same_party_elsewhere == 0:
         return 0
     else:
-        return same_party_elsewhere/votes
+        for key in rank_obj:
+            rank_obj[key] = rank_obj[key] / votes
+        return same_party_elsewhere/votes, rank_obj
 
 def process(file, results):
     df, candidates, party_to_candidates = process_file(file)
     one_two = count_two_in_row(df, party_to_candidates)
-    one_something = count_second_somewhere(df, party_to_candidates)
+    one_something, rank_obj = count_second_somewhere(df, party_to_candidates)
 
     d = {
         "file": file.replace("/Users/belle/Desktop/build/rcv/raw_data/scotland/processed_data/", ""),
         "one_two": one_two,
-        "one_something": one_something
+        "one_something": one_something,
+        "rank_obj": rank_obj
     }
 
     with open(results, mode='a', newline='') as file:
