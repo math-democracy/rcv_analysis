@@ -59,7 +59,8 @@ def main(country):
             
             try:
                 for method in original_winners[file]:
-                    if (pd.notna(row[method]) and pd.notna(original_winners[file][method])):
+
+                    if method != "approval" and (pd.notna(row[method]) and pd.notna(original_winners[file][method])):
                         # baseline = re.sub(r"(?<=[a-zA-Z])'(?=[a-zA-Z])", "", original_winners[file][method])
                         # new = re.sub(r"(?<=[a-zA-Z])'(?=[a-zA-Z])", "", row[method])
                         # candidate_cloned = re.sub(r"(?<=[a-zA-Z])'(?=[a-zA-Z])", "", candidate_cloned)
@@ -171,4 +172,4 @@ def main(country):
 # for country in countries:
 #     main(country)
 
-main('scotland')
+main('america')
