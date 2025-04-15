@@ -18,7 +18,7 @@ def create_graph():
     plt.show()
 
 def generate_statistics():
-    df = pd.read_csv("./results.csv")
+    df = pd.read_csv("./results4.csv")
     df['rank_obj'] = df['rank_obj'].apply(ast.literal_eval)
     rank_df = pd.json_normalize(df['rank_obj'])
 
@@ -26,11 +26,12 @@ def generate_statistics():
     # df_combined = pd.concat([df.drop(columns='rank_obj'), rank_df], axis=1)
 
     invalid_counts = {
-        "one_two": str((df["one_two"] == -1).sum()),
+        # "one_two": str((df["one_two"] == -1).sum()),
         "one_something": str((df["one_something"] == -1).sum())
     }
 
-    df = df[df["one_two"] != -1]
+    # df = df[df["one_two"] != -1]
+    df = df[df["one_something"] != -1]
 
     stats = df.describe().to_dict()
 
@@ -44,11 +45,11 @@ def generate_statistics():
     "rank": rank_states
     }
     
-    with open("distribution.json", "w") as f:
+    with open("distribution2.json", "w") as f:
         json.dump(output, f, indent=2)
 
 def plot_rank_mean():
-    with open('distribution.json', 'r') as f:  # Replace with your actual file path
+    with open('distribution2.json', 'r') as f:  # Replace with your actual file path
         data = json.load(f)
 
     # Extract the mean values
