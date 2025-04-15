@@ -5,12 +5,21 @@ import numpy as np
 
 def run(country):
     with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/tiebreaker/borda/spoiler/winners_with_metadata.json') as file:
-        borda_data = json.load(file)
+        new_borda_data = json.load(file)
 
     with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/tiebreaker/first_place/spoiler/winners_with_metadata.json') as file:
-        first_place_data = json.load(file)
+        new_first_place_data = json.load(file)
 
     with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/tiebreaker/mention/spoiler/winners_with_metadata.json') as file:
+        new_mention_data = json.load(file)
+
+    with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/borda_score/spoiler/winners_with_metadata.json') as file:
+        borda_data = json.load(file)
+
+    with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_place_score/spoiler/winners_with_metadata.json') as file:
+        first_place_data = json.load(file)
+
+    with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/mention_score/spoiler/winners_with_metadata.json') as file:
         mention_data = json.load(file)
 
     with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/spoiler/scotland.json') as file:
@@ -25,6 +34,9 @@ def run(country):
     borda_data = borda_data["metadata"]["method_counts"]
     first_place_data = first_place_data["metadata"]["method_counts"]
     mention_data = mention_data["metadata"]["method_counts"]
+    new_borda_data = new_borda_data["metadata"]["method_counts"]
+    new_first_place_data = new_first_place_data["metadata"]["method_counts"]
+    new_mention_data = new_mention_data["metadata"]["method_counts"]
     keep_first = keep_first["metadata"]["method_counts"]
     keep_last = keep_last["metadata"]["method_counts"]
     original_data = original_data["metadata"]["method_counts"]
@@ -34,6 +46,9 @@ def run(country):
     borda_data = {key: borda_data[key] for key in methods if key in borda_data} #dict(sorted(borda_data.items()))
     first_place_data = {key: first_place_data[key] for key in methods if key in first_place_data} #dict(sorted(first_place_data.items()))
     mention_data = {key: mention_data[key] for key in methods if key in mention_data} #dict(sorted(mention_data.items()))
+    new_borda_data = {key: new_borda_data[key] for key in methods if key in new_borda_data} #dict(sorted(borda_data.items()))
+    new_first_place_data = {key: new_first_place_data[key] for key in methods if key in new_first_place_data} #dict(sorted(first_place_data.items()))
+    new_mention_data = {key: new_mention_data[key] for key in methods if key in new_mention_data}
     keep_first = {key: keep_first[key] for key in methods if key in keep_first} #dict(sorted(keep_first.items()))
     keep_last = {key: keep_last[key] for key in methods if key in keep_last} #dict(sorted(keep_last.items()))
     original_data = {key: original_data[key] for key in methods if key in original_data} #dict(sorted(original_data.items()))
@@ -41,7 +56,7 @@ def run(country):
     methods = ['plurality', 'borda-om', 'approval', 'top-3-truncation', 'top-two', 'bucklin', 'IRV', 'borda-avg', 'borda-pm', 'condorcet', 'smith', 'smith_plurality', 'minimax', 'ranked-pairs', 'smith_irv', 'smith-minimax']
     n = len(methods)
     r = np.arange(n) 
-    width = 0.12
+    width = 0.2
     # print(borda_data.keys())
     # print(first_place_data.keys())
     # print(mention_data.keys())
@@ -55,6 +70,9 @@ def run(country):
     borda_counts = list(borda_data.values())
     mention_counts = list(mention_data.values())
     first_place_counts = list(first_place_data.values())
+    new_borda_counts = list(new_borda_data.values())
+    new_mention_counts = list(new_mention_data.values())
+    new_first_place_counts = list(new_first_place_data.values())
     keep_first_counts = list(keep_first.values())
     keep_last_counts = list(keep_last.values())
     original_counts = list(original_data.values())
@@ -62,13 +80,19 @@ def run(country):
     plt.figure(figsize=(20, 11))
     #plt.figure(figsize=(25, 11))
     print(original_counts)
+    #plt.bar(r + 0*width, borda_counts, color="midnightblue", width=width, label='old borda score')
+    #plt.bar(r + 1*width, new_borda_counts, color="lightsteelblue", width=width, label='new borda score')
+    #plt.bar(r + 2*width, mention_counts, color="maroon", width=width, label='old mention score')
+    #plt.bar(r + 3*width, new_mention_counts, color="lightcoral", width=width, label='new mention score')
+    #plt.bar(r + 4*width, first_place_counts, color="darkgreen", width=width, label='old first place score')
+    # plt.bar(r + 5*width, new_first_place_counts, color="lightgreen", width=width, label='new first place score')
+    # plt.bar(r + 6*width, keep_first_counts, color="hotpink", width=width, label='keep first mentioned')
+    
     plt.bar(r, original_counts, color="midnightblue", width=width, label='original')
-    plt.bar(r + 1*width, borda_counts, color="mediumblue", width=width, label='borda score')
-    plt.bar(r + 2*width, mention_counts, color="cornflowerblue", width=width, label='mention score')
-    plt.bar(r+ 3*width, first_place_counts, color="lightsteelblue", width=width, label='first place score')
-    plt.bar(r+ 4*width, keep_first_counts, color="dodgerblue", width=width, label='keep first mentioned')
-    plt.bar(r+ 5*width, keep_last_counts, color="deepskyblue", width=width, label='keep last mentioned')
-
+    plt.bar(r + width, borda_counts, color="firebrick", width=width, label='borda score')
+    plt.bar(r + 2*width, mention_counts, color="indianred", width=width, label='mention score')
+    plt.bar(r+ 3*width, first_place_counts, color="lightcoral", width=width, label='first place score')
+    
     plt.xlabel("Count")
     plt.ylabel("Method")
     plt.xticks(r + width/2,methods,rotation=40) 
