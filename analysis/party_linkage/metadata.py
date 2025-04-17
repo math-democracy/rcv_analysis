@@ -18,31 +18,32 @@ def create_graph():
     plt.show()
 
 def generate_statistics():
-    df = pd.read_csv("./results4.csv")
-    df['rank_obj'] = df['rank_obj'].apply(ast.literal_eval)
-    rank_df = pd.json_normalize(df['rank_obj'])
+    df = pd.read_csv("/Users/belle/Desktop/build/rcv/analysis/party_linkage/results6.csv")
+    print(df)
+    # df['rank_obj'] = df['rank_obj'].apply(ast.literal_eval)
+    # rank_df = pd.json_normalize(df['rank_obj'])
 
     # Combine with original df if needed
     # df_combined = pd.concat([df.drop(columns='rank_obj'), rank_df], axis=1)
 
-    invalid_counts = {
-        # "one_two": str((df["one_two"] == -1).sum()),
-        "one_something": str((df["one_something"] == -1).sum())
-    }
+    # invalid_counts = {
+    #     # "one_two": str((df["one_two"] == -1).sum()),
+    #     "one_change": str((df["one_change"] == -1).sum())
+    # }
 
     # df = df[df["one_two"] != -1]
-    df = df[df["one_something"] != -1]
+    df = df[df["one_change"] != -1]
 
     stats = df.describe().to_dict()
 
-    rank_states = rank_df.describe().to_dict()
+    # rank_states = rank_df.describe().to_dict()
 
     rounded_stats = {col: {k: round(v, 4) for k, v in stat.items()} for col, stat in stats.items()}
 
     output = {
     "stats": rounded_stats,
-    "invalid_counts": invalid_counts,
-    "rank": rank_states
+    # "invalid_counts": invalid_counts,
+    # "rank": rank_states
     }
     
     with open("distribution2.json", "w") as f:
@@ -68,4 +69,4 @@ def plot_rank_mean():
     plt.tight_layout()
     plt.show()
 
-plot_rank_mean()
+generate_statistics()

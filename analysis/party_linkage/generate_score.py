@@ -121,6 +121,87 @@ def count_second_somewhere(df, party_to_candidates):
             rank_obj[key] = rank_obj[key] / votes
         return same_party_elsewhere/votes, rank_obj
 
+def count_one_switch(df, party_to_candidates):
+    votes = 0
+    diff_party_next = 0
+
+    rank_cols = [col for col in df.columns if col.startswith("rank")]
+
+    rank_obj = {key: 0 for key in rank_cols}
+
+    # print(rank_cols)
+
+    for _, row in df.iterrows():
+        rank1 = row['rank1']
+        rank2 = row['rank2']
+
+        if rank1 == "skipped": #okay for rank2 to be skipped because it means they prefer no one to the next person
+            continue
+
+        party = get_party(rank1)
+        if not party:
+            # print(rank1, "no party")
+            continue
+
+        same_party_candidates = party_to_candidates[party]
+        if len(same_party_candidates) < 2:
+            # print(rank1, "no other cand of same party")
+            continue
+
+        votes += 1
+
+        if rank2 not in same_party_candidates:
+            print(party_to_candidates)
+            print(rank1, rank2)
+            diff_party_next += 1
+        
+    if votes == 0:
+        return -1
+    elif diff_party_next == 0:
+        return 0
+    else:
+        return diff_party_next/votes
+    
+
+def count_one_not(df, party_to_candidates):
+    votes = 0
+    skipped_next = 0
+
+    rank_cols = [col for col in df.columns if col.startswith("rank")]
+
+    rank_obj = {key: 0 for key in rank_cols}
+
+    # print(rank_cols)
+
+    for _, row in df.iterrows():
+        rank1 = row['rank1']
+        rank2 = row['rank2']
+
+        if rank1 == "skipped": #okay for rank2 to be skipped because it means they prefer no one to the next person
+            continue
+
+        party = get_party(rank1)
+        if not party:
+            # print(rank1, "no party")
+            continue
+
+        same_party_candidates = party_to_candidates[party]
+        if len(same_party_candidates) < 2:
+            # print(rank1, "no other cand of same party")
+            continue
+
+        votes += 1
+
+        if rank2 == "skipped":
+            skipped_next += 1
+        
+    if votes == 0:
+        return -1
+    elif skipped_next == 0:
+        return 0
+    else:
+        return skipped_next/votes
+    
 def count_all(df, party_to_candidates):
     votes = 0
     not_all = 0
@@ -177,15 +258,17 @@ def count_all(df, party_to_candidates):
 def process(file, results):
     df, candidates, party_to_candidates = process_file(file)
     # one_two = count_two_in_row(df, party_to_candidates)
-    one_something, rank_obj = count_second_somewhere(df, party_to_candidates)
+    # one_something, rank_obj = count_second_somewhere(df, party_to_candidates)
     # c_all = count_all(df, party_to_candidates)
+    one_change = count_one_not(df, party_to_candidates)
 
     d = {
         "file": file.replace("/Users/belle/Desktop/build/rcv/raw_data/scotland/processed_data/", ""),
         # "count_all": c_all
         # "one_two": one_two,
-        "one_something": one_something,
-        "rank_obj": rank_obj
+        # "one_something": one_something,
+        "one_change": one_change,
+        # "rank_obj": rank_obj
     }
 
     with open(results, mode='a', newline='') as file:
@@ -211,7 +294,7 @@ def main():
                 full_path = os.path.join(dirpath, filename)
                 lowest_folder = os.path.basename(os.path.dirname(full_path))
 
-                results = f'./results4.csv'
+                results = f'./results6.csv'
 
                 if __name__ == '__main__':
                     p = multiprocessing.Process(target=process, args=(full_path, results))
