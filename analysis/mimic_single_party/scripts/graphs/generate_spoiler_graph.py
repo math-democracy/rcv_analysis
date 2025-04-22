@@ -4,13 +4,13 @@ import matplotlib.cm as cm
 import numpy as np
 
 def run(country):
-    with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/borda_score/spoiler/winners_with_metadata.json') as file:
+    with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/tiebreaker/borda/spoiler/winners_with_metadata.json') as file:
         borda_data = json.load(file)
 
-    with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_place_score/spoiler/winners_with_metadata.json') as file:
+    with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/tiebreaker/first_place/spoiler/winners_with_metadata.json') as file:
         first_place_data = json.load(file)
 
-    with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/mention_score/spoiler/winners_with_metadata.json') as file:
+    with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/tiebreaker/mention/spoiler/winners_with_metadata.json') as file:
         mention_data = json.load(file)
 
     with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/spoiler/scotland.json') as file:
@@ -22,8 +22,6 @@ def run(country):
     with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_last/spoiler/winners_with_metadata.json') as file:
         keep_last = json.load(file)
 
-
-    
     borda_data = borda_data["metadata"]["method_counts"]
     first_place_data = first_place_data["metadata"]["method_counts"]
     mention_data = mention_data["metadata"]["method_counts"]
@@ -43,7 +41,7 @@ def run(country):
     methods = ['plurality', 'borda-om', 'approval', 'top-3-truncation', 'top-two', 'bucklin', 'IRV', 'borda-avg', 'borda-pm', 'condorcet', 'smith', 'smith_plurality', 'minimax', 'ranked-pairs', 'smith_irv', 'smith-minimax']
     n = len(methods)
     r = np.arange(n) 
-    width = 0.2
+    width = 0.12
     # print(borda_data.keys())
     # print(first_place_data.keys())
     # print(mention_data.keys())
@@ -64,12 +62,12 @@ def run(country):
     plt.figure(figsize=(20, 11))
     #plt.figure(figsize=(25, 11))
     print(original_counts)
-    #plt.bar(r, original_counts, color="midnightblue", width=width, label='original')
-    plt.bar(r + 0*width, borda_counts, color="mediumblue", width=width, label='borda score')
-    plt.bar(r + 1*width, mention_counts, color="cornflowerblue", width=width, label='mention score')
-    plt.bar(r+ 2*width, first_place_counts, color="lightsteelblue", width=width, label='first place score')
-    #plt.bar(r+ 4*width, keep_first_counts, color="dodgerblue", width=width, label='keep first mentioned')
-    #plt.bar(r+ 5*width, keep_last_counts, color="deepskyblue", width=width, label='keep last mentioned')
+    plt.bar(r, original_counts, color="midnightblue", width=width, label='original')
+    plt.bar(r + 1*width, borda_counts, color="mediumblue", width=width, label='borda score')
+    plt.bar(r + 2*width, mention_counts, color="cornflowerblue", width=width, label='mention score')
+    plt.bar(r+ 3*width, first_place_counts, color="lightsteelblue", width=width, label='first place score')
+    plt.bar(r+ 4*width, keep_first_counts, color="dodgerblue", width=width, label='keep first mentioned')
+    plt.bar(r+ 5*width, keep_last_counts, color="deepskyblue", width=width, label='keep last mentioned')
 
     plt.xlabel("Count")
     plt.ylabel("Method")

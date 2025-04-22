@@ -4,7 +4,7 @@ import json
 with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/metadata/party_breakdown.json', 'r') as file:
     party_info = json.load(file)
 
-root = 'analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data/'
+root = 'analysis/mimic_single_party/methods/tiebreaker/mention/processed_data/'
 
 def gen_metadata(file_path):
     num_cands_kept = 4
@@ -81,6 +81,6 @@ def gen_metadata(file_path):
 # gen_metadata('america')
 # gen_metadata('australia')
 METHOD = 'mention_score'
-file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_last/scotland_results_top4.csv'  # Replace with file path
+file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/tiebreaker/mention/scotland_results_top4.csv'  # Replace with file path
 gen_metadata(file_path)
 # gen_metadata('civs')

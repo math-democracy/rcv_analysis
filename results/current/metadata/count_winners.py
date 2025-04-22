@@ -29,6 +29,6 @@ def count_winners(file):
     
     print("Winner counts saved to winner_counts.json")
 
-filepath = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/results/current/scotland.csv'
+filepath = '/Users/belle/Desktop/build/rcv/results/current/scotland.csv'
 #filepath = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/results/scotland.csv'
 count_winners(filepath)

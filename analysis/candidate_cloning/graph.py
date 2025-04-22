@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import json
 
 def graph(country):
-    with open(f'./results/{country}.json', 'r') as file:
+    with open(f'./results/{country}_no_approval.json', 'r') as file:
         data = json.load(file)
 
     data = data["metadata"]["method_counts_by_percentage"]
@@ -30,5 +30,5 @@ def graph(country):
     # plt.show()
 
 graph('america')
-graph('australia')
-graph('scotland')
+# graph('australia')
+# graph('scotland')

@@ -56,4 +56,4 @@ def load_and_compare(folder_path):
     master_df.to_csv('updated_results.csv')
 
 
-load_and_compare('/Users/belle/Desktop/build/rcv_proposal/analysis/candidate_cloning/results_hpc/2')
+load_and_compare('/Users/belle/Desktop/build/rcv/analysis/candidate_cloning/results/files')

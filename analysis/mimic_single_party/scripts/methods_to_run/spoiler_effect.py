@@ -8,9 +8,9 @@ import ast
 # file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/{METHOD}/spoiler/scotland_results.csv'  # Replace with your actual file path
 # og = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/{METHOD}/scotland_current.csv'
 
-METHOD = 'first'
-file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_{METHOD}/spoiler/scotland_results.csv'
-og = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_{METHOD}/scotland_current.csv'
+METHOD = 'first_place'
+file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/tiebreaker/{METHOD}/spoiler/scotland_results.csv'
+og = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/tiebreaker/{METHOD}/scotland_current.csv'
 df = pd.read_csv(file_path)
 
 # Get row where no candidates were removed
