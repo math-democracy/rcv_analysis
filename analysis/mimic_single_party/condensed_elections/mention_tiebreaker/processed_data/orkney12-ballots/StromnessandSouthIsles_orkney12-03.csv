@@ -93,7 +93,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 91,James STOCKAN (Ind),John BROWN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
 92,James STOCKAN (Ind),John BROWN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
 93,James STOCKAN (Ind),John BROWN (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
-94,James STOCKAN (Ind),John BROWN (Ind),Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Delia Mary HALL (UKIP),,7
+94,James STOCKAN (Ind),John BROWN (Ind),Terry THOMSON (Ind),SNP,Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),UKIP,,7
 95,James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
 96,James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
 97,James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
@@ -109,20 +109,20 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 107,James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
 108,James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
 109,James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
-110,James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Rob CRICHTON (Ind),,7
+110,James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),UKIP,SNP,Terry THOMSON (Ind),Rob CRICHTON (Ind),,7
 111,James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,,7
 112,James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,,7
 113,James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,,7
 114,James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,skipped,,7
 115,James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,skipped,,7
-116,James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),,7
-117,James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),Terry THOMSON (Ind),skipped,,7
-118,James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),Delia Mary HALL (UKIP),Terry THOMSON (Ind),,7
-119,James STOCKAN (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,,7
-120,James STOCKAN (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,,7
-121,James STOCKAN (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,,7
-122,James STOCKAN (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,,7
-123,James STOCKAN (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),,7
+116,James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),UKIP,SNP,,7
+117,James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),SNP,UKIP,Terry THOMSON (Ind),skipped,,7
+118,James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),SNP,Rob CRICHTON (Ind),UKIP,Terry THOMSON (Ind),,7
+119,James STOCKAN (Ind),John BROWN (Ind),UKIP,skipped,skipped,skipped,skipped,,7
+120,James STOCKAN (Ind),John BROWN (Ind),UKIP,skipped,skipped,skipped,skipped,,7
+121,James STOCKAN (Ind),John BROWN (Ind),UKIP,skipped,skipped,skipped,skipped,,7
+122,James STOCKAN (Ind),John BROWN (Ind),UKIP,skipped,skipped,skipped,skipped,,7
+123,James STOCKAN (Ind),John BROWN (Ind),UKIP,SNP,Terry THOMSON (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),,7
 124,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 125,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 126,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
@@ -172,8 +172,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 170,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 171,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 172,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,,7
-173,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),skipped,,7
-174,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),Maurice DAVIDSON (Ind),,7
+173,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),SNP,UKIP,skipped,,7
+174,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),SNP,UKIP,Maurice DAVIDSON (Ind),,7
 175,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
 176,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
 177,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
@@ -181,18 +181,18 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 179,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
 180,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),skipped,skipped,,7
 181,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),skipped,skipped,,7
-182,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Delia Mary HALL (UKIP),,7
-183,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Delia Mary HALL (UKIP),,7
-184,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,,7
-185,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,,7
-186,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),skipped,skipped,,7
-187,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Delia Mary HALL (UKIP),Maurice DAVIDSON (Ind),,7
-188,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),,7
-189,James STOCKAN (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-190,James STOCKAN (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-191,James STOCKAN (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-192,James STOCKAN (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),Rob CRICHTON (Ind),,7
-193,James STOCKAN (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),skipped,skipped,skipped,,7
+182,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),SNP,Terry THOMSON (Ind),UKIP,,7
+183,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),SNP,Terry THOMSON (Ind),UKIP,,7
+184,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,,7
+185,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,,7
+186,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),SNP,Terry THOMSON (Ind),skipped,skipped,,7
+187,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),SNP,Terry THOMSON (Ind),UKIP,Maurice DAVIDSON (Ind),,7
+188,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),SNP,Maurice DAVIDSON (Ind),Terry THOMSON (Ind),UKIP,,7
+189,James STOCKAN (Ind),John BROWN (Ind),SNP,skipped,skipped,skipped,skipped,,7
+190,James STOCKAN (Ind),John BROWN (Ind),SNP,skipped,skipped,skipped,skipped,,7
+191,James STOCKAN (Ind),John BROWN (Ind),SNP,skipped,skipped,skipped,skipped,,7
+192,James STOCKAN (Ind),John BROWN (Ind),SNP,Maurice DAVIDSON (Ind),Terry THOMSON (Ind),UKIP,Rob CRICHTON (Ind),,7
+193,James STOCKAN (Ind),John BROWN (Ind),SNP,Rob CRICHTON (Ind),skipped,skipped,skipped,,7
 194,James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 195,James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 196,James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -208,9 +208,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 206,James STOCKAN (Ind),Terry THOMSON (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
 207,James STOCKAN (Ind),Terry THOMSON (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
 208,James STOCKAN (Ind),Terry THOMSON (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
-209,James STOCKAN (Ind),Terry THOMSON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),,7
-210,James STOCKAN (Ind),Terry THOMSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),,7
-211,James STOCKAN (Ind),Terry THOMSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),,7
+209,James STOCKAN (Ind),Terry THOMSON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),SNP,UKIP,,7
+210,James STOCKAN (Ind),Terry THOMSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),UKIP,SNP,,7
+211,James STOCKAN (Ind),Terry THOMSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),SNP,UKIP,,7
 212,James STOCKAN (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
 213,James STOCKAN (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
 214,James STOCKAN (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
@@ -220,20 +220,20 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 218,James STOCKAN (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
 219,James STOCKAN (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
 220,James STOCKAN (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,,7
-221,James STOCKAN (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),Delia Mary HALL (UKIP),John BROWN (Ind),,7
-222,James STOCKAN (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,,7
-223,James STOCKAN (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,,7
-224,James STOCKAN (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,,7
-225,James STOCKAN (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),Rob CRICHTON (Ind),skipped,skipped,skipped,,7
+221,James STOCKAN (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),SNP,Rob CRICHTON (Ind),UKIP,John BROWN (Ind),,7
+222,James STOCKAN (Ind),Terry THOMSON (Ind),UKIP,skipped,skipped,skipped,skipped,,7
+223,James STOCKAN (Ind),Terry THOMSON (Ind),UKIP,skipped,skipped,skipped,skipped,,7
+224,James STOCKAN (Ind),Terry THOMSON (Ind),UKIP,skipped,skipped,skipped,skipped,,7
+225,James STOCKAN (Ind),Terry THOMSON (Ind),UKIP,Rob CRICHTON (Ind),skipped,skipped,skipped,,7
 226,James STOCKAN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 227,James STOCKAN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 228,James STOCKAN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 229,James STOCKAN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 230,James STOCKAN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
-231,James STOCKAN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),skipped,,7
-232,James STOCKAN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),Maurice DAVIDSON (Ind),,7
-233,James STOCKAN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),Maurice DAVIDSON (Ind),,7
-234,James STOCKAN (Ind),Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
+231,James STOCKAN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),UKIP,SNP,skipped,,7
+232,James STOCKAN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),UKIP,SNP,Maurice DAVIDSON (Ind),,7
+233,James STOCKAN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),SNP,UKIP,Maurice DAVIDSON (Ind),,7
+234,James STOCKAN (Ind),Terry THOMSON (Ind),SNP,skipped,skipped,skipped,skipped,,7
 235,James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 236,James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 237,James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -262,9 +262,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 260,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
 261,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
 262,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),skipped,skipped,,7
-263,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),,7
-264,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),,7
-265,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),Terry THOMSON (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),,7
+263,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),UKIP,SNP,,7
+264,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),SNP,UKIP,,7
+265,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),UKIP,Terry THOMSON (Ind),Rob CRICHTON (Ind),SNP,,7
 266,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,,7
 267,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,,7
 268,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,,7
@@ -273,11 +273,11 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 271,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,,7
 272,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,,7
 273,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,skipped,,7
-274,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),,7
-275,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),,7
-276,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),,7
-277,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,,7
-278,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Delia Mary HALL (UKIP),Rob CRICHTON (Ind),,7
+274,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),SNP,UKIP,,7
+275,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),SNP,UKIP,,7
+276,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),SNP,UKIP,,7
+277,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),SNP,skipped,skipped,skipped,,7
+278,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),SNP,Terry THOMSON (Ind),UKIP,Rob CRICHTON (Ind),,7
 279,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
 280,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
 281,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
@@ -293,8 +293,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 291,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
 292,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
 293,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
-294,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),,7
-295,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),Rob CRICHTON (Ind),John BROWN (Ind),,7
+294,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),SNP,UKIP,,7
+295,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),SNP,UKIP,Rob CRICHTON (Ind),John BROWN (Ind),,7
 296,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 297,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 298,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
@@ -314,29 +314,29 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 312,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 313,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),skipped,skipped,skipped,,7
 314,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),skipped,skipped,skipped,,7
-315,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),,7
-316,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),,7
-317,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),Terry THOMSON (Ind),,7
-318,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,,7
-319,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,,7
-320,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),skipped,skipped,,7
-321,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Delia Mary HALL (UKIP),John BROWN (Ind),,7
-322,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),skipped,skipped,,7
-323,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-324,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-325,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-326,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-327,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-328,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-329,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,,7
-330,James STOCKAN (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,skipped,,7
-331,James STOCKAN (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,skipped,,7
-332,James STOCKAN (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,skipped,,7
-333,James STOCKAN (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,skipped,,7
-334,James STOCKAN (Ind),Delia Mary HALL (UKIP),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
-335,James STOCKAN (Ind),Delia Mary HALL (UKIP),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
-336,James STOCKAN (Ind),Delia Mary HALL (UKIP),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
-337,James STOCKAN (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
+315,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),UKIP,SNP,,7
+316,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),UKIP,Terry THOMSON (Ind),SNP,,7
+317,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),SNP,UKIP,Terry THOMSON (Ind),,7
+318,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,,7
+319,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,,7
+320,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),SNP,Terry THOMSON (Ind),skipped,skipped,,7
+321,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),SNP,Terry THOMSON (Ind),UKIP,John BROWN (Ind),,7
+322,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),SNP,UKIP,skipped,skipped,,7
+323,James STOCKAN (Ind),Maurice DAVIDSON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+324,James STOCKAN (Ind),Maurice DAVIDSON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+325,James STOCKAN (Ind),Maurice DAVIDSON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+326,James STOCKAN (Ind),Maurice DAVIDSON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+327,James STOCKAN (Ind),Maurice DAVIDSON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+328,James STOCKAN (Ind),Maurice DAVIDSON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+329,James STOCKAN (Ind),Maurice DAVIDSON (Ind),SNP,John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,,7
+330,James STOCKAN (Ind),UKIP,skipped,skipped,skipped,skipped,skipped,,7
+331,James STOCKAN (Ind),UKIP,skipped,skipped,skipped,skipped,skipped,,7
+332,James STOCKAN (Ind),UKIP,skipped,skipped,skipped,skipped,skipped,,7
+333,James STOCKAN (Ind),UKIP,skipped,skipped,skipped,skipped,skipped,,7
+334,James STOCKAN (Ind),UKIP,Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
+335,James STOCKAN (Ind),UKIP,Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
+336,James STOCKAN (Ind),UKIP,Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
+337,James STOCKAN (Ind),UKIP,SNP,skipped,skipped,skipped,skipped,,7
 338,James STOCKAN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 339,James STOCKAN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 340,James STOCKAN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -449,26 +449,26 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 447,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,,7
 448,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,,7
 449,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,,7
-450,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),,7
-451,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),skipped,,7
-452,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,,7
-453,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),Maurice DAVIDSON (Ind),,7
+450,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),UKIP,SNP,,7
+451,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),UKIP,SNP,skipped,,7
+452,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),SNP,skipped,skipped,,7
+453,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),SNP,UKIP,Maurice DAVIDSON (Ind),,7
 454,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
 455,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
 456,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
 457,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
 458,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
-459,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),,7
-460,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Delia Mary HALL (UKIP),skipped,skipped,,7
-461,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),,7
-462,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,,7
-463,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),Terry THOMSON (Ind),,7
-464,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,,7
-465,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,,7
-466,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,,7
-467,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,,7
-468,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),,7
-469,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),Maurice DAVIDSON (Ind),Delia Mary HALL (UKIP),Terry THOMSON (Ind),,7
+459,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),UKIP,SNP,,7
+460,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),UKIP,skipped,skipped,,7
+461,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),UKIP,SNP,Terry THOMSON (Ind),,7
+462,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),SNP,skipped,skipped,,7
+463,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),SNP,UKIP,Terry THOMSON (Ind),,7
+464,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),UKIP,skipped,skipped,skipped,,7
+465,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),UKIP,skipped,skipped,skipped,,7
+466,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),UKIP,skipped,skipped,skipped,,7
+467,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),SNP,skipped,skipped,skipped,,7
+468,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),SNP,Maurice DAVIDSON (Ind),Terry THOMSON (Ind),UKIP,,7
+469,James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),SNP,Maurice DAVIDSON (Ind),UKIP,Terry THOMSON (Ind),,7
 470,James STOCKAN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
 471,James STOCKAN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
 472,James STOCKAN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
@@ -484,8 +484,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 482,James STOCKAN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
 483,James STOCKAN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
 484,James STOCKAN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),John BROWN (Ind),skipped,skipped,skipped,,7
-485,James STOCKAN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,,7
-486,James STOCKAN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),Maurice DAVIDSON (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),,7
+485,James STOCKAN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),SNP,skipped,skipped,skipped,,7
+486,James STOCKAN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),SNP,Maurice DAVIDSON (Ind),John BROWN (Ind),UKIP,,7
 487,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
 488,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
 489,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
@@ -515,66 +515,66 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 513,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),skipped,skipped,skipped,,7
 514,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),skipped,skipped,skipped,,7
 515,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),skipped,skipped,skipped,,7
-516,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),,7
-517,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Delia Mary HALL (UKIP),,7
-518,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Delia Mary HALL (UKIP),,7
+516,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Terry THOMSON (Ind),SNP,UKIP,,7
+517,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),SNP,Terry THOMSON (Ind),UKIP,,7
+518,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),SNP,Terry THOMSON (Ind),UKIP,,7
 519,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,,7
 520,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),John BROWN (Ind),skipped,skipped,,7
-521,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),,7
-522,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),,7
-523,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,,7
-524,James STOCKAN (Ind),Rob CRICHTON (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,,7
-525,James STOCKAN (Ind),Rob CRICHTON (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,,7
-526,James STOCKAN (Ind),Rob CRICHTON (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,,7
-527,James STOCKAN (Ind),Rob CRICHTON (Ind),Delia Mary HALL (UKIP),John BROWN (Ind),skipped,skipped,skipped,,7
-528,James STOCKAN (Ind),Rob CRICHTON (Ind),Delia Mary HALL (UKIP),John BROWN (Ind),skipped,skipped,skipped,,7
-529,James STOCKAN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-530,James STOCKAN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-531,James STOCKAN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-532,James STOCKAN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-533,James STOCKAN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-534,James STOCKAN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-535,James STOCKAN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-536,James STOCKAN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-537,James STOCKAN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-538,James STOCKAN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),Maurice DAVIDSON (Ind),Delia Mary HALL (UKIP),Terry THOMSON (Ind),,7
-539,James STOCKAN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),Maurice DAVIDSON (Ind),Delia Mary HALL (UKIP),Terry THOMSON (Ind),,7
-540,James STOCKAN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),Maurice DAVIDSON (Ind),John BROWN (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),,7
-541,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,,7
-542,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,,7
-543,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,,7
-544,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,,7
-545,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,,7
-546,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,,7
-547,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
-548,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
-549,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
-550,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
-551,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
-552,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
-553,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
-554,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
-555,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
-556,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
-557,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
-558,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
-559,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
-560,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
-561,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),,7
-562,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
-563,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
-564,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Maurice DAVIDSON (Ind),John BROWN (Ind),skipped,skipped,skipped,,7
-565,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,,7
-566,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),skipped,,7
-567,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,,7
-568,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
-569,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
-570,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
-571,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
-572,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
-573,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
-574,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),John BROWN (Ind),skipped,skipped,skipped,,7
-575,James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,,7
+521,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),John BROWN (Ind),UKIP,SNP,,7
+522,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),UKIP,SNP,John BROWN (Ind),,7
+523,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),UKIP,skipped,skipped,skipped,,7
+524,James STOCKAN (Ind),Rob CRICHTON (Ind),UKIP,skipped,skipped,skipped,skipped,,7
+525,James STOCKAN (Ind),Rob CRICHTON (Ind),UKIP,skipped,skipped,skipped,skipped,,7
+526,James STOCKAN (Ind),Rob CRICHTON (Ind),UKIP,skipped,skipped,skipped,skipped,,7
+527,James STOCKAN (Ind),Rob CRICHTON (Ind),UKIP,John BROWN (Ind),skipped,skipped,skipped,,7
+528,James STOCKAN (Ind),Rob CRICHTON (Ind),UKIP,John BROWN (Ind),skipped,skipped,skipped,,7
+529,James STOCKAN (Ind),Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+530,James STOCKAN (Ind),Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+531,James STOCKAN (Ind),Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+532,James STOCKAN (Ind),Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+533,James STOCKAN (Ind),Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+534,James STOCKAN (Ind),Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+535,James STOCKAN (Ind),Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+536,James STOCKAN (Ind),Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+537,James STOCKAN (Ind),Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+538,James STOCKAN (Ind),Rob CRICHTON (Ind),SNP,John BROWN (Ind),Maurice DAVIDSON (Ind),UKIP,Terry THOMSON (Ind),,7
+539,James STOCKAN (Ind),Rob CRICHTON (Ind),SNP,John BROWN (Ind),Maurice DAVIDSON (Ind),UKIP,Terry THOMSON (Ind),,7
+540,James STOCKAN (Ind),Rob CRICHTON (Ind),SNP,Maurice DAVIDSON (Ind),John BROWN (Ind),Terry THOMSON (Ind),UKIP,,7
+541,James STOCKAN (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+542,James STOCKAN (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+543,James STOCKAN (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+544,James STOCKAN (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+545,James STOCKAN (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+546,James STOCKAN (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+547,James STOCKAN (Ind),SNP,John BROWN (Ind),skipped,skipped,skipped,skipped,,7
+548,James STOCKAN (Ind),SNP,John BROWN (Ind),skipped,skipped,skipped,skipped,,7
+549,James STOCKAN (Ind),SNP,John BROWN (Ind),skipped,skipped,skipped,skipped,,7
+550,James STOCKAN (Ind),SNP,John BROWN (Ind),skipped,skipped,skipped,skipped,,7
+551,James STOCKAN (Ind),SNP,John BROWN (Ind),skipped,skipped,skipped,skipped,,7
+552,James STOCKAN (Ind),SNP,John BROWN (Ind),skipped,skipped,skipped,skipped,,7
+553,James STOCKAN (Ind),SNP,John BROWN (Ind),skipped,skipped,skipped,skipped,,7
+554,James STOCKAN (Ind),SNP,John BROWN (Ind),skipped,skipped,skipped,skipped,,7
+555,James STOCKAN (Ind),SNP,John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
+556,James STOCKAN (Ind),SNP,Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
+557,James STOCKAN (Ind),SNP,Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
+558,James STOCKAN (Ind),SNP,Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
+559,James STOCKAN (Ind),SNP,Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
+560,James STOCKAN (Ind),SNP,Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
+561,James STOCKAN (Ind),SNP,Terry THOMSON (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),UKIP,,7
+562,James STOCKAN (Ind),SNP,Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
+563,James STOCKAN (Ind),SNP,Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
+564,James STOCKAN (Ind),SNP,Maurice DAVIDSON (Ind),John BROWN (Ind),skipped,skipped,skipped,,7
+565,James STOCKAN (Ind),SNP,Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,,7
+566,James STOCKAN (Ind),SNP,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),skipped,,7
+567,James STOCKAN (Ind),SNP,UKIP,skipped,skipped,skipped,skipped,,7
+568,James STOCKAN (Ind),SNP,Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
+569,James STOCKAN (Ind),SNP,Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
+570,James STOCKAN (Ind),SNP,Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
+571,James STOCKAN (Ind),SNP,Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
+572,James STOCKAN (Ind),SNP,Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
+573,James STOCKAN (Ind),SNP,Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
+574,James STOCKAN (Ind),SNP,Rob CRICHTON (Ind),John BROWN (Ind),skipped,skipped,skipped,,7
+575,James STOCKAN (Ind),SNP,Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,,7
 576,John BROWN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 577,John BROWN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 578,John BROWN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
@@ -588,14 +588,14 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 586,John BROWN (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
 587,John BROWN (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
 588,John BROWN (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
-589,John BROWN (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),,7
+589,John BROWN (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),SNP,UKIP,,7
 590,John BROWN (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
 591,John BROWN (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
 592,John BROWN (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
 593,John BROWN (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,,7
-594,John BROWN (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),,7
-595,John BROWN (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),,7
-596,John BROWN (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,,7
+594,John BROWN (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),UKIP,SNP,,7
+595,John BROWN (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),UKIP,SNP,Terry THOMSON (Ind),,7
+596,John BROWN (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),SNP,Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,,7
 597,John BROWN (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 598,John BROWN (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 599,John BROWN (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
@@ -616,12 +616,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 614,John BROWN (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 615,John BROWN (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
 616,John BROWN (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
-617,John BROWN (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Delia Mary HALL (UKIP),,7
-618,John BROWN (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),Terry THOMSON (Ind),,7
-619,John BROWN (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),,7
-620,John BROWN (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Delia Mary HALL (UKIP),Maurice DAVIDSON (Ind),,7
-621,John BROWN (Ind),James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-622,John BROWN (Ind),James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),skipped,skipped,skipped,,7
+617,John BROWN (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),SNP,Terry THOMSON (Ind),UKIP,,7
+618,John BROWN (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),SNP,UKIP,Terry THOMSON (Ind),,7
+619,John BROWN (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),UKIP,SNP,Terry THOMSON (Ind),Maurice DAVIDSON (Ind),,7
+620,John BROWN (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),SNP,Terry THOMSON (Ind),UKIP,Maurice DAVIDSON (Ind),,7
+621,John BROWN (Ind),James STOCKAN (Ind),SNP,skipped,skipped,skipped,skipped,,7
+622,John BROWN (Ind),James STOCKAN (Ind),SNP,Rob CRICHTON (Ind),skipped,skipped,skipped,,7
 623,John BROWN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 624,John BROWN (Ind),Terry THOMSON (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
 625,John BROWN (Ind),Terry THOMSON (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
@@ -629,9 +629,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 627,John BROWN (Ind),Terry THOMSON (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
 628,John BROWN (Ind),Terry THOMSON (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
 629,John BROWN (Ind),Terry THOMSON (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
-630,John BROWN (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),,7
-631,John BROWN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),,7
-632,John BROWN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,,7
+630,John BROWN (Ind),Terry THOMSON (Ind),UKIP,Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),SNP,James STOCKAN (Ind),,7
+631,John BROWN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),UKIP,SNP,James STOCKAN (Ind),,7
+632,John BROWN (Ind),Terry THOMSON (Ind),Rob CRICHTON (Ind),UKIP,skipped,skipped,skipped,,7
 633,John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 634,John BROWN (Ind),Maurice DAVIDSON (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
 635,John BROWN (Ind),Maurice DAVIDSON (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
@@ -652,9 +652,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 650,John BROWN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 651,John BROWN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 652,John BROWN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),James STOCKAN (Ind),skipped,skipped,skipped,,7
-653,John BROWN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-654,John BROWN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-655,John BROWN (Ind),Delia Mary HALL (UKIP),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
+653,John BROWN (Ind),Maurice DAVIDSON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+654,John BROWN (Ind),Maurice DAVIDSON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+655,John BROWN (Ind),UKIP,Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 656,John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 657,John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 658,John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -679,17 +679,17 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 677,John BROWN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),James STOCKAN (Ind),skipped,skipped,skipped,,7
 678,John BROWN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,,7
 679,John BROWN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,,7
-680,John BROWN (Ind),Rob CRICHTON (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,,7
-681,John BROWN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-682,John BROWN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-683,John BROWN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),Delia Mary HALL (UKIP),James STOCKAN (Ind),,7
-684,John BROWN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),Maurice DAVIDSON (Ind),Delia Mary HALL (UKIP),James STOCKAN (Ind),Terry THOMSON (Ind),,7
-685,John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,,7
-686,John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,,7
-687,John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,,7
-688,John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
-689,John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
-690,John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
+680,John BROWN (Ind),Rob CRICHTON (Ind),UKIP,skipped,skipped,skipped,skipped,,7
+681,John BROWN (Ind),Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+682,John BROWN (Ind),Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+683,John BROWN (Ind),Rob CRICHTON (Ind),SNP,Terry THOMSON (Ind),Maurice DAVIDSON (Ind),UKIP,James STOCKAN (Ind),,7
+684,John BROWN (Ind),Rob CRICHTON (Ind),SNP,Maurice DAVIDSON (Ind),UKIP,James STOCKAN (Ind),Terry THOMSON (Ind),,7
+685,John BROWN (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+686,John BROWN (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+687,John BROWN (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+688,John BROWN (Ind),SNP,James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
+689,John BROWN (Ind),SNP,James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
+690,John BROWN (Ind),SNP,Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 691,Terry THOMSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 692,Terry THOMSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 693,Terry THOMSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
@@ -715,14 +715,14 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 713,Terry THOMSON (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
 714,Terry THOMSON (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
 715,Terry THOMSON (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
-716,Terry THOMSON (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),,7
-717,Terry THOMSON (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),Rob CRICHTON (Ind),,7
+716,Terry THOMSON (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),UKIP,SNP,,7
+717,Terry THOMSON (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),UKIP,SNP,John BROWN (Ind),Rob CRICHTON (Ind),,7
 718,Terry THOMSON (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),skipped,skipped,,7
-719,Terry THOMSON (Ind),James STOCKAN (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,,7
+719,Terry THOMSON (Ind),James STOCKAN (Ind),UKIP,skipped,skipped,skipped,skipped,,7
 720,Terry THOMSON (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 721,Terry THOMSON (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),skipped,skipped,skipped,,7
-722,Terry THOMSON (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),Delia Mary HALL (UKIP),,7
-723,Terry THOMSON (Ind),James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),Delia Mary HALL (UKIP),Maurice DAVIDSON (Ind),John BROWN (Ind),,7
+722,Terry THOMSON (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),SNP,John BROWN (Ind),UKIP,,7
+723,Terry THOMSON (Ind),James STOCKAN (Ind),SNP,Rob CRICHTON (Ind),UKIP,Maurice DAVIDSON (Ind),John BROWN (Ind),,7
 724,Terry THOMSON (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,skipped,,7
 725,Terry THOMSON (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,skipped,,7
 726,Terry THOMSON (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -731,26 +731,26 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 729,Terry THOMSON (Ind),John BROWN (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
 730,Terry THOMSON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
 731,Terry THOMSON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
-732,Terry THOMSON (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,,7
+732,Terry THOMSON (Ind),John BROWN (Ind),UKIP,skipped,skipped,skipped,skipped,,7
 733,Terry THOMSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,,7
 734,Terry THOMSON (Ind),Maurice DAVIDSON (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
 735,Terry THOMSON (Ind),Maurice DAVIDSON (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
-736,Terry THOMSON (Ind),Maurice DAVIDSON (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),,7
-737,Terry THOMSON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),James STOCKAN (Ind),,7
-738,Terry THOMSON (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),,7
-739,Terry THOMSON (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,skipped,,7
-740,Terry THOMSON (Ind),Delia Mary HALL (UKIP),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
-741,Terry THOMSON (Ind),Delia Mary HALL (UKIP),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
-742,Terry THOMSON (Ind),Delia Mary HALL (UKIP),James STOCKAN (Ind),John BROWN (Ind),skipped,skipped,skipped,,7
+736,Terry THOMSON (Ind),Maurice DAVIDSON (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),SNP,UKIP,,7
+737,Terry THOMSON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),SNP,UKIP,James STOCKAN (Ind),,7
+738,Terry THOMSON (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),UKIP,SNP,James STOCKAN (Ind),,7
+739,Terry THOMSON (Ind),UKIP,skipped,skipped,skipped,skipped,skipped,,7
+740,Terry THOMSON (Ind),UKIP,James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
+741,Terry THOMSON (Ind),UKIP,James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
+742,Terry THOMSON (Ind),UKIP,James STOCKAN (Ind),John BROWN (Ind),skipped,skipped,skipped,,7
 743,Terry THOMSON (Ind),Rob CRICHTON (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
 744,Terry THOMSON (Ind),Rob CRICHTON (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
 745,Terry THOMSON (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),skipped,skipped,skipped,,7
-746,Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,,7
-747,Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,,7
-748,Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,,7
-749,Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
-750,Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
-751,Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
+746,Terry THOMSON (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+747,Terry THOMSON (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+748,Terry THOMSON (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+749,Terry THOMSON (Ind),SNP,James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
+750,Terry THOMSON (Ind),SNP,John BROWN (Ind),skipped,skipped,skipped,skipped,,7
+751,Terry THOMSON (Ind),SNP,UKIP,Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
 752,Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 753,Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 754,Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
@@ -780,10 +780,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 778,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
 779,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
 780,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,,7
-781,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,,7
-782,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,,7
-783,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,,7
-784,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Delia Mary HALL (UKIP),Terry THOMSON (Ind),skipped,skipped,skipped,,7
+781,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),SNP,skipped,skipped,skipped,,7
+782,Maurice DAVIDSON (Ind),James STOCKAN (Ind),UKIP,skipped,skipped,skipped,skipped,,7
+783,Maurice DAVIDSON (Ind),James STOCKAN (Ind),UKIP,skipped,skipped,skipped,skipped,,7
+784,Maurice DAVIDSON (Ind),James STOCKAN (Ind),UKIP,Terry THOMSON (Ind),skipped,skipped,skipped,,7
 785,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 786,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 787,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
@@ -798,11 +798,11 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 796,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 797,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),skipped,skipped,skipped,,7
 798,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),skipped,skipped,skipped,,7
-799,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),,7
-800,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),,7
-801,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,,7
-802,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-803,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),,7
+799,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),UKIP,Terry THOMSON (Ind),SNP,,7
+800,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),John BROWN (Ind),UKIP,SNP,Terry THOMSON (Ind),,7
+801,Maurice DAVIDSON (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,,7
+802,Maurice DAVIDSON (Ind),James STOCKAN (Ind),SNP,skipped,skipped,skipped,skipped,,7
+803,Maurice DAVIDSON (Ind),James STOCKAN (Ind),SNP,Terry THOMSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),UKIP,,7
 804,Maurice DAVIDSON (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,skipped,,7
 805,Maurice DAVIDSON (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,skipped,,7
 806,Maurice DAVIDSON (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -826,19 +826,19 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 824,Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 825,Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 826,Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,,7
-827,Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Delia Mary HALL (UKIP),James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),,7
-828,Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,,7
-829,Maurice DAVIDSON (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-830,Maurice DAVIDSON (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-831,Maurice DAVIDSON (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
+827,Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),UKIP,James STOCKAN (Ind),SNP,Terry THOMSON (Ind),,7
+828,Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,,7
+829,Maurice DAVIDSON (Ind),John BROWN (Ind),SNP,skipped,skipped,skipped,skipped,,7
+830,Maurice DAVIDSON (Ind),John BROWN (Ind),SNP,skipped,skipped,skipped,skipped,,7
+831,Maurice DAVIDSON (Ind),John BROWN (Ind),SNP,skipped,skipped,skipped,skipped,,7
 832,Maurice DAVIDSON (Ind),Terry THOMSON (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
-833,Maurice DAVIDSON (Ind),Terry THOMSON (Ind),James STOCKAN (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),,7
+833,Maurice DAVIDSON (Ind),Terry THOMSON (Ind),James STOCKAN (Ind),John BROWN (Ind),UKIP,Rob CRICHTON (Ind),SNP,,7
 834,Maurice DAVIDSON (Ind),Terry THOMSON (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
 835,Maurice DAVIDSON (Ind),Terry THOMSON (Ind),John BROWN (Ind),James STOCKAN (Ind),Rob CRICHTON (Ind),skipped,skipped,,7
 836,Maurice DAVIDSON (Ind),Terry THOMSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,,7
-837,Maurice DAVIDSON (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),Rob CRICHTON (Ind),James STOCKAN (Ind),,7
-838,Maurice DAVIDSON (Ind),Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),John BROWN (Ind),Rob CRICHTON (Ind),James STOCKAN (Ind),,7
-839,Maurice DAVIDSON (Ind),Delia Mary HALL (UKIP),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
+837,Maurice DAVIDSON (Ind),Terry THOMSON (Ind),UKIP,SNP,John BROWN (Ind),Rob CRICHTON (Ind),James STOCKAN (Ind),,7
+838,Maurice DAVIDSON (Ind),Terry THOMSON (Ind),SNP,UKIP,John BROWN (Ind),Rob CRICHTON (Ind),James STOCKAN (Ind),,7
+839,Maurice DAVIDSON (Ind),UKIP,Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
 840,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 841,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 842,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -856,34 +856,34 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 854,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
 855,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,,7
 856,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),John BROWN (Ind),skipped,skipped,,7
-857,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),skipped,skipped,,7
-858,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Delia Mary HALL (UKIP),,7
-859,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),Terry THOMSON (Ind),,7
-860,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),,7
-861,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,,7
+857,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),James STOCKAN (Ind),SNP,John BROWN (Ind),skipped,skipped,,7
+858,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),James STOCKAN (Ind),SNP,Terry THOMSON (Ind),UKIP,,7
+859,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),James STOCKAN (Ind),SNP,UKIP,Terry THOMSON (Ind),,7
+860,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),James STOCKAN (Ind),SNP,UKIP,,7
+861,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),SNP,skipped,skipped,skipped,,7
 862,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
-863,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),,7
-864,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-865,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-866,Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,,7
-867,Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
-868,Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
-869,Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
-870,Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),James STOCKAN (Ind),Delia Mary HALL (UKIP),skipped,skipped,,7
-871,Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
-872,Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
-873,Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),John BROWN (Ind),James STOCKAN (Ind),,7
-874,Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-875,Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-876,Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-877,Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-878,Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-879,Delia Mary HALL (UKIP),John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
-880,Delia Mary HALL (UKIP),John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
-881,Delia Mary HALL (UKIP),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
-882,Delia Mary HALL (UKIP),Maurice DAVIDSON (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
-883,Delia Mary HALL (UKIP),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),,7
-884,Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,,7
+863,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),UKIP,John BROWN (Ind),SNP,James STOCKAN (Ind),,7
+864,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+865,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+866,Maurice DAVIDSON (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+867,Maurice DAVIDSON (Ind),SNP,James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
+868,Maurice DAVIDSON (Ind),SNP,John BROWN (Ind),skipped,skipped,skipped,skipped,,7
+869,Maurice DAVIDSON (Ind),SNP,John BROWN (Ind),skipped,skipped,skipped,skipped,,7
+870,Maurice DAVIDSON (Ind),SNP,John BROWN (Ind),James STOCKAN (Ind),UKIP,skipped,skipped,,7
+871,Maurice DAVIDSON (Ind),SNP,Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
+872,Maurice DAVIDSON (Ind),SNP,Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
+873,Maurice DAVIDSON (Ind),SNP,Rob CRICHTON (Ind),Terry THOMSON (Ind),UKIP,John BROWN (Ind),James STOCKAN (Ind),,7
+874,UKIP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+875,UKIP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+876,UKIP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+877,UKIP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+878,UKIP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+879,UKIP,John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
+880,UKIP,John BROWN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
+881,UKIP,Terry THOMSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+882,UKIP,Maurice DAVIDSON (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
+883,UKIP,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),James STOCKAN (Ind),SNP,,7
+884,UKIP,SNP,skipped,skipped,skipped,skipped,skipped,,7
 885,Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 886,Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 887,Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
@@ -931,11 +931,11 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 929,Rob CRICHTON (Ind),James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
 930,Rob CRICHTON (Ind),James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
 931,Rob CRICHTON (Ind),James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
-932,Rob CRICHTON (Ind),James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),,7
-933,Rob CRICHTON (Ind),James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Delia Mary HALL (UKIP),,7
-934,Rob CRICHTON (Ind),James STOCKAN (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),,7
-935,Rob CRICHTON (Ind),James STOCKAN (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,,7
-936,Rob CRICHTON (Ind),James STOCKAN (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),skipped,skipped,,7
+932,Rob CRICHTON (Ind),James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),UKIP,SNP,,7
+933,Rob CRICHTON (Ind),James STOCKAN (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),SNP,Terry THOMSON (Ind),UKIP,,7
+934,Rob CRICHTON (Ind),James STOCKAN (Ind),John BROWN (Ind),UKIP,SNP,Terry THOMSON (Ind),Maurice DAVIDSON (Ind),,7
+935,Rob CRICHTON (Ind),James STOCKAN (Ind),John BROWN (Ind),SNP,skipped,skipped,skipped,,7
+936,Rob CRICHTON (Ind),James STOCKAN (Ind),John BROWN (Ind),SNP,Terry THOMSON (Ind),skipped,skipped,,7
 937,Rob CRICHTON (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
 938,Rob CRICHTON (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
 939,Rob CRICHTON (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),John BROWN (Ind),skipped,skipped,skipped,,7
@@ -952,9 +952,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 950,Rob CRICHTON (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
 951,Rob CRICHTON (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
 952,Rob CRICHTON (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
-953,Rob CRICHTON (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,,7
-954,Rob CRICHTON (Ind),James STOCKAN (Ind),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,,7
-955,Rob CRICHTON (Ind),James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
+953,Rob CRICHTON (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),SNP,skipped,skipped,skipped,,7
+954,Rob CRICHTON (Ind),James STOCKAN (Ind),UKIP,skipped,skipped,skipped,skipped,,7
+955,Rob CRICHTON (Ind),James STOCKAN (Ind),SNP,skipped,skipped,skipped,skipped,,7
 956,Rob CRICHTON (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,skipped,,7
 957,Rob CRICHTON (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,skipped,,7
 958,Rob CRICHTON (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -969,25 +969,25 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 967,Rob CRICHTON (Ind),John BROWN (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
 968,Rob CRICHTON (Ind),John BROWN (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
 969,Rob CRICHTON (Ind),John BROWN (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
-970,Rob CRICHTON (Ind),John BROWN (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,,7
+970,Rob CRICHTON (Ind),John BROWN (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),SNP,skipped,,7
 971,Rob CRICHTON (Ind),John BROWN (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
 972,Rob CRICHTON (Ind),John BROWN (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
-973,Rob CRICHTON (Ind),John BROWN (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),Terry THOMSON (Ind),,7
+973,Rob CRICHTON (Ind),John BROWN (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),SNP,UKIP,Terry THOMSON (Ind),,7
 974,Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
 975,Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,,7
-976,Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),James STOCKAN (Ind),,7
+976,Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),SNP,UKIP,James STOCKAN (Ind),,7
 977,Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
 978,Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
-979,Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),James STOCKAN (Ind),,7
-980,Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,,7
-981,Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,,7
-982,Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,,7
-983,Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),,7
-984,Rob CRICHTON (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
+979,Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),SNP,UKIP,James STOCKAN (Ind),,7
+980,Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),SNP,skipped,skipped,skipped,,7
+981,Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),SNP,skipped,skipped,skipped,,7
+982,Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),SNP,skipped,skipped,skipped,,7
+983,Rob CRICHTON (Ind),John BROWN (Ind),Maurice DAVIDSON (Ind),SNP,James STOCKAN (Ind),Terry THOMSON (Ind),UKIP,,7
+984,Rob CRICHTON (Ind),John BROWN (Ind),SNP,skipped,skipped,skipped,skipped,,7
 985,Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
-986,Rob CRICHTON (Ind),Terry THOMSON (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),James STOCKAN (Ind),Maurice DAVIDSON (Ind),,7
-987,Rob CRICHTON (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),James STOCKAN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,,7
-988,Rob CRICHTON (Ind),Terry THOMSON (Ind),Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),Delia Mary HALL (UKIP),skipped,skipped,,7
+986,Rob CRICHTON (Ind),Terry THOMSON (Ind),John BROWN (Ind),SNP,UKIP,James STOCKAN (Ind),Maurice DAVIDSON (Ind),,7
+987,Rob CRICHTON (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),James STOCKAN (Ind),SNP,skipped,skipped,,7
+988,Rob CRICHTON (Ind),Terry THOMSON (Ind),SNP,John BROWN (Ind),UKIP,skipped,skipped,,7
 989,Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 990,Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 991,Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
@@ -1001,73 +1001,73 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 999,Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
 1000,Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),James STOCKAN (Ind),skipped,skipped,skipped,,7
 1001,Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),James STOCKAN (Ind),skipped,skipped,skipped,,7
-1002,Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,,7
+1002,Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),SNP,skipped,skipped,skipped,,7
 1003,Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
 1004,Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
-1005,Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,,7
-1006,Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1007,Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1008,Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1009,Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
-1010,Rob CRICHTON (Ind),Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,,7
-1011,Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-1012,Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-1013,Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-1014,Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-1015,Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-1016,Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-1017,Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-1018,Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-1019,Arthur Alexander ROBERTSON (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-1020,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),skipped,skipped,skipped,skipped,skipped,,7
-1021,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),skipped,skipped,skipped,skipped,skipped,,7
-1022,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),skipped,skipped,skipped,skipped,skipped,,7
-1023,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),skipped,skipped,skipped,skipped,skipped,,7
-1024,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
-1025,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
-1026,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),skipped,,7
-1027,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
-1028,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
-1029,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
-1030,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
-1031,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
-1032,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
-1033,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
-1034,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),skipped,skipped,skipped,,7
-1035,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Delia Mary HALL (UKIP),Terry THOMSON (Ind),,7
-1036,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),Delia Mary HALL (UKIP),Terry THOMSON (Ind),skipped,skipped,skipped,,7
-1037,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
-1038,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
-1039,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
-1040,Arthur Alexander ROBERTSON (SNP),James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Terry THOMSON (Ind),Delia Mary HALL (UKIP),,7
-1041,Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),skipped,skipped,skipped,skipped,skipped,,7
-1042,Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),skipped,skipped,,7
-1043,Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
-1044,Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
-1045,Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
-1046,Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),Maurice DAVIDSON (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,,7
-1047,Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),Maurice DAVIDSON (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,,7
-1048,Arthur Alexander ROBERTSON (SNP),John BROWN (Ind),Delia Mary HALL (UKIP),James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),,7
-1049,Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
-1050,Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
-1051,Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
-1052,Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
-1053,Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
-1054,Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
-1055,Arthur Alexander ROBERTSON (SNP),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
-1056,Arthur Alexander ROBERTSON (SNP),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
-1057,Arthur Alexander ROBERTSON (SNP),Maurice DAVIDSON (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
-1058,Arthur Alexander ROBERTSON (SNP),Maurice DAVIDSON (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
-1059,Arthur Alexander ROBERTSON (SNP),Maurice DAVIDSON (Ind),John BROWN (Ind),James STOCKAN (Ind),skipped,skipped,skipped,,7
-1060,Arthur Alexander ROBERTSON (SNP),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
-1061,Arthur Alexander ROBERTSON (SNP),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
-1062,Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),skipped,skipped,skipped,skipped,skipped,,7
-1063,Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),,7
-1064,Arthur Alexander ROBERTSON (SNP),Delia Mary HALL (UKIP),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
-1065,Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
-1066,Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
-1067,Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Delia Mary HALL (UKIP),,7
-1068,Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),John BROWN (Ind),James STOCKAN (Ind),skipped,skipped,skipped,,7
-1069,Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
-1070,Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
-1071,Arthur Alexander ROBERTSON (SNP),Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
+1005,Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+1006,Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+1007,Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+1008,Rob CRICHTON (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+1009,Rob CRICHTON (Ind),SNP,James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
+1010,Rob CRICHTON (Ind),SNP,UKIP,skipped,skipped,skipped,skipped,,7
+1011,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+1012,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+1013,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+1014,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+1015,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+1016,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+1017,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+1018,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+1019,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+1020,SNP,James STOCKAN (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1021,SNP,James STOCKAN (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1022,SNP,James STOCKAN (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1023,SNP,James STOCKAN (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1024,SNP,James STOCKAN (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
+1025,SNP,James STOCKAN (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
+1026,SNP,James STOCKAN (Ind),John BROWN (Ind),Rob CRICHTON (Ind),Terry THOMSON (Ind),UKIP,skipped,,7
+1027,SNP,James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
+1028,SNP,James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
+1029,SNP,James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
+1030,SNP,James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
+1031,SNP,James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
+1032,SNP,James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
+1033,SNP,James STOCKAN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
+1034,SNP,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),skipped,skipped,skipped,,7
+1035,SNP,James STOCKAN (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Rob CRICHTON (Ind),UKIP,Terry THOMSON (Ind),,7
+1036,SNP,James STOCKAN (Ind),UKIP,Terry THOMSON (Ind),skipped,skipped,skipped,,7
+1037,SNP,James STOCKAN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
+1038,SNP,James STOCKAN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
+1039,SNP,James STOCKAN (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
+1040,SNP,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),Terry THOMSON (Ind),UKIP,,7
+1041,SNP,John BROWN (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1042,SNP,John BROWN (Ind),James STOCKAN (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),skipped,skipped,,7
+1043,SNP,John BROWN (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
+1044,SNP,John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
+1045,SNP,John BROWN (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
+1046,SNP,John BROWN (Ind),Maurice DAVIDSON (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,,7
+1047,SNP,John BROWN (Ind),Maurice DAVIDSON (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),skipped,skipped,,7
+1048,SNP,John BROWN (Ind),UKIP,James STOCKAN (Ind),Rob CRICHTON (Ind),Maurice DAVIDSON (Ind),Terry THOMSON (Ind),,7
+1049,SNP,Terry THOMSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1050,SNP,Terry THOMSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1051,SNP,Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
+1052,SNP,Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
+1053,SNP,Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
+1054,SNP,Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
+1055,SNP,Terry THOMSON (Ind),Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,,7
+1056,SNP,Maurice DAVIDSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+1057,SNP,Maurice DAVIDSON (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
+1058,SNP,Maurice DAVIDSON (Ind),John BROWN (Ind),skipped,skipped,skipped,skipped,,7
+1059,SNP,Maurice DAVIDSON (Ind),John BROWN (Ind),James STOCKAN (Ind),skipped,skipped,skipped,,7
+1060,SNP,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
+1061,SNP,Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),skipped,skipped,skipped,skipped,,7
+1062,SNP,UKIP,skipped,skipped,skipped,skipped,skipped,,7
+1063,SNP,UKIP,James STOCKAN (Ind),Maurice DAVIDSON (Ind),Rob CRICHTON (Ind),John BROWN (Ind),Terry THOMSON (Ind),,7
+1064,SNP,UKIP,Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
+1065,SNP,Rob CRICHTON (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
+1066,SNP,Rob CRICHTON (Ind),James STOCKAN (Ind),skipped,skipped,skipped,skipped,,7
+1067,SNP,Rob CRICHTON (Ind),James STOCKAN (Ind),Terry THOMSON (Ind),Maurice DAVIDSON (Ind),John BROWN (Ind),UKIP,,7
+1068,SNP,Rob CRICHTON (Ind),John BROWN (Ind),James STOCKAN (Ind),skipped,skipped,skipped,,7
+1069,SNP,Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
+1070,SNP,Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7
+1071,SNP,Rob CRICHTON (Ind),Terry THOMSON (Ind),skipped,skipped,skipped,skipped,,7

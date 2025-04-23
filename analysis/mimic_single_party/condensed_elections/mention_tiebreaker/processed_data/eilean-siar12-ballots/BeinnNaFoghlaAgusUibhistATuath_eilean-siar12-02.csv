@@ -41,13 +41,13 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 39,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
 40,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
 41,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-42,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-43,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-44,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-45,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-46,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-47,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-48,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),,6
+42,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),SNP,skipped,skipped,skipped,,6
+43,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),SNP,skipped,skipped,skipped,,6
+44,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),SNP,skipped,skipped,skipped,,6
+45,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),SNP,skipped,skipped,skipped,,6
+46,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),SNP,skipped,skipped,skipped,,6
+47,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),SNP,skipped,skipped,skipped,,6
+48,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),SNP,Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),,6
 49,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
 50,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
 51,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
@@ -56,52 +56,52 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 54,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
 55,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
 56,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,,6
-57,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Andrew WALKER (SNP),,6
-58,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-59,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-60,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-61,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-62,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),,6
-63,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,,6
-64,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Michael MACLEAN (Ind),,6
+57,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Lab,Michael MACLEAN (Ind),SNP,,6
+58,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Lab,skipped,skipped,skipped,,6
+59,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Lab,skipped,skipped,skipped,,6
+60,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Lab,skipped,skipped,skipped,,6
+61,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Lab,skipped,skipped,skipped,,6
+62,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Lab,SNP,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),,6
+63,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,,6
+64,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Lab,Neil Macdonald BEATON (Ind),SNP,Michael MACLEAN (Ind),,6
 65,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,skipped,,6
-66,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),,6
-67,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),,6
-68,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-69,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
+66,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),SNP,Neil Macdonald BEATON (Ind),Lab,,6
+67,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Lab,SNP,,6
+68,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),SNP,skipped,skipped,skipped,,6
+69,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),SNP,skipped,skipped,skipped,,6
 70,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
 71,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-72,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Martin TAYLOR (Ind),,6
-73,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),,6
-74,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-75,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-76,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-77,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-78,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-79,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-80,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-81,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-82,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-83,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-84,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-85,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-86,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-87,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,skipped,,6
-88,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,,6
-89,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),,6
-90,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),,6
-91,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-92,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-93,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-94,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-95,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,,6
-96,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-97,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-98,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-99,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-100,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-101,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-102,Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),,6
+72,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Lab,SNP,Martin TAYLOR (Ind),,6
+73,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Lab,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),SNP,,6
+74,Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+75,Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+76,Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+77,Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+78,Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+79,Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+80,Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+81,Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+82,Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+83,Uisdean ROBERTSON (Ind),SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+84,Uisdean ROBERTSON (Ind),SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+85,Uisdean ROBERTSON (Ind),SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+86,Uisdean ROBERTSON (Ind),SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+87,Uisdean ROBERTSON (Ind),SNP,Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,skipped,,6
+88,Uisdean ROBERTSON (Ind),SNP,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,,6
+89,Uisdean ROBERTSON (Ind),SNP,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Lab,Michael MACLEAN (Ind),,6
+90,Uisdean ROBERTSON (Ind),SNP,Martin TAYLOR (Ind),Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),,6
+91,Uisdean ROBERTSON (Ind),SNP,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+92,Uisdean ROBERTSON (Ind),SNP,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+93,Uisdean ROBERTSON (Ind),SNP,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+94,Uisdean ROBERTSON (Ind),SNP,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+95,Uisdean ROBERTSON (Ind),SNP,Neil Macdonald BEATON (Ind),Lab,skipped,skipped,,6
+96,Uisdean ROBERTSON (Ind),SNP,Lab,skipped,skipped,skipped,,6
+97,Uisdean ROBERTSON (Ind),SNP,Lab,skipped,skipped,skipped,,6
+98,Uisdean ROBERTSON (Ind),SNP,Lab,skipped,skipped,skipped,,6
+99,Uisdean ROBERTSON (Ind),SNP,Lab,skipped,skipped,skipped,,6
+100,Uisdean ROBERTSON (Ind),SNP,Lab,skipped,skipped,skipped,,6
+101,Uisdean ROBERTSON (Ind),SNP,Lab,skipped,skipped,skipped,,6
+102,Uisdean ROBERTSON (Ind),SNP,Lab,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),,6
 103,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
 104,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
 105,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
@@ -129,192 +129,192 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 127,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
 128,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
 129,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,skipped,,6
-130,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),,6
-131,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),,6
+130,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Lab,SNP,,6
+131,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),SNP,Lab,Michael MACLEAN (Ind),,6
 132,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
 133,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
 134,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
 135,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
 136,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,skipped,,6
-137,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),,6
-138,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),,6
-139,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Andrew WALKER (SNP),,6
-140,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Andrew WALKER (SNP),,6
-141,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Martin TAYLOR (Ind),,6
-142,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-143,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-144,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-145,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-146,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,,6
-147,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,,6
-148,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,,6
-149,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-150,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-151,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-152,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-153,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-154,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-155,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-156,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-157,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-158,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-159,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-160,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-161,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-162,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-163,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-164,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-165,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-166,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,,6
-167,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Andrew WALKER (SNP),Michael MACLEAN (Ind),,6
-168,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,,6
-169,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,,6
-170,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,,6
-171,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,,6
-172,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),,6
-173,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),,6
-174,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Martin TAYLOR (Ind),Michael MACLEAN (Ind),,6
-175,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Michael MACLEAN (Ind),skipped,,6
-176,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-177,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-178,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-179,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-180,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-181,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-182,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-183,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-184,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-185,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-186,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-187,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-188,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-189,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-190,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-191,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-192,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-193,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-194,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-195,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-196,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-197,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-198,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-199,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-200,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-201,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-202,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-203,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-204,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-205,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-206,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-207,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-208,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-209,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-210,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-211,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-212,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-213,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-214,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-215,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-216,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-217,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-218,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-219,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-220,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-221,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-222,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-223,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-224,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-225,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-226,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),,6
-227,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),,6
-228,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Andrew WALKER (SNP),skipped,skipped,,6
-229,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),,6
-230,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),,6
-231,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,,6
-232,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,,6
-233,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,,6
-234,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,,6
-235,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),,6
-236,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),,6
-237,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-238,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-239,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-240,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-241,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-242,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-243,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Andrew WALKER (SNP),skipped,skipped,,6
-244,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),,6
-245,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-246,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-247,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-248,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-249,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-250,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-251,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-252,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-253,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,,6
-254,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),,6
-255,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),skipped,skipped,,6
-256,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),skipped,skipped,,6
-257,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),,6
-258,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),,6
-259,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),,6
-260,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-261,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-262,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-263,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-264,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-265,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-266,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-267,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-268,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-269,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-270,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-271,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-272,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-273,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-274,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-275,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-276,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-277,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-278,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-279,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-280,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-281,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-282,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-283,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-284,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-285,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-286,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-287,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-288,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-289,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-290,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-291,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-292,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-293,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-294,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-295,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-296,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-297,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-298,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-299,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-300,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-301,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-302,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-303,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-304,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),skipped,skipped,,6
-305,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,,6
-306,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,,6
-307,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),skipped,,6
-308,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),Michael MACLEAN (Ind),,6
-309,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,,6
-310,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,,6
-311,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),,6
-312,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),,6
-313,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),,6
-314,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),skipped,,6
-315,Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),,6
+137,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),SNP,Lab,,6
+138,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Lab,SNP,,6
+139,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Lab,Martin TAYLOR (Ind),SNP,,6
+140,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Lab,Martin TAYLOR (Ind),SNP,,6
+141,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Lab,SNP,Martin TAYLOR (Ind),,6
+142,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),SNP,skipped,skipped,skipped,,6
+143,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),SNP,skipped,skipped,skipped,,6
+144,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),SNP,skipped,skipped,skipped,,6
+145,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),SNP,skipped,skipped,skipped,,6
+146,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),SNP,Martin TAYLOR (Ind),skipped,skipped,,6
+147,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),SNP,Lab,skipped,skipped,,6
+148,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),SNP,Lab,skipped,skipped,,6
+149,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+150,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+151,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+152,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+153,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+154,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+155,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+156,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+157,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+158,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+159,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+160,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+161,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+162,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+163,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+164,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+165,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+166,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,,6
+167,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,Martin TAYLOR (Ind),SNP,Michael MACLEAN (Ind),,6
+168,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,,6
+169,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,,6
+170,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,,6
+171,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,,6
+172,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,Michael MACLEAN (Ind),Martin TAYLOR (Ind),SNP,,6
+173,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,Michael MACLEAN (Ind),Martin TAYLOR (Ind),SNP,,6
+174,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,SNP,Martin TAYLOR (Ind),Michael MACLEAN (Ind),,6
+175,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,SNP,Michael MACLEAN (Ind),skipped,,6
+176,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+177,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+178,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+179,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+180,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+181,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+182,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+183,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+184,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+185,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+186,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+187,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+188,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+189,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+190,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+191,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+192,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+193,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+194,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+195,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+196,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+197,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+198,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+199,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+200,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+201,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+202,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+203,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+204,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+205,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+206,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+207,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+208,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+209,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+210,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+211,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+212,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+213,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+214,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+215,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+216,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+217,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+218,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+219,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+220,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+221,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+222,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+223,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+224,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+225,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+226,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),SNP,,6
+227,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),SNP,,6
+228,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),SNP,skipped,skipped,,6
+229,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),SNP,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),,6
+230,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),SNP,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),,6
+231,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,,6
+232,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,,6
+233,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,,6
+234,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,,6
+235,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),SNP,,6
+236,Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),SNP,,6
+237,Uisdean ROBERTSON (Ind),Lab,Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+238,Uisdean ROBERTSON (Ind),Lab,Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+239,Uisdean ROBERTSON (Ind),Lab,Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+240,Uisdean ROBERTSON (Ind),Lab,Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+241,Uisdean ROBERTSON (Ind),Lab,Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+242,Uisdean ROBERTSON (Ind),Lab,Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+243,Uisdean ROBERTSON (Ind),Lab,Michael MACLEAN (Ind),SNP,skipped,skipped,,6
+244,Uisdean ROBERTSON (Ind),Lab,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),SNP,,6
+245,Uisdean ROBERTSON (Ind),Lab,SNP,skipped,skipped,skipped,,6
+246,Uisdean ROBERTSON (Ind),Lab,SNP,skipped,skipped,skipped,,6
+247,Uisdean ROBERTSON (Ind),Lab,SNP,skipped,skipped,skipped,,6
+248,Uisdean ROBERTSON (Ind),Lab,SNP,skipped,skipped,skipped,,6
+249,Uisdean ROBERTSON (Ind),Lab,SNP,skipped,skipped,skipped,,6
+250,Uisdean ROBERTSON (Ind),Lab,SNP,skipped,skipped,skipped,,6
+251,Uisdean ROBERTSON (Ind),Lab,SNP,skipped,skipped,skipped,,6
+252,Uisdean ROBERTSON (Ind),Lab,SNP,skipped,skipped,skipped,,6
+253,Uisdean ROBERTSON (Ind),Lab,SNP,Martin TAYLOR (Ind),skipped,skipped,,6
+254,Uisdean ROBERTSON (Ind),Lab,SNP,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),,6
+255,Uisdean ROBERTSON (Ind),Lab,SNP,Neil Macdonald BEATON (Ind),skipped,skipped,,6
+256,Uisdean ROBERTSON (Ind),Lab,SNP,Neil Macdonald BEATON (Ind),skipped,skipped,,6
+257,Uisdean ROBERTSON (Ind),Lab,SNP,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),,6
+258,Uisdean ROBERTSON (Ind),Lab,SNP,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),,6
+259,Uisdean ROBERTSON (Ind),Lab,SNP,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),,6
+260,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+261,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+262,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+263,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+264,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+265,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+266,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+267,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+268,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+269,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+270,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+271,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+272,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+273,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+274,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+275,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+276,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+277,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+278,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+279,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+280,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+281,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+282,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+283,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+284,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+285,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+286,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+287,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+288,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+289,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+290,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+291,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+292,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+293,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+294,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+295,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+296,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+297,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+298,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+299,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+300,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+301,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+302,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+303,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+304,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),skipped,skipped,,6
+305,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,,6
+306,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,,6
+307,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),SNP,skipped,,6
+308,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),SNP,Michael MACLEAN (Ind),,6
+309,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,,6
+310,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,,6
+311,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),SNP,,6
+312,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),SNP,,6
+313,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),SNP,,6
+314,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),SNP,skipped,,6
+315,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),SNP,Martin TAYLOR (Ind),,6
 316,Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,skipped,,6
 317,Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,skipped,,6
 318,Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,skipped,,6
@@ -335,79 +335,79 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 333,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
 334,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
 335,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-336,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),,6
-337,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,,6
-338,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-339,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-340,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),,6
+336,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Lab,SNP,,6
+337,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,,6
+338,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,,6
+339,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,,6
+340,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),SNP,Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),,6
 341,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
 342,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-343,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,,6
-344,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Andrew WALKER (SNP),,6
-345,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Andrew WALKER (SNP),,6
-346,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-347,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-348,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-349,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,,6
+343,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,,6
+344,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,Michael MACLEAN (Ind),SNP,,6
+345,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,Michael MACLEAN (Ind),SNP,,6
+346,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+347,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+348,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+349,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,,6
 350,Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,skipped,,6
-351,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),,6
-352,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-353,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-354,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-355,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
+351,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),SNP,Lab,,6
+352,Martin TAYLOR (Ind),Michael MACLEAN (Ind),SNP,skipped,skipped,skipped,,6
+353,Martin TAYLOR (Ind),Michael MACLEAN (Ind),SNP,skipped,skipped,skipped,,6
+354,Martin TAYLOR (Ind),Michael MACLEAN (Ind),SNP,skipped,skipped,skipped,,6
+355,Martin TAYLOR (Ind),Michael MACLEAN (Ind),SNP,skipped,skipped,skipped,,6
 356,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
 357,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
 358,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
 359,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-360,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,,6
-361,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),,6
-362,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-363,Martin TAYLOR (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-364,Martin TAYLOR (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-365,Martin TAYLOR (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-366,Martin TAYLOR (Ind),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-367,Martin TAYLOR (Ind),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-368,Martin TAYLOR (Ind),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-369,Martin TAYLOR (Ind),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,,6
-370,Martin TAYLOR (Ind),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),,6
-371,Martin TAYLOR (Ind),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),,6
-372,Martin TAYLOR (Ind),Andrew WALKER (SNP),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-373,Martin TAYLOR (Ind),Andrew WALKER (SNP),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),,6
-374,Martin TAYLOR (Ind),Andrew WALKER (SNP),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),,6
-375,Martin TAYLOR (Ind),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-376,Martin TAYLOR (Ind),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),,6
-377,Martin TAYLOR (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-378,Martin TAYLOR (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-379,Martin TAYLOR (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-380,Martin TAYLOR (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,,6
-381,Martin TAYLOR (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),,6
-382,Martin TAYLOR (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),skipped,skipped,,6
-383,Martin TAYLOR (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,,6
-384,Martin TAYLOR (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),,6
-385,Martin TAYLOR (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),,6
+360,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,,6
+361,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,SNP,,6
+362,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Lab,skipped,skipped,skipped,,6
+363,Martin TAYLOR (Ind),SNP,skipped,skipped,skipped,skipped,,6
+364,Martin TAYLOR (Ind),SNP,skipped,skipped,skipped,skipped,,6
+365,Martin TAYLOR (Ind),SNP,skipped,skipped,skipped,skipped,,6
+366,Martin TAYLOR (Ind),SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+367,Martin TAYLOR (Ind),SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+368,Martin TAYLOR (Ind),SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+369,Martin TAYLOR (Ind),SNP,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,,6
+370,Martin TAYLOR (Ind),SNP,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,Michael MACLEAN (Ind),,6
+371,Martin TAYLOR (Ind),SNP,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),,6
+372,Martin TAYLOR (Ind),SNP,Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+373,Martin TAYLOR (Ind),SNP,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,,6
+374,Martin TAYLOR (Ind),SNP,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),,6
+375,Martin TAYLOR (Ind),SNP,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+376,Martin TAYLOR (Ind),SNP,Neil Macdonald BEATON (Ind),Lab,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),,6
+377,Martin TAYLOR (Ind),SNP,Lab,skipped,skipped,skipped,,6
+378,Martin TAYLOR (Ind),SNP,Lab,skipped,skipped,skipped,,6
+379,Martin TAYLOR (Ind),SNP,Lab,skipped,skipped,skipped,,6
+380,Martin TAYLOR (Ind),SNP,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,,6
+381,Martin TAYLOR (Ind),SNP,Lab,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),,6
+382,Martin TAYLOR (Ind),SNP,Lab,Michael MACLEAN (Ind),skipped,skipped,,6
+383,Martin TAYLOR (Ind),SNP,Lab,Neil Macdonald BEATON (Ind),skipped,skipped,,6
+384,Martin TAYLOR (Ind),SNP,Lab,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),,6
+385,Martin TAYLOR (Ind),SNP,Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),,6
 386,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
 387,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-388,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),,6
-389,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-390,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),,6
-391,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,,6
-392,Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-393,Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-394,Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-395,Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-396,Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-397,Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-398,Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-399,Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-400,Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-401,Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-402,Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-403,Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-404,Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),,6
-405,Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),,6
-406,Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-407,Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-408,Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+388,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),SNP,Lab,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),,6
+389,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+390,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Lab,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),SNP,,6
+391,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Lab,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,,6
+392,Martin TAYLOR (Ind),Lab,skipped,skipped,skipped,skipped,,6
+393,Martin TAYLOR (Ind),Lab,skipped,skipped,skipped,skipped,,6
+394,Martin TAYLOR (Ind),Lab,skipped,skipped,skipped,skipped,,6
+395,Martin TAYLOR (Ind),Lab,skipped,skipped,skipped,skipped,,6
+396,Martin TAYLOR (Ind),Lab,skipped,skipped,skipped,skipped,,6
+397,Martin TAYLOR (Ind),Lab,skipped,skipped,skipped,skipped,,6
+398,Martin TAYLOR (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+399,Martin TAYLOR (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+400,Martin TAYLOR (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+401,Martin TAYLOR (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+402,Martin TAYLOR (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+403,Martin TAYLOR (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+404,Martin TAYLOR (Ind),Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),SNP,,6
+405,Martin TAYLOR (Ind),Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),SNP,,6
+406,Martin TAYLOR (Ind),Lab,Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+407,Martin TAYLOR (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+408,Martin TAYLOR (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
 409,Michael MACLEAN (Ind),skipped,skipped,skipped,skipped,skipped,,6
 410,Michael MACLEAN (Ind),skipped,skipped,skipped,skipped,skipped,,6
 411,Michael MACLEAN (Ind),skipped,skipped,skipped,skipped,skipped,,6
@@ -429,237 +429,237 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 427,Michael MACLEAN (Ind),skipped,skipped,skipped,skipped,skipped,,6
 428,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
 429,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-430,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),skipped,skipped,,6
-431,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),,6
-432,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),,6
-433,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,,6
+430,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),SNP,skipped,skipped,,6
+431,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),SNP,Lab,Neil Macdonald BEATON (Ind),,6
+432,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Lab,SNP,Neil Macdonald BEATON (Ind),,6
+433,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),SNP,Lab,skipped,skipped,,6
 434,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
 435,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
 436,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-437,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),skipped,,6
-438,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-439,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-440,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-441,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,,6
-442,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,,6
+437,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Lab,skipped,,6
+438,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+439,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+440,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+441,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,,6
+442,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,,6
 443,Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
 444,Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
 445,Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
 446,Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
-447,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),,6
+447,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Lab,SNP,Neil Macdonald BEATON (Ind),,6
 448,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
 449,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-450,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-451,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-452,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,,6
-453,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,,6
-454,Michael MACLEAN (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-455,Michael MACLEAN (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-456,Michael MACLEAN (Ind),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,,6
-457,Michael MACLEAN (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),,6
+450,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Lab,skipped,skipped,skipped,,6
+451,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Lab,skipped,skipped,skipped,,6
+452,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,,6
+453,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,,6
+454,Michael MACLEAN (Ind),SNP,skipped,skipped,skipped,skipped,,6
+455,Michael MACLEAN (Ind),SNP,skipped,skipped,skipped,skipped,,6
+456,Michael MACLEAN (Ind),SNP,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,,6
+457,Michael MACLEAN (Ind),SNP,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),,6
 458,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
 459,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
-460,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),,6
-461,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),,6
-462,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),,6
+460,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),SNP,Lab,,6
+461,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Lab,SNP,,6
+462,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),SNP,Martin TAYLOR (Ind),Lab,,6
 463,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
 464,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
 465,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-466,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),,6
-467,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-468,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-469,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-470,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-471,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),,6
-472,Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-473,Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-474,Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-475,Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-476,Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),,6
-477,Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-478,Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,,6
-479,Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),,6
-480,Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),,6
-481,Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),,6
-482,Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-483,Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),,6
-484,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-485,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-486,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-487,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-488,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-489,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-490,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-491,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-492,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-493,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-494,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-495,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-496,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-497,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-498,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-499,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-500,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-501,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-502,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-503,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-504,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-505,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-506,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-507,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-508,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-509,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-510,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-511,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-512,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-513,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-514,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-515,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-516,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-517,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-518,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-519,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-520,Andrew WALKER (SNP),skipped,skipped,skipped,skipped,skipped,,6
-521,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-522,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-523,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-524,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-525,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-526,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-527,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-528,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-529,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-530,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-531,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-532,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-533,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-534,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-535,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-536,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-537,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,skipped,,6
-538,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,skipped,,6
-539,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-540,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-541,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),,6
-542,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-543,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-544,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-545,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-546,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-547,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-548,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-549,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-550,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-551,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),skipped,skipped,,6
-552,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,,6
-553,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-554,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-555,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-556,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-557,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-558,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-559,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-560,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),,6
-561,Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,,6
-562,Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
-563,Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
-564,Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
-565,Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
-566,Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
-567,Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
-568,Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
-569,Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
-570,Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
-571,Andrew WALKER (SNP),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-572,Andrew WALKER (SNP),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-573,Andrew WALKER (SNP),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-574,Andrew WALKER (SNP),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-575,Andrew WALKER (SNP),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-576,Andrew WALKER (SNP),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),skipped,,6
-577,Andrew WALKER (SNP),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),,6
-578,Andrew WALKER (SNP),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-579,Andrew WALKER (SNP),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-580,Andrew WALKER (SNP),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-581,Andrew WALKER (SNP),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,,6
-582,Andrew WALKER (SNP),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),,6
-583,Andrew WALKER (SNP),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),,6
-584,Andrew WALKER (SNP),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-585,Andrew WALKER (SNP),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-586,Andrew WALKER (SNP),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-587,Andrew WALKER (SNP),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-588,Andrew WALKER (SNP),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,,6
-589,Andrew WALKER (SNP),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),skipped,skipped,,6
-590,Andrew WALKER (SNP),Michael MACLEAN (Ind),skipped,skipped,skipped,skipped,,6
-591,Andrew WALKER (SNP),Michael MACLEAN (Ind),skipped,skipped,skipped,skipped,,6
-592,Andrew WALKER (SNP),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-593,Andrew WALKER (SNP),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,,6
-594,Andrew WALKER (SNP),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,,6
-595,Andrew WALKER (SNP),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),,6
-596,Andrew WALKER (SNP),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,,6
-597,Andrew WALKER (SNP),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),,6
-598,Andrew WALKER (SNP),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-599,Andrew WALKER (SNP),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),,6
-600,Andrew WALKER (SNP),Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-601,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
-602,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
-603,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
-604,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
-605,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
-606,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
-607,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
-608,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
-609,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
-610,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-611,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-612,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-613,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-614,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-615,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-616,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,,6
-617,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,,6
-618,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,,6
-619,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Michael MACLEAN (Ind),,6
-620,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Martin TAYLOR (Ind),,6
-621,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-622,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),,6
-623,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-624,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-625,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-626,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-627,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-628,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-629,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-630,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),,6
-631,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-632,Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),,6
-633,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-634,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-635,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-636,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-637,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-638,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-639,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-640,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-641,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),,6
-642,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),,6
-643,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),,6
-644,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),,6
-645,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-646,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-647,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),,6
-648,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),,6
-649,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-650,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-651,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-652,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-653,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-654,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-655,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-656,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-657,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-658,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),,6
-659,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),,6
-660,Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),,6
+466,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Lab,SNP,Uisdean ROBERTSON (Ind),,6
+467,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),SNP,skipped,skipped,skipped,,6
+468,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+469,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+470,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+471,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Lab,Uisdean ROBERTSON (Ind),SNP,Martin TAYLOR (Ind),,6
+472,Michael MACLEAN (Ind),Lab,skipped,skipped,skipped,skipped,,6
+473,Michael MACLEAN (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+474,Michael MACLEAN (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+475,Michael MACLEAN (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+476,Michael MACLEAN (Ind),Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),SNP,,6
+477,Michael MACLEAN (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+478,Michael MACLEAN (Ind),Lab,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,,6
+479,Michael MACLEAN (Ind),Lab,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),SNP,Uisdean ROBERTSON (Ind),,6
+480,Michael MACLEAN (Ind),Lab,SNP,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),,6
+481,Michael MACLEAN (Ind),Lab,SNP,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),,6
+482,Michael MACLEAN (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+483,Michael MACLEAN (Ind),Lab,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),SNP,,6
+484,SNP,skipped,skipped,skipped,skipped,skipped,,6
+485,SNP,skipped,skipped,skipped,skipped,skipped,,6
+486,SNP,skipped,skipped,skipped,skipped,skipped,,6
+487,SNP,skipped,skipped,skipped,skipped,skipped,,6
+488,SNP,skipped,skipped,skipped,skipped,skipped,,6
+489,SNP,skipped,skipped,skipped,skipped,skipped,,6
+490,SNP,skipped,skipped,skipped,skipped,skipped,,6
+491,SNP,skipped,skipped,skipped,skipped,skipped,,6
+492,SNP,skipped,skipped,skipped,skipped,skipped,,6
+493,SNP,skipped,skipped,skipped,skipped,skipped,,6
+494,SNP,skipped,skipped,skipped,skipped,skipped,,6
+495,SNP,skipped,skipped,skipped,skipped,skipped,,6
+496,SNP,skipped,skipped,skipped,skipped,skipped,,6
+497,SNP,skipped,skipped,skipped,skipped,skipped,,6
+498,SNP,skipped,skipped,skipped,skipped,skipped,,6
+499,SNP,skipped,skipped,skipped,skipped,skipped,,6
+500,SNP,skipped,skipped,skipped,skipped,skipped,,6
+501,SNP,skipped,skipped,skipped,skipped,skipped,,6
+502,SNP,skipped,skipped,skipped,skipped,skipped,,6
+503,SNP,skipped,skipped,skipped,skipped,skipped,,6
+504,SNP,skipped,skipped,skipped,skipped,skipped,,6
+505,SNP,skipped,skipped,skipped,skipped,skipped,,6
+506,SNP,skipped,skipped,skipped,skipped,skipped,,6
+507,SNP,skipped,skipped,skipped,skipped,skipped,,6
+508,SNP,skipped,skipped,skipped,skipped,skipped,,6
+509,SNP,skipped,skipped,skipped,skipped,skipped,,6
+510,SNP,skipped,skipped,skipped,skipped,skipped,,6
+511,SNP,skipped,skipped,skipped,skipped,skipped,,6
+512,SNP,skipped,skipped,skipped,skipped,skipped,,6
+513,SNP,skipped,skipped,skipped,skipped,skipped,,6
+514,SNP,skipped,skipped,skipped,skipped,skipped,,6
+515,SNP,skipped,skipped,skipped,skipped,skipped,,6
+516,SNP,skipped,skipped,skipped,skipped,skipped,,6
+517,SNP,skipped,skipped,skipped,skipped,skipped,,6
+518,SNP,skipped,skipped,skipped,skipped,skipped,,6
+519,SNP,skipped,skipped,skipped,skipped,skipped,,6
+520,SNP,skipped,skipped,skipped,skipped,skipped,,6
+521,SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+522,SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+523,SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+524,SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+525,SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+526,SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+527,SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+528,SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+529,SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+530,SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+531,SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+532,SNP,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+533,SNP,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+534,SNP,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+535,SNP,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+536,SNP,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+537,SNP,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,skipped,,6
+538,SNP,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,skipped,,6
+539,SNP,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+540,SNP,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+541,SNP,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Lab,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),,6
+542,SNP,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+543,SNP,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+544,SNP,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+545,SNP,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+546,SNP,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+547,SNP,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+548,SNP,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+549,SNP,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+550,SNP,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+551,SNP,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),skipped,skipped,,6
+552,SNP,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,skipped,skipped,,6
+553,SNP,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+554,SNP,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+555,SNP,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+556,SNP,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+557,SNP,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+558,SNP,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+559,SNP,Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+560,SNP,Uisdean ROBERTSON (Ind),Lab,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),,6
+561,SNP,Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),skipped,skipped,,6
+562,SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
+563,SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
+564,SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
+565,SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
+566,SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
+567,SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
+568,SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
+569,SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
+570,SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
+571,SNP,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+572,SNP,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+573,SNP,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+574,SNP,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+575,SNP,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+576,SNP,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),skipped,,6
+577,SNP,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,Michael MACLEAN (Ind),,6
+578,SNP,Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+579,SNP,Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+580,SNP,Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+581,SNP,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,,6
+582,SNP,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),,6
+583,SNP,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Lab,Neil Macdonald BEATON (Ind),,6
+584,SNP,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+585,SNP,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+586,SNP,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+587,SNP,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+588,SNP,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,,6
+589,SNP,Martin TAYLOR (Ind),Lab,Michael MACLEAN (Ind),skipped,skipped,,6
+590,SNP,Michael MACLEAN (Ind),skipped,skipped,skipped,skipped,,6
+591,SNP,Michael MACLEAN (Ind),skipped,skipped,skipped,skipped,,6
+592,SNP,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+593,SNP,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,,6
+594,SNP,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,,6
+595,SNP,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Lab,,6
+596,SNP,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,,6
+597,SNP,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Lab,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),,6
+598,SNP,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+599,SNP,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Lab,,6
+600,SNP,Michael MACLEAN (Ind),Lab,skipped,skipped,skipped,,6
+601,SNP,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
+602,SNP,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
+603,SNP,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
+604,SNP,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
+605,SNP,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
+606,SNP,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
+607,SNP,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
+608,SNP,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
+609,SNP,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
+610,SNP,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+611,SNP,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+612,SNP,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+613,SNP,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+614,SNP,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+615,SNP,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+616,SNP,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,,6
+617,SNP,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,,6
+618,SNP,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,skipped,,6
+619,SNP,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),Michael MACLEAN (Ind),,6
+620,SNP,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,Michael MACLEAN (Ind),Martin TAYLOR (Ind),,6
+621,SNP,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+622,SNP,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Lab,Uisdean ROBERTSON (Ind),,6
+623,SNP,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+624,SNP,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+625,SNP,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+626,SNP,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+627,SNP,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+628,SNP,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+629,SNP,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+630,SNP,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Lab,,6
+631,SNP,Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,,6
+632,SNP,Neil Macdonald BEATON (Ind),Lab,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),,6
+633,SNP,Lab,skipped,skipped,skipped,skipped,,6
+634,SNP,Lab,skipped,skipped,skipped,skipped,,6
+635,SNP,Lab,skipped,skipped,skipped,skipped,,6
+636,SNP,Lab,skipped,skipped,skipped,skipped,,6
+637,SNP,Lab,skipped,skipped,skipped,skipped,,6
+638,SNP,Lab,skipped,skipped,skipped,skipped,,6
+639,SNP,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+640,SNP,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+641,SNP,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),,6
+642,SNP,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),,6
+643,SNP,Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),,6
+644,SNP,Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),,6
+645,SNP,Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+646,SNP,Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+647,SNP,Lab,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),,6
+648,SNP,Lab,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),,6
+649,SNP,Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+650,SNP,Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+651,SNP,Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+652,SNP,Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+653,SNP,Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+654,SNP,Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+655,SNP,Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+656,SNP,Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+657,SNP,Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+658,SNP,Lab,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),,6
+659,SNP,Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),,6
+660,SNP,Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),,6
 661,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,skipped,,6
 662,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,skipped,,6
 663,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,skipped,,6
@@ -729,38 +729,38 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 727,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
 728,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
 729,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,skipped,,6
-730,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),,6
-731,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),,6
-732,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),,6
+730,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),SNP,Lab,,6
+731,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Lab,SNP,,6
+732,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Lab,SNP,,6
 733,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
 734,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-735,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),skipped,,6
-736,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),,6
-737,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),,6
-738,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-739,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-740,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-741,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-742,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-743,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-744,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-745,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,,6
-746,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-747,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-748,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-749,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-750,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-751,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-752,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-753,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-754,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-755,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-756,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-757,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-758,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,,6
-759,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),,6
-760,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,,6
-761,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,,6
+735,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),SNP,skipped,,6
+736,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),SNP,Lab,,6
+737,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Lab,SNP,,6
+738,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,,6
+739,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,,6
+740,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,,6
+741,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,,6
+742,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,,6
+743,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,,6
+744,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,,6
+745,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),SNP,Martin TAYLOR (Ind),skipped,skipped,,6
+746,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+747,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+748,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+749,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+750,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+751,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+752,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+753,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+754,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+755,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+756,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+757,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,skipped,skipped,,6
+758,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,,6
+759,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,Michael MACLEAN (Ind),SNP,Martin TAYLOR (Ind),,6
+760,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,SNP,skipped,skipped,,6
+761,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Lab,SNP,skipped,skipped,,6
 762,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
 763,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
 764,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
@@ -771,308 +771,308 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 769,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
 770,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
 771,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,skipped,,6
-772,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),,6
-773,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Andrew WALKER (SNP),,6
+772,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),SNP,Lab,,6
+773,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Lab,Michael MACLEAN (Ind),SNP,,6
 774,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
 775,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
 776,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
 777,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
 778,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,,6
-779,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),,6
-780,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),skipped,skipped,,6
-781,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),,6
-782,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-783,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-784,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-785,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,,6
+779,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Lab,SNP,,6
+780,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),SNP,skipped,skipped,,6
+781,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),SNP,Lab,Uisdean ROBERTSON (Ind),,6
+782,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),SNP,skipped,skipped,skipped,,6
+783,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),SNP,skipped,skipped,skipped,,6
+784,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),SNP,skipped,skipped,skipped,,6
+785,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),SNP,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,,6
 786,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,skipped,,6
 787,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,skipped,,6
 788,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
 789,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
 790,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-791,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,,6
+791,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Lab,skipped,skipped,,6
 792,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
 793,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
 794,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
 795,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-796,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-797,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-798,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-799,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,,6
-800,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-801,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-802,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-803,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-804,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-805,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-806,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-807,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-808,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-809,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-810,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-811,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-812,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-813,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-814,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-815,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-816,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-817,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-818,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-819,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-820,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-821,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),,6
-822,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Martin TAYLOR (Ind),,6
-823,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-824,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-825,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-826,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-827,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-828,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),,6
-829,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),skipped,,6
-830,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),,6
-831,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-832,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-833,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-834,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Archie K CAMPBELL (Lab),,6
-835,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Archie K CAMPBELL (Lab),skipped,,6
-836,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-837,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-838,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),skipped,skipped,skipped,,6
-839,Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,,6
-840,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-841,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-842,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,,6
-843,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-844,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-845,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-846,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-847,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-848,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-849,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-850,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-851,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-852,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-853,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-854,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),Michael MACLEAN (Ind),,6
-855,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),,6
-856,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),,6
-857,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),Michael MACLEAN (Ind),,6
-858,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Michael MACLEAN (Ind),Martin TAYLOR (Ind),,6
-859,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-860,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-861,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-862,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,,6
-863,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),,6
-864,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Andrew WALKER (SNP),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),,6
-865,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-866,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-867,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-868,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-869,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-870,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-871,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),,6
-872,Neil Macdonald BEATON (Ind),Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),,6
-873,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-874,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-875,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-876,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-877,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-878,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-879,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-880,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-881,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-882,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-883,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-884,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-885,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-886,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-887,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-888,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-889,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-890,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-891,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-892,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-893,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-894,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-895,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-896,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-897,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-898,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-899,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-900,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-901,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-902,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-903,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-904,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-905,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-906,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-907,Archie K CAMPBELL (Lab),skipped,skipped,skipped,skipped,skipped,,6
-908,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-909,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-910,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-911,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-912,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-913,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-914,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-915,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-916,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-917,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-918,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-919,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-920,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-921,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-922,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-923,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-924,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-925,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-926,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-927,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-928,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
-929,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-930,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-931,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-932,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-933,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-934,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-935,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-936,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-937,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-938,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-939,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-940,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-941,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-942,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-943,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-944,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),,6
-945,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),,6
-946,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),,6
-947,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),,6
-948,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,,6
-949,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,,6
-950,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),,6
-951,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-952,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-953,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-954,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-955,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-956,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),,6
-957,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-958,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-959,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-960,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-961,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-962,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-963,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-964,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-965,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-966,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-967,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,,6
-968,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),,6
-969,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),,6
-970,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),,6
-971,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-972,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-973,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-974,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-975,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-976,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-977,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-978,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-979,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-980,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-981,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-982,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,,6
-983,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),Michael MACLEAN (Ind),,6
-984,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,,6
-985,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),,6
-986,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),,6
-987,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),,6
-988,Archie K CAMPBELL (Lab),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,,6
-989,Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
-990,Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
-991,Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
-992,Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
-993,Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
-994,Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-995,Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-996,Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-997,Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-998,Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-999,Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-1000,Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),,6
-1001,Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,,6
-1002,Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),,6
-1003,Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,,6
-1004,Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-1005,Archie K CAMPBELL (Lab),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,,6
-1006,Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),skipped,skipped,skipped,skipped,,6
-1007,Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),skipped,skipped,skipped,skipped,,6
-1008,Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-1009,Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-1010,Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-1011,Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-1012,Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),,6
-1013,Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-1014,Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,,6
-1015,Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,,6
-1016,Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-1017,Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-1018,Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-1019,Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Andrew WALKER (SNP),skipped,skipped,skipped,,6
-1020,Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-1021,Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-1022,Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),,6
-1023,Archie K CAMPBELL (Lab),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),,6
-1024,Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-1025,Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-1026,Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-1027,Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-1028,Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-1029,Archie K CAMPBELL (Lab),Andrew WALKER (SNP),skipped,skipped,skipped,skipped,,6
-1030,Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-1031,Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-1032,Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-1033,Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-1034,Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-1035,Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-1036,Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,skipped,,6
-1037,Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-1038,Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-1039,Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-1040,Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
-1041,Archie K CAMPBELL (Lab),Andrew WALKER (SNP),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),,6
-1042,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
-1043,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
-1044,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
-1045,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
-1046,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
-1047,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
-1048,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
-1049,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
-1050,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
-1051,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-1052,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-1053,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-1054,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-1055,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-1056,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-1057,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-1058,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-1059,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
-1060,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,,6
-1061,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Andrew WALKER (SNP),,6
-1062,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),Michael MACLEAN (Ind),,6
-1063,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),,6
-1064,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,,6
-1065,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),skipped,skipped,,6
-1066,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-1067,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
-1068,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),,6
-1069,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-1070,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-1071,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
-1072,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,,6
-1073,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Andrew WALKER (SNP),,6
-1074,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),Martin TAYLOR (Ind),,6
-1075,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Andrew WALKER (SNP),,6
-1076,Archie K CAMPBELL (Lab),Neil Macdonald BEATON (Ind),Andrew WALKER (SNP),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),,6
+796,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),SNP,skipped,skipped,skipped,,6
+797,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),SNP,skipped,skipped,skipped,,6
+798,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Lab,skipped,skipped,skipped,,6
+799,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,,6
+800,Neil Macdonald BEATON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+801,Neil Macdonald BEATON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+802,Neil Macdonald BEATON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+803,Neil Macdonald BEATON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+804,Neil Macdonald BEATON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+805,Neil Macdonald BEATON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+806,Neil Macdonald BEATON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+807,Neil Macdonald BEATON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+808,Neil Macdonald BEATON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+809,Neil Macdonald BEATON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+810,Neil Macdonald BEATON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+811,Neil Macdonald BEATON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+812,Neil Macdonald BEATON (Ind),SNP,skipped,skipped,skipped,skipped,,6
+813,Neil Macdonald BEATON (Ind),SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+814,Neil Macdonald BEATON (Ind),SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+815,Neil Macdonald BEATON (Ind),SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+816,Neil Macdonald BEATON (Ind),SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+817,Neil Macdonald BEATON (Ind),SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+818,Neil Macdonald BEATON (Ind),SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+819,Neil Macdonald BEATON (Ind),SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+820,Neil Macdonald BEATON (Ind),SNP,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+821,Neil Macdonald BEATON (Ind),SNP,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Lab,Michael MACLEAN (Ind),,6
+822,Neil Macdonald BEATON (Ind),SNP,Uisdean ROBERTSON (Ind),Lab,Michael MACLEAN (Ind),Martin TAYLOR (Ind),,6
+823,Neil Macdonald BEATON (Ind),SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+824,Neil Macdonald BEATON (Ind),SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+825,Neil Macdonald BEATON (Ind),SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+826,Neil Macdonald BEATON (Ind),SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+827,Neil Macdonald BEATON (Ind),SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+828,Neil Macdonald BEATON (Ind),SNP,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Lab,,6
+829,Neil Macdonald BEATON (Ind),SNP,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Lab,skipped,,6
+830,Neil Macdonald BEATON (Ind),SNP,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Lab,Uisdean ROBERTSON (Ind),,6
+831,Neil Macdonald BEATON (Ind),SNP,Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+832,Neil Macdonald BEATON (Ind),SNP,Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+833,Neil Macdonald BEATON (Ind),SNP,Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+834,Neil Macdonald BEATON (Ind),SNP,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Lab,,6
+835,Neil Macdonald BEATON (Ind),SNP,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Lab,skipped,,6
+836,Neil Macdonald BEATON (Ind),SNP,Lab,skipped,skipped,skipped,,6
+837,Neil Macdonald BEATON (Ind),SNP,Lab,skipped,skipped,skipped,,6
+838,Neil Macdonald BEATON (Ind),SNP,Lab,skipped,skipped,skipped,,6
+839,Neil Macdonald BEATON (Ind),SNP,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,,6
+840,Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+841,Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+842,Neil Macdonald BEATON (Ind),Lab,skipped,skipped,skipped,skipped,,6
+843,Neil Macdonald BEATON (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+844,Neil Macdonald BEATON (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+845,Neil Macdonald BEATON (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+846,Neil Macdonald BEATON (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+847,Neil Macdonald BEATON (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+848,Neil Macdonald BEATON (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+849,Neil Macdonald BEATON (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+850,Neil Macdonald BEATON (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+851,Neil Macdonald BEATON (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+852,Neil Macdonald BEATON (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+853,Neil Macdonald BEATON (Ind),Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+854,Neil Macdonald BEATON (Ind),Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),SNP,Michael MACLEAN (Ind),,6
+855,Neil Macdonald BEATON (Ind),Lab,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),SNP,,6
+856,Neil Macdonald BEATON (Ind),Lab,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),SNP,,6
+857,Neil Macdonald BEATON (Ind),Lab,Uisdean ROBERTSON (Ind),SNP,Martin TAYLOR (Ind),Michael MACLEAN (Ind),,6
+858,Neil Macdonald BEATON (Ind),Lab,Uisdean ROBERTSON (Ind),SNP,Michael MACLEAN (Ind),Martin TAYLOR (Ind),,6
+859,Neil Macdonald BEATON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+860,Neil Macdonald BEATON (Ind),Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+861,Neil Macdonald BEATON (Ind),Lab,Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+862,Neil Macdonald BEATON (Ind),Lab,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,,6
+863,Neil Macdonald BEATON (Ind),Lab,Michael MACLEAN (Ind),Martin TAYLOR (Ind),SNP,Uisdean ROBERTSON (Ind),,6
+864,Neil Macdonald BEATON (Ind),Lab,Michael MACLEAN (Ind),SNP,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),,6
+865,Neil Macdonald BEATON (Ind),Lab,SNP,skipped,skipped,skipped,,6
+866,Neil Macdonald BEATON (Ind),Lab,SNP,skipped,skipped,skipped,,6
+867,Neil Macdonald BEATON (Ind),Lab,SNP,skipped,skipped,skipped,,6
+868,Neil Macdonald BEATON (Ind),Lab,SNP,skipped,skipped,skipped,,6
+869,Neil Macdonald BEATON (Ind),Lab,SNP,skipped,skipped,skipped,,6
+870,Neil Macdonald BEATON (Ind),Lab,SNP,skipped,skipped,skipped,,6
+871,Neil Macdonald BEATON (Ind),Lab,SNP,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),,6
+872,Neil Macdonald BEATON (Ind),Lab,SNP,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),,6
+873,Lab,skipped,skipped,skipped,skipped,skipped,,6
+874,Lab,skipped,skipped,skipped,skipped,skipped,,6
+875,Lab,skipped,skipped,skipped,skipped,skipped,,6
+876,Lab,skipped,skipped,skipped,skipped,skipped,,6
+877,Lab,skipped,skipped,skipped,skipped,skipped,,6
+878,Lab,skipped,skipped,skipped,skipped,skipped,,6
+879,Lab,skipped,skipped,skipped,skipped,skipped,,6
+880,Lab,skipped,skipped,skipped,skipped,skipped,,6
+881,Lab,skipped,skipped,skipped,skipped,skipped,,6
+882,Lab,skipped,skipped,skipped,skipped,skipped,,6
+883,Lab,skipped,skipped,skipped,skipped,skipped,,6
+884,Lab,skipped,skipped,skipped,skipped,skipped,,6
+885,Lab,skipped,skipped,skipped,skipped,skipped,,6
+886,Lab,skipped,skipped,skipped,skipped,skipped,,6
+887,Lab,skipped,skipped,skipped,skipped,skipped,,6
+888,Lab,skipped,skipped,skipped,skipped,skipped,,6
+889,Lab,skipped,skipped,skipped,skipped,skipped,,6
+890,Lab,skipped,skipped,skipped,skipped,skipped,,6
+891,Lab,skipped,skipped,skipped,skipped,skipped,,6
+892,Lab,skipped,skipped,skipped,skipped,skipped,,6
+893,Lab,skipped,skipped,skipped,skipped,skipped,,6
+894,Lab,skipped,skipped,skipped,skipped,skipped,,6
+895,Lab,skipped,skipped,skipped,skipped,skipped,,6
+896,Lab,skipped,skipped,skipped,skipped,skipped,,6
+897,Lab,skipped,skipped,skipped,skipped,skipped,,6
+898,Lab,skipped,skipped,skipped,skipped,skipped,,6
+899,Lab,skipped,skipped,skipped,skipped,skipped,,6
+900,Lab,skipped,skipped,skipped,skipped,skipped,,6
+901,Lab,skipped,skipped,skipped,skipped,skipped,,6
+902,Lab,skipped,skipped,skipped,skipped,skipped,,6
+903,Lab,skipped,skipped,skipped,skipped,skipped,,6
+904,Lab,skipped,skipped,skipped,skipped,skipped,,6
+905,Lab,skipped,skipped,skipped,skipped,skipped,,6
+906,Lab,skipped,skipped,skipped,skipped,skipped,,6
+907,Lab,skipped,skipped,skipped,skipped,skipped,,6
+908,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+909,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+910,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+911,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+912,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+913,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+914,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+915,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+916,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+917,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+918,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+919,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+920,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+921,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+922,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+923,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+924,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+925,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+926,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+927,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+928,Lab,Uisdean ROBERTSON (Ind),skipped,skipped,skipped,skipped,,6
+929,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+930,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+931,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+932,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+933,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+934,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+935,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+936,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+937,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+938,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+939,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+940,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+941,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+942,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+943,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+944,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),SNP,,6
+945,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),SNP,,6
+946,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),SNP,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),,6
+947,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),SNP,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),,6
+948,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,,6
+949,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,,6
+950,Lab,Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),SNP,,6
+951,Lab,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+952,Lab,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+953,Lab,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+954,Lab,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+955,Lab,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+956,Lab,Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),SNP,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),,6
+957,Lab,Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,,6
+958,Lab,Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,,6
+959,Lab,Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,,6
+960,Lab,Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,,6
+961,Lab,Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,,6
+962,Lab,Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,,6
+963,Lab,Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,,6
+964,Lab,Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,,6
+965,Lab,Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,,6
+966,Lab,Uisdean ROBERTSON (Ind),SNP,skipped,skipped,skipped,,6
+967,Lab,Uisdean ROBERTSON (Ind),SNP,Martin TAYLOR (Ind),skipped,skipped,,6
+968,Lab,Uisdean ROBERTSON (Ind),SNP,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),,6
+969,Lab,Uisdean ROBERTSON (Ind),SNP,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),,6
+970,Lab,Uisdean ROBERTSON (Ind),SNP,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),,6
+971,Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+972,Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+973,Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+974,Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+975,Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+976,Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+977,Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+978,Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+979,Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+980,Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+981,Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+982,Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),skipped,,6
+983,Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),SNP,Michael MACLEAN (Ind),,6
+984,Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,,6
+985,Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),SNP,,6
+986,Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),SNP,,6
+987,Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),SNP,Martin TAYLOR (Ind),,6
+988,Lab,Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),SNP,Martin TAYLOR (Ind),skipped,,6
+989,Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
+990,Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
+991,Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
+992,Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
+993,Lab,Martin TAYLOR (Ind),skipped,skipped,skipped,skipped,,6
+994,Lab,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+995,Lab,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+996,Lab,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+997,Lab,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+998,Lab,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+999,Lab,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+1000,Lab,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),SNP,,6
+1001,Lab,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,,6
+1002,Lab,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),SNP,,6
+1003,Lab,Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,,6
+1004,Lab,Martin TAYLOR (Ind),SNP,skipped,skipped,skipped,,6
+1005,Lab,Martin TAYLOR (Ind),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,,6
+1006,Lab,Michael MACLEAN (Ind),skipped,skipped,skipped,skipped,,6
+1007,Lab,Michael MACLEAN (Ind),skipped,skipped,skipped,skipped,,6
+1008,Lab,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+1009,Lab,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+1010,Lab,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+1011,Lab,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+1012,Lab,Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),SNP,,6
+1013,Lab,Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+1014,Lab,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,,6
+1015,Lab,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),Neil Macdonald BEATON (Ind),skipped,,6
+1016,Lab,Michael MACLEAN (Ind),SNP,skipped,skipped,skipped,,6
+1017,Lab,Michael MACLEAN (Ind),SNP,skipped,skipped,skipped,,6
+1018,Lab,Michael MACLEAN (Ind),SNP,skipped,skipped,skipped,,6
+1019,Lab,Michael MACLEAN (Ind),SNP,skipped,skipped,skipped,,6
+1020,Lab,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+1021,Lab,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+1022,Lab,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),SNP,Martin TAYLOR (Ind),,6
+1023,Lab,Michael MACLEAN (Ind),Neil Macdonald BEATON (Ind),SNP,Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),,6
+1024,Lab,SNP,skipped,skipped,skipped,skipped,,6
+1025,Lab,SNP,skipped,skipped,skipped,skipped,,6
+1026,Lab,SNP,skipped,skipped,skipped,skipped,,6
+1027,Lab,SNP,skipped,skipped,skipped,skipped,,6
+1028,Lab,SNP,skipped,skipped,skipped,skipped,,6
+1029,Lab,SNP,skipped,skipped,skipped,skipped,,6
+1030,Lab,SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+1031,Lab,SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+1032,Lab,SNP,Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+1033,Lab,SNP,Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+1034,Lab,SNP,Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+1035,Lab,SNP,Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+1036,Lab,SNP,Michael MACLEAN (Ind),Martin TAYLOR (Ind),skipped,skipped,,6
+1037,Lab,SNP,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+1038,Lab,SNP,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+1039,Lab,SNP,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+1040,Lab,SNP,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,,6
+1041,Lab,SNP,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),,6
+1042,Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
+1043,Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
+1044,Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
+1045,Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
+1046,Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
+1047,Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
+1048,Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
+1049,Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
+1050,Lab,Neil Macdonald BEATON (Ind),skipped,skipped,skipped,skipped,,6
+1051,Lab,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+1052,Lab,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+1053,Lab,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+1054,Lab,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+1055,Lab,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+1056,Lab,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+1057,Lab,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+1058,Lab,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+1059,Lab,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,skipped,,6
+1060,Lab,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),skipped,skipped,,6
+1061,Lab,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),SNP,,6
+1062,Lab,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),SNP,Michael MACLEAN (Ind),,6
+1063,Lab,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),SNP,,6
+1064,Lab,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),SNP,skipped,skipped,,6
+1065,Lab,Neil Macdonald BEATON (Ind),Uisdean ROBERTSON (Ind),SNP,skipped,skipped,,6
+1066,Lab,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+1067,Lab,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),skipped,skipped,skipped,,6
+1068,Lab,Neil Macdonald BEATON (Ind),Martin TAYLOR (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),SNP,,6
+1069,Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+1070,Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+1071,Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),skipped,skipped,skipped,,6
+1072,Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),skipped,skipped,,6
+1073,Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),Martin TAYLOR (Ind),SNP,,6
+1074,Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Uisdean ROBERTSON (Ind),SNP,Martin TAYLOR (Ind),,6
+1075,Lab,Neil Macdonald BEATON (Ind),Michael MACLEAN (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),SNP,,6
+1076,Lab,Neil Macdonald BEATON (Ind),SNP,Michael MACLEAN (Ind),Martin TAYLOR (Ind),Uisdean ROBERTSON (Ind),,6

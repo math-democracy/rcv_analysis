@@ -7,10 +7,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 5,Caroline MILLER (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 6,Caroline MILLER (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 7,Caroline MILLER (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
-8,Caroline MILLER (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),,7
-9,Caroline MILLER (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-10,Caroline MILLER (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
-11,Caroline MILLER (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
+8,Caroline MILLER (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),SNP,,7
+9,Caroline MILLER (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+10,Caroline MILLER (Ind),SNP,Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
+11,Caroline MILLER (Ind),Malcolm BELL (Ind),SNP,skipped,skipped,skipped,skipped,,7
 12,Caroline MILLER (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 13,Caroline MILLER (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,,7
 14,Caroline MILLER (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,,7
@@ -20,20 +20,20 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 18,Caroline MILLER (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 19,Caroline MILLER (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,,7
 20,Caroline MILLER (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,skipped,,7
-21,Caroline MILLER (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
+21,Caroline MILLER (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,skipped,,7
 22,Caroline MILLER (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,,7
 23,Caroline MILLER (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 24,Caroline MILLER (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,skipped,,7
 25,Caroline MILLER (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,skipped,,7
 26,Caroline MILLER (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,skipped,,7
 27,Caroline MILLER (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,,7
-28,Caroline MILLER (Ind),Allan WISHART (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-29,Caroline MILLER (Ind),Allan WISHART (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-30,Caroline MILLER (Ind),Allan WISHART (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-31,Caroline MILLER (Ind),Allan WISHART (Ind),Danus SKENE (SNP),Malcolm BELL (Ind),skipped,skipped,skipped,,7
-32,Caroline MILLER (Ind),Allan WISHART (Ind),Danus SKENE (SNP),Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),,7
+28,Caroline MILLER (Ind),Allan WISHART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+29,Caroline MILLER (Ind),Allan WISHART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+30,Caroline MILLER (Ind),Allan WISHART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+31,Caroline MILLER (Ind),Allan WISHART (Ind),SNP,Malcolm BELL (Ind),skipped,skipped,skipped,,7
+32,Caroline MILLER (Ind),Allan WISHART (Ind),SNP,Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),,7
 33,Caroline MILLER (Ind),Allan WISHART (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
-34,Caroline MILLER (Ind),Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),,7
+34,Caroline MILLER (Ind),Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),SNP,,7
 35,Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 36,Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 37,Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
@@ -42,32 +42,32 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 40,Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 41,Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 42,Alex WRIGHT (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
-43,Alex WRIGHT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-44,Alex WRIGHT (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
-45,Alex WRIGHT (Ind),Danus SKENE (SNP),Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
-46,Alex WRIGHT (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
-47,Alex WRIGHT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
-48,Alex WRIGHT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
-49,Alex WRIGHT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,,7
-50,Alex WRIGHT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),,7
-51,Alex WRIGHT (Ind),Danus SKENE (SNP),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
+43,Alex WRIGHT (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+44,Alex WRIGHT (Ind),SNP,Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
+45,Alex WRIGHT (Ind),SNP,Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
+46,Alex WRIGHT (Ind),SNP,Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
+47,Alex WRIGHT (Ind),SNP,Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
+48,Alex WRIGHT (Ind),SNP,Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
+49,Alex WRIGHT (Ind),SNP,Bill ADAMS (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,,7
+50,Alex WRIGHT (Ind),SNP,Bill ADAMS (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),,7
+51,Alex WRIGHT (Ind),SNP,Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 52,Alex WRIGHT (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 53,Alex WRIGHT (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 54,Alex WRIGHT (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
-55,Alex WRIGHT (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),,7
-56,Alex WRIGHT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),skipped,skipped,skipped,,7
+55,Alex WRIGHT (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),SNP,,7
+56,Alex WRIGHT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),SNP,skipped,skipped,skipped,,7
 57,Alex WRIGHT (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 58,Alex WRIGHT (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,,7
-59,Alex WRIGHT (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),,7
+59,Alex WRIGHT (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),SNP,Caroline MILLER (Ind),,7
 60,Alex WRIGHT (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,skipped,,7
 61,Alex WRIGHT (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,skipped,,7
-62,Alex WRIGHT (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-63,Alex WRIGHT (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
+62,Alex WRIGHT (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,skipped,,7
+63,Alex WRIGHT (Ind),Michael William STOUT (Ind),SNP,Bill ADAMS (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
 64,Alex WRIGHT (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
 65,Alex WRIGHT (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
 66,Alex WRIGHT (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 67,Alex WRIGHT (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
-68,Alex WRIGHT (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Malcolm BELL (Ind),skipped,skipped,,7
+68,Alex WRIGHT (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),SNP,Malcolm BELL (Ind),skipped,skipped,,7
 69,Alex WRIGHT (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 70,Alex WRIGHT (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 71,Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -78,73 +78,73 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 76,Alex WRIGHT (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 77,Alex WRIGHT (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 78,Alex WRIGHT (Ind),Allan WISHART (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
-79,Alex WRIGHT (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),,7
+79,Alex WRIGHT (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),SNP,,7
 80,Alex WRIGHT (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),skipped,skipped,,7
-81,Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-82,Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-83,Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-84,Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-85,Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-86,Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-87,Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-88,Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-89,Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-90,Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-91,Danus SKENE (SNP),Caroline MILLER (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),,7
-92,Danus SKENE (SNP),Caroline MILLER (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),,7
-93,Danus SKENE (SNP),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,skipped,,7
-94,Danus SKENE (SNP),Alex WRIGHT (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
-95,Danus SKENE (SNP),Alex WRIGHT (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),skipped,skipped,,7
-96,Danus SKENE (SNP),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
-97,Danus SKENE (SNP),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
-98,Danus SKENE (SNP),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
-99,Danus SKENE (SNP),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
-100,Danus SKENE (SNP),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
-101,Danus SKENE (SNP),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
-102,Danus SKENE (SNP),Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
-103,Danus SKENE (SNP),Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
-104,Danus SKENE (SNP),Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
-105,Danus SKENE (SNP),Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),,7
-106,Danus SKENE (SNP),Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
-107,Danus SKENE (SNP),Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
-108,Danus SKENE (SNP),Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
-109,Danus SKENE (SNP),Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
-110,Danus SKENE (SNP),Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
-111,Danus SKENE (SNP),Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
-112,Danus SKENE (SNP),Malcolm BELL (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),skipped,skipped,,7
-113,Danus SKENE (SNP),Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),,7
-114,Danus SKENE (SNP),Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),,7
-115,Danus SKENE (SNP),Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
-116,Danus SKENE (SNP),Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
-117,Danus SKENE (SNP),Malcolm BELL (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),,7
-118,Danus SKENE (SNP),Malcolm BELL (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
-119,Danus SKENE (SNP),Malcolm BELL (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
-120,Danus SKENE (SNP),Malcolm BELL (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
-121,Danus SKENE (SNP),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,skipped,,7
-122,Danus SKENE (SNP),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
-123,Danus SKENE (SNP),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),,7
-124,Danus SKENE (SNP),Michael William STOUT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
-125,Danus SKENE (SNP),Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
-126,Danus SKENE (SNP),Michael William STOUT (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),skipped,skipped,,7
-127,Danus SKENE (SNP),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
-128,Danus SKENE (SNP),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
-129,Danus SKENE (SNP),Michael William STOUT (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
-130,Danus SKENE (SNP),Michael William STOUT (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
-131,Danus SKENE (SNP),Michael William STOUT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),skipped,skipped,,7
-132,Danus SKENE (SNP),Bill ADAMS (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
-133,Danus SKENE (SNP),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
-134,Danus SKENE (SNP),Bill ADAMS (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
-135,Danus SKENE (SNP),Bill ADAMS (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),,7
-136,Danus SKENE (SNP),Bill ADAMS (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),,7
-137,Danus SKENE (SNP),Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Malcolm BELL (Ind),,7
-138,Danus SKENE (SNP),Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Malcolm BELL (Ind),,7
-139,Danus SKENE (SNP),Bill ADAMS (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),,7
-140,Danus SKENE (SNP),Allan WISHART (Ind),skipped,skipped,skipped,skipped,skipped,,7
-141,Danus SKENE (SNP),Allan WISHART (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),,7
-142,Danus SKENE (SNP),Allan WISHART (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
-143,Danus SKENE (SNP),Allan WISHART (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
-144,Danus SKENE (SNP),Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
-145,Danus SKENE (SNP),Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
+81,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+82,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+83,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+84,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+85,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+86,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+87,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+88,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+89,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+90,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+91,SNP,Caroline MILLER (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),,7
+92,SNP,Caroline MILLER (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),,7
+93,SNP,Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,skipped,,7
+94,SNP,Alex WRIGHT (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
+95,SNP,Alex WRIGHT (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),skipped,skipped,,7
+96,SNP,Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
+97,SNP,Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
+98,SNP,Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
+99,SNP,Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
+100,SNP,Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
+101,SNP,Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
+102,SNP,Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
+103,SNP,Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
+104,SNP,Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
+105,SNP,Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),,7
+106,SNP,Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
+107,SNP,Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
+108,SNP,Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
+109,SNP,Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
+110,SNP,Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
+111,SNP,Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
+112,SNP,Malcolm BELL (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),skipped,skipped,,7
+113,SNP,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),,7
+114,SNP,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),,7
+115,SNP,Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
+116,SNP,Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
+117,SNP,Malcolm BELL (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),,7
+118,SNP,Malcolm BELL (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
+119,SNP,Malcolm BELL (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
+120,SNP,Malcolm BELL (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
+121,SNP,Michael William STOUT (Ind),skipped,skipped,skipped,skipped,skipped,,7
+122,SNP,Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
+123,SNP,Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),,7
+124,SNP,Michael William STOUT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
+125,SNP,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
+126,SNP,Michael William STOUT (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),skipped,skipped,,7
+127,SNP,Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
+128,SNP,Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
+129,SNP,Michael William STOUT (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
+130,SNP,Michael William STOUT (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
+131,SNP,Michael William STOUT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),skipped,skipped,,7
+132,SNP,Bill ADAMS (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
+133,SNP,Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
+134,SNP,Bill ADAMS (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
+135,SNP,Bill ADAMS (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),,7
+136,SNP,Bill ADAMS (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),,7
+137,SNP,Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Malcolm BELL (Ind),,7
+138,SNP,Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Malcolm BELL (Ind),,7
+139,SNP,Bill ADAMS (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),,7
+140,SNP,Allan WISHART (Ind),skipped,skipped,skipped,skipped,skipped,,7
+141,SNP,Allan WISHART (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),,7
+142,SNP,Allan WISHART (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
+143,SNP,Allan WISHART (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
+144,SNP,Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
+145,SNP,Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
 146,Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 147,Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 148,Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
@@ -223,27 +223,27 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 221,Malcolm BELL (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,skipped,,7
 222,Malcolm BELL (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,skipped,,7
 223,Malcolm BELL (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
-224,Malcolm BELL (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-225,Malcolm BELL (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-226,Malcolm BELL (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-227,Malcolm BELL (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),,7
-228,Malcolm BELL (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),,7
+224,Malcolm BELL (Ind),Caroline MILLER (Ind),SNP,skipped,skipped,skipped,skipped,,7
+225,Malcolm BELL (Ind),Caroline MILLER (Ind),SNP,skipped,skipped,skipped,skipped,,7
+226,Malcolm BELL (Ind),Caroline MILLER (Ind),SNP,skipped,skipped,skipped,skipped,,7
+227,Malcolm BELL (Ind),Caroline MILLER (Ind),SNP,Michael William STOUT (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),,7
+228,Malcolm BELL (Ind),Caroline MILLER (Ind),SNP,Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),,7
 229,Malcolm BELL (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 230,Malcolm BELL (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
-231,Malcolm BELL (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),,7
+231,Malcolm BELL (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),SNP,Alex WRIGHT (Ind),,7
 232,Malcolm BELL (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 233,Malcolm BELL (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 234,Malcolm BELL (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),skipped,,7
-235,Malcolm BELL (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),,7
+235,Malcolm BELL (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),SNP,,7
 236,Malcolm BELL (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 237,Malcolm BELL (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 238,Malcolm BELL (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 239,Malcolm BELL (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 240,Malcolm BELL (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,,7
 241,Malcolm BELL (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,,7
-242,Malcolm BELL (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),Bill ADAMS (Ind),,7
-243,Malcolm BELL (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),,7
-244,Malcolm BELL (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),,7
+242,Malcolm BELL (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),SNP,Alex WRIGHT (Ind),Bill ADAMS (Ind),,7
+243,Malcolm BELL (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),SNP,,7
+244,Malcolm BELL (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),SNP,,7
 245,Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,skipped,,7
 246,Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,skipped,,7
 247,Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -255,9 +255,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 253,Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,skipped,,7
 254,Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,skipped,,7
 255,Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,skipped,,7
-256,Malcolm BELL (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-257,Malcolm BELL (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),,7
-258,Malcolm BELL (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Allan WISHART (Ind),skipped,skipped,,7
+256,Malcolm BELL (Ind),Alex WRIGHT (Ind),SNP,skipped,skipped,skipped,skipped,,7
+257,Malcolm BELL (Ind),Alex WRIGHT (Ind),SNP,Michael William STOUT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),,7
+258,Malcolm BELL (Ind),Alex WRIGHT (Ind),SNP,Bill ADAMS (Ind),Allan WISHART (Ind),skipped,skipped,,7
 259,Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 260,Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 261,Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
@@ -271,14 +271,14 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 269,Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 270,Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 271,Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
-272,Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,,7
-273,Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,,7
+272,Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,,7
+273,Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,,7
 274,Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
 275,Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
 276,Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),skipped,skipped,,7
-277,Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),,7
+277,Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),SNP,,7
 278,Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),skipped,skipped,skipped,,7
-279,Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),,7
+279,Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),SNP,,7
 280,Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 281,Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 282,Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
@@ -293,68 +293,68 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 291,Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 292,Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 293,Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
-294,Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),,7
-295,Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),,7
-296,Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-297,Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-298,Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-299,Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-300,Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-301,Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-302,Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-303,Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-304,Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-305,Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-306,Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-307,Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-308,Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-309,Malcolm BELL (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
-310,Malcolm BELL (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
-311,Malcolm BELL (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
-312,Malcolm BELL (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
-313,Malcolm BELL (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
-314,Malcolm BELL (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
-315,Malcolm BELL (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,,7
-316,Malcolm BELL (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,,7
-317,Malcolm BELL (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,,7
-318,Malcolm BELL (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),skipped,skipped,,7
-319,Malcolm BELL (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),skipped,skipped,,7
-320,Malcolm BELL (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
-321,Malcolm BELL (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
-322,Malcolm BELL (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
-323,Malcolm BELL (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
-324,Malcolm BELL (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
-325,Malcolm BELL (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
-326,Malcolm BELL (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,,7
-327,Malcolm BELL (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
-328,Malcolm BELL (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),,7
-329,Malcolm BELL (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
-330,Malcolm BELL (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),Allan WISHART (Ind),skipped,skipped,skipped,,7
-331,Malcolm BELL (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),skipped,skipped,,7
-332,Malcolm BELL (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),,7
-333,Malcolm BELL (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),,7
-334,Malcolm BELL (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
-335,Malcolm BELL (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
-336,Malcolm BELL (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),skipped,skipped,,7
-337,Malcolm BELL (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),,7
-338,Malcolm BELL (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,,7
-339,Malcolm BELL (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,,7
-340,Malcolm BELL (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,,7
-341,Malcolm BELL (Ind),Danus SKENE (SNP),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
-342,Malcolm BELL (Ind),Danus SKENE (SNP),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
-343,Malcolm BELL (Ind),Danus SKENE (SNP),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
-344,Malcolm BELL (Ind),Danus SKENE (SNP),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
-345,Malcolm BELL (Ind),Danus SKENE (SNP),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
-346,Malcolm BELL (Ind),Danus SKENE (SNP),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
-347,Malcolm BELL (Ind),Danus SKENE (SNP),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
-348,Malcolm BELL (Ind),Danus SKENE (SNP),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
-349,Malcolm BELL (Ind),Danus SKENE (SNP),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
-350,Malcolm BELL (Ind),Danus SKENE (SNP),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
-351,Malcolm BELL (Ind),Danus SKENE (SNP),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
-352,Malcolm BELL (Ind),Danus SKENE (SNP),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),skipped,skipped,,7
-353,Malcolm BELL (Ind),Danus SKENE (SNP),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),skipped,skipped,,7
-354,Malcolm BELL (Ind),Danus SKENE (SNP),Allan WISHART (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),,7
-355,Malcolm BELL (Ind),Danus SKENE (SNP),Allan WISHART (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),,7
+294,Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),SNP,,7
+295,Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),SNP,Caroline MILLER (Ind),,7
+296,Malcolm BELL (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+297,Malcolm BELL (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+298,Malcolm BELL (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+299,Malcolm BELL (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+300,Malcolm BELL (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+301,Malcolm BELL (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+302,Malcolm BELL (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+303,Malcolm BELL (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+304,Malcolm BELL (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+305,Malcolm BELL (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+306,Malcolm BELL (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+307,Malcolm BELL (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+308,Malcolm BELL (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+309,Malcolm BELL (Ind),SNP,Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
+310,Malcolm BELL (Ind),SNP,Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
+311,Malcolm BELL (Ind),SNP,Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
+312,Malcolm BELL (Ind),SNP,Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
+313,Malcolm BELL (Ind),SNP,Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
+314,Malcolm BELL (Ind),SNP,Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
+315,Malcolm BELL (Ind),SNP,Alex WRIGHT (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,,7
+316,Malcolm BELL (Ind),SNP,Alex WRIGHT (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,,7
+317,Malcolm BELL (Ind),SNP,Alex WRIGHT (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,,7
+318,Malcolm BELL (Ind),SNP,Alex WRIGHT (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),skipped,skipped,,7
+319,Malcolm BELL (Ind),SNP,Alex WRIGHT (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),skipped,skipped,,7
+320,Malcolm BELL (Ind),SNP,Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
+321,Malcolm BELL (Ind),SNP,Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
+322,Malcolm BELL (Ind),SNP,Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
+323,Malcolm BELL (Ind),SNP,Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
+324,Malcolm BELL (Ind),SNP,Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
+325,Malcolm BELL (Ind),SNP,Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
+326,Malcolm BELL (Ind),SNP,Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,,7
+327,Malcolm BELL (Ind),SNP,Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
+328,Malcolm BELL (Ind),SNP,Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),,7
+329,Malcolm BELL (Ind),SNP,Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
+330,Malcolm BELL (Ind),SNP,Michael William STOUT (Ind),Allan WISHART (Ind),skipped,skipped,skipped,,7
+331,Malcolm BELL (Ind),SNP,Michael William STOUT (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),skipped,skipped,,7
+332,Malcolm BELL (Ind),SNP,Michael William STOUT (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),,7
+333,Malcolm BELL (Ind),SNP,Michael William STOUT (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),,7
+334,Malcolm BELL (Ind),SNP,Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
+335,Malcolm BELL (Ind),SNP,Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
+336,Malcolm BELL (Ind),SNP,Bill ADAMS (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),skipped,skipped,,7
+337,Malcolm BELL (Ind),SNP,Bill ADAMS (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),,7
+338,Malcolm BELL (Ind),SNP,Bill ADAMS (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,,7
+339,Malcolm BELL (Ind),SNP,Bill ADAMS (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,,7
+340,Malcolm BELL (Ind),SNP,Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,,7
+341,Malcolm BELL (Ind),SNP,Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
+342,Malcolm BELL (Ind),SNP,Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
+343,Malcolm BELL (Ind),SNP,Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
+344,Malcolm BELL (Ind),SNP,Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
+345,Malcolm BELL (Ind),SNP,Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
+346,Malcolm BELL (Ind),SNP,Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
+347,Malcolm BELL (Ind),SNP,Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
+348,Malcolm BELL (Ind),SNP,Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
+349,Malcolm BELL (Ind),SNP,Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
+350,Malcolm BELL (Ind),SNP,Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
+351,Malcolm BELL (Ind),SNP,Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
+352,Malcolm BELL (Ind),SNP,Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),skipped,skipped,,7
+353,Malcolm BELL (Ind),SNP,Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),skipped,skipped,,7
+354,Malcolm BELL (Ind),SNP,Allan WISHART (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),,7
+355,Malcolm BELL (Ind),SNP,Allan WISHART (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),,7
 356,Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,skipped,,7
 357,Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,skipped,,7
 358,Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -422,11 +422,11 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 420,Malcolm BELL (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
 421,Malcolm BELL (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
 422,Malcolm BELL (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
-423,Malcolm BELL (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),Allan WISHART (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),,7
+423,Malcolm BELL (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),SNP,Allan WISHART (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),,7
 424,Malcolm BELL (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
-425,Malcolm BELL (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),skipped,skipped,,7
+425,Malcolm BELL (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),SNP,skipped,skipped,,7
 426,Malcolm BELL (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),skipped,skipped,,7
-427,Malcolm BELL (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),Bill ADAMS (Ind),,7
+427,Malcolm BELL (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),SNP,Alex WRIGHT (Ind),Bill ADAMS (Ind),,7
 428,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 429,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 430,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
@@ -471,10 +471,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 469,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 470,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 471,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
-472,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
-473,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
-474,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
-475,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
+472,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),SNP,Bill ADAMS (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
+473,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),SNP,Bill ADAMS (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
+474,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),SNP,Bill ADAMS (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
+475,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),SNP,Bill ADAMS (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
 476,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
 477,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
 478,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
@@ -484,35 +484,35 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 482,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
 483,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
 484,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
-485,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),skipped,skipped,,7
-486,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),Allan WISHART (Ind),,7
-487,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),Allan WISHART (Ind),,7
+485,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),SNP,skipped,skipped,,7
+486,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),SNP,Caroline MILLER (Ind),Allan WISHART (Ind),,7
+487,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),SNP,Caroline MILLER (Ind),Allan WISHART (Ind),,7
 488,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),skipped,skipped,,7
 489,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),skipped,skipped,skipped,,7
-490,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-491,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-492,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-493,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-494,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-495,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-496,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-497,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-498,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-499,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-500,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-501,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-502,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-503,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-504,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-505,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),skipped,skipped,skipped,,7
-506,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),,7
-507,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),,7
-508,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
-509,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
-510,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Allan WISHART (Ind),skipped,skipped,skipped,,7
-511,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Allan WISHART (Ind),skipped,skipped,skipped,,7
-512,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Allan WISHART (Ind),Bill ADAMS (Ind),skipped,skipped,,7
-513,Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Allan WISHART (Ind),Bill ADAMS (Ind),skipped,skipped,,7
+490,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,skipped,,7
+491,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,skipped,,7
+492,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,skipped,,7
+493,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,skipped,,7
+494,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,skipped,,7
+495,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,skipped,,7
+496,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,skipped,,7
+497,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,skipped,,7
+498,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,skipped,,7
+499,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,skipped,,7
+500,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,skipped,,7
+501,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,skipped,,7
+502,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,skipped,,7
+503,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,skipped,,7
+504,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,skipped,,7
+505,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,Bill ADAMS (Ind),skipped,skipped,skipped,,7
+506,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),,7
+507,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),,7
+508,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,Bill ADAMS (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
+509,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,Bill ADAMS (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
+510,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,Allan WISHART (Ind),skipped,skipped,skipped,,7
+511,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,Allan WISHART (Ind),skipped,skipped,skipped,,7
+512,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,Allan WISHART (Ind),Bill ADAMS (Ind),skipped,skipped,,7
+513,Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,Allan WISHART (Ind),Bill ADAMS (Ind),skipped,skipped,,7
 514,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 515,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 516,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
@@ -551,23 +551,23 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 549,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 550,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 551,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,,7
-552,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),Allan WISHART (Ind),Alex WRIGHT (Ind),,7
-553,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),,7
+552,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),SNP,Allan WISHART (Ind),Alex WRIGHT (Ind),,7
+553,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),SNP,,7
 554,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
 555,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
 556,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
-557,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Danus SKENE (SNP),,7
-558,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),skipped,skipped,,7
-559,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),skipped,skipped,,7
-560,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),skipped,skipped,,7
-561,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),Allan WISHART (Ind),,7
-562,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),Allan WISHART (Ind),,7
-563,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),Allan WISHART (Ind),,7
-564,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),,7
-565,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),skipped,skipped,skipped,,7
-566,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),skipped,skipped,,7
-567,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
-568,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
+557,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),SNP,,7
+558,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),SNP,skipped,skipped,,7
+559,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),SNP,skipped,skipped,,7
+560,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),SNP,skipped,skipped,,7
+561,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),SNP,Caroline MILLER (Ind),Allan WISHART (Ind),,7
+562,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),SNP,Caroline MILLER (Ind),Allan WISHART (Ind),,7
+563,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),SNP,Caroline MILLER (Ind),Allan WISHART (Ind),,7
+564,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),SNP,,7
+565,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),SNP,skipped,skipped,skipped,,7
+566,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),SNP,Alex WRIGHT (Ind),skipped,skipped,,7
+567,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),SNP,Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
+568,Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),SNP,Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
 569,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 570,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 571,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
@@ -601,18 +601,18 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 599,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,,7
 600,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,,7
 601,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
-602,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),,7
-603,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),skipped,skipped,,7
-604,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),Bill ADAMS (Ind),,7
-605,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),skipped,,7
-606,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),,7
-607,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Danus SKENE (SNP),skipped,skipped,skipped,,7
+602,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),SNP,,7
+603,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),SNP,skipped,skipped,,7
+604,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),SNP,Caroline MILLER (Ind),Bill ADAMS (Ind),,7
+605,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),SNP,Bill ADAMS (Ind),skipped,,7
+606,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),SNP,Caroline MILLER (Ind),,7
+607,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),SNP,skipped,skipped,skipped,,7
 608,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
 609,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
 610,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
-611,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),,7
-612,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),,7
-613,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),Alex WRIGHT (Ind),,7
+611,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),SNP,,7
+612,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),SNP,,7
+613,Malcolm BELL (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),SNP,Caroline MILLER (Ind),Alex WRIGHT (Ind),,7
 614,Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,skipped,,7
 615,Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,skipped,,7
 616,Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -624,25 +624,25 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 622,Malcolm BELL (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
 623,Malcolm BELL (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
 624,Malcolm BELL (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
-625,Malcolm BELL (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),Allan WISHART (Ind),Alex WRIGHT (Ind),skipped,,7
+625,Malcolm BELL (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),SNP,Allan WISHART (Ind),Alex WRIGHT (Ind),skipped,,7
 626,Malcolm BELL (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 627,Malcolm BELL (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 628,Malcolm BELL (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 629,Malcolm BELL (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 630,Malcolm BELL (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
-631,Malcolm BELL (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),skipped,skipped,,7
+631,Malcolm BELL (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),SNP,Michael William STOUT (Ind),skipped,skipped,,7
 632,Malcolm BELL (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,,7
 633,Malcolm BELL (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),skipped,skipped,skipped,,7
-634,Malcolm BELL (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-635,Malcolm BELL (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-636,Malcolm BELL (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-637,Malcolm BELL (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-638,Malcolm BELL (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-639,Malcolm BELL (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-640,Malcolm BELL (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-641,Malcolm BELL (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-642,Malcolm BELL (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-643,Malcolm BELL (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Allan WISHART (Ind),skipped,skipped,skipped,,7
+634,Malcolm BELL (Ind),Bill ADAMS (Ind),SNP,skipped,skipped,skipped,skipped,,7
+635,Malcolm BELL (Ind),Bill ADAMS (Ind),SNP,skipped,skipped,skipped,skipped,,7
+636,Malcolm BELL (Ind),Bill ADAMS (Ind),SNP,skipped,skipped,skipped,skipped,,7
+637,Malcolm BELL (Ind),Bill ADAMS (Ind),SNP,skipped,skipped,skipped,skipped,,7
+638,Malcolm BELL (Ind),Bill ADAMS (Ind),SNP,skipped,skipped,skipped,skipped,,7
+639,Malcolm BELL (Ind),Bill ADAMS (Ind),SNP,skipped,skipped,skipped,skipped,,7
+640,Malcolm BELL (Ind),Bill ADAMS (Ind),SNP,skipped,skipped,skipped,skipped,,7
+641,Malcolm BELL (Ind),Bill ADAMS (Ind),SNP,skipped,skipped,skipped,skipped,,7
+642,Malcolm BELL (Ind),Bill ADAMS (Ind),SNP,skipped,skipped,skipped,skipped,,7
+643,Malcolm BELL (Ind),Bill ADAMS (Ind),SNP,Allan WISHART (Ind),skipped,skipped,skipped,,7
 644,Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 645,Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 646,Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
@@ -662,10 +662,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 660,Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 661,Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 662,Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
-663,Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),skipped,skipped,,7
-664,Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),,7
-665,Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),,7
-666,Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),skipped,skipped,,7
+663,Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),SNP,skipped,skipped,,7
+664,Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),SNP,Caroline MILLER (Ind),,7
+665,Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),SNP,Caroline MILLER (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),,7
+666,Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),SNP,Alex WRIGHT (Ind),skipped,skipped,,7
 667,Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),skipped,skipped,skipped,,7
 668,Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Allan WISHART (Ind),skipped,skipped,skipped,,7
 669,Malcolm BELL (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
@@ -673,11 +673,11 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 671,Malcolm BELL (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 672,Malcolm BELL (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 673,Malcolm BELL (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
-674,Malcolm BELL (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),skipped,,7
+674,Malcolm BELL (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),SNP,Michael William STOUT (Ind),skipped,,7
 675,Malcolm BELL (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),skipped,,7
-676,Malcolm BELL (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),,7
-677,Malcolm BELL (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),Alex WRIGHT (Ind),skipped,,7
-678,Malcolm BELL (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),,7
+676,Malcolm BELL (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),SNP,Caroline MILLER (Ind),,7
+677,Malcolm BELL (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),SNP,Caroline MILLER (Ind),Alex WRIGHT (Ind),skipped,,7
+678,Malcolm BELL (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),SNP,Caroline MILLER (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),,7
 679,Malcolm BELL (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,skipped,,7
 680,Malcolm BELL (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,skipped,,7
 681,Malcolm BELL (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -725,16 +725,16 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 723,Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
 724,Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
 725,Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
-726,Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),skipped,skipped,skipped,,7
-727,Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),skipped,skipped,skipped,,7
+726,Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),SNP,skipped,skipped,skipped,,7
+727,Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),SNP,skipped,skipped,skipped,,7
 728,Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,,7
 729,Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,,7
-730,Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),,7
+730,Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),SNP,,7
 731,Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,,7
-732,Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),,7
+732,Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),SNP,Alex WRIGHT (Ind),,7
 733,Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
 734,Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
-735,Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),,7
+735,Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),SNP,Michael William STOUT (Ind),,7
 736,Malcolm BELL (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 737,Malcolm BELL (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 738,Malcolm BELL (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
@@ -750,26 +750,26 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 748,Malcolm BELL (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 749,Malcolm BELL (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 750,Malcolm BELL (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
-751,Malcolm BELL (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),,7
+751,Malcolm BELL (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),SNP,Michael William STOUT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),,7
 752,Malcolm BELL (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,,7
 753,Malcolm BELL (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,,7
-754,Malcolm BELL (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),,7
-755,Malcolm BELL (Ind),Allan WISHART (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-756,Malcolm BELL (Ind),Allan WISHART (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-757,Malcolm BELL (Ind),Allan WISHART (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-758,Malcolm BELL (Ind),Allan WISHART (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-759,Malcolm BELL (Ind),Allan WISHART (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-760,Malcolm BELL (Ind),Allan WISHART (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-761,Malcolm BELL (Ind),Allan WISHART (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-762,Malcolm BELL (Ind),Allan WISHART (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-763,Malcolm BELL (Ind),Allan WISHART (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-764,Malcolm BELL (Ind),Allan WISHART (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),Michael William STOUT (Ind),skipped,skipped,,7
-765,Malcolm BELL (Ind),Allan WISHART (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),,7
-766,Malcolm BELL (Ind),Allan WISHART (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),,7
-767,Malcolm BELL (Ind),Allan WISHART (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),,7
-768,Malcolm BELL (Ind),Allan WISHART (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),skipped,skipped,skipped,,7
-769,Malcolm BELL (Ind),Allan WISHART (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),skipped,skipped,skipped,,7
-770,Malcolm BELL (Ind),Allan WISHART (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),,7
+754,Malcolm BELL (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),SNP,Caroline MILLER (Ind),,7
+755,Malcolm BELL (Ind),Allan WISHART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+756,Malcolm BELL (Ind),Allan WISHART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+757,Malcolm BELL (Ind),Allan WISHART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+758,Malcolm BELL (Ind),Allan WISHART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+759,Malcolm BELL (Ind),Allan WISHART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+760,Malcolm BELL (Ind),Allan WISHART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+761,Malcolm BELL (Ind),Allan WISHART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+762,Malcolm BELL (Ind),Allan WISHART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+763,Malcolm BELL (Ind),Allan WISHART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+764,Malcolm BELL (Ind),Allan WISHART (Ind),SNP,Caroline MILLER (Ind),Michael William STOUT (Ind),skipped,skipped,,7
+765,Malcolm BELL (Ind),Allan WISHART (Ind),SNP,Alex WRIGHT (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),,7
+766,Malcolm BELL (Ind),Allan WISHART (Ind),SNP,Alex WRIGHT (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),,7
+767,Malcolm BELL (Ind),Allan WISHART (Ind),SNP,Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),,7
+768,Malcolm BELL (Ind),Allan WISHART (Ind),SNP,Bill ADAMS (Ind),skipped,skipped,skipped,,7
+769,Malcolm BELL (Ind),Allan WISHART (Ind),SNP,Bill ADAMS (Ind),skipped,skipped,skipped,,7
+770,Malcolm BELL (Ind),Allan WISHART (Ind),SNP,Bill ADAMS (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),,7
 771,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 772,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 773,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
@@ -805,24 +805,24 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 803,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,,7
 804,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,,7
 805,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,,7
-806,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),,7
-807,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),,7
-808,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),Bill ADAMS (Ind),,7
-809,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Alex WRIGHT (Ind),,7
-810,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),,7
-811,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),,7
-812,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,,7
-813,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,,7
-814,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,,7
-815,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),,7
-816,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),,7
+806,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),SNP,,7
+807,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),SNP,,7
+808,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),SNP,Alex WRIGHT (Ind),Bill ADAMS (Ind),,7
+809,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),SNP,Bill ADAMS (Ind),Alex WRIGHT (Ind),,7
+810,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),SNP,,7
+811,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),SNP,Caroline MILLER (Ind),,7
+812,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,,7
+813,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,,7
+814,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,skipped,,7
+815,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),SNP,Caroline MILLER (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),,7
+816,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),SNP,Caroline MILLER (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),,7
 817,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
 818,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
-819,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),,7
-820,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),,7
+819,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),SNP,,7
+820,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),SNP,Alex WRIGHT (Ind),,7
 821,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,,7
 822,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,,7
-823,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),Alex WRIGHT (Ind),,7
+823,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),SNP,Caroline MILLER (Ind),Alex WRIGHT (Ind),,7
 824,Malcolm BELL (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 825,Malcolm BELL (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 826,Malcolm BELL (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
@@ -860,14 +860,14 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 858,Michael William STOUT (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 859,Michael William STOUT (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,skipped,,7
 860,Michael William STOUT (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,skipped,,7
-861,Michael William STOUT (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Malcolm BELL (Ind),Allan WISHART (Ind),,7
+861,Michael William STOUT (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),SNP,Malcolm BELL (Ind),Allan WISHART (Ind),,7
 862,Michael William STOUT (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
-863,Michael William STOUT (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),,7
+863,Michael William STOUT (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),SNP,Bill ADAMS (Ind),,7
 864,Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,skipped,,7
 865,Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,skipped,,7
 866,Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,skipped,,7
 867,Michael William STOUT (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
-868,Michael William STOUT (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),,7
+868,Michael William STOUT (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),SNP,,7
 869,Michael William STOUT (Ind),Alex WRIGHT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
 870,Michael William STOUT (Ind),Alex WRIGHT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
 871,Michael William STOUT (Ind),Alex WRIGHT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
@@ -880,24 +880,24 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 878,Michael William STOUT (Ind),Alex WRIGHT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
 879,Michael William STOUT (Ind),Alex WRIGHT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
 880,Michael William STOUT (Ind),Alex WRIGHT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
-881,Michael William STOUT (Ind),Alex WRIGHT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),Allan WISHART (Ind),,7
-882,Michael William STOUT (Ind),Alex WRIGHT (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),,7
+881,Michael William STOUT (Ind),Alex WRIGHT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),SNP,Caroline MILLER (Ind),Allan WISHART (Ind),,7
+882,Michael William STOUT (Ind),Alex WRIGHT (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),SNP,Caroline MILLER (Ind),,7
 883,Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 884,Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 885,Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 886,Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
-887,Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),skipped,skipped,skipped,,7
+887,Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),SNP,skipped,skipped,skipped,,7
 888,Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,,7
-889,Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),Allan WISHART (Ind),,7
-890,Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-891,Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-892,Michael William STOUT (Ind),Danus SKENE (SNP),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
-893,Michael William STOUT (Ind),Danus SKENE (SNP),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
-894,Michael William STOUT (Ind),Danus SKENE (SNP),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
-895,Michael William STOUT (Ind),Danus SKENE (SNP),Malcolm BELL (Ind),Allan WISHART (Ind),skipped,skipped,skipped,,7
-896,Michael William STOUT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
-897,Michael William STOUT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
-898,Michael William STOUT (Ind),Danus SKENE (SNP),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
+889,Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),SNP,Caroline MILLER (Ind),Allan WISHART (Ind),,7
+890,Michael William STOUT (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+891,Michael William STOUT (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+892,Michael William STOUT (Ind),SNP,Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
+893,Michael William STOUT (Ind),SNP,Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
+894,Michael William STOUT (Ind),SNP,Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
+895,Michael William STOUT (Ind),SNP,Malcolm BELL (Ind),Allan WISHART (Ind),skipped,skipped,skipped,,7
+896,Michael William STOUT (Ind),SNP,Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
+897,Michael William STOUT (Ind),SNP,Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
+898,Michael William STOUT (Ind),SNP,Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 899,Michael William STOUT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
 900,Michael William STOUT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
 901,Michael William STOUT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -918,7 +918,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 916,Michael William STOUT (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
 917,Michael William STOUT (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
 918,Michael William STOUT (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
-919,Michael William STOUT (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),,7
+919,Michael William STOUT (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),SNP,Alex WRIGHT (Ind),,7
 920,Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 921,Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 922,Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
@@ -944,21 +944,21 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 942,Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
 943,Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
 944,Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
-945,Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),Allan WISHART (Ind),,7
-946,Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),Allan WISHART (Ind),,7
-947,Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Allan WISHART (Ind),Caroline MILLER (Ind),,7
-948,Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Allan WISHART (Ind),Caroline MILLER (Ind),,7
-949,Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),,7
-950,Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),,7
-951,Michael William STOUT (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-952,Michael William STOUT (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-953,Michael William STOUT (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-954,Michael William STOUT (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-955,Michael William STOUT (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
-956,Michael William STOUT (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,,7
-957,Michael William STOUT (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),,7
-958,Michael William STOUT (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
-959,Michael William STOUT (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
+945,Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),SNP,Allan WISHART (Ind),,7
+946,Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),SNP,Allan WISHART (Ind),,7
+947,Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),SNP,Allan WISHART (Ind),Caroline MILLER (Ind),,7
+948,Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),SNP,Allan WISHART (Ind),Caroline MILLER (Ind),,7
+949,Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),SNP,Caroline MILLER (Ind),,7
+950,Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),SNP,Caroline MILLER (Ind),,7
+951,Michael William STOUT (Ind),Malcolm BELL (Ind),SNP,skipped,skipped,skipped,skipped,,7
+952,Michael William STOUT (Ind),Malcolm BELL (Ind),SNP,skipped,skipped,skipped,skipped,,7
+953,Michael William STOUT (Ind),Malcolm BELL (Ind),SNP,skipped,skipped,skipped,skipped,,7
+954,Michael William STOUT (Ind),Malcolm BELL (Ind),SNP,skipped,skipped,skipped,skipped,,7
+955,Michael William STOUT (Ind),Malcolm BELL (Ind),SNP,Alex WRIGHT (Ind),skipped,skipped,skipped,,7
+956,Michael William STOUT (Ind),Malcolm BELL (Ind),SNP,Alex WRIGHT (Ind),Bill ADAMS (Ind),skipped,skipped,,7
+957,Michael William STOUT (Ind),Malcolm BELL (Ind),SNP,Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),,7
+958,Michael William STOUT (Ind),Malcolm BELL (Ind),SNP,Bill ADAMS (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
+959,Michael William STOUT (Ind),Malcolm BELL (Ind),SNP,Bill ADAMS (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
 960,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 961,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 962,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
@@ -971,20 +971,20 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 969,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 970,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 971,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,,7
-972,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),Allan WISHART (Ind),Alex WRIGHT (Ind),,7
+972,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),SNP,Allan WISHART (Ind),Alex WRIGHT (Ind),,7
 973,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
 974,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
 975,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
 976,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
 977,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
-978,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),skipped,skipped,,7
-979,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),skipped,skipped,skipped,,7
-980,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),skipped,skipped,skipped,,7
-981,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),skipped,skipped,,7
-982,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),skipped,skipped,,7
-983,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
-984,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),,7
-985,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),,7
+978,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),SNP,skipped,skipped,,7
+979,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),SNP,skipped,skipped,skipped,,7
+980,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),SNP,skipped,skipped,skipped,,7
+981,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),SNP,Caroline MILLER (Ind),skipped,skipped,,7
+982,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),SNP,Alex WRIGHT (Ind),skipped,skipped,,7
+983,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),SNP,Alex WRIGHT (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),,7
+984,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),SNP,,7
+985,Michael William STOUT (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),SNP,,7
 986,Michael William STOUT (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 987,Michael William STOUT (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 988,Michael William STOUT (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
@@ -993,8 +993,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 991,Michael William STOUT (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
 992,Michael William STOUT (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,,7
 993,Michael William STOUT (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),skipped,skipped,,7
-994,Michael William STOUT (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),,7
-995,Michael William STOUT (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),,7
+994,Michael William STOUT (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),SNP,Bill ADAMS (Ind),,7
+995,Michael William STOUT (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),SNP,,7
 996,Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,skipped,,7
 997,Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,skipped,,7
 998,Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -1015,7 +1015,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1013,Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 1014,Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 1015,Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
-1016,Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),skipped,skipped,skipped,,7
+1016,Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),SNP,skipped,skipped,skipped,,7
 1017,Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,,7
 1018,Michael William STOUT (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
 1019,Michael William STOUT (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
@@ -1025,8 +1025,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1023,Michael William STOUT (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),skipped,skipped,,7
 1024,Michael William STOUT (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
 1025,Michael William STOUT (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
-1026,Michael William STOUT (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),,7
-1027,Michael William STOUT (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),skipped,skipped,,7
+1026,Michael William STOUT (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),SNP,Caroline MILLER (Ind),,7
+1027,Michael William STOUT (Ind),Bill ADAMS (Ind),Allan WISHART (Ind),SNP,Alex WRIGHT (Ind),skipped,skipped,,7
 1028,Michael William STOUT (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1029,Michael William STOUT (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1030,Michael William STOUT (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,,7
@@ -1034,34 +1034,34 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1032,Michael William STOUT (Ind),Allan WISHART (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
 1033,Michael William STOUT (Ind),Allan WISHART (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
 1034,Michael William STOUT (Ind),Allan WISHART (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
-1035,Michael William STOUT (Ind),Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),Caroline MILLER (Ind),,7
+1035,Michael William STOUT (Ind),Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),SNP,Alex WRIGHT (Ind),Caroline MILLER (Ind),,7
 1036,Michael William STOUT (Ind),Allan WISHART (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 1037,Bill ADAMS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 1038,Bill ADAMS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 1039,Bill ADAMS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 1040,Bill ADAMS (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 1041,Bill ADAMS (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,skipped,,7
-1042,Bill ADAMS (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),,7
-1043,Bill ADAMS (Ind),Danus SKENE (SNP),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
-1044,Bill ADAMS (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
-1045,Bill ADAMS (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,,7
+1042,Bill ADAMS (Ind),Alex WRIGHT (Ind),SNP,Malcolm BELL (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),,7
+1043,Bill ADAMS (Ind),SNP,Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
+1044,Bill ADAMS (Ind),SNP,Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
+1045,Bill ADAMS (Ind),SNP,Michael William STOUT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,,7
 1046,Bill ADAMS (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1047,Bill ADAMS (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
 1048,Bill ADAMS (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
 1049,Bill ADAMS (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
-1050,Bill ADAMS (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),,7
-1051,Bill ADAMS (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),,7
-1052,Bill ADAMS (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),,7
+1050,Bill ADAMS (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),SNP,,7
+1051,Bill ADAMS (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),SNP,Caroline MILLER (Ind),,7
+1052,Bill ADAMS (Ind),Malcolm BELL (Ind),SNP,Caroline MILLER (Ind),Allan WISHART (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),,7
 1053,Bill ADAMS (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 1054,Bill ADAMS (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 1055,Bill ADAMS (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 1056,Bill ADAMS (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),skipped,skipped,skipped,skipped,,7
-1057,Bill ADAMS (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),skipped,skipped,,7
+1057,Bill ADAMS (Ind),Malcolm BELL (Ind),Allan WISHART (Ind),SNP,Michael William STOUT (Ind),skipped,skipped,,7
 1058,Bill ADAMS (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
 1059,Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 1060,Bill ADAMS (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
-1061,Bill ADAMS (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),,7
-1062,Bill ADAMS (Ind),Allan WISHART (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),,7
+1061,Bill ADAMS (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),SNP,Alex WRIGHT (Ind),Caroline MILLER (Ind),Allan WISHART (Ind),,7
+1062,Bill ADAMS (Ind),Allan WISHART (Ind),SNP,Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),,7
 1063,Bill ADAMS (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 1064,Bill ADAMS (Ind),Allan WISHART (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,,7
 1065,Allan WISHART (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
@@ -1075,16 +1075,16 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1073,Allan WISHART (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1074,Allan WISHART (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1075,Allan WISHART (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,skipped,,7
-1076,Allan WISHART (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-1077,Allan WISHART (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-1078,Allan WISHART (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),Malcolm BELL (Ind),skipped,skipped,skipped,,7
+1076,Allan WISHART (Ind),Caroline MILLER (Ind),SNP,skipped,skipped,skipped,skipped,,7
+1077,Allan WISHART (Ind),Caroline MILLER (Ind),SNP,skipped,skipped,skipped,skipped,,7
+1078,Allan WISHART (Ind),Caroline MILLER (Ind),SNP,Malcolm BELL (Ind),skipped,skipped,skipped,,7
 1079,Allan WISHART (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
 1080,Allan WISHART (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
 1081,Allan WISHART (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
 1082,Allan WISHART (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
 1083,Allan WISHART (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
-1084,Allan WISHART (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,,7
-1085,Allan WISHART (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),skipped,skipped,,7
+1084,Allan WISHART (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),SNP,skipped,skipped,skipped,,7
+1085,Allan WISHART (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),SNP,Michael William STOUT (Ind),skipped,skipped,,7
 1086,Allan WISHART (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,,7
 1087,Allan WISHART (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,,7
 1088,Allan WISHART (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,,7
@@ -1097,17 +1097,17 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1095,Allan WISHART (Ind),Alex WRIGHT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
 1096,Allan WISHART (Ind),Alex WRIGHT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
 1097,Allan WISHART (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
-1098,Allan WISHART (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),,7
-1099,Allan WISHART (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1100,Allan WISHART (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1101,Allan WISHART (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1102,Allan WISHART (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
-1103,Allan WISHART (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
-1104,Allan WISHART (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
-1105,Allan WISHART (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),,7
-1106,Allan WISHART (Ind),Danus SKENE (SNP),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
-1107,Allan WISHART (Ind),Danus SKENE (SNP),Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),,7
-1108,Allan WISHART (Ind),Danus SKENE (SNP),Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),,7
+1098,Allan WISHART (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),SNP,,7
+1099,Allan WISHART (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+1100,Allan WISHART (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+1101,Allan WISHART (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+1102,Allan WISHART (Ind),SNP,Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
+1103,Allan WISHART (Ind),SNP,Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
+1104,Allan WISHART (Ind),SNP,Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
+1105,Allan WISHART (Ind),SNP,Caroline MILLER (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),,7
+1106,Allan WISHART (Ind),SNP,Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
+1107,Allan WISHART (Ind),SNP,Malcolm BELL (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),,7
+1108,Allan WISHART (Ind),SNP,Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),,7
 1109,Allan WISHART (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1110,Allan WISHART (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1111,Allan WISHART (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -1135,10 +1135,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1133,Allan WISHART (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
 1134,Allan WISHART (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
 1135,Allan WISHART (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
-1136,Allan WISHART (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),skipped,skipped,,7
-1137,Allan WISHART (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),skipped,skipped,skipped,,7
-1138,Allan WISHART (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),skipped,skipped,,7
-1139,Allan WISHART (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),,7
+1136,Allan WISHART (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),SNP,skipped,skipped,,7
+1137,Allan WISHART (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),SNP,skipped,skipped,skipped,,7
+1138,Allan WISHART (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),SNP,Michael William STOUT (Ind),skipped,skipped,,7
+1139,Allan WISHART (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),SNP,Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),,7
 1140,Allan WISHART (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,,7
 1141,Allan WISHART (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,,7
 1142,Allan WISHART (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
@@ -1147,16 +1147,16 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1145,Allan WISHART (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 1146,Allan WISHART (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 1147,Allan WISHART (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,,7
-1148,Allan WISHART (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),skipped,skipped,,7
-1149,Allan WISHART (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-1150,Allan WISHART (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),skipped,skipped,skipped,skipped,,7
-1151,Allan WISHART (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),skipped,skipped,skipped,,7
-1152,Allan WISHART (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),skipped,skipped,skipped,,7
-1153,Allan WISHART (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),skipped,skipped,skipped,,7
-1154,Allan WISHART (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),skipped,skipped,skipped,,7
-1155,Allan WISHART (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),,7
-1156,Allan WISHART (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),,7
-1157,Allan WISHART (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),,7
+1148,Allan WISHART (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),SNP,skipped,skipped,,7
+1149,Allan WISHART (Ind),Malcolm BELL (Ind),SNP,skipped,skipped,skipped,skipped,,7
+1150,Allan WISHART (Ind),Malcolm BELL (Ind),SNP,skipped,skipped,skipped,skipped,,7
+1151,Allan WISHART (Ind),Malcolm BELL (Ind),SNP,Caroline MILLER (Ind),skipped,skipped,skipped,,7
+1152,Allan WISHART (Ind),Malcolm BELL (Ind),SNP,Caroline MILLER (Ind),skipped,skipped,skipped,,7
+1153,Allan WISHART (Ind),Malcolm BELL (Ind),SNP,Caroline MILLER (Ind),skipped,skipped,skipped,,7
+1154,Allan WISHART (Ind),Malcolm BELL (Ind),SNP,Caroline MILLER (Ind),skipped,skipped,skipped,,7
+1155,Allan WISHART (Ind),Malcolm BELL (Ind),SNP,Caroline MILLER (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),,7
+1156,Allan WISHART (Ind),Malcolm BELL (Ind),SNP,Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),,7
+1157,Allan WISHART (Ind),Malcolm BELL (Ind),SNP,Bill ADAMS (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),,7
 1158,Allan WISHART (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 1159,Allan WISHART (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 1160,Allan WISHART (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
@@ -1169,44 +1169,44 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1167,Allan WISHART (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 1168,Allan WISHART (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,,7
 1169,Allan WISHART (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,,7
-1170,Allan WISHART (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),skipped,,7
-1171,Allan WISHART (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),skipped,,7
-1172,Allan WISHART (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),skipped,,7
-1173,Allan WISHART (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),,7
-1174,Allan WISHART (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),,7
-1175,Allan WISHART (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),,7
+1170,Allan WISHART (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),SNP,skipped,,7
+1171,Allan WISHART (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),SNP,Bill ADAMS (Ind),skipped,,7
+1172,Allan WISHART (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),SNP,skipped,,7
+1173,Allan WISHART (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,Caroline MILLER (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),,7
+1174,Allan WISHART (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),SNP,Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),,7
+1175,Allan WISHART (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),SNP,,7
 1176,Allan WISHART (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,,7
 1177,Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 1178,Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 1179,Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,,7
-1180,Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),,7
-1181,Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),Alex WRIGHT (Ind),,7
-1182,Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),Michael William STOUT (Ind),,7
+1180,Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),SNP,,7
+1181,Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),SNP,Michael William STOUT (Ind),Alex WRIGHT (Ind),,7
+1182,Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),SNP,Michael William STOUT (Ind),,7
 1183,Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,,7
 1184,Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,,7
-1185,Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),,7
-1186,Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),,7
+1185,Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),SNP,Caroline MILLER (Ind),,7
+1186,Allan WISHART (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),SNP,Caroline MILLER (Ind),,7
 1187,Allan WISHART (Ind),Michael William STOUT (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1188,Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
 1189,Allan WISHART (Ind),Michael William STOUT (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,,7
 1190,Allan WISHART (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 1191,Allan WISHART (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),Bill ADAMS (Ind),skipped,,7
-1192,Allan WISHART (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),Caroline MILLER (Ind),,7
-1193,Allan WISHART (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),skipped,skipped,skipped,,7
+1192,Allan WISHART (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),SNP,Caroline MILLER (Ind),,7
+1193,Allan WISHART (Ind),Michael William STOUT (Ind),SNP,Alex WRIGHT (Ind),skipped,skipped,skipped,,7
 1194,Allan WISHART (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
 1195,Allan WISHART (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
 1196,Allan WISHART (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
 1197,Allan WISHART (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
 1198,Allan WISHART (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7
-1199,Allan WISHART (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),Danus SKENE (SNP),Bill ADAMS (Ind),Alex WRIGHT (Ind),,7
-1200,Allan WISHART (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),Danus SKENE (SNP),,7
-1201,Allan WISHART (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),Danus SKENE (SNP),Alex WRIGHT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),,7
+1199,Allan WISHART (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),Caroline MILLER (Ind),SNP,Bill ADAMS (Ind),Alex WRIGHT (Ind),,7
+1200,Allan WISHART (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Caroline MILLER (Ind),Bill ADAMS (Ind),SNP,,7
+1201,Allan WISHART (Ind),Michael William STOUT (Ind),Malcolm BELL (Ind),SNP,Alex WRIGHT (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),,7
 1202,Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 1203,Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 1204,Allan WISHART (Ind),Michael William STOUT (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,,7
 1205,Allan WISHART (Ind),Bill ADAMS (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1206,Allan WISHART (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),skipped,skipped,skipped,skipped,,7
-1207,Allan WISHART (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),Danus SKENE (SNP),,7
+1207,Allan WISHART (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),Alex WRIGHT (Ind),Michael William STOUT (Ind),SNP,,7
 1208,Allan WISHART (Ind),Bill ADAMS (Ind),Caroline MILLER (Ind),Malcolm BELL (Ind),Michael William STOUT (Ind),Alex WRIGHT (Ind),skipped,,7
 1209,Allan WISHART (Ind),Bill ADAMS (Ind),Alex WRIGHT (Ind),skipped,skipped,skipped,skipped,,7
 1210,Allan WISHART (Ind),Bill ADAMS (Ind),Malcolm BELL (Ind),skipped,skipped,skipped,skipped,,7

@@ -51,10 +51,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 49,Davie SANDISON (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),skipped,skipped,,6
 50,Davie SANDISON (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),skipped,skipped,,6
 51,Davie SANDISON (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),skipped,skipped,,6
-52,Davie SANDISON (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),,6
-53,Davie SANDISON (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),,6
-54,Davie SANDISON (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
-55,Davie SANDISON (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),,6
+52,Davie SANDISON (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),SC,,6
+53,Davie SANDISON (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),SC,,6
+54,Davie SANDISON (Ind),John N HUNTER (Ind),SC,skipped,skipped,skipped,,6
+55,Davie SANDISON (Ind),John N HUNTER (Ind),SC,Vaila WISHART (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),,6
 56,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 57,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 58,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
@@ -67,22 +67,22 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 65,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,skipped,,6
 66,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,skipped,,6
 67,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,skipped,,6
-68,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),skipped,,6
-69,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),,6
-70,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),,6
-71,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),Ian SCOTT (Ind),,6
-72,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),Ian SCOTT (Ind),,6
+68,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),SC,skipped,,6
+69,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),SC,,6
+70,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),SC,,6
+71,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),SC,Vaila WISHART (Ind),Ian SCOTT (Ind),,6
+72,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),SC,Vaila WISHART (Ind),Ian SCOTT (Ind),,6
 73,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,skipped,,6
 74,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,skipped,,6
-75,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),,6
-76,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),,6
+75,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),SC,,6
+76,Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),SC,,6
 77,Davie SANDISON (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 78,Davie SANDISON (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
-79,Davie SANDISON (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),Mark BURGESS (Ind),,6
-80,Davie SANDISON (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),Mark BURGESS (Ind),,6
+79,Davie SANDISON (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),SC,Mark BURGESS (Ind),,6
+80,Davie SANDISON (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),SC,Vaila WISHART (Ind),Mark BURGESS (Ind),,6
 81,Davie SANDISON (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,skipped,,6
 82,Davie SANDISON (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,skipped,,6
-83,Davie SANDISON (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),,6
+83,Davie SANDISON (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),SC,,6
 84,Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,skipped,,6
 85,Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,skipped,,6
 86,Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,skipped,,6
@@ -130,18 +130,18 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 128,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,,6
 129,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,,6
 130,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,,6
-131,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-132,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-133,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-134,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-135,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-136,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
+131,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),SC,Ian SCOTT (Ind),,6
+132,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),SC,Ian SCOTT (Ind),,6
+133,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),SC,Ian SCOTT (Ind),,6
+134,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),SC,Ian SCOTT (Ind),,6
+135,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),SC,Ian SCOTT (Ind),,6
+136,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),SC,Ian SCOTT (Ind),,6
 137,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,,6
-138,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),,6
+138,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),SC,,6
 139,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),skipped,skipped,,6
 140,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),skipped,skipped,,6
 141,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,,6
-142,Davie SANDISON (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),,6
+142,Davie SANDISON (Ind),Vaila WISHART (Ind),SC,John N HUNTER (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),,6
 143,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 144,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 145,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
@@ -157,26 +157,26 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 155,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 156,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 157,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),skipped,skipped,,6
-158,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),skipped,,6
-159,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),skipped,,6
-160,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-161,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-162,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-163,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),,6
-164,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),,6
-165,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),skipped,skipped,,6
-166,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),Ian SCOTT (Ind),,6
-167,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),Ian SCOTT (Ind),,6
-168,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),John N HUNTER (Ind),,6
-169,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),John N HUNTER (Ind),,6
+158,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,skipped,,6
+159,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,skipped,,6
+160,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,Ian SCOTT (Ind),,6
+161,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,Ian SCOTT (Ind),,6
+162,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,Ian SCOTT (Ind),,6
+163,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),SC,,6
+164,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),SC,,6
+165,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),SC,skipped,skipped,,6
+166,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),SC,John N HUNTER (Ind),Ian SCOTT (Ind),,6
+167,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),SC,John N HUNTER (Ind),Ian SCOTT (Ind),,6
+168,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),SC,Ian SCOTT (Ind),John N HUNTER (Ind),,6
+169,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),SC,Ian SCOTT (Ind),John N HUNTER (Ind),,6
 170,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,skipped,,6
 171,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,skipped,,6
-172,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-173,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-174,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-175,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-176,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),,6
-177,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),,6
+172,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),SC,,6
+173,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),SC,,6
+174,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),SC,,6
+175,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),SC,,6
+176,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),SC,John N HUNTER (Ind),,6
+177,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),SC,John N HUNTER (Ind),,6
 178,Davie SANDISON (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 179,Davie SANDISON (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 180,Davie SANDISON (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
@@ -188,22 +188,22 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 186,Davie SANDISON (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 187,Davie SANDISON (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 188,Davie SANDISON (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
-189,Davie SANDISON (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),,6
+189,Davie SANDISON (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),SC,,6
 190,Davie SANDISON (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,skipped,,6
-191,Davie SANDISON (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,skipped,,6
-192,Davie SANDISON (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,skipped,,6
-193,Davie SANDISON (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,skipped,,6
-194,Davie SANDISON (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,skipped,,6
-195,Davie SANDISON (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),skipped,,6
-196,Davie SANDISON (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),skipped,skipped,skipped,,6
-197,Davie SANDISON (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),skipped,skipped,skipped,,6
-198,Davie SANDISON (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),,6
-199,Davie SANDISON (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),,6
-200,Davie SANDISON (Ind),Peter JAMIESON (SC),Mark BURGESS (Ind),skipped,skipped,skipped,,6
-201,Davie SANDISON (Ind),Peter JAMIESON (SC),Mark BURGESS (Ind),skipped,skipped,skipped,,6
-202,Davie SANDISON (Ind),Peter JAMIESON (SC),Mark BURGESS (Ind),skipped,skipped,skipped,,6
-203,Davie SANDISON (Ind),Peter JAMIESON (SC),Mark BURGESS (Ind),skipped,skipped,skipped,,6
-204,Davie SANDISON (Ind),Peter JAMIESON (SC),Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),,6
+191,Davie SANDISON (Ind),SC,skipped,skipped,skipped,skipped,,6
+192,Davie SANDISON (Ind),SC,skipped,skipped,skipped,skipped,,6
+193,Davie SANDISON (Ind),SC,skipped,skipped,skipped,skipped,,6
+194,Davie SANDISON (Ind),SC,skipped,skipped,skipped,skipped,,6
+195,Davie SANDISON (Ind),SC,John N HUNTER (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),skipped,,6
+196,Davie SANDISON (Ind),SC,Vaila WISHART (Ind),skipped,skipped,skipped,,6
+197,Davie SANDISON (Ind),SC,Vaila WISHART (Ind),skipped,skipped,skipped,,6
+198,Davie SANDISON (Ind),SC,Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),,6
+199,Davie SANDISON (Ind),SC,Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),,6
+200,Davie SANDISON (Ind),SC,Mark BURGESS (Ind),skipped,skipped,skipped,,6
+201,Davie SANDISON (Ind),SC,Mark BURGESS (Ind),skipped,skipped,skipped,,6
+202,Davie SANDISON (Ind),SC,Mark BURGESS (Ind),skipped,skipped,skipped,,6
+203,Davie SANDISON (Ind),SC,Mark BURGESS (Ind),skipped,skipped,skipped,,6
+204,Davie SANDISON (Ind),SC,Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),,6
 205,Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,skipped,,6
 206,Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,skipped,,6
 207,Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,skipped,,6
@@ -242,17 +242,17 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 240,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),skipped,skipped,,6
 241,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),skipped,skipped,,6
 242,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),skipped,skipped,,6
-243,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-244,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),skipped,skipped,,6
-245,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),Ian SCOTT (Ind),,6
-246,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),Vaila WISHART (Ind),,6
-247,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),Vaila WISHART (Ind),,6
+243,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),SC,Ian SCOTT (Ind),,6
+244,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,skipped,skipped,,6
+245,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,Vaila WISHART (Ind),Ian SCOTT (Ind),,6
+246,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,Ian SCOTT (Ind),Vaila WISHART (Ind),,6
+247,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,Ian SCOTT (Ind),Vaila WISHART (Ind),,6
 248,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),skipped,,6
-249,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),,6
-250,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),,6
-251,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),,6
-252,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),,6
-253,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),,6
+249,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),SC,,6
+250,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),SC,,6
+251,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),SC,,6
+252,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),SC,Vaila WISHART (Ind),,6
+253,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),SC,Vaila WISHART (Ind),,6
 254,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 255,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 256,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
@@ -285,32 +285,32 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 283,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),skipped,skipped,,6
 284,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),skipped,skipped,,6
 285,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),skipped,skipped,,6
-286,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-287,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-288,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-289,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-290,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-291,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
+286,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,Ian SCOTT (Ind),,6
+287,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,Ian SCOTT (Ind),,6
+288,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,Ian SCOTT (Ind),,6
+289,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,Ian SCOTT (Ind),,6
+290,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,Ian SCOTT (Ind),,6
+291,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,Ian SCOTT (Ind),,6
 292,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),skipped,,6
-293,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),skipped,skipped,,6
-294,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),John N HUNTER (Ind),,6
-295,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),John N HUNTER (Ind),,6
+293,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),SC,skipped,skipped,,6
+294,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),SC,Ian SCOTT (Ind),John N HUNTER (Ind),,6
+295,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),SC,Ian SCOTT (Ind),John N HUNTER (Ind),,6
 296,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),skipped,skipped,,6
 297,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),skipped,skipped,,6
-298,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-299,Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
-300,Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
-301,Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
-302,Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
-303,Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
-304,Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
-305,Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
-306,Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
-307,Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),,6
-308,Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),,6
-309,Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),,6
-310,Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),skipped,skipped,,6
-311,Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),,6
+298,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),SC,,6
+299,Davie SANDISON (Ind),Mark BURGESS (Ind),SC,skipped,skipped,skipped,,6
+300,Davie SANDISON (Ind),Mark BURGESS (Ind),SC,skipped,skipped,skipped,,6
+301,Davie SANDISON (Ind),Mark BURGESS (Ind),SC,skipped,skipped,skipped,,6
+302,Davie SANDISON (Ind),Mark BURGESS (Ind),SC,skipped,skipped,skipped,,6
+303,Davie SANDISON (Ind),Mark BURGESS (Ind),SC,skipped,skipped,skipped,,6
+304,Davie SANDISON (Ind),Mark BURGESS (Ind),SC,skipped,skipped,skipped,,6
+305,Davie SANDISON (Ind),Mark BURGESS (Ind),SC,skipped,skipped,skipped,,6
+306,Davie SANDISON (Ind),Mark BURGESS (Ind),SC,skipped,skipped,skipped,,6
+307,Davie SANDISON (Ind),Mark BURGESS (Ind),SC,John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),,6
+308,Davie SANDISON (Ind),Mark BURGESS (Ind),SC,John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),,6
+309,Davie SANDISON (Ind),Mark BURGESS (Ind),SC,John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),,6
+310,Davie SANDISON (Ind),Mark BURGESS (Ind),SC,Vaila WISHART (Ind),skipped,skipped,,6
+311,Davie SANDISON (Ind),Mark BURGESS (Ind),SC,Ian SCOTT (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),,6
 312,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 313,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 314,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
@@ -322,16 +322,16 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 320,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 321,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 322,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
-323,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),,6
-324,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),,6
-325,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),,6
+323,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),SC,,6
+324,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),SC,,6
+325,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),SC,Vaila WISHART (Ind),,6
 326,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),skipped,skipped,,6
 327,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),skipped,skipped,,6
 328,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),skipped,skipped,,6
-329,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-330,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-331,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-332,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
+329,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,,6
+330,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,,6
+331,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,,6
+332,Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,,6
 333,Davie SANDISON (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,skipped,,6
 334,Davie SANDISON (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,skipped,,6
 335,Davie SANDISON (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,skipped,,6
@@ -340,40 +340,40 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 338,Davie SANDISON (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,skipped,,6
 339,Davie SANDISON (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,skipped,,6
 340,Davie SANDISON (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
-341,Davie SANDISON (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),,6
-342,Davie SANDISON (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),,6
+341,Davie SANDISON (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),SC,,6
+342,Davie SANDISON (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),SC,,6
 343,Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 344,Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 345,Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 346,Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 347,Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 348,Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
-349,Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Mark BURGESS (Ind),,6
+349,Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,Mark BURGESS (Ind),,6
 350,Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),skipped,skipped,,6
-351,Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-352,Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-353,Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-354,Davie SANDISON (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
-355,Davie SANDISON (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
-356,Davie SANDISON (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
-357,Davie SANDISON (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),skipped,skipped,,6
-358,Davie SANDISON (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),,6
-359,Davie SANDISON (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),,6
+351,Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,,6
+352,Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,,6
+353,Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,,6
+354,Davie SANDISON (Ind),Ian SCOTT (Ind),SC,skipped,skipped,skipped,,6
+355,Davie SANDISON (Ind),Ian SCOTT (Ind),SC,skipped,skipped,skipped,,6
+356,Davie SANDISON (Ind),Ian SCOTT (Ind),SC,skipped,skipped,skipped,,6
+357,Davie SANDISON (Ind),Ian SCOTT (Ind),SC,John N HUNTER (Ind),skipped,skipped,,6
+358,Davie SANDISON (Ind),Ian SCOTT (Ind),SC,John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),,6
+359,Davie SANDISON (Ind),Ian SCOTT (Ind),SC,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),,6
 360,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 361,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 362,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 363,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 364,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 365,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
-366,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),,6
-367,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),,6
-368,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),,6
+366,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,Vaila WISHART (Ind),,6
+367,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,Vaila WISHART (Ind),,6
+368,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,Vaila WISHART (Ind),,6
 369,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),skipped,,6
-370,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-371,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-372,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-373,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-374,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),skipped,skipped,,6
+370,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,,6
+371,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,,6
+372,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,,6
+373,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,,6
+374,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),SC,skipped,skipped,,6
 375,John N HUNTER (Ind),skipped,skipped,skipped,skipped,skipped,,6
 376,John N HUNTER (Ind),skipped,skipped,skipped,skipped,skipped,,6
 377,John N HUNTER (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,skipped,,6
@@ -384,46 +384,46 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 382,John N HUNTER (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 383,John N HUNTER (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 384,John N HUNTER (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),skipped,skipped,,6
-385,John N HUNTER (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),,6
-386,John N HUNTER (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
+385,John N HUNTER (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),SC,,6
+386,John N HUNTER (Ind),Davie SANDISON (Ind),SC,skipped,skipped,skipped,,6
 387,John N HUNTER (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 388,John N HUNTER (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 389,John N HUNTER (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 390,John N HUNTER (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),skipped,,6
-391,John N HUNTER (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),,6
-392,John N HUNTER (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),,6
+391,John N HUNTER (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),SC,,6
+392,John N HUNTER (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),SC,Vaila WISHART (Ind),,6
 393,John N HUNTER (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,skipped,,6
 394,John N HUNTER (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,skipped,,6
 395,John N HUNTER (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
 396,John N HUNTER (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
 397,John N HUNTER (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
-398,John N HUNTER (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),Mark BURGESS (Ind),Ian SCOTT (Ind),,6
-399,John N HUNTER (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),,6
+398,John N HUNTER (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),SC,Mark BURGESS (Ind),Ian SCOTT (Ind),,6
+399,John N HUNTER (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),SC,,6
 400,John N HUNTER (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),skipped,skipped,,6
-401,John N HUNTER (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-402,John N HUNTER (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-403,John N HUNTER (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),skipped,skipped,,6
+401,John N HUNTER (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),SC,Ian SCOTT (Ind),,6
+402,John N HUNTER (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),SC,Ian SCOTT (Ind),,6
+403,John N HUNTER (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),SC,skipped,skipped,,6
 404,John N HUNTER (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,skipped,,6
 405,John N HUNTER (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
-406,John N HUNTER (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),,6
-407,John N HUNTER (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),Mark BURGESS (Ind),,6
-408,John N HUNTER (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),Mark BURGESS (Ind),Davie SANDISON (Ind),,6
-409,John N HUNTER (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,,6
+406,John N HUNTER (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),SC,,6
+407,John N HUNTER (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),SC,Davie SANDISON (Ind),Mark BURGESS (Ind),,6
+408,John N HUNTER (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),SC,Mark BURGESS (Ind),Davie SANDISON (Ind),,6
+409,John N HUNTER (Ind),SC,Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,,6
 410,John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,skipped,,6
-411,John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-412,John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),,6
-413,John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),,6
-414,John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),,6
+411,John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),SC,Ian SCOTT (Ind),,6
+412,John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),SC,,6
+413,John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),SC,,6
+414,John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),SC,,6
 415,John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
-416,John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),,6
-417,John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),,6
+416,John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),SC,Vaila WISHART (Ind),,6
+417,John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),SC,Davie SANDISON (Ind),,6
 418,John N HUNTER (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
 419,John N HUNTER (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,,6
 420,John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 421,John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 422,John N HUNTER (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
-423,John N HUNTER (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),,6
-424,John N HUNTER (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),,6
+423,John N HUNTER (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),SC,Davie SANDISON (Ind),,6
+424,John N HUNTER (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),SC,Davie SANDISON (Ind),,6
 425,Vaila WISHART (Ind),skipped,skipped,skipped,skipped,skipped,,6
 426,Vaila WISHART (Ind),skipped,skipped,skipped,skipped,skipped,,6
 427,Vaila WISHART (Ind),skipped,skipped,skipped,skipped,skipped,,6
@@ -489,13 +489,13 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 487,Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
 488,Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,,6
 489,Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,,6
-490,Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
+490,Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),SC,Ian SCOTT (Ind),,6
 491,Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,,6
 492,Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),skipped,skipped,,6
-493,Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),,6
-494,Vaila WISHART (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
-495,Vaila WISHART (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),,6
-496,Vaila WISHART (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),,6
+493,Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),SC,,6
+494,Vaila WISHART (Ind),Davie SANDISON (Ind),SC,skipped,skipped,skipped,,6
+495,Vaila WISHART (Ind),Davie SANDISON (Ind),SC,John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),,6
+496,Vaila WISHART (Ind),Davie SANDISON (Ind),SC,Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),,6
 497,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 498,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 499,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
@@ -522,30 +522,30 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 520,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 521,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 522,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),skipped,skipped,,6
-523,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-524,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-525,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-526,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-527,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),,6
-528,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),,6
-529,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),,6
-530,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),skipped,skipped,,6
-531,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),Ian SCOTT (Ind),,6
-532,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),Ian SCOTT (Ind),,6
-533,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),Ian SCOTT (Ind),,6
-534,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-535,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),,6
+523,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,Ian SCOTT (Ind),,6
+524,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,Ian SCOTT (Ind),,6
+525,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,Ian SCOTT (Ind),,6
+526,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,Ian SCOTT (Ind),,6
+527,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),SC,,6
+528,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),SC,,6
+529,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),SC,,6
+530,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),SC,skipped,skipped,,6
+531,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),SC,John N HUNTER (Ind),Ian SCOTT (Ind),,6
+532,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),SC,John N HUNTER (Ind),Ian SCOTT (Ind),,6
+533,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),SC,John N HUNTER (Ind),Ian SCOTT (Ind),,6
+534,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),SC,,6
+535,Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),SC,John N HUNTER (Ind),,6
 536,Vaila WISHART (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 537,Vaila WISHART (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 538,Vaila WISHART (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 539,Vaila WISHART (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 540,Vaila WISHART (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 541,Vaila WISHART (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
-542,Vaila WISHART (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),Mark BURGESS (Ind),,6
+542,Vaila WISHART (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),SC,John N HUNTER (Ind),Mark BURGESS (Ind),,6
 543,Vaila WISHART (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,skipped,,6
 544,Vaila WISHART (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,skipped,,6
 545,Vaila WISHART (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),skipped,,6
-546,Vaila WISHART (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),,6
+546,Vaila WISHART (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),SC,John N HUNTER (Ind),,6
 547,Vaila WISHART (Ind),John N HUNTER (Ind),skipped,skipped,skipped,skipped,,6
 548,Vaila WISHART (Ind),John N HUNTER (Ind),skipped,skipped,skipped,skipped,,6
 549,Vaila WISHART (Ind),John N HUNTER (Ind),skipped,skipped,skipped,skipped,,6
@@ -561,16 +561,16 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 559,Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
 560,Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
 561,Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
-562,Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),Mark BURGESS (Ind),Ian SCOTT (Ind),,6
-563,Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),Mark BURGESS (Ind),Ian SCOTT (Ind),,6
+562,Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),SC,Mark BURGESS (Ind),Ian SCOTT (Ind),,6
+563,Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),SC,Mark BURGESS (Ind),Ian SCOTT (Ind),,6
 564,Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,,6
-565,Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-566,Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-567,Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),,6
-568,Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),,6
-569,Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),,6
-570,Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
-571,Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),,6
+565,Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),SC,Ian SCOTT (Ind),,6
+566,Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),SC,Ian SCOTT (Ind),,6
+567,Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),SC,,6
+568,Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),SC,,6
+569,Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),SC,,6
+570,Vaila WISHART (Ind),John N HUNTER (Ind),SC,skipped,skipped,skipped,,6
+571,Vaila WISHART (Ind),John N HUNTER (Ind),SC,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),,6
 572,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 573,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 574,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
@@ -585,29 +585,29 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 583,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 584,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),skipped,skipped,,6
 585,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),skipped,skipped,,6
-586,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),,6
-587,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),,6
-588,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),,6
-589,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),Ian SCOTT (Ind),,6
-590,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),Ian SCOTT (Ind),,6
-591,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),Davie SANDISON (Ind),,6
-592,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),,6
-593,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),,6
-594,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),,6
+586,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),SC,,6
+587,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),SC,,6
+588,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),SC,,6
+589,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),SC,Davie SANDISON (Ind),Ian SCOTT (Ind),,6
+590,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),SC,Davie SANDISON (Ind),Ian SCOTT (Ind),,6
+591,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),SC,Ian SCOTT (Ind),Davie SANDISON (Ind),,6
+592,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),SC,Davie SANDISON (Ind),,6
+593,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),SC,Davie SANDISON (Ind),,6
+594,Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),SC,Davie SANDISON (Ind),,6
 595,Vaila WISHART (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 596,Vaila WISHART (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),skipped,skipped,,6
-597,Vaila WISHART (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),,6
-598,Vaila WISHART (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),,6
-599,Vaila WISHART (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,skipped,,6
-600,Vaila WISHART (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,skipped,,6
-601,Vaila WISHART (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,skipped,,6
-602,Vaila WISHART (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),,6
-603,Vaila WISHART (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),skipped,skipped,skipped,,6
-604,Vaila WISHART (Ind),Peter JAMIESON (SC),Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),,6
-605,Vaila WISHART (Ind),Peter JAMIESON (SC),Mark BURGESS (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),,6
-606,Vaila WISHART (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),,6
-607,Vaila WISHART (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),,6
-608,Vaila WISHART (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),John N HUNTER (Ind),skipped,skipped,,6
+597,Vaila WISHART (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),SC,,6
+598,Vaila WISHART (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),SC,,6
+599,Vaila WISHART (Ind),SC,skipped,skipped,skipped,skipped,,6
+600,Vaila WISHART (Ind),SC,skipped,skipped,skipped,skipped,,6
+601,Vaila WISHART (Ind),SC,skipped,skipped,skipped,skipped,,6
+602,Vaila WISHART (Ind),SC,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),,6
+603,Vaila WISHART (Ind),SC,John N HUNTER (Ind),skipped,skipped,skipped,,6
+604,Vaila WISHART (Ind),SC,Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),,6
+605,Vaila WISHART (Ind),SC,Mark BURGESS (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),,6
+606,Vaila WISHART (Ind),SC,Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),,6
+607,Vaila WISHART (Ind),SC,Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),,6
+608,Vaila WISHART (Ind),SC,Ian SCOTT (Ind),John N HUNTER (Ind),skipped,skipped,,6
 609,Vaila WISHART (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,skipped,,6
 610,Vaila WISHART (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,skipped,,6
 611,Vaila WISHART (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,skipped,,6
@@ -635,27 +635,27 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 633,Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),skipped,skipped,,6
 634,Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),skipped,skipped,,6
 635,Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),skipped,skipped,,6
-636,Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-637,Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),skipped,skipped,,6
+636,Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),SC,Ian SCOTT (Ind),,6
+637,Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),SC,skipped,skipped,,6
 638,Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),skipped,skipped,,6
 639,Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),skipped,skipped,,6
 640,Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),skipped,,6
-641,Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-642,Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),,6
+641,Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),SC,,6
+642,Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),SC,John N HUNTER (Ind),,6
 643,Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
 644,Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
 645,Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
 646,Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
 647,Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
 648,Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),skipped,skipped,,6
-649,Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-650,Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),Davie SANDISON (Ind),,6
-651,Vaila WISHART (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),skipped,skipped,,6
+649,Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),SC,Ian SCOTT (Ind),,6
+650,Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,Ian SCOTT (Ind),Davie SANDISON (Ind),,6
+651,Vaila WISHART (Ind),Mark BURGESS (Ind),SC,Ian SCOTT (Ind),skipped,skipped,,6
 652,Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 653,Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 654,Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),skipped,skipped,,6
 655,Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),skipped,skipped,,6
-656,Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),skipped,skipped,,6
+656,Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),SC,skipped,skipped,,6
 657,Vaila WISHART (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,skipped,,6
 658,Vaila WISHART (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,skipped,,6
 659,Vaila WISHART (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,skipped,,6
@@ -674,71 +674,71 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 672,Vaila WISHART (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
 673,Vaila WISHART (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
 674,Vaila WISHART (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),skipped,,6
-675,Vaila WISHART (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-676,Vaila WISHART (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),,6
+675,Vaila WISHART (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,,6
+676,Vaila WISHART (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),SC,John N HUNTER (Ind),,6
 677,Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
 678,Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
 679,Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
 680,Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
 681,Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),skipped,skipped,,6
-682,Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),,6
+682,Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),SC,,6
 683,Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,,6
-684,Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),,6
-685,Vaila WISHART (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),,6
+684,Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),SC,Davie SANDISON (Ind),,6
+685,Vaila WISHART (Ind),Ian SCOTT (Ind),SC,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),,6
 686,Vaila WISHART (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 687,Vaila WISHART (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 688,Vaila WISHART (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 689,Vaila WISHART (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 690,Vaila WISHART (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 691,Vaila WISHART (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),skipped,skipped,,6
-692,Peter JAMIESON (SC),skipped,skipped,skipped,skipped,skipped,,6
-693,Peter JAMIESON (SC),skipped,skipped,skipped,skipped,skipped,,6
-694,Peter JAMIESON (SC),skipped,skipped,skipped,skipped,skipped,,6
-695,Peter JAMIESON (SC),skipped,skipped,skipped,skipped,skipped,,6
-696,Peter JAMIESON (SC),skipped,skipped,skipped,skipped,skipped,,6
-697,Peter JAMIESON (SC),skipped,skipped,skipped,skipped,skipped,,6
-698,Peter JAMIESON (SC),skipped,skipped,skipped,skipped,skipped,,6
-699,Peter JAMIESON (SC),skipped,skipped,skipped,skipped,skipped,,6
-700,Peter JAMIESON (SC),Davie SANDISON (Ind),skipped,skipped,skipped,skipped,,6
-701,Peter JAMIESON (SC),Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
-702,Peter JAMIESON (SC),Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
-703,Peter JAMIESON (SC),Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),,6
-704,Peter JAMIESON (SC),Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),,6
-705,Peter JAMIESON (SC),Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),,6
-706,Peter JAMIESON (SC),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
-707,Peter JAMIESON (SC),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
-708,Peter JAMIESON (SC),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
-709,Peter JAMIESON (SC),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),skipped,skipped,,6
-710,Peter JAMIESON (SC),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),skipped,,6
-711,Peter JAMIESON (SC),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),,6
-712,Peter JAMIESON (SC),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),,6
-713,Peter JAMIESON (SC),Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),,6
-714,Peter JAMIESON (SC),Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),,6
-715,Peter JAMIESON (SC),John N HUNTER (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
-716,Peter JAMIESON (SC),John N HUNTER (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),,6
-717,Peter JAMIESON (SC),John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),,6
-718,Peter JAMIESON (SC),Vaila WISHART (Ind),skipped,skipped,skipped,skipped,,6
-719,Peter JAMIESON (SC),Vaila WISHART (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
-720,Peter JAMIESON (SC),Vaila WISHART (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
-721,Peter JAMIESON (SC),Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),skipped,skipped,,6
-722,Peter JAMIESON (SC),Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),skipped,skipped,,6
-723,Peter JAMIESON (SC),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),,6
-724,Peter JAMIESON (SC),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),,6
-725,Peter JAMIESON (SC),Mark BURGESS (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
-726,Peter JAMIESON (SC),Mark BURGESS (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
-727,Peter JAMIESON (SC),Mark BURGESS (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
-728,Peter JAMIESON (SC),Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),,6
-729,Peter JAMIESON (SC),Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),,6
-730,Peter JAMIESON (SC),Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
-731,Peter JAMIESON (SC),Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
-732,Peter JAMIESON (SC),Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
-733,Peter JAMIESON (SC),Ian SCOTT (Ind),skipped,skipped,skipped,skipped,,6
-734,Peter JAMIESON (SC),Ian SCOTT (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
-735,Peter JAMIESON (SC),Ian SCOTT (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,,6
-736,Peter JAMIESON (SC),Ian SCOTT (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,,6
-737,Peter JAMIESON (SC),Ian SCOTT (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
-738,Peter JAMIESON (SC),Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),,6
-739,Peter JAMIESON (SC),Ian SCOTT (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
+692,SC,skipped,skipped,skipped,skipped,skipped,,6
+693,SC,skipped,skipped,skipped,skipped,skipped,,6
+694,SC,skipped,skipped,skipped,skipped,skipped,,6
+695,SC,skipped,skipped,skipped,skipped,skipped,,6
+696,SC,skipped,skipped,skipped,skipped,skipped,,6
+697,SC,skipped,skipped,skipped,skipped,skipped,,6
+698,SC,skipped,skipped,skipped,skipped,skipped,,6
+699,SC,skipped,skipped,skipped,skipped,skipped,,6
+700,SC,Davie SANDISON (Ind),skipped,skipped,skipped,skipped,,6
+701,SC,Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
+702,SC,Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
+703,SC,Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),,6
+704,SC,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),,6
+705,SC,Davie SANDISON (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),,6
+706,SC,Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
+707,SC,Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
+708,SC,Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
+709,SC,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),skipped,skipped,,6
+710,SC,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),skipped,,6
+711,SC,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),,6
+712,SC,Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),,6
+713,SC,Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),,6
+714,SC,Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),,6
+715,SC,John N HUNTER (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
+716,SC,John N HUNTER (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),,6
+717,SC,John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),,6
+718,SC,Vaila WISHART (Ind),skipped,skipped,skipped,skipped,,6
+719,SC,Vaila WISHART (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
+720,SC,Vaila WISHART (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
+721,SC,Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),skipped,skipped,,6
+722,SC,Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),skipped,skipped,,6
+723,SC,Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),,6
+724,SC,Vaila WISHART (Ind),Mark BURGESS (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),,6
+725,SC,Mark BURGESS (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
+726,SC,Mark BURGESS (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
+727,SC,Mark BURGESS (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
+728,SC,Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),,6
+729,SC,Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),,6
+730,SC,Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
+731,SC,Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
+732,SC,Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
+733,SC,Ian SCOTT (Ind),skipped,skipped,skipped,skipped,,6
+734,SC,Ian SCOTT (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
+735,SC,Ian SCOTT (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,,6
+736,SC,Ian SCOTT (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,,6
+737,SC,Ian SCOTT (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
+738,SC,Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),,6
+739,SC,Ian SCOTT (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 740,Mark BURGESS (Ind),skipped,skipped,skipped,skipped,skipped,,6
 741,Mark BURGESS (Ind),skipped,skipped,skipped,skipped,skipped,,6
 742,Mark BURGESS (Ind),skipped,skipped,skipped,skipped,skipped,,6
@@ -761,10 +761,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 759,Mark BURGESS (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
 760,Mark BURGESS (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
 761,Mark BURGESS (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
-762,Mark BURGESS (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-763,Mark BURGESS (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),Ian SCOTT (Ind),,6
+762,Mark BURGESS (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),SC,Ian SCOTT (Ind),,6
+763,Mark BURGESS (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),SC,Vaila WISHART (Ind),Ian SCOTT (Ind),,6
 764,Mark BURGESS (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),skipped,skipped,,6
-765,Mark BURGESS (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),,6
+765,Mark BURGESS (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),SC,,6
 766,Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 767,Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 768,Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
@@ -780,13 +780,13 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 778,Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 779,Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 780,Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
-781,Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-782,Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),John N HUNTER (Ind),,6
-783,Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),John N HUNTER (Ind),,6
+781,Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,Ian SCOTT (Ind),,6
+782,Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),SC,Ian SCOTT (Ind),John N HUNTER (Ind),,6
+783,Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),SC,Ian SCOTT (Ind),John N HUNTER (Ind),,6
 784,Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),skipped,,6
-785,Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-786,Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),,6
-787,Mark BURGESS (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
+785,Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),SC,,6
+786,Mark BURGESS (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),SC,John N HUNTER (Ind),,6
+787,Mark BURGESS (Ind),Davie SANDISON (Ind),SC,skipped,skipped,skipped,,6
 788,Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 789,Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 790,Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
@@ -796,12 +796,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 794,Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 795,Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 796,Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),skipped,skipped,,6
-797,Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),,6
-798,Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),skipped,,6
+797,Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),SC,,6
+798,Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),SC,skipped,,6
 799,Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),skipped,skipped,,6
 800,Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),skipped,skipped,,6
-801,Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),,6
-802,Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),John N HUNTER (Ind),,6
+801,Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),SC,John N HUNTER (Ind),,6
+802,Mark BURGESS (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),SC,Vaila WISHART (Ind),John N HUNTER (Ind),,6
 803,Mark BURGESS (Ind),John N HUNTER (Ind),skipped,skipped,skipped,skipped,,6
 804,Mark BURGESS (Ind),John N HUNTER (Ind),skipped,skipped,skipped,skipped,,6
 805,Mark BURGESS (Ind),John N HUNTER (Ind),skipped,skipped,skipped,skipped,,6
@@ -810,21 +810,21 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 808,Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
 809,Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
 810,Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
-811,Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),,6
-812,Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),,6
+811,Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),SC,,6
+812,Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),SC,,6
 813,Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 814,Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 815,Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 816,Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 817,Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 818,Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
-819,Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),skipped,skipped,,6
-820,Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),skipped,skipped,,6
-821,Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),Ian SCOTT (Ind),,6
-822,Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
+819,Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),SC,skipped,skipped,,6
+820,Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),SC,skipped,skipped,,6
+821,Mark BURGESS (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),SC,Davie SANDISON (Ind),Ian SCOTT (Ind),,6
+822,Mark BURGESS (Ind),John N HUNTER (Ind),SC,skipped,skipped,skipped,,6
 823,Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 824,Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
-825,Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),Vaila WISHART (Ind),,6
+825,Mark BURGESS (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),SC,Davie SANDISON (Ind),Vaila WISHART (Ind),,6
 826,Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,skipped,,6
 827,Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,skipped,,6
 828,Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,skipped,,6
@@ -839,49 +839,49 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 837,Mark BURGESS (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
 838,Mark BURGESS (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
 839,Mark BURGESS (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),skipped,skipped,,6
-840,Mark BURGESS (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-841,Mark BURGESS (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),,6
-842,Mark BURGESS (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-843,Mark BURGESS (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
+840,Mark BURGESS (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),SC,Ian SCOTT (Ind),,6
+841,Mark BURGESS (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),SC,Ian SCOTT (Ind),,6
+842,Mark BURGESS (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),SC,,6
+843,Mark BURGESS (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),SC,,6
 844,Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
 845,Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
 846,Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
 847,Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
 848,Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
-849,Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),skipped,,6
-850,Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),Ian SCOTT (Ind),,6
-851,Mark BURGESS (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
+849,Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,Davie SANDISON (Ind),skipped,,6
+850,Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,Davie SANDISON (Ind),Ian SCOTT (Ind),,6
+851,Mark BURGESS (Ind),Vaila WISHART (Ind),SC,skipped,skipped,skipped,,6
 852,Mark BURGESS (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
 853,Mark BURGESS (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,,6
-854,Mark BURGESS (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),,6
-855,Mark BURGESS (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),skipped,skipped,,6
-856,Mark BURGESS (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,skipped,,6
-857,Mark BURGESS (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,skipped,,6
-858,Mark BURGESS (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),skipped,skipped,skipped,,6
-859,Mark BURGESS (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),skipped,skipped,skipped,,6
-860,Mark BURGESS (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),skipped,skipped,skipped,,6
-861,Mark BURGESS (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),skipped,skipped,skipped,,6
-862,Mark BURGESS (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),,6
-863,Mark BURGESS (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),,6
-864,Mark BURGESS (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),skipped,skipped,skipped,,6
-865,Mark BURGESS (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),skipped,skipped,skipped,,6
-866,Mark BURGESS (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),skipped,skipped,skipped,,6
-867,Mark BURGESS (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),skipped,skipped,skipped,,6
-868,Mark BURGESS (Ind),Peter JAMIESON (SC),Ian SCOTT (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),,6
+854,Mark BURGESS (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),SC,Davie SANDISON (Ind),,6
+855,Mark BURGESS (Ind),Vaila WISHART (Ind),Ian SCOTT (Ind),SC,skipped,skipped,,6
+856,Mark BURGESS (Ind),SC,skipped,skipped,skipped,skipped,,6
+857,Mark BURGESS (Ind),SC,skipped,skipped,skipped,skipped,,6
+858,Mark BURGESS (Ind),SC,Davie SANDISON (Ind),skipped,skipped,skipped,,6
+859,Mark BURGESS (Ind),SC,Davie SANDISON (Ind),skipped,skipped,skipped,,6
+860,Mark BURGESS (Ind),SC,Davie SANDISON (Ind),skipped,skipped,skipped,,6
+861,Mark BURGESS (Ind),SC,Davie SANDISON (Ind),skipped,skipped,skipped,,6
+862,Mark BURGESS (Ind),SC,Davie SANDISON (Ind),John N HUNTER (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),,6
+863,Mark BURGESS (Ind),SC,John N HUNTER (Ind),Davie SANDISON (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),,6
+864,Mark BURGESS (Ind),SC,Vaila WISHART (Ind),skipped,skipped,skipped,,6
+865,Mark BURGESS (Ind),SC,Vaila WISHART (Ind),skipped,skipped,skipped,,6
+866,Mark BURGESS (Ind),SC,Vaila WISHART (Ind),skipped,skipped,skipped,,6
+867,Mark BURGESS (Ind),SC,Vaila WISHART (Ind),skipped,skipped,skipped,,6
+868,Mark BURGESS (Ind),SC,Ian SCOTT (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),,6
 869,Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,skipped,,6
 870,Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,skipped,,6
 871,Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,skipped,,6
 872,Mark BURGESS (Ind),Ian SCOTT (Ind),skipped,skipped,skipped,skipped,,6
 873,Mark BURGESS (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
 874,Mark BURGESS (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
-875,Mark BURGESS (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),,6
-876,Mark BURGESS (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
+875,Mark BURGESS (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),SC,,6
+876,Mark BURGESS (Ind),Ian SCOTT (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,,6
 877,Mark BURGESS (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
 878,Mark BURGESS (Ind),Ian SCOTT (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),skipped,skipped,,6
 879,Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 880,Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
-881,Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),,6
-882,Mark BURGESS (Ind),Ian SCOTT (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
+881,Mark BURGESS (Ind),Ian SCOTT (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,Davie SANDISON (Ind),,6
+882,Mark BURGESS (Ind),Ian SCOTT (Ind),SC,skipped,skipped,skipped,,6
 883,Ian SCOTT (Ind),skipped,skipped,skipped,skipped,skipped,,6
 884,Ian SCOTT (Ind),skipped,skipped,skipped,skipped,skipped,,6
 885,Ian SCOTT (Ind),skipped,skipped,skipped,skipped,skipped,,6
@@ -915,19 +915,19 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 913,Ian SCOTT (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
 914,Ian SCOTT (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
 915,Ian SCOTT (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
-916,Ian SCOTT (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Mark BURGESS (Ind),Vaila WISHART (Ind),,6
+916,Ian SCOTT (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),SC,Mark BURGESS (Ind),Vaila WISHART (Ind),,6
 917,Ian SCOTT (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,,6
 918,Ian SCOTT (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,,6
-919,Ian SCOTT (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),,6
-920,Ian SCOTT (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),,6
+919,Ian SCOTT (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),SC,,6
+920,Ian SCOTT (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),SC,Vaila WISHART (Ind),,6
 921,Ian SCOTT (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 922,Ian SCOTT (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 923,Ian SCOTT (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 924,Ian SCOTT (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 925,Ian SCOTT (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 926,Ian SCOTT (Ind),Davie SANDISON (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
-927,Ian SCOTT (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
-928,Ian SCOTT (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
+927,Ian SCOTT (Ind),Davie SANDISON (Ind),SC,skipped,skipped,skipped,,6
+928,Ian SCOTT (Ind),Davie SANDISON (Ind),SC,skipped,skipped,skipped,,6
 929,Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 930,Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 931,Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
@@ -937,22 +937,22 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 935,Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 936,Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 937,Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
-938,Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),,6
+938,Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,Vaila WISHART (Ind),,6
 939,Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,skipped,,6
 940,Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),skipped,,6
-941,Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),,6
-942,Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),skipped,skipped,,6
-943,Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),John N HUNTER (Ind),,6
-944,Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),John N HUNTER (Ind),,6
+941,Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),SC,John N HUNTER (Ind),,6
+942,Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),SC,skipped,skipped,,6
+943,Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),SC,Vaila WISHART (Ind),John N HUNTER (Ind),,6
+944,Ian SCOTT (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),SC,Vaila WISHART (Ind),John N HUNTER (Ind),,6
 945,Ian SCOTT (Ind),John N HUNTER (Ind),skipped,skipped,skipped,skipped,,6
 946,Ian SCOTT (Ind),John N HUNTER (Ind),skipped,skipped,skipped,skipped,,6
 947,Ian SCOTT (Ind),John N HUNTER (Ind),skipped,skipped,skipped,skipped,,6
 948,Ian SCOTT (Ind),John N HUNTER (Ind),skipped,skipped,skipped,skipped,,6
 949,Ian SCOTT (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
 950,Ian SCOTT (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),skipped,skipped,,6
-951,Ian SCOTT (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),Mark BURGESS (Ind),,6
-952,Ian SCOTT (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
-953,Ian SCOTT (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),,6
+951,Ian SCOTT (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),SC,Mark BURGESS (Ind),,6
+952,Ian SCOTT (Ind),John N HUNTER (Ind),SC,skipped,skipped,skipped,,6
+953,Ian SCOTT (Ind),John N HUNTER (Ind),SC,Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),,6
 954,Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 955,Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 956,Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
@@ -960,25 +960,25 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 958,Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 959,Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 960,Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
-961,Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),,6
-962,Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),,6
+961,Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),SC,Vaila WISHART (Ind),,6
+962,Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),SC,Vaila WISHART (Ind),,6
 963,Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,skipped,,6
-964,Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),,6
-965,Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),skipped,,6
+964,Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),SC,,6
+965,Ian SCOTT (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),SC,Vaila WISHART (Ind),skipped,,6
 966,Ian SCOTT (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,skipped,,6
 967,Ian SCOTT (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,skipped,,6
 968,Ian SCOTT (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
 969,Ian SCOTT (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
 970,Ian SCOTT (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
-971,Ian SCOTT (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),,6
-972,Ian SCOTT (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),Mark BURGESS (Ind),John N HUNTER (Ind),,6
-973,Ian SCOTT (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-974,Ian SCOTT (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
-975,Ian SCOTT (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),,6
+971,Ian SCOTT (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),SC,,6
+972,Ian SCOTT (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),SC,Mark BURGESS (Ind),John N HUNTER (Ind),,6
+973,Ian SCOTT (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,,6
+974,Ian SCOTT (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,,6
+975,Ian SCOTT (Ind),Vaila WISHART (Ind),Davie SANDISON (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,,6
 976,Ian SCOTT (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
-977,Ian SCOTT (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),Mark BURGESS (Ind),,6
-978,Ian SCOTT (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),,6
-979,Ian SCOTT (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,,6
+977,Ian SCOTT (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),SC,Mark BURGESS (Ind),,6
+978,Ian SCOTT (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),SC,,6
+979,Ian SCOTT (Ind),Vaila WISHART (Ind),SC,skipped,skipped,skipped,,6
 980,Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 981,Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 982,Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
@@ -988,14 +988,14 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 986,Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,,6
 987,Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),skipped,skipped,,6
 988,Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),skipped,skipped,,6
-989,Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),,6
-990,Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),,6
-991,Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),,6
-992,Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),skipped,,6
-993,Ian SCOTT (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,skipped,,6
-994,Ian SCOTT (Ind),Peter JAMIESON (SC),skipped,skipped,skipped,skipped,,6
-995,Ian SCOTT (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),,6
-996,Ian SCOTT (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),,6
+989,Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),SC,,6
+990,Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),SC,,6
+991,Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),SC,,6
+992,Ian SCOTT (Ind),Vaila WISHART (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),SC,skipped,,6
+993,Ian SCOTT (Ind),SC,skipped,skipped,skipped,skipped,,6
+994,Ian SCOTT (Ind),SC,skipped,skipped,skipped,skipped,,6
+995,Ian SCOTT (Ind),SC,Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),,6
+996,Ian SCOTT (Ind),SC,Vaila WISHART (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Mark BURGESS (Ind),,6
 997,Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,skipped,,6
 998,Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,skipped,,6
 999,Ian SCOTT (Ind),Mark BURGESS (Ind),skipped,skipped,skipped,skipped,,6
@@ -1013,17 +1013,17 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,numSeats,numCands
 1011,Ian SCOTT (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
 1012,Ian SCOTT (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
 1013,Ian SCOTT (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),skipped,skipped,skipped,,6
-1014,Ian SCOTT (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),Peter JAMIESON (SC),,6
-1015,Ian SCOTT (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),,6
+1014,Ian SCOTT (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),Vaila WISHART (Ind),SC,,6
+1015,Ian SCOTT (Ind),Mark BURGESS (Ind),Davie SANDISON (Ind),John N HUNTER (Ind),SC,Vaila WISHART (Ind),,6
 1016,Ian SCOTT (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
 1017,Ian SCOTT (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),skipped,skipped,skipped,,6
-1018,Ian SCOTT (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),Peter JAMIESON (SC),Vaila WISHART (Ind),,6
+1018,Ian SCOTT (Ind),Mark BURGESS (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),SC,Vaila WISHART (Ind),,6
 1019,Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 1020,Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 1021,Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 1022,Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 1023,Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),skipped,skipped,skipped,,6
 1024,Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Davie SANDISON (Ind),skipped,,6
-1025,Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),,6
-1026,Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),Peter JAMIESON (SC),Davie SANDISON (Ind),,6
-1027,Ian SCOTT (Ind),Mark BURGESS (Ind),Peter JAMIESON (SC),John N HUNTER (Ind),skipped,skipped,,6
+1025,Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,Davie SANDISON (Ind),,6
+1026,Ian SCOTT (Ind),Mark BURGESS (Ind),Vaila WISHART (Ind),John N HUNTER (Ind),SC,Davie SANDISON (Ind),,6
+1027,Ian SCOTT (Ind),Mark BURGESS (Ind),SC,John N HUNTER (Ind),skipped,skipped,,6

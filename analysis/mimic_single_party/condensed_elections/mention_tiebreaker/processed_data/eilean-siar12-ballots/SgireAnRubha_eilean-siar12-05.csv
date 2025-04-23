@@ -18,21 +18,21 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 16,Iain Don MACIVER (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 17,Iain Don MACIVER (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 18,Iain Don MACIVER (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
-19,Iain Don MACIVER (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),,7
-20,Iain Don MACIVER (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),,7
+19,Iain Don MACIVER (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),SNP,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),,7
+20,Iain Don MACIVER (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),SNP,NORMAN M MACLEOD (Ind),,7
 21,Iain Don MACIVER (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,,7
 22,Iain Don MACIVER (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 23,Iain Don MACIVER (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 24,Iain Don MACIVER (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 25,Iain Don MACIVER (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
-26,Iain Don MACIVER (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-27,Iain Don MACIVER (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-28,Iain Don MACIVER (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-29,Iain Don MACIVER (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-30,Iain Don MACIVER (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-31,Iain Don MACIVER (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),,7
+26,Iain Don MACIVER (Ind),Zena STEWART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+27,Iain Don MACIVER (Ind),Zena STEWART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+28,Iain Don MACIVER (Ind),Zena STEWART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+29,Iain Don MACIVER (Ind),Zena STEWART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+30,Iain Don MACIVER (Ind),Zena STEWART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+31,Iain Don MACIVER (Ind),Zena STEWART (Ind),SNP,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),,7
 32,Iain Don MACIVER (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
-33,Iain Don MACIVER (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),,7
+33,Iain Don MACIVER (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),SNP,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),,7
 34,Iain Don MACIVER (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 35,Iain Don MACIVER (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 36,Iain Don MACIVER (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
@@ -50,51 +50,51 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 48,Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 49,Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 50,Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
-51,Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),,7
+51,Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),SNP,,7
 52,Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-53,Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),,7
+53,Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),SNP,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),,7
 54,Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),skipped,skipped,,7
 55,Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,7
 56,Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 57,Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 58,Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
-59,Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-60,Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
+59,Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),SNP,skipped,skipped,skipped,skipped,,7
+60,Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),SNP,skipped,skipped,skipped,skipped,,7
 61,Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 62,Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 63,Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
 64,Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
-65,Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-66,Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-67,Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-68,Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-69,Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-70,Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-71,Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),,7
-72,Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+65,Iain Don MACIVER (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+66,Iain Don MACIVER (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+67,Iain Don MACIVER (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+68,Iain Don MACIVER (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+69,Iain Don MACIVER (Ind),SNP,NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+70,Iain Don MACIVER (Ind),SNP,NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+71,Iain Don MACIVER (Ind),SNP,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),,7
+72,Iain Don MACIVER (Ind),SNP,ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 73,Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
 74,Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
 75,Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
 76,Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 77,Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-78,Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),,7
+78,Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),SNP,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),,7
 79,Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
-80,Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),,7
+80,Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),SNP,NORMAN M MACLEOD (Ind),,7
 81,Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-82,Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),,7
+82,Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),SNP,,7
 83,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 84,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 85,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-86,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),John Norman Orica MACDONALD (SNP),,7
-87,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,,7
+86,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),SNP,,7
+87,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),SNP,skipped,skipped,skipped,,7
 88,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,,7
 89,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
 90,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 91,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 92,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 93,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-94,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),skipped,,7
-95,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
+94,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),SNP,Zena STEWART (Ind),skipped,,7
+95,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),SNP,skipped,skipped,skipped,skipped,,7
 96,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
 97,Zena STEWART (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 98,Zena STEWART (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
@@ -126,22 +126,22 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 124,Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,skipped,,7
 125,Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,skipped,,7
 126,Zena STEWART (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
-127,Zena STEWART (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),,7
+127,Zena STEWART (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),SNP,Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),,7
 128,Zena STEWART (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,,7
 129,Zena STEWART (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 130,Zena STEWART (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 131,Zena STEWART (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 132,Zena STEWART (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 133,Zena STEWART (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,,7
-134,Zena STEWART (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-135,Zena STEWART (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-136,Zena STEWART (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-137,Zena STEWART (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-138,Zena STEWART (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-139,Zena STEWART (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-140,Zena STEWART (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-141,Zena STEWART (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
-142,Zena STEWART (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,,7
+134,Zena STEWART (Ind),Iain Don MACIVER (Ind),SNP,skipped,skipped,skipped,skipped,,7
+135,Zena STEWART (Ind),Iain Don MACIVER (Ind),SNP,skipped,skipped,skipped,skipped,,7
+136,Zena STEWART (Ind),Iain Don MACIVER (Ind),SNP,skipped,skipped,skipped,skipped,,7
+137,Zena STEWART (Ind),Iain Don MACIVER (Ind),SNP,skipped,skipped,skipped,skipped,,7
+138,Zena STEWART (Ind),Iain Don MACIVER (Ind),SNP,skipped,skipped,skipped,skipped,,7
+139,Zena STEWART (Ind),Iain Don MACIVER (Ind),SNP,skipped,skipped,skipped,skipped,,7
+140,Zena STEWART (Ind),Iain Don MACIVER (Ind),SNP,skipped,skipped,skipped,skipped,,7
+141,Zena STEWART (Ind),Iain Don MACIVER (Ind),SNP,Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
+142,Zena STEWART (Ind),Iain Don MACIVER (Ind),SNP,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,,7
 143,Zena STEWART (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 144,Zena STEWART (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 145,Zena STEWART (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,,7
@@ -157,7 +157,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 155,Zena STEWART (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
 156,Zena STEWART (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
 157,Zena STEWART (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
-158,Zena STEWART (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),,7
+158,Zena STEWART (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),SNP,Donald John MACSWEEN (Ind),,7
 159,Zena STEWART (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,,7
 160,Zena STEWART (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 161,Zena STEWART (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -169,11 +169,11 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 167,Zena STEWART (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 168,Zena STEWART (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 169,Zena STEWART (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-170,Zena STEWART (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),,7
+170,Zena STEWART (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),SNP,,7
 171,Zena STEWART (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,,7
-172,Zena STEWART (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-173,Zena STEWART (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-174,Zena STEWART (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
+172,Zena STEWART (Ind),Donald NICHOLSON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+173,Zena STEWART (Ind),Donald NICHOLSON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+174,Zena STEWART (Ind),Donald NICHOLSON (Ind),SNP,skipped,skipped,skipped,skipped,,7
 175,Zena STEWART (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 176,Zena STEWART (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 177,Zena STEWART (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
@@ -183,8 +183,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 181,Zena STEWART (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 182,Zena STEWART (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 183,Zena STEWART (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-184,Zena STEWART (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),,7
-185,Zena STEWART (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),,7
+184,Zena STEWART (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),SNP,Donald John MACSWEEN (Ind),,7
+185,Zena STEWART (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),SNP,,7
 186,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,7
 187,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 188,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
@@ -193,15 +193,15 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 191,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 192,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 193,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
-194,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),John Norman Orica MACDONALD (SNP),,7
-195,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,,7
-196,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),,7
-197,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),,7
+194,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),SNP,,7
+195,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),SNP,skipped,skipped,skipped,,7
+196,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),SNP,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),,7
+197,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),SNP,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),,7
 198,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 199,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
-200,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,,7
-201,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,,7
-202,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
+200,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),SNP,skipped,,7
+201,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),SNP,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,,7
+202,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),SNP,Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
 203,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 204,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 205,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
@@ -212,31 +212,31 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 210,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 211,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
 212,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
-213,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),,7
-214,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-215,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-216,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-217,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-218,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-219,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-220,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-221,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-222,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-223,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
-224,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
-225,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
-226,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,,7
-227,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
-228,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
-229,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
-230,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),,7
-231,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,,7
-232,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
-233,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-234,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-235,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-236,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,,7
-237,Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
+213,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),SNP,Iain Don MACIVER (Ind),,7
+214,Zena STEWART (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+215,Zena STEWART (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+216,Zena STEWART (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+217,Zena STEWART (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+218,Zena STEWART (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+219,Zena STEWART (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+220,Zena STEWART (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+221,Zena STEWART (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+222,Zena STEWART (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+223,Zena STEWART (Ind),SNP,Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
+224,Zena STEWART (Ind),SNP,Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
+225,Zena STEWART (Ind),SNP,Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
+226,Zena STEWART (Ind),SNP,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,,7
+227,Zena STEWART (Ind),SNP,Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
+228,Zena STEWART (Ind),SNP,Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
+229,Zena STEWART (Ind),SNP,Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
+230,Zena STEWART (Ind),SNP,Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),,7
+231,Zena STEWART (Ind),SNP,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,,7
+232,Zena STEWART (Ind),SNP,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
+233,Zena STEWART (Ind),SNP,ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+234,Zena STEWART (Ind),SNP,ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+235,Zena STEWART (Ind),SNP,ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+236,Zena STEWART (Ind),SNP,ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,,7
+237,Zena STEWART (Ind),SNP,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
 238,Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
 239,Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
 240,Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -250,14 +250,14 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 248,Zena STEWART (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,,7
 249,Zena STEWART (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 250,Zena STEWART (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-251,Zena STEWART (Ind),Donald John MACSWEEN (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
+251,Zena STEWART (Ind),Donald John MACSWEEN (Ind),SNP,skipped,skipped,skipped,skipped,,7
 252,Zena STEWART (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 253,Zena STEWART (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 254,Zena STEWART (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-255,Zena STEWART (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),,7
+255,Zena STEWART (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),SNP,Donald NICHOLSON (Ind),,7
 256,Zena STEWART (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
 257,Zena STEWART (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
-258,Zena STEWART (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),,7
+258,Zena STEWART (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),SNP,Donald NICHOLSON (Ind),,7
 259,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,7
 260,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,7
 261,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -273,7 +273,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 271,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 272,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 273,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),skipped,,7
-274,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,,7
+274,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),SNP,skipped,skipped,skipped,,7
 275,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 276,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 277,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
@@ -281,13 +281,13 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 279,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 280,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
 281,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,,7
-282,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),,7
+282,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),SNP,,7
 283,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 284,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 285,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
 286,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,,7
-287,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
-288,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),skipped,skipped,,7
+287,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),SNP,Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
+288,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),SNP,Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),skipped,skipped,,7
 289,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 290,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 291,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
@@ -298,8 +298,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 296,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 297,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 298,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
-299,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),John Norman Orica MACDONALD (SNP),,7
-300,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),,7
+299,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),SNP,,7
+300,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),SNP,,7
 301,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
 302,Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 303,Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
@@ -319,16 +319,16 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 317,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 318,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 319,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-320,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),,7
-321,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),skipped,skipped,,7
-322,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),,7
+320,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),SNP,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),,7
+321,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),SNP,ALASDAIR MACLEOD (Ind),skipped,skipped,,7
+322,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),SNP,,7
 323,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 324,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 325,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 326,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
 327,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
 328,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
-329,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,,7
+329,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),SNP,skipped,skipped,,7
 330,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,,7
 331,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 332,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
@@ -337,7 +337,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 335,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 336,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
 337,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
-338,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,,7
+338,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),SNP,skipped,skipped,skipped,,7
 339,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,,7
 340,Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,skipped,,7
 341,Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -347,7 +347,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 345,Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,skipped,,7
 346,Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,skipped,,7
 347,Donald NICHOLSON (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
-348,Donald NICHOLSON (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),John Norman Orica MACDONALD (SNP),,7
+348,Donald NICHOLSON (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),SNP,,7
 349,Donald NICHOLSON (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 350,Donald NICHOLSON (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 351,Donald NICHOLSON (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,,7
@@ -356,9 +356,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 354,Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 355,Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 356,Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-357,Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),,7
+357,Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),SNP,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),,7
 358,Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,,7
-359,Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),,7
+359,Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),SNP,NORMAN M MACLEOD (Ind),,7
 360,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,7
 361,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,7
 362,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -370,15 +370,15 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 368,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 369,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,,7
 370,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,,7
-371,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),,7
-372,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),,7
-373,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),John Norman Orica MACDONALD (SNP),,7
-374,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),John Norman Orica MACDONALD (SNP),,7
+371,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),SNP,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),,7
+372,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),SNP,Donald John MACSWEEN (Ind),,7
+373,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),SNP,,7
+374,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),SNP,,7
 375,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 376,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 377,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,,7
-378,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-379,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
+378,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),SNP,skipped,skipped,skipped,skipped,,7
+379,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),SNP,skipped,skipped,skipped,skipped,,7
 380,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 381,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 382,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
@@ -397,41 +397,41 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 395,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
 396,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,,7
 397,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,,7
-398,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),,7
-399,Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-400,Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-401,Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-402,Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-403,Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-404,Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-405,Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-406,Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-407,Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),skipped,skipped,,7
-408,Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),skipped,skipped,,7
-409,Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),,7
-410,Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-411,Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
-412,Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,,7
-413,Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
-414,Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,,7
+398,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),SNP,Zena STEWART (Ind),,7
+399,Donald NICHOLSON (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+400,Donald NICHOLSON (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+401,Donald NICHOLSON (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+402,Donald NICHOLSON (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+403,Donald NICHOLSON (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+404,Donald NICHOLSON (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+405,Donald NICHOLSON (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+406,Donald NICHOLSON (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+407,Donald NICHOLSON (Ind),SNP,Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),skipped,skipped,,7
+408,Donald NICHOLSON (Ind),SNP,Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),skipped,skipped,,7
+409,Donald NICHOLSON (Ind),SNP,Zena STEWART (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),,7
+410,Donald NICHOLSON (Ind),SNP,NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+411,Donald NICHOLSON (Ind),SNP,Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
+412,Donald NICHOLSON (Ind),SNP,Donald John MACSWEEN (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,,7
+413,Donald NICHOLSON (Ind),SNP,ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
+414,Donald NICHOLSON (Ind),SNP,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,,7
 415,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 416,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 417,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 418,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 419,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-420,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,,7
+420,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),SNP,skipped,skipped,,7
 421,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
-422,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,,7
+422,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),SNP,skipped,skipped,skipped,,7
 423,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 424,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 425,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 426,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 427,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
-428,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
+428,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),SNP,skipped,skipped,skipped,skipped,,7
 429,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 430,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 431,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-432,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),,7
+432,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),SNP,,7
 433,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
 434,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
 435,Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -462,8 +462,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 460,Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 461,Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 462,Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),skipped,skipped,,7
-463,Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,,7
-464,Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),,7
+463,Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),SNP,Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,,7
+464,Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),SNP,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),,7
 465,Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 466,Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 467,Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
@@ -493,10 +493,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 491,NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 492,NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 493,NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
-494,NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,,7
-495,NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),,7
-496,NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Donald John MACSWEEN (Ind),,7
-497,NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
+494,NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),SNP,skipped,skipped,skipped,,7
+495,NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),SNP,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),,7
+496,NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),SNP,Zena STEWART (Ind),Donald John MACSWEEN (Ind),,7
+497,NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),SNP,skipped,skipped,skipped,skipped,,7
 498,NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 499,NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 500,NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
@@ -513,12 +513,12 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 511,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 512,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 513,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
-514,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),,7
+514,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),SNP,,7
 515,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 516,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
-517,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-518,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-519,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),skipped,skipped,,7
+517,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+518,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+519,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),SNP,Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),skipped,skipped,,7
 520,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 521,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
 522,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
@@ -532,25 +532,25 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 530,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 531,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 532,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
-533,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),skipped,skipped,,7
+533,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),SNP,Donald John MACSWEEN (Ind),skipped,skipped,,7
 534,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,,7
 535,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,,7
-536,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),,7
+536,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),SNP,Zena STEWART (Ind),,7
 537,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 538,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 539,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 540,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 541,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-542,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),skipped,skipped,,7
+542,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),SNP,Iain Don MACIVER (Ind),skipped,skipped,,7
 543,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,,7
 544,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,,7
 545,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,,7
-546,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),,7
-547,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),,7
-548,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-549,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
-550,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),,7
-551,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),,7
+546,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),SNP,Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),,7
+547,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),SNP,,7
+548,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+549,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),SNP,Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
+550,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),SNP,Zena STEWART (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),,7
+551,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),SNP,Zena STEWART (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),,7
 552,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 553,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 554,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
@@ -582,13 +582,13 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 580,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
 581,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
 582,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),skipped,skipped,,7
-583,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),,7
-584,NORMAN M MACLEOD (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-585,NORMAN M MACLEOD (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-586,NORMAN M MACLEOD (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-587,NORMAN M MACLEOD (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-588,NORMAN M MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-589,NORMAN M MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
+583,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),SNP,,7
+584,NORMAN M MACLEOD (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+585,NORMAN M MACLEOD (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+586,NORMAN M MACLEOD (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+587,NORMAN M MACLEOD (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+588,NORMAN M MACLEOD (Ind),SNP,Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
+589,NORMAN M MACLEOD (Ind),SNP,Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 590,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 591,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
 592,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
@@ -599,15 +599,15 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 597,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 598,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 599,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,,7
-600,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),,7
+600,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),SNP,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),,7
 601,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
 602,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
 603,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
-604,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),,7
+604,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),SNP,ALASDAIR MACLEOD (Ind),,7
 605,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,,7
-606,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),,7
-607,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),,7
-608,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),,7
+606,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),SNP,,7
+607,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),SNP,Iain Don MACIVER (Ind),,7
+608,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),SNP,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),,7
 609,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,,7
 610,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,,7
 611,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,,7
@@ -624,7 +624,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 622,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,7
 623,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 624,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
-625,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),skipped,,7
+625,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),SNP,skipped,,7
 626,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
 627,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 628,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,,7
@@ -636,157 +636,157 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 634,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 635,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 636,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
-637,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,,7
-638,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),,7
+637,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),SNP,skipped,skipped,,7
+638,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),SNP,Iain Don MACIVER (Ind),,7
 639,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,,7
-640,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
+640,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),SNP,skipped,skipped,skipped,skipped,,7
 641,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 642,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 643,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 644,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 645,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
 646,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),skipped,skipped,,7
-647,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-648,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-649,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-650,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-651,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-652,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-653,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-654,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-655,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-656,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-657,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-658,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-659,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-660,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-661,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-662,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-663,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-664,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-665,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-666,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-667,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-668,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-669,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-670,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-671,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-672,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-673,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-674,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-675,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-676,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-677,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-678,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-679,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-680,John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,skipped,,7
-681,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,skipped,,7
-682,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,skipped,,7
-683,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,skipped,,7
-684,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,skipped,,7
-685,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,skipped,,7
-686,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,skipped,,7
-687,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,skipped,,7
-688,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-689,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-690,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-691,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-692,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-693,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-694,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-695,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-696,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-697,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-698,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),skipped,skipped,,7
-699,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
-700,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-701,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-702,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-703,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-704,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-705,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-706,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-707,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
-708,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
-709,John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),,7
-710,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),skipped,skipped,skipped,skipped,skipped,,7
-711,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),skipped,skipped,skipped,skipped,skipped,,7
-712,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),skipped,skipped,skipped,skipped,skipped,,7
-713,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),skipped,skipped,skipped,skipped,skipped,,7
-714,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),skipped,skipped,skipped,skipped,skipped,,7
-715,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),skipped,skipped,skipped,skipped,skipped,,7
-716,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),skipped,skipped,skipped,skipped,skipped,,7
-717,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
-718,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
-719,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
-720,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
-721,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
-722,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
-723,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),,7
-724,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),,7
-725,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-726,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-727,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-728,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
-729,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
-730,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
-731,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
-732,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),,7
-733,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,,7
-734,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-735,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-736,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-737,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-738,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),,7
-739,John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
-740,John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
-741,John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
-742,John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
-743,John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
-744,John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
-745,John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
-746,John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,,7
-747,John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-748,John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-749,John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-750,John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
-751,John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-752,John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,,7
-753,John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-754,John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-755,John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
-756,John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),,7
-757,John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
-758,John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
-759,John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),,7
-760,John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
-761,John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),,7
-762,John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
-763,John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),,7
-764,John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
-765,John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
-766,John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
-767,John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
-768,John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
-769,John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
-770,John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
-771,John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
-772,John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),,7
-773,John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),,7
-774,John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
-775,John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-776,John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
-777,John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-778,John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-779,John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-780,John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-781,John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
-782,John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
-783,John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),,7
-784,John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),,7
-785,John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
-786,John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
-787,John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
+647,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+648,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+649,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+650,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+651,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+652,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+653,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+654,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+655,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+656,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+657,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+658,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+659,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+660,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+661,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+662,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+663,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+664,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+665,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+666,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+667,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+668,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+669,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+670,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+671,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+672,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+673,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+674,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+675,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+676,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+677,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+678,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+679,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+680,SNP,skipped,skipped,skipped,skipped,skipped,skipped,,7
+681,SNP,Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,skipped,,7
+682,SNP,Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,skipped,,7
+683,SNP,Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,skipped,,7
+684,SNP,Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,skipped,,7
+685,SNP,Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,skipped,,7
+686,SNP,Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,skipped,,7
+687,SNP,Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,skipped,,7
+688,SNP,Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
+689,SNP,Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
+690,SNP,Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
+691,SNP,Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
+692,SNP,Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
+693,SNP,Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
+694,SNP,Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
+695,SNP,Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
+696,SNP,Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+697,SNP,Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+698,SNP,Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),skipped,skipped,,7
+699,SNP,Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
+700,SNP,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+701,SNP,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+702,SNP,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+703,SNP,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+704,SNP,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+705,SNP,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+706,SNP,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+707,SNP,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
+708,SNP,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
+709,SNP,Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),,7
+710,SNP,Zena STEWART (Ind),skipped,skipped,skipped,skipped,skipped,,7
+711,SNP,Zena STEWART (Ind),skipped,skipped,skipped,skipped,skipped,,7
+712,SNP,Zena STEWART (Ind),skipped,skipped,skipped,skipped,skipped,,7
+713,SNP,Zena STEWART (Ind),skipped,skipped,skipped,skipped,skipped,,7
+714,SNP,Zena STEWART (Ind),skipped,skipped,skipped,skipped,skipped,,7
+715,SNP,Zena STEWART (Ind),skipped,skipped,skipped,skipped,skipped,,7
+716,SNP,Zena STEWART (Ind),skipped,skipped,skipped,skipped,skipped,,7
+717,SNP,Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
+718,SNP,Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
+719,SNP,Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
+720,SNP,Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
+721,SNP,Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
+722,SNP,Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
+723,SNP,Zena STEWART (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),,7
+724,SNP,Zena STEWART (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),,7
+725,SNP,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+726,SNP,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+727,SNP,Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+728,SNP,Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
+729,SNP,Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
+730,SNP,Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
+731,SNP,Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
+732,SNP,Zena STEWART (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),,7
+733,SNP,Zena STEWART (Ind),Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,,7
+734,SNP,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+735,SNP,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+736,SNP,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+737,SNP,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+738,SNP,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),,7
+739,SNP,Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
+740,SNP,Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+741,SNP,Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+742,SNP,Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+743,SNP,Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+744,SNP,Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
+745,SNP,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
+746,SNP,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,,7
+747,SNP,Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
+748,SNP,Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
+749,SNP,Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
+750,SNP,Donald NICHOLSON (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
+751,SNP,Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+752,SNP,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,,7
+753,SNP,Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+754,SNP,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
+755,SNP,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
+756,SNP,NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),,7
+757,SNP,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
+758,SNP,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
+759,SNP,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),,7
+760,SNP,NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
+761,SNP,NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),,7
+762,SNP,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
+763,SNP,NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),,7
+764,SNP,Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
+765,SNP,Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
+766,SNP,Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
+767,SNP,Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
+768,SNP,Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
+769,SNP,Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
+770,SNP,Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
+771,SNP,Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
+772,SNP,Donald John MACSWEEN (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),,7
+773,SNP,Donald John MACSWEEN (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),,7
+774,SNP,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
+775,SNP,Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+776,SNP,ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
+777,SNP,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
+778,SNP,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
+779,SNP,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
+780,SNP,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
+781,SNP,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
+782,SNP,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
+783,SNP,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),,7
+784,SNP,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),,7
+785,SNP,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
+786,SNP,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
+787,SNP,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
 788,Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 789,Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 790,Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
@@ -812,48 +812,48 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 810,Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 811,Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 812,Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,skipped,,7
-813,Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),,7
-814,Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-815,Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-816,Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-817,Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
+813,Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),SNP,,7
+814,Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),SNP,skipped,skipped,skipped,skipped,,7
+815,Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),SNP,skipped,skipped,skipped,skipped,,7
+816,Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),SNP,skipped,skipped,skipped,skipped,,7
+817,Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),SNP,NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
 818,Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 819,Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 820,Donald John MACSWEEN (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 821,Donald John MACSWEEN (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 822,Donald John MACSWEEN (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,,7
-823,Donald John MACSWEEN (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,,7
+823,Donald John MACSWEEN (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),ALASDAIR MACLEOD (Ind),SNP,skipped,skipped,,7
 824,Donald John MACSWEEN (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 825,Donald John MACSWEEN (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 826,Donald John MACSWEEN (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
 827,Donald John MACSWEEN (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,,7
-828,Donald John MACSWEEN (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,,7
+828,Donald John MACSWEEN (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),SNP,skipped,skipped,skipped,,7
 829,Donald John MACSWEEN (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,,7
 830,Donald John MACSWEEN (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 831,Donald John MACSWEEN (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
-832,Donald John MACSWEEN (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),,7
-833,Donald John MACSWEEN (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),skipped,skipped,,7
-834,Donald John MACSWEEN (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-835,Donald John MACSWEEN (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
+832,Donald John MACSWEEN (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),SNP,,7
+833,Donald John MACSWEEN (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),SNP,Iain Don MACIVER (Ind),skipped,skipped,,7
+834,Donald John MACSWEEN (Ind),Zena STEWART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+835,Donald John MACSWEEN (Ind),Zena STEWART (Ind),SNP,skipped,skipped,skipped,skipped,,7
 836,Donald John MACSWEEN (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 837,Donald John MACSWEEN (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 838,Donald John MACSWEEN (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 839,Donald John MACSWEEN (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 840,Donald John MACSWEEN (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 841,Donald John MACSWEEN (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-842,Donald John MACSWEEN (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),,7
-843,Donald John MACSWEEN (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),,7
-844,Donald John MACSWEEN (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),,7
+842,Donald John MACSWEEN (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),SNP,NORMAN M MACLEOD (Ind),,7
+843,Donald John MACSWEEN (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),SNP,,7
+844,Donald John MACSWEEN (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),SNP,,7
 845,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 846,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 847,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 848,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 849,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 850,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
-851,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),,7
+851,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),SNP,,7
 852,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 853,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-854,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),,7
+854,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),SNP,,7
 855,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),skipped,,7
 856,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 857,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
@@ -879,9 +879,9 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 877,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,,7
 878,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,,7
 879,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,,7
-880,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),,7
-881,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-882,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
+880,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),SNP,,7
+881,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+882,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),SNP,skipped,skipped,skipped,skipped,,7
 883,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 884,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 885,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
@@ -897,8 +897,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 895,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 896,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 897,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-898,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),,7
-899,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),,7
+898,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),SNP,Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),,7
+899,Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),SNP,,7
 900,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 901,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 902,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
@@ -910,17 +910,17 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 908,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 909,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 910,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,,7
-911,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),,7
-912,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),,7
-913,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),skipped,skipped,,7
-914,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),,7
+911,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),ALASDAIR MACLEOD (Ind),SNP,Iain Don MACIVER (Ind),,7
+912,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),SNP,,7
+913,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),SNP,Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),skipped,skipped,,7
+914,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),SNP,Donald NICHOLSON (Ind),ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),,7
 915,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 916,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 917,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,,7
-918,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),,7
-919,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),,7
-920,Donald John MACSWEEN (Ind),John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
-921,Donald John MACSWEEN (Ind),John Norman Orica MACDONALD (SNP),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),,7
+918,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),SNP,,7
+919,Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),ALASDAIR MACLEOD (Ind),SNP,Zena STEWART (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),,7
+920,Donald John MACSWEEN (Ind),SNP,NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
+921,Donald John MACSWEEN (Ind),SNP,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),,7
 922,Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,7
 923,Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,7
 924,Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -952,7 +952,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 950,Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
 951,Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
 952,Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
-953,Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),,7
+953,Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),SNP,,7
 954,Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
 955,Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,,7
 956,Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
@@ -963,7 +963,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 961,Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
 962,Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
 963,Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,,7
-964,Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
+964,Donald John MACSWEEN (Ind),ALASDAIR MACLEOD (Ind),SNP,skipped,skipped,skipped,skipped,,7
 965,ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 966,ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
 967,ALASDAIR MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,skipped,,7
@@ -989,8 +989,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 987,ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 988,ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 989,ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
-990,ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-991,ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
+990,ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),SNP,skipped,skipped,skipped,skipped,,7
+991,ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),SNP,NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
 992,ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 993,ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 994,ALASDAIR MACLEOD (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
@@ -1009,10 +1009,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1007,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 1008,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
 1009,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
-1010,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),skipped,,7
+1010,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),SNP,Donald John MACSWEEN (Ind),skipped,,7
 1011,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
 1012,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
-1013,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,,7
+1013,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),SNP,skipped,skipped,skipped,,7
 1014,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,,7
 1015,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 1016,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
@@ -1022,8 +1022,8 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1020,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
 1021,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,,7
 1022,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),skipped,skipped,,7
-1023,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),John Norman Orica MACDONALD (SNP),,7
-1024,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),,7
+1023,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),SNP,,7
+1024,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),SNP,,7
 1025,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 1026,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 1027,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
@@ -1032,11 +1032,11 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1030,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 1031,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
 1032,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,,7
-1033,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-1034,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
+1033,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),SNP,skipped,skipped,skipped,skipped,,7
+1034,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),SNP,skipped,skipped,skipped,skipped,,7
 1035,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 1036,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
-1037,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),,7
+1037,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),SNP,Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),,7
 1038,ALASDAIR MACLEOD (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
 1039,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1040,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -1058,10 +1058,10 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1056,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 1057,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 1058,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),skipped,,7
-1059,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-1060,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
-1061,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
-1062,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,,7
+1059,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+1060,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),SNP,skipped,skipped,skipped,skipped,,7
+1061,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),SNP,Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
+1062,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),SNP,Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,,7
 1063,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 1064,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 1065,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
@@ -1072,14 +1072,14 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1070,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),skipped,,7
 1071,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,,7
 1072,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
-1073,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,,7
+1073,ALASDAIR MACLEOD (Ind),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),SNP,skipped,skipped,skipped,,7
 1074,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1075,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1076,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1077,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 1078,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
 1079,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
-1080,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,,7
+1080,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Iain Don MACIVER (Ind),Donald NICHOLSON (Ind),SNP,skipped,skipped,,7
 1081,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 1082,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 1083,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
@@ -1089,7 +1089,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1087,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 1088,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
 1089,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
-1090,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),,7
+1090,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),SNP,Donald NICHOLSON (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),,7
 1091,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,,7
 1092,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 1093,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
@@ -1107,7 +1107,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1105,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 1106,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 1107,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
-1108,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),,7
+1108,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),SNP,,7
 1109,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 1110,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 1111,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
@@ -1122,15 +1122,15 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1120,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 1121,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
 1122,ALASDAIR MACLEOD (Ind),NORMAN M MACLEOD (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
-1123,ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,skipped,,7
-1124,ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
-1125,ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
-1126,ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-1127,ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
-1128,ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
-1129,ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
-1130,ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
-1131,ALASDAIR MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
+1123,ALASDAIR MACLEOD (Ind),SNP,skipped,skipped,skipped,skipped,skipped,,7
+1124,ALASDAIR MACLEOD (Ind),SNP,Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
+1125,ALASDAIR MACLEOD (Ind),SNP,Iain Don MACIVER (Ind),skipped,skipped,skipped,skipped,,7
+1126,ALASDAIR MACLEOD (Ind),SNP,Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
+1127,ALASDAIR MACLEOD (Ind),SNP,Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
+1128,ALASDAIR MACLEOD (Ind),SNP,Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
+1129,ALASDAIR MACLEOD (Ind),SNP,Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
+1130,ALASDAIR MACLEOD (Ind),SNP,Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
+1131,ALASDAIR MACLEOD (Ind),SNP,Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,,7
 1132,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1133,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
 1134,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),skipped,skipped,skipped,skipped,skipped,,7
@@ -1153,7 +1153,7 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1151,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),skipped,skipped,skipped,skipped,,7
 1152,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),Iain Don MACIVER (Ind),skipped,skipped,skipped,,7
 1153,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,,7
-1154,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),John Norman Orica MACDONALD (SNP),,7
+1154,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),Donald NICHOLSON (Ind),Iain Don MACIVER (Ind),SNP,,7
 1155,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 1156,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 1157,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
@@ -1161,11 +1161,11 @@ voterId,rank1,rank2,rank3,rank4,rank5,rank6,rank7,numSeats,numCands
 1159,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),skipped,skipped,skipped,skipped,,7
 1160,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
 1161,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
-1162,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),John Norman Orica MACDONALD (SNP),Iain Don MACIVER (Ind),,7
+1162,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),Zena STEWART (Ind),NORMAN M MACLEOD (Ind),SNP,Iain Don MACIVER (Ind),,7
 1163,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),Donald NICHOLSON (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,,7
 1164,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 1165,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 1166,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),skipped,skipped,skipped,skipped,,7
 1167,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),skipped,skipped,skipped,,7
 1168,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),NORMAN M MACLEOD (Ind),Zena STEWART (Ind),Donald NICHOLSON (Ind),skipped,skipped,,7
-1169,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),John Norman Orica MACDONALD (SNP),skipped,skipped,skipped,skipped,,7
+1169,ALASDAIR MACLEOD (Ind),Donald John MACSWEEN (Ind),SNP,skipped,skipped,skipped,skipped,,7

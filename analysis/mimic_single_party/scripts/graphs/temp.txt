@@ -1,0 +1,32 @@
+def create_spoiler_graph(ax, data, title):
+    n = len(methods)
+    r = np.arange(n) 
+    width = 0.13
+
+    ax.bar(r + 0*width, list(scotland_original_data_spoiler.values()), color="midnightblue", width=width, label='original scotland')
+    ax.bar(r + 1*width, list(america_original_data_spoiler.values()), color="maroon", width=width, label='original america')
+    ax.bar(r + 2*width, list(australia_original_data_spoiler.values()), color="orange", width=width, label='original australia')
+    ax.bar(r + 3*width, list(data.values()), color="lightsteelblue", width=width, label='condensed')
+
+    ax.set_xlabel("Method")
+    ax.set_ylabel("Count")
+    ax.set_xticks(r + width/2)
+    ax.set_xticklabels(methods, rotation=40)
+    ax.set_title(title)
+    ax.legend()
+
+# Create a single figure with two subplots side by side
+fig, axs = plt.subplots(4, 2, figsize=(18, 20))  # 1 row, 2 columns
+
+# Plot on each axis
+create_spoiler_graph(axs[0,0], borda_data_spoiler, "Borda Score Spoiler")
+create_spoiler_graph(axs[1,0], mention_data_spoiler, "Mention Score Spoiler")
+create_spoiler_graph(axs[2,0], first_place_data_spoiler, "First Place Score Spoiler")
+create_spoiler_graph(axs[0,1], borda_tiebreaker_data_spoiler, "Borda Tiebreaker Spoiler")
+create_spoiler_graph(axs[1,1], mention_tiebreaker_data_spoiler, "Mention Tiebreaker Spoiler")
+create_spoiler_graph(axs[2,1], first_place_tiebreaker_data_spoiler, "First Place Tiebreaker Spoiler")
+create_spoiler_graph(axs[3,0], keep_first_data_spoiler, "Keep First Spoiler")
+create_spoiler_graph(axs[3,1], keep_last_data_spoiler, "Keep Last Spoiler")
+
+plt.tight_layout()
+plt.show()
