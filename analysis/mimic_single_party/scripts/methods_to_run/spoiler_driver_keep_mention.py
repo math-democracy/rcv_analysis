@@ -10,7 +10,7 @@ METHOD = 'mention'
 root = '/Users/student/Desktop/MyPythonCode/rcv_proposal'
 
 data_file = f'{root}/analysis/mimic_single_party/methods/tiebreaker/{METHOD}/spoiler/scotland_results.csv'
-root_dir = f'{root}/analysis/mimic_single_party/methods/tiebreaker/{METHOD}/processed_data'
+root_dir = f'{root}/analysis/mimic_single_party/condensed_elections/{METHOD}_tiebreaker/processed_data'
 
 error_file = f'{root}/analysis/mimic_single_party/methods/tiebreaker/{METHOD}/supporting_files/spoiler_scotland_error.txt'
 processed_file = f'{root}/analysis/mimic_single_party/methods/tiebreaker/{METHOD}/supporting_files/spoiler_scotland_processed.txt'
@@ -97,6 +97,7 @@ def process_file(full_path, filename):
         ef.write(f"'{filename}',\n")
 
 def main():
+    print('test')
     # loop through data files
     for dirpath, dirnames, filenames in os.walk(root_dir):
         for filename in filenames:

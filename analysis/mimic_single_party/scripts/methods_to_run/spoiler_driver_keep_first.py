@@ -10,7 +10,7 @@ METHOD = 'keep_first'
 root = '/Users/student/Desktop/MyPythonCode/rcv_proposal'
 
 data_file = f'{root}/analysis/mimic_single_party/methods/first_last_mentioned/{METHOD}/spoiler/scotland_results.csv'
-root_dir = f'{root}/analysis/mimic_single_party/methods/first_last_mentioned/{METHOD}/processed_data'
+root_dir = f'{root}/analysis/mimic_single_party/condensed_elections/{METHOD}_mentioned/processed_data'
 
 error_file = f'{root}/analysis/mimic_single_party/methods/first_last_mentioned/{METHOD}/supporting_files/spoiler_scotland_error.txt'
 processed_file = f'{root}/analysis/mimic_single_party/methods/first_last_mentioned/{METHOD}/supporting_files/spoiler_scotland_processed.txt'
@@ -80,7 +80,6 @@ def process_file(full_path, filename):
     print("DONE", "\n")
 
     with open(data_file, mode='a', newline='') as file:
-        print(data_file)
         writer = csv.writer(file)
 
         # write header if the file is empty
@@ -97,6 +96,7 @@ def process_file(full_path, filename):
         ef.write(f"'{filename}',\n")
 
 def main():
+    print('KEEP FIRST')
     # loop through data files
     for dirpath, dirnames, filenames in os.walk(root_dir):
         for filename in filenames:
