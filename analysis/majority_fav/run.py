@@ -24,23 +24,34 @@ def check_borda_winner(country):
     df = pd.read_csv(file)
     result = {}
 
+    methods = ['plurality','IRV','top-two','borda-pm','borda-om','borda-avg','top-3-truncation','condorcet','minimax','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','approval','smith']
+
     for _, row in df.iterrows():
         file = row['file']
-        borda_pm = ast.literal_eval(row['borda-pm'])
-        borda_om = ast.literal_eval(row['borda-om'])
-        borda_avg = ast.literal_eval(row['borda-avg'])
-
         majority_fav = get_majority_favourite(country, file)
+        res = {}
+        winners = ""
+        for m in methods:
+            r = ast.literal_eval(row[m])
+        # borda_pm = ast.literal_eval(row['borda-pm'])
+        # borda_om = ast.literal_eval(row['borda-om'])
+        # borda_avg = ast.literal_eval(row['borda-avg'])
+            res[m] = majority_fav in r
+
+            if majority_fav not in r:
+                if m == "ranked-pairs" or m == "top-two":
+                    winners += f"{m}-{r[0]}"
+                
+        
+        
+            
 
         if majority_fav == None:
             result[file] = None
         else:
-            result[file] = {
-                "borda_pm": majority_fav in borda_pm,
-                "borda_om": majority_fav in borda_om,
-                "borda_avg": majority_fav in borda_avg,
-                "results": row['borda-pm'] + row['borda-om'] + row['borda-avg'] + majority_fav
-            }
+            winners += majority_fav
+            res["winners"] = winners
+            result[file] = res
     return result
 
 def run_all():

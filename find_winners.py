@@ -79,8 +79,38 @@ def process_folder(folder_path, output_folder):
 
 #         await asyncio.gather(*tasks)
 
-if __name__ == "__main__":
-    base_folder = "/Users/belle/Desktop/build/rcv_proposal/raw_data/america/processed_data/New Mexico"
-    output_folder = "/Users/belle/Desktop/build/rcv_proposal/results/generated"
-    process_folder(base_folder, output_folder)
-    # asyncio.run(process_all_folders(base_folder, output_folder))
+# if __name__ == "__main__":
+#     base_folder = "/Users/belle/Desktop/build/rcv_proposal/raw_data/america/processed_data/New Mexico"
+#     output_folder = "/Users/belle/Desktop/build/rcv_proposal/results/generated"
+#     process_folder(base_folder, output_folder)
+#     # asyncio.run(process_all_folders(base_folder, output_folder))
+
+
+# folders = [
+#     "/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/Alameda County/Berkeley_11042014_CityAuditor.csv",
+# "/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/Alameda County/Oakland_11062018_SchoolDirectorDistrict2.csv",
+# "/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/Alameda County/Oakland_11082016_CityAttorney.csv",
+# "/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/Alameda County/SanLeandro_11082016_CountyCouncilDistrict4.csv",
+# "/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/Alameda County/SanLeandro_11082016_CountyCouncilDistrict6.csv",
+# "/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/San Francisco/SanFrancisco_11052024_Treasurer.csv",
+# "/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/San Francisco/SanFrancisco_11062018_PublicDefender.csv",
+# "/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/San Francisco/SanFrancisco_11082022_AssessorRecorder.csv",
+# "/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/San Francisco/SanFrancisco_11082022_BoardofSupervisorsD2.csv"
+# ]
+
+# all_data = []
+# for f in folders:
+#     data = process_csv(f)
+#     all_data.append(data)
+
+# keys = all_data[0].keys()
+
+# with open("output.csv", mode='w', newline='') as file:
+#     writer = csv.writer(file)
+#     writer.writerow(keys)
+#     for vote in all_data:
+#         row = [vote.get(key, '') for key in keys]
+#         writer.writerow(row)
+
+
+print(process_csv())

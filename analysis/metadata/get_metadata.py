@@ -12,7 +12,7 @@ import json
 root_dir = '/Users/belle/Desktop/build/rcv/raw_data/america/processed_data' # where the data is
 country = "america" # country of the dataset
 
-data_file = './metadata_america2.csv' # where you want to put the summary of each election
+data_file = './metadata_america3.csv' # where you want to put the summary of each election
 metadata_file = './metadata_america2.json' # where you want to put the overall statistics
 
 def process_files():
@@ -243,5 +243,5 @@ def write_to_data_file(data):
         row = [data.get(key, '') for key in keys]
         writer.writerow(row)
 
-# process_files()
-generate_data()
+process_files()
+# generate_data()
