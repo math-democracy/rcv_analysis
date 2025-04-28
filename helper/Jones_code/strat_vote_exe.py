@@ -45,13 +45,49 @@ from strat_vote_class import *
 ###############################################################################
 ###############################################################################
 ##### parameters
-election_group = 'scotland'
+election_group = 'america'
 vote_frac = 1
 mp_pool_size = 6
 ###############################################################################
 ###############################################################################
 
 
+american_ban_list = ['Easthampton_11022021_Mayor.csv',
+                     'Oakland_11042014_Mayor.csv',
+                     'Cambridge_11032009_CityCouncil.csv',
+                     'Cambridge_11032015_CityCouncil.csv',
+                     'Cambridge_11042003_CityCouncil.csv',
+                     'Cambridge_11052013_CityCouncil.csv',
+                     'Cambridge_11062001_CityCouncil.csv',
+                     'Cambridge_11062007_CityCouncil.csv',
+                     'Cambridge_11072017_CityCouncil.csv',
+                     'Cambridge_11072017_SchoolCommittee.csv',
+                     'Cambridge_11072023_CityCouncil.csv',
+                     'Cambridge_11082005_CityCouncil.csv',
+                     'Cambridge_11082011_CityCouncil.csv',
+                     'Cambridge_11152019_CityCouncil.csv',
+                     'Minneapolis_11022021_Mayor.csv',
+                     'Minneapolis_11052013_Mayor.csv',
+                     'Minneapolis_11072017_Mayor.csv',
+                     'NewYorkCity_06222021_DEMCouncilMember26thCouncilDistrict.csv',
+                     'PortlandOR_110524_Mayor.csv',
+                     'Portland_D1_2024.csv',
+                     'Portland_D2_2024.csv',
+                     'Portland_D3_2024.csv',
+                     'Portland_D4_2024.csv',
+                     'SanFrancisco_11022004_BoardofSupervisorsDistrict5.csv',
+                     'SanFrancisco_11022010_BoardofSupervisorsDistrict10.csv',
+                     'SanFrancisco_11062007_Mayor.csv',
+                     'SanFrancisco_11082011_Mayor.csv',
+                     'Berkeley_11042014_CityAuditor.csv',
+                     'Oakland_11062018_SchoolDirectorDistrict2.csv',
+                     'Oakland_11082016_CityAttorney.csv',
+                     'SanLeandro_11082016_CountyCouncilDistrict4.csv',
+                     'SanLeandro_11082016_CountyCouncilDistrict6.csv',
+                     'SanFrancisco_11052024_Treasurer.csv',
+                     'SanFrancisco_11062018_PublicDefender.csv',
+                     'SanFrancisco_11082022_AssessorRecorder.csv',
+                     'SanFrancisco_11082022_BoardofSupervisorsD2.csv']
 
 
 
@@ -101,6 +137,8 @@ def get_election_data(election_location, specific_lxn=-1, diagnostic=False):
             lxn_count += 1
             file_path = base_name+'/'+folder_name+'/'+file_name
             
+            if file_name in american_ban_list:
+                continue
             # print(file_path)
             
             if specific_lxn > 0:
