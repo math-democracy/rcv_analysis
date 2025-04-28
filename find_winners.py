@@ -22,7 +22,9 @@ def process_csv(full_path):
         data['borda-pm'] = list(mm.Borda_PM(v_profile, tiebreak="first_place"))
         data['borda-om'] = list(mm.Borda_OM(v_profile, tiebreak="first_place"))
         data['borda-avg'] = list(mm.Borda_AVG(v_profile, tiebreak="first_place"))
-        data['top-3-truncation'] = list(mm.Top3Truncation(prof=v_profile))
+        td = list(mm.Top3Truncation(prof=v_profile))
+        print(td)
+        data['top-3-truncation'] = td
         data['condorcet'] = list(mm.Condorcet(prof=v_profile))
         data['minimax'] = list(mm.Minimax(prof=v_profile))
         data['smith_plurality'] = list(mm.Smith_Plurality(prof=v_profile))
@@ -86,31 +88,31 @@ def process_folder(folder_path, output_folder):
 #     # asyncio.run(process_all_folders(base_folder, output_folder))
 
 
-# folders = [
-#     "/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/Alameda County/Berkeley_11042014_CityAuditor.csv",
-# "/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/Alameda County/Oakland_11062018_SchoolDirectorDistrict2.csv",
-# "/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/Alameda County/Oakland_11082016_CityAttorney.csv",
-# "/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/Alameda County/SanLeandro_11082016_CountyCouncilDistrict4.csv",
-# "/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/Alameda County/SanLeandro_11082016_CountyCouncilDistrict6.csv",
-# "/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/San Francisco/SanFrancisco_11052024_Treasurer.csv",
-# "/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/San Francisco/SanFrancisco_11062018_PublicDefender.csv",
-# "/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/San Francisco/SanFrancisco_11082022_AssessorRecorder.csv",
-# "/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/San Francisco/SanFrancisco_11082022_BoardofSupervisorsD2.csv"
-# ]
+folders = [
+    "/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/Alameda County/Berkeley_11042014_CityAuditor.csv",
+"/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/Alameda County/Oakland_11062018_SchoolDirectorDistrict2.csv",
+"/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/Alameda County/Oakland_11082016_CityAttorney.csv",
+"/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/Alameda County/SanLeandro_11082016_CountyCouncilDistrict4.csv",
+"/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/Alameda County/SanLeandro_11082016_CountyCouncilDistrict6.csv",
+"/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/San Francisco/SanFrancisco_11052024_Treasurer.csv",
+"/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/San Francisco/SanFrancisco_11062018_PublicDefender.csv",
+"/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/San Francisco/SanFrancisco_11082022_AssessorRecorder.csv",
+"/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/San Francisco/SanFrancisco_11082022_BoardofSupervisorsD2.csv"
+]
 
-# all_data = []
-# for f in folders:
-#     data = process_csv(f)
-#     all_data.append(data)
+all_data = []
+for f in folders:
+    data = process_csv(f)
+    all_data.append(data)
 
-# keys = all_data[0].keys()
+keys = all_data[0].keys()
 
-# with open("output.csv", mode='w', newline='') as file:
-#     writer = csv.writer(file)
-#     writer.writerow(keys)
-#     for vote in all_data:
-#         row = [vote.get(key, '') for key in keys]
-#         writer.writerow(row)
+with open("output.csv", mode='w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(keys)
+    for vote in all_data:
+        row = [vote.get(key, '') for key in keys]
+        writer.writerow(row)
 
 
-print(process_csv())
+# print(process_csv())

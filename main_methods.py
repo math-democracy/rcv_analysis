@@ -117,7 +117,7 @@ def TopTwo(
         cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
 
     if len(cands_to_keep)<2:
-        return set([None])
+        return set(cands_to_keep)
     else:
         prof = process_cands(prof, cands_to_keep)
     
@@ -323,7 +323,7 @@ def Top3Truncation(
     if len(prof.candidates)==0:
         return 'skipped'
     elif len(prof.candidates)==1:
-        return prof.candidates[0]
+        return set([prof.candidates[0]])
     
     if len(prof.candidates)==2:
         vector = [2,1]
@@ -633,7 +633,7 @@ def Ranked_Pairs(
             elected.add(c)
             break
     if len(cands_to_keep)<2:
-        return set([None])
+        return set(cands_to_keep)
     else:
         return elected
 
