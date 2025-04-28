@@ -457,6 +457,10 @@ def plurality_runoff(profile, cands, diagnostic=False):
     cands.sort(key=lambda cand: r1scores[cand], reverse = True)
     second_round_cands = cands[:2]
     
+    if r1scores[cands[1]] == r1scores[cands[2]]:
+        print('##### Plurality runoff tie #####')
+        return [cands[:3]]
+    
     if diagnostic:
         print(r1scores)
         print(second_round_cands)

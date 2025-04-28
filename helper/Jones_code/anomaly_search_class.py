@@ -15,6 +15,7 @@ import warnings
 import sys
 warnings.simplefilter(action='ignore', category=FutureWarning)
 import time
+from itertools import combinations
 
 from election_class import *
 from ballot_modifications_class import *
@@ -144,8 +145,8 @@ def frac_noShowBucklin(profile, num_cands, vote_frac, diagnostic=False):
         
         ## check if any candidate has higher score than winner
         for loser in losers:
-            # if scores[loser] > scores[winner]:
-            if scores[loser] == max(scores.values()):
+            if scores[loser] > scores[winner]:
+            # if scores[loser] == max(scores.values()):
                 new_profile = profile.copy(deep=True)
                 remove_ballots = []
                 remove_ballot_total = 0
@@ -550,8 +551,8 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
         if diagnostic:
             print(loser)
         
-        vote_counts={}
-        # vote_counts = {cand:0 for cand in cands}
+        # vote_counts={}
+        vote_counts = {cand:0 for cand in cands}
         for k in range(len(tempFrame)):
             if tempFrame.at[k,'ballot']!='':
                 if tempFrame.at[k,'ballot'][0] in vote_counts.keys():
@@ -730,755 +731,1001 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
 ###############################################################################
 ###############################################################################
 
-def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False): 
-    """inputs: dataframe of election, n= number of candidates, S= number of seats
-    runs election to find winners/losers/prefData before candidate eliminated, tempWinners,
-    then identifies and makes vote swaps to find 
-    upward monotonicity anomalies.  Returns if an anomaly exists, and how anomaly happens""" 
-    
+def frac_upMonoIRV(profile, num_cands, vote_frac, diagnostic=False): 
     cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
                   'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
                   'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
                   'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
     cands = cand_names[:num_cands]
-    n = num_cands
     
-    quota=math.floor(sum(frame['Count'])/(2))+1 #calculate quota   
-    winners, losers, elimFrames=IRV(frame, cands) #get election data from IRV
+    killer_subsets = []
+    winners, foo1, foo2 =IRV(profile, cands) #get election data from IRV
+    if len(winners)>1:
+        print('##### Multiple initial winners #####')
+        return []
     winner = winners[0]
-    #print("Original winners are ")
-    #print(winners)
-    # cand_List1=[]
-    # for k in range(len(frame)):
-    #     for i in range(len(frame.at[k,'ballot'])):
-    #         if frame.at[k,'ballot'][i] not in cand_List1:
-    #             cand_List1.append(frame.at[k,'ballot'][i])
-    # n = len(cand_List1)
-    
     if diagnostic:
         print(winners)
-        print(losers)
+        
+    ##### search for killer subsets
+    losers = cands.copy()
+    losers.remove(winner)
     
-    for i in range(len(losers)):
-    # for i in [losers.index('F')]:    
-        #function looks at real data before ith loser drops, 
-        # then searches for all possible anomalies at a given level<=n, right before each "loser" is 
-        # eliminated.  outputs if anomaly occurs, and if so, how...could also output other information
-#         print("")
-#         print("Results at the " +str(n-i)+"-candidate level:")
+    ## only eliminate in round of three or two
+    cand_subsets = list(combinations(losers, 2))
+    for loser in losers:
+        cand_subsets.append((loser))
+    
+    ## try all possible rounds
+    # cand_subsets = []
+    # for i in range(2, num_cands-1):
+    #     cand_subsets+=list(combinations(losers,i))
+    
+    ## test if each subset could eliminate winner
+    for cand_tuple in cand_subsets:
+        subset = list(cand_tuple)
+        subset.append(winner)
         
-        tempFrame = elimFrames[i].copy(deep=True) #actual data before ith cand is removed 
-        if diagnostic:
-            print(tempFrame)
-        #tempWinners = copy.deepcopy(winners_dict[i])
-        #remainingWinners = copy.deepcopy(winners) #put in all winners
-        #for y in range(len(tempWinners)):
-         #   remainingWinners.remove(tempWinners[y]) #remove people who already got seats
-        # remainingWinners are the future winners who are still in the election
-        loser = losers[i]
-        removed_cands = losers[:i]
-        # vote_counts={}
-        vote_counts = {cand: 0 for cand in cands}
-        for k in range(len(tempFrame)):
-            if tempFrame.at[k,'ballot']!='':
-                if tempFrame.at[k,'ballot'][0] in vote_counts.keys():
-                    vote_counts[tempFrame.at[k,'ballot'][0]]+=tempFrame.iloc[k]['Count']
-                else:
-                    vote_counts[tempFrame.at[k,'ballot'][0]]=tempFrame.iloc[k]['Count']
-#         print("")
-#         print("Out of " + str(n) + " candidates, results at the " +str(len(vote_counts))+"-candidate level for Elimination Order anomaly:")
-        
-#         print(vote_counts)
-        quota_gap = {} #track how many votes candidates need to get quota
-        
-        quota_gap[winner]=quota-vote_counts[winner]   
-        loser_gap ={} #gap in votes between a candidate and the losing candidate
-        for x in range(len(vote_counts)):
-            loser_gap[list(vote_counts.keys())[x]]=vote_counts[list(vote_counts.keys())[x]]-vote_counts[loser]                                                                           
-                   
-        if diagnostic:
-            print(loser)
-            print(vote_counts)  
-            print(quota_gap)
-            print(loser_gap)
-        
-        if quota_gap[winner] < 0:
-            print("No anomaly for " + str(winner) + ".  Meets quota at " + str(n-i) + "-candidate level." +
-                  " NOTE: THIS SHOULD NOT EVER HAPPEN.  IF YOU SEE THIS THEN THERE IS A MISTAKE")
-        else:
-            checkables = list(vote_counts.keys()) #list of all candidates
-            checkables.remove(winner) #remove winner from checkables
-            checkables.remove(loser)#remove loser/next eliminated candidate from checkables 
-            if diagnostic:
-                print(checkables)
+        scores = {cand: 0 for cand in subset}
+        for k in range(len(profile)):
+            ballot = profile.at[k, 'ballot']
+            for c in ballot: 
+                if c in subset:
+                    scores[c]+=profile.at[k, 'Count']
+                    break
             
-            #we now try to modify C_k...W_j ballots to change dropout order, see if it changes overall result 
-            for k in range(len(checkables)): #choose the kth checkable = C_k
-            # for k in [2]:
-                gap = loser_gap[checkables[k]]
-                if diagnostic:
-                    print(checkables[k])
-                    # print(gap)
-                
-                if gap > quota_gap[winner]:
-                    pass
-#                         print("No anomaly for " + winner + " with " + checkables[k] + " under " + loser + 
-#                         " at the "+ str(n-i) + "-candidate level. " + winner + 
-#                               " meets quota before change in dropout order." )   
-                else: #check for 1-rankings first, most likely to cause anomaly
-                    tempFrame1 = tempFrame.copy(deep=True)
-                    modified_ballot_list = [removed_cands]
-                    modifiableVotes1 = 0 #modifiableVotes_kj1 = sum of all ballots that start with C_k W_j
-                    for z in range(len(tempFrame1)):
-                        currentBallot = tempFrame1.at[z,'ballot']
-                        try:
-                            currentBallot[1]
-                        except: 
-                            continue
-                        else:
-                            if currentBallot[0]==checkables[k] and currentBallot[1]==winner:
-                                modifiableVotes1 += int(tempFrame1.at[z,'Count']*vote_frac)
-                    if modifiableVotes1 > gap: #if so, can change dropout order just by modifying these ballots
-                        check = copy.deepcopy(gap)
+        # if scores[winner] == min(scores.values()) and min(scores.values())!=max(scores.values()):
+        if scores[winner] == min(scores.values()) and list(scores.values()).count(scores[winner])==1:
+            # print(lxn + ' : ', winner, subset)
+            # print(subset)
+            # killer_subset_count += 1
+            # break
+            killer_subsets.append([subset, scores])
 
-                        for z in range(len(tempFrame1)):
-                            if check>=0:
-                                currentBallot = tempFrame1.at[z,'ballot']
-                                count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                try:
-                                    currentBallot[1]
-                                except: 
-                                    continue
-                                else:
-                                    if currentBallot[0]==checkables[k] and currentBallot[1]==winner:
-                                        if check - count>=0: #modify all such ballots
-                                            #print("Ballot modified is " + tempFrame1.at[z,'ballot'] + " at line "+ str(z))
-                                            newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                            modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                            # tempFrame1.at[z,'ballot'] = newBallot
-                                            tempFrame1.at[z, 'Count'] -= count
-                                            tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                            #print("Ballot modified to " + tempFrame1.at[z,'ballot'])
-                                            check = check - count
-                                            #print("check is now " +str(check))
-                                        else: #modify only check+1 such ballots
-                                            #print("Ballot modified is " + tempFrame1.at[z,'ballot'] + " at line "+ str(z))
-                                            tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)
-                                            #now add new line to frame with modified ballot
-                                            newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                            modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
-                                            tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
-                                            check = -1
-                                    else:
-                                        pass
-                        # Run STV election on modifed election.  Check to see if W_j is in new winners list
-                        # if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate level.
-                        # votes modified to 1 ranking"
-                        win1, foo1, foo2 = IRV(tempFrame1, cands)
-                        if len(win1)>1:
-                            print('##### Multiple winners #####')
-                            continue
-                        if winner in win1:
-                            pass
-#                                 print("No anomaly for " + winner + " with " + checkables[k] + " under " + loser + 
-#                                 " at the "+ str(n-i) + "-candidate level. " + winner + 
-#                                   " still wins after change in dropout order." )
-                        else:
-                            modifiedNum = gap - check
-#                             data1.write("upward MONOTONICITY ANOMALY for " + winner + " with " + checkables[k] + " under " + loser + 
-#                                                         " at the "+ str(n-i) + "-candidate level for election " + str(filename))
-                            if diagnostic:
-                                print("MONOTONICITY ANOMALY for " + winner + " with " + checkables[k] + " under " + loser + 
-                                " at the "+ str(n-i) + "-candidate level!!!! Modifying " + str(modifiedNum) +" "+checkables[k]+ winner+"_"  
-                                  " to " +  winner +checkables[k]+ "_ makes " + winner + " lose their seat.")
-    #                             data1.write("Original winners were " + str(remainingWinners))
-    #                             data1.write("New winners are " + str(win1))
-    #                             data1.write('Modified election is')
-    #                             data1.write("\n")
-    #                             display(tempFrame1)
-                            return [winner, win1[0], modified_ballot_list]
 
-                    #if C_k W_j ballots were not enough to make up gap, modify all of them and try next mod
-                    else:
-                            # modify all modifiableVotes C_k W_j votes in reduced_df to become W_j C_k 
-                        for z in range(len(tempFrame1)):
-                            currentBallot = tempFrame1.at[z,'ballot']
-                            count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                            try:
-                                currentBallot[1]
-                            except: 
-                                continue
-                            else:
-                                if currentBallot[0]==checkables[k] and currentBallot[1]==winner:
-                                    newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                    modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                    # tempFrame1.at[z,'ballot'] = newBallot
-                                    tempFrame1.at[z, 'Count'] -= count
-                                    tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                    gap = gap - count
+    ##### try to manipulate votes so everyone not in killer subset is removed first
+    for ks in killer_subsets:
+        subset, scores = ks
+        if diagnostic:
+            print(f'##### {subset}')
+        killers = subset.copy()
+        killers.remove(winner)
+        win_gap = min([scores[cand]-scores[winner] for cand in killers])-1
+        
+        new_profile = profile.copy(deep = True)
+        for k in range(len(new_profile)):
+            ballot = new_profile.at[k, 'ballot']
+            ## if winner is not ranked, don't move up
+            if winner not in ballot:
+                pass
+                # killer = ''
+                # for cand in reversed(ballot):
+                #     if cand in killers:
+                #         killer = cand
+                #         break
+                # if killer:
+                #     prekiller, postkiller = ballot.split(killer)
+                #     mod_ballot = prekiller + killer + winner+ postkiller
+                #     # print(winner, killers, ballot, mod_ballot)
+                #     new_profile.at[k, 'ballot'] = mod_ballot
+                # else:
+                #     mod_ballot = winner + ballot
+                #     # print(winner, killers, ballot, mod_ballot)
+                #     new_profile.at[k, 'ballot'] = mod_ballot
+            
+            ## if winner is ranked, move them up until they are right behind someone in the killer subset
+            else:
+                cands_ahead, cands_behind = ballot.split(winner)
+                killer = ''
+                winner_indx = 0
+                for cand in reversed(cands_ahead):
+                    if cand in killers:
+                        winner_indx = ballot.index(cand)+1
+                        killer = cand
+                        break
+                if killer:
+                    prekiller, postkiller = cands_ahead.split(killer)
+                    mod_ballot = prekiller + killer + winner+ postkiller + cands_behind
+                    # print(winner, killers, ballot, mod_ballot)
+                    new_profile.at[k, 'ballot'] = mod_ballot
+                else:
+                    mod_ballot = winner + cands_ahead + cands_behind
+                    # print(winner, killers, ballot, mod_ballot)
+                    new_profile.at[k, 'ballot'] = mod_ballot
+    
+        ## run new election, see if winner loses
+        new_winners, foo1, foo2 = IRV(new_profile, cands)
+        if len(new_winners)>1:
+            print('##### Multiple new winners #####')
+            # return []
+        new_win = new_winners[0]
+        
+        if new_win != winner:
+            return [winner, new_win, []]
+            # anomaly_list.append(lxn)
+            # print('Anomaly in ' + lxn)
+            break
+        
+        
+        # breakhere
+        
+        ##### try changing bullet votes
+        quota=math.floor(sum(new_profile['Count'])/(2))+1
+        hopefuls = cands.copy()
+        
+        vote_counts = {cand: 0 for cand in hopefuls}
+        for k in range(len(new_profile)):
+            vote_counts[new_profile.at[k, 'ballot'][0]] += new_profile.at[k, 'Count'] 
+        
+        if max(vote_counts.values())>quota:
+            new_win = [cand for cand in hopefuls if vote_counts[cand] == max(vote_counts.values())][0]
+            win_found = True
+            if new_win != winner:
+                return [winner, new_win, []]
+                # anomaly_list.append(lxn)
+                # print('Anomaly in ' + lxn)
+        else:
+            win_found = False
+            
+        while not win_found:
+            if diagnostic:
+                print(hopefuls)
+                print(vote_counts, win_gap)
+            
+            if max(vote_counts.values())>quota:
+                new_win = [cand for cand in hopefuls if vote_counts[cand] == max(vote_counts.values())][0]
+                win_found = True
+                if new_win != winner:
+                    return [winner, new_win, []]
+                    # anomaly_list.append(lxn)
+                    # print('Anomaly in ' + lxn)
+                break
+            
+            min_count=min(i for i in vote_counts.values() if i>=0)
+            # min_count=min(i for i in vote_counts.values() if i>0)
+            count=0
+            for votes in vote_counts:
+                if votes==min_count:
+                    count+=1
+            if count>1:
+                print("Tie in candidate to remove")
+                new_winners = ''
+                win_found = True
+                break
 
-                        #CHECK THE 2-RANKINGS 
-                        # modifiableVotes_kj2 = sum of all ballots that start with C_k ___ W_j  ##that is, 
-                            # ballots with C_k in first, W_j in third, anything else in second
-                        modifiableVotes2 = 0 #modifiableVotes2 = sum of all ballots that start with C_k ___ W_j
-                        for z in range(len(tempFrame1)):
-                            currentBallot = tempFrame1.at[z,'ballot']
-                            count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                            try:
-                                currentBallot[2]
-                            except: 
-                                continue
-                            else:
-                                if currentBallot[0]==checkables[k] and currentBallot[2]==winner:
-                                    modifiableVotes2 += count
-                                    # if diagnostic:
-                                    #     print(currentBallot)
+            elim_cand = list(vote_counts.keys())[list(vote_counts.values()).index(min_count)] #took str() away
+            
+            ## safe to remove candidate
+            if elim_cand not in subset:
+                # red_frame = new_profile.copy(deep = True)
+                for k in range(len(new_profile)):
+                    ballot = new_profile.at[k, 'ballot']
+                    if elim_cand in ballot:
+                        new_profile.at[k, 'ballot'] = new_profile.at[k, 'ballot'].replace(elim_cand, '')
                         
-                        # if diagnostic:
-                        #     print(modifiableVotes2)
-                        if modifiableVotes2 > gap:  # modify gap of the C_k __ W_j votes in modified_df_kj1 to become 
-                                                    # W_j C_k ___ votes.
-
-                            check = copy.deepcopy(gap)
-                            for z in range(len(tempFrame1)): #tempFrame in place of reduceFrame(frame,losers)[i]
-                                if check>=0:
-                                    currentBallot = tempFrame1.at[z,'ballot']
-                                    count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                    try:
-                                        currentBallot[2]
-                                    except: 
-                                        continue
-                                    else:
-                                        if currentBallot[0]==checkables[k] and currentBallot[2]==winner:
-                                            if check - count>=0: #modify all such ballots
-                                                newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                # tempFrame1.at[z,'ballot'] = newBallot
-                                                tempFrame1.at[z, 'Count'] -= count
-                                                tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                check = check - count
-
-                                            else: #modify only check+1 such ballots
-                                                #take check+1 ballots from current ballot
-                                                tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
-                                                #make new ballot with winner moved up, add line to election frame with check+1 as count
-                                                newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
-                                                tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
-                                                check = -1
-                                        else:
-                                            pass
-                            
-                            # if diagnostic:
-                            #     print(tempFrame1)
-                            # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
-                            # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
-                            # level. votes modified to 2 rankings"
-                            win1, foo1, foo2 = IRV(tempFrame1, cands)
-                            if len(win1)>1:
-                                print('##### Multiple winners #####')
-                                continue
-                            if diagnostic:
-                                print(modified_ballot_list)
-                            if winner in win1:
-                                pass
-
+                for k in range(len(new_profile)):
+                    if new_profile.at[k, 'ballot'] == '':
+                        new_profile.drop(k)
+                
+                hopefuls.remove(elim_cand)
+                if diagnostic:
+                    print('Eliminated ' + elim_cand)
+                
+                
+                        
+            ## its over, old winner is eliminated
+            elif elim_cand == winner:
+                win_found = True
+                return [winner, new_win, []]
+                # anomaly_list.append(lxn)
+                # print('Anomaly in ' + lxn)
+                break
+                
+            ## need to try changing outcome by changing bullet votes
+            elif elim_cand in killers:
+                need_lose_score = min([vote_counts[cand] for cand in hopefuls if cand not in subset])
+                for need_lose in hopefuls:
+                    if vote_counts[need_lose] == need_lose_score:
+                        break
+                
+                if vote_counts[need_lose] - vote_counts[elim_cand] + 1 > win_gap:
+                    ## cant change enough votes without ruining killer subset
+                    win_found = True
+                    break
+                else:
+                    need_to_change = vote_counts[need_lose] - vote_counts[elim_cand] + 1
+                    for k in range(len(new_profile)):
+                        if new_profile.at[k, 'ballot'] == need_lose:
+                            if new_profile.at[k, 'Count'] <= need_to_change:
+                                new_profile.at[k, 'ballot'] = winner + need_lose
+                                need_to_change -= new_profile.at[k, 'Count']
+                                win_gap -= new_profile.at[k, 'Count']
                             else:
-                                modifiedNum = gap - check
-                                if diagnostic:
-                                    print("MONOTONICITY ANOMALY for " + winner + " with " + checkables[k] + " under " + loser + 
-                                    " at the "+ str(n-i) + "-candidate level!!!! Modifying " + str(modifiedNum) +" "+checkables[k]+ winner+"_"  
-                                      " to " +  winner +checkables[k]+ "_ makes " + winner + " lose their seat.")
-                                    print(tempFrame1)
-                                return [winner, win1[0], modified_ballot_list]
+                                new_profile.at[k, 'Count'] -= need_to_change
+                                new_profile = pd.concat([new_profile, pd.DataFrame({'ballot': [winner+need_lose], 'Count': [need_to_change]})], ignore_index=True)
+                                win_gap -= need_to_change
+                                need_to_change = 0
+                    
+                    if need_to_change > 0:
+                        ## not enough ballots to change
+                        print('###########################################')
+                        print('There were not enough ballots to change')
+                        # print(lxn)
+                        win_found = True
+                        break
+                if diagnostic:  
+                    print('Lowered score for ' + need_lose)
+                                
+            ##this should not happen
+            else:
+                print('ERROR!!!!!!!!!!!!!!!!!!')
+        
+            
+            vote_counts={cand:0 for cand in hopefuls}
+            for k in range(len(new_profile)):
+                if new_profile.at[k,'ballot']!='':
+                    if new_profile.at[k,'ballot'][0] in vote_counts.keys():
+                        vote_counts[new_profile.at[k,'ballot'][0]]+=new_profile.iloc[k]['Count']
+                    else:
+                        vote_counts[new_profile.at[k,'ballot'][0]]=new_profile.iloc[k]['Count']
+        
+        
+        
 
-                        else: 
-                            # modify all modifiableVotes C ___  W votes in reduced_df to become W_j C_k ___
-                            for z in range(len(tempFrame1)):
-                                currentBallot = tempFrame1.at[z,'ballot']
-                                count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                try:
-                                    currentBallot[2]
-                                except: 
-                                    continue
-                                else:
-                                    if currentBallot[0]==checkables[k] and currentBallot[2]==winner:
-                                        newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                        modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                        # tempFrame1.at[z,'ballot'] = newBallot
-                                        tempFrame1.at[z, 'Count'] -= count
-                                        tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                        gap = gap - count
+###############################################################################
+###############################################################################
 
-                            #CHECK THE 3-RANKINGS
-                            # modifiableVotes3 = sum of all ballots that start with C_k ___ __ W_j  ##that is, 
-                                # ballots with C_k in first, W_j in fourth, anything else in between
-                            modifiableVotes3 = 0 
-                            for z in range(len(tempFrame1)):
-                                currentBallot = tempFrame1.at[z,'ballot']
-                                count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                try:
-                                    currentBallot[3]
-                                except: 
-                                    continue
-                                else:
-                                    if currentBallot[0]==checkables[k] and currentBallot[3]==winner:
-                                        modifiableVotes3 += count
+# def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False): 
+#     """inputs: dataframe of election, n= number of candidates, S= number of seats
+#     runs election to find winners/losers/prefData before candidate eliminated, tempWinners,
+#     then identifies and makes vote swaps to find 
+#     upward monotonicity anomalies.  Returns if an anomaly exists, and how anomaly happens""" 
+    
+#     cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+#                   'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
+#                   'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
+#                   'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+#     cands = cand_names[:num_cands]
+#     n = num_cands
+    
+#     quota=math.floor(sum(frame['Count'])/(2))+1 #calculate quota   
+#     winners, losers, elimFrames=IRV(frame, cands) #get election data from IRV
+#     winner = winners[0]
+#     #print("Original winners are ")
+#     #print(winners)
+#     # cand_List1=[]
+#     # for k in range(len(frame)):
+#     #     for i in range(len(frame.at[k,'ballot'])):
+#     #         if frame.at[k,'ballot'][i] not in cand_List1:
+#     #             cand_List1.append(frame.at[k,'ballot'][i])
+#     # n = len(cand_List1)
+    
+#     if diagnostic:
+#         print(winners)
+#         print(losers)
+    
+#     for i in range(len(losers)):
+#     # for i in [losers.index('F')]:    
+#         #function looks at real data before ith loser drops, 
+#         # then searches for all possible anomalies at a given level<=n, right before each "loser" is 
+#         # eliminated.  outputs if anomaly occurs, and if so, how...could also output other information
+# #         print("")
+# #         print("Results at the " +str(n-i)+"-candidate level:")
+        
+#         tempFrame = elimFrames[i].copy(deep=True) #actual data before ith cand is removed 
+#         if diagnostic:
+#             print(tempFrame)
+#         #tempWinners = copy.deepcopy(winners_dict[i])
+#         #remainingWinners = copy.deepcopy(winners) #put in all winners
+#         #for y in range(len(tempWinners)):
+#          #   remainingWinners.remove(tempWinners[y]) #remove people who already got seats
+#         # remainingWinners are the future winners who are still in the election
+#         loser = losers[i]
+#         removed_cands = losers[:i]
+#         # vote_counts={}
+#         vote_counts = {cand: 0 for cand in cands}
+#         for k in range(len(tempFrame)):
+#             if tempFrame.at[k,'ballot']!='':
+#                 if tempFrame.at[k,'ballot'][0] in vote_counts.keys():
+#                     vote_counts[tempFrame.at[k,'ballot'][0]]+=tempFrame.iloc[k]['Count']
+#                 else:
+#                     vote_counts[tempFrame.at[k,'ballot'][0]]=tempFrame.iloc[k]['Count']
+# #         print("")
+# #         print("Out of " + str(n) + " candidates, results at the " +str(len(vote_counts))+"-candidate level for Elimination Order anomaly:")
+        
+# #         print(vote_counts)
+#         quota_gap = {} #track how many votes candidates need to get quota
+        
+#         quota_gap[winner]=quota-vote_counts[winner]   
+#         loser_gap ={} #gap in votes between a candidate and the losing candidate
+#         for x in range(len(vote_counts)):
+#             loser_gap[list(vote_counts.keys())[x]]=vote_counts[list(vote_counts.keys())[x]]-vote_counts[loser]                                                                           
+                   
+#         if diagnostic:
+#             print(loser)
+#             print(vote_counts)  
+#             print(quota_gap)
+#             print(loser_gap)
+        
+#         if quota_gap[winner] < 0:
+#             print("No anomaly for " + str(winner) + ".  Meets quota at " + str(n-i) + "-candidate level." +
+#                   " NOTE: THIS SHOULD NOT EVER HAPPEN.  IF YOU SEE THIS THEN THERE IS A MISTAKE")
+#         else:
+#             checkables = list(vote_counts.keys()) #list of all candidates
+#             checkables.remove(winner) #remove winner from checkables
+#             checkables.remove(loser)#remove loser/next eliminated candidate from checkables 
+#             if diagnostic:
+#                 print(checkables)
+            
+#             #we now try to modify C_k...W_j ballots to change dropout order, see if it changes overall result 
+#             for k in range(len(checkables)): #choose the kth checkable = C_k
+#             # for k in [2]:
+#                 gap = loser_gap[checkables[k]]
+#                 if diagnostic:
+#                     print(checkables[k])
+#                     # print(gap)
+                
+#                 if gap > quota_gap[winner]:
+#                     pass
+# #                         print("No anomaly for " + winner + " with " + checkables[k] + " under " + loser + 
+# #                         " at the "+ str(n-i) + "-candidate level. " + winner + 
+# #                               " meets quota before change in dropout order." )   
+#                 else: #check for 1-rankings first, most likely to cause anomaly
+#                     tempFrame1 = tempFrame.copy(deep=True)
+#                     modified_ballot_list = [removed_cands]
+#                     modifiableVotes1 = 0 #modifiableVotes_kj1 = sum of all ballots that start with C_k W_j
+#                     for z in range(len(tempFrame1)):
+#                         currentBallot = tempFrame1.at[z,'ballot']
+#                         try:
+#                             currentBallot[1]
+#                         except: 
+#                             continue
+#                         else:
+#                             if currentBallot[0]==checkables[k] and currentBallot[1]==winner:
+#                                 modifiableVotes1 += int(tempFrame1.at[z,'Count']*vote_frac)
+#                     if modifiableVotes1 > gap: #if so, can change dropout order just by modifying these ballots
+#                         check = copy.deepcopy(gap)
 
-                            if modifiableVotes3 > gap:  # modify gap of the C_k __ W_j votes in modified_df_kj1 to become 
-                                                        # W_j C_k ___ votes.
+#                         for z in range(len(tempFrame1)):
+#                             if check>=0:
+#                                 currentBallot = tempFrame1.at[z,'ballot']
+#                                 count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                 try:
+#                                     currentBallot[1]
+#                                 except: 
+#                                     continue
+#                                 else:
+#                                     if currentBallot[0]==checkables[k] and currentBallot[1]==winner:
+#                                         if check - count>=0: #modify all such ballots
+#                                             #print("Ballot modified is " + tempFrame1.at[z,'ballot'] + " at line "+ str(z))
+#                                             newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                             modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
+#                                             # tempFrame1.at[z,'ballot'] = newBallot
+#                                             tempFrame1.at[z, 'Count'] -= count
+#                                             tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
+#                                             #print("Ballot modified to " + tempFrame1.at[z,'ballot'])
+#                                             check = check - count
+#                                             #print("check is now " +str(check))
+#                                         else: #modify only check+1 such ballots
+#                                             #print("Ballot modified is " + tempFrame1.at[z,'ballot'] + " at line "+ str(z))
+#                                             tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)
+#                                             #now add new line to frame with modified ballot
+#                                             newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                             modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
+#                                             tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
+#                                             check = -1
+#                                     else:
+#                                         pass
+#                         # Run STV election on modifed election.  Check to see if W_j is in new winners list
+#                         # if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate level.
+#                         # votes modified to 1 ranking"
+#                         win1, foo1, foo2 = IRV(tempFrame1, cands)
+#                         if len(win1)>1:
+#                             print('##### Multiple winners #####')
+#                             continue
+#                         if winner in win1:
+#                             pass
+# #                                 print("No anomaly for " + winner + " with " + checkables[k] + " under " + loser + 
+# #                                 " at the "+ str(n-i) + "-candidate level. " + winner + 
+# #                                   " still wins after change in dropout order." )
+#                         else:
+#                             modifiedNum = gap - check
+# #                             data1.write("upward MONOTONICITY ANOMALY for " + winner + " with " + checkables[k] + " under " + loser + 
+# #                                                         " at the "+ str(n-i) + "-candidate level for election " + str(filename))
+#                             if diagnostic:
+#                                 print("MONOTONICITY ANOMALY for " + winner + " with " + checkables[k] + " under " + loser + 
+#                                 " at the "+ str(n-i) + "-candidate level!!!! Modifying " + str(modifiedNum) +" "+checkables[k]+ winner+"_"  
+#                                   " to " +  winner +checkables[k]+ "_ makes " + winner + " lose their seat.")
+#     #                             data1.write("Original winners were " + str(remainingWinners))
+#     #                             data1.write("New winners are " + str(win1))
+#     #                             data1.write('Modified election is')
+#     #                             data1.write("\n")
+#     #                             display(tempFrame1)
+#                             return [winner, win1[0], modified_ballot_list]
 
-                                check = copy.deepcopy(gap)
-                                for z in range(len(tempFrame1)): 
-                                    if check>=0:
-                                        currentBallot = tempFrame1.at[z,'ballot']
-                                        count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                        try:
-                                            currentBallot[3]
-                                        except: 
-                                            continue
-                                        else:
-                                            if currentBallot[0]==checkables[k] and currentBallot[3]==winner:
-                                                if check - count>=0: #modify all such ballots
-                                                    newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                    modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                    # tempFrame1.at[z,'ballot'] = newBallot
-                                                    tempFrame1.at[z, 'Count'] -= count
-                                                    tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                    check = check - count
+#                     #if C_k W_j ballots were not enough to make up gap, modify all of them and try next mod
+#                     else:
+#                             # modify all modifiableVotes C_k W_j votes in reduced_df to become W_j C_k 
+#                         for z in range(len(tempFrame1)):
+#                             currentBallot = tempFrame1.at[z,'ballot']
+#                             count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                             try:
+#                                 currentBallot[1]
+#                             except: 
+#                                 continue
+#                             else:
+#                                 if currentBallot[0]==checkables[k] and currentBallot[1]==winner:
+#                                     newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                     modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
+#                                     # tempFrame1.at[z,'ballot'] = newBallot
+#                                     tempFrame1.at[z, 'Count'] -= count
+#                                     tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
+#                                     gap = gap - count
 
-                                                else: #modify only check+1 such ballots
-                                                    #take check+1 ballots from current ballot
-                                                    tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
-                                                    #make new ballot with winner moved up, add line to election frame with check+1 as count
-                                                    newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                    modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
-                                                    tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
-                                                    check = -1
-                                            else:
-                                                pass
+#                         #CHECK THE 2-RANKINGS 
+#                         # modifiableVotes_kj2 = sum of all ballots that start with C_k ___ W_j  ##that is, 
+#                             # ballots with C_k in first, W_j in third, anything else in second
+#                         modifiableVotes2 = 0 #modifiableVotes2 = sum of all ballots that start with C_k ___ W_j
+#                         for z in range(len(tempFrame1)):
+#                             currentBallot = tempFrame1.at[z,'ballot']
+#                             count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                             try:
+#                                 currentBallot[2]
+#                             except: 
+#                                 continue
+#                             else:
+#                                 if currentBallot[0]==checkables[k] and currentBallot[2]==winner:
+#                                     modifiableVotes2 += count
+#                                     # if diagnostic:
+#                                     #     print(currentBallot)
+                        
+#                         # if diagnostic:
+#                         #     print(modifiableVotes2)
+#                         if modifiableVotes2 > gap:  # modify gap of the C_k __ W_j votes in modified_df_kj1 to become 
+#                                                     # W_j C_k ___ votes.
 
-                                # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
-                                # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
-                                # level. votes modified to 2 rankings"
-                                win1, foo1, foo2 = IRV(tempFrame1, cands)
-                                if len(win1)>1:
-                                    print('##### Multiple winners #####')
-                                    continue
-                                if winner in win1:
-                                    pass
-                                else:
-                                    modifiedNum = gap - check
-                                    if diagnostic:
-                                        print("MONOTONICITY ANOMALY for " + winner + " with " + checkables[k] + " under " + loser + 
-                                        " at the "+ str(n-i) + "-candidate level!!!! Modifying " + str(modifiedNum) +" "+checkables[k]+ winner+"_"  
-                                          " to " +  winner +checkables[k]+ "_ makes " + winner + " lose their seat.")
-                                    return [winner, win1[0], modified_ballot_list]
+#                             check = copy.deepcopy(gap)
+#                             for z in range(len(tempFrame1)): #tempFrame in place of reduceFrame(frame,losers)[i]
+#                                 if check>=0:
+#                                     currentBallot = tempFrame1.at[z,'ballot']
+#                                     count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                     try:
+#                                         currentBallot[2]
+#                                     except: 
+#                                         continue
+#                                     else:
+#                                         if currentBallot[0]==checkables[k] and currentBallot[2]==winner:
+#                                             if check - count>=0: #modify all such ballots
+#                                                 newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                                 modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
+#                                                 # tempFrame1.at[z,'ballot'] = newBallot
+#                                                 tempFrame1.at[z, 'Count'] -= count
+#                                                 tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
+#                                                 check = check - count
 
-                            else: 
-                                # modify all modifiableVotes_kj1 C ___ ___ W votes in reduced_df to become W_j C_k ___
-                                for z in range(len(tempFrame1)):
-                                    currentBallot = tempFrame1.at[z,'ballot']
-                                    count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                    try:
-                                        currentBallot[3]
-                                    except: 
-                                        continue
-                                    else:
-                                        if currentBallot[0]==checkables[k] and currentBallot[3]==winner:
-                                            newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                            modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                            # tempFrame1.at[z,'ballot'] = newBallot
-                                            tempFrame1.at[z, 'Count'] -= count
-                                            tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                            gap = gap - count
+#                                             else: #modify only check+1 such ballots
+#                                                 #take check+1 ballots from current ballot
+#                                                 tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
+#                                                 #make new ballot with winner moved up, add line to election frame with check+1 as count
+#                                                 newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                                 modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
+#                                                 tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
+#                                                 check = -1
+#                                         else:
+#                                             pass
+                            
+#                             # if diagnostic:
+#                             #     print(tempFrame1)
+#                             # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
+#                             # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
+#                             # level. votes modified to 2 rankings"
+#                             win1, foo1, foo2 = IRV(tempFrame1, cands)
+#                             if len(win1)>1:
+#                                 print('##### Multiple winners #####')
+#                                 continue
+#                             if diagnostic:
+#                                 print(modified_ballot_list)
+#                             if winner in win1:
+#                                 pass
 
-                                #CHECK THE 4-RANKINGS
-                                # modifiableVotes4 = sum of all ballots that start with C_k ___ __ ___ W_j  ##that is, 
-                                    # ballots with C_k in first, W_j in fourth, anything else in between
-                                modifiableVotes4 = 0 # = sum of all ballots that start with 4-ranking
-                                for z in range(len(tempFrame1)):
-                                    currentBallot = tempFrame1.at[z,'ballot']
-                                    count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                    try:
-                                        currentBallot[4]
-                                    except: 
-                                        continue
-                                    else:
-                                        if currentBallot[0]==checkables[k] and currentBallot[4]==winner:
-                                            modifiableVotes4 += count
+#                             else:
+#                                 modifiedNum = gap - check
+#                                 if diagnostic:
+#                                     print("MONOTONICITY ANOMALY for " + winner + " with " + checkables[k] + " under " + loser + 
+#                                     " at the "+ str(n-i) + "-candidate level!!!! Modifying " + str(modifiedNum) +" "+checkables[k]+ winner+"_"  
+#                                       " to " +  winner +checkables[k]+ "_ makes " + winner + " lose their seat.")
+#                                     print(tempFrame1)
+#                                 return [winner, win1[0], modified_ballot_list]
 
-                                if modifiableVotes4 > gap:  # modify gap of the C_k __ W_j votes in modified_df_kj1 to become 
-                                                            # W_j C_k ___ votes.
+#                         else: 
+#                             # modify all modifiableVotes C ___  W votes in reduced_df to become W_j C_k ___
+#                             for z in range(len(tempFrame1)):
+#                                 currentBallot = tempFrame1.at[z,'ballot']
+#                                 count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                 try:
+#                                     currentBallot[2]
+#                                 except: 
+#                                     continue
+#                                 else:
+#                                     if currentBallot[0]==checkables[k] and currentBallot[2]==winner:
+#                                         newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                         modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
+#                                         # tempFrame1.at[z,'ballot'] = newBallot
+#                                         tempFrame1.at[z, 'Count'] -= count
+#                                         tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
+#                                         gap = gap - count
 
-                                    check = copy.deepcopy(gap)
-                                    for z in range(len(tempFrame1)): 
-                                        if check>=0:
-                                            currentBallot = tempFrame1.at[z,'ballot']
-                                            count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                            try:
-                                                currentBallot[4]
-                                            except: 
-                                                continue
-                                            else:
-                                                if currentBallot[0]==checkables[k] and currentBallot[4]==winner:
-                                                    if check - count>=0: #modify all such ballots
-                                                        newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                        modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                        # tempFrame1.at[z,'ballot'] = newBallot
-                                                        tempFrame1.at[z, 'Count'] -= count
-                                                        tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                        check = check - count
+#                             #CHECK THE 3-RANKINGS
+#                             # modifiableVotes3 = sum of all ballots that start with C_k ___ __ W_j  ##that is, 
+#                                 # ballots with C_k in first, W_j in fourth, anything else in between
+#                             modifiableVotes3 = 0 
+#                             for z in range(len(tempFrame1)):
+#                                 currentBallot = tempFrame1.at[z,'ballot']
+#                                 count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                 try:
+#                                     currentBallot[3]
+#                                 except: 
+#                                     continue
+#                                 else:
+#                                     if currentBallot[0]==checkables[k] and currentBallot[3]==winner:
+#                                         modifiableVotes3 += count
 
-                                                    else: #modify only check+1 such ballots
-                                                        #take check+1 ballots from current ballot
-                                                        tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
-                                                        #make new ballot with winner moved up, add line to election frame with check+1 as count
-                                                        newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                        modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
-                                                        tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
-                                                        check = -1
-                                                else:
-                                                    pass
+#                             if modifiableVotes3 > gap:  # modify gap of the C_k __ W_j votes in modified_df_kj1 to become 
+#                                                         # W_j C_k ___ votes.
 
-                                    # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
-                                    # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
-                                    # level. votes modified to 2 rankings"
-                                    win1, foo1, foo2 = IRV(tempFrame1, cands)
-                                    if len(win1)>1:
-                                        print('##### Multiple winners #####')
-                                        continue
-                                    if winner in win1:
-                                        pass
+#                                 check = copy.deepcopy(gap)
+#                                 for z in range(len(tempFrame1)): 
+#                                     if check>=0:
+#                                         currentBallot = tempFrame1.at[z,'ballot']
+#                                         count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                         try:
+#                                             currentBallot[3]
+#                                         except: 
+#                                             continue
+#                                         else:
+#                                             if currentBallot[0]==checkables[k] and currentBallot[3]==winner:
+#                                                 if check - count>=0: #modify all such ballots
+#                                                     newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                                     modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
+#                                                     # tempFrame1.at[z,'ballot'] = newBallot
+#                                                     tempFrame1.at[z, 'Count'] -= count
+#                                                     tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
+#                                                     check = check - count
 
-#                                             print("No anomaly for " + winner + " with " + checkables[k] + " under " + loser + 
-#                                             " at the "+ str(n-i) + "-candidate level. " + winner + 
-#                                               " still wins after change in dropout order." )
-                                    else:
-                                        modifiedNum = gap - check
-                                        if diagnostic:
-                                            print("MONOTONICITY ANOMALY for " + winner + " with " + checkables[k] + " under " + loser + 
-                                            " at the "+ str(n-i) + "-candidate level!!!! Modifying " + str(modifiedNum) +" "+checkables[k]+ winner+"_"  
-                                              " to " +  winner +checkables[k]+ "_ makes " + winner + " lose their seat.")
-                                        return [winner, win1[0], modified_ballot_list]
+#                                                 else: #modify only check+1 such ballots
+#                                                     #take check+1 ballots from current ballot
+#                                                     tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
+#                                                     #make new ballot with winner moved up, add line to election frame with check+1 as count
+#                                                     newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                                     modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
+#                                                     tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
+#                                                     check = -1
+#                                             else:
+#                                                 pass
+
+#                                 # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
+#                                 # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
+#                                 # level. votes modified to 2 rankings"
+#                                 win1, foo1, foo2 = IRV(tempFrame1, cands)
+#                                 if len(win1)>1:
+#                                     print('##### Multiple winners #####')
+#                                     continue
+#                                 if winner in win1:
+#                                     pass
+#                                 else:
+#                                     modifiedNum = gap - check
+#                                     if diagnostic:
+#                                         print("MONOTONICITY ANOMALY for " + winner + " with " + checkables[k] + " under " + loser + 
+#                                         " at the "+ str(n-i) + "-candidate level!!!! Modifying " + str(modifiedNum) +" "+checkables[k]+ winner+"_"  
+#                                           " to " +  winner +checkables[k]+ "_ makes " + winner + " lose their seat.")
+#                                     return [winner, win1[0], modified_ballot_list]
+
+#                             else: 
+#                                 # modify all modifiableVotes_kj1 C ___ ___ W votes in reduced_df to become W_j C_k ___
+#                                 for z in range(len(tempFrame1)):
+#                                     currentBallot = tempFrame1.at[z,'ballot']
+#                                     count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                     try:
+#                                         currentBallot[3]
+#                                     except: 
+#                                         continue
+#                                     else:
+#                                         if currentBallot[0]==checkables[k] and currentBallot[3]==winner:
+#                                             newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                             modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
+#                                             # tempFrame1.at[z,'ballot'] = newBallot
+#                                             tempFrame1.at[z, 'Count'] -= count
+#                                             tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
+#                                             gap = gap - count
+
+#                                 #CHECK THE 4-RANKINGS
+#                                 # modifiableVotes4 = sum of all ballots that start with C_k ___ __ ___ W_j  ##that is, 
+#                                     # ballots with C_k in first, W_j in fourth, anything else in between
+#                                 modifiableVotes4 = 0 # = sum of all ballots that start with 4-ranking
+#                                 for z in range(len(tempFrame1)):
+#                                     currentBallot = tempFrame1.at[z,'ballot']
+#                                     count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                     try:
+#                                         currentBallot[4]
+#                                     except: 
+#                                         continue
+#                                     else:
+#                                         if currentBallot[0]==checkables[k] and currentBallot[4]==winner:
+#                                             modifiableVotes4 += count
+
+#                                 if modifiableVotes4 > gap:  # modify gap of the C_k __ W_j votes in modified_df_kj1 to become 
+#                                                             # W_j C_k ___ votes.
+
+#                                     check = copy.deepcopy(gap)
+#                                     for z in range(len(tempFrame1)): 
+#                                         if check>=0:
+#                                             currentBallot = tempFrame1.at[z,'ballot']
+#                                             count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                             try:
+#                                                 currentBallot[4]
+#                                             except: 
+#                                                 continue
+#                                             else:
+#                                                 if currentBallot[0]==checkables[k] and currentBallot[4]==winner:
+#                                                     if check - count>=0: #modify all such ballots
+#                                                         newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                                         modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
+#                                                         # tempFrame1.at[z,'ballot'] = newBallot
+#                                                         tempFrame1.at[z, 'Count'] -= count
+#                                                         tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
+#                                                         check = check - count
+
+#                                                     else: #modify only check+1 such ballots
+#                                                         #take check+1 ballots from current ballot
+#                                                         tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
+#                                                         #make new ballot with winner moved up, add line to election frame with check+1 as count
+#                                                         newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                                         modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
+#                                                         tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
+#                                                         check = -1
+#                                                 else:
+#                                                     pass
+
+#                                     # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
+#                                     # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
+#                                     # level. votes modified to 2 rankings"
+#                                     win1, foo1, foo2 = IRV(tempFrame1, cands)
+#                                     if len(win1)>1:
+#                                         print('##### Multiple winners #####')
+#                                         continue
+#                                     if winner in win1:
+#                                         pass
+
+# #                                             print("No anomaly for " + winner + " with " + checkables[k] + " under " + loser + 
+# #                                             " at the "+ str(n-i) + "-candidate level. " + winner + 
+# #                                               " still wins after change in dropout order." )
+#                                     else:
+#                                         modifiedNum = gap - check
+#                                         if diagnostic:
+#                                             print("MONOTONICITY ANOMALY for " + winner + " with " + checkables[k] + " under " + loser + 
+#                                             " at the "+ str(n-i) + "-candidate level!!!! Modifying " + str(modifiedNum) +" "+checkables[k]+ winner+"_"  
+#                                               " to " +  winner +checkables[k]+ "_ makes " + winner + " lose their seat.")
+#                                         return [winner, win1[0], modified_ballot_list]
                                         
 
 
-                                else:
-                                    # modify all modifiableVotes_kj1 C ___ ___ ___W votes in reduced_df to become W_j C_k ___
-                                    for z in range(len(tempFrame1)):
-                                        currentBallot = tempFrame1.at[z,'ballot']
-                                        count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                        try:
-                                            currentBallot[4]
-                                        except: 
-                                            continue
-                                        else:
-                                            if currentBallot[0]==checkables[k] and currentBallot[4]==winner:
-                                                newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                # tempFrame1.at[z,'ballot'] = newBallot
-                                                tempFrame1.at[z, 'Count'] -= count
-                                                tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                gap = gap - count
+#                                 else:
+#                                     # modify all modifiableVotes_kj1 C ___ ___ ___W votes in reduced_df to become W_j C_k ___
+#                                     for z in range(len(tempFrame1)):
+#                                         currentBallot = tempFrame1.at[z,'ballot']
+#                                         count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                         try:
+#                                             currentBallot[4]
+#                                         except: 
+#                                             continue
+#                                         else:
+#                                             if currentBallot[0]==checkables[k] and currentBallot[4]==winner:
+#                                                 newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                                 modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
+#                                                 # tempFrame1.at[z,'ballot'] = newBallot
+#                                                 tempFrame1.at[z, 'Count'] -= count
+#                                                 tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
+#                                                 gap = gap - count
 
-                                    #CHECK THE 5-RANKINGS
-                                    # modifiableVotes5 = sum of all ballots  
-                                        # with C_k in first, W_j in sixth, anything else in between
-                                    modifiableVotes5 = 0 # = sum of all 5-ranking ballots that start with C_k 
-                                    for z in range(len(tempFrame1)):
-                                        currentBallot = tempFrame1.at[z,'ballot']
-                                        count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                        try:
-                                            currentBallot[5]
-                                        except: 
-                                            continue
-                                        else:
-                                            if currentBallot[0]==checkables[k] and currentBallot[5]==winner:
-                                                modifiableVotes5 += count
+#                                     #CHECK THE 5-RANKINGS
+#                                     # modifiableVotes5 = sum of all ballots  
+#                                         # with C_k in first, W_j in sixth, anything else in between
+#                                     modifiableVotes5 = 0 # = sum of all 5-ranking ballots that start with C_k 
+#                                     for z in range(len(tempFrame1)):
+#                                         currentBallot = tempFrame1.at[z,'ballot']
+#                                         count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                         try:
+#                                             currentBallot[5]
+#                                         except: 
+#                                             continue
+#                                         else:
+#                                             if currentBallot[0]==checkables[k] and currentBallot[5]==winner:
+#                                                 modifiableVotes5 += count
 
-                                    if modifiableVotes5 > gap:  # modify gap of the C_k __ W_j votes in modified_df_kj1 to become 
-                                                                # W_j C_k ___ votes.
+#                                     if modifiableVotes5 > gap:  # modify gap of the C_k __ W_j votes in modified_df_kj1 to become 
+#                                                                 # W_j C_k ___ votes.
 
-                                        check = copy.deepcopy(gap)
-                                        for z in range(len(tempFrame1)): #tempFrame in place of reduceFrame(frame,losers)[i]
-                                            if check>=0:
-                                                currentBallot = tempFrame1.at[z,'ballot']
-                                                count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                                try:
-                                                    currentBallot[5]
-                                                except: 
-                                                    continue
-                                                else:
-                                                    if currentBallot[0]==checkables[k] and currentBallot[5]==winner:
-                                                        if check - count>=0: #modify all such ballots
-                                                            newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                            modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                            # tempFrame1.at[z,'ballot'] = newBallot
-                                                            tempFrame1.at[z, 'Count'] -= count
-                                                            tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                            check = check - count
+#                                         check = copy.deepcopy(gap)
+#                                         for z in range(len(tempFrame1)): #tempFrame in place of reduceFrame(frame,losers)[i]
+#                                             if check>=0:
+#                                                 currentBallot = tempFrame1.at[z,'ballot']
+#                                                 count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                                 try:
+#                                                     currentBallot[5]
+#                                                 except: 
+#                                                     continue
+#                                                 else:
+#                                                     if currentBallot[0]==checkables[k] and currentBallot[5]==winner:
+#                                                         if check - count>=0: #modify all such ballots
+#                                                             newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                                             modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
+#                                                             # tempFrame1.at[z,'ballot'] = newBallot
+#                                                             tempFrame1.at[z, 'Count'] -= count
+#                                                             tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
+#                                                             check = check - count
 
-                                                        else: #modify only check+1 such ballots
-                                                            #take check+1 ballots from current ballot
-                                                            tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
-                                                            #make new ballot with winner moved up, add line to election frame with check+1 as count
-                                                            newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                            modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
-                                                            tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
-                                                            check = -1
-                                                    else:
-                                                        pass
+#                                                         else: #modify only check+1 such ballots
+#                                                             #take check+1 ballots from current ballot
+#                                                             tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
+#                                                             #make new ballot with winner moved up, add line to election frame with check+1 as count
+#                                                             newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                                             modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
+#                                                             tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
+#                                                             check = -1
+#                                                     else:
+#                                                         pass
 
-                                        # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
-                                        # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
-                                        # level. votes modified to 2 rankings"
-                                        win1, foo1, foo2 = IRV(tempFrame1, cands)
-                                        if len(win1)>1:
-                                            print('##### Multiple winners #####')
-                                            continue
-                                        if winner in win1:
-                                            pass
-                                        else:
-                                            modifiedNum = gap - check
-                                            if diagnostic:
-                                                print("MONOTONICITY ANOMALY for " + winner + " with " + checkables[k] + " under " + loser + 
-                                                " at the "+ str(n-i) + "-candidate level!!!! Modifying " + str(modifiedNum) +" "+checkables[k]+ winner+"_"  
-                                                  " to " +  winner +checkables[k]+ "_ makes " + winner + " lose their seat.")
-                                            return [winner, win1[0], modified_ballot_list]
-
-
-                                    else:
-                                        # modify all modifiableVotes C ... W votes in reduced_df to become W_j C_k ___
-                                        for z in range(len(tempFrame1)):
-                                            currentBallot = tempFrame1.at[z,'ballot']
-                                            count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                            try:
-                                                currentBallot[5]
-                                            except: 
-                                                continue
-                                            else:
-                                                if currentBallot[0]==checkables[k] and currentBallot[5]==winner:
-                                                    newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                    modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                    # tempFrame1.at[z,'ballot'] = newBallot
-                                                    tempFrame1.at[z, 'Count'] -= count
-                                                    tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                    gap = gap - count
-
-                                        #We chose to modify most/all of ranked votes before doing bullet votes, as we think
-                                        # that is most likely to case anomalies
-                                        #CHECK THE BULLET VOTES, length 1
-                                          ##that is, 
-                                            # ballots with just C_k in first
-                                        modifiableVotesBullet1 = 0 # = sum of all bullet votes w/ length 1
-                                        for z in range(len(tempFrame1)):
-                                            currentBallot = tempFrame1.at[z,'ballot']
-                                            count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                            if len(currentBallot) == 1:
-                                                if currentBallot[0]==checkables[k]:
-                                                        modifiableVotesBullet1 += count
-
-                                        if modifiableVotesBullet1 > gap:  # modify gap of the C_k  votes in modified_df_kj1 to become 
-                                                                    # W_j C_k votes.
-
-                                            check = copy.deepcopy(gap)
-                                            for z in range(len(tempFrame1)): 
-                                                if check>=0:
-                                                    currentBallot = tempFrame1.at[z,'ballot']
-                                                    count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                                    if len(currentBallot) == 1:
-                                                        if currentBallot[0]==checkables[k]:
-                                                            if check - count>=0: #modify all such ballots
-                                                                newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                                modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                                # tempFrame1.at[z,'ballot'] = newBallot
-                                                                tempFrame1.at[z, 'Count'] -= count
-                                                                tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                                check = check - count
-
-                                                            else: #modify only check+1 such ballots
-                                                                #take check+1 ballots from current ballot
-                                                                tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
-                                                                #make new ballot with winner moved up, add line to election frame with check+1 as count
-                                                                newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                                modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
-                                                                tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
-                                                                check = -1
-
-                                            # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
-                                            # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
-                                            # level. votes modified to 2 rankings"
-                                            win1, foo1, foo2 = IRV(tempFrame1, cands)
-                                            if len(win1)>1:
-                                                print('##### Multiple winners #####')
-                                                continue
-                                            if winner in win1:
-                                                pass
-                                            else:
-                                                modifiedNum = gap - check
-                                                if diagnostic:
-                                                    print("MONOTONICITY ANOMALY for " + winner + " with " + checkables[k] + " under " + loser + 
-                                                    " at the "+ str(n-i) + "-candidate level!!!! Modifying " + str(modifiedNum) +" "+checkables[k]+ winner+"_"  
-                                                      " to " +  winner +checkables[k]+ "_ makes " + winner + " lose their seat.")
-                                                return [winner, win1[0], modified_ballot_list]
+#                                         # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
+#                                         # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
+#                                         # level. votes modified to 2 rankings"
+#                                         win1, foo1, foo2 = IRV(tempFrame1, cands)
+#                                         if len(win1)>1:
+#                                             print('##### Multiple winners #####')
+#                                             continue
+#                                         if winner in win1:
+#                                             pass
+#                                         else:
+#                                             modifiedNum = gap - check
+#                                             if diagnostic:
+#                                                 print("MONOTONICITY ANOMALY for " + winner + " with " + checkables[k] + " under " + loser + 
+#                                                 " at the "+ str(n-i) + "-candidate level!!!! Modifying " + str(modifiedNum) +" "+checkables[k]+ winner+"_"  
+#                                                   " to " +  winner +checkables[k]+ "_ makes " + winner + " lose their seat.")
+#                                             return [winner, win1[0], modified_ballot_list]
 
 
-                                        else:
-                                            # modify all modifiableVotes C_k  votes in reduced_df to become W_j C_k 
-                                            for z in range(len(tempFrame1)):
-                                                currentBallot = tempFrame1.at[z,'ballot']
-                                                count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                                if len(currentBallot) == 1:
-                                                    if currentBallot[0]==checkables[k]:
-                                                        newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                        modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                        # tempFrame1.at[z,'ballot'] = newBallot
-                                                        tempFrame1.at[z, 'Count'] -= count
-                                                        tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                        gap = gap - count
+#                                     else:
+#                                         # modify all modifiableVotes C ... W votes in reduced_df to become W_j C_k ___
+#                                         for z in range(len(tempFrame1)):
+#                                             currentBallot = tempFrame1.at[z,'ballot']
+#                                             count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                             try:
+#                                                 currentBallot[5]
+#                                             except: 
+#                                                 continue
+#                                             else:
+#                                                 if currentBallot[0]==checkables[k] and currentBallot[5]==winner:
+#                                                     newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                                     modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
+#                                                     # tempFrame1.at[z,'ballot'] = newBallot
+#                                                     tempFrame1.at[z, 'Count'] -= count
+#                                                     tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
+#                                                     gap = gap - count
 
-                                            #CHECK THE BULLET VOTES, length 2
-                                            # modifiableVotesBullet2 = sum of all ballots that are just C_k C_i  
-                                            modifiableVotesBullet2 = 0 # = sum of all bullet votes w/ length 2
-                                            for z in range(len(tempFrame1)):
-                                                currentBallot = tempFrame1.at[z,'ballot']
-                                                count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                                if len(currentBallot) == 2:
-                                                    if currentBallot[0]==checkables[k] and currentBallot[1]!=winner: 
-                                                            modifiableVotesBullet2 += count
+#                                         #We chose to modify most/all of ranked votes before doing bullet votes, as we think
+#                                         # that is most likely to case anomalies
+#                                         #CHECK THE BULLET VOTES, length 1
+#                                           ##that is, 
+#                                             # ballots with just C_k in first
+#                                         modifiableVotesBullet1 = 0 # = sum of all bullet votes w/ length 1
+#                                         for z in range(len(tempFrame1)):
+#                                             currentBallot = tempFrame1.at[z,'ballot']
+#                                             count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                             if len(currentBallot) == 1:
+#                                                 if currentBallot[0]==checkables[k]:
+#                                                         modifiableVotesBullet1 += count
 
-                                            if modifiableVotesBullet2 > gap:  # modify gap of the C_k C_i votes in modified to become 
-                                                                        # W_j C_k C_i votes.
+#                                         if modifiableVotesBullet1 > gap:  # modify gap of the C_k  votes in modified_df_kj1 to become 
+#                                                                     # W_j C_k votes.
 
-                                                check = copy.deepcopy(gap)
-                                                for z in range(len(tempFrame1)): 
-                                                    if check>=0:
-                                                        currentBallot = tempFrame1.at[z,'ballot']
-                                                        count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                                        if len(currentBallot) == 2:
-                                                            if currentBallot[0]==checkables[k] and currentBallot[1]!=winner: 
-                                                                if check - count>=0: #modify all such ballots
-                                                                    newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                                    modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                                    # tempFrame1.at[z,'ballot'] = newBallot
-                                                                    tempFrame1.at[z, 'Count'] -= count
-                                                                    tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                                    check = check - count
+#                                             check = copy.deepcopy(gap)
+#                                             for z in range(len(tempFrame1)): 
+#                                                 if check>=0:
+#                                                     currentBallot = tempFrame1.at[z,'ballot']
+#                                                     count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                                     if len(currentBallot) == 1:
+#                                                         if currentBallot[0]==checkables[k]:
+#                                                             if check - count>=0: #modify all such ballots
+#                                                                 newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                                                 modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
+#                                                                 # tempFrame1.at[z,'ballot'] = newBallot
+#                                                                 tempFrame1.at[z, 'Count'] -= count
+#                                                                 tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
+#                                                                 check = check - count
 
-                                                                else: #modify only check+1 such ballots
-                                                                    #take check+1 ballots from current ballot
-                                                                    tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
-                                                                    #make new ballot with winner moved up, add line to election frame with check+1 as count
-                                                                    newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                                    modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
-                                                                    tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
-                                                                    check = -1
+#                                                             else: #modify only check+1 such ballots
+#                                                                 #take check+1 ballots from current ballot
+#                                                                 tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
+#                                                                 #make new ballot with winner moved up, add line to election frame with check+1 as count
+#                                                                 newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                                                 modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
+#                                                                 tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
+#                                                                 check = -1
 
-                                                # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
-                                                # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
-                                                # level. votes modified to 2 rankings"
-                                                win1, foo1, foo2 = IRV(tempFrame1, cands)
-                                                if len(win1)>1:
-                                                    print('##### Multiple winners #####')
-                                                    continue
-                                                if winner in win1:
-                                                    pass
-                                                else:
-                                                    modifiedNum = gap - check
-                                                    if diagnostic:
-                                                        print("MONOTONICITY ANOMALY for " + winner + " with " + checkables[k] + " under " + loser + 
-                                                        " at the "+ str(n-i) + "-candidate level!!!! Modifying " + str(modifiedNum) +" "+checkables[k]+ winner+"_"  
-                                                          " to " +  winner +checkables[k]+ "_ makes " + winner + " lose their seat.")
-                                                    return [winner, win1[0], modified_ballot_list]
-
-
-                                            else:
-                                                # modify all modifiableVotes C_k  votes in reduced_df to become W_j C_k 
-                                                for z in range(len(tempFrame1)):
-                                                    currentBallot = tempFrame1.at[z,'ballot']
-                                                    count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                                    if len(currentBallot) == 2:
-                                                        if currentBallot[0]==checkables[k] and currentBallot[1]!=winner: #Note: should not need and
-                                                            newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                            modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                            # tempFrame1.at[z,'ballot'] = newBallot
-                                                            tempFrame1.at[z, 'Count'] -= count
-                                                            tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                            gap = gap - count
-
-                                                #CHECK THE BULLET VOTES, length 3
-                                                # modifiableVotesBullet3 = sum of all ballots that are just C_k ___ C_i  
-                                                modifiableVotesBullet3 = 0 # = sum of all bullet votes w/ length 3
-                                                for z in range(len(tempFrame1)):
-                                                    currentBallot = tempFrame1.at[z,'ballot']
-                                                    count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                                    if len(currentBallot) == 3:
-                                                        if currentBallot[0]==checkables[k] and winner not in currentBallot: 
-                                                                modifiableVotesBullet3 += count
-
-                                                if modifiableVotesBullet3 > gap:  # modify gap of the C_k C_i votes in modified to become 
-                                                                            # W_j C_k C_i votes.
-
-                                                    check = copy.deepcopy(gap)
-                                                    for z in range(len(tempFrame1)): 
-                                                        if check>=0:
-                                                            currentBallot = tempFrame1.at[z,'ballot']
-                                                            count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                                            if len(currentBallot) == 3:
-                                                                if currentBallot[0]==checkables[k] and winner not in currentBallot: #Note: should not need and
-                                                                    if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
-                                                                        newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                                        modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                                                        # tempFrame1.at[z,'ballot'] = newBallot
-                                                                        tempFrame1.at[z, 'Count'] -= count
-                                                                        tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                                        check = check - count
-
-                                                                    else: #modify only check+1 such ballots
-                                                                        #take check+1 ballots from current ballot
-                                                                        tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
-                                                                        #make new ballot with winner moved up, add line to election frame with check+1 as count
-                                                                        newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                                        modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
-                                                                        tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
-                                                                        check = -1
-
-                                                    # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
-                                                    # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
-                                                    # level. votes modified to..."
-                                                    win1, foo1, foo2 = IRV(tempFrame1, cands)
-                                                    if len(win1)>1:
-                                                        print('##### Multiple winners #####')
-                                                        continue
-                                                    if winner in win1:
-                                                        pass
-                                                    else:
-                                                        modifiedNum = gap - check
-                                                        if diagnostic:
-                                                            print("MONOTONICITY ANOMALY for " + winner + " with " + checkables[k] + " under " + loser + 
-                                                            " at the "+ str(n-i) + "-candidate level!!!! Modifying " + str(modifiedNum) +" "+checkables[k]+ winner+"_"  
-                                                              " to " +  winner +checkables[k]+ "_ makes " + winner + " lose their seat.")
-                                                        return [winner, win1[0], modified_ballot_list]
+#                                             # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
+#                                             # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
+#                                             # level. votes modified to 2 rankings"
+#                                             win1, foo1, foo2 = IRV(tempFrame1, cands)
+#                                             if len(win1)>1:
+#                                                 print('##### Multiple winners #####')
+#                                                 continue
+#                                             if winner in win1:
+#                                                 pass
+#                                             else:
+#                                                 modifiedNum = gap - check
+#                                                 if diagnostic:
+#                                                     print("MONOTONICITY ANOMALY for " + winner + " with " + checkables[k] + " under " + loser + 
+#                                                     " at the "+ str(n-i) + "-candidate level!!!! Modifying " + str(modifiedNum) +" "+checkables[k]+ winner+"_"  
+#                                                       " to " +  winner +checkables[k]+ "_ makes " + winner + " lose their seat.")
+#                                                 return [winner, win1[0], modified_ballot_list]
 
 
-                                                else:
-                                                    # modify all modifiableVotes C_k  votes in reduced_df to become W_j C_k 
-                                                    for z in range(len(tempFrame1)):
-                                                        currentBallot = tempFrame1.at[z,'ballot']
-                                                        count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                                        if len(currentBallot) == 3:
-                                                            if currentBallot[0]==checkables[k] and winner not in currentBallot: 
-                                                                newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
-                                                                tempFrame1.at[z, 'Count'] -= count
-                                                                tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
-                                                                gap = gap - count
+#                                         else:
+#                                             # modify all modifiableVotes C_k  votes in reduced_df to become W_j C_k 
+#                                             for z in range(len(tempFrame1)):
+#                                                 currentBallot = tempFrame1.at[z,'ballot']
+#                                                 count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                                 if len(currentBallot) == 1:
+#                                                     if currentBallot[0]==checkables[k]:
+#                                                         newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                                         modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
+#                                                         # tempFrame1.at[z,'ballot'] = newBallot
+#                                                         tempFrame1.at[z, 'Count'] -= count
+#                                                         tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
+#                                                         gap = gap - count
 
-                                                    print(winner+" cannot overcome gap with "+ checkables[k] + 
-                                                          " when modified up to 5 rankings and 3 bullet votes under " + 
-                                                          loser + ". REACHED END OF CODE.")
+#                                             #CHECK THE BULLET VOTES, length 2
+#                                             # modifiableVotesBullet2 = sum of all ballots that are just C_k C_i  
+#                                             modifiableVotesBullet2 = 0 # = sum of all bullet votes w/ length 2
+#                                             for z in range(len(tempFrame1)):
+#                                                 currentBallot = tempFrame1.at[z,'ballot']
+#                                                 count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                                 if len(currentBallot) == 2:
+#                                                     if currentBallot[0]==checkables[k] and currentBallot[1]!=winner: 
+#                                                             modifiableVotesBullet2 += count
+
+#                                             if modifiableVotesBullet2 > gap:  # modify gap of the C_k C_i votes in modified to become 
+#                                                                         # W_j C_k C_i votes.
+
+#                                                 check = copy.deepcopy(gap)
+#                                                 for z in range(len(tempFrame1)): 
+#                                                     if check>=0:
+#                                                         currentBallot = tempFrame1.at[z,'ballot']
+#                                                         count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                                         if len(currentBallot) == 2:
+#                                                             if currentBallot[0]==checkables[k] and currentBallot[1]!=winner: 
+#                                                                 if check - count>=0: #modify all such ballots
+#                                                                     newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                                                     modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
+#                                                                     # tempFrame1.at[z,'ballot'] = newBallot
+#                                                                     tempFrame1.at[z, 'Count'] -= count
+#                                                                     tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
+#                                                                     check = check - count
+
+#                                                                 else: #modify only check+1 such ballots
+#                                                                     #take check+1 ballots from current ballot
+#                                                                     tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
+#                                                                     #make new ballot with winner moved up, add line to election frame with check+1 as count
+#                                                                     newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                                                     modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
+#                                                                     tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
+#                                                                     check = -1
+
+#                                                 # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
+#                                                 # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
+#                                                 # level. votes modified to 2 rankings"
+#                                                 win1, foo1, foo2 = IRV(tempFrame1, cands)
+#                                                 if len(win1)>1:
+#                                                     print('##### Multiple winners #####')
+#                                                     continue
+#                                                 if winner in win1:
+#                                                     pass
+#                                                 else:
+#                                                     modifiedNum = gap - check
+#                                                     if diagnostic:
+#                                                         print("MONOTONICITY ANOMALY for " + winner + " with " + checkables[k] + " under " + loser + 
+#                                                         " at the "+ str(n-i) + "-candidate level!!!! Modifying " + str(modifiedNum) +" "+checkables[k]+ winner+"_"  
+#                                                           " to " +  winner +checkables[k]+ "_ makes " + winner + " lose their seat.")
+#                                                     return [winner, win1[0], modified_ballot_list]
+
+
+#                                             else:
+#                                                 # modify all modifiableVotes C_k  votes in reduced_df to become W_j C_k 
+#                                                 for z in range(len(tempFrame1)):
+#                                                     currentBallot = tempFrame1.at[z,'ballot']
+#                                                     count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                                     if len(currentBallot) == 2:
+#                                                         if currentBallot[0]==checkables[k] and currentBallot[1]!=winner: #Note: should not need and
+#                                                             newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                                             modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
+#                                                             # tempFrame1.at[z,'ballot'] = newBallot
+#                                                             tempFrame1.at[z, 'Count'] -= count
+#                                                             tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
+#                                                             gap = gap - count
+
+#                                                 #CHECK THE BULLET VOTES, length 3
+#                                                 # modifiableVotesBullet3 = sum of all ballots that are just C_k ___ C_i  
+#                                                 modifiableVotesBullet3 = 0 # = sum of all bullet votes w/ length 3
+#                                                 for z in range(len(tempFrame1)):
+#                                                     currentBallot = tempFrame1.at[z,'ballot']
+#                                                     count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                                     if len(currentBallot) == 3:
+#                                                         if currentBallot[0]==checkables[k] and winner not in currentBallot: 
+#                                                                 modifiableVotesBullet3 += count
+
+#                                                 if modifiableVotesBullet3 > gap:  # modify gap of the C_k C_i votes in modified to become 
+#                                                                             # W_j C_k C_i votes.
+
+#                                                     check = copy.deepcopy(gap)
+#                                                     for z in range(len(tempFrame1)): 
+#                                                         if check>=0:
+#                                                             currentBallot = tempFrame1.at[z,'ballot']
+#                                                             count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                                             if len(currentBallot) == 3:
+#                                                                 if currentBallot[0]==checkables[k] and winner not in currentBallot: #Note: should not need and
+#                                                                     if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
+#                                                                         newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                                                         modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
+#                                                                         # tempFrame1.at[z,'ballot'] = newBallot
+#                                                                         tempFrame1.at[z, 'Count'] -= count
+#                                                                         tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
+#                                                                         check = check - count
+
+#                                                                     else: #modify only check+1 such ballots
+#                                                                         #take check+1 ballots from current ballot
+#                                                                         tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
+#                                                                         #make new ballot with winner moved up, add line to election frame with check+1 as count
+#                                                                         newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                                                         modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
+#                                                                         tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
+#                                                                         check = -1
+
+#                                                     # Run STV election on modifed_df_kj2.  Check to see if W_j is in new winners 
+#                                                     # list. if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate 
+#                                                     # level. votes modified to..."
+#                                                     win1, foo1, foo2 = IRV(tempFrame1, cands)
+#                                                     if len(win1)>1:
+#                                                         print('##### Multiple winners #####')
+#                                                         continue
+#                                                     if winner in win1:
+#                                                         pass
+#                                                     else:
+#                                                         modifiedNum = gap - check
+#                                                         if diagnostic:
+#                                                             print("MONOTONICITY ANOMALY for " + winner + " with " + checkables[k] + " under " + loser + 
+#                                                             " at the "+ str(n-i) + "-candidate level!!!! Modifying " + str(modifiedNum) +" "+checkables[k]+ winner+"_"  
+#                                                               " to " +  winner +checkables[k]+ "_ makes " + winner + " lose their seat.")
+#                                                         return [winner, win1[0], modified_ballot_list]
+
+
+#                                                 else:
+#                                                     # modify all modifiableVotes C_k  votes in reduced_df to become W_j C_k 
+#                                                     for z in range(len(tempFrame1)):
+#                                                         currentBallot = tempFrame1.at[z,'ballot']
+#                                                         count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                                         if len(currentBallot) == 3:
+#                                                             if currentBallot[0]==checkables[k] and winner not in currentBallot: 
+#                                                                 newBallot = modifyUp(tempFrame1.at[z,'ballot'], winner)
+#                                                                 tempFrame1.at[z, 'Count'] -= count
+#                                                                 tempFrame1.loc[len(tempFrame1)] = [newBallot, count]
+#                                                                 gap = gap - count
+
+#                                                     print(winner+" cannot overcome gap with "+ checkables[k] + 
+#                                                           " when modified up to 5 rankings and 3 bullet votes under " + 
+#                                                           loser + ". REACHED END OF CODE.")
     
-    return []
+#     return []
+
+
 ###############################################################################
 ###############################################################################
 
