@@ -6,7 +6,7 @@
       "method_false_count": {
         "plurality": 0,
         "IRV": 0,
-        "top-two": 9,
+        "top-two": 0,
         "borda-pm": 1,
         "borda-om": 4,
         "borda-avg": 0,
@@ -16,7 +16,7 @@
         "smith_plurality": 0,
         "smith_irv": 0,
         "smith-minimax": 0,
-        "ranked-pairs": 9,
+        "ranked-pairs": 0,
         "bucklin": 0,
         "approval": 7,
         "smith": 0
@@ -3269,7 +3269,7 @@
     "Alameda County/Berkeley_11042014_CityAuditor.csv": {
       "plurality": true,
       "IRV": true,
-      "top-two": false,
+      "top-two": true,
       "borda-pm": true,
       "borda-om": true,
       "borda-avg": true,
@@ -3279,11 +3279,11 @@
       "smith_plurality": true,
       "smith_irv": true,
       "smith-minimax": true,
-      "ranked-pairs": false,
+      "ranked-pairs": true,
       "bucklin": true,
       "approval": true,
       "smith": true,
-      "winners": "top-two-Noneranked-pairs-NoneANN-MARIE HOGAN"
+      "winners": "ANN-MARIE HOGAN"
     },
     "Alameda County/Berkeley_11042014_CityCouncilDistrict8.csv": null,
     "Alameda County/Oakland_11082016_CouncilAtLrg.csv": {
@@ -3893,7 +3893,7 @@
     "Alameda County/Oakland_11062018_SchoolDirectorDistrict2.csv": {
       "plurality": true,
       "IRV": true,
-      "top-two": false,
+      "top-two": true,
       "borda-pm": true,
       "borda-om": true,
       "borda-avg": true,
@@ -3903,11 +3903,11 @@
       "smith_plurality": true,
       "smith_irv": true,
       "smith-minimax": true,
-      "ranked-pairs": false,
+      "ranked-pairs": true,
       "bucklin": true,
       "approval": true,
       "smith": true,
-      "winners": "top-two-Noneranked-pairs-NoneAIMEE ENG"
+      "winners": "AIMEE ENG"
     },
     "Alameda County/Berkeley_11052024_CityCouncilD3.csv": {
       "plurality": true,
@@ -3969,7 +3969,7 @@
     "Alameda County/Oakland_11082016_CityAttorney.csv": {
       "plurality": true,
       "IRV": true,
-      "top-two": false,
+      "top-two": true,
       "borda-pm": true,
       "borda-om": true,
       "borda-avg": true,
@@ -3979,11 +3979,11 @@
       "smith_plurality": true,
       "smith_irv": true,
       "smith-minimax": true,
-      "ranked-pairs": false,
+      "ranked-pairs": true,
       "bucklin": true,
       "approval": true,
       "smith": true,
-      "winners": "top-two-Noneranked-pairs-NoneBARBARA J. PARKER"
+      "winners": "BARBARA J. PARKER"
     },
     "Alameda County/Oakland_11062018_CityAuditor.csv": {
       "plurality": true,
@@ -4027,7 +4027,7 @@
     "Alameda County/SanLeandro_11082016_CountyCouncilDistrict4.csv": {
       "plurality": true,
       "IRV": true,
-      "top-two": false,
+      "top-two": true,
       "borda-pm": true,
       "borda-om": true,
       "borda-avg": true,
@@ -4037,11 +4037,11 @@
       "smith_plurality": true,
       "smith_irv": true,
       "smith-minimax": true,
-      "ranked-pairs": false,
+      "ranked-pairs": true,
       "bucklin": true,
       "approval": true,
       "smith": true,
-      "winners": "top-two-Noneranked-pairs-NoneBENNY LEE"
+      "winners": "BENNY LEE"
     },
     "Alameda County/SanLeandro_11042014_Mayor.csv": null,
     "Alameda County/Oakland_11052024_CityCouncilD3.csv": null,
@@ -4169,7 +4169,7 @@
     "Alameda County/SanLeandro_11082016_CountyCouncilDistrict6.csv": {
       "plurality": true,
       "IRV": true,
-      "top-two": false,
+      "top-two": true,
       "borda-pm": true,
       "borda-om": true,
       "borda-avg": true,
@@ -4179,11 +4179,11 @@
       "smith_plurality": true,
       "smith_irv": true,
       "smith-minimax": true,
-      "ranked-pairs": false,
+      "ranked-pairs": true,
       "bucklin": true,
       "approval": true,
       "smith": true,
-      "winners": "top-two-Noneranked-pairs-NonePETE BALLEW"
+      "winners": "PETE BALLEW"
     },
     "Alameda County/Oakland_11032020_SchoolDirectorDist1OaklandRCV.csv": null,
     "Alameda County/Berkeley_11022010_CityCouncilDistrict1.csv": {
@@ -5011,7 +5011,7 @@
     "San Francisco/SanFrancisco_11052024_Treasurer.csv": {
       "plurality": true,
       "IRV": true,
-      "top-two": false,
+      "top-two": true,
       "borda-pm": true,
       "borda-om": true,
       "borda-avg": true,
@@ -5021,11 +5021,11 @@
       "smith_plurality": true,
       "smith_irv": true,
       "smith-minimax": true,
-      "ranked-pairs": false,
+      "ranked-pairs": true,
       "bucklin": true,
       "approval": true,
       "smith": true,
-      "winners": "top-two-Noneranked-pairs-NoneJOS\u00c9 CISNEROS"
+      "winners": "JOS\u00c9 CISNEROS"
     },
     "San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict9.csv": null,
     "San Francisco/SanFrancisco_11052024_BoS_D3.csv": null,
@@ -5288,7 +5288,7 @@
     "San Francisco/SanFrancisco_11062018_PublicDefender.csv": {
       "plurality": true,
       "IRV": true,
-      "top-two": false,
+      "top-two": true,
       "borda-pm": true,
       "borda-om": true,
       "borda-avg": true,
@@ -5298,11 +5298,11 @@
       "smith_plurality": true,
       "smith_irv": true,
       "smith-minimax": true,
-      "ranked-pairs": false,
+      "ranked-pairs": true,
       "bucklin": true,
       "approval": true,
       "smith": true,
-      "winners": "top-two-Noneranked-pairs-NoneJEFF ADACHI"
+      "winners": "JEFF ADACHI"
     },
     "San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict9.csv": {
       "plurality": true,
@@ -5366,7 +5366,7 @@
     "San Francisco/SanFrancisco_11082022_AssessorRecorder.csv": {
       "plurality": true,
       "IRV": true,
-      "top-two": false,
+      "top-two": true,
       "borda-pm": true,
       "borda-om": true,
       "borda-avg": true,
@@ -5376,11 +5376,11 @@
       "smith_plurality": true,
       "smith_irv": true,
       "smith-minimax": true,
-      "ranked-pairs": false,
+      "ranked-pairs": true,
       "bucklin": true,
       "approval": true,
       "smith": true,
-      "winners": "top-two-Noneranked-pairs-NoneJOAQU\u00cdN TORRES"
+      "winners": "JOAQU\u00cdN TORRES"
     },
     "San Francisco/SanFrancisco_11082022_BoardofSupervisorsD10.csv": {
       "plurality": true,
@@ -5664,7 +5664,7 @@
     "San Francisco/SanFrancisco_11082022_BoardofSupervisorsD2.csv": {
       "plurality": true,
       "IRV": true,
-      "top-two": false,
+      "top-two": true,
       "borda-pm": true,
       "borda-om": true,
       "borda-avg": true,
@@ -5674,11 +5674,11 @@
       "smith_plurality": true,
       "smith_irv": true,
       "smith-minimax": true,
-      "ranked-pairs": false,
+      "ranked-pairs": true,
       "bucklin": true,
       "approval": true,
       "smith": true,
-      "winners": "top-two-Noneranked-pairs-NoneCATHERINE STEFANI"
+      "winners": "CATHERINE STEFANI"
     },
     "San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict8.csv": null,
     "San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict2.csv": null,
