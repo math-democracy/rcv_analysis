@@ -1,0 +1,654 @@
+,file_name,election_method,anomaly_type
+0,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Maitland-mayoral-finalpreferencedatafile.csv,plurality,strat_compromise
+1,./data/australia/Australia_NewSouthWales_Mayorals_2021/Byron-mayoral-finalpreferencedatafile.csv,plurality,strat_compromise
+2,./data/australia/Australia_NewSouthWales_Mayorals_2021/Wollondilly-mayoral-finalpreferencedatafile.csv,plurality,strat_compromise
+3,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Liverpool-mayoral-finalpreferencedatafile.csv,plurality,strat_compromise
+4,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Wollongong-mayoral-finalpreferencedatafile.csv,plurality,strat_compromise
+5,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Shoalhaven-mayoral-finalpreferencedatafile.csv,plurality,strat_compromise
+6,./data/australia/Australia_NewSouthWales_Mayorals_2021/Eurobodalla-mayoral-finalpreferencedatafile.csv,plurality,strat_compromise
+7,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Orange-mayoral-finalpreferencedatafile.csv,plurality,strat_compromise
+8,./data/australia/Australia_NSW_LegAssembly_2017_ByElections/SB1702 LA Pref Data_NA_Murray.csv,plurality,strat_compromise
+9,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Dubbo.csv,plurality,strat_compromise
+10,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Upper Hunter.csv,plurality,strat_compromise
+11,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data East Hills.csv,plurality,strat_compromise
+12,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Penrith.csv,plurality,strat_compromise
+13,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Kogarah.csv,plurality,strat_compromise
+14,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Barwon.csv,plurality,strat_compromise
+15,./data/australia/Australia_Victoria_LegAssembly_2018/BallotPaperDetails-Melbourne District SE2018.csv,plurality,strat_compromise
+16,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Point Cook with candidates.csv,plurality,strat_compromise
+17,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Melton with candidates.csv,plurality,strat_compromise
+18,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Northcote with candidates.csv,plurality,strat_compromise
+19,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Hawthorn with candidates.csv,plurality,strat_compromise
+20,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Preston with Candidates.csv,plurality,strat_compromise
+21,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Lismore.csv,plurality,strat_compromise
+22,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Upper Hunter.csv,plurality,strat_compromise
+23,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Ballina.csv,plurality,strat_compromise
+24,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_East Hills.csv,plurality,strat_compromise
+25,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Granville.csv,plurality,strat_compromise
+26,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ryde.csv,plurality,strat_compromise
+27,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Goulburn.csv,plurality,strat_compromise
+28,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Oatley.csv,plurality,strat_compromise
+29,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Pittwater.csv,plurality,strat_compromise
+30,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Balmain.csv,plurality,strat_compromise
+31,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Camden.csv,plurality,strat_compromise
+32,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data East Hills.csv,plurality,strat_compromise
+33,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Kiama.csv,plurality,strat_compromise
+34,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Holsworthy.csv,plurality,strat_compromise
+35,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wollondilly.csv,plurality,strat_compromise
+36,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ballina.csv,plurality,strat_compromise
+37,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lismore.csv,plurality_runoff,strat_compromise
+38,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Ballina.csv,plurality_runoff,strat_compromise
+39,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lismore.csv,IRV,strat_compromise
+40,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data South Coast.csv,smith_plurality,strat_bury_deep
+41,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wakehurst.csv,smith_plurality,strat_bury_deep
+42,./data/australia/Australia_NewSouthWales_Mayorals_2021/Kempsey-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_compromise
+43,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Orange-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_compromise
+44,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lismore.csv,Borda_PM,strat_compromise
+45,./data/australia/Australia_Victoria_LegAssembly_2018/BallotPaperDetails-Melbourne District SE2018.csv,Borda_PM,strat_compromise
+46,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Northcote with candidates.csv,Borda_PM,strat_compromise
+47,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Werribee with candidates.csv,Borda_PM,strat_compromise
+48,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Hawthorn with candidates.csv,Borda_PM,strat_compromise
+49,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Preston with Candidates.csv,Borda_PM,strat_compromise
+50,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Lismore.csv,Borda_PM,strat_compromise
+51,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_East Hills.csv,Borda_PM,strat_compromise
+52,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ryde.csv,Borda_PM,strat_compromise
+53,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Balmain.csv,Borda_PM,strat_compromise
+54,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Kiama.csv,Borda_PM,strat_compromise
+55,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Holsworthy.csv,Borda_PM,strat_compromise
+56,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ballina.csv,Borda_PM,strat_compromise
+57,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Maitland-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_truncate_L
+58,./data/australia/Australia_NewSouthWales_Mayorals_2021/Byron-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_truncate_L
+59,./data/australia/Australia_NewSouthWales_Mayorals_2021/Wollondilly-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_truncate_L
+60,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Liverpool-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_truncate_L
+61,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Wollongong-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_truncate_L
+62,./data/australia/Australia_NewSouthWales_Mayorals_2021/Eurobodalla-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_truncate_L
+63,./data/australia/Australia_NewSouthWales_Mayorals_2021/Kempsey-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_truncate_L
+64,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Orange-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_truncate_L
+65,./data/australia/Australia_NSW_LegAssembly_2017_ByElections/SB1702 LA Pref Data_NA_Murray.csv,Borda_PM,strat_truncate_L
+66,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Murray.csv,Borda_PM,strat_truncate_L
+67,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Dubbo.csv,Borda_PM,strat_truncate_L
+68,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Balmain.csv,Borda_PM,strat_truncate_L
+69,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data East Hills.csv,Borda_PM,strat_truncate_L
+70,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Newtown.csv,Borda_PM,strat_truncate_L
+71,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Penrith.csv,Borda_PM,strat_truncate_L
+72,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lismore.csv,Borda_PM,strat_truncate_L
+73,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Kogarah.csv,Borda_PM,strat_truncate_L
+74,./data/australia/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB1801 LA Pref Data_NA_Wagga Wagga.csv,Borda_PM,strat_truncate_L
+75,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Point Cook with candidates.csv,Borda_PM,strat_truncate_L
+76,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Melton with candidates.csv,Borda_PM,strat_truncate_L
+77,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Werribee with candidates.csv,Borda_PM,strat_truncate_L
+78,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Hawthorn with candidates.csv,Borda_PM,strat_truncate_L
+79,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Preston with Candidates.csv,Borda_PM,strat_truncate_L
+80,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Brighton with candidates.csv,Borda_PM,strat_truncate_L
+81,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Gosford.csv,Borda_PM,strat_truncate_L
+82,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Strathfield.csv,Borda_PM,strat_truncate_L
+83,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Summer Hill.csv,Borda_PM,strat_truncate_L
+84,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_East Hills.csv,Borda_PM,strat_truncate_L
+85,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Newtown.csv,Borda_PM,strat_truncate_L
+86,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Balmain.csv,Borda_PM,strat_truncate_L
+87,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Granville.csv,Borda_PM,strat_truncate_L
+88,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_The Entrance.csv,Borda_PM,strat_truncate_L
+89,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Monaro.csv,Borda_PM,strat_truncate_L
+90,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ryde.csv,Borda_PM,strat_truncate_L
+91,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Goulburn.csv,Borda_PM,strat_truncate_L
+92,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Drummoyne.csv,Borda_PM,strat_truncate_L
+93,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Oatley.csv,Borda_PM,strat_truncate_L
+94,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Pittwater.csv,Borda_PM,strat_truncate_L
+95,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Newtown.csv,Borda_PM,strat_truncate_L
+96,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Camden.csv,Borda_PM,strat_truncate_L
+97,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data East Hills.csv,Borda_PM,strat_truncate_L
+98,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Kiama.csv,Borda_PM,strat_truncate_L
+99,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Holsworthy.csv,Borda_PM,strat_truncate_L
+100,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wollondilly.csv,Borda_PM,strat_truncate_L
+101,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Riverstone.csv,Borda_PM,strat_truncate_L
+102,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Penrith.csv,Borda_PM,strat_truncate_L
+103,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ballina.csv,Borda_PM,strat_truncate_L
+104,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Winston Hills.csv,Borda_PM,strat_truncate_L
+105,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wakehurst.csv,Borda_PM,strat_truncate_L
+106,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Maitland-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_truncate_W
+107,./data/australia/Australia_NewSouthWales_Mayorals_2021/Byron-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_truncate_W
+108,./data/australia/Australia_NewSouthWales_Mayorals_2021/Wollondilly-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_truncate_W
+109,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Liverpool-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_truncate_W
+110,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Wollongong-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_truncate_W
+111,./data/australia/Australia_NewSouthWales_Mayorals_2021/Eurobodalla-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_truncate_W
+112,./data/australia/Australia_NewSouthWales_Mayorals_2021/Kempsey-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_truncate_W
+113,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Orange-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_truncate_W
+114,./data/australia/Australia_NSW_LegAssembly_2017_ByElections/SB1702 LA Pref Data_NA_Murray.csv,Borda_PM,strat_truncate_W
+115,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Murray.csv,Borda_PM,strat_truncate_W
+116,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Dubbo.csv,Borda_PM,strat_truncate_W
+117,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Balmain.csv,Borda_PM,strat_truncate_W
+118,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data East Hills.csv,Borda_PM,strat_truncate_W
+119,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Newtown.csv,Borda_PM,strat_truncate_W
+120,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Penrith.csv,Borda_PM,strat_truncate_W
+121,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lismore.csv,Borda_PM,strat_truncate_W
+122,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Kogarah.csv,Borda_PM,strat_truncate_W
+123,./data/australia/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB1801 LA Pref Data_NA_Wagga Wagga.csv,Borda_PM,strat_truncate_W
+124,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Point Cook with candidates.csv,Borda_PM,strat_truncate_W
+125,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Melton with candidates.csv,Borda_PM,strat_truncate_W
+126,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Werribee with candidates.csv,Borda_PM,strat_truncate_W
+127,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Hawthorn with candidates.csv,Borda_PM,strat_truncate_W
+128,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Preston with Candidates.csv,Borda_PM,strat_truncate_W
+129,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Brighton with candidates.csv,Borda_PM,strat_truncate_W
+130,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Gosford.csv,Borda_PM,strat_truncate_W
+131,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Strathfield.csv,Borda_PM,strat_truncate_W
+132,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Summer Hill.csv,Borda_PM,strat_truncate_W
+133,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Ballina.csv,Borda_PM,strat_truncate_W
+134,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_East Hills.csv,Borda_PM,strat_truncate_W
+135,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Newtown.csv,Borda_PM,strat_truncate_W
+136,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Balmain.csv,Borda_PM,strat_truncate_W
+137,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Granville.csv,Borda_PM,strat_truncate_W
+138,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_The Entrance.csv,Borda_PM,strat_truncate_W
+139,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Monaro.csv,Borda_PM,strat_truncate_W
+140,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ryde.csv,Borda_PM,strat_truncate_W
+141,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Goulburn.csv,Borda_PM,strat_truncate_W
+142,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Drummoyne.csv,Borda_PM,strat_truncate_W
+143,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Oatley.csv,Borda_PM,strat_truncate_W
+144,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Pittwater.csv,Borda_PM,strat_truncate_W
+145,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Newtown.csv,Borda_PM,strat_truncate_W
+146,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Camden.csv,Borda_PM,strat_truncate_W
+147,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data East Hills.csv,Borda_PM,strat_truncate_W
+148,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Kiama.csv,Borda_PM,strat_truncate_W
+149,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Holsworthy.csv,Borda_PM,strat_truncate_W
+150,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wollondilly.csv,Borda_PM,strat_truncate_W
+151,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Riverstone.csv,Borda_PM,strat_truncate_W
+152,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Penrith.csv,Borda_PM,strat_truncate_W
+153,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ballina.csv,Borda_PM,strat_truncate_W
+154,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Winston Hills.csv,Borda_PM,strat_truncate_W
+155,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wakehurst.csv,Borda_PM,strat_truncate_W
+156,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Maitland-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_bury_shallow
+157,./data/australia/Australia_NewSouthWales_Mayorals_2021/Wollondilly-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_bury_shallow
+158,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Liverpool-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_bury_shallow
+159,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Wollongong-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_bury_shallow
+160,./data/australia/Australia_NewSouthWales_Mayorals_2021/Eurobodalla-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_bury_shallow
+161,./data/australia/Australia_NewSouthWales_Mayorals_2021/Kempsey-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_bury_shallow
+162,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Orange-mayoral-finalpreferencedatafile.csv,Borda_PM,strat_bury_shallow
+163,./data/australia/Australia_NSW_LegAssembly_2017_ByElections/SB1702 LA Pref Data_NA_Murray.csv,Borda_PM,strat_bury_shallow
+164,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Murray.csv,Borda_PM,strat_bury_shallow
+165,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Dubbo.csv,Borda_PM,strat_bury_shallow
+166,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Balmain.csv,Borda_PM,strat_bury_shallow
+167,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data East Hills.csv,Borda_PM,strat_bury_shallow
+168,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Newtown.csv,Borda_PM,strat_bury_shallow
+169,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Penrith.csv,Borda_PM,strat_bury_shallow
+170,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lismore.csv,Borda_PM,strat_bury_shallow
+171,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Kogarah.csv,Borda_PM,strat_bury_shallow
+172,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Gosford.csv,Borda_PM,strat_bury_shallow
+173,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Strathfield.csv,Borda_PM,strat_bury_shallow
+174,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Summer Hill.csv,Borda_PM,strat_bury_shallow
+175,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_East Hills.csv,Borda_PM,strat_bury_shallow
+176,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Newtown.csv,Borda_PM,strat_bury_shallow
+177,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Balmain.csv,Borda_PM,strat_bury_shallow
+178,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Granville.csv,Borda_PM,strat_bury_shallow
+179,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_The Entrance.csv,Borda_PM,strat_bury_shallow
+180,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Monaro.csv,Borda_PM,strat_bury_shallow
+181,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ryde.csv,Borda_PM,strat_bury_shallow
+182,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Goulburn.csv,Borda_PM,strat_bury_shallow
+183,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Drummoyne.csv,Borda_PM,strat_bury_shallow
+184,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Oatley.csv,Borda_PM,strat_bury_shallow
+185,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Pittwater.csv,Borda_PM,strat_bury_shallow
+186,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Newtown.csv,Borda_PM,strat_bury_shallow
+187,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Camden.csv,Borda_PM,strat_bury_shallow
+188,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data East Hills.csv,Borda_PM,strat_bury_shallow
+189,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Kiama.csv,Borda_PM,strat_bury_shallow
+190,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Holsworthy.csv,Borda_PM,strat_bury_shallow
+191,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wollondilly.csv,Borda_PM,strat_bury_shallow
+192,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Riverstone.csv,Borda_PM,strat_bury_shallow
+193,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Penrith.csv,Borda_PM,strat_bury_shallow
+194,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Winston Hills.csv,Borda_PM,strat_bury_shallow
+195,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wakehurst.csv,Borda_PM,strat_bury_shallow
+196,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Maitland-mayoral-finalpreferencedatafile.csv,Borda_OM,strat_compromise
+197,./data/australia/Australia_NewSouthWales_Mayorals_2021/Byron-mayoral-finalpreferencedatafile.csv,Borda_OM,strat_compromise
+198,./data/australia/Australia_NewSouthWales_Mayorals_2021/Singleton-mayoral-finalpreferencedatafile.csv,Borda_OM,strat_compromise
+199,./data/australia/Australia_NewSouthWales_Mayorals_2021/Wollondilly-mayoral-finalpreferencedatafile.csv,Borda_OM,strat_compromise
+200,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Wollongong-mayoral-finalpreferencedatafile.csv,Borda_OM,strat_compromise
+201,./data/australia/Australia_NewSouthWales_Mayorals_2021/Eurobodalla-mayoral-finalpreferencedatafile.csv,Borda_OM,strat_compromise
+202,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Orange-mayoral-finalpreferencedatafile.csv,Borda_OM,strat_compromise
+203,./data/australia/Australia_NSW_LegAssembly_2017_ByElections/SB1702 LA Pref Data_NA_Cootamundra.csv,Borda_OM,strat_compromise
+204,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Camden.csv,Borda_OM,strat_compromise
+205,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Kiama.csv,Borda_OM,strat_compromise
+206,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Ryde.csv,Borda_OM,strat_compromise
+207,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Clarence.csv,Borda_OM,strat_compromise
+208,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Wakehurst.csv,Borda_OM,strat_compromise
+209,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Upper Hunter.csv,Borda_OM,strat_compromise
+210,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data North Shore.csv,Borda_OM,strat_compromise
+211,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Parramatta.csv,Borda_OM,strat_compromise
+212,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Hawkesbury.csv,Borda_OM,strat_compromise
+213,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Hornsby.csv,Borda_OM,strat_compromise
+214,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lismore.csv,Borda_OM,strat_compromise
+215,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Oxley.csv,Borda_OM,strat_compromise
+216,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Holsworthy.csv,Borda_OM,strat_compromise
+217,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lane Cove.csv,Borda_OM,strat_compromise
+218,./data/australia/Australia_Victoria_LegAssembly_2018/BallotPaperDetails-Melbourne District SE2018.csv,Borda_OM,strat_compromise
+219,./data/australia/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2101 LA Pref Data_NA_Upper Hunter.csv,Borda_OM,strat_compromise
+220,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Northcote with candidates.csv,Borda_OM,strat_compromise
+221,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Werribee with candidates.csv,Borda_OM,strat_compromise
+222,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Hawthorn with candidates.csv,Borda_OM,strat_compromise
+223,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Preston with Candidates.csv,Borda_OM,strat_compromise
+224,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Lismore.csv,Borda_OM,strat_compromise
+225,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_North Shore.csv,Borda_OM,strat_compromise
+226,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_South Coast.csv,Borda_OM,strat_compromise
+227,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Epping.csv,Borda_OM,strat_compromise
+228,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Myall Lakes.csv,Borda_OM,strat_compromise
+229,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Parramatta.csv,Borda_OM,strat_compromise
+230,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Wollongong.csv,Borda_OM,strat_compromise
+231,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Ryde.csv,Borda_OM,strat_compromise
+232,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Kellyville.csv,Borda_OM,strat_compromise
+233,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Oxley.csv,Borda_OM,strat_compromise
+234,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Castle Hill.csv,Borda_OM,strat_compromise
+235,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Lane Cove.csv,Borda_OM,strat_compromise
+236,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Balmain.csv,Borda_OM,strat_compromise
+237,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Tamworth.csv,Borda_OM,strat_compromise
+238,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Hornsby.csv,Borda_OM,strat_compromise
+239,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Vaucluse.csv,Borda_OM,strat_compromise
+240,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wahroonga.csv,Borda_OM,strat_compromise
+241,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Liverpool-mayoral-finalpreferencedatafile.csv,Borda_OM,strat_bury_shallow
+242,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Newcastle.csv,Borda_OM,strat_bury_shallow
+243,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Murray.csv,Borda_OM,strat_bury_shallow
+244,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Coogee.csv,Borda_OM,strat_bury_shallow
+245,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Camden.csv,Borda_OM,strat_bury_shallow
+246,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Summer Hill.csv,Borda_OM,strat_bury_shallow
+247,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Kiama.csv,Borda_OM,strat_bury_shallow
+248,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Epping.csv,Borda_OM,strat_bury_shallow
+249,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Myall Lakes.csv,Borda_OM,strat_bury_shallow
+250,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Ryde.csv,Borda_OM,strat_bury_shallow
+251,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Clarence.csv,Borda_OM,strat_bury_shallow
+252,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Balmain.csv,Borda_OM,strat_bury_shallow
+253,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data East Hills.csv,Borda_OM,strat_bury_shallow
+254,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Newtown.csv,Borda_OM,strat_bury_shallow
+255,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Riverstone.csv,Borda_OM,strat_bury_shallow
+256,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Oxley.csv,Borda_OM,strat_bury_shallow
+257,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Holsworthy.csv,Borda_OM,strat_bury_shallow
+258,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Seven Hills.csv,Borda_OM,strat_bury_shallow
+259,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Tamworth.csv,Borda_OM,strat_bury_shallow
+260,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Oatley.csv,Borda_OM,strat_bury_shallow
+261,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Penrith.csv,Borda_OM,strat_bury_shallow
+262,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Albury.csv,Borda_OM,strat_bury_shallow
+263,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_South Coast.csv,Borda_OM,strat_bury_shallow
+264,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Lake Macquarie.csv,Borda_OM,strat_bury_shallow
+265,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Summer Hill.csv,Borda_OM,strat_bury_shallow
+266,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Monaro.csv,Borda_OM,strat_bury_shallow
+267,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Mulgoa.csv,Borda_OM,strat_bury_shallow
+268,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Oxley.csv,Borda_OM,strat_bury_shallow
+269,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Terrigal.csv,Borda_OM,strat_bury_shallow
+270,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Holsworthy.csv,Borda_OM,strat_bury_shallow
+271,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Seven Hills.csv,Borda_OM,strat_bury_shallow
+272,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Newtown.csv,Borda_OM,strat_bury_shallow
+273,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Maitland.csv,Borda_OM,strat_bury_shallow
+274,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Balmain.csv,Borda_OM,strat_bury_shallow
+275,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Ryde.csv,Borda_OM,strat_bury_shallow
+276,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Kiama.csv,Borda_OM,strat_bury_shallow
+277,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Miranda.csv,Borda_OM,strat_bury_shallow
+278,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Kellyville.csv,Borda_OM,strat_bury_shallow
+279,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Goulburn.csv,Borda_OM,strat_bury_shallow
+280,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Castle Hill.csv,Borda_OM,strat_bury_shallow
+281,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Newtown.csv,Borda_OM,strat_bury_shallow
+282,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Heffron.csv,Borda_OM,strat_bury_shallow
+283,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Balmain.csv,Borda_OM,strat_bury_shallow
+284,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Summer Hill.csv,Borda_OM,strat_bury_shallow
+285,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Holsworthy.csv,Borda_OM,strat_bury_shallow
+286,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Tamworth.csv,Borda_OM,strat_bury_shallow
+287,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Hawkesbury.csv,Borda_OM,strat_bury_shallow
+288,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Newcastle.csv,Borda_OM,strat_bury_shallow
+289,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Lismore-mayoral-finalpreferencedatafile.csv,Borda_OM,strat_bury_deep
+290,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Newcastle-mayoral-finalpreferencedatafile.csv,Borda_OM,strat_bury_deep
+291,./data/australia/Australia_NewSouthWales_Mayorals_2021/Port_Macquarie-Hastings-mayoral-finalpreferencedatafile.csv,Borda_OM,strat_bury_deep
+292,./data/australia/Australia_NSW_LegAssembly_2017_ByElections/SB1701 LA Pref Data_NA_North Shore.csv,Borda_OM,strat_bury_deep
+293,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Murray.csv,Borda_OM,strat_bury_deep
+294,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Orange.csv,Borda_OM,strat_bury_deep
+295,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Coogee.csv,Borda_OM,strat_bury_deep
+296,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Port Macquarie.csv,Borda_OM,strat_bury_deep
+297,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Blue Mountains.csv,Borda_OM,strat_bury_deep
+298,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Summer Hill.csv,Borda_OM,strat_bury_deep
+299,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Willoughby.csv,Borda_OM,strat_bury_deep
+300,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Tamworth.csv,Borda_OM,strat_bury_deep
+301,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Bega.csv,Borda_OM,strat_bury_deep
+302,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Ku-ring-gai.csv,Borda_OM,strat_bury_deep
+303,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Bathurst.csv,Borda_OM,strat_bury_deep
+304,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Cootamundra.csv,Borda_OM,strat_bury_deep
+305,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Newtown.csv,Borda_OM,strat_bury_deep
+306,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data South Coast.csv,Borda_OM,strat_bury_deep
+307,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lake Macquarie.csv,Borda_OM,strat_bury_deep
+308,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Wagga Wagga.csv,Borda_OM,strat_bury_deep
+309,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Riverstone.csv,Borda_OM,strat_bury_deep
+310,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Canterbury.csv,Borda_OM,strat_bury_deep
+311,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lakemba.csv,Borda_OM,strat_bury_deep
+312,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Barwon.csv,Borda_OM,strat_bury_deep
+313,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Bankstown.csv,Borda_OM,strat_bury_deep
+314,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Clarence.csv,Borda_OM,strat_bury_deep
+315,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Pittwater.csv,Borda_OM,strat_bury_deep
+316,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Lane Cove.csv,Borda_OM,strat_bury_deep
+317,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Bathurst.csv,Borda_OM,strat_bury_deep
+318,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Orange.csv,Borda_OM,strat_bury_deep
+319,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Hornsby.csv,Borda_OM,strat_bury_deep
+320,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_North Shore.csv,Borda_OM,strat_bury_deep
+321,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Epping.csv,Borda_OM,strat_bury_deep
+322,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Cootamundra.csv,Borda_OM,strat_bury_deep
+323,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Cronulla.csv,Borda_OM,strat_bury_deep
+324,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Ku-ring-gai.csv,Borda_OM,strat_bury_deep
+325,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Port Macquarie.csv,Borda_OM,strat_bury_deep
+326,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Lakemba.csv,Borda_OM,strat_bury_deep
+327,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Manly.csv,Borda_OM,strat_bury_deep
+328,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Charlestown.csv,Borda_OM,strat_bury_deep
+329,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Willoughby.csv,Borda_OM,strat_bury_deep
+330,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Vaucluse.csv,Borda_OM,strat_bury_deep
+331,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Heathcote.csv,Borda_OM,strat_bury_deep
+332,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Cessnock.csv,Borda_OM,strat_bury_deep
+333,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Wakehurst.csv,Borda_OM,strat_bury_deep
+334,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Baulkham Hills.csv,Borda_OM,strat_bury_deep
+335,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Heffron.csv,Borda_OM,strat_bury_deep
+336,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Canterbury.csv,Borda_OM,strat_bury_deep
+337,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Sydney.csv,Borda_OM,strat_bury_deep
+338,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Manly.csv,Borda_OM,strat_bury_deep
+339,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Lake Macquarie.csv,Borda_OM,strat_bury_deep
+340,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Rockdale.csv,Borda_OM,strat_bury_deep
+341,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Summer Hill.csv,Borda_OM,strat_bury_deep
+342,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wyong.csv,Borda_OM,strat_bury_deep
+343,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Lismore.csv,Borda_OM,strat_bury_deep
+344,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Auburn.csv,Borda_OM,strat_bury_deep
+345,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Dubbo.csv,Borda_OM,strat_bury_deep
+346,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Newcastle.csv,Borda_OM,strat_bury_deep
+347,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Davidson.csv,Borda_OM,strat_bury_deep
+348,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Heathcote.csv,Borda_OM,strat_bury_deep
+349,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Northern Tablelands.csv,Borda_OM,strat_bury_deep
+350,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Maitland-mayoral-finalpreferencedatafile.csv,Borda_AVG,strat_compromise
+351,./data/australia/Australia_NewSouthWales_Mayorals_2021/Wollondilly-mayoral-finalpreferencedatafile.csv,Borda_AVG,strat_compromise
+352,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Liverpool-mayoral-finalpreferencedatafile.csv,Borda_AVG,strat_compromise
+353,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Wollongong-mayoral-finalpreferencedatafile.csv,Borda_AVG,strat_compromise
+354,./data/australia/Australia_NewSouthWales_Mayorals_2021/Hunters_Hill-mayoral-finalpreferencedatafile.csv,Borda_AVG,strat_compromise
+355,./data/australia/Australia_NewSouthWales_Mayorals_2021/Eurobodalla-mayoral-finalpreferencedatafile.csv,Borda_AVG,strat_compromise
+356,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Orange-mayoral-finalpreferencedatafile.csv,Borda_AVG,strat_compromise
+357,./data/australia/Australia_NSW_LegAssembly_2017_ByElections/SB1702 LA Pref Data_NA_Murray.csv,Borda_AVG,strat_compromise
+358,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Heathcote.csv,Borda_AVG,strat_compromise
+359,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Tweed.csv,Borda_AVG,strat_compromise
+360,./data/australia/Australia_Victoria_LegAssembly_2018/BallotPaperDetails-Melbourne District SE2018.csv,Borda_AVG,strat_compromise
+361,./data/australia/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Monaro.csv,Borda_AVG,strat_compromise
+362,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Northcote with candidates.csv,Borda_AVG,strat_compromise
+363,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Werribee with candidates.csv,Borda_AVG,strat_compromise
+364,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Hawthorn with candidates.csv,Borda_AVG,strat_compromise
+365,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Preston with Candidates.csv,Borda_AVG,strat_compromise
+366,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Upper Hunter.csv,Borda_AVG,strat_compromise
+367,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Goulburn.csv,Borda_AVG,strat_compromise
+368,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Upper Hunter.csv,Borda_AVG,strat_compromise
+369,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Epping.csv,Borda_AVG,strat_compromise
+370,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Willoughby.csv,Borda_AVG,strat_compromise
+371,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Balmain.csv,Borda_AVG,strat_compromise
+372,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Holsworthy.csv,Borda_AVG,strat_compromise
+373,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ballina.csv,Borda_AVG,strat_compromise
+374,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Preston with Candidates.csv,Borda_AVG,strat_truncate_L
+375,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Balmain.csv,Borda_AVG,strat_truncate_L
+376,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Balmain.csv,Borda_AVG,strat_truncate_L
+377,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ballina.csv,Borda_AVG,strat_truncate_L
+378,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Maitland-mayoral-finalpreferencedatafile.csv,Borda_AVG,strat_truncate_W
+379,./data/australia/Australia_NewSouthWales_Mayorals_2021/Byron-mayoral-finalpreferencedatafile.csv,Borda_AVG,strat_truncate_W
+380,./data/australia/Australia_NewSouthWales_Mayorals_2021/Wollondilly-mayoral-finalpreferencedatafile.csv,Borda_AVG,strat_truncate_W
+381,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Wollongong-mayoral-finalpreferencedatafile.csv,Borda_AVG,strat_truncate_W
+382,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Shoalhaven-mayoral-finalpreferencedatafile.csv,Borda_AVG,strat_truncate_W
+383,./data/australia/Australia_NewSouthWales_Mayorals_2021/Eurobodalla-mayoral-finalpreferencedatafile.csv,Borda_AVG,strat_truncate_W
+384,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Orange-mayoral-finalpreferencedatafile.csv,Borda_AVG,strat_truncate_W
+385,./data/australia/Australia_NSW_LegAssembly_2017_ByElections/SB1701 LA Pref Data_NA_North Shore.csv,Borda_AVG,strat_truncate_W
+386,./data/australia/Australia_NSW_LegAssembly_2017_ByElections/SB1702 LA Pref Data_NA_Murray.csv,Borda_AVG,strat_truncate_W
+387,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Dubbo.csv,Borda_AVG,strat_truncate_W
+388,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Heathcote.csv,Borda_AVG,strat_truncate_W
+389,./data/australia/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Willoughby.csv,Borda_AVG,strat_truncate_W
+390,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Hawthorn with candidates.csv,Borda_AVG,strat_truncate_W
+391,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Brighton with candidates.csv,Borda_AVG,strat_truncate_W
+392,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Coogee.csv,Borda_AVG,strat_truncate_W
+393,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Tweed.csv,Borda_AVG,strat_truncate_W
+394,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Upper Hunter.csv,Borda_AVG,strat_truncate_W
+395,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Monaro.csv,Borda_AVG,strat_truncate_W
+396,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Balmain.csv,Borda_AVG,strat_truncate_W
+397,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ryde.csv,Borda_AVG,strat_truncate_W
+398,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Goulburn.csv,Borda_AVG,strat_truncate_W
+399,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Terrigal.csv,Borda_AVG,strat_truncate_W
+400,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Manly.csv,Borda_AVG,strat_truncate_W
+401,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Upper Hunter.csv,Borda_AVG,strat_truncate_W
+402,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Miranda.csv,Borda_AVG,strat_truncate_W
+403,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Epping.csv,Borda_AVG,strat_truncate_W
+404,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Tweed.csv,Borda_AVG,strat_truncate_W
+405,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Balmain.csv,Borda_AVG,strat_truncate_W
+406,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Holsworthy.csv,Borda_AVG,strat_truncate_W
+407,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wollondilly.csv,Borda_AVG,strat_truncate_W
+408,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data North Shore.csv,Borda_AVG,strat_truncate_W
+409,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Winston Hills.csv,Borda_AVG,strat_truncate_W
+410,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Maitland-mayoral-finalpreferencedatafile.csv,Borda_AVG,strat_bury_shallow
+411,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Wollongong-mayoral-finalpreferencedatafile.csv,Borda_AVG,strat_bury_shallow
+412,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Shoalhaven-mayoral-finalpreferencedatafile.csv,Borda_AVG,strat_bury_shallow
+413,./data/australia/Australia_NSW_LegAssembly_2017_ByElections/SB1701 LA Pref Data_NA_North Shore.csv,Borda_AVG,strat_bury_shallow
+414,./data/australia/Australia_NSW_LegAssembly_2017_ByElections/SB1702 LA Pref Data_NA_Murray.csv,Borda_AVG,strat_bury_shallow
+415,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Murray.csv,Borda_AVG,strat_bury_shallow
+416,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Dubbo.csv,Borda_AVG,strat_bury_shallow
+417,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Wollondilly.csv,Borda_AVG,strat_bury_shallow
+418,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Bega.csv,Borda_AVG,strat_bury_shallow
+419,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Balmain.csv,Borda_AVG,strat_bury_shallow
+420,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Newtown.csv,Borda_AVG,strat_bury_shallow
+421,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Heathcote.csv,Borda_AVG,strat_bury_shallow
+422,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Kogarah.csv,Borda_AVG,strat_bury_shallow
+423,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Holsworthy.csv,Borda_AVG,strat_bury_shallow
+424,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Goulburn.csv,Borda_AVG,strat_bury_shallow
+425,./data/australia/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Willoughby.csv,Borda_AVG,strat_bury_shallow
+426,./data/australia/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Monaro.csv,Borda_AVG,strat_bury_shallow
+427,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Coogee.csv,Borda_AVG,strat_bury_shallow
+428,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Oatley.csv,Borda_AVG,strat_bury_shallow
+429,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Tweed.csv,Borda_AVG,strat_bury_shallow
+430,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Upper Hunter.csv,Borda_AVG,strat_bury_shallow
+431,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Summer Hill.csv,Borda_AVG,strat_bury_shallow
+432,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Newtown.csv,Borda_AVG,strat_bury_shallow
+433,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Balmain.csv,Borda_AVG,strat_bury_shallow
+434,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_The Entrance.csv,Borda_AVG,strat_bury_shallow
+435,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ryde.csv,Borda_AVG,strat_bury_shallow
+436,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Goulburn.csv,Borda_AVG,strat_bury_shallow
+437,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Terrigal.csv,Borda_AVG,strat_bury_shallow
+438,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Manly.csv,Borda_AVG,strat_bury_shallow
+439,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Upper Hunter.csv,Borda_AVG,strat_bury_shallow
+440,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Drummoyne.csv,Borda_AVG,strat_bury_shallow
+441,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Oatley.csv,Borda_AVG,strat_bury_shallow
+442,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Miranda.csv,Borda_AVG,strat_bury_shallow
+443,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Pittwater.csv,Borda_AVG,strat_bury_shallow
+444,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Epping.csv,Borda_AVG,strat_bury_shallow
+445,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Newtown.csv,Borda_AVG,strat_bury_shallow
+446,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Tweed.csv,Borda_AVG,strat_bury_shallow
+447,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Balmain.csv,Borda_AVG,strat_bury_shallow
+448,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Camden.csv,Borda_AVG,strat_bury_shallow
+449,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Kiama.csv,Borda_AVG,strat_bury_shallow
+450,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Holsworthy.csv,Borda_AVG,strat_bury_shallow
+451,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Winston Hills.csv,Borda_AVG,strat_bury_shallow
+452,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Riverstone.csv,Borda_AVG,strat_bury_deep
+453,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Summer Hill.csv,Borda_AVG,strat_bury_deep
+454,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Point Cook with candidates.csv,bucklin,strat_compromise
+455,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Melton with candidates.csv,bucklin,strat_compromise
+456,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Northcote with candidates.csv,bucklin,strat_compromise
+457,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Werribee with candidates.csv,bucklin,strat_compromise
+458,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Hawthorn with candidates.csv,bucklin,strat_compromise
+459,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Preston with Candidates.csv,bucklin,strat_compromise
+460,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Pittwater.csv,bucklin,strat_compromise
+461,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ballina.csv,bucklin,strat_compromise
+462,./data/australia/Australia_NewSouthWales_Mayorals_2021/Byron-mayoral-finalpreferencedatafile.csv,bucklin,strat_truncate_L
+463,./data/australia/Australia_NewSouthWales_Mayorals_2021/Singleton-mayoral-finalpreferencedatafile.csv,bucklin,strat_truncate_L
+464,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Cessnock-mayoral-finalpreferencedatafile.csv,bucklin,strat_truncate_L
+465,./data/australia/Australia_NewSouthWales_Mayorals_2021/Wollondilly-mayoral-finalpreferencedatafile.csv,bucklin,strat_truncate_L
+466,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Liverpool-mayoral-finalpreferencedatafile.csv,bucklin,strat_truncate_L
+467,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Willoughby-mayoral-finalpreferencedatafile.csv,bucklin,strat_truncate_L
+468,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Wollongong-mayoral-finalpreferencedatafile.csv,bucklin,strat_truncate_L
+469,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Shoalhaven-mayoral-finalpreferencedatafile.csv,bucklin,strat_truncate_L
+470,./data/australia/Australia_NewSouthWales_Mayorals_2021/Hunters_Hill-mayoral-finalpreferencedatafile.csv,bucklin,strat_truncate_L
+471,./data/australia/Australia_NewSouthWales_Mayorals_2021/Eurobodalla-mayoral-finalpreferencedatafile.csv,bucklin,strat_truncate_L
+472,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Orange-mayoral-finalpreferencedatafile.csv,bucklin,strat_truncate_L
+473,./data/australia/Australia_NSW_LegAssembly_2017_ByElections/SB1701 LA Pref Data_NA_North Shore.csv,bucklin,strat_truncate_L
+474,./data/australia/Australia_NSW_LegAssembly_2017_ByElections/SB1702 LA Pref Data_NA_Murray.csv,bucklin,strat_truncate_L
+475,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Murray.csv,bucklin,strat_truncate_L
+476,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Dubbo.csv,bucklin,strat_truncate_L
+477,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Balmain.csv,bucklin,strat_truncate_L
+478,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Upper Hunter.csv,bucklin,strat_truncate_L
+479,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data East Hills.csv,bucklin,strat_truncate_L
+480,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Newtown.csv,bucklin,strat_truncate_L
+481,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Penrith.csv,bucklin,strat_truncate_L
+482,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Lismore.csv,bucklin,strat_truncate_L
+483,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Kogarah.csv,bucklin,strat_truncate_L
+484,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Holsworthy.csv,bucklin,strat_truncate_L
+485,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Goulburn.csv,bucklin,strat_truncate_L
+486,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Tweed.csv,bucklin,strat_truncate_L
+487,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Ballina.csv,bucklin,strat_truncate_L
+488,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data The Entrance.csv,bucklin,strat_truncate_L
+489,./data/australia/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Willoughby.csv,bucklin,strat_truncate_L
+490,./data/australia/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Monaro.csv,bucklin,strat_truncate_L
+491,./data/australia/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB1801 LA Pref Data_NA_Wagga Wagga.csv,bucklin,strat_truncate_L
+492,./data/australia/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Strathfield.csv,bucklin,strat_truncate_L
+493,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Northcote with candidates.csv,bucklin,strat_truncate_L
+494,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Hawthorn with candidates.csv,bucklin,strat_truncate_L
+495,./data/australia/Australia_Victoria_LegAssembly_2022/BallotPaperDetails-Preston with Candidates.csv,bucklin,strat_truncate_L
+496,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Coogee.csv,bucklin,strat_truncate_L
+497,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Lismore.csv,bucklin,strat_truncate_L
+498,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Tweed.csv,bucklin,strat_truncate_L
+499,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Blue Mountains.csv,bucklin,strat_truncate_L
+500,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Sydney.csv,bucklin,strat_truncate_L
+501,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Upper Hunter.csv,bucklin,strat_truncate_L
+502,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Strathfield.csv,bucklin,strat_truncate_L
+503,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Summer Hill.csv,bucklin,strat_truncate_L
+504,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Ballina.csv,bucklin,strat_truncate_L
+505,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_East Hills.csv,bucklin,strat_truncate_L
+506,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Prospect.csv,bucklin,strat_truncate_L
+507,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Newtown.csv,bucklin,strat_truncate_L
+508,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Balmain.csv,bucklin,strat_truncate_L
+509,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Auburn.csv,bucklin,strat_truncate_L
+510,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Granville.csv,bucklin,strat_truncate_L
+511,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Rockdale.csv,bucklin,strat_truncate_L
+512,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Monaro.csv,bucklin,strat_truncate_L
+513,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ryde.csv,bucklin,strat_truncate_L
+514,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Goulburn.csv,bucklin,strat_truncate_L
+515,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Terrigal.csv,bucklin,strat_truncate_L
+516,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Manly.csv,bucklin,strat_truncate_L
+517,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Upper Hunter.csv,bucklin,strat_truncate_L
+518,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Drummoyne.csv,bucklin,strat_truncate_L
+519,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Port Macquarie.csv,bucklin,strat_truncate_L
+520,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Oatley.csv,bucklin,strat_truncate_L
+521,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Lane Cove.csv,bucklin,strat_truncate_L
+522,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Miranda.csv,bucklin,strat_truncate_L
+523,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Pittwater.csv,bucklin,strat_truncate_L
+524,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Tweed.csv,bucklin,strat_truncate_L
+525,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Willoughby.csv,bucklin,strat_truncate_L
+526,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Camden.csv,bucklin,strat_truncate_L
+527,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data East Hills.csv,bucklin,strat_truncate_L
+528,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Kiama.csv,bucklin,strat_truncate_L
+529,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Holsworthy.csv,bucklin,strat_truncate_L
+530,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wollondilly.csv,bucklin,strat_truncate_L
+531,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Riverstone.csv,bucklin,strat_truncate_L
+532,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Penrith.csv,bucklin,strat_truncate_L
+533,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ballina.csv,bucklin,strat_truncate_L
+534,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data South Coast.csv,bucklin,strat_truncate_L
+535,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Winston Hills.csv,bucklin,strat_truncate_L
+536,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wakehurst.csv,bucklin,strat_truncate_L
+537,./data/australia/Australia_NewSouthWales_Mayorals_2021/Byron-mayoral-finalpreferencedatafile.csv,bucklin,strat_truncate_W
+538,./data/australia/Australia_NewSouthWales_Mayorals_2021/Singleton-mayoral-finalpreferencedatafile.csv,bucklin,strat_truncate_W
+539,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Cessnock-mayoral-finalpreferencedatafile.csv,bucklin,strat_truncate_W
+540,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Liverpool-mayoral-finalpreferencedatafile.csv,bucklin,strat_truncate_W
+541,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Willoughby-mayoral-finalpreferencedatafile.csv,bucklin,strat_truncate_W
+542,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Wollongong-mayoral-finalpreferencedatafile.csv,bucklin,strat_truncate_W
+543,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Shoalhaven-mayoral-finalpreferencedatafile.csv,bucklin,strat_truncate_W
+544,./data/australia/Australia_NewSouthWales_Mayorals_2021/Eurobodalla-mayoral-finalpreferencedatafile.csv,bucklin,strat_truncate_W
+545,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Orange-mayoral-finalpreferencedatafile.csv,bucklin,strat_truncate_W
+546,./data/australia/Australia_NSW_LegAssembly_2017_ByElections/SB1701 LA Pref Data_NA_North Shore.csv,bucklin,strat_truncate_W
+547,./data/australia/Australia_NSW_LegAssembly_2017_ByElections/SB1702 LA Pref Data_NA_Murray.csv,bucklin,strat_truncate_W
+548,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Murray.csv,bucklin,strat_truncate_W
+549,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Dubbo.csv,bucklin,strat_truncate_W
+550,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Coogee.csv,bucklin,strat_truncate_W
+551,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Balmain.csv,bucklin,strat_truncate_W
+552,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Upper Hunter.csv,bucklin,strat_truncate_W
+553,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data East Hills.csv,bucklin,strat_truncate_W
+554,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Newtown.csv,bucklin,strat_truncate_W
+555,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Penrith.csv,bucklin,strat_truncate_W
+556,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Kogarah.csv,bucklin,strat_truncate_W
+557,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Holsworthy.csv,bucklin,strat_truncate_W
+558,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Goulburn.csv,bucklin,strat_truncate_W
+559,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Tweed.csv,bucklin,strat_truncate_W
+560,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data The Entrance.csv,bucklin,strat_truncate_W
+561,./data/australia/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Willoughby.csv,bucklin,strat_truncate_W
+562,./data/australia/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Monaro.csv,bucklin,strat_truncate_W
+563,./data/australia/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB1801 LA Pref Data_NA_Wagga Wagga.csv,bucklin,strat_truncate_W
+564,./data/australia/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Strathfield.csv,bucklin,strat_truncate_W
+565,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Coogee.csv,bucklin,strat_truncate_W
+566,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Lismore.csv,bucklin,strat_truncate_W
+567,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Tweed.csv,bucklin,strat_truncate_W
+568,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Sydney.csv,bucklin,strat_truncate_W
+569,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Upper Hunter.csv,bucklin,strat_truncate_W
+570,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Strathfield.csv,bucklin,strat_truncate_W
+571,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Summer Hill.csv,bucklin,strat_truncate_W
+572,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_East Hills.csv,bucklin,strat_truncate_W
+573,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Prospect.csv,bucklin,strat_truncate_W
+574,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Newtown.csv,bucklin,strat_truncate_W
+575,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Balmain.csv,bucklin,strat_truncate_W
+576,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Auburn.csv,bucklin,strat_truncate_W
+577,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Granville.csv,bucklin,strat_truncate_W
+578,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Rockdale.csv,bucklin,strat_truncate_W
+579,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Monaro.csv,bucklin,strat_truncate_W
+580,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ryde.csv,bucklin,strat_truncate_W
+581,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Goulburn.csv,bucklin,strat_truncate_W
+582,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Terrigal.csv,bucklin,strat_truncate_W
+583,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Manly.csv,bucklin,strat_truncate_W
+584,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Upper Hunter.csv,bucklin,strat_truncate_W
+585,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Drummoyne.csv,bucklin,strat_truncate_W
+586,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Port Macquarie.csv,bucklin,strat_truncate_W
+587,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Oatley.csv,bucklin,strat_truncate_W
+588,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Lane Cove.csv,bucklin,strat_truncate_W
+589,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Miranda.csv,bucklin,strat_truncate_W
+590,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Pittwater.csv,bucklin,strat_truncate_W
+591,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Tweed.csv,bucklin,strat_truncate_W
+592,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Willoughby.csv,bucklin,strat_truncate_W
+593,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Camden.csv,bucklin,strat_truncate_W
+594,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data East Hills.csv,bucklin,strat_truncate_W
+595,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Kiama.csv,bucklin,strat_truncate_W
+596,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Holsworthy.csv,bucklin,strat_truncate_W
+597,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wollondilly.csv,bucklin,strat_truncate_W
+598,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Riverstone.csv,bucklin,strat_truncate_W
+599,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Penrith.csv,bucklin,strat_truncate_W
+600,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ballina.csv,bucklin,strat_truncate_W
+601,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data South Coast.csv,bucklin,strat_truncate_W
+602,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Winston Hills.csv,bucklin,strat_truncate_W
+603,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wakehurst.csv,bucklin,strat_truncate_W
+604,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Cessnock-mayoral-finalpreferencedatafile.csv,bucklin,strat_bury_shallow
+605,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Liverpool-mayoral-finalpreferencedatafile.csv,bucklin,strat_bury_shallow
+606,./data/australia/Australia_NewSouthWales_Mayorals_2021/City_of_Shoalhaven-mayoral-finalpreferencedatafile.csv,bucklin,strat_bury_shallow
+607,./data/australia/Australia_NSW_LegAssembly_2017_ByElections/SB1701 LA Pref Data_NA_North Shore.csv,bucklin,strat_bury_shallow
+608,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Murray.csv,bucklin,strat_bury_shallow
+609,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Dubbo.csv,bucklin,strat_bury_shallow
+610,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Coogee.csv,bucklin,strat_bury_shallow
+611,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Balmain.csv,bucklin,strat_bury_shallow
+612,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data East Hills.csv,bucklin,strat_bury_shallow
+613,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Newtown.csv,bucklin,strat_bury_shallow
+614,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Penrith.csv,bucklin,strat_bury_shallow
+615,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Kogarah.csv,bucklin,strat_bury_shallow
+616,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Holsworthy.csv,bucklin,strat_bury_shallow
+617,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Goulburn.csv,bucklin,strat_bury_shallow
+618,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Tweed.csv,bucklin,strat_bury_shallow
+619,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data The Entrance.csv,bucklin,strat_bury_shallow
+620,./data/australia/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Willoughby.csv,bucklin,strat_bury_shallow
+621,./data/australia/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Monaro.csv,bucklin,strat_bury_shallow
+622,./data/australia/Australia_NSW_LegAssembly_ByElections_Miscellaneous/SB2201 LA Pref Data_NA_Strathfield.csv,bucklin,strat_bury_shallow
+623,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Coogee.csv,bucklin,strat_bury_shallow
+624,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Tweed.csv,bucklin,strat_bury_shallow
+625,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Sydney.csv,bucklin,strat_bury_shallow
+626,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Strathfield.csv,bucklin,strat_bury_shallow
+627,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_East Hills.csv,bucklin,strat_bury_shallow
+628,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Prospect.csv,bucklin,strat_bury_shallow
+629,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Newtown.csv,bucklin,strat_bury_shallow
+630,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Auburn.csv,bucklin,strat_bury_shallow
+631,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Granville.csv,bucklin,strat_bury_shallow
+632,./data/australia/Australia_NewSouthWales_State_LegAssembly_2015/SGE2015 LA Pref Data_NA_Rockdale.csv,bucklin,strat_bury_shallow
+633,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Monaro.csv,bucklin,strat_bury_shallow
+634,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Ryde.csv,bucklin,strat_bury_shallow
+635,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Goulburn.csv,bucklin,strat_bury_shallow
+636,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Terrigal.csv,bucklin,strat_bury_shallow
+637,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Manly.csv,bucklin,strat_bury_shallow
+638,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Upper Hunter.csv,bucklin,strat_bury_shallow
+639,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Drummoyne.csv,bucklin,strat_bury_shallow
+640,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Port Macquarie.csv,bucklin,strat_bury_shallow
+641,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Oatley.csv,bucklin,strat_bury_shallow
+642,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Miranda.csv,bucklin,strat_bury_shallow
+643,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Tweed.csv,bucklin,strat_bury_shallow
+644,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Camden.csv,bucklin,strat_bury_shallow
+645,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data East Hills.csv,bucklin,strat_bury_shallow
+646,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Holsworthy.csv,bucklin,strat_bury_shallow
+647,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Riverstone.csv,bucklin,strat_bury_shallow
+648,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Penrith.csv,bucklin,strat_bury_shallow
+649,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data South Coast.csv,bucklin,strat_bury_shallow
+650,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Winston Hills.csv,bucklin,strat_bury_shallow
+651,./data/australia/Australia_NewSouthWales_State_LegAssembly_2023/SG2301 LA Pref Data Wakehurst.csv,bucklin,strat_bury_shallow
+652,./data/australia/Australia_NewSouthWales_State_LegAssembly_2019/SGE2019 LA Pref Data Newtown.csv,bucklin,strat_bury_deep

@@ -80,17 +80,22 @@ def get_num_ranks(file_name):
 
 lxn_names = []
 ##### Scottish data
-base_name = '../../../raw_data/america/processed_data'
-destination_base = '../../../raw_data/preference_profiles/american'
+base_name = '../../../raw_data/scotland/processed_data'
+destination_base = '../../../raw_data/preference_profiles/scotland'
 ##### Australia data
 # base_name = '../australia/processed_data'
 # destination_base = '../preference_profiles/australia'
 ##### American data
 # base_name = '../american'
 # destination_base = '../preference_profiles/american'
+##### Scottish condensed
+# base_name = '../../../analysis/mimic_single_party/condensed_elections/borda_tiebreaker/processed_data'
+# destination_base = '../../../raw_data/preference_profiles/scotland_condensed'
+base_name = 'C:/Users/mattf/Box/CloudDocs/rcv_proposal_jones_fork/analysis/mimic_single_party/condensed_elections/borda_tiebreaker/processed_data'
+destination_base = 'C:/Users/mattf/Box/CloudDocs/rcv_proposal_jones_fork/raw_data/preference_profiles/scotland_condensed'
 
-# for folder_name in os.listdir(base_name):
-for folder_name in ['New Mexico']:
+for folder_name in os.listdir(base_name):
+# for folder_name in ['New Mexico']:
     destination_folder_name = destination_base + '/' + folder_name
     if not os.path.exists(destination_folder_name):
         os.makedirs(destination_folder_name)
