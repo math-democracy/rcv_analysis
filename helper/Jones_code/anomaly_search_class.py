@@ -146,24 +146,59 @@ def frac_noShowBucklin(profile, num_cands, vote_frac, diagnostic=False):
         ## check if any candidate has higher score than winner
         for loser in losers:
             if scores[loser] > scores[winner]:
-            # if scores[loser] == max(scores.values()):
                 new_profile = profile.copy(deep=True)
                 remove_ballots = []
-                remove_ballot_total = 0
+                remove_ballot_count = 2*(threshold - scores[loser]) + 1
                 for k in range(len(profile)):
                     ballot = profile.at[k, 'ballot']
                     count = int(profile.at[k, 'Count']*vote_frac)
                     if ballot.find(loser)>round_indx:
                         if (winner not in ballot) or (ballot.find(winner) > ballot.find(loser)):
-                            remove_ballots.append([ballot, count])
-                            remove_ballot_total += count
-                            new_profile.at[k, 'Count'] -= count
-                if threshold - remove_ballot_total/2 < scores[loser]:
+                            if count <= remove_ballot_count:
+                                remove_ballots.append([ballot, count])
+                                new_profile.at[k, 'Count'] -= count
+                                remove_ballot_count -= count
+                            elif count > remove_ballot_count:
+                                remove_ballots.append([ballot, remove_ballot_count])
+                                new_profile.at[k, 'Count'] -= remove_ballot_count
+                                remove_ballot_count = 0
+                if remove_ballot_count == 0:
                     new_wins = bucklin(new_profile, cands)[0]
-                    if new_wins != [loser]:
-                        print('##### WARNING: ERROR WITH BUCKLIN NO SHOW SEARCH #####')
-                        print(breakhere)
-                    return [winner, loser, remove_ballots]
+                    if diagnostic:
+                        print(new_wins)
+                        print(remove_ballots)
+                    if new_wins == [loser]:
+                        return [winner, loser, remove_ballots]
+                    # else:
+                    #     print('maybe a bucklin error')
+                    #     bucklin(new_profile, cands, diagnostic=True)
+        
+        
+        
+        # ## check if any candidate has higher score than winner
+        # for loser in losers:
+        #     if scores[loser] > scores[winner]:
+        #     # if scores[loser] == max(scores.values()):
+        #         new_profile = profile.copy(deep=True)
+        #         remove_ballots = []
+        #         remove_ballot_total = 0
+        #         for k in range(len(profile)):
+        #             ballot = profile.at[k, 'ballot']
+        #             count = int(profile.at[k, 'Count']*vote_frac)
+        #             if ballot.find(loser)>round_indx:
+        #                 if (winner not in ballot) or (ballot.find(winner) > ballot.find(loser)):
+        #                     remove_ballots.append([ballot, count])
+        #                     remove_ballot_total += count
+        #                     new_profile.at[k, 'Count'] -= count
+        #         if threshold - remove_ballot_total/2 < scores[loser]:
+        #             new_wins = bucklin(new_profile, cands)[0]
+        #             if diagnostic:
+        #                 print(new_wins)
+        #                 print(remove_ballots)
+        #             if new_wins != [loser]:
+        #                 print('##### WARNING: ERROR WITH BUCKLIN NO SHOW SEARCH #####')
+        #                 print(breakhere)
+        #             return [winner, loser, remove_ballots]
 
     return []
 
@@ -326,7 +361,7 @@ def frac_upMonoPR(profile, num_cands, vote_frac, diagnostic=False):
                 for cand in need_to_lose:
                     if gaps[cand] >= 0:
                         ballots_to_change[cand] = gaps[cand]
-                if sum(ballots_to_change.values()) + len(ballots_to_change) > upstart_win_margin:
+                if 2*(sum(ballots_to_change.values()) + len(ballots_to_change)) > upstart_win_margin:
                     upstart_can_advance = False
                 
                 if diagnostic:
@@ -376,6 +411,7 @@ def frac_upMonoPR(profile, num_cands, vote_frac, diagnostic=False):
                             print(upstart_win_margin)
                             print(gaps)
                             print(ballots_to_change)
+                            print(modified_ballot_list)
                         print('##### Error with risky ballots #####')
                 
     return []

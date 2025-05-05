@@ -1,0 +1,1749 @@
+,file_name,election_method,anomaly_type
+0,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard6.csv",plurality,strat_compromise
+1,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard3.csv",plurality,strat_compromise
+2,"./data/america/Eastpointe, MI/Eastpointe_11052019_CityCouncil.csv",plurality,strat_compromise
+3,./data/america/Alaska/Alaska_11052024_StateHouseD38.csv,plurality,strat_compromise
+4,./data/america/Alaska/Alaska_11082022_USSenator.csv,plurality,strat_compromise
+5,./data/america/Alaska/Alaska_11082022_SenateDistrictE.csv,plurality,strat_compromise
+6,./data/america/Alaska/Alaska_08162022_HouseofRepresentativesSpecial.csv,plurality,strat_compromise
+7,./data/america/Alaska/Alaska_11052024_StateHouseD28.csv,plurality,strat_compromise
+8,./data/america/APA/APA 2001.csv,plurality,strat_compromise
+9,./data/america/APA/APA 2008.csv,plurality,strat_compromise
+10,./data/america/APA/APA 2020 President.csv,plurality,strat_compromise
+11,./data/america/APA/APA 2019 President.csv,plurality,strat_compromise
+12,./data/america/APA/APA 1999.csv,plurality,strat_compromise
+13,./data/america/APA/APA 2009.csv,plurality,strat_compromise
+14,./data/america/APA/APA 2000.csv,plurality,strat_compromise
+15,./data/america/APA/APA 2007.csv,plurality,strat_compromise
+16,./data/america/APA/APA 2004.csv,plurality,strat_compromise
+17,./data/america/APA/APA 2018 President.csv,plurality,strat_compromise
+18,./data/america/APA/APA 2021 President.csv,plurality,strat_compromise
+19,./data/america/APA/APA 2002.csv,plurality,strat_compromise
+20,./data/america/APA/APA 2005.csv,plurality,strat_compromise
+21,./data/america/APA/APA 2018 BOD race2.csv,plurality,strat_compromise
+22,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember48thCouncilDistrict.csv,plurality,strat_compromise
+23,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember39thCouncilDistrict.csv,plurality,strat_compromise
+24,./data/america/New York City/NewYorkCity_06222021_REPBoroughPresidentRichmond.csv,plurality,strat_compromise
+25,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember25thCouncilDistrict.csv,plurality,strat_compromise
+26,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember49thCouncilDistrict.csv,plurality,strat_compromise
+27,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember29thCouncilDistrict.csv,plurality,strat_compromise
+28,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember35thCouncilDistrict.csv,plurality,strat_compromise
+29,./data/america/New York City/NewYorkCity_06222021_DEMMayorCitywide.csv,plurality,strat_compromise
+30,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember32ndCouncilDistrict.csv,plurality,strat_compromise
+31,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember19thCouncilDistrict.csv,plurality,strat_compromise
+32,./data/america/New York City/NewYorkCity_06222021_DEMComptrollerCitywide.csv,plurality,strat_compromise
+33,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv,plurality,strat_compromise
+34,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember5thCouncilDistrict.csv,plurality,strat_compromise
+35,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember23rdCouncilDistrict.csv,plurality,strat_compromise
+36,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember36thCouncilDistrict.csv,plurality,strat_compromise
+37,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember18thCouncilDistrict.csv,plurality,strat_compromise
+38,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember40thCouncilDistrict.csv,plurality,strat_compromise
+39,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentNewYork.csv,plurality,strat_compromise
+40,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember20thCouncilDistrict.csv,plurality,strat_compromise
+41,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentQueens.csv,plurality,strat_compromise
+42,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember9thCouncilDistrict.csv,plurality,strat_compromise
+43,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentKings.csv,plurality,strat_compromise
+44,"./data/america/Portland, ME/Portland_06082021_charter_commission_at_large.csv",plurality,strat_compromise
+45,./data/america/Alameda County/Berkeley_05282024_Citycouncildistrict4specialelection.csv,plurality,strat_compromise
+46,./data/america/Alameda County/Oakland_11062018_CityCouncilDistrict4.csv,plurality,strat_compromise
+47,./data/america/Alameda County/Oakland_11082022_Schoolboarddistrict4.csv,plurality,strat_compromise
+48,./data/america/Alameda County/Oakland_11052024_CityCouncil_AtLarge.csv,plurality,strat_compromise
+49,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict5.csv,plurality,strat_compromise
+50,./data/america/Alameda County/Berkeley_11042014_CityCouncilDistrict8.csv,plurality,strat_compromise
+51,./data/america/Alameda County/Oakland_11042014_CityCouncilDistrict2.csv,plurality,strat_compromise
+52,./data/america/Alameda County/Oakland_11042014_SchoolDirectorDistrict4.csv,plurality,strat_compromise
+53,./data/america/Alameda County/Berkeley_11052024_Mayor.csv,plurality,strat_compromise
+54,./data/america/Alameda County/Oakland_11032020_SchoolDirectorDist5OaklandRCV.csv,plurality,strat_compromise
+55,./data/america/Alameda County/Oakland_11042014_CityCouncilDistrict6.csv,plurality,strat_compromise
+56,./data/america/Alameda County/Oakland_11032020_MemberCityCouncilDist7OaklandRCV.csv,plurality,strat_compromise
+57,./data/america/Alameda County/Oakland_11032020_SchoolDirectorDist7OaklandRCV.csv,plurality,strat_compromise
+58,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict1.csv,plurality,strat_compromise
+59,./data/america/Alameda County/Oakland_11052024_CityCouncilD7.csv,plurality,strat_compromise
+60,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict3.csv,plurality,strat_compromise
+61,./data/america/Alameda County/SanLeandro_11062012_CountyCouncilDistrict2.csv,plurality,strat_compromise
+62,./data/america/Alameda County/Berkeley_11082016_CityCouncilDistrict2.csv,plurality,strat_compromise
+63,"./data/america/Corvallis, OR/Corvallis_11082022_Mayor.csv",plurality,strat_compromise
+64,"./data/america/Pierce County, WA/PierceCounty_11042008_CountyAssessorTreasurer.csv",plurality,strat_compromise
+65,./data/america/Burlington/Burlington_03072006_Mayor.csv,plurality,strat_compromise
+66,"./data/america/Cambridge, MA/Cambridge_11072023_SchoolBoard.csv",plurality,strat_compromise
+67,"./data/america/Cambridge, MA/Cambridge_11042003_SchoolCommittee.csv",plurality,strat_compromise
+68,"./data/america/Cambridge, MA/Cambridge_11052013_SchoolCommittee.csv",plurality,strat_compromise
+69,"./data/america/Cambridge, MA/Cambridge_11152019_SchoolCommittee.csv",plurality,strat_compromise
+70,"./data/america/Cambridge, MA/Cambridge_11032015_SchoolCommittee.csv",plurality,strat_compromise
+71,"./data/america/Cambridge, MA/Cambridge_11062007_SchoolCommittee.csv",plurality,strat_compromise
+72,"./data/america/Cambridge, MA/Cambridge_11082005_SchoolCommittee.csv",plurality,strat_compromise
+73,./data/america/Minneapolis/Minneapolis_08112020_Ward6CityCouncilSpecialElection.csv,plurality,strat_compromise
+74,./data/america/Minneapolis/Minneapolis_11072017_ParkBoardAtLarge.csv,plurality,strat_compromise
+75,./data/america/Minneapolis/Minneapolis_11052013_ParkRecBoardAtLarge.csv,plurality,strat_compromise
+76,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard2.csv,plurality,strat_compromise
+77,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard7.csv,plurality,strat_compromise
+78,./data/america/Minneapolis/Minneapolis_11062009_MinneapolisParkRecBoard.csv,plurality,strat_compromise
+79,./data/america/Minneapolis/Minneapolis_11052013_Ward13CityCouncil.csv,plurality,strat_compromise
+80,./data/america/Minneapolis/Minneapolis_11072017_Ward1CityCouncil.csv,plurality,strat_compromise
+81,./data/america/Minneapolis/Minneapolis_11062009_PRBoardDistrict5.csv,plurality,strat_compromise
+82,./data/america/Minneapolis/Minneapolis_11072017_Ward11CityCouncil.csv,plurality,strat_compromise
+83,./data/america/Minneapolis/Minneapolis_11052013_Ward9CityCouncil.csv,plurality,strat_compromise
+84,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict6.csv,plurality,strat_compromise
+85,./data/america/New Mexico/LasCruces_11052019_MAYORCITYOFLASCRUCES.csv,plurality,strat_compromise
+86,./data/america/Utah cities/Moab_11022021_CityCouncil.csv,plurality,strat_compromise
+87,./data/america/Utah cities/Springville_11022021_CityCouncil4yr.csv,plurality,strat_compromise
+88,./data/america/Utah cities/Vineyard_11052019_CityCouncil.csv,plurality,strat_compromise
+89,./data/america/Utah cities/Lehi_11022021_CityCouncil.csv,plurality,strat_compromise
+90,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT1.csv,plurality,strat_compromise
+91,./data/america/San Francisco/SanFrancisco_11082011_Sheriff.csv,plurality,strat_compromise
+92,./data/america/San Francisco/SanFrancisco_11052004_BoardofSupervisorsDistrict1.csv,plurality,strat_compromise
+93,./data/america/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict11.csv,plurality,strat_compromise
+94,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict1.csv,plurality,strat_compromise
+95,./data/america/San Francisco/SanFrancisco_06052018_Mayor.csv,plurality,strat_compromise
+96,./data/america/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict4.csv,plurality,strat_compromise
+97,./data/america/San Francisco/SanFrancisco_11052024_Mayor.csv,plurality,strat_compromise
+98,./data/america/San Francisco/SanFrancisco_11052019_DistrictAttorney.csv,plurality,strat_compromise
+99,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict11.csv,plurality,strat_compromise
+100,./data/america/San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict5.csv,plurality,strat_compromise
+101,./data/america/San Francisco/SanFrancisco_11052024_BoS_D3.csv,plurality,strat_compromise
+102,./data/america/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict11.csv,plurality,strat_compromise
+103,./data/america/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict9.csv,plurality,strat_compromise
+104,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict6.csv,plurality,strat_compromise
+105,./data/america/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict2.csv,plurality,strat_compromise
+106,./data/america/San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict7.csv,plurality,strat_compromise
+107,./data/america/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict1.csv,plurality,strat_compromise
+108,./data/america/Maine/Maine_06122018_DemocraticPrimaryforGovernor.csv,plurality,strat_compromise
+109,./data/america/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict47.csv,plurality,strat_compromise
+110,./data/america/Minnetonka/Minnetonka_11072023_CityCouncilWard3.csv,plurality,strat_compromise
+111,./data/america/Alameda County/Oakland_11022010_Mayor.csv,plurality_runoff,strat_compromise
+112,"./data/america/Pierce County, WA/PierceCounty_11042008_CountyExecutiveMember.csv",plurality_runoff,strat_compromise
+113,./data/america/Minneapolis/Minneapolis_11062009_MinneapolisParkRecBoard.csv,plurality_runoff,strat_compromise
+114,./data/america/Alameda County/Oakland_11082022_Schoolboarddistrict4.csv,smith_plurality,strat_compromise
+115,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard2.csv,smith_plurality,strat_compromise
+116,./data/america/Alaska/Alaska_11082022_HouseDistrict11.csv,smith_plurality,strat_bury_deep
+117,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember25thCouncilDistrict.csv,smith_plurality,strat_bury_deep
+118,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember9thCouncilDistrict.csv,smith_plurality,strat_bury_deep
+119,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict3.csv,smith_plurality,strat_bury_deep
+120,./data/america/Minneapolis/Minneapolis_11072017_ParkBoardAtLarge.csv,smith_plurality,strat_bury_deep
+121,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict2.csv,smith_plurality,strat_bury_deep
+122,./data/america/San Francisco/SanFrancisco_11052024_BoS_D5.csv,smith_plurality,strat_bury_deep
+123,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv,minimax,strat_bury_deep
+124,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv,smith_minimax,strat_bury_deep
+125,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard6.csv",Borda_PM,strat_compromise
+126,./data/america/Alaska/Alaska_11052024_StateHouseD28.csv,Borda_PM,strat_compromise
+127,./data/america/APA/APA 2008.csv,Borda_PM,strat_compromise
+128,./data/america/APA/APA 2020 BOD race2.csv,Borda_PM,strat_compromise
+129,./data/america/APA/APA 1999.csv,Borda_PM,strat_compromise
+130,./data/america/APA/APA 2007.csv,Borda_PM,strat_compromise
+131,./data/america/APA/APA 2021 President.csv,Borda_PM,strat_compromise
+132,./data/america/APA/APA 2002.csv,Borda_PM,strat_compromise
+133,./data/america/APA/APA 2005.csv,Borda_PM,strat_compromise
+134,./data/america/APA/APA 2018 BOD race2.csv,Borda_PM,strat_compromise
+135,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv,Borda_PM,strat_compromise
+136,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember25thCouncilDistrict.csv,Borda_PM,strat_compromise
+137,./data/america/New York City/NewYorkCity_06222021_DEMMayorCitywide.csv,Borda_PM,strat_compromise
+138,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember32ndCouncilDistrict.csv,Borda_PM,strat_compromise
+139,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember36thCouncilDistrict.csv,Borda_PM,strat_compromise
+140,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember18thCouncilDistrict.csv,Borda_PM,strat_compromise
+141,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember9thCouncilDistrict.csv,Borda_PM,strat_compromise
+142,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentKings.csv,Borda_PM,strat_compromise
+143,./data/america/Alameda County/Berkeley_05282024_Citycouncildistrict4specialelection.csv,Borda_PM,strat_compromise
+144,./data/america/Alameda County/Oakland_11062018_CityCouncilDistrict4.csv,Borda_PM,strat_compromise
+145,./data/america/Alameda County/Oakland_11052024_CityCouncil_AtLarge.csv,Borda_PM,strat_compromise
+146,./data/america/Alameda County/Berkeley_11042014_CityCouncilDistrict8.csv,Borda_PM,strat_compromise
+147,./data/america/Alameda County/Oakland_11042014_SchoolDirectorDistrict4.csv,Borda_PM,strat_compromise
+148,./data/america/Alameda County/Oakland_11082022_Mayor.csv,Borda_PM,strat_compromise
+149,./data/america/Alameda County/Berkeley_11052024_Mayor.csv,Borda_PM,strat_compromise
+150,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict5.csv,Borda_PM,strat_compromise
+151,./data/america/Alameda County/Oakland_11032020_SchoolDirectorDist7OaklandRCV.csv,Borda_PM,strat_compromise
+152,./data/america/Alameda County/Oakland_11052024_CityCouncilD7.csv,Borda_PM,strat_compromise
+153,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict3.csv,Borda_PM,strat_compromise
+154,./data/america/Alameda County/SanLeandro_11062012_CountyCouncilDistrict2.csv,Borda_PM,strat_compromise
+155,./data/america/Alameda County/Berkeley_11082016_CityCouncilDistrict2.csv,Borda_PM,strat_compromise
+156,"./data/america/Corvallis, OR/Corvallis_11082022_Mayor.csv",Borda_PM,strat_compromise
+157,"./data/america/Pierce County, WA/PierceCounty_11042008_CountyAssessorTreasurer.csv",Borda_PM,strat_compromise
+158,"./data/america/Pierce County, WA/PierceCounty_11042008_CountyExecutiveMember.csv",Borda_PM,strat_compromise
+159,"./data/america/Cambridge, MA/Cambridge_11082011_SchoolCommittee.csv",Borda_PM,strat_compromise
+160,"./data/america/Cambridge, MA/Cambridge_11062007_SchoolCommittee.csv",Borda_PM,strat_compromise
+161,"./data/america/Cambridge, MA/Cambridge_11082005_SchoolCommittee.csv",Borda_PM,strat_compromise
+162,./data/america/Minneapolis/Minneapolis_11072017_ParkBoardAtLarge.csv,Borda_PM,strat_compromise
+163,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard2.csv,Borda_PM,strat_compromise
+164,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard7.csv,Borda_PM,strat_compromise
+165,./data/america/Minneapolis/Minneapolis_11052013_Ward13CityCouncil.csv,Borda_PM,strat_compromise
+166,./data/america/Utah cities/Lehi_11022021_CityCouncil.csv,Borda_PM,strat_compromise
+167,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT1.csv,Borda_PM,strat_compromise
+168,./data/america/San Francisco/SanFrancisco_06052018_Mayor.csv,Borda_PM,strat_compromise
+169,./data/america/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict4.csv,Borda_PM,strat_compromise
+170,./data/america/San Francisco/SanFrancisco_11052024_BoS_D11.csv,Borda_PM,strat_compromise
+171,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT7.csv,Borda_PM,strat_compromise
+172,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict11.csv,Borda_PM,strat_compromise
+173,./data/america/San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict7.csv,Borda_PM,strat_compromise
+174,./data/america/Maine/Maine_11062018_CongressionalDistrict2.csv,Borda_PM,strat_compromise
+175,./data/america/Minnetonka/Minnetonka_11072023_CityCouncilWard4.csv,Borda_PM,strat_compromise
+176,./data/america/Minnetonka/Minnetonka_11072023_CityCouncilWard3.csv,Borda_PM,strat_compromise
+177,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard6.csv",Borda_PM,strat_truncate_L
+178,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard3.csv",Borda_PM,strat_truncate_L
+179,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard5.csv",Borda_PM,strat_truncate_L
+180,"./data/america/Eastpointe, MI/Eastpointe_11052019_CityCouncil.csv",Borda_PM,strat_truncate_L
+181,./data/america/Alaska/Alaska_11082022_HouseDistrict21.csv,Borda_PM,strat_truncate_L
+182,./data/america/Alaska/Alaska_11082022_HouseDistrict1.csv,Borda_PM,strat_truncate_L
+183,./data/america/Alaska/Alaska_11082022_SenateDistrictO.csv,Borda_PM,strat_truncate_L
+184,./data/america/Alaska/Alaska_11082022_SenateDistrictH.csv,Borda_PM,strat_truncate_L
+185,./data/america/Alaska/Alaska_11052024_StateSenateD.csv,Borda_PM,strat_truncate_L
+186,./data/america/Alaska/Alaska_11052024_StateHouseD22.csv,Borda_PM,strat_truncate_L
+187,./data/america/Alaska/Alaska_11082022_HouseDistrict13.csv,Borda_PM,strat_truncate_L
+188,./data/america/Alaska/Alaska_11082022_HouseDistrict39.csv,Borda_PM,strat_truncate_L
+189,./data/america/Alaska/Alaska_11082022_HouseDistrict30.csv,Borda_PM,strat_truncate_L
+190,./data/america/Alaska/Alaska_11052024_StateSenateP.csv,Borda_PM,strat_truncate_L
+191,./data/america/Alaska/Alaska_11052024_US_House.csv,Borda_PM,strat_truncate_L
+192,./data/america/Alaska/Alaska_11082022_HouseDistrict15.csv,Borda_PM,strat_truncate_L
+193,./data/america/Alaska/Alaska_11052024_StateHouseD18.csv,Borda_PM,strat_truncate_L
+194,./data/america/Alaska/Alaska_11082022_HouseDistrict7.csv,Borda_PM,strat_truncate_L
+195,./data/america/Alaska/Alaska_11052024_StateSenateL.csv,Borda_PM,strat_truncate_L
+196,./data/america/Alaska/Alaska_11052024_StateHouseD38.csv,Borda_PM,strat_truncate_L
+197,./data/america/Alaska/Alaska_11082022_USSenator.csv,Borda_PM,strat_truncate_L
+198,./data/america/Alaska/Alaska_11052024_StateHouseD27.csv,Borda_PM,strat_truncate_L
+199,./data/america/Alaska/Alaska_11082022_HouseDistrict18.csv,Borda_PM,strat_truncate_L
+200,./data/america/Alaska/Alaska_11082022_SenateDistrictD.csv,Borda_PM,strat_truncate_L
+201,./data/america/Alaska/Alaska_11052024_StateHouseD8.csv,Borda_PM,strat_truncate_L
+202,./data/america/Alaska/Alaska_11082022_HouseDistrict22.csv,Borda_PM,strat_truncate_L
+203,./data/america/Alaska/Alaska_11082022_SenateDistrictE.csv,Borda_PM,strat_truncate_L
+204,./data/america/Alaska/Alaska_08162022_HouseofRepresentativesSpecial.csv,Borda_PM,strat_truncate_L
+205,./data/america/Alaska/Alaska_11052024_StateHouseD28.csv,Borda_PM,strat_truncate_L
+206,./data/america/Alaska/Alaska_11082022_SenateDistrictP.csv,Borda_PM,strat_truncate_L
+207,./data/america/Alaska/Alaska_11082022_USRepresentative.csv,Borda_PM,strat_truncate_L
+208,./data/america/Alaska/Alaska_11082022_HouseDistrict17.csv,Borda_PM,strat_truncate_L
+209,./data/america/APA/APA 2008.csv,Borda_PM,strat_truncate_L
+210,./data/america/APA/APA 2020 President.csv,Borda_PM,strat_truncate_L
+211,./data/america/APA/APA 2019 President.csv,Borda_PM,strat_truncate_L
+212,./data/america/APA/APA 1999.csv,Borda_PM,strat_truncate_L
+213,./data/america/APA/APA 2009.csv,Borda_PM,strat_truncate_L
+214,./data/america/APA/APA 2007.csv,Borda_PM,strat_truncate_L
+215,./data/america/APA/APA 2004.csv,Borda_PM,strat_truncate_L
+216,./data/america/APA/APA 2018 President.csv,Borda_PM,strat_truncate_L
+217,./data/america/APA/APA 2021 President.csv,Borda_PM,strat_truncate_L
+218,./data/america/APA/APA 2002.csv,Borda_PM,strat_truncate_L
+219,./data/america/APA/APA 2005.csv,Borda_PM,strat_truncate_L
+220,./data/america/APA/APA 2018 BOD race2.csv,Borda_PM,strat_truncate_L
+221,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember48thCouncilDistrict.csv,Borda_PM,strat_truncate_L
+222,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember39thCouncilDistrict.csv,Borda_PM,strat_truncate_L
+223,./data/america/New York City/NewYorkCity_06222021_REPBoroughPresidentRichmond.csv,Borda_PM,strat_truncate_L
+224,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember10thCouncilDistrict.csv,Borda_PM,strat_truncate_L
+225,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv,Borda_PM,strat_truncate_L
+226,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember25thCouncilDistrict.csv,Borda_PM,strat_truncate_L
+227,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember19thCouncilDistrict.csv,Borda_PM,strat_truncate_L
+228,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember49thCouncilDistrict.csv,Borda_PM,strat_truncate_L
+229,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember15thCouncilDistrict.csv,Borda_PM,strat_truncate_L
+230,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember35thCouncilDistrict.csv,Borda_PM,strat_truncate_L
+231,./data/america/New York City/NewYorkCity_06222021_DEMMayorCitywide.csv,Borda_PM,strat_truncate_L
+232,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember32ndCouncilDistrict.csv,Borda_PM,strat_truncate_L
+233,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember19thCouncilDistrict.csv,Borda_PM,strat_truncate_L
+234,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv,Borda_PM,strat_truncate_L
+235,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember5thCouncilDistrict.csv,Borda_PM,strat_truncate_L
+236,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember47thCouncilDistrict.csv,Borda_PM,strat_truncate_L
+237,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember23rdCouncilDistrict.csv,Borda_PM,strat_truncate_L
+238,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember36thCouncilDistrict.csv,Borda_PM,strat_truncate_L
+239,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember22ndCouncilDistrict.csv,Borda_PM,strat_truncate_L
+240,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember42ndCouncilDistrict.csv,Borda_PM,strat_truncate_L
+241,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember18thCouncilDistrict.csv,Borda_PM,strat_truncate_L
+242,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember40thCouncilDistrict.csv,Borda_PM,strat_truncate_L
+243,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentNewYork.csv,Borda_PM,strat_truncate_L
+244,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember20thCouncilDistrict.csv,Borda_PM,strat_truncate_L
+245,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentKings.csv,Borda_PM,strat_truncate_L
+246,"./data/america/Portland, ME/Portland_06142022_SchoolboardAL-1.csv",Borda_PM,strat_truncate_L
+247,"./data/america/Portland, ME/Portland_06082021_charter_commission_at_large.csv",Borda_PM,strat_truncate_L
+248,./data/america/St Louis Park/StLouisPark_11022021_CityCouncilWard3.csv,Borda_PM,strat_truncate_L
+249,./data/america/Alameda County/Berkeley_05282024_Citycouncildistrict4specialelection.csv,Borda_PM,strat_truncate_L
+250,./data/america/Alameda County/SanLeandro_11062012_CountyCouncilDistrict6.csv,Borda_PM,strat_truncate_L
+251,./data/america/Alameda County/Oakland_11062012_SchoolDirectorDistrict5.csv,Borda_PM,strat_truncate_L
+252,./data/america/Alameda County/Oakland_11022010_Mayor.csv,Borda_PM,strat_truncate_L
+253,./data/america/Alameda County/Oakland_11062018_CityCouncilDistrict4.csv,Borda_PM,strat_truncate_L
+254,./data/america/Alameda County/Oakland_11082022_Schoolboarddistrict4.csv,Borda_PM,strat_truncate_L
+255,./data/america/Alameda County/Oakland_11052024_CityCouncil_AtLarge.csv,Borda_PM,strat_truncate_L
+256,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict5.csv,Borda_PM,strat_truncate_L
+257,./data/america/Alameda County/SanLeandro_11032020_MemberCityCouncilDist2SanLeandroRCV.csv,Borda_PM,strat_truncate_L
+258,./data/america/Alameda County/Oakland_11032020_MemberCityCouncilAtLargeOaklandRCV.csv,Borda_PM,strat_truncate_L
+259,./data/america/Alameda County/Berkeley_11042014_CityCouncilDistrict8.csv,Borda_PM,strat_truncate_L
+260,./data/america/Alameda County/Berkeley_11062018_CityCouncilDistrict1.csv,Borda_PM,strat_truncate_L
+261,./data/america/Alameda County/Oakland_11042014_CityCouncilDistrict2.csv,Borda_PM,strat_truncate_L
+262,./data/america/Alameda County/SanLeandro_11022010_Mayor.csv,Borda_PM,strat_truncate_L
+263,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict3.csv,Borda_PM,strat_truncate_L
+264,./data/america/Alameda County/Berkeley_11032020_MemberCityCouncilDist2BerkeleyRCV.csv,Borda_PM,strat_truncate_L
+265,./data/america/Alameda County/Oakland_11042014_SchoolDirectorDistrict4.csv,Borda_PM,strat_truncate_L
+266,./data/america/Alameda County/Oakland_11082022_Mayor.csv,Borda_PM,strat_truncate_L
+267,./data/america/Alameda County/Berkeley_11052024_Mayor.csv,Borda_PM,strat_truncate_L
+268,./data/america/Alameda County/Oakland_11052024_School_Director_D3.csv,Borda_PM,strat_truncate_L
+269,./data/america/Alameda County/SanLeandro_11022010_CountyCouncilDistrict5.csv,Borda_PM,strat_truncate_L
+270,./data/america/Alameda County/Oakland_11082022_Schoolboarddistrict6.csv,Borda_PM,strat_truncate_L
+271,./data/america/Alameda County/Oakland_11032020_SchoolDirectorDist5OaklandRCV.csv,Borda_PM,strat_truncate_L
+272,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict5.csv,Borda_PM,strat_truncate_L
+273,./data/america/Alameda County/Oakland_11042014_CityCouncilDistrict6.csv,Borda_PM,strat_truncate_L
+274,./data/america/Alameda County/Oakland_11032020_MemberCityCouncilDist5OaklandRCV.csv,Borda_PM,strat_truncate_L
+275,./data/america/Alameda County/Berkeley_11022010_CityCouncilDistrict7.csv,Borda_PM,strat_truncate_L
+276,./data/america/Alameda County/Oakland_11052024_School_Director_D5.csv,Borda_PM,strat_truncate_L
+277,./data/america/Alameda County/Oakland_11032020_SchoolDirectorDist7OaklandRCV.csv,Borda_PM,strat_truncate_L
+278,./data/america/Alameda County/Berkeley_11062012_CityCouncilDistrict5.csv,Borda_PM,strat_truncate_L
+279,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict1.csv,Borda_PM,strat_truncate_L
+280,./data/america/Alameda County/SanLeandro_11042014_Mayor.csv,Borda_PM,strat_truncate_L
+281,./data/america/Alameda County/Oakland_11052024_CityCouncilD7.csv,Borda_PM,strat_truncate_L
+282,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict3.csv,Borda_PM,strat_truncate_L
+283,./data/america/Alameda County/SanLeandro_11062012_CountyCouncilDistrict2.csv,Borda_PM,strat_truncate_L
+284,"./data/america/Corvallis, OR/Corvallis_11082022_CityCouncilWard9.csv",Borda_PM,strat_truncate_L
+285,"./data/america/Corvallis, OR/Corvallis_11082022_Mayor.csv",Borda_PM,strat_truncate_L
+286,"./data/america/Pierce County, WA/PierceCounty_11032009_CountyAuditor.csv",Borda_PM,strat_truncate_L
+287,./data/america/Burlington/Burlington_03032009_Mayor.csv,Borda_PM,strat_truncate_L
+288,./data/america/Burlington/Burlington_03072023_CityCouncilEastDistrict.csv,Borda_PM,strat_truncate_L
+289,./data/america/Burlington/Burlington_03072006_Mayor.csv,Borda_PM,strat_truncate_L
+290,./data/america/Burlington/Burlington_03052024_Mayor.csv,Borda_PM,strat_truncate_L
+291,"./data/america/Cambridge, MA/Cambridge_11072023_SchoolBoard.csv",Borda_PM,strat_truncate_L
+292,"./data/america/Cambridge, MA/Cambridge_11042003_SchoolCommittee.csv",Borda_PM,strat_truncate_L
+293,"./data/america/Cambridge, MA/Cambridge_11152019_SchoolCommittee.csv",Borda_PM,strat_truncate_L
+294,"./data/america/Cambridge, MA/Cambridge_11032015_SchoolCommittee.csv",Borda_PM,strat_truncate_L
+295,"./data/america/Cambridge, MA/Cambridge_11082011_SchoolCommittee.csv",Borda_PM,strat_truncate_L
+296,"./data/america/Cambridge, MA/Cambridge_11062007_SchoolCommittee.csv",Borda_PM,strat_truncate_L
+297,"./data/america/Cambridge, MA/Cambridge_11082005_SchoolCommittee.csv",Borda_PM,strat_truncate_L
+298,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict2.csv,Borda_PM,strat_truncate_L
+299,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard3.csv,Borda_PM,strat_truncate_L
+300,./data/america/Minneapolis/Minneapolis_11072017_Ward5CityCouncil.csv,Borda_PM,strat_truncate_L
+301,./data/america/Minneapolis/Minneapolis_11052013_ParkRecBoardAtLarge.csv,Borda_PM,strat_truncate_L
+302,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard2.csv,Borda_PM,strat_truncate_L
+303,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict3.csv,Borda_PM,strat_truncate_L
+304,./data/america/Minneapolis/Minneapolis_11072017_Ward9CityCouncil.csv,Borda_PM,strat_truncate_L
+305,./data/america/Minneapolis/Minneapolis_11062009_PRBoardDistrict6.csv,Borda_PM,strat_truncate_L
+306,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard7.csv,Borda_PM,strat_truncate_L
+307,./data/america/Minneapolis/Minneapolis_11062009_MinneapolisParkRecBoard.csv,Borda_PM,strat_truncate_L
+308,./data/america/Minneapolis/Minneapolis_11022021_ParkBoardDistrict6.csv,Borda_PM,strat_truncate_L
+309,./data/america/Minneapolis/Minneapolis_11072017_Ward6CityCouncil.csv,Borda_PM,strat_truncate_L
+310,./data/america/Minneapolis/Minneapolis_11052013_Ward5CityCouncil.csv,Borda_PM,strat_truncate_L
+311,./data/america/Minneapolis/Minneapolis_11072017_Ward1CityCouncil.csv,Borda_PM,strat_truncate_L
+312,./data/america/Minneapolis/Minneapolis_11062009_Ward5CityCouncil.csv,Borda_PM,strat_truncate_L
+313,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard1.csv,Borda_PM,strat_truncate_L
+314,./data/america/Minneapolis/Minneapolis_11062009_PRBoardDistrict5.csv,Borda_PM,strat_truncate_L
+315,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard10.csv,Borda_PM,strat_truncate_L
+316,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard12.csv,Borda_PM,strat_truncate_L
+317,./data/america/Minneapolis/Minneapolis_11072017_Ward3CityCouncil.csv,Borda_PM,strat_truncate_L
+318,./data/america/Minneapolis/Minneapolis_11072017_Ward11CityCouncil.csv,Borda_PM,strat_truncate_L
+319,./data/america/Minneapolis/Minneapolis_11072017_Ward4CityCouncil.csv,Borda_PM,strat_truncate_L
+320,./data/america/Minneapolis/Minneapolis 2013-board of estimation and taxation cvr.csv,Borda_PM,strat_truncate_L
+321,./data/america/Minneapolis/Minneapolis_11052013_Ward9CityCouncil.csv,Borda_PM,strat_truncate_L
+322,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict1.csv,Borda_PM,strat_truncate_L
+323,./data/america/New Mexico/SantaFe_03062018_Mayor.csv,Borda_PM,strat_truncate_L
+324,./data/america/New Mexico/LasCruces_11052019_MAYORCITYOFLASCRUCES.csv,Borda_PM,strat_truncate_L
+325,./data/america/Utah cities/Moab_11022021_CityCouncil.csv,Borda_PM,strat_truncate_L
+326,./data/america/Utah cities/Springville_11022021_CityCouncil4yr.csv,Borda_PM,strat_truncate_L
+327,./data/america/Utah cities/WoodlandHills_11022021_Mayor.csv,Borda_PM,strat_truncate_L
+328,./data/america/Utah cities/Payson_11052019_CityCouncil.csv,Borda_PM,strat_truncate_L
+329,./data/america/Utah cities/Vineyard_11052019_CityCouncil.csv,Borda_PM,strat_truncate_L
+330,./data/america/Utah cities/Lehi_11022021_CityCouncil.csv,Borda_PM,strat_truncate_L
+331,./data/america/San Francisco/SanFrancisco_11082011_Sheriff.csv,Borda_PM,strat_truncate_L
+332,./data/america/San Francisco/SanFrancisco_11052004_BoardofSupervisorsDistrict1.csv,Borda_PM,strat_truncate_L
+333,./data/america/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict11.csv,Borda_PM,strat_truncate_L
+334,./data/america/San Francisco/SanFrancisco_11052024_BoS_D1.csv,Borda_PM,strat_truncate_L
+335,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict1.csv,Borda_PM,strat_truncate_L
+336,./data/america/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict4.csv,Borda_PM,strat_truncate_L
+337,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict2.csv,Borda_PM,strat_truncate_L
+338,./data/america/San Francisco/SanFrancisco_11082022_BoardofSupervisorsD6.csv,Borda_PM,strat_truncate_L
+339,./data/america/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict4.csv,Borda_PM,strat_truncate_L
+340,./data/america/San Francisco/SanFrancisco_11052024_Mayor.csv,Borda_PM,strat_truncate_L
+341,./data/america/San Francisco/SanFrancisco_11052024_BoS_D11.csv,Borda_PM,strat_truncate_L
+342,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT7.csv,Borda_PM,strat_truncate_L
+343,./data/america/San Francisco/SanFrancisco_11052019_DistrictAttorney.csv,Borda_PM,strat_truncate_L
+344,./data/america/San Francisco/SanFrancisco_11052024_BoS_D7.csv,Borda_PM,strat_truncate_L
+345,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT11.csv,Borda_PM,strat_truncate_L
+346,./data/america/San Francisco/SanFrancisco_11052024_BoS_D3.csv,Borda_PM,strat_truncate_L
+347,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict8.csv,Borda_PM,strat_truncate_L
+348,./data/america/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict9.csv,Borda_PM,strat_truncate_L
+349,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict6.csv,Borda_PM,strat_truncate_L
+350,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT3.csv,Borda_PM,strat_truncate_L
+351,./data/america/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict2.csv,Borda_PM,strat_truncate_L
+352,./data/america/San Francisco/SanFrancisco_11082005_AssessorRecorder.csv,Borda_PM,strat_truncate_L
+353,./data/america/San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict7.csv,Borda_PM,strat_truncate_L
+354,./data/america/San Francisco/SanFrancisco_11052024_BoS_D5.csv,Borda_PM,strat_truncate_L
+355,./data/america/San Francisco/SanFrancisco_11082011_DistrictAttorney.csv,Borda_PM,strat_truncate_L
+356,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT5.csv,Borda_PM,strat_truncate_L
+357,./data/america/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict7.csv,Borda_PM,strat_truncate_L
+358,./data/america/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict6.csv,Borda_PM,strat_truncate_L
+359,./data/america/San Francisco/SanFrancisco_11082022_DistrictAttorney.csv,Borda_PM,strat_truncate_L
+360,./data/america/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict1.csv,Borda_PM,strat_truncate_L
+361,./data/america/Maine/Maine_11082022_CongressionalDistrict2.csv,Borda_PM,strat_truncate_L
+362,./data/america/Maine/Maine_06122018_DemocraticPrimaryforGovernor.csv,Borda_PM,strat_truncate_L
+363,./data/america/Maine/Maine_11062018_CongressionalDistrict2.csv,Borda_PM,strat_truncate_L
+364,./data/america/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict41.csv,Borda_PM,strat_truncate_L
+365,./data/america/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict47.csv,Borda_PM,strat_truncate_L
+366,./data/america/Maine/Maine_06122018_DemocraticPrimaryforCD2.csv,Borda_PM,strat_truncate_L
+367,./data/america/Minnetonka/Minnetonka_11072023_CityCouncilWard4.csv,Borda_PM,strat_truncate_L
+368,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard6.csv",Borda_PM,strat_truncate_W
+369,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard3.csv",Borda_PM,strat_truncate_W
+370,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard5.csv",Borda_PM,strat_truncate_W
+371,"./data/america/Eastpointe, MI/Eastpointe_11052019_CityCouncil.csv",Borda_PM,strat_truncate_W
+372,./data/america/Alaska/Alaska_11082022_HouseDistrict21.csv,Borda_PM,strat_truncate_W
+373,./data/america/Alaska/Alaska_11082022_HouseDistrict1.csv,Borda_PM,strat_truncate_W
+374,./data/america/Alaska/Alaska_11082022_SenateDistrictO.csv,Borda_PM,strat_truncate_W
+375,./data/america/Alaska/Alaska_11082022_SenateDistrictH.csv,Borda_PM,strat_truncate_W
+376,./data/america/Alaska/Alaska_11052024_StateSenateD.csv,Borda_PM,strat_truncate_W
+377,./data/america/Alaska/Alaska_11052024_StateHouseD22.csv,Borda_PM,strat_truncate_W
+378,./data/america/Alaska/Alaska_11082022_HouseDistrict13.csv,Borda_PM,strat_truncate_W
+379,./data/america/Alaska/Alaska_11082022_HouseDistrict39.csv,Borda_PM,strat_truncate_W
+380,./data/america/Alaska/Alaska_11082022_HouseDistrict30.csv,Borda_PM,strat_truncate_W
+381,./data/america/Alaska/Alaska_11052024_StateSenateP.csv,Borda_PM,strat_truncate_W
+382,./data/america/Alaska/Alaska_11052024_US_House.csv,Borda_PM,strat_truncate_W
+383,./data/america/Alaska/Alaska_11082022_HouseDistrict15.csv,Borda_PM,strat_truncate_W
+384,./data/america/Alaska/Alaska_11052024_StateHouseD18.csv,Borda_PM,strat_truncate_W
+385,./data/america/Alaska/Alaska_11082022_HouseDistrict7.csv,Borda_PM,strat_truncate_W
+386,./data/america/Alaska/Alaska_11052024_StateSenateL.csv,Borda_PM,strat_truncate_W
+387,./data/america/Alaska/Alaska_11052024_StateHouseD38.csv,Borda_PM,strat_truncate_W
+388,./data/america/Alaska/Alaska_11082022_USSenator.csv,Borda_PM,strat_truncate_W
+389,./data/america/Alaska/Alaska_11052024_StateHouseD27.csv,Borda_PM,strat_truncate_W
+390,./data/america/Alaska/Alaska_11082022_HouseDistrict18.csv,Borda_PM,strat_truncate_W
+391,./data/america/Alaska/Alaska_11082022_SenateDistrictD.csv,Borda_PM,strat_truncate_W
+392,./data/america/Alaska/Alaska_11052024_StateHouseD8.csv,Borda_PM,strat_truncate_W
+393,./data/america/Alaska/Alaska_11082022_HouseDistrict22.csv,Borda_PM,strat_truncate_W
+394,./data/america/Alaska/Alaska_11082022_SenateDistrictE.csv,Borda_PM,strat_truncate_W
+395,./data/america/Alaska/Alaska_11052024_StateHouseD28.csv,Borda_PM,strat_truncate_W
+396,./data/america/Alaska/Alaska_11082022_SenateDistrictP.csv,Borda_PM,strat_truncate_W
+397,./data/america/Alaska/Alaska_11082022_USRepresentative.csv,Borda_PM,strat_truncate_W
+398,./data/america/Alaska/Alaska_11082022_HouseDistrict17.csv,Borda_PM,strat_truncate_W
+399,./data/america/APA/APA 2008.csv,Borda_PM,strat_truncate_W
+400,./data/america/APA/APA 2020 President.csv,Borda_PM,strat_truncate_W
+401,./data/america/APA/APA 2019 President.csv,Borda_PM,strat_truncate_W
+402,./data/america/APA/APA 2009.csv,Borda_PM,strat_truncate_W
+403,./data/america/APA/APA 2007.csv,Borda_PM,strat_truncate_W
+404,./data/america/APA/APA 2004.csv,Borda_PM,strat_truncate_W
+405,./data/america/APA/APA 2018 President.csv,Borda_PM,strat_truncate_W
+406,./data/america/APA/APA 2021 President.csv,Borda_PM,strat_truncate_W
+407,./data/america/APA/APA 2002.csv,Borda_PM,strat_truncate_W
+408,./data/america/APA/APA 2005.csv,Borda_PM,strat_truncate_W
+409,./data/america/APA/APA 2018 BOD race2.csv,Borda_PM,strat_truncate_W
+410,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember48thCouncilDistrict.csv,Borda_PM,strat_truncate_W
+411,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember39thCouncilDistrict.csv,Borda_PM,strat_truncate_W
+412,./data/america/New York City/NewYorkCity_06222021_REPBoroughPresidentRichmond.csv,Borda_PM,strat_truncate_W
+413,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember10thCouncilDistrict.csv,Borda_PM,strat_truncate_W
+414,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv,Borda_PM,strat_truncate_W
+415,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember25thCouncilDistrict.csv,Borda_PM,strat_truncate_W
+416,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember19thCouncilDistrict.csv,Borda_PM,strat_truncate_W
+417,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember49thCouncilDistrict.csv,Borda_PM,strat_truncate_W
+418,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember15thCouncilDistrict.csv,Borda_PM,strat_truncate_W
+419,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember35thCouncilDistrict.csv,Borda_PM,strat_truncate_W
+420,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember32ndCouncilDistrict.csv,Borda_PM,strat_truncate_W
+421,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember19thCouncilDistrict.csv,Borda_PM,strat_truncate_W
+422,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv,Borda_PM,strat_truncate_W
+423,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember5thCouncilDistrict.csv,Borda_PM,strat_truncate_W
+424,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember47thCouncilDistrict.csv,Borda_PM,strat_truncate_W
+425,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember23rdCouncilDistrict.csv,Borda_PM,strat_truncate_W
+426,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember36thCouncilDistrict.csv,Borda_PM,strat_truncate_W
+427,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember22ndCouncilDistrict.csv,Borda_PM,strat_truncate_W
+428,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember42ndCouncilDistrict.csv,Borda_PM,strat_truncate_W
+429,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember18thCouncilDistrict.csv,Borda_PM,strat_truncate_W
+430,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember40thCouncilDistrict.csv,Borda_PM,strat_truncate_W
+431,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentNewYork.csv,Borda_PM,strat_truncate_W
+432,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember20thCouncilDistrict.csv,Borda_PM,strat_truncate_W
+433,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentKings.csv,Borda_PM,strat_truncate_W
+434,"./data/america/Portland, ME/Portland_06142022_SchoolboardAL-1.csv",Borda_PM,strat_truncate_W
+435,./data/america/St Louis Park/StLouisPark_11022021_CityCouncilWard3.csv,Borda_PM,strat_truncate_W
+436,./data/america/Alameda County/Berkeley_05282024_Citycouncildistrict4specialelection.csv,Borda_PM,strat_truncate_W
+437,./data/america/Alameda County/SanLeandro_11062012_CountyCouncilDistrict6.csv,Borda_PM,strat_truncate_W
+438,./data/america/Alameda County/Oakland_11062012_SchoolDirectorDistrict5.csv,Borda_PM,strat_truncate_W
+439,./data/america/Alameda County/Oakland_11062018_CityCouncilDistrict4.csv,Borda_PM,strat_truncate_W
+440,./data/america/Alameda County/Oakland_11052024_CityCouncil_AtLarge.csv,Borda_PM,strat_truncate_W
+441,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict5.csv,Borda_PM,strat_truncate_W
+442,./data/america/Alameda County/SanLeandro_11032020_MemberCityCouncilDist2SanLeandroRCV.csv,Borda_PM,strat_truncate_W
+443,./data/america/Alameda County/Oakland_11032020_MemberCityCouncilAtLargeOaklandRCV.csv,Borda_PM,strat_truncate_W
+444,./data/america/Alameda County/Berkeley_11062018_CityCouncilDistrict1.csv,Borda_PM,strat_truncate_W
+445,./data/america/Alameda County/Oakland_11042014_CityCouncilDistrict2.csv,Borda_PM,strat_truncate_W
+446,./data/america/Alameda County/Berkeley_11032020_MemberCityCouncilDist2BerkeleyRCV.csv,Borda_PM,strat_truncate_W
+447,./data/america/Alameda County/Oakland_11042014_SchoolDirectorDistrict4.csv,Borda_PM,strat_truncate_W
+448,./data/america/Alameda County/Oakland_11082022_Mayor.csv,Borda_PM,strat_truncate_W
+449,./data/america/Alameda County/Berkeley_11052024_Mayor.csv,Borda_PM,strat_truncate_W
+450,./data/america/Alameda County/Oakland_11052024_School_Director_D3.csv,Borda_PM,strat_truncate_W
+451,./data/america/Alameda County/SanLeandro_11022010_CountyCouncilDistrict5.csv,Borda_PM,strat_truncate_W
+452,./data/america/Alameda County/Oakland_11082022_Schoolboarddistrict6.csv,Borda_PM,strat_truncate_W
+453,./data/america/Alameda County/Oakland_11032020_SchoolDirectorDist5OaklandRCV.csv,Borda_PM,strat_truncate_W
+454,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict5.csv,Borda_PM,strat_truncate_W
+455,./data/america/Alameda County/Oakland_11042014_CityCouncilDistrict6.csv,Borda_PM,strat_truncate_W
+456,./data/america/Alameda County/Oakland_11032020_MemberCityCouncilDist5OaklandRCV.csv,Borda_PM,strat_truncate_W
+457,./data/america/Alameda County/Berkeley_11022010_CityCouncilDistrict7.csv,Borda_PM,strat_truncate_W
+458,./data/america/Alameda County/Oakland_11052024_School_Director_D5.csv,Borda_PM,strat_truncate_W
+459,./data/america/Alameda County/Oakland_11032020_SchoolDirectorDist7OaklandRCV.csv,Borda_PM,strat_truncate_W
+460,./data/america/Alameda County/Berkeley_11062012_CityCouncilDistrict5.csv,Borda_PM,strat_truncate_W
+461,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict1.csv,Borda_PM,strat_truncate_W
+462,./data/america/Alameda County/SanLeandro_11042014_Mayor.csv,Borda_PM,strat_truncate_W
+463,./data/america/Alameda County/Oakland_11052024_CityCouncilD7.csv,Borda_PM,strat_truncate_W
+464,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict3.csv,Borda_PM,strat_truncate_W
+465,./data/america/Alameda County/SanLeandro_11062012_CountyCouncilDistrict2.csv,Borda_PM,strat_truncate_W
+466,"./data/america/Corvallis, OR/Corvallis_11082022_CityCouncilWard9.csv",Borda_PM,strat_truncate_W
+467,"./data/america/Pierce County, WA/PierceCounty_11032009_CountyAuditor.csv",Borda_PM,strat_truncate_W
+468,./data/america/Burlington/Burlington_03072023_CityCouncilEastDistrict.csv,Borda_PM,strat_truncate_W
+469,./data/america/Burlington/Burlington_03072006_Mayor.csv,Borda_PM,strat_truncate_W
+470,./data/america/Burlington/Burlington_03052024_Mayor.csv,Borda_PM,strat_truncate_W
+471,"./data/america/Cambridge, MA/Cambridge_11072023_SchoolBoard.csv",Borda_PM,strat_truncate_W
+472,"./data/america/Cambridge, MA/Cambridge_11042003_SchoolCommittee.csv",Borda_PM,strat_truncate_W
+473,"./data/america/Cambridge, MA/Cambridge_11032015_SchoolCommittee.csv",Borda_PM,strat_truncate_W
+474,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict2.csv,Borda_PM,strat_truncate_W
+475,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard3.csv,Borda_PM,strat_truncate_W
+476,./data/america/Minneapolis/Minneapolis_11072017_Ward5CityCouncil.csv,Borda_PM,strat_truncate_W
+477,./data/america/Minneapolis/Minneapolis_11052013_ParkRecBoardAtLarge.csv,Borda_PM,strat_truncate_W
+478,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict3.csv,Borda_PM,strat_truncate_W
+479,./data/america/Minneapolis/Minneapolis_11072017_Ward9CityCouncil.csv,Borda_PM,strat_truncate_W
+480,./data/america/Minneapolis/Minneapolis_11062009_PRBoardDistrict6.csv,Borda_PM,strat_truncate_W
+481,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard7.csv,Borda_PM,strat_truncate_W
+482,./data/america/Minneapolis/Minneapolis_11022021_ParkBoardDistrict6.csv,Borda_PM,strat_truncate_W
+483,./data/america/Minneapolis/Minneapolis_11072017_Ward6CityCouncil.csv,Borda_PM,strat_truncate_W
+484,./data/america/Minneapolis/Minneapolis_11052013_Ward5CityCouncil.csv,Borda_PM,strat_truncate_W
+485,./data/america/Minneapolis/Minneapolis_11072017_Ward1CityCouncil.csv,Borda_PM,strat_truncate_W
+486,./data/america/Minneapolis/Minneapolis_11062009_Ward5CityCouncil.csv,Borda_PM,strat_truncate_W
+487,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard1.csv,Borda_PM,strat_truncate_W
+488,./data/america/Minneapolis/Minneapolis_11062009_PRBoardDistrict5.csv,Borda_PM,strat_truncate_W
+489,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard10.csv,Borda_PM,strat_truncate_W
+490,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard12.csv,Borda_PM,strat_truncate_W
+491,./data/america/Minneapolis/Minneapolis_11072017_Ward4CityCouncil.csv,Borda_PM,strat_truncate_W
+492,./data/america/Minneapolis/Minneapolis 2013-board of estimation and taxation cvr.csv,Borda_PM,strat_truncate_W
+493,./data/america/Minneapolis/Minneapolis_11052013_Ward9CityCouncil.csv,Borda_PM,strat_truncate_W
+494,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict1.csv,Borda_PM,strat_truncate_W
+495,./data/america/New Mexico/SantaFe_03062018_Mayor.csv,Borda_PM,strat_truncate_W
+496,./data/america/New Mexico/LasCruces_11052019_MAYORCITYOFLASCRUCES.csv,Borda_PM,strat_truncate_W
+497,./data/america/Utah cities/Springville_11022021_CityCouncil4yr.csv,Borda_PM,strat_truncate_W
+498,./data/america/Utah cities/WoodlandHills_11022021_Mayor.csv,Borda_PM,strat_truncate_W
+499,./data/america/Utah cities/Payson_11052019_CityCouncil.csv,Borda_PM,strat_truncate_W
+500,./data/america/Utah cities/Vineyard_11052019_CityCouncil.csv,Borda_PM,strat_truncate_W
+501,./data/america/Utah cities/Lehi_11022021_CityCouncil.csv,Borda_PM,strat_truncate_W
+502,./data/america/San Francisco/SanFrancisco_11082011_Sheriff.csv,Borda_PM,strat_truncate_W
+503,./data/america/San Francisco/SanFrancisco_11052004_BoardofSupervisorsDistrict1.csv,Borda_PM,strat_truncate_W
+504,./data/america/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict11.csv,Borda_PM,strat_truncate_W
+505,./data/america/San Francisco/SanFrancisco_11052024_BoS_D1.csv,Borda_PM,strat_truncate_W
+506,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict1.csv,Borda_PM,strat_truncate_W
+507,./data/america/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict4.csv,Borda_PM,strat_truncate_W
+508,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict2.csv,Borda_PM,strat_truncate_W
+509,./data/america/San Francisco/SanFrancisco_11082022_BoardofSupervisorsD6.csv,Borda_PM,strat_truncate_W
+510,./data/america/San Francisco/SanFrancisco_11052024_Mayor.csv,Borda_PM,strat_truncate_W
+511,./data/america/San Francisco/SanFrancisco_11052019_DistrictAttorney.csv,Borda_PM,strat_truncate_W
+512,./data/america/San Francisco/SanFrancisco_11052024_BoS_D7.csv,Borda_PM,strat_truncate_W
+513,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT11.csv,Borda_PM,strat_truncate_W
+514,./data/america/San Francisco/SanFrancisco_11052024_BoS_D3.csv,Borda_PM,strat_truncate_W
+515,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict8.csv,Borda_PM,strat_truncate_W
+516,./data/america/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict9.csv,Borda_PM,strat_truncate_W
+517,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict6.csv,Borda_PM,strat_truncate_W
+518,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT3.csv,Borda_PM,strat_truncate_W
+519,./data/america/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict2.csv,Borda_PM,strat_truncate_W
+520,./data/america/San Francisco/SanFrancisco_11082005_AssessorRecorder.csv,Borda_PM,strat_truncate_W
+521,./data/america/San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict7.csv,Borda_PM,strat_truncate_W
+522,./data/america/San Francisco/SanFrancisco_11052024_BoS_D5.csv,Borda_PM,strat_truncate_W
+523,./data/america/San Francisco/SanFrancisco_11082011_DistrictAttorney.csv,Borda_PM,strat_truncate_W
+524,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT5.csv,Borda_PM,strat_truncate_W
+525,./data/america/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict7.csv,Borda_PM,strat_truncate_W
+526,./data/america/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict6.csv,Borda_PM,strat_truncate_W
+527,./data/america/San Francisco/SanFrancisco_11082022_DistrictAttorney.csv,Borda_PM,strat_truncate_W
+528,./data/america/Maine/Maine_11082022_CongressionalDistrict2.csv,Borda_PM,strat_truncate_W
+529,./data/america/Maine/Maine_06122018_DemocraticPrimaryforGovernor.csv,Borda_PM,strat_truncate_W
+530,./data/america/Maine/Maine_11062018_CongressionalDistrict2.csv,Borda_PM,strat_truncate_W
+531,./data/america/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict41.csv,Borda_PM,strat_truncate_W
+532,./data/america/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict47.csv,Borda_PM,strat_truncate_W
+533,./data/america/Maine/Maine_06122018_DemocraticPrimaryforCD2.csv,Borda_PM,strat_truncate_W
+534,./data/america/Minnetonka/Minnetonka_11072023_CityCouncilWard4.csv,Borda_PM,strat_truncate_W
+535,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard6.csv",Borda_PM,strat_bury_shallow
+536,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard5.csv",Borda_PM,strat_bury_shallow
+537,./data/america/Alaska/Alaska_11082022_HouseDistrict21.csv,Borda_PM,strat_bury_shallow
+538,./data/america/Alaska/Alaska_11082022_HouseDistrict1.csv,Borda_PM,strat_bury_shallow
+539,./data/america/Alaska/Alaska_11082022_SenateDistrictO.csv,Borda_PM,strat_bury_shallow
+540,./data/america/Alaska/Alaska_11082022_SenateDistrictH.csv,Borda_PM,strat_bury_shallow
+541,./data/america/Alaska/Alaska_11052024_StateSenateD.csv,Borda_PM,strat_bury_shallow
+542,./data/america/Alaska/Alaska_11052024_StateHouseD22.csv,Borda_PM,strat_bury_shallow
+543,./data/america/Alaska/Alaska_11082022_HouseDistrict13.csv,Borda_PM,strat_bury_shallow
+544,./data/america/Alaska/Alaska_11082022_HouseDistrict39.csv,Borda_PM,strat_bury_shallow
+545,./data/america/Alaska/Alaska_11082022_HouseDistrict30.csv,Borda_PM,strat_bury_shallow
+546,./data/america/Alaska/Alaska_11052024_StateSenateP.csv,Borda_PM,strat_bury_shallow
+547,./data/america/Alaska/Alaska_11052024_US_House.csv,Borda_PM,strat_bury_shallow
+548,./data/america/Alaska/Alaska_11082022_HouseDistrict15.csv,Borda_PM,strat_bury_shallow
+549,./data/america/Alaska/Alaska_11052024_StateHouseD18.csv,Borda_PM,strat_bury_shallow
+550,./data/america/Alaska/Alaska_11082022_HouseDistrict7.csv,Borda_PM,strat_bury_shallow
+551,./data/america/Alaska/Alaska_11052024_StateSenateL.csv,Borda_PM,strat_bury_shallow
+552,./data/america/Alaska/Alaska_11082022_USSenator.csv,Borda_PM,strat_bury_shallow
+553,./data/america/Alaska/Alaska_11052024_StateHouseD27.csv,Borda_PM,strat_bury_shallow
+554,./data/america/Alaska/Alaska_11082022_HouseDistrict18.csv,Borda_PM,strat_bury_shallow
+555,./data/america/Alaska/Alaska_11082022_SenateDistrictD.csv,Borda_PM,strat_bury_shallow
+556,./data/america/Alaska/Alaska_11052024_StateHouseD8.csv,Borda_PM,strat_bury_shallow
+557,./data/america/Alaska/Alaska_11082022_HouseDistrict22.csv,Borda_PM,strat_bury_shallow
+558,./data/america/Alaska/Alaska_11052024_StateHouseD28.csv,Borda_PM,strat_bury_shallow
+559,./data/america/Alaska/Alaska_11082022_SenateDistrictP.csv,Borda_PM,strat_bury_shallow
+560,./data/america/Alaska/Alaska_11082022_USRepresentative.csv,Borda_PM,strat_bury_shallow
+561,./data/america/Alaska/Alaska_11082022_HouseDistrict17.csv,Borda_PM,strat_bury_shallow
+562,./data/america/APA/APA 2020 President.csv,Borda_PM,strat_bury_shallow
+563,./data/america/APA/APA 2004.csv,Borda_PM,strat_bury_shallow
+564,./data/america/APA/APA 2021 President.csv,Borda_PM,strat_bury_shallow
+565,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember48thCouncilDistrict.csv,Borda_PM,strat_bury_shallow
+566,./data/america/New York City/NewYorkCity_06222021_REPBoroughPresidentRichmond.csv,Borda_PM,strat_bury_shallow
+567,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember10thCouncilDistrict.csv,Borda_PM,strat_bury_shallow
+568,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember19thCouncilDistrict.csv,Borda_PM,strat_bury_shallow
+569,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember49thCouncilDistrict.csv,Borda_PM,strat_bury_shallow
+570,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember15thCouncilDistrict.csv,Borda_PM,strat_bury_shallow
+571,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember35thCouncilDistrict.csv,Borda_PM,strat_bury_shallow
+572,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember32ndCouncilDistrict.csv,Borda_PM,strat_bury_shallow
+573,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember19thCouncilDistrict.csv,Borda_PM,strat_bury_shallow
+574,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv,Borda_PM,strat_bury_shallow
+575,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember5thCouncilDistrict.csv,Borda_PM,strat_bury_shallow
+576,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember47thCouncilDistrict.csv,Borda_PM,strat_bury_shallow
+577,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember23rdCouncilDistrict.csv,Borda_PM,strat_bury_shallow
+578,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember22ndCouncilDistrict.csv,Borda_PM,strat_bury_shallow
+579,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember42ndCouncilDistrict.csv,Borda_PM,strat_bury_shallow
+580,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember18thCouncilDistrict.csv,Borda_PM,strat_bury_shallow
+581,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember40thCouncilDistrict.csv,Borda_PM,strat_bury_shallow
+582,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentNewYork.csv,Borda_PM,strat_bury_shallow
+583,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember20thCouncilDistrict.csv,Borda_PM,strat_bury_shallow
+584,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentKings.csv,Borda_PM,strat_bury_shallow
+585,"./data/america/Portland, ME/Portland_06142022_SchoolboardAL-1.csv",Borda_PM,strat_bury_shallow
+586,./data/america/St Louis Park/StLouisPark_11022021_CityCouncilWard3.csv,Borda_PM,strat_bury_shallow
+587,./data/america/Alameda County/SanLeandro_11062012_CountyCouncilDistrict6.csv,Borda_PM,strat_bury_shallow
+588,./data/america/Alameda County/Oakland_11062012_SchoolDirectorDistrict5.csv,Borda_PM,strat_bury_shallow
+589,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict5.csv,Borda_PM,strat_bury_shallow
+590,./data/america/Alameda County/SanLeandro_11032020_MemberCityCouncilDist2SanLeandroRCV.csv,Borda_PM,strat_bury_shallow
+591,./data/america/Alameda County/Oakland_11032020_MemberCityCouncilAtLargeOaklandRCV.csv,Borda_PM,strat_bury_shallow
+592,./data/america/Alameda County/Berkeley_11062018_CityCouncilDistrict1.csv,Borda_PM,strat_bury_shallow
+593,./data/america/Alameda County/Oakland_11042014_CityCouncilDistrict2.csv,Borda_PM,strat_bury_shallow
+594,./data/america/Alameda County/Oakland_11042014_SchoolDirectorDistrict4.csv,Borda_PM,strat_bury_shallow
+595,./data/america/Alameda County/Oakland_11082022_Mayor.csv,Borda_PM,strat_bury_shallow
+596,./data/america/Alameda County/Oakland_11052024_School_Director_D3.csv,Borda_PM,strat_bury_shallow
+597,./data/america/Alameda County/SanLeandro_11022010_CountyCouncilDistrict5.csv,Borda_PM,strat_bury_shallow
+598,./data/america/Alameda County/Oakland_11082022_Schoolboarddistrict6.csv,Borda_PM,strat_bury_shallow
+599,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict5.csv,Borda_PM,strat_bury_shallow
+600,./data/america/Alameda County/Oakland_11042014_CityCouncilDistrict6.csv,Borda_PM,strat_bury_shallow
+601,./data/america/Alameda County/Oakland_11032020_MemberCityCouncilDist5OaklandRCV.csv,Borda_PM,strat_bury_shallow
+602,./data/america/Alameda County/Berkeley_11022010_CityCouncilDistrict7.csv,Borda_PM,strat_bury_shallow
+603,./data/america/Alameda County/Oakland_11052024_School_Director_D5.csv,Borda_PM,strat_bury_shallow
+604,./data/america/Alameda County/Berkeley_11062012_CityCouncilDistrict5.csv,Borda_PM,strat_bury_shallow
+605,./data/america/Alameda County/SanLeandro_11042014_Mayor.csv,Borda_PM,strat_bury_shallow
+606,"./data/america/Pierce County, WA/PierceCounty_11032009_CountyAuditor.csv",Borda_PM,strat_bury_shallow
+607,./data/america/Burlington/Burlington_03072023_CityCouncilEastDistrict.csv,Borda_PM,strat_bury_shallow
+608,./data/america/Burlington/Burlington_03052024_Mayor.csv,Borda_PM,strat_bury_shallow
+609,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict2.csv,Borda_PM,strat_bury_shallow
+610,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard3.csv,Borda_PM,strat_bury_shallow
+611,./data/america/Minneapolis/Minneapolis_11072017_Ward5CityCouncil.csv,Borda_PM,strat_bury_shallow
+612,./data/america/Minneapolis/Minneapolis_11052013_ParkRecBoardAtLarge.csv,Borda_PM,strat_bury_shallow
+613,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict3.csv,Borda_PM,strat_bury_shallow
+614,./data/america/Minneapolis/Minneapolis_11062009_PRBoardDistrict6.csv,Borda_PM,strat_bury_shallow
+615,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard7.csv,Borda_PM,strat_bury_shallow
+616,./data/america/Minneapolis/Minneapolis_11072017_Ward6CityCouncil.csv,Borda_PM,strat_bury_shallow
+617,./data/america/Minneapolis/Minneapolis_11052013_Ward5CityCouncil.csv,Borda_PM,strat_bury_shallow
+618,./data/america/Minneapolis/Minneapolis_11072017_Ward1CityCouncil.csv,Borda_PM,strat_bury_shallow
+619,./data/america/Minneapolis/Minneapolis_11062009_Ward5CityCouncil.csv,Borda_PM,strat_bury_shallow
+620,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard1.csv,Borda_PM,strat_bury_shallow
+621,./data/america/Minneapolis/Minneapolis_11062009_PRBoardDistrict5.csv,Borda_PM,strat_bury_shallow
+622,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard10.csv,Borda_PM,strat_bury_shallow
+623,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard12.csv,Borda_PM,strat_bury_shallow
+624,./data/america/Minneapolis/Minneapolis_11072017_Ward4CityCouncil.csv,Borda_PM,strat_bury_shallow
+625,./data/america/Minneapolis/Minneapolis 2013-board of estimation and taxation cvr.csv,Borda_PM,strat_bury_shallow
+626,./data/america/Minneapolis/Minneapolis_11052013_Ward9CityCouncil.csv,Borda_PM,strat_bury_shallow
+627,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict1.csv,Borda_PM,strat_bury_shallow
+628,./data/america/New Mexico/SantaFe_03062018_Mayor.csv,Borda_PM,strat_bury_shallow
+629,./data/america/New Mexico/LasCruces_11052019_MAYORCITYOFLASCRUCES.csv,Borda_PM,strat_bury_shallow
+630,./data/america/San Francisco/SanFrancisco_11052004_BoardofSupervisorsDistrict1.csv,Borda_PM,strat_bury_shallow
+631,./data/america/San Francisco/SanFrancisco_11052024_BoS_D1.csv,Borda_PM,strat_bury_shallow
+632,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict1.csv,Borda_PM,strat_bury_shallow
+633,./data/america/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict4.csv,Borda_PM,strat_bury_shallow
+634,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict2.csv,Borda_PM,strat_bury_shallow
+635,./data/america/San Francisco/SanFrancisco_11082022_BoardofSupervisorsD6.csv,Borda_PM,strat_bury_shallow
+636,./data/america/San Francisco/SanFrancisco_11052019_DistrictAttorney.csv,Borda_PM,strat_bury_shallow
+637,./data/america/San Francisco/SanFrancisco_11052024_BoS_D7.csv,Borda_PM,strat_bury_shallow
+638,./data/america/San Francisco/SanFrancisco_11052024_BoS_D3.csv,Borda_PM,strat_bury_shallow
+639,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict6.csv,Borda_PM,strat_bury_shallow
+640,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT3.csv,Borda_PM,strat_bury_shallow
+641,./data/america/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict2.csv,Borda_PM,strat_bury_shallow
+642,./data/america/San Francisco/SanFrancisco_11082005_AssessorRecorder.csv,Borda_PM,strat_bury_shallow
+643,./data/america/San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict7.csv,Borda_PM,strat_bury_shallow
+644,./data/america/San Francisco/SanFrancisco_11052024_BoS_D5.csv,Borda_PM,strat_bury_shallow
+645,./data/america/San Francisco/SanFrancisco_11082011_DistrictAttorney.csv,Borda_PM,strat_bury_shallow
+646,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT5.csv,Borda_PM,strat_bury_shallow
+647,./data/america/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict7.csv,Borda_PM,strat_bury_shallow
+648,./data/america/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict6.csv,Borda_PM,strat_bury_shallow
+649,./data/america/San Francisco/SanFrancisco_11082022_DistrictAttorney.csv,Borda_PM,strat_bury_shallow
+650,./data/america/Maine/Maine_11082022_CongressionalDistrict2.csv,Borda_PM,strat_bury_shallow
+651,./data/america/Maine/Maine_11062018_CongressionalDistrict2.csv,Borda_PM,strat_bury_shallow
+652,./data/america/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict41.csv,Borda_PM,strat_bury_shallow
+653,./data/america/Maine/Maine_06122018_DemocraticPrimaryforCD2.csv,Borda_PM,strat_bury_shallow
+654,./data/america/Minnetonka/Minnetonka_11072023_CityCouncilWard4.csv,Borda_PM,strat_bury_shallow
+655,./data/america/Alaska/Alaska_11082022_HouseDistrict21.csv,Borda_PM,strat_bury_deep
+656,./data/america/Alaska/Alaska_11082022_HouseDistrict1.csv,Borda_PM,strat_bury_deep
+657,./data/america/Alaska/Alaska_11082022_SenateDistrictO.csv,Borda_PM,strat_bury_deep
+658,./data/america/Alaska/Alaska_11082022_SenateDistrictH.csv,Borda_PM,strat_bury_deep
+659,./data/america/Alaska/Alaska_11052024_StateHouseD22.csv,Borda_PM,strat_bury_deep
+660,./data/america/Alaska/Alaska_11082022_HouseDistrict13.csv,Borda_PM,strat_bury_deep
+661,./data/america/Alaska/Alaska_11082022_HouseDistrict39.csv,Borda_PM,strat_bury_deep
+662,./data/america/Alaska/Alaska_11052024_StateSenateP.csv,Borda_PM,strat_bury_deep
+663,./data/america/Alaska/Alaska_11052024_StateHouseD18.csv,Borda_PM,strat_bury_deep
+664,./data/america/Alaska/Alaska_11082022_HouseDistrict7.csv,Borda_PM,strat_bury_deep
+665,./data/america/Alaska/Alaska_11052024_StateHouseD27.csv,Borda_PM,strat_bury_deep
+666,./data/america/Alaska/Alaska_11052024_StateHouseD8.csv,Borda_PM,strat_bury_deep
+667,./data/america/Alaska/Alaska_11082022_HouseDistrict22.csv,Borda_PM,strat_bury_deep
+668,./data/america/Alaska/Alaska_11082022_SenateDistrictP.csv,Borda_PM,strat_bury_deep
+669,./data/america/Alaska/Alaska_11082022_HouseDistrict17.csv,Borda_PM,strat_bury_deep
+670,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember19thCouncilDistrict.csv,Borda_PM,strat_bury_deep
+671,./data/america/Alameda County/SanLeandro_11062012_CountyCouncilDistrict6.csv,Borda_PM,strat_bury_deep
+672,./data/america/Alameda County/Oakland_11062012_SchoolDirectorDistrict5.csv,Borda_PM,strat_bury_deep
+673,./data/america/Alameda County/SanLeandro_11032020_MemberCityCouncilDist2SanLeandroRCV.csv,Borda_PM,strat_bury_deep
+674,./data/america/Alameda County/Oakland_11052024_School_Director_D3.csv,Borda_PM,strat_bury_deep
+675,./data/america/Alameda County/SanLeandro_11022010_CountyCouncilDistrict5.csv,Borda_PM,strat_bury_deep
+676,./data/america/Alameda County/Oakland_11052024_School_Director_D5.csv,Borda_PM,strat_bury_deep
+677,./data/america/Alameda County/Berkeley_11062012_CityCouncilDistrict5.csv,Borda_PM,strat_bury_deep
+678,./data/america/Burlington/Burlington_03072023_CityCouncilEastDistrict.csv,Borda_PM,strat_bury_deep
+679,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict2.csv,Borda_PM,strat_bury_deep
+680,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT3.csv,Borda_PM,strat_bury_deep
+681,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT5.csv,Borda_PM,strat_bury_deep
+682,./data/america/Alaska/Alaska_11052024_StateHouseD6.csv,Borda_OM,strat_compromise
+683,./data/america/APA/APA 2001.csv,Borda_OM,strat_compromise
+684,./data/america/APA/APA 2008.csv,Borda_OM,strat_compromise
+685,./data/america/APA/APA 2020 BOD race2.csv,Borda_OM,strat_compromise
+686,./data/america/APA/APA 2020 President.csv,Borda_OM,strat_compromise
+687,./data/america/APA/APA 2019 President.csv,Borda_OM,strat_compromise
+688,./data/america/APA/APA 1999.csv,Borda_OM,strat_compromise
+689,./data/america/APA/APA 2009.csv,Borda_OM,strat_compromise
+690,./data/america/APA/APA 2007.csv,Borda_OM,strat_compromise
+691,./data/america/APA/APA 2018 President.csv,Borda_OM,strat_compromise
+692,./data/america/APA/APA 2021 President.csv,Borda_OM,strat_compromise
+693,./data/america/APA/APA 2002.csv,Borda_OM,strat_compromise
+694,./data/america/APA/APA 2005.csv,Borda_OM,strat_compromise
+695,./data/america/APA/APA 2018 BOD race2.csv,Borda_OM,strat_compromise
+696,./data/america/New York City/NewYorkCity_06222021_REPBoroughPresidentRichmond.csv,Borda_OM,strat_compromise
+697,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv,Borda_OM,strat_compromise
+698,./data/america/New York City/NewYorkCity_06222021_DEMMayorCitywide.csv,Borda_OM,strat_compromise
+699,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember19thCouncilDistrict.csv,Borda_OM,strat_compromise
+700,./data/america/New York City/NewYorkCity_06222021_DEMComptrollerCitywide.csv,Borda_OM,strat_compromise
+701,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv,Borda_OM,strat_compromise
+702,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember5thCouncilDistrict.csv,Borda_OM,strat_compromise
+703,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember23rdCouncilDistrict.csv,Borda_OM,strat_compromise
+704,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember36thCouncilDistrict.csv,Borda_OM,strat_compromise
+705,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember18thCouncilDistrict.csv,Borda_OM,strat_compromise
+706,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentNewYork.csv,Borda_OM,strat_compromise
+707,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember20thCouncilDistrict.csv,Borda_OM,strat_compromise
+708,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentQueens.csv,Borda_OM,strat_compromise
+709,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember9thCouncilDistrict.csv,Borda_OM,strat_compromise
+710,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentKings.csv,Borda_OM,strat_compromise
+711,"./data/america/Portland, ME/Portland_06142022_SchoolboardAL-1.csv",Borda_OM,strat_compromise
+712,"./data/america/Portland, ME/Portland_06082021_charter_commission_at_large.csv",Borda_OM,strat_compromise
+713,./data/america/Alameda County/Berkeley_05282024_Citycouncildistrict4specialelection.csv,Borda_OM,strat_compromise
+714,./data/america/Alameda County/Oakland_11052024_CityCouncilD3.csv,Borda_OM,strat_compromise
+715,./data/america/Alameda County/Oakland_11022010_Mayor.csv,Borda_OM,strat_compromise
+716,./data/america/Alameda County/Oakland_11062018_CityCouncilDistrict4.csv,Borda_OM,strat_compromise
+717,./data/america/Alameda County/Oakland_11082022_Schoolboarddistrict4.csv,Borda_OM,strat_compromise
+718,./data/america/Alameda County/Berkeley_11042014_CityCouncilDistrict8.csv,Borda_OM,strat_compromise
+719,./data/america/Alameda County/Berkeley_11062018_CityCouncilDistrict1.csv,Borda_OM,strat_compromise
+720,./data/america/Alameda County/Oakland_11042014_CityCouncilDistrict2.csv,Borda_OM,strat_compromise
+721,./data/america/Alameda County/SanLeandro_11022010_Mayor.csv,Borda_OM,strat_compromise
+722,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict3.csv,Borda_OM,strat_compromise
+723,./data/america/Alameda County/Oakland_11042014_SchoolDirectorDistrict4.csv,Borda_OM,strat_compromise
+724,./data/america/Alameda County/Oakland_11082022_Mayor.csv,Borda_OM,strat_compromise
+725,./data/america/Alameda County/Berkeley_11052024_Mayor.csv,Borda_OM,strat_compromise
+726,./data/america/Alameda County/Oakland_11042014_CityCouncilDistrict6.csv,Borda_OM,strat_compromise
+727,./data/america/Alameda County/Oakland_11032020_MemberCityCouncilDist7OaklandRCV.csv,Borda_OM,strat_compromise
+728,./data/america/Alameda County/Oakland_11032020_MemberCityCouncilDist5OaklandRCV.csv,Borda_OM,strat_compromise
+729,./data/america/Alameda County/Oakland_11032020_SchoolDirectorDist7OaklandRCV.csv,Borda_OM,strat_compromise
+730,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict1.csv,Borda_OM,strat_compromise
+731,./data/america/Alameda County/Oakland_11052024_CityCouncilD7.csv,Borda_OM,strat_compromise
+732,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict3.csv,Borda_OM,strat_compromise
+733,./data/america/Alameda County/SanLeandro_11062012_CountyCouncilDistrict2.csv,Borda_OM,strat_compromise
+734,./data/america/Alameda County/Berkeley_11082016_CityCouncilDistrict2.csv,Borda_OM,strat_compromise
+735,"./data/america/Corvallis, OR/Corvallis_11082022_Mayor.csv",Borda_OM,strat_compromise
+736,"./data/america/Pierce County, WA/PierceCounty_11042008_CountyExecutiveMember.csv",Borda_OM,strat_compromise
+737,"./data/america/Cambridge, MA/Cambridge_11072023_SchoolBoard.csv",Borda_OM,strat_compromise
+738,"./data/america/Cambridge, MA/Cambridge_11042003_SchoolCommittee.csv",Borda_OM,strat_compromise
+739,"./data/america/Cambridge, MA/Cambridge_11152019_SchoolCommittee.csv",Borda_OM,strat_compromise
+740,"./data/america/Cambridge, MA/Cambridge_11032015_SchoolCommittee.csv",Borda_OM,strat_compromise
+741,"./data/america/Cambridge, MA/Cambridge_11082011_SchoolCommittee.csv",Borda_OM,strat_compromise
+742,"./data/america/Cambridge, MA/Cambridge_11062007_SchoolCommittee.csv",Borda_OM,strat_compromise
+743,"./data/america/Cambridge, MA/Cambridge_11082005_SchoolCommittee.csv",Borda_OM,strat_compromise
+744,./data/america/Minneapolis/Minneapolis_08112020_Ward6CityCouncilSpecialElection.csv,Borda_OM,strat_compromise
+745,./data/america/Minneapolis/Minneapolis_11072017_ParkBoardAtLarge.csv,Borda_OM,strat_compromise
+746,./data/america/Minneapolis/Minneapolis_11052013_ParkRecBoardAtLarge.csv,Borda_OM,strat_compromise
+747,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard2.csv,Borda_OM,strat_compromise
+748,./data/america/Minneapolis/Minneapolis_11062009_MinneapolisParkRecBoard.csv,Borda_OM,strat_compromise
+749,./data/america/Minneapolis/Minneapolis_11062009_Ward4CityCouncil.csv,Borda_OM,strat_compromise
+750,./data/america/Minneapolis/Minneapolis_11052013_Ward13CityCouncil.csv,Borda_OM,strat_compromise
+751,./data/america/Minneapolis/Minneapolis_11072017_Ward1CityCouncil.csv,Borda_OM,strat_compromise
+752,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict6.csv,Borda_OM,strat_compromise
+753,./data/america/New Mexico/LasCruces_11052019_MAYORCITYOFLASCRUCES.csv,Borda_OM,strat_compromise
+754,./data/america/Utah cities/WoodlandHills_11022021_Mayor.csv,Borda_OM,strat_compromise
+755,./data/america/Utah cities/Vineyard_11052019_CityCouncil.csv,Borda_OM,strat_compromise
+756,./data/america/Utah cities/Lehi_11022021_CityCouncil.csv,Borda_OM,strat_compromise
+757,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT1.csv,Borda_OM,strat_compromise
+758,./data/america/San Francisco/SanFrancisco_11082011_Sheriff.csv,Borda_OM,strat_compromise
+759,./data/america/San Francisco/SanFrancisco_11052004_BoardofSupervisorsDistrict1.csv,Borda_OM,strat_compromise
+760,./data/america/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict11.csv,Borda_OM,strat_compromise
+761,./data/america/San Francisco/SanFrancisco_11052024_BoS_D1.csv,Borda_OM,strat_compromise
+762,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict1.csv,Borda_OM,strat_compromise
+763,./data/america/San Francisco/SanFrancisco_06052018_Mayor.csv,Borda_OM,strat_compromise
+764,./data/america/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict4.csv,Borda_OM,strat_compromise
+765,./data/america/San Francisco/SanFrancisco_11052024_BoS_D11.csv,Borda_OM,strat_compromise
+766,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT7.csv,Borda_OM,strat_compromise
+767,./data/america/San Francisco/SanFrancisco_11052019_DistrictAttorney.csv,Borda_OM,strat_compromise
+768,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict11.csv,Borda_OM,strat_compromise
+769,./data/america/San Francisco/SanFrancisco_11032015_Mayor.csv,Borda_OM,strat_compromise
+770,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict7.csv,Borda_OM,strat_compromise
+771,./data/america/San Francisco/SanFrancisco_11052024_BoS_D7.csv,Borda_OM,strat_compromise
+772,./data/america/San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict5.csv,Borda_OM,strat_compromise
+773,./data/america/San Francisco/SanFrancisco_11052024_BoS_D3.csv,Borda_OM,strat_compromise
+774,./data/america/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict9.csv,Borda_OM,strat_compromise
+775,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT3.csv,Borda_OM,strat_compromise
+776,./data/america/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict2.csv,Borda_OM,strat_compromise
+777,./data/america/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict6.csv,Borda_OM,strat_compromise
+778,./data/america/San Francisco/SanFrancisco_11082022_DistrictAttorney.csv,Borda_OM,strat_compromise
+779,./data/america/Maine/Maine_06122018_DemocraticPrimaryforGovernor.csv,Borda_OM,strat_compromise
+780,./data/america/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict47.csv,Borda_OM,strat_compromise
+781,./data/america/Minnetonka/Minnetonka_11072023_CityCouncilWard3.csv,Borda_OM,strat_compromise
+782,./data/america/Alaska/Alaska_11082022_HouseDistrict35.csv,Borda_OM,strat_bury_shallow
+783,./data/america/New York City/NewYorkCity_06222021_DEMComptrollerCitywide.csv,Borda_OM,strat_bury_shallow
+784,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember5thCouncilDistrict.csv,Borda_OM,strat_bury_shallow
+785,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember23rdCouncilDistrict.csv,Borda_OM,strat_bury_shallow
+786,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember42ndCouncilDistrict.csv,Borda_OM,strat_bury_shallow
+787,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember18thCouncilDistrict.csv,Borda_OM,strat_bury_shallow
+788,./data/america/Alameda County/Oakland_11052024_CityCouncilD3.csv,Borda_OM,strat_bury_shallow
+789,./data/america/Alameda County/Oakland_11032020_MemberCityCouncilAtLargeOaklandRCV.csv,Borda_OM,strat_bury_shallow
+790,./data/america/Alameda County/Berkeley_11042014_CityCouncilDistrict1.csv,Borda_OM,strat_bury_shallow
+791,./data/america/Alameda County/Oakland_11082022_Mayor.csv,Borda_OM,strat_bury_shallow
+792,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict5.csv,Borda_OM,strat_bury_shallow
+793,./data/america/Alameda County/Berkeley_11062018_CityCouncilDistrict4.csv,Borda_OM,strat_bury_shallow
+794,"./data/america/Pierce County, WA/PierceCounty_11032009_CountyAuditor.csv",Borda_OM,strat_bury_shallow
+795,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard8.csv,Borda_OM,strat_bury_shallow
+796,./data/america/Minneapolis/Minneapolis_11072017_Ward6CityCouncil.csv,Borda_OM,strat_bury_shallow
+797,./data/america/Minneapolis/Minneapolis_11052013_Ward13CityCouncil.csv,Borda_OM,strat_bury_shallow
+798,./data/america/Minneapolis/Minneapolis_11072017_Ward1CityCouncil.csv,Borda_OM,strat_bury_shallow
+799,./data/america/Minneapolis/Minneapolis_11062009_Ward5CityCouncil.csv,Borda_OM,strat_bury_shallow
+800,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard1.csv,Borda_OM,strat_bury_shallow
+801,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict6.csv,Borda_OM,strat_bury_shallow
+802,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict1.csv,Borda_OM,strat_bury_shallow
+803,./data/america/San Francisco/SanFrancisco_11082022_BoardofSupervisorsD6.csv,Borda_OM,strat_bury_shallow
+804,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict11.csv,Borda_OM,strat_bury_shallow
+805,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT11.csv,Borda_OM,strat_bury_shallow
+806,./data/america/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict2.csv,Borda_OM,strat_bury_shallow
+807,./data/america/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict6.csv,Borda_OM,strat_bury_shallow
+808,./data/america/Maine/Maine_06122018_DemocraticPrimaryforCD2.csv,Borda_OM,strat_bury_shallow
+809,./data/america/Alaska/Alaska_11082022_SenateDistrictF.csv,Borda_OM,strat_bury_deep
+810,./data/america/Alaska/Alaska_11082022_HouseDistrict21.csv,Borda_OM,strat_bury_deep
+811,./data/america/Alaska/Alaska_11052024_StateHouseD10.csv,Borda_OM,strat_bury_deep
+812,./data/america/Alaska/Alaska_11082022_HouseDistrict1.csv,Borda_OM,strat_bury_deep
+813,./data/america/Alaska/Alaska_11082022_SenateDistrictO.csv,Borda_OM,strat_bury_deep
+814,./data/america/Alaska/Alaska_11052024_StateHouseD19.csv,Borda_OM,strat_bury_deep
+815,./data/america/Alaska/Alaska_11082022_SenateDistrictH.csv,Borda_OM,strat_bury_deep
+816,./data/america/Alaska/Alaska_11082022_SenateDistrictS.csv,Borda_OM,strat_bury_deep
+817,./data/america/Alaska/Alaska_11052024_StateHouseD22.csv,Borda_OM,strat_bury_deep
+818,./data/america/Alaska/Alaska_11082022_HouseDistrict13.csv,Borda_OM,strat_bury_deep
+819,./data/america/Alaska/Alaska_11052024_StateHouseD34.csv,Borda_OM,strat_bury_deep
+820,./data/america/Alaska/Alaska_11082022_HouseDistrict39.csv,Borda_OM,strat_bury_deep
+821,./data/america/Alaska/Alaska_11052024_StateHouseD23.csv,Borda_OM,strat_bury_deep
+822,./data/america/Alaska/Alaska_11052024_StateSenateP.csv,Borda_OM,strat_bury_deep
+823,./data/america/Alaska/Alaska_11082022_HouseDistrict12.csv,Borda_OM,strat_bury_deep
+824,./data/america/Alaska/Alaska_11082022_SenateDistrictR.csv,Borda_OM,strat_bury_deep
+825,./data/america/Alaska/Alaska_11052024_StateHouseD18.csv,Borda_OM,strat_bury_deep
+826,./data/america/Alaska/Alaska_11082022_HouseDistrict7.csv,Borda_OM,strat_bury_deep
+827,./data/america/Alaska/Alaska_11082022_HouseDistrict20.csv,Borda_OM,strat_bury_deep
+828,./data/america/Alaska/Alaska_11052024_StateHouseD11.csv,Borda_OM,strat_bury_deep
+829,./data/america/Alaska/Alaska_11052024_StateHouseD16.csv,Borda_OM,strat_bury_deep
+830,./data/america/Alaska/Alaska_11082022_SenateDistrictG.csv,Borda_OM,strat_bury_deep
+831,./data/america/Alaska/Alaska_11082022_HouseDistrict9.csv,Borda_OM,strat_bury_deep
+832,./data/america/Alaska/Alaska_11082022_HouseDistrict27.csv,Borda_OM,strat_bury_deep
+833,./data/america/Alaska/Alaska_11082022_HouseDistrict36.csv,Borda_OM,strat_bury_deep
+834,./data/america/Alaska/Alaska_11052024_StateHouseD40.csv,Borda_OM,strat_bury_deep
+835,./data/america/Alaska/Alaska_11052024_StateHouseD35.csv,Borda_OM,strat_bury_deep
+836,./data/america/Alaska/Alaska_11082022_HouseDistrict32.csv,Borda_OM,strat_bury_deep
+837,./data/america/Alaska/Alaska_11052024_StateHouseD9.csv,Borda_OM,strat_bury_deep
+838,./data/america/Alaska/Alaska_11052024_StateHouseD31.csv,Borda_OM,strat_bury_deep
+839,./data/america/Alaska/Alaska_11052024_StateHouseD7.csv,Borda_OM,strat_bury_deep
+840,./data/america/Alaska/Alaska_11082022_HouseDistrict16.csv,Borda_OM,strat_bury_deep
+841,./data/america/Alaska/Alaska_11052024_StateHouseD27.csv,Borda_OM,strat_bury_deep
+842,./data/america/Alaska/Alaska_11052024_StateHouseD20.csv,Borda_OM,strat_bury_deep
+843,./data/america/Alaska/Alaska_11082022_SenateDistrictQ.csv,Borda_OM,strat_bury_deep
+844,./data/america/Alaska/Alaska_11082022_SenateDistrictJ.csv,Borda_OM,strat_bury_deep
+845,./data/america/Alaska/Alaska_11082022_HouseDistrict24.csv,Borda_OM,strat_bury_deep
+846,./data/america/Alaska/Alaska_11052024_StateSenateH.csv,Borda_OM,strat_bury_deep
+847,./data/america/Alaska/Alaska_11082022_HouseDistrict23.csv,Borda_OM,strat_bury_deep
+848,./data/america/Alaska/Alaska_11052024_StateHouseD12.csv,Borda_OM,strat_bury_deep
+849,./data/america/Alaska/Alaska_11082022_SenateDistrictC.csv,Borda_OM,strat_bury_deep
+850,./data/america/Alaska/Alaska_11052024_StateHouseD1.csv,Borda_OM,strat_bury_deep
+851,./data/america/Alaska/Alaska_11052024_StateHouseD30.csv,Borda_OM,strat_bury_deep
+852,./data/america/Alaska/Alaska_11052024_StateHouseD8.csv,Borda_OM,strat_bury_deep
+853,./data/america/Alaska/Alaska_11052024_StateHouseD39.csv,Borda_OM,strat_bury_deep
+854,./data/america/Alaska/Alaska_11082022_HouseDistrict34.csv,Borda_OM,strat_bury_deep
+855,./data/america/Alaska/Alaska_11082022_HouseDistrict22.csv,Borda_OM,strat_bury_deep
+856,./data/america/Alaska/Alaska_11052024_StateSenateN.csv,Borda_OM,strat_bury_deep
+857,./data/america/Alaska/Alaska_11052024_StateHouseD13.csv,Borda_OM,strat_bury_deep
+858,./data/america/Alaska/Alaska_11082022_SenateDistrictK.csv,Borda_OM,strat_bury_deep
+859,./data/america/Alaska/Alaska_11082022_HouseDistrict5.csv,Borda_OM,strat_bury_deep
+860,./data/america/Alaska/Alaska_11082022_HouseDistrict2.csv,Borda_OM,strat_bury_deep
+861,./data/america/Alaska/Alaska_11082022_SenateDistrictL.csv,Borda_OM,strat_bury_deep
+862,./data/america/Alaska/Alaska_11052024_StateHouseD21.csv,Borda_OM,strat_bury_deep
+863,./data/america/Alaska/Alaska_11082022_GovernorLieutenantGovernor.csv,Borda_OM,strat_bury_deep
+864,./data/america/Alaska/Alaska_11082022_HouseDistrict17.csv,Borda_OM,strat_bury_deep
+865,./data/america/APA/APA 2017 President.csv,Borda_OM,strat_bury_deep
+866,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember28thCouncilDistrict.csv,Borda_OM,strat_bury_deep
+867,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember3rdCouncilDistrict.csv,Borda_OM,strat_bury_deep
+868,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentRichmond.csv,Borda_OM,strat_bury_deep
+869,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember41stCouncilDistrict.csv,Borda_OM,strat_bury_deep
+870,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember21stCouncilDistrict.csv,Borda_OM,strat_bury_deep
+871,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember16thCouncilDistrict.csv,Borda_OM,strat_bury_deep
+872,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember19thCouncilDistrict.csv,Borda_OM,strat_bury_deep
+873,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember38thCouncilDistrict.csv,Borda_OM,strat_bury_deep
+874,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember29thCouncilDistrict.csv,Borda_OM,strat_bury_deep
+875,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember6thCouncilDistrict.csv,Borda_OM,strat_bury_deep
+876,./data/america/New York City/NewYorkCity_06222021_REPBoroughPresidentQueens.csv,Borda_OM,strat_bury_deep
+877,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember11thCouncilDistrict.csv,Borda_OM,strat_bury_deep
+878,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember17thCouncilDistrict.csv,Borda_OM,strat_bury_deep
+879,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember24thCouncilDistrict.csv,Borda_OM,strat_bury_deep
+880,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember30thCouncilDistrict.csv,Borda_OM,strat_bury_deep
+881,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember8thCouncilDistrict.csv,Borda_OM,strat_bury_deep
+882,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember14thCouncilDistrict.csv,Borda_OM,strat_bury_deep
+883,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember24thCouncilDistrict.csv,Borda_OM,strat_bury_deep
+884,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember13thCouncilDistrict.csv,Borda_OM,strat_bury_deep
+885,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentNewYork.csv,Borda_OM,strat_bury_deep
+886,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember37thCouncilDistrict.csv,Borda_OM,strat_bury_deep
+887,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember46thCouncilDistrict.csv,Borda_OM,strat_bury_deep
+888,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember15thCouncilDistrict.csv,Borda_OM,strat_bury_deep
+889,"./data/america/Portland, ME/Portland_06142022_Schoolboarddistrict5-1.csv",Borda_OM,strat_bury_deep
+890,./data/america/St Louis Park/StLouisPark_11022021_CityCouncilWard2.csv,Borda_OM,strat_bury_deep
+891,./data/america/Bloomington/Bloomington_11072023_CityCouncilDistrict4.csv,Borda_OM,strat_bury_deep
+892,./data/america/Alameda County/SanLeandro_11062012_CountyCouncilDistrict6.csv,Borda_OM,strat_bury_deep
+893,./data/america/Alameda County/Berkeley_11062018_CityCouncilDistrict7.csv,Borda_OM,strat_bury_deep
+894,./data/america/Alameda County/Oakland_11062012_SchoolDirectorDistrict5.csv,Borda_OM,strat_bury_deep
+895,./data/america/Alameda County/Berkeley_11022010_CityCouncilDistrict4.csv,Borda_OM,strat_bury_deep
+896,./data/america/Alameda County/SanLeandro_11032020_MemberCityCouncilDist2SanLeandroRCV.csv,Borda_OM,strat_bury_deep
+897,./data/america/Alameda County/Oakland_11062018_CityCouncilDistrict2.csv,Borda_OM,strat_bury_deep
+898,./data/america/Alameda County/Berkeley_11042014_CityCouncilDistrict1.csv,Borda_OM,strat_bury_deep
+899,./data/america/Alameda County/Berkeley_11062018_CityCouncilDistrict8.csv,Borda_OM,strat_bury_deep
+900,./data/america/Alameda County/Oakland_11032020_MemberCityCouncilDist3OaklandRCV.csv,Borda_OM,strat_bury_deep
+901,./data/america/Alameda County/Oakland_11082016_CouncilAtLrg.csv,Borda_OM,strat_bury_deep
+902,./data/america/Alameda County/Oakland_11052024_School_Director_D7.csv,Borda_OM,strat_bury_deep
+903,./data/america/Alameda County/SanLeandro_11022010_CountyCouncilDistrict1.csv,Borda_OM,strat_bury_deep
+904,./data/america/Alameda County/Berkeley_11032020_MayorBerkeleyRCV.csv,Borda_OM,strat_bury_deep
+905,./data/america/Alameda County/Oakland_11082022_Schoolboarddistrict2.csv,Borda_OM,strat_bury_deep
+906,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict7.csv,Borda_OM,strat_bury_deep
+907,./data/america/Alameda County/Berkeley_11062012_CityCouncilDistrict3.csv,Borda_OM,strat_bury_deep
+908,./data/america/Alameda County/Oakland_11052024_School_Director_D3.csv,Borda_OM,strat_bury_deep
+909,./data/america/Alameda County/SanLeandro_11022010_CountyCouncilDistrict5.csv,Borda_OM,strat_bury_deep
+910,./data/america/Alameda County/Oakland_11022010_CityCouncilDistrict2.csv,Borda_OM,strat_bury_deep
+911,./data/america/Alameda County/Berkeley_11022010_CityCouncilDistrict1.csv,Borda_OM,strat_bury_deep
+912,./data/america/Alameda County/Oakland_11062012_SchoolDirectorDistrict7.csv,Borda_OM,strat_bury_deep
+913,./data/america/Alameda County/SanLeandro_11042014_CountyCouncilDistrict3.csv,Borda_OM,strat_bury_deep
+914,./data/america/Alameda County/Oakland_11052024_School_Director_D5.csv,Borda_OM,strat_bury_deep
+915,./data/america/Alameda County/Berkeley_11062012_CityCouncilDistrict5.csv,Borda_OM,strat_bury_deep
+916,./data/america/Alameda County/Berkeley_11062012_CityCouncilDistrict2.csv,Borda_OM,strat_bury_deep
+917,./data/america/Alameda County/Oakland_11062012_CityCouncilAtLarge.csv,Borda_OM,strat_bury_deep
+918,./data/america/Alameda County/Berkeley_11052024_CityCouncilD6.csv,Borda_OM,strat_bury_deep
+919,./data/america/Alameda County/SanLeandro_11062018_Mayor.csv,Borda_OM,strat_bury_deep
+920,./data/america/Alameda County/Oakland_11052024_CityAttorney.csv,Borda_OM,strat_bury_deep
+921,./data/america/Burlington/Burlington_03072023_CityCouncilEastDistrict.csv,Borda_OM,strat_bury_deep
+922,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard10.csv,Borda_OM,strat_bury_deep
+923,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard12.csv,Borda_OM,strat_bury_deep
+924,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict2.csv,Borda_OM,strat_bury_deep
+925,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard4.csv,Borda_OM,strat_bury_deep
+926,./data/america/Minneapolis/Minneapolis_11062009_Ward6CityCouncil.csv,Borda_OM,strat_bury_deep
+927,./data/america/Minneapolis/Minneapolis_11072017_Ward10CityCouncil.csv,Borda_OM,strat_bury_deep
+928,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict4.csv,Borda_OM,strat_bury_deep
+929,./data/america/Minneapolis/Minneapolis_11052013_PRBoardDistrict6.csv,Borda_OM,strat_bury_deep
+930,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict3.csv,Borda_OM,strat_bury_deep
+931,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard13.csv,Borda_OM,strat_bury_deep
+932,./data/america/Minneapolis/Minneapolis_11072017_Ward7CityCouncil.csv,Borda_OM,strat_bury_deep
+933,./data/america/Minneapolis/Minneapolis_11072017_BoardofEstimateandTaxation.csv,Borda_OM,strat_bury_deep
+934,./data/america/Minneapolis/Minneapolis_11022021_ParkBoardDistrict5.csv,Borda_OM,strat_bury_deep
+935,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard6.csv,Borda_OM,strat_bury_deep
+936,./data/america/Minneapolis/Minneapolis_11062009_PRBoardDistrict2.csv,Borda_OM,strat_bury_deep
+937,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard4.csv,Borda_OM,strat_bury_deep
+938,./data/america/Minneapolis/Minneapolis_11022021_ParkBoardDistrict3.csv,Borda_OM,strat_bury_deep
+939,./data/america/Minneapolis/Minneapolis_11022021_ParkBoardDistrict4.csv,Borda_OM,strat_bury_deep
+940,./data/america/Minneapolis/Minneapolis_11062009_Ward7CityCouncil.csv,Borda_OM,strat_bury_deep
+941,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard5.csv,Borda_OM,strat_bury_deep
+942,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard13.csv,Borda_OM,strat_bury_deep
+943,./data/america/Minneapolis/Minneapolis_11062009_Ward9CityCouncil.csv,Borda_OM,strat_bury_deep
+944,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard7.csv,Borda_OM,strat_bury_deep
+945,./data/america/San Francisco/SanFrancisco_11032015_BoardofSupervisorsDistrict3.csv,Borda_OM,strat_bury_deep
+946,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict9.csv,Borda_OM,strat_bury_deep
+947,./data/america/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict8.csv,Borda_OM,strat_bury_deep
+948,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT5.csv,Borda_OM,strat_bury_deep
+949,./data/america/San Francisco/SanFrancisco_06052018_BoardofSupervisorsDistrict8.csv,Borda_OM,strat_bury_deep
+950,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard6.csv",Borda_AVG,strat_compromise
+951,./data/america/Alaska/Alaska_11052024_StateHouseD28.csv,Borda_AVG,strat_compromise
+952,./data/america/APA/APA 2008.csv,Borda_AVG,strat_compromise
+953,./data/america/APA/APA 2020 BOD race2.csv,Borda_AVG,strat_compromise
+954,./data/america/APA/APA 2019 President.csv,Borda_AVG,strat_compromise
+955,./data/america/APA/APA 1999.csv,Borda_AVG,strat_compromise
+956,./data/america/APA/APA 2009.csv,Borda_AVG,strat_compromise
+957,./data/america/APA/APA 2007.csv,Borda_AVG,strat_compromise
+958,./data/america/APA/APA 2018 President.csv,Borda_AVG,strat_compromise
+959,./data/america/APA/APA 2021 President.csv,Borda_AVG,strat_compromise
+960,./data/america/APA/APA 2002.csv,Borda_AVG,strat_compromise
+961,./data/america/APA/APA 2005.csv,Borda_AVG,strat_compromise
+962,./data/america/New York City/NewYorkCity_06222021_REPBoroughPresidentRichmond.csv,Borda_AVG,strat_compromise
+963,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember25thCouncilDistrict.csv,Borda_AVG,strat_compromise
+964,./data/america/New York City/NewYorkCity_06222021_DEMComptrollerCitywide.csv,Borda_AVG,strat_compromise
+965,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv,Borda_AVG,strat_compromise
+966,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember18thCouncilDistrict.csv,Borda_AVG,strat_compromise
+967,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember9thCouncilDistrict.csv,Borda_AVG,strat_compromise
+968,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentKings.csv,Borda_AVG,strat_compromise
+969,"./data/america/Portland, ME/Portland_06142022_SchoolboardAL-1.csv",Borda_AVG,strat_compromise
+970,./data/america/Alameda County/Berkeley_05282024_Citycouncildistrict4specialelection.csv,Borda_AVG,strat_compromise
+971,./data/america/Alameda County/Oakland_11062018_CityCouncilDistrict4.csv,Borda_AVG,strat_compromise
+972,./data/america/Alameda County/Oakland_11082022_Schoolboarddistrict4.csv,Borda_AVG,strat_compromise
+973,./data/america/Alameda County/Berkeley_11042014_CityCouncilDistrict8.csv,Borda_AVG,strat_compromise
+974,./data/america/Alameda County/Berkeley_11062018_CityCouncilDistrict1.csv,Borda_AVG,strat_compromise
+975,./data/america/Alameda County/SanLeandro_11022010_Mayor.csv,Borda_AVG,strat_compromise
+976,./data/america/Alameda County/Oakland_11042014_SchoolDirectorDistrict4.csv,Borda_AVG,strat_compromise
+977,./data/america/Alameda County/Oakland_11082022_Mayor.csv,Borda_AVG,strat_compromise
+978,./data/america/Alameda County/Berkeley_11052024_Mayor.csv,Borda_AVG,strat_compromise
+979,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict5.csv,Borda_AVG,strat_compromise
+980,./data/america/Alameda County/Oakland_11032020_SchoolDirectorDist7OaklandRCV.csv,Borda_AVG,strat_compromise
+981,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict1.csv,Borda_AVG,strat_compromise
+982,./data/america/Alameda County/Oakland_11052024_CityCouncilD7.csv,Borda_AVG,strat_compromise
+983,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict3.csv,Borda_AVG,strat_compromise
+984,./data/america/Alameda County/Berkeley_11082016_CityCouncilDistrict2.csv,Borda_AVG,strat_compromise
+985,"./data/america/Corvallis, OR/Corvallis_11082022_Mayor.csv",Borda_AVG,strat_compromise
+986,"./data/america/Pierce County, WA/PierceCounty_11042008_CountyAssessorTreasurer.csv",Borda_AVG,strat_compromise
+987,"./data/america/Pierce County, WA/PierceCounty_11042008_CountyExecutiveMember.csv",Borda_AVG,strat_compromise
+988,"./data/america/Cambridge, MA/Cambridge_11152019_SchoolCommittee.csv",Borda_AVG,strat_compromise
+989,"./data/america/Cambridge, MA/Cambridge_11082011_SchoolCommittee.csv",Borda_AVG,strat_compromise
+990,"./data/america/Cambridge, MA/Cambridge_11062007_SchoolCommittee.csv",Borda_AVG,strat_compromise
+991,"./data/america/Cambridge, MA/Cambridge_11082005_SchoolCommittee.csv",Borda_AVG,strat_compromise
+992,./data/america/Minneapolis/Minneapolis_11072017_ParkBoardAtLarge.csv,Borda_AVG,strat_compromise
+993,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard2.csv,Borda_AVG,strat_compromise
+994,./data/america/Minneapolis/Minneapolis_11052013_Ward13CityCouncil.csv,Borda_AVG,strat_compromise
+995,./data/america/Utah cities/Moab_11022021_CityCouncil.csv,Borda_AVG,strat_compromise
+996,./data/america/Utah cities/WoodlandHills_11022021_Mayor.csv,Borda_AVG,strat_compromise
+997,./data/america/Utah cities/Lehi_11022021_CityCouncil.csv,Borda_AVG,strat_compromise
+998,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT1.csv,Borda_AVG,strat_compromise
+999,./data/america/San Francisco/SanFrancisco_11082011_Sheriff.csv,Borda_AVG,strat_compromise
+1000,./data/america/San Francisco/SanFrancisco_11052024_BoS_D1.csv,Borda_AVG,strat_compromise
+1001,./data/america/San Francisco/SanFrancisco_06052018_Mayor.csv,Borda_AVG,strat_compromise
+1002,./data/america/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict4.csv,Borda_AVG,strat_compromise
+1003,./data/america/San Francisco/SanFrancisco_11052024_BoS_D11.csv,Borda_AVG,strat_compromise
+1004,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT7.csv,Borda_AVG,strat_compromise
+1005,./data/america/San Francisco/SanFrancisco_11052019_DistrictAttorney.csv,Borda_AVG,strat_compromise
+1006,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict11.csv,Borda_AVG,strat_compromise
+1007,./data/america/San Francisco/SanFrancisco_11052024_BoS_D7.csv,Borda_AVG,strat_compromise
+1008,./data/america/San Francisco/SanFrancisco_11082011_DistrictAttorney.csv,Borda_AVG,strat_compromise
+1009,./data/america/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict47.csv,Borda_AVG,strat_compromise
+1010,./data/america/Minnetonka/Minnetonka_11072023_CityCouncilWard3.csv,Borda_AVG,strat_compromise
+1011,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard6.csv",Borda_AVG,strat_truncate_L
+1012,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard3.csv",Borda_AVG,strat_truncate_L
+1013,./data/america/Alaska/Alaska_11082022_HouseDistrict21.csv,Borda_AVG,strat_truncate_L
+1014,./data/america/Alaska/Alaska_11082022_SenateDistrictO.csv,Borda_AVG,strat_truncate_L
+1015,./data/america/Alaska/Alaska_11082022_HouseDistrict39.csv,Borda_AVG,strat_truncate_L
+1016,./data/america/Alaska/Alaska_11082022_HouseDistrict30.csv,Borda_AVG,strat_truncate_L
+1017,./data/america/Alaska/Alaska_11052024_StateSenateP.csv,Borda_AVG,strat_truncate_L
+1018,./data/america/Alaska/Alaska_11052024_StateHouseD18.csv,Borda_AVG,strat_truncate_L
+1019,./data/america/Alaska/Alaska_11052024_StateHouseD38.csv,Borda_AVG,strat_truncate_L
+1020,./data/america/Alaska/Alaska_11052024_StateHouseD27.csv,Borda_AVG,strat_truncate_L
+1021,./data/america/Alaska/Alaska_11082022_SenateDistrictD.csv,Borda_AVG,strat_truncate_L
+1022,./data/america/Alaska/Alaska_11052024_StateHouseD8.csv,Borda_AVG,strat_truncate_L
+1023,./data/america/Alaska/Alaska_11082022_HouseDistrict22.csv,Borda_AVG,strat_truncate_L
+1024,./data/america/Alaska/Alaska_08162022_HouseofRepresentativesSpecial.csv,Borda_AVG,strat_truncate_L
+1025,./data/america/Alaska/Alaska_11052024_StateHouseD28.csv,Borda_AVG,strat_truncate_L
+1026,./data/america/APA/APA 2008.csv,Borda_AVG,strat_truncate_L
+1027,./data/america/APA/APA 2020 BOD race2.csv,Borda_AVG,strat_truncate_L
+1028,./data/america/APA/APA 2007.csv,Borda_AVG,strat_truncate_L
+1029,./data/america/APA/APA 2005.csv,Borda_AVG,strat_truncate_L
+1030,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember39thCouncilDistrict.csv,Borda_AVG,strat_truncate_L
+1031,./data/america/New York City/NewYorkCity_06222021_REPBoroughPresidentRichmond.csv,Borda_AVG,strat_truncate_L
+1032,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv,Borda_AVG,strat_truncate_L
+1033,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember19thCouncilDistrict.csv,Borda_AVG,strat_truncate_L
+1034,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember35thCouncilDistrict.csv,Borda_AVG,strat_truncate_L
+1035,./data/america/New York City/NewYorkCity_06222021_DEMMayorCitywide.csv,Borda_AVG,strat_truncate_L
+1036,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember32ndCouncilDistrict.csv,Borda_AVG,strat_truncate_L
+1037,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv,Borda_AVG,strat_truncate_L
+1038,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember36thCouncilDistrict.csv,Borda_AVG,strat_truncate_L
+1039,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember42ndCouncilDistrict.csv,Borda_AVG,strat_truncate_L
+1040,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember18thCouncilDistrict.csv,Borda_AVG,strat_truncate_L
+1041,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentNewYork.csv,Borda_AVG,strat_truncate_L
+1042,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember20thCouncilDistrict.csv,Borda_AVG,strat_truncate_L
+1043,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentKings.csv,Borda_AVG,strat_truncate_L
+1044,"./data/america/Portland, ME/Portland_06142022_SchoolboardAL-1.csv",Borda_AVG,strat_truncate_L
+1045,./data/america/Alameda County/Berkeley_05282024_Citycouncildistrict4specialelection.csv,Borda_AVG,strat_truncate_L
+1046,./data/america/Alameda County/SanLeandro_11062012_CountyCouncilDistrict6.csv,Borda_AVG,strat_truncate_L
+1047,./data/america/Alameda County/Oakland_11022010_Mayor.csv,Borda_AVG,strat_truncate_L
+1048,./data/america/Alameda County/Oakland_11062018_CityCouncilDistrict4.csv,Borda_AVG,strat_truncate_L
+1049,./data/america/Alameda County/Oakland_11052024_CityCouncil_AtLarge.csv,Borda_AVG,strat_truncate_L
+1050,./data/america/Alameda County/SanLeandro_11032020_MemberCityCouncilDist2SanLeandroRCV.csv,Borda_AVG,strat_truncate_L
+1051,./data/america/Alameda County/Oakland_11032020_MemberCityCouncilAtLargeOaklandRCV.csv,Borda_AVG,strat_truncate_L
+1052,./data/america/Alameda County/SanLeandro_11022010_Mayor.csv,Borda_AVG,strat_truncate_L
+1053,./data/america/Alameda County/Oakland_11082022_Mayor.csv,Borda_AVG,strat_truncate_L
+1054,./data/america/Alameda County/Berkeley_11052024_Mayor.csv,Borda_AVG,strat_truncate_L
+1055,./data/america/Alameda County/SanLeandro_11022010_CountyCouncilDistrict5.csv,Borda_AVG,strat_truncate_L
+1056,./data/america/Alameda County/Oakland_11082022_Schoolboarddistrict6.csv,Borda_AVG,strat_truncate_L
+1057,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict5.csv,Borda_AVG,strat_truncate_L
+1058,./data/america/Alameda County/Oakland_11052024_School_Director_D5.csv,Borda_AVG,strat_truncate_L
+1059,./data/america/Alameda County/Oakland_11032020_SchoolDirectorDist7OaklandRCV.csv,Borda_AVG,strat_truncate_L
+1060,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict1.csv,Borda_AVG,strat_truncate_L
+1061,./data/america/Alameda County/SanLeandro_11042014_Mayor.csv,Borda_AVG,strat_truncate_L
+1062,./data/america/Alameda County/Oakland_11052024_CityCouncilD7.csv,Borda_AVG,strat_truncate_L
+1063,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict3.csv,Borda_AVG,strat_truncate_L
+1064,./data/america/Alameda County/SanLeandro_11062012_CountyCouncilDistrict2.csv,Borda_AVG,strat_truncate_L
+1065,"./data/america/Pierce County, WA/PierceCounty_11032009_CountyAuditor.csv",Borda_AVG,strat_truncate_L
+1066,./data/america/Burlington/Burlington_03072006_Mayor.csv,Borda_AVG,strat_truncate_L
+1067,./data/america/Burlington/Burlington_03052024_Mayor.csv,Borda_AVG,strat_truncate_L
+1068,"./data/america/Cambridge, MA/Cambridge_11072023_SchoolBoard.csv",Borda_AVG,strat_truncate_L
+1069,"./data/america/Cambridge, MA/Cambridge_11152019_SchoolCommittee.csv",Borda_AVG,strat_truncate_L
+1070,"./data/america/Cambridge, MA/Cambridge_11082011_SchoolCommittee.csv",Borda_AVG,strat_truncate_L
+1071,"./data/america/Cambridge, MA/Cambridge_11062007_SchoolCommittee.csv",Borda_AVG,strat_truncate_L
+1072,"./data/america/Cambridge, MA/Cambridge_11082005_SchoolCommittee.csv",Borda_AVG,strat_truncate_L
+1073,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard8.csv,Borda_AVG,strat_truncate_L
+1074,./data/america/Minneapolis/Minneapolis_11072017_ParkBoardAtLarge.csv,Borda_AVG,strat_truncate_L
+1075,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict4.csv,Borda_AVG,strat_truncate_L
+1076,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard2.csv,Borda_AVG,strat_truncate_L
+1077,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard7.csv,Borda_AVG,strat_truncate_L
+1078,./data/america/Minneapolis/Minneapolis_11072017_Ward6CityCouncil.csv,Borda_AVG,strat_truncate_L
+1079,./data/america/Minneapolis/Minneapolis_11052013_Ward13CityCouncil.csv,Borda_AVG,strat_truncate_L
+1080,./data/america/Minneapolis/Minneapolis_11072017_Ward1CityCouncil.csv,Borda_AVG,strat_truncate_L
+1081,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard1.csv,Borda_AVG,strat_truncate_L
+1082,./data/america/Minneapolis/Minneapolis_11062009_PRBoardDistrict5.csv,Borda_AVG,strat_truncate_L
+1083,./data/america/Minneapolis/Minneapolis_11072017_Ward11CityCouncil.csv,Borda_AVG,strat_truncate_L
+1084,./data/america/Minneapolis/Minneapolis_11072017_Ward4CityCouncil.csv,Borda_AVG,strat_truncate_L
+1085,./data/america/Minneapolis/Minneapolis_11052013_Ward9CityCouncil.csv,Borda_AVG,strat_truncate_L
+1086,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict1.csv,Borda_AVG,strat_truncate_L
+1087,./data/america/Utah cities/Moab_11022021_CityCouncil.csv,Borda_AVG,strat_truncate_L
+1088,./data/america/Utah cities/Vineyard_11052019_CityCouncil.csv,Borda_AVG,strat_truncate_L
+1089,./data/america/Utah cities/Lehi_11022021_CityCouncil.csv,Borda_AVG,strat_truncate_L
+1090,./data/america/San Francisco/SanFrancisco_11052024_BoS_D1.csv,Borda_AVG,strat_truncate_L
+1091,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict1.csv,Borda_AVG,strat_truncate_L
+1092,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict2.csv,Borda_AVG,strat_truncate_L
+1093,./data/america/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict4.csv,Borda_AVG,strat_truncate_L
+1094,./data/america/San Francisco/SanFrancisco_11052024_Mayor.csv,Borda_AVG,strat_truncate_L
+1095,./data/america/San Francisco/SanFrancisco_11052024_BoS_D11.csv,Borda_AVG,strat_truncate_L
+1096,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT11.csv,Borda_AVG,strat_truncate_L
+1097,./data/america/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict9.csv,Borda_AVG,strat_truncate_L
+1098,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict6.csv,Borda_AVG,strat_truncate_L
+1099,./data/america/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict2.csv,Borda_AVG,strat_truncate_L
+1100,./data/america/San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict7.csv,Borda_AVG,strat_truncate_L
+1101,./data/america/Maine/Maine_06122018_DemocraticPrimaryforGovernor.csv,Borda_AVG,strat_truncate_L
+1102,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard6.csv",Borda_AVG,strat_truncate_W
+1103,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard3.csv",Borda_AVG,strat_truncate_W
+1104,./data/america/Alaska/Alaska_11082022_HouseDistrict21.csv,Borda_AVG,strat_truncate_W
+1105,./data/america/Alaska/Alaska_11082022_SenateDistrictO.csv,Borda_AVG,strat_truncate_W
+1106,./data/america/Alaska/Alaska_11082022_SenateDistrictH.csv,Borda_AVG,strat_truncate_W
+1107,./data/america/Alaska/Alaska_11082022_HouseDistrict6.csv,Borda_AVG,strat_truncate_W
+1108,./data/america/Alaska/Alaska_11082022_HouseDistrict39.csv,Borda_AVG,strat_truncate_W
+1109,./data/america/Alaska/Alaska_11082022_HouseDistrict30.csv,Borda_AVG,strat_truncate_W
+1110,./data/america/Alaska/Alaska_11052024_StateSenateP.csv,Borda_AVG,strat_truncate_W
+1111,./data/america/Alaska/Alaska_11082022_HouseDistrict15.csv,Borda_AVG,strat_truncate_W
+1112,./data/america/Alaska/Alaska_11052024_StateHouseD18.csv,Borda_AVG,strat_truncate_W
+1113,./data/america/Alaska/Alaska_11052024_StateHouseD38.csv,Borda_AVG,strat_truncate_W
+1114,./data/america/Alaska/Alaska_11052024_StateHouseD27.csv,Borda_AVG,strat_truncate_W
+1115,./data/america/Alaska/Alaska_11082022_HouseDistrict11.csv,Borda_AVG,strat_truncate_W
+1116,./data/america/Alaska/Alaska_11082022_HouseDistrict18.csv,Borda_AVG,strat_truncate_W
+1117,./data/america/Alaska/Alaska_11052024_StateHouseD15.csv,Borda_AVG,strat_truncate_W
+1118,./data/america/Alaska/Alaska_11082022_SenateDistrictD.csv,Borda_AVG,strat_truncate_W
+1119,./data/america/Alaska/Alaska_11052024_StateHouseD8.csv,Borda_AVG,strat_truncate_W
+1120,./data/america/Alaska/Alaska_11082022_HouseDistrict22.csv,Borda_AVG,strat_truncate_W
+1121,./data/america/Alaska/Alaska_11052024_StateHouseD28.csv,Borda_AVG,strat_truncate_W
+1122,./data/america/Alaska/Alaska_11082022_SenateDistrictP.csv,Borda_AVG,strat_truncate_W
+1123,./data/america/Alaska/Alaska_11082022_USRepresentative.csv,Borda_AVG,strat_truncate_W
+1124,./data/america/APA/APA 2008.csv,Borda_AVG,strat_truncate_W
+1125,./data/america/APA/APA 2020 BOD race2.csv,Borda_AVG,strat_truncate_W
+1126,./data/america/APA/APA 2020 President.csv,Borda_AVG,strat_truncate_W
+1127,./data/america/APA/APA 2019 President.csv,Borda_AVG,strat_truncate_W
+1128,./data/america/APA/APA 2007.csv,Borda_AVG,strat_truncate_W
+1129,./data/america/APA/APA 2021 President.csv,Borda_AVG,strat_truncate_W
+1130,./data/america/APA/APA 2005.csv,Borda_AVG,strat_truncate_W
+1131,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember39thCouncilDistrict.csv,Borda_AVG,strat_truncate_W
+1132,./data/america/New York City/NewYorkCity_06222021_REPBoroughPresidentRichmond.csv,Borda_AVG,strat_truncate_W
+1133,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember25thCouncilDistrict.csv,Borda_AVG,strat_truncate_W
+1134,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember19thCouncilDistrict.csv,Borda_AVG,strat_truncate_W
+1135,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember35thCouncilDistrict.csv,Borda_AVG,strat_truncate_W
+1136,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember32ndCouncilDistrict.csv,Borda_AVG,strat_truncate_W
+1137,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember19thCouncilDistrict.csv,Borda_AVG,strat_truncate_W
+1138,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv,Borda_AVG,strat_truncate_W
+1139,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember5thCouncilDistrict.csv,Borda_AVG,strat_truncate_W
+1140,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember23rdCouncilDistrict.csv,Borda_AVG,strat_truncate_W
+1141,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember36thCouncilDistrict.csv,Borda_AVG,strat_truncate_W
+1142,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember42ndCouncilDistrict.csv,Borda_AVG,strat_truncate_W
+1143,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember18thCouncilDistrict.csv,Borda_AVG,strat_truncate_W
+1144,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentNewYork.csv,Borda_AVG,strat_truncate_W
+1145,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember20thCouncilDistrict.csv,Borda_AVG,strat_truncate_W
+1146,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentKings.csv,Borda_AVG,strat_truncate_W
+1147,"./data/america/Portland, ME/Portland_06142022_SchoolboardAL-1.csv",Borda_AVG,strat_truncate_W
+1148,./data/america/St Louis Park/StLouisPark_11022021_CityCouncilWard3.csv,Borda_AVG,strat_truncate_W
+1149,./data/america/Alameda County/SanLeandro_11062012_CountyCouncilDistrict6.csv,Borda_AVG,strat_truncate_W
+1150,./data/america/Alameda County/Oakland_11062018_CityCouncilDistrict4.csv,Borda_AVG,strat_truncate_W
+1151,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict5.csv,Borda_AVG,strat_truncate_W
+1152,./data/america/Alameda County/SanLeandro_11032020_MemberCityCouncilDist2SanLeandroRCV.csv,Borda_AVG,strat_truncate_W
+1153,./data/america/Alameda County/Oakland_11032020_MemberCityCouncilAtLargeOaklandRCV.csv,Borda_AVG,strat_truncate_W
+1154,./data/america/Alameda County/Berkeley_11062018_CityCouncilDistrict1.csv,Borda_AVG,strat_truncate_W
+1155,./data/america/Alameda County/Oakland_11042014_CityCouncilDistrict2.csv,Borda_AVG,strat_truncate_W
+1156,./data/america/Alameda County/Oakland_11042014_SchoolDirectorDistrict4.csv,Borda_AVG,strat_truncate_W
+1157,./data/america/Alameda County/Oakland_11082022_Mayor.csv,Borda_AVG,strat_truncate_W
+1158,./data/america/Alameda County/Berkeley_11052024_Mayor.csv,Borda_AVG,strat_truncate_W
+1159,./data/america/Alameda County/SanLeandro_11022010_CountyCouncilDistrict5.csv,Borda_AVG,strat_truncate_W
+1160,./data/america/Alameda County/Oakland_11082022_Schoolboarddistrict6.csv,Borda_AVG,strat_truncate_W
+1161,./data/america/Alameda County/Oakland_11032020_SchoolDirectorDist5OaklandRCV.csv,Borda_AVG,strat_truncate_W
+1162,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict5.csv,Borda_AVG,strat_truncate_W
+1163,./data/america/Alameda County/Oakland_11042014_CityCouncilDistrict6.csv,Borda_AVG,strat_truncate_W
+1164,./data/america/Alameda County/Oakland_11032020_MemberCityCouncilDist5OaklandRCV.csv,Borda_AVG,strat_truncate_W
+1165,./data/america/Alameda County/Oakland_11052024_School_Director_D5.csv,Borda_AVG,strat_truncate_W
+1166,./data/america/Alameda County/Oakland_11032020_SchoolDirectorDist7OaklandRCV.csv,Borda_AVG,strat_truncate_W
+1167,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict1.csv,Borda_AVG,strat_truncate_W
+1168,./data/america/Alameda County/SanLeandro_11042014_Mayor.csv,Borda_AVG,strat_truncate_W
+1169,./data/america/Alameda County/Oakland_11052024_CityCouncilD7.csv,Borda_AVG,strat_truncate_W
+1170,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict3.csv,Borda_AVG,strat_truncate_W
+1171,./data/america/Alameda County/SanLeandro_11062012_CountyCouncilDistrict2.csv,Borda_AVG,strat_truncate_W
+1172,"./data/america/Corvallis, OR/Corvallis_11082022_CityCouncilWard9.csv",Borda_AVG,strat_truncate_W
+1173,"./data/america/Pierce County, WA/PierceCounty_11032009_CountyAuditor.csv",Borda_AVG,strat_truncate_W
+1174,./data/america/Burlington/Burlington_03072006_Mayor.csv,Borda_AVG,strat_truncate_W
+1175,./data/america/Burlington/Burlington_03052024_Mayor.csv,Borda_AVG,strat_truncate_W
+1176,"./data/america/Cambridge, MA/Cambridge_11072023_SchoolBoard.csv",Borda_AVG,strat_truncate_W
+1177,"./data/america/Cambridge, MA/Cambridge_11042003_SchoolCommittee.csv",Borda_AVG,strat_truncate_W
+1178,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard8.csv,Borda_AVG,strat_truncate_W
+1179,./data/america/Minneapolis/Minneapolis_11072017_ParkBoardAtLarge.csv,Borda_AVG,strat_truncate_W
+1180,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict4.csv,Borda_AVG,strat_truncate_W
+1181,./data/america/Minneapolis/Minneapolis_11062009_PRBoardDistrict6.csv,Borda_AVG,strat_truncate_W
+1182,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard7.csv,Borda_AVG,strat_truncate_W
+1183,./data/america/Minneapolis/Minneapolis_11022021_ParkBoardDistrict6.csv,Borda_AVG,strat_truncate_W
+1184,./data/america/Minneapolis/Minneapolis_11072017_Ward6CityCouncil.csv,Borda_AVG,strat_truncate_W
+1185,./data/america/Minneapolis/Minneapolis_11052013_Ward13CityCouncil.csv,Borda_AVG,strat_truncate_W
+1186,./data/america/Minneapolis/Minneapolis_11072017_Ward1CityCouncil.csv,Borda_AVG,strat_truncate_W
+1187,./data/america/Minneapolis/Minneapolis_11062009_Ward5CityCouncil.csv,Borda_AVG,strat_truncate_W
+1188,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard1.csv,Borda_AVG,strat_truncate_W
+1189,./data/america/Minneapolis/Minneapolis_11062009_PRBoardDistrict5.csv,Borda_AVG,strat_truncate_W
+1190,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard10.csv,Borda_AVG,strat_truncate_W
+1191,./data/america/Minneapolis/Minneapolis_11072017_Ward4CityCouncil.csv,Borda_AVG,strat_truncate_W
+1192,./data/america/Minneapolis/Minneapolis_11052013_Ward9CityCouncil.csv,Borda_AVG,strat_truncate_W
+1193,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict1.csv,Borda_AVG,strat_truncate_W
+1194,./data/america/New Mexico/LasCruces_11052019_MAYORCITYOFLASCRUCES.csv,Borda_AVG,strat_truncate_W
+1195,./data/america/Utah cities/Vineyard_11052019_CityCouncil.csv,Borda_AVG,strat_truncate_W
+1196,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT1.csv,Borda_AVG,strat_truncate_W
+1197,./data/america/San Francisco/SanFrancisco_11052004_BoardofSupervisorsDistrict1.csv,Borda_AVG,strat_truncate_W
+1198,./data/america/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict11.csv,Borda_AVG,strat_truncate_W
+1199,./data/america/San Francisco/SanFrancisco_11052024_BoS_D1.csv,Borda_AVG,strat_truncate_W
+1200,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict1.csv,Borda_AVG,strat_truncate_W
+1201,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict2.csv,Borda_AVG,strat_truncate_W
+1202,./data/america/San Francisco/SanFrancisco_11082022_BoardofSupervisorsD6.csv,Borda_AVG,strat_truncate_W
+1203,./data/america/San Francisco/SanFrancisco_11052024_Mayor.csv,Borda_AVG,strat_truncate_W
+1204,./data/america/San Francisco/SanFrancisco_11052024_BoS_D7.csv,Borda_AVG,strat_truncate_W
+1205,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT11.csv,Borda_AVG,strat_truncate_W
+1206,./data/america/San Francisco/SanFrancisco_11052024_BoS_D3.csv,Borda_AVG,strat_truncate_W
+1207,./data/america/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict9.csv,Borda_AVG,strat_truncate_W
+1208,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict6.csv,Borda_AVG,strat_truncate_W
+1209,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT3.csv,Borda_AVG,strat_truncate_W
+1210,./data/america/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict2.csv,Borda_AVG,strat_truncate_W
+1211,./data/america/San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict7.csv,Borda_AVG,strat_truncate_W
+1212,./data/america/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict6.csv,Borda_AVG,strat_truncate_W
+1213,./data/america/San Francisco/SanFrancisco_11082022_DistrictAttorney.csv,Borda_AVG,strat_truncate_W
+1214,./data/america/Maine/Maine_06122018_DemocraticPrimaryforGovernor.csv,Borda_AVG,strat_truncate_W
+1215,./data/america/Maine/Maine_06122018_DemocraticPrimaryforCD2.csv,Borda_AVG,strat_truncate_W
+1216,./data/america/Minnetonka/Minnetonka_11072023_CityCouncilWard4.csv,Borda_AVG,strat_truncate_W
+1217,./data/america/Alaska/Alaska_11082022_HouseDistrict21.csv,Borda_AVG,strat_bury_shallow
+1218,./data/america/Alaska/Alaska_11082022_SenateDistrictO.csv,Borda_AVG,strat_bury_shallow
+1219,./data/america/Alaska/Alaska_11082022_SenateDistrictH.csv,Borda_AVG,strat_bury_shallow
+1220,./data/america/Alaska/Alaska_11082022_HouseDistrict6.csv,Borda_AVG,strat_bury_shallow
+1221,./data/america/Alaska/Alaska_11082022_HouseDistrict39.csv,Borda_AVG,strat_bury_shallow
+1222,./data/america/Alaska/Alaska_11082022_HouseDistrict30.csv,Borda_AVG,strat_bury_shallow
+1223,./data/america/Alaska/Alaska_11052024_StateSenateP.csv,Borda_AVG,strat_bury_shallow
+1224,./data/america/Alaska/Alaska_11082022_HouseDistrict15.csv,Borda_AVG,strat_bury_shallow
+1225,./data/america/Alaska/Alaska_11052024_StateHouseD18.csv,Borda_AVG,strat_bury_shallow
+1226,./data/america/Alaska/Alaska_11052024_StateHouseD27.csv,Borda_AVG,strat_bury_shallow
+1227,./data/america/Alaska/Alaska_11082022_HouseDistrict11.csv,Borda_AVG,strat_bury_shallow
+1228,./data/america/Alaska/Alaska_11082022_HouseDistrict18.csv,Borda_AVG,strat_bury_shallow
+1229,./data/america/Alaska/Alaska_11052024_StateHouseD15.csv,Borda_AVG,strat_bury_shallow
+1230,./data/america/Alaska/Alaska_11082022_SenateDistrictD.csv,Borda_AVG,strat_bury_shallow
+1231,./data/america/Alaska/Alaska_11052024_StateHouseD8.csv,Borda_AVG,strat_bury_shallow
+1232,./data/america/Alaska/Alaska_11082022_HouseDistrict22.csv,Borda_AVG,strat_bury_shallow
+1233,./data/america/Alaska/Alaska_11052024_StateHouseD28.csv,Borda_AVG,strat_bury_shallow
+1234,./data/america/Alaska/Alaska_11082022_SenateDistrictP.csv,Borda_AVG,strat_bury_shallow
+1235,./data/america/Alaska/Alaska_11082022_USRepresentative.csv,Borda_AVG,strat_bury_shallow
+1236,./data/america/APA/APA 2020 President.csv,Borda_AVG,strat_bury_shallow
+1237,./data/america/APA/APA 2004.csv,Borda_AVG,strat_bury_shallow
+1238,./data/america/New York City/NewYorkCity_06222021_REPBoroughPresidentRichmond.csv,Borda_AVG,strat_bury_shallow
+1239,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember10thCouncilDistrict.csv,Borda_AVG,strat_bury_shallow
+1240,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember19thCouncilDistrict.csv,Borda_AVG,strat_bury_shallow
+1241,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember49thCouncilDistrict.csv,Borda_AVG,strat_bury_shallow
+1242,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember15thCouncilDistrict.csv,Borda_AVG,strat_bury_shallow
+1243,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember35thCouncilDistrict.csv,Borda_AVG,strat_bury_shallow
+1244,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember32ndCouncilDistrict.csv,Borda_AVG,strat_bury_shallow
+1245,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember19thCouncilDistrict.csv,Borda_AVG,strat_bury_shallow
+1246,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv,Borda_AVG,strat_bury_shallow
+1247,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember5thCouncilDistrict.csv,Borda_AVG,strat_bury_shallow
+1248,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember47thCouncilDistrict.csv,Borda_AVG,strat_bury_shallow
+1249,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember23rdCouncilDistrict.csv,Borda_AVG,strat_bury_shallow
+1250,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember22ndCouncilDistrict.csv,Borda_AVG,strat_bury_shallow
+1251,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember42ndCouncilDistrict.csv,Borda_AVG,strat_bury_shallow
+1252,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember18thCouncilDistrict.csv,Borda_AVG,strat_bury_shallow
+1253,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentNewYork.csv,Borda_AVG,strat_bury_shallow
+1254,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentKings.csv,Borda_AVG,strat_bury_shallow
+1255,"./data/america/Portland, ME/Portland_06142022_SchoolboardAL-1.csv",Borda_AVG,strat_bury_shallow
+1256,./data/america/St Louis Park/StLouisPark_11022021_CityCouncilWard3.csv,Borda_AVG,strat_bury_shallow
+1257,./data/america/Alameda County/Oakland_11052024_CityCouncilD3.csv,Borda_AVG,strat_bury_shallow
+1258,./data/america/Alameda County/SanLeandro_11062012_CountyCouncilDistrict6.csv,Borda_AVG,strat_bury_shallow
+1259,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict5.csv,Borda_AVG,strat_bury_shallow
+1260,./data/america/Alameda County/SanLeandro_11032020_MemberCityCouncilDist2SanLeandroRCV.csv,Borda_AVG,strat_bury_shallow
+1261,./data/america/Alameda County/Oakland_11032020_MemberCityCouncilAtLargeOaklandRCV.csv,Borda_AVG,strat_bury_shallow
+1262,./data/america/Alameda County/Berkeley_11062018_CityCouncilDistrict1.csv,Borda_AVG,strat_bury_shallow
+1263,./data/america/Alameda County/Oakland_11042014_CityCouncilDistrict2.csv,Borda_AVG,strat_bury_shallow
+1264,./data/america/Alameda County/Oakland_11082022_Mayor.csv,Borda_AVG,strat_bury_shallow
+1265,./data/america/Alameda County/SanLeandro_11022010_CountyCouncilDistrict5.csv,Borda_AVG,strat_bury_shallow
+1266,./data/america/Alameda County/Oakland_11082022_Schoolboarddistrict6.csv,Borda_AVG,strat_bury_shallow
+1267,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict5.csv,Borda_AVG,strat_bury_shallow
+1268,./data/america/Alameda County/Oakland_11042014_CityCouncilDistrict6.csv,Borda_AVG,strat_bury_shallow
+1269,./data/america/Alameda County/Oakland_11052024_School_Director_D5.csv,Borda_AVG,strat_bury_shallow
+1270,./data/america/Alameda County/SanLeandro_11042014_Mayor.csv,Borda_AVG,strat_bury_shallow
+1271,"./data/america/Pierce County, WA/PierceCounty_11032009_CountyAuditor.csv",Borda_AVG,strat_bury_shallow
+1272,./data/america/Burlington/Burlington_03052024_Mayor.csv,Borda_AVG,strat_bury_shallow
+1273,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard8.csv,Borda_AVG,strat_bury_shallow
+1274,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict4.csv,Borda_AVG,strat_bury_shallow
+1275,./data/america/Minneapolis/Minneapolis_11062009_PRBoardDistrict6.csv,Borda_AVG,strat_bury_shallow
+1276,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard7.csv,Borda_AVG,strat_bury_shallow
+1277,./data/america/Minneapolis/Minneapolis_11072017_Ward6CityCouncil.csv,Borda_AVG,strat_bury_shallow
+1278,./data/america/Minneapolis/Minneapolis_11052013_Ward5CityCouncil.csv,Borda_AVG,strat_bury_shallow
+1279,./data/america/Minneapolis/Minneapolis_11072017_Ward1CityCouncil.csv,Borda_AVG,strat_bury_shallow
+1280,./data/america/Minneapolis/Minneapolis_11062009_Ward5CityCouncil.csv,Borda_AVG,strat_bury_shallow
+1281,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard1.csv,Borda_AVG,strat_bury_shallow
+1282,./data/america/Minneapolis/Minneapolis_11062009_PRBoardDistrict5.csv,Borda_AVG,strat_bury_shallow
+1283,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard12.csv,Borda_AVG,strat_bury_shallow
+1284,./data/america/Minneapolis/Minneapolis_11072017_Ward4CityCouncil.csv,Borda_AVG,strat_bury_shallow
+1285,./data/america/Minneapolis/Minneapolis_11052013_Ward9CityCouncil.csv,Borda_AVG,strat_bury_shallow
+1286,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict1.csv,Borda_AVG,strat_bury_shallow
+1287,./data/america/New Mexico/LasCruces_11052019_COUNCILORPOSITION2CITYOFLASCRUCESDISTRICT2COUNCILOR.csv,Borda_AVG,strat_bury_shallow
+1288,./data/america/New Mexico/LasCruces_11052019_MAYORCITYOFLASCRUCES.csv,Borda_AVG,strat_bury_shallow
+1289,./data/america/San Francisco/SanFrancisco_11052004_BoardofSupervisorsDistrict1.csv,Borda_AVG,strat_bury_shallow
+1290,./data/america/San Francisco/SanFrancisco_11052024_BoS_D1.csv,Borda_AVG,strat_bury_shallow
+1291,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict1.csv,Borda_AVG,strat_bury_shallow
+1292,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict2.csv,Borda_AVG,strat_bury_shallow
+1293,./data/america/San Francisco/SanFrancisco_11082022_BoardofSupervisorsD6.csv,Borda_AVG,strat_bury_shallow
+1294,./data/america/San Francisco/SanFrancisco_11052024_BoS_D7.csv,Borda_AVG,strat_bury_shallow
+1295,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT11.csv,Borda_AVG,strat_bury_shallow
+1296,./data/america/San Francisco/SanFrancisco_11052024_BoS_D3.csv,Borda_AVG,strat_bury_shallow
+1297,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict6.csv,Borda_AVG,strat_bury_shallow
+1298,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT3.csv,Borda_AVG,strat_bury_shallow
+1299,./data/america/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict2.csv,Borda_AVG,strat_bury_shallow
+1300,./data/america/San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict7.csv,Borda_AVG,strat_bury_shallow
+1301,./data/america/San Francisco/SanFrancisco_11052024_BoS_D5.csv,Borda_AVG,strat_bury_shallow
+1302,./data/america/San Francisco/SanFrancisco_11082011_DistrictAttorney.csv,Borda_AVG,strat_bury_shallow
+1303,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT5.csv,Borda_AVG,strat_bury_shallow
+1304,./data/america/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict7.csv,Borda_AVG,strat_bury_shallow
+1305,./data/america/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict6.csv,Borda_AVG,strat_bury_shallow
+1306,./data/america/San Francisco/SanFrancisco_11082022_DistrictAttorney.csv,Borda_AVG,strat_bury_shallow
+1307,./data/america/Maine/Maine_06122018_DemocraticPrimaryforCD2.csv,Borda_AVG,strat_bury_shallow
+1308,./data/america/Minnetonka/Minnetonka_11072023_CityCouncilWard4.csv,Borda_AVG,strat_bury_shallow
+1309,./data/america/Alaska/Alaska_11082022_SenateDistrictF.csv,Borda_AVG,strat_bury_deep
+1310,./data/america/Alaska/Alaska_11082022_HouseDistrict21.csv,Borda_AVG,strat_bury_deep
+1311,./data/america/Alaska/Alaska_11082022_HouseDistrict1.csv,Borda_AVG,strat_bury_deep
+1312,./data/america/Alaska/Alaska_11082022_SenateDistrictO.csv,Borda_AVG,strat_bury_deep
+1313,./data/america/Alaska/Alaska_11082022_SenateDistrictH.csv,Borda_AVG,strat_bury_deep
+1314,./data/america/Alaska/Alaska_11052024_StateHouseD22.csv,Borda_AVG,strat_bury_deep
+1315,./data/america/Alaska/Alaska_11082022_HouseDistrict13.csv,Borda_AVG,strat_bury_deep
+1316,./data/america/Alaska/Alaska_11052024_StateHouseD34.csv,Borda_AVG,strat_bury_deep
+1317,./data/america/Alaska/Alaska_11082022_HouseDistrict39.csv,Borda_AVG,strat_bury_deep
+1318,./data/america/Alaska/Alaska_11052024_StateSenateP.csv,Borda_AVG,strat_bury_deep
+1319,./data/america/Alaska/Alaska_11082022_HouseDistrict12.csv,Borda_AVG,strat_bury_deep
+1320,./data/america/Alaska/Alaska_11052024_StateHouseD18.csv,Borda_AVG,strat_bury_deep
+1321,./data/america/Alaska/Alaska_11082022_HouseDistrict7.csv,Borda_AVG,strat_bury_deep
+1322,./data/america/Alaska/Alaska_11052024_StateHouseD11.csv,Borda_AVG,strat_bury_deep
+1323,./data/america/Alaska/Alaska_11052024_StateHouseD16.csv,Borda_AVG,strat_bury_deep
+1324,./data/america/Alaska/Alaska_11082022_SenateDistrictG.csv,Borda_AVG,strat_bury_deep
+1325,./data/america/Alaska/Alaska_11082022_HouseDistrict9.csv,Borda_AVG,strat_bury_deep
+1326,./data/america/Alaska/Alaska_11052024_StateHouseD35.csv,Borda_AVG,strat_bury_deep
+1327,./data/america/Alaska/Alaska_11052024_StateHouseD9.csv,Borda_AVG,strat_bury_deep
+1328,./data/america/Alaska/Alaska_11052024_StateHouseD31.csv,Borda_AVG,strat_bury_deep
+1329,./data/america/Alaska/Alaska_11082022_HouseDistrict16.csv,Borda_AVG,strat_bury_deep
+1330,./data/america/Alaska/Alaska_11052024_StateHouseD27.csv,Borda_AVG,strat_bury_deep
+1331,./data/america/Alaska/Alaska_11082022_HouseDistrict24.csv,Borda_AVG,strat_bury_deep
+1332,./data/america/Alaska/Alaska_11052024_StateSenateH.csv,Borda_AVG,strat_bury_deep
+1333,./data/america/Alaska/Alaska_11082022_SenateDistrictC.csv,Borda_AVG,strat_bury_deep
+1334,./data/america/Alaska/Alaska_11052024_StateHouseD30.csv,Borda_AVG,strat_bury_deep
+1335,./data/america/Alaska/Alaska_11052024_StateHouseD8.csv,Borda_AVG,strat_bury_deep
+1336,./data/america/Alaska/Alaska_11052024_StateHouseD39.csv,Borda_AVG,strat_bury_deep
+1337,./data/america/Alaska/Alaska_11082022_HouseDistrict34.csv,Borda_AVG,strat_bury_deep
+1338,./data/america/Alaska/Alaska_11082022_HouseDistrict22.csv,Borda_AVG,strat_bury_deep
+1339,./data/america/Alaska/Alaska_11052024_StateHouseD13.csv,Borda_AVG,strat_bury_deep
+1340,./data/america/Alaska/Alaska_11082022_SenateDistrictK.csv,Borda_AVG,strat_bury_deep
+1341,./data/america/Alaska/Alaska_11082022_HouseDistrict2.csv,Borda_AVG,strat_bury_deep
+1342,./data/america/Alaska/Alaska_11082022_SenateDistrictL.csv,Borda_AVG,strat_bury_deep
+1343,./data/america/Alaska/Alaska_11082022_SenateDistrictP.csv,Borda_AVG,strat_bury_deep
+1344,./data/america/Alaska/Alaska_11052024_StateHouseD21.csv,Borda_AVG,strat_bury_deep
+1345,./data/america/Alaska/Alaska_11082022_HouseDistrict17.csv,Borda_AVG,strat_bury_deep
+1346,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentRichmond.csv,Borda_AVG,strat_bury_deep
+1347,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember41stCouncilDistrict.csv,Borda_AVG,strat_bury_deep
+1348,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember19thCouncilDistrict.csv,Borda_AVG,strat_bury_deep
+1349,./data/america/New York City/NewYorkCity_06222021_REPBoroughPresidentQueens.csv,Borda_AVG,strat_bury_deep
+1350,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember17thCouncilDistrict.csv,Borda_AVG,strat_bury_deep
+1351,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember30thCouncilDistrict.csv,Borda_AVG,strat_bury_deep
+1352,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember37thCouncilDistrict.csv,Borda_AVG,strat_bury_deep
+1353,./data/america/Alameda County/SanLeandro_11062012_CountyCouncilDistrict6.csv,Borda_AVG,strat_bury_deep
+1354,./data/america/Alameda County/Oakland_11062012_SchoolDirectorDistrict5.csv,Borda_AVG,strat_bury_deep
+1355,./data/america/Alameda County/Berkeley_11022010_CityCouncilDistrict4.csv,Borda_AVG,strat_bury_deep
+1356,./data/america/Alameda County/SanLeandro_11032020_MemberCityCouncilDist2SanLeandroRCV.csv,Borda_AVG,strat_bury_deep
+1357,./data/america/Alameda County/Berkeley_11042014_CityCouncilDistrict1.csv,Borda_AVG,strat_bury_deep
+1358,./data/america/Alameda County/Berkeley_11062018_CityCouncilDistrict8.csv,Borda_AVG,strat_bury_deep
+1359,./data/america/Alameda County/Oakland_11032020_MemberCityCouncilDist3OaklandRCV.csv,Borda_AVG,strat_bury_deep
+1360,./data/america/Alameda County/SanLeandro_11022010_CountyCouncilDistrict1.csv,Borda_AVG,strat_bury_deep
+1361,./data/america/Alameda County/Oakland_11082022_Schoolboarddistrict2.csv,Borda_AVG,strat_bury_deep
+1362,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict7.csv,Borda_AVG,strat_bury_deep
+1363,./data/america/Alameda County/Oakland_11052024_School_Director_D3.csv,Borda_AVG,strat_bury_deep
+1364,./data/america/Alameda County/SanLeandro_11022010_CountyCouncilDistrict5.csv,Borda_AVG,strat_bury_deep
+1365,./data/america/Alameda County/Oakland_11062012_SchoolDirectorDistrict7.csv,Borda_AVG,strat_bury_deep
+1366,./data/america/Alameda County/Oakland_11052024_School_Director_D5.csv,Borda_AVG,strat_bury_deep
+1367,./data/america/Alameda County/Berkeley_11062012_CityCouncilDistrict5.csv,Borda_AVG,strat_bury_deep
+1368,./data/america/Alameda County/Berkeley_11062012_CityCouncilDistrict2.csv,Borda_AVG,strat_bury_deep
+1369,./data/america/Alameda County/Berkeley_11052024_CityCouncilD6.csv,Borda_AVG,strat_bury_deep
+1370,./data/america/Alameda County/Oakland_11052024_CityAttorney.csv,Borda_AVG,strat_bury_deep
+1371,./data/america/Burlington/Burlington_03072023_CityCouncilEastDistrict.csv,Borda_AVG,strat_bury_deep
+1372,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict2.csv,Borda_AVG,strat_bury_deep
+1373,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict4.csv,Borda_AVG,strat_bury_deep
+1374,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict3.csv,Borda_AVG,strat_bury_deep
+1375,./data/america/Minneapolis/Minneapolis_11072017_Ward7CityCouncil.csv,Borda_AVG,strat_bury_deep
+1376,./data/america/Minneapolis/Minneapolis_11062009_PRBoardDistrict2.csv,Borda_AVG,strat_bury_deep
+1377,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard5.csv,Borda_AVG,strat_bury_deep
+1378,./data/america/San Francisco/SanFrancisco_11032015_BoardofSupervisorsDistrict3.csv,Borda_AVG,strat_bury_deep
+1379,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT3.csv,Borda_AVG,strat_bury_deep
+1380,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT5.csv,Borda_AVG,strat_bury_deep
+1381,./data/america/APA/APA 2008.csv,bucklin,strat_compromise
+1382,./data/america/APA/APA 2009.csv,bucklin,strat_compromise
+1383,./data/america/APA/APA 2002.csv,bucklin,strat_compromise
+1384,./data/america/APA/APA 2005.csv,bucklin,strat_compromise
+1385,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember36thCouncilDistrict.csv,bucklin,strat_compromise
+1386,"./data/america/Portland, ME/Portland_06142022_SchoolboardAL-1.csv",bucklin,strat_compromise
+1387,./data/america/Alameda County/Berkeley_05282024_Citycouncildistrict4specialelection.csv,bucklin,strat_compromise
+1388,./data/america/Alameda County/Oakland_11062018_CityCouncilDistrict4.csv,bucklin,strat_compromise
+1389,./data/america/Alameda County/Berkeley_11042014_CityCouncilDistrict8.csv,bucklin,strat_compromise
+1390,./data/america/Alameda County/Oakland_11082022_Mayor.csv,bucklin,strat_compromise
+1391,./data/america/Alameda County/Berkeley_11052024_Mayor.csv,bucklin,strat_compromise
+1392,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict3.csv,bucklin,strat_compromise
+1393,"./data/america/Pierce County, WA/PierceCounty_11042008_CountyExecutiveMember.csv",bucklin,strat_compromise
+1394,./data/america/Utah cities/Lehi_11022021_CityCouncil.csv,bucklin,strat_compromise
+1395,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT1.csv,bucklin,strat_compromise
+1396,./data/america/San Francisco/SanFrancisco_11052024_BoS_D11.csv,bucklin,strat_compromise
+1397,./data/america/San Francisco/SanFrancisco_11052019_DistrictAttorney.csv,bucklin,strat_compromise
+1398,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict11.csv,bucklin,strat_compromise
+1399,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard6.csv",bucklin,strat_truncate_L
+1400,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard3.csv",bucklin,strat_truncate_L
+1401,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard5.csv",bucklin,strat_truncate_L
+1402,./data/america/Alaska/Alaska_11052024_StateSenateD.csv,bucklin,strat_truncate_L
+1403,./data/america/Alaska/Alaska_11082022_HouseDistrict30.csv,bucklin,strat_truncate_L
+1404,./data/america/Alaska/Alaska_11052024_US_House.csv,bucklin,strat_truncate_L
+1405,./data/america/Alaska/Alaska_11052024_StateSenateL.csv,bucklin,strat_truncate_L
+1406,./data/america/Alaska/Alaska_11082022_HouseDistrict31.csv,bucklin,strat_truncate_L
+1407,./data/america/Alaska/Alaska_11052024_StateHouseD38.csv,bucklin,strat_truncate_L
+1408,./data/america/Alaska/Alaska_11052024_StateHouseD36.csv,bucklin,strat_truncate_L
+1409,./data/america/Alaska/Alaska_11082022_HouseDistrict11.csv,bucklin,strat_truncate_L
+1410,./data/america/Alaska/Alaska_11082022_HouseDistrict18.csv,bucklin,strat_truncate_L
+1411,./data/america/Alaska/Alaska_11082022_SenateDistrictD.csv,bucklin,strat_truncate_L
+1412,./data/america/Alaska/Alaska_11052024_StateHouseD6.csv,bucklin,strat_truncate_L
+1413,./data/america/Alaska/Alaska_11082022_SenateDistrictE.csv,bucklin,strat_truncate_L
+1414,./data/america/Alaska/Alaska_08162022_HouseofRepresentativesSpecial.csv,bucklin,strat_truncate_L
+1415,./data/america/Alaska/Alaska_11052024_StateHouseD28.csv,bucklin,strat_truncate_L
+1416,./data/america/APA/APA 2017 BOD race1.csv,bucklin,strat_truncate_L
+1417,./data/america/APA/APA 2021 BOD race1.csv,bucklin,strat_truncate_L
+1418,./data/america/APA/APA 2008.csv,bucklin,strat_truncate_L
+1419,./data/america/APA/APA 2020 BOD race2.csv,bucklin,strat_truncate_L
+1420,./data/america/APA/APA 2020 President.csv,bucklin,strat_truncate_L
+1421,./data/america/APA/APA 2019 President.csv,bucklin,strat_truncate_L
+1422,./data/america/APA/APA 1999.csv,bucklin,strat_truncate_L
+1423,./data/america/APA/APA 2009.csv,bucklin,strat_truncate_L
+1424,./data/america/APA/APA 2000.csv,bucklin,strat_truncate_L
+1425,./data/america/APA/APA 2007.csv,bucklin,strat_truncate_L
+1426,./data/america/APA/APA 2004.csv,bucklin,strat_truncate_L
+1427,./data/america/APA/APA 2018 President.csv,bucklin,strat_truncate_L
+1428,./data/america/APA/APA 2021 President.csv,bucklin,strat_truncate_L
+1429,./data/america/APA/APA 2002.csv,bucklin,strat_truncate_L
+1430,./data/america/APA/APA 2005.csv,bucklin,strat_truncate_L
+1431,./data/america/APA/APA 2018 BOD race2.csv,bucklin,strat_truncate_L
+1432,./data/america/APA/APA 2017 BOD race2.csv,bucklin,strat_truncate_L
+1433,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember48thCouncilDistrict.csv,bucklin,strat_truncate_L
+1434,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember39thCouncilDistrict.csv,bucklin,strat_truncate_L
+1435,./data/america/New York City/NewYorkCity_06222021_REPBoroughPresidentRichmond.csv,bucklin,strat_truncate_L
+1436,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember10thCouncilDistrict.csv,bucklin,strat_truncate_L
+1437,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember25thCouncilDistrict.csv,bucklin,strat_truncate_L
+1438,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember49thCouncilDistrict.csv,bucklin,strat_truncate_L
+1439,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember15thCouncilDistrict.csv,bucklin,strat_truncate_L
+1440,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember35thCouncilDistrict.csv,bucklin,strat_truncate_L
+1441,./data/america/New York City/NewYorkCity_06222021_DEMMayorCitywide.csv,bucklin,strat_truncate_L
+1442,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember32ndCouncilDistrict.csv,bucklin,strat_truncate_L
+1443,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember1stCouncilDistrict.csv,bucklin,strat_truncate_L
+1444,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember19thCouncilDistrict.csv,bucklin,strat_truncate_L
+1445,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv,bucklin,strat_truncate_L
+1446,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember5thCouncilDistrict.csv,bucklin,strat_truncate_L
+1447,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember47thCouncilDistrict.csv,bucklin,strat_truncate_L
+1448,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember23rdCouncilDistrict.csv,bucklin,strat_truncate_L
+1449,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember22ndCouncilDistrict.csv,bucklin,strat_truncate_L
+1450,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember42ndCouncilDistrict.csv,bucklin,strat_truncate_L
+1451,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember18thCouncilDistrict.csv,bucklin,strat_truncate_L
+1452,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember40thCouncilDistrict.csv,bucklin,strat_truncate_L
+1453,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentNewYork.csv,bucklin,strat_truncate_L
+1454,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember20thCouncilDistrict.csv,bucklin,strat_truncate_L
+1455,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember9thCouncilDistrict.csv,bucklin,strat_truncate_L
+1456,"./data/america/Portland, ME/Portland_06082021_charter_commission_at_large.csv",bucklin,strat_truncate_L
+1457,./data/america/St Louis Park/StLouisPark_11022021_CityCouncilWard3.csv,bucklin,strat_truncate_L
+1458,./data/america/Alameda County/Berkeley_05282024_Citycouncildistrict4specialelection.csv,bucklin,strat_truncate_L
+1459,./data/america/Alameda County/Oakland_11022010_Mayor.csv,bucklin,strat_truncate_L
+1460,./data/america/Alameda County/Oakland_11062018_CityCouncilDistrict4.csv,bucklin,strat_truncate_L
+1461,./data/america/Alameda County/Oakland_11082022_Schoolboarddistrict4.csv,bucklin,strat_truncate_L
+1462,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict5.csv,bucklin,strat_truncate_L
+1463,./data/america/Alameda County/Oakland_11032020_MemberCityCouncilAtLargeOaklandRCV.csv,bucklin,strat_truncate_L
+1464,./data/america/Alameda County/Berkeley_11042014_CityCouncilDistrict8.csv,bucklin,strat_truncate_L
+1465,./data/america/Alameda County/Berkeley_11062018_CityCouncilDistrict1.csv,bucklin,strat_truncate_L
+1466,./data/america/Alameda County/Oakland_11042014_CityCouncilDistrict2.csv,bucklin,strat_truncate_L
+1467,./data/america/Alameda County/SanLeandro_11022010_Mayor.csv,bucklin,strat_truncate_L
+1468,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict3.csv,bucklin,strat_truncate_L
+1469,./data/america/Alameda County/Oakland_11042014_SchoolDirectorDistrict4.csv,bucklin,strat_truncate_L
+1470,./data/america/Alameda County/Oakland_11082022_Mayor.csv,bucklin,strat_truncate_L
+1471,./data/america/Alameda County/Berkeley_11052024_Mayor.csv,bucklin,strat_truncate_L
+1472,./data/america/Alameda County/Oakland_11082022_Schoolboarddistrict6.csv,bucklin,strat_truncate_L
+1473,./data/america/Alameda County/Oakland_11032020_SchoolDirectorDist5OaklandRCV.csv,bucklin,strat_truncate_L
+1474,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict5.csv,bucklin,strat_truncate_L
+1475,./data/america/Alameda County/Oakland_11042014_CityCouncilDistrict6.csv,bucklin,strat_truncate_L
+1476,./data/america/Alameda County/Oakland_11032020_MemberCityCouncilDist7OaklandRCV.csv,bucklin,strat_truncate_L
+1477,./data/america/Alameda County/Oakland_11022010_CityCouncilDistrict4.csv,bucklin,strat_truncate_L
+1478,./data/america/Alameda County/Oakland_11032020_SchoolDirectorDist7OaklandRCV.csv,bucklin,strat_truncate_L
+1479,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict1.csv,bucklin,strat_truncate_L
+1480,./data/america/Alameda County/SanLeandro_11042014_Mayor.csv,bucklin,strat_truncate_L
+1481,./data/america/Alameda County/Oakland_11052024_CityCouncilD7.csv,bucklin,strat_truncate_L
+1482,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict3.csv,bucklin,strat_truncate_L
+1483,./data/america/Alameda County/Berkeley_11082016_CityCouncilDistrict2.csv,bucklin,strat_truncate_L
+1484,"./data/america/Corvallis, OR/Corvallis_11082022_CityCouncilWard9.csv",bucklin,strat_truncate_L
+1485,"./data/america/Pierce County, WA/PierceCounty_11042008_CountyCouncilDistrict2.csv",bucklin,strat_truncate_L
+1486,"./data/america/Pierce County, WA/PierceCounty_11032009_CountyAuditor.csv",bucklin,strat_truncate_L
+1487,"./data/america/Pierce County, WA/PierceCounty_11042008_CountyExecutiveMember.csv",bucklin,strat_truncate_L
+1488,./data/america/Burlington/Burlington_03032009_Mayor.csv,bucklin,strat_truncate_L
+1489,./data/america/Burlington/Burlington_03072006_Mayor.csv,bucklin,strat_truncate_L
+1490,"./data/america/Cambridge, MA/Cambridge_11072023_SchoolBoard.csv",bucklin,strat_truncate_L
+1491,"./data/america/Cambridge, MA/Cambridge_11042003_SchoolCommittee.csv",bucklin,strat_truncate_L
+1492,"./data/america/Cambridge, MA/Cambridge_11052013_SchoolCommittee.csv",bucklin,strat_truncate_L
+1493,"./data/america/Cambridge, MA/Cambridge_11152019_SchoolCommittee.csv",bucklin,strat_truncate_L
+1494,"./data/america/Cambridge, MA/Cambridge_11032015_SchoolCommittee.csv",bucklin,strat_truncate_L
+1495,"./data/america/Cambridge, MA/Cambridge_11082011_SchoolCommittee.csv",bucklin,strat_truncate_L
+1496,"./data/america/Cambridge, MA/Cambridge_11062007_SchoolCommittee.csv",bucklin,strat_truncate_L
+1497,"./data/america/Cambridge, MA/Cambridge_11082005_SchoolCommittee.csv",bucklin,strat_truncate_L
+1498,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard8.csv,bucklin,strat_truncate_L
+1499,./data/america/Minneapolis/Minneapolis_11072017_Ward5CityCouncil.csv,bucklin,strat_truncate_L
+1500,./data/america/Minneapolis/Minneapolis_11052013_ParkRecBoardAtLarge.csv,bucklin,strat_truncate_L
+1501,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard2.csv,bucklin,strat_truncate_L
+1502,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict3.csv,bucklin,strat_truncate_L
+1503,./data/america/Minneapolis/Minneapolis_11062009_PRBoardDistrict6.csv,bucklin,strat_truncate_L
+1504,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard7.csv,bucklin,strat_truncate_L
+1505,./data/america/Minneapolis/Minneapolis_11062009_MinneapolisParkRecBoard.csv,bucklin,strat_truncate_L
+1506,./data/america/Minneapolis/Minneapolis_11022021_ParkBoardDistrict6.csv,bucklin,strat_truncate_L
+1507,./data/america/Minneapolis/Minneapolis_11052013_Ward13CityCouncil.csv,bucklin,strat_truncate_L
+1508,./data/america/Minneapolis/Minneapolis_11072017_Ward1CityCouncil.csv,bucklin,strat_truncate_L
+1509,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard1.csv,bucklin,strat_truncate_L
+1510,./data/america/Minneapolis/Minneapolis_11062009_PRBoardDistrict5.csv,bucklin,strat_truncate_L
+1511,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard10.csv,bucklin,strat_truncate_L
+1512,./data/america/Minneapolis/Minneapolis_11072017_Ward3CityCouncil.csv,bucklin,strat_truncate_L
+1513,./data/america/Minneapolis/Minneapolis_11072017_Ward11CityCouncil.csv,bucklin,strat_truncate_L
+1514,./data/america/Minneapolis/Minneapolis_11072017_Ward4CityCouncil.csv,bucklin,strat_truncate_L
+1515,./data/america/Minneapolis/Minneapolis 2013-board of estimation and taxation cvr.csv,bucklin,strat_truncate_L
+1516,./data/america/Minneapolis/Minneapolis_11052013_Ward9CityCouncil.csv,bucklin,strat_truncate_L
+1517,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict1.csv,bucklin,strat_truncate_L
+1518,./data/america/New Mexico/LasCruces_11052019_COUNCILORPOSITION2CITYOFLASCRUCESDISTRICT2COUNCILOR.csv,bucklin,strat_truncate_L
+1519,./data/america/New Mexico/SantaFe_03062018_Mayor.csv,bucklin,strat_truncate_L
+1520,./data/america/New Mexico/LasCruces_11052019_MAYORCITYOFLASCRUCES.csv,bucklin,strat_truncate_L
+1521,./data/america/New Mexico/SantaFe_03062018_CityCouncilDistrict4.csv,bucklin,strat_truncate_L
+1522,./data/america/Utah cities/Moab_11022021_CityCouncil.csv,bucklin,strat_truncate_L
+1523,./data/america/Utah cities/ElkRidge_11022021_Mayor.csv,bucklin,strat_truncate_L
+1524,./data/america/Utah cities/Springville_11022021_CityCouncil4yr.csv,bucklin,strat_truncate_L
+1525,./data/america/Utah cities/WoodlandHills_11022021_Mayor.csv,bucklin,strat_truncate_L
+1526,./data/america/Utah cities/Vineyard_11052019_CityCouncil.csv,bucklin,strat_truncate_L
+1527,./data/america/Utah cities/Lehi_11022021_CityCouncil.csv,bucklin,strat_truncate_L
+1528,./data/america/San Francisco/SanFrancisco_11082011_Sheriff.csv,bucklin,strat_truncate_L
+1529,./data/america/San Francisco/SanFrancisco_11052004_BoardofSupervisorsDistrict1.csv,bucklin,strat_truncate_L
+1530,./data/america/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict11.csv,bucklin,strat_truncate_L
+1531,./data/america/San Francisco/SanFrancisco_11052024_BoS_D1.csv,bucklin,strat_truncate_L
+1532,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict1.csv,bucklin,strat_truncate_L
+1533,./data/america/San Francisco/SanFrancisco_06052018_Mayor.csv,bucklin,strat_truncate_L
+1534,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict2.csv,bucklin,strat_truncate_L
+1535,./data/america/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict4.csv,bucklin,strat_truncate_L
+1536,./data/america/San Francisco/SanFrancisco_11052024_Mayor.csv,bucklin,strat_truncate_L
+1537,./data/america/San Francisco/SanFrancisco_11052024_BoS_D11.csv,bucklin,strat_truncate_L
+1538,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT7.csv,bucklin,strat_truncate_L
+1539,./data/america/San Francisco/SanFrancisco_11052019_DistrictAttorney.csv,bucklin,strat_truncate_L
+1540,./data/america/San Francisco/SanFrancisco_11052024_BoS_D9.csv,bucklin,strat_truncate_L
+1541,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict7.csv,bucklin,strat_truncate_L
+1542,./data/america/San Francisco/SanFrancisco_11052024_BoS_D7.csv,bucklin,strat_truncate_L
+1543,./data/america/San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict5.csv,bucklin,strat_truncate_L
+1544,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT11.csv,bucklin,strat_truncate_L
+1545,./data/america/San Francisco/SanFrancisco_11052024_BoS_D3.csv,bucklin,strat_truncate_L
+1546,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict8.csv,bucklin,strat_truncate_L
+1547,./data/america/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict9.csv,bucklin,strat_truncate_L
+1548,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict6.csv,bucklin,strat_truncate_L
+1549,./data/america/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict2.csv,bucklin,strat_truncate_L
+1550,./data/america/San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict7.csv,bucklin,strat_truncate_L
+1551,./data/america/San Francisco/SanFrancisco_11052024_BoS_D5.csv,bucklin,strat_truncate_L
+1552,./data/america/San Francisco/SanFrancisco_11082011_DistrictAttorney.csv,bucklin,strat_truncate_L
+1553,./data/america/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict7.csv,bucklin,strat_truncate_L
+1554,./data/america/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict4.csv,bucklin,strat_truncate_L
+1555,./data/america/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict6.csv,bucklin,strat_truncate_L
+1556,./data/america/San Francisco/SanFrancisco_11082022_DistrictAttorney.csv,bucklin,strat_truncate_L
+1557,./data/america/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict1.csv,bucklin,strat_truncate_L
+1558,./data/america/Maine/Maine_06122018_DemocraticPrimaryforGovernor.csv,bucklin,strat_truncate_L
+1559,./data/america/Maine/Maine_11062018_CongressionalDistrict2.csv,bucklin,strat_truncate_L
+1560,./data/america/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict90.csv,bucklin,strat_truncate_L
+1561,./data/america/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict41.csv,bucklin,strat_truncate_L
+1562,./data/america/Maine/Maine_07142020_RepublicanCandidateforUSHouseofRepresentativesDistrict2.csv,bucklin,strat_truncate_L
+1563,./data/america/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict49.csv,bucklin,strat_truncate_L
+1564,./data/america/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict47.csv,bucklin,strat_truncate_L
+1565,./data/america/Maine/Maine_06122018_DemocraticPrimaryforCD2.csv,bucklin,strat_truncate_L
+1566,./data/america/Maine/Maine_07142020_DemocraticCandidateforMaineStateSenateDistrict11.csv,bucklin,strat_truncate_L
+1567,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard6.csv",bucklin,strat_truncate_W
+1568,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard3.csv",bucklin,strat_truncate_W
+1569,"./data/america/Takoma Park, MD/TakomaPark_11082022_CityCouncilWard5.csv",bucklin,strat_truncate_W
+1570,./data/america/Alaska/Alaska_11052024_StateSenateD.csv,bucklin,strat_truncate_W
+1571,./data/america/Alaska/Alaska_11082022_HouseDistrict30.csv,bucklin,strat_truncate_W
+1572,./data/america/Alaska/Alaska_11052024_US_House.csv,bucklin,strat_truncate_W
+1573,./data/america/Alaska/Alaska_11082022_HouseDistrict15.csv,bucklin,strat_truncate_W
+1574,./data/america/Alaska/Alaska_11052024_StateSenateL.csv,bucklin,strat_truncate_W
+1575,./data/america/Alaska/Alaska_11082022_HouseDistrict31.csv,bucklin,strat_truncate_W
+1576,./data/america/Alaska/Alaska_11052024_StateHouseD38.csv,bucklin,strat_truncate_W
+1577,./data/america/Alaska/Alaska_11052024_StateHouseD36.csv,bucklin,strat_truncate_W
+1578,./data/america/Alaska/Alaska_11082022_HouseDistrict11.csv,bucklin,strat_truncate_W
+1579,./data/america/Alaska/Alaska_11082022_HouseDistrict18.csv,bucklin,strat_truncate_W
+1580,./data/america/Alaska/Alaska_11082022_SenateDistrictD.csv,bucklin,strat_truncate_W
+1581,./data/america/Alaska/Alaska_11052024_StateHouseD6.csv,bucklin,strat_truncate_W
+1582,./data/america/Alaska/Alaska_11082022_SenateDistrictE.csv,bucklin,strat_truncate_W
+1583,./data/america/Alaska/Alaska_11052024_StateHouseD28.csv,bucklin,strat_truncate_W
+1584,./data/america/APA/APA 2017 BOD race1.csv,bucklin,strat_truncate_W
+1585,./data/america/APA/APA 2021 BOD race1.csv,bucklin,strat_truncate_W
+1586,./data/america/APA/APA 2008.csv,bucklin,strat_truncate_W
+1587,./data/america/APA/APA 2020 BOD race2.csv,bucklin,strat_truncate_W
+1588,./data/america/APA/APA 2020 President.csv,bucklin,strat_truncate_W
+1589,./data/america/APA/APA 2019 President.csv,bucklin,strat_truncate_W
+1590,./data/america/APA/APA 2000.csv,bucklin,strat_truncate_W
+1591,./data/america/APA/APA 2004.csv,bucklin,strat_truncate_W
+1592,./data/america/APA/APA 2018 President.csv,bucklin,strat_truncate_W
+1593,./data/america/APA/APA 2021 President.csv,bucklin,strat_truncate_W
+1594,./data/america/APA/APA 2005.csv,bucklin,strat_truncate_W
+1595,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember48thCouncilDistrict.csv,bucklin,strat_truncate_W
+1596,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember39thCouncilDistrict.csv,bucklin,strat_truncate_W
+1597,./data/america/New York City/NewYorkCity_06222021_REPBoroughPresidentRichmond.csv,bucklin,strat_truncate_W
+1598,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember10thCouncilDistrict.csv,bucklin,strat_truncate_W
+1599,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember49thCouncilDistrict.csv,bucklin,strat_truncate_W
+1600,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember15thCouncilDistrict.csv,bucklin,strat_truncate_W
+1601,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember35thCouncilDistrict.csv,bucklin,strat_truncate_W
+1602,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember32ndCouncilDistrict.csv,bucklin,strat_truncate_W
+1603,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember1stCouncilDistrict.csv,bucklin,strat_truncate_W
+1604,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember19thCouncilDistrict.csv,bucklin,strat_truncate_W
+1605,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv,bucklin,strat_truncate_W
+1606,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember5thCouncilDistrict.csv,bucklin,strat_truncate_W
+1607,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember47thCouncilDistrict.csv,bucklin,strat_truncate_W
+1608,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember23rdCouncilDistrict.csv,bucklin,strat_truncate_W
+1609,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember22ndCouncilDistrict.csv,bucklin,strat_truncate_W
+1610,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember42ndCouncilDistrict.csv,bucklin,strat_truncate_W
+1611,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember18thCouncilDistrict.csv,bucklin,strat_truncate_W
+1612,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember40thCouncilDistrict.csv,bucklin,strat_truncate_W
+1613,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentNewYork.csv,bucklin,strat_truncate_W
+1614,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember20thCouncilDistrict.csv,bucklin,strat_truncate_W
+1615,./data/america/St Louis Park/StLouisPark_11022021_CityCouncilWard3.csv,bucklin,strat_truncate_W
+1616,./data/america/Alameda County/Oakland_11062018_CityCouncilDistrict4.csv,bucklin,strat_truncate_W
+1617,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict5.csv,bucklin,strat_truncate_W
+1618,./data/america/Alameda County/Oakland_11032020_MemberCityCouncilAtLargeOaklandRCV.csv,bucklin,strat_truncate_W
+1619,./data/america/Alameda County/Berkeley_11062018_CityCouncilDistrict1.csv,bucklin,strat_truncate_W
+1620,./data/america/Alameda County/Oakland_11042014_CityCouncilDistrict2.csv,bucklin,strat_truncate_W
+1621,./data/america/Alameda County/Oakland_11042014_SchoolDirectorDistrict4.csv,bucklin,strat_truncate_W
+1622,./data/america/Alameda County/Oakland_11082022_Mayor.csv,bucklin,strat_truncate_W
+1623,./data/america/Alameda County/Berkeley_11052024_Mayor.csv,bucklin,strat_truncate_W
+1624,./data/america/Alameda County/Oakland_11082022_Schoolboarddistrict6.csv,bucklin,strat_truncate_W
+1625,./data/america/Alameda County/Oakland_11032020_SchoolDirectorDist5OaklandRCV.csv,bucklin,strat_truncate_W
+1626,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict5.csv,bucklin,strat_truncate_W
+1627,./data/america/Alameda County/Oakland_11042014_CityCouncilDistrict6.csv,bucklin,strat_truncate_W
+1628,./data/america/Alameda County/Oakland_11032020_MemberCityCouncilDist7OaklandRCV.csv,bucklin,strat_truncate_W
+1629,./data/america/Alameda County/Oakland_11022010_CityCouncilDistrict4.csv,bucklin,strat_truncate_W
+1630,./data/america/Alameda County/Oakland_11032020_SchoolDirectorDist7OaklandRCV.csv,bucklin,strat_truncate_W
+1631,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict1.csv,bucklin,strat_truncate_W
+1632,./data/america/Alameda County/SanLeandro_11042014_Mayor.csv,bucklin,strat_truncate_W
+1633,./data/america/Alameda County/Oakland_11052024_CityCouncilD7.csv,bucklin,strat_truncate_W
+1634,"./data/america/Corvallis, OR/Corvallis_11082022_CityCouncilWard9.csv",bucklin,strat_truncate_W
+1635,"./data/america/Pierce County, WA/PierceCounty_11042008_CountyCouncilDistrict2.csv",bucklin,strat_truncate_W
+1636,"./data/america/Pierce County, WA/PierceCounty_11032009_CountyAuditor.csv",bucklin,strat_truncate_W
+1637,./data/america/Burlington/Burlington_03072006_Mayor.csv,bucklin,strat_truncate_W
+1638,"./data/america/Cambridge, MA/Cambridge_11072023_SchoolBoard.csv",bucklin,strat_truncate_W
+1639,"./data/america/Cambridge, MA/Cambridge_11052013_SchoolCommittee.csv",bucklin,strat_truncate_W
+1640,"./data/america/Cambridge, MA/Cambridge_11032015_SchoolCommittee.csv",bucklin,strat_truncate_W
+1641,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard8.csv,bucklin,strat_truncate_W
+1642,./data/america/Minneapolis/Minneapolis_11072017_Ward5CityCouncil.csv,bucklin,strat_truncate_W
+1643,./data/america/Minneapolis/Minneapolis_11052013_ParkRecBoardAtLarge.csv,bucklin,strat_truncate_W
+1644,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict3.csv,bucklin,strat_truncate_W
+1645,./data/america/Minneapolis/Minneapolis_11062009_PRBoardDistrict6.csv,bucklin,strat_truncate_W
+1646,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard7.csv,bucklin,strat_truncate_W
+1647,./data/america/Minneapolis/Minneapolis_11062009_MinneapolisParkRecBoard.csv,bucklin,strat_truncate_W
+1648,./data/america/Minneapolis/Minneapolis_11022021_ParkBoardDistrict6.csv,bucklin,strat_truncate_W
+1649,./data/america/Minneapolis/Minneapolis_11052013_Ward13CityCouncil.csv,bucklin,strat_truncate_W
+1650,./data/america/Minneapolis/Minneapolis_11072017_Ward1CityCouncil.csv,bucklin,strat_truncate_W
+1651,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard1.csv,bucklin,strat_truncate_W
+1652,./data/america/Minneapolis/Minneapolis_11062009_PRBoardDistrict5.csv,bucklin,strat_truncate_W
+1653,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard10.csv,bucklin,strat_truncate_W
+1654,./data/america/Minneapolis/Minneapolis_11072017_Ward3CityCouncil.csv,bucklin,strat_truncate_W
+1655,./data/america/Minneapolis/Minneapolis_11072017_Ward4CityCouncil.csv,bucklin,strat_truncate_W
+1656,./data/america/Minneapolis/Minneapolis 2013-board of estimation and taxation cvr.csv,bucklin,strat_truncate_W
+1657,./data/america/Minneapolis/Minneapolis_11052013_Ward9CityCouncil.csv,bucklin,strat_truncate_W
+1658,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict1.csv,bucklin,strat_truncate_W
+1659,./data/america/New Mexico/LasCruces_11052019_COUNCILORPOSITION2CITYOFLASCRUCESDISTRICT2COUNCILOR.csv,bucklin,strat_truncate_W
+1660,./data/america/New Mexico/SantaFe_03062018_Mayor.csv,bucklin,strat_truncate_W
+1661,./data/america/New Mexico/LasCruces_11052019_MAYORCITYOFLASCRUCES.csv,bucklin,strat_truncate_W
+1662,./data/america/Utah cities/ElkRidge_11022021_Mayor.csv,bucklin,strat_truncate_W
+1663,./data/america/Utah cities/Springville_11022021_CityCouncil4yr.csv,bucklin,strat_truncate_W
+1664,./data/america/Utah cities/WoodlandHills_11022021_Mayor.csv,bucklin,strat_truncate_W
+1665,./data/america/Utah cities/Vineyard_11052019_CityCouncil.csv,bucklin,strat_truncate_W
+1666,./data/america/San Francisco/SanFrancisco_11052004_BoardofSupervisorsDistrict1.csv,bucklin,strat_truncate_W
+1667,./data/america/San Francisco/SanFrancisco_11052024_BoS_D1.csv,bucklin,strat_truncate_W
+1668,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict1.csv,bucklin,strat_truncate_W
+1669,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict2.csv,bucklin,strat_truncate_W
+1670,./data/america/San Francisco/SanFrancisco_11052024_Mayor.csv,bucklin,strat_truncate_W
+1671,./data/america/San Francisco/SanFrancisco_11052024_BoS_D9.csv,bucklin,strat_truncate_W
+1672,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict7.csv,bucklin,strat_truncate_W
+1673,./data/america/San Francisco/SanFrancisco_11052024_BoS_D7.csv,bucklin,strat_truncate_W
+1674,./data/america/San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict5.csv,bucklin,strat_truncate_W
+1675,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT11.csv,bucklin,strat_truncate_W
+1676,./data/america/San Francisco/SanFrancisco_11052024_BoS_D3.csv,bucklin,strat_truncate_W
+1677,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict8.csv,bucklin,strat_truncate_W
+1678,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict6.csv,bucklin,strat_truncate_W
+1679,./data/america/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict2.csv,bucklin,strat_truncate_W
+1680,./data/america/San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict7.csv,bucklin,strat_truncate_W
+1681,./data/america/San Francisco/SanFrancisco_11052024_BoS_D5.csv,bucklin,strat_truncate_W
+1682,./data/america/San Francisco/SanFrancisco_11082011_DistrictAttorney.csv,bucklin,strat_truncate_W
+1683,./data/america/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict7.csv,bucklin,strat_truncate_W
+1684,./data/america/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict4.csv,bucklin,strat_truncate_W
+1685,./data/america/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict6.csv,bucklin,strat_truncate_W
+1686,./data/america/San Francisco/SanFrancisco_11082022_DistrictAttorney.csv,bucklin,strat_truncate_W
+1687,./data/america/Maine/Maine_11062018_CongressionalDistrict2.csv,bucklin,strat_truncate_W
+1688,./data/america/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict90.csv,bucklin,strat_truncate_W
+1689,./data/america/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict41.csv,bucklin,strat_truncate_W
+1690,./data/america/Maine/Maine_07142020_RepublicanCandidateforUSHouseofRepresentativesDistrict2.csv,bucklin,strat_truncate_W
+1691,./data/america/Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict47.csv,bucklin,strat_truncate_W
+1692,./data/america/Maine/Maine_06122018_DemocraticPrimaryforCD2.csv,bucklin,strat_truncate_W
+1693,./data/america/Maine/Maine_07142020_DemocraticCandidateforMaineStateSenateDistrict11.csv,bucklin,strat_truncate_W
+1694,./data/america/Alaska/Alaska_11052024_StateSenateD.csv,bucklin,strat_bury_shallow
+1695,./data/america/Alaska/Alaska_11082022_HouseDistrict30.csv,bucklin,strat_bury_shallow
+1696,./data/america/Alaska/Alaska_11052024_US_House.csv,bucklin,strat_bury_shallow
+1697,./data/america/Alaska/Alaska_11052024_StateSenateL.csv,bucklin,strat_bury_shallow
+1698,./data/america/Alaska/Alaska_11082022_SenateDistrictD.csv,bucklin,strat_bury_shallow
+1699,./data/america/Alaska/Alaska_11052024_StateHouseD6.csv,bucklin,strat_bury_shallow
+1700,./data/america/APA/APA 2020 President.csv,bucklin,strat_bury_shallow
+1701,./data/america/New York City/NewYorkCity_06222021_REPBoroughPresidentRichmond.csv,bucklin,strat_bury_shallow
+1702,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember10thCouncilDistrict.csv,bucklin,strat_bury_shallow
+1703,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember49thCouncilDistrict.csv,bucklin,strat_bury_shallow
+1704,./data/america/New York City/NewYorkCity_06222021_REPCouncilMember15thCouncilDistrict.csv,bucklin,strat_bury_shallow
+1705,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember35thCouncilDistrict.csv,bucklin,strat_bury_shallow
+1706,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember32ndCouncilDistrict.csv,bucklin,strat_bury_shallow
+1707,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember1stCouncilDistrict.csv,bucklin,strat_bury_shallow
+1708,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember5thCouncilDistrict.csv,bucklin,strat_bury_shallow
+1709,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember47thCouncilDistrict.csv,bucklin,strat_bury_shallow
+1710,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember23rdCouncilDistrict.csv,bucklin,strat_bury_shallow
+1711,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember22ndCouncilDistrict.csv,bucklin,strat_bury_shallow
+1712,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember42ndCouncilDistrict.csv,bucklin,strat_bury_shallow
+1713,./data/america/New York City/NewYorkCity_06222021_DEMBoroughPresidentNewYork.csv,bucklin,strat_bury_shallow
+1714,./data/america/Alameda County/Oakland_11062012_CityCouncilDistrict5.csv,bucklin,strat_bury_shallow
+1715,./data/america/Alameda County/Oakland_11082022_Mayor.csv,bucklin,strat_bury_shallow
+1716,./data/america/Alameda County/Oakland_11082016_SchoolDirectorDistrict5.csv,bucklin,strat_bury_shallow
+1717,./data/america/Alameda County/Oakland_11022010_CityCouncilDistrict4.csv,bucklin,strat_bury_shallow
+1718,./data/america/Minneapolis/Minneapolis_11072017_Ward5CityCouncil.csv,bucklin,strat_bury_shallow
+1719,./data/america/Minneapolis/Minneapolis_11052013_ParkRecBoardAtLarge.csv,bucklin,strat_bury_shallow
+1720,./data/america/Minneapolis/Minneapolis_11072017_PRBoardDistrict3.csv,bucklin,strat_bury_shallow
+1721,./data/america/Minneapolis/Minneapolis_11062009_PRBoardDistrict6.csv,bucklin,strat_bury_shallow
+1722,./data/america/Minneapolis/Minneapolis_11072023_CityCouncilWard7.csv,bucklin,strat_bury_shallow
+1723,./data/america/Minneapolis/Minneapolis_11062009_MinneapolisParkRecBoard.csv,bucklin,strat_bury_shallow
+1724,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard1.csv,bucklin,strat_bury_shallow
+1725,./data/america/Minneapolis/Minneapolis 2013-board of estimation and taxation cvr.csv,bucklin,strat_bury_shallow
+1726,./data/america/Minneapolis/Minneapolis_11052013_Ward9CityCouncil.csv,bucklin,strat_bury_shallow
+1727,./data/america/San Francisco/SanFrancisco_11052004_BoardofSupervisorsDistrict1.csv,bucklin,strat_bury_shallow
+1728,./data/america/San Francisco/SanFrancisco_11052024_BoS_D1.csv,bucklin,strat_bury_shallow
+1729,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict1.csv,bucklin,strat_bury_shallow
+1730,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict2.csv,bucklin,strat_bury_shallow
+1731,./data/america/San Francisco/SanFrancisco_11052024_BoS_D9.csv,bucklin,strat_bury_shallow
+1732,./data/america/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict7.csv,bucklin,strat_bury_shallow
+1733,./data/america/San Francisco/SanFrancisco_11052024_BoS_D7.csv,bucklin,strat_bury_shallow
+1734,./data/america/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict6.csv,bucklin,strat_bury_shallow
+1735,./data/america/San Francisco/SanFrancisco_11052024_BoS_D5.csv,bucklin,strat_bury_shallow
+1736,./data/america/San Francisco/SanFrancisco_11082011_DistrictAttorney.csv,bucklin,strat_bury_shallow
+1737,./data/america/San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict7.csv,bucklin,strat_bury_shallow
+1738,./data/america/San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict4.csv,bucklin,strat_bury_shallow
+1739,./data/america/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict6.csv,bucklin,strat_bury_shallow
+1740,./data/america/San Francisco/SanFrancisco_11082022_DistrictAttorney.csv,bucklin,strat_bury_shallow
+1741,./data/america/Maine/Maine_11062018_CongressionalDistrict2.csv,bucklin,strat_bury_shallow
+1742,./data/america/Maine/Maine_06122018_DemocraticPrimaryforCD2.csv,bucklin,strat_bury_shallow
+1743,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember22ndCouncilDistrict.csv,bucklin,strat_bury_deep
+1744,./data/america/New York City/NewYorkCity_06222021_DEMCouncilMember42ndCouncilDistrict.csv,bucklin,strat_bury_deep
+1745,./data/america/Minneapolis/Minneapolis_11072017_Ward5CityCouncil.csv,bucklin,strat_bury_deep
+1746,./data/america/Minneapolis/Minneapolis 2013-board of estimation and taxation cvr.csv,bucklin,strat_bury_deep
+1747,./data/america/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict6.csv,bucklin,strat_bury_deep
