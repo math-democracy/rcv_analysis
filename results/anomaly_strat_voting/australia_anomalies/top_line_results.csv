@@ -1,0 +1,10 @@
+,plurality,plurality_runoff,IRV,smith_irv,smith_plurality,minimax,smith_minimax,ranked_pairs,Borda_PM,Borda_OM,Borda_AVG,bucklin
+upMono,-1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+downMono,-1,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+noShow,-1,0,0,1,2,-1,-1,-1,-1,-1,-1,0
+laterNoHarm,0,0,0,0,0,0,0,0,312,166,280,163
+strat_compromise,50,3,2,0,0,0,0,0,21,60,40,14
+strat_truncate_L,0,0,0,1,1,1,1,1,55,0,12,83
+strat_truncate_W,0,0,0,1,2,2,2,2,55,0,45,82
+strat_bury_shallow,0,0,0,1,3,7,7,7,52,101,65,79
+strat_bury_deep,0,0,0,1,14,53,53,53,45,297,154,19

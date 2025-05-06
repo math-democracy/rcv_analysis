@@ -1,0 +1,5 @@
+,file_name,num_cands,old_winner,new_winner,ballot_change_num,modified_ballots
+0,"./data/america/Portland, ME/Portland_06082021_charter_commission_at_large.csv",11,H,B,526,"[['F', 'I', 'J', 'C', 'D', 'E', 'K'], ['BG', 'GB', 267], ['BGA', 'GBA', 10], ['BGAH', 'GBAH', 24], ['BGH', 'GBH', 225]]"
+1,./data/america/Alameda County/Oakland_11082022_Schoolboarddistrict4.csv,4,D,B,38,"[['A'], ['BC', 'CB', 38]]"
+2,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard2.csv,6,F,B,80,"[['A', 'C', 'E'], ['BD', 'DB', 80]]"
+3,./data/america/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT7.csv,7,A,C,798,"[['D', 'F', 'E', 'B'], ['CG', 'GC', 798]]"

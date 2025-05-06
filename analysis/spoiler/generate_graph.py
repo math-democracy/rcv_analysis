@@ -8,6 +8,10 @@ def run(country):
 
     data = data["metadata"]["method_counts"]
 
+    del data["approval"]
+
+    print(data)
+
     methods, counts = zip(*sorted(data.items(), key=lambda x: x[1], reverse=True))
 
     plt.figure(figsize=(10, 6))

@@ -1,0 +1,6 @@
+,file_name,num_cands,old_winner,new_winner,ballot_change_num,modified_ballots
+0,./data/america/Alaska/Alaska_08162022_HouseofRepresentativesSpecial.csv,4,C,B,5218,"[['D'], ['AC', 'CA', 704], ['ACB', 'CAB', 2734], ['ABC', 'CAB', 1780]]"
+1,./data/america/Alameda County/Oakland_11082022_Schoolboarddistrict4.csv,4,D,C,1826,"[['A'], ['BD', 'DB', 924], ['BDC', 'DBC', 902]]"
+2,./data/america/Burlington/Burlington_03032009_Mayor.csv,6,A,B,741,"[['D', 'F', 'C'], ['EA', 'AE', 153], ['EAB', 'AEB', 342], ['EBA', 'AEB', 246]]"
+3,./data/america/Minneapolis/Minneapolis_11022021_CityCouncilWard2.csv,6,F,D,437,"[['A', 'C', 'E'], ['BF', 'FB', 437]]"
+4,./data/america/Utah cities/Moab_11022021_CityCouncil.csv,6,F,D,21,"[[], ['AF', 'FA', 2], ['AFD', 'FAD', 1], ['AFEBD', 'FAEBD', 1], ['AEFBD', 'FAEBD', 3], ['AEFDB', 'FAEDB', 3], ['ABDFE', 'FABDE', 1], ['ADBFE', 'FADBE', 1], ['ABDEF', 'FABDE', 2], ['ABDCEF', 'FABDCE', 1], ['A', 'FA', 1], ['AD', 'FAD', 1], ['AE', 'FAE', 3], ['ABD', 'FABD', 1]]"
