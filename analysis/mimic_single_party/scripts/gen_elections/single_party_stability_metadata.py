@@ -1,11 +1,13 @@
 import pandas as pd
 import json
 
-with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/metadata/party_breakdown.json', 'r') as file:
+with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/metadata/party_breakdown.json', 'r') as file:
     party_info = json.load(file)
 
-root = 'analysis/mimic_single_party/methods/tiebreaker/mention/processed_data/'
+METHOD = 'first_place'
 
+root = f'analysis/mimic_single_party/condensed_elections/keep_last_mentioned/processed_data/'
+#root = f'analysis/mimic_single_party/condensed_elections/{METHOD}_tiebreaker/processed_data/'
 def gen_metadata(file_path):
     num_cands_kept = 4
     df = pd.read_csv(file_path)
@@ -20,8 +22,8 @@ def gen_metadata(file_path):
     file_summary = {method: [] for method in methods}
 
     for _, row in df.iterrows():
-        candidates = party_info[f'raw_data/scotland/processed_data/{row['file'].replace(root,'')}']['party_dict']
-        parties = party_info[f'raw_data/scotland/processed_data/{row['file'].replace(root,'')}']['parties']
+        candidates = party_info[f'raw_data/scotland/processed_data/{row["file"].replace(root,"")}']['party_dict']
+        parties = party_info[f'raw_data/scotland/processed_data/{row["file"].replace(root,"")}']['parties']
         #candidates = party_info[f'{row['file']}']['party_dict']
         #parties = party_info[f'{row['file']}']['parties']
 
@@ -80,7 +82,7 @@ def gen_metadata(file_path):
 
 # gen_metadata('america')
 # gen_metadata('australia')
-METHOD = 'mention_score'
-file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/tiebreaker/mention/scotland_results_top4.csv'  # Replace with file path
+
+file_path = f'/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_last/scotland_results_top4.csv'  # Replace with file path
 gen_metadata(file_path)
 # gen_metadata('civs')
