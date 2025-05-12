@@ -2,53 +2,15 @@ import pandas as pd
 import os
 import json
 
-borda_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/fringe/borda_scores/scotland_borda_scores.json'
-mention_file =  '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/fringe/mention_scores/scotland_mention_scores.json'
-first_place_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/scotland_first_place_ranks.json'
+borda_file = '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/fringe/borda_scores/scotland_borda_scores.json'
+mention_file =  '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/fringe/mention_scores/scotland_mention_scores.json'
+first_place_file = '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/scotland_first_place_ranks.json'
 
-with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/metadata/party_breakdown.json') as file:
+with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/metadata/party_breakdown.json') as file:
     party_breakdown = json.load(file)
-
-def get_condensed_cands(filepath, filename, method):
-    if method == 'borda':
-        with open(borda_file) as file:
-            scores = json.load(file)
-    elif method == 'mention':
-        with open(mention_file) as file:
-            scores = json.load(file)
-    elif method == 'first_place':
-        with open(first_place_file) as file:
-            scores = json.load(file)
-
-    party_info = party_breakdown[filepath]
-    candidate_dict = party_info['party_dict']
-
-    # get corresponding scores for filename
-    if filename in scores:
-        candidate_scores = scores[filename]
-    else:
-        if filename == '3_dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv':
-            new_filename = ['Ward3-Dalkeith_ward_3_dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv']
-        elif filename == 'dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv':
-            new_filename = ['Ward6-MidlothianSouth_ward_6_midlothian_south_dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv']
-        else:
-            new_filename = [f for f in scores if f.endswith(filename)]
-
-        candidate_scores = scores[new_filename[0]]
-    
-    if candidate_scores:
-        grouped_by_party = {i: [j[0] for j in j] for i, j in groupby(sorted(candidate_dict.items(), key = lambda x : x[1]), lambda x : x[1])}
-        cands_to_keep = set()
-        for party in grouped_by_party.values():
-            keep = [i for i in candidate_dict.keys() if candidate_scores[i] == max(candidate_scores[title] for title in party)]
-            cands_to_keep.update(keep)
-    else:
-        return None
-
-    return list(cands_to_keep)
     
 def run_on_files(condense_method, data_dir):
-    output_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/vote_split/metadata/{condense_method}.json'
+    output_file = f'/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/vote_split/metadata/first_place_votes/{condense_method}.json'
 
     data = {}
 
@@ -79,7 +41,7 @@ def run_on_files(condense_method, data_dir):
                         else:
                             cand_first_count = 0
 
-                        pct_of_total[candidate] = round(cand_first_count / total_votes * 100, 2)
+                        pct_of_total[candidate] = cand_first_count / total_votes
 
                     pct_of_total = {k: v for k, v in sorted(pct_of_total.items(), key=lambda item: item[1], reverse=True)}
                     data[full_path.replace(data_dir + '/','')] = pct_of_total
@@ -87,6 +49,45 @@ def run_on_files(condense_method, data_dir):
     with open(output_file, "w") as f:
         json.dump(data, f, indent=4)
 
-condense_method = f'first_place_condense_scotland'
-data_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_place_score/processed_data'
-run_on_files(condense_method, data_dir)
+# condense_method = f'first_place_condense_scotland'
+# data_dir = '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_place_score/processed_data'
+
+# data_dirs = ['/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/condensed_elections/borda_score/processed_data',
+#              '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/condensed_elections/mention_score/processed_data',
+#              '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/condensed_elections/first_place_score/processed_data',
+#              '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/condensed_elections/borda_tiebreaker/processed_data',
+#              '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/condensed_elections/mention_tiebreaker/processed_data',
+#              '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/condensed_elections/first_place_tiebreaker/processed_data',
+#              '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/condensed_elections/keep_first_mentioned',
+#              '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/condensed_elections/keep_last_mentioned',
+#              '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/america/processed_data',
+#              '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/australia/processed_data',
+#              '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data']
+
+# condense_methods = ['borda_score_scotland',
+#                     'mention_score_scotland',
+#                     'first_place_score_scotland',
+#                     'borda_tiebreaker_scotland',
+#                     'mention_tiebreaker_scotland',
+#                     'first_place_tiebreaker_scotland',
+#                     'keep_first_scotland',
+#                     'keep_last_scotland',
+#                     'uncondensed_america',
+#                     'uncondensed_australia',
+#                     'uncondensed_scotland']
+
+condense_methods = {'/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/condensed_elections/borda_score/processed_data': 'borda_score_scotland',
+                    '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/condensed_elections/mention_score/processed_data': 'mention_score_scotland',
+                    '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/condensed_elections/first_place_score/processed_data': 'first_place_score_scotland',
+                    '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/condensed_elections/borda_tiebreaker/processed_data': 'borda_tiebreaker_scotland',
+                    '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/condensed_elections/mention_tiebreaker/processed_data': 'mention_tiebreaker_scotland',
+                    '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/condensed_elections/first_place_tiebreaker/processed_data': 'first_place_tiebreaker_scotland',
+                    '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/condensed_elections/keep_first_mentioned': 'keep_first_scotland',
+                    '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/condensed_elections/keep_last_mentioned': 'keep_last_scotland',
+                    '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/america/processed_data': 'uncondensed_america',
+                    '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/australia/processed_data': 'uncondensed_australia',
+                    '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data': 'uncondensed_scotland',}
+
+for k in condense_methods:
+    print(condense_methods[k])
+    run_on_files(condense_methods[k],k)

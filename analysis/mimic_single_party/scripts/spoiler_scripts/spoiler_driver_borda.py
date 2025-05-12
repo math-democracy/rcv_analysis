@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/Users/student/Desktop/MyPythonCode/rcv_proposal')
+sys.path.append('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal')
 import main_methods as mm
 import multiprocessing
 import csv
@@ -9,7 +9,7 @@ from itertools import groupby
 
 METHOD = 'borda'
 
-root = '/Users/student/Desktop/MyPythonCode/rcv_proposal'
+root = '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal'
 
 data_file = f'{root}/analysis/mimic_single_party/methods/{METHOD}_score/spoiler/scotland_results.csv'
 root_dir = './raw_data/scotland/processed_data'
@@ -158,9 +158,19 @@ def process_file(full_path, filename):
 
 def main():
     # loop through data files
+    files = ['Ward8-CumnockandNewCumnock_Ward8.csv',
+            'Ward9-DoonValley_Ward9.csv',
+            'Ward5-KilmarnockSouth_Ward5.csv',
+            'Ward4-KilmarnockEastandHurlford_Ward4.csv',
+            'Ward7-Ballochmyle_Ward7.csv',
+            'Ward6-IrvineValley_Ward6.csv',
+            'for_Ward_9_Johnstone_North_Kilbarchan_Howwood_and_Lochwinnoch_copy.csv',
+            'Ward1-BanffandDistrict_ward1.csv',
+            'Ward5‐NewtonMearnsSouthandEaglesham_ward5_copy.csv',
+            'Ward08-IrvineEast_Preference-Profile-Irvine-East_copy.csv']
     for dirpath, dirnames, filenames in os.walk(root_dir):
         for filename in filenames:
-            if filename.endswith('.blt') or filename.endswith('.csv') or filename.endswith('.txt'):
+            if filename in files and (filename.endswith('.blt') or filename.endswith('.csv') or filename.endswith('.txt')):
                 full_path = os.path.join(dirpath, filename)
 
                 # ensure that if it runs for more than x seconds, kill the process

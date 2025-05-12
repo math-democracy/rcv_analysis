@@ -22,11 +22,11 @@
             "borda-avg": 52,
             "IRV": 51,
             "smith": 3,
-            "minimax": 3,
             "ranked-pairs": 3,
+            "minimax": 3,
+            "smith_irv": 3,
             "smith_plurality": 3,
             "smith-minimax": 3,
-            "smith_irv": 3,
             "approval": 3,
             "condorcet": 3
         },
@@ -2158,35 +2158,6 @@
                 }
             }
         ],
-        "n-ayrshire22/Ward08-IrvineEast_Preference-Profile-Irvine-East_copy.csv": [
-            {
-                "candidate_removed": "Ross COLLINS (Grn)",
-                "changes": {
-                    "borda-avg": {
-                        "baseline_winner": "['Marie BURNS (SNP)']",
-                        "new_winner": "['Nairn MCDONALD (Labour and Co-operative Party)']"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "\fBarry Keith JACKSON (LD)",
-                "changes": {
-                    "borda-om": {
-                        "baseline_winner": "['Nairn MCDONALD (Labour and Co-operative Party)']",
-                        "new_winner": "['Marie BURNS (SNP)']"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "Angela STEPHEN (Con)",
-                "changes": {
-                    "borda-om": {
-                        "baseline_winner": "['Nairn MCDONALD (Labour and Co-operative Party)']",
-                        "new_winner": "['Marie BURNS (SNP)']"
-                    }
-                }
-            }
-        ],
         "n-ayrshire22/Ward01-NorthCoast_Preference-Profile-North-Coast_copy.csv": [
             {
                 "candidate_removed": "Wendy LOW-THOMSON (Ind)",
@@ -3411,35 +3382,6 @@
                 }
             }
         ],
-        "renfs22/for_Ward_9_Johnstone_North_Kilbarchan_Howwood_and_Lochwinnoch_copy.csv": [
-            {
-                "candidate_removed": "Heather HUDSON (Grn)",
-                "changes": {
-                    "top-two": {
-                        "baseline_winner": "['Chris GILMOUR (Lab)']",
-                        "new_winner": "['Andy DOIG (Ind)']"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "Emma RODDEN (SNP)",
-                "changes": {
-                    "top-two": {
-                        "baseline_winner": "['Chris GILMOUR (Lab)']",
-                        "new_winner": "['Andy DOIG (Ind)']"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "\fLouise REID (Con)",
-                "changes": {
-                    "top-two": {
-                        "baseline_winner": "['Chris GILMOUR (Lab)']",
-                        "new_winner": "['Andy DOIG (Ind)']"
-                    }
-                }
-            }
-        ],
         "renfs22/Preference_profile_for_Ward_5_Paisley_East_and_Central_copy.csv": [
             {
                 "candidate_removed": "Athol BOND (Grn)",
@@ -3788,52 +3730,6 @@
                     "top-3-truncation": {
                         "baseline_winner": "['George CARR (Con)']",
                         "new_winner": "['Kevin STELFOX (SNP)']"
-                    }
-                }
-            }
-        ],
-        "aberdeenshire22/Ward1-BanffandDistrict_ward1.csv": [
-            {
-                "candidate_removed": " Neil WOODWARD(Grn) ",
-                "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "[' John Barclay COX(Ind) ']",
-                        "new_winner": "[' Glen David REYNOLDS (SNP) ']"
-                    },
-                    "borda-om": {
-                        "baseline_winner": "[' Glen David REYNOLDS (SNP) ']",
-                        "new_winner": "[' John Barclay COX(Ind) ']"
-                    },
-                    "borda-avg": {
-                        "baseline_winner": "[' Glen David REYNOLDS (SNP) ']",
-                        "new_winner": "[' John Barclay COX(Ind) ']"
-                    }
-                }
-            },
-            {
-                "candidate_removed": " Sandy LESLIES cottish (LD) ",
-                "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "[' John Barclay COX(Ind) ']",
-                        "new_winner": "[' Glen David REYNOLDS (SNP) ']"
-                    }
-                }
-            },
-            {
-                "candidate_removed": " James Andrew LOW(Lab) ",
-                "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "[' John Barclay COX(Ind) ']",
-                        "new_winner": "[' Glen David REYNOLDS (SNP) ']"
-                    }
-                }
-            },
-            {
-                "candidate_removed": " Iain Ronald Mc La chlan CAMERON (Alba) ",
-                "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "[' John Barclay COX(Ind) ']",
-                        "new_winner": "[' Glen David REYNOLDS (SNP) ']"
                     }
                 }
             }
@@ -10455,17 +10351,6 @@
                 }
             }
         ],
-        "e-renfs22/Ward5\u2010NewtonMearnsSouthandEaglesham_ward5_copy.csv": [
-            {
-                "candidate_removed": "Paul EDLIN (Con)",
-                "changes": {
-                    "borda-om": {
-                        "baseline_winner": "['Andrew ANDERSON (Lab)']",
-                        "new_winner": "['Caroline BAMFORTH (SNP)']"
-                    }
-                }
-            }
-        ],
         "e-renfs22/Ward4\u2010ClarkstonNetherleeandWilliamwood_ward4_copy.csv": [
             {
                 "candidate_removed": "Colette WALKER Independence for Scotland Party (UNKNOWN)",
@@ -10788,17 +10673,6 @@
                 }
             }
         ],
-        "e-ayrshire22/Ward6-IrvineValley_Ward6.csv": [
-            {
-                "candidate_removed": "Susan MCFADZEAN (Con) ",
-                "changes": {
-                    "borda-om": {
-                        "baseline_winner": "['Kevin MCGREGOR (Labour and Co-operative Party) ']",
-                        "new_winner": "['Beverley Michele CLARK (SNP) ']"
-                    }
-                }
-            }
-        ],
         "e-ayrshire22/Ward3-KilmarnockWestandCrosshouse_Ward3.csv": [
             {
                 "candidate_removed": "James ADAMS (Con)",
@@ -10860,6 +10734,132 @@
                     "top-3-truncation": {
                         "baseline_winner": "['Stephen CANNING (SNP)']",
                         "new_winner": "['John MCGHEE (Lab)']"
+                    }
+                }
+            }
+        ],
+        "n-ayrshire22/Ward08-IrvineEast_Preference-Profile-Irvine-East_copy.csv": [
+            {
+                "candidate_removed": "Ross COLLINS (Grn)",
+                "changes": {
+                    "borda-avg": {
+                        "baseline_winner": "['Marie BURNS (SNP)']",
+                        "new_winner": "['Nairn MCDONALD (Labour and Co-operative Party)']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "\fBarry Keith JACKSON (LD)",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['Nairn MCDONALD (Labour and Co-operative Party)']",
+                        "new_winner": "['Marie BURNS (SNP)']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Angela STEPHEN (Con)",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['Nairn MCDONALD (Labour and Co-operative Party)']",
+                        "new_winner": "['Marie BURNS (SNP)']"
+                    }
+                }
+            }
+        ],
+        "renfs22/for_Ward_9_Johnstone_North_Kilbarchan_Howwood_and_Lochwinnoch_copy.csv": [
+            {
+                "candidate_removed": "Heather HUDSON (Grn)",
+                "changes": {
+                    "top-two": {
+                        "baseline_winner": "['Chris GILMOUR (Lab)']",
+                        "new_winner": "['Andy DOIG (Ind)']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Emma RODDEN (SNP)",
+                "changes": {
+                    "top-two": {
+                        "baseline_winner": "['Chris GILMOUR (Lab)']",
+                        "new_winner": "['Andy DOIG (Ind)']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "\fLouise REID (Con)",
+                "changes": {
+                    "top-two": {
+                        "baseline_winner": "['Chris GILMOUR (Lab)']",
+                        "new_winner": "['Andy DOIG (Ind)']"
+                    }
+                }
+            }
+        ],
+        "aberdeenshire22/Ward1-BanffandDistrict_ward1.csv": [
+            {
+                "candidate_removed": " Neil WOODWARD(Grn) ",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "[' John Barclay COX(Ind) ']",
+                        "new_winner": "[' Glen David REYNOLDS (SNP) ']"
+                    },
+                    "borda-om": {
+                        "baseline_winner": "[' Glen David REYNOLDS (SNP) ']",
+                        "new_winner": "[' John Barclay COX(Ind) ']"
+                    },
+                    "borda-avg": {
+                        "baseline_winner": "[' Glen David REYNOLDS (SNP) ']",
+                        "new_winner": "[' John Barclay COX(Ind) ']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": " James Andrew LOW(Lab) ",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "[' John Barclay COX(Ind) ']",
+                        "new_winner": "[' Glen David REYNOLDS (SNP) ']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": " Sandy LESLIES cottish (LD) ",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "[' John Barclay COX(Ind) ']",
+                        "new_winner": "[' Glen David REYNOLDS (SNP) ']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": " Iain Ronald Mc La chlan CAMERON (Alba) ",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "[' John Barclay COX(Ind) ']",
+                        "new_winner": "[' Glen David REYNOLDS (SNP) ']"
+                    }
+                }
+            }
+        ],
+        "e-renfs22/Ward5\u2010NewtonMearnsSouthandEaglesham_ward5_copy.csv": [
+            {
+                "candidate_removed": "Paul EDLIN (Con)",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['Andrew ANDERSON (Lab)']",
+                        "new_winner": "['Caroline BAMFORTH (SNP)']"
+                    }
+                }
+            }
+        ],
+        "e-ayrshire22/Ward6-IrvineValley_Ward6.csv": [
+            {
+                "candidate_removed": "Susan MCFADZEAN (Con) ",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['Kevin MCGREGOR (Labour and Co-operative Party) ']",
+                        "new_winner": "['Beverley Michele CLARK (SNP) ']"
                     }
                 }
             }

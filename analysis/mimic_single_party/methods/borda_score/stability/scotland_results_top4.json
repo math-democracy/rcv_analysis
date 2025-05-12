@@ -9,7 +9,7 @@
             "borda-pm": 39,
             "borda-om": 100,
             "borda-avg": 29,
-            "top-3-truncation": 84,
+            "top-3-truncation": 83,
             "condorcet": 1,
             "minimax": 1,
             "smith": 1,
@@ -63,7 +63,6 @@
                 "raw_data/scotland/processed_data/highland17-ballots/Ward1-North,WestandCentralSutherland_highland17-01.csv",
                 "raw_data/scotland/processed_data/highland17-ballots/Ward5-WesterRoss,StrathpefferandLochalsh_highland17-05.csv",
                 "raw_data/scotland/processed_data/perth-kinross12-ballots/Kinross-shire_perth-kinross12-08.csv",
-                "raw_data/scotland/processed_data/renfs22/for_Ward_9_Johnstone_North_Kilbarchan_Howwood_and_Lochwinnoch_copy.csv",
                 "raw_data/scotland/processed_data/argyll-bute17-ballots/KintyreandtheIslands_argyll-bute17-02.csv",
                 "raw_data/scotland/processed_data/n-ayrshire17-ballots/DalryandWestKilbride_n-ayrshire17-06.csv",
                 "raw_data/scotland/processed_data/aberdeenshire22/v0001_ward-18-stonehaven-and-lower-deeside_06052022_172124.csv",
@@ -80,7 +79,8 @@
                 "raw_data/scotland/processed_data/fife17-ballots/Ward3-DunfermlineCentral_fife17-03.csv",
                 "raw_data/scotland/processed_data/dumgal12-ballots/CastleDouglasandGlenkensWard_dumgal12-05.csv",
                 "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv",
-                "raw_data/scotland/processed_data/n-ayrshire12-ballots/Ward03-Kilwinning_n-ayrshire12-03.csv"
+                "raw_data/scotland/processed_data/n-ayrshire12-ballots/Ward03-Kilwinning_n-ayrshire12-03.csv",
+                "raw_data/scotland/processed_data/renfs22/for_Ward_9_Johnstone_North_Kilbarchan_Howwood_and_Lochwinnoch_copy.csv"
             ],
             "borda-pm": [
                 "raw_data/scotland/processed_data/glasgow12/Ward11Hillhead_glasgow12-11.csv",
@@ -95,7 +95,6 @@
                 "raw_data/scotland/processed_data/s-lanarks17-ballots/Ward5-AvondaleandStonehouse_s-lanarks17-05.csv",
                 "raw_data/scotland/processed_data/angus22/Ward3-ForfarandDistrict_ward3.csv",
                 "raw_data/scotland/processed_data/w-lothian22/Ward4-LivingstonSouth_west lothian,2022,ward 4.csv",
-                "raw_data/scotland/processed_data/aberdeenshire22/Ward1-BanffandDistrict_ward1.csv",
                 "raw_data/scotland/processed_data/aberdeenshire22/preferenceprofile_v0001_ward-10-west-garioch_06052022_172124.csv",
                 "raw_data/scotland/processed_data/aberdeenshire22/v0001_ward-16-banchory-and-mid-deeside_06052022_172124.csv",
                 "raw_data/scotland/processed_data/highland22/PreferenceProfile_V0001_Inverness_South_06052022_161540.csv",
@@ -121,7 +120,8 @@
                 "raw_data/scotland/processed_data/aberdeen2012/Ward8-GeorgeStreet-Harbour_aberdeen12-08.csv",
                 "raw_data/scotland/processed_data/fife17-ballots/Ward4-DunfermlineSouth_fife17-04.csv",
                 "raw_data/scotland/processed_data/fife17-ballots/Ward9-Burntisland,Kinghorn&WesternKirkcaldy_fife17-09.csv",
-                "raw_data/scotland/processed_data/w-duns17-ballots/Leven_w-duns17-02.csv"
+                "raw_data/scotland/processed_data/w-duns17-ballots/Leven_w-duns17-02.csv",
+                "raw_data/scotland/processed_data/aberdeenshire22/Ward1-BanffandDistrict_ward1.csv"
             ],
             "borda-om": [
                 "raw_data/scotland/processed_data/dumgal17-ballots/DeeandGlenkens_dumgal17-03.csv",
@@ -145,7 +145,6 @@
                 "raw_data/scotland/processed_data/sc-borders22/Ward6-MidBerwickshire_sc borders,2022,ward 6.csv",
                 "raw_data/scotland/processed_data/e-duns17-ballots/BishopbriggsNorthandCampsie_e-duns17-04.csv",
                 "raw_data/scotland/processed_data/n-ayrshire22/Ward04-Arran_Preference-Profile-Arran_copy.csv",
-                "raw_data/scotland/processed_data/n-ayrshire22/Ward08-IrvineEast_Preference-Profile-Irvine-East_copy.csv",
                 "raw_data/scotland/processed_data/highland17-ballots/Ward8-DingwallandSeaforth_highland17-08.csv",
                 "raw_data/scotland/processed_data/highland17-ballots/Ward1-North,WestandCentralSutherland_highland17-01.csv",
                 "raw_data/scotland/processed_data/s-lanarks17-ballots/Ward9-EastKilbrideWest_s-lanarks17-09.csv",
@@ -157,7 +156,6 @@
                 "raw_data/scotland/processed_data/argyll-bute17-ballots/KintyreandtheIslands_argyll-bute17-02.csv",
                 "raw_data/scotland/processed_data/argyll-bute17-ballots/ObanSouthandtheIsles_argyll-bute17-04.csv",
                 "raw_data/scotland/processed_data/shetland17/Ward1-NorthIsles_shetland17-01.csv",
-                "raw_data/scotland/processed_data/aberdeenshire22/Ward1-BanffandDistrict_ward1.csv",
                 "raw_data/scotland/processed_data/aberdeenshire22/preferenceprofile_v0001_ward-4-central-buchan_06052022_172124.csv",
                 "raw_data/scotland/processed_data/aberdeenshire22/ward-14-huntly-strathbogie-and-howe-of-alford_06052022_172124.csv",
                 "raw_data/scotland/processed_data/aberdeenshire22/preferenceprofile_v0001_ward-10-west-garioch_06052022_172124.csv",
@@ -223,7 +221,9 @@
                 "raw_data/scotland/processed_data/aberdeen2022/LowerDeesideWard_Ward9.csv",
                 "raw_data/scotland/processed_data/e-ayrshire22/Ward1-Annick_Ward1.csv",
                 "raw_data/scotland/processed_data/midlothian22/dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv",
-                "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv"
+                "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv",
+                "raw_data/scotland/processed_data/n-ayrshire22/Ward08-IrvineEast_Preference-Profile-Irvine-East_copy.csv",
+                "raw_data/scotland/processed_data/aberdeenshire22/Ward1-BanffandDistrict_ward1.csv"
             ],
             "borda-avg": [
                 "raw_data/scotland/processed_data/glasgow12/Ward11Hillhead_glasgow12-11.csv",
@@ -234,7 +234,6 @@
                 "raw_data/scotland/processed_data/s-lanarks17-ballots/Ward12-RutherglenCentralandNorth_s-lanarks17-12.csv",
                 "raw_data/scotland/processed_data/eilean-siar12-ballots/SteornabhaghaTuath_eilean-siar12-07.csv",
                 "raw_data/scotland/processed_data/argyll-bute17-ballots/LomondNorth_argyll-bute17-09.csv",
-                "raw_data/scotland/processed_data/aberdeenshire22/Ward1-BanffandDistrict_ward1.csv",
                 "raw_data/scotland/processed_data/edinburgh22/Ward2-PentlandHills_ward2.csv",
                 "raw_data/scotland/processed_data/stirling22/preferenceprofile_v0001_ward-2-forth-and-endrick_06052022_124253.csv",
                 "raw_data/scotland/processed_data/s-lanarks22/ward_18_hamilton_west_and_earnock_preference_profile.csv",
@@ -254,7 +253,8 @@
                 "raw_data/scotland/processed_data/orkney17-ballots/KirkwallEastWard_orkney17-01.csv",
                 "raw_data/scotland/processed_data/aberdeen2012/Ward8-GeorgeStreet-Harbour_aberdeen12-08.csv",
                 "raw_data/scotland/processed_data/n-lanarks12-ballots/Ward2CumbernauldNorth_n-lanarks12-02.csv",
-                "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv"
+                "raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv",
+                "raw_data/scotland/processed_data/aberdeenshire22/Ward1-BanffandDistrict_ward1.csv"
             ],
             "top-3-truncation": [
                 "raw_data/scotland/processed_data/dumgal17-ballots/AnnandaleSouth_dumgal17-10.csv",
@@ -292,7 +292,6 @@
                 "raw_data/scotland/processed_data/argyll-bute17-ballots/KintyreandtheIslands_argyll-bute17-02.csv",
                 "raw_data/scotland/processed_data/n-ayrshire17-ballots/IrvineSouth_n-ayrshire17-10.csv",
                 "raw_data/scotland/processed_data/aberdeenshire22/preferenceprofile_v0001_ward-19-mearns_06052022_172124.csv",
-                "raw_data/scotland/processed_data/aberdeenshire22/Ward1-BanffandDistrict_ward1.csv",
                 "raw_data/scotland/processed_data/aberdeenshire22/preferenceprofile_v0001_ward-10-west-garioch_06052022_172124.csv",
                 "raw_data/scotland/processed_data/edinburgh22/Ward2-PentlandHills_ward2.csv",
                 "raw_data/scotland/processed_data/edinburgh22/Ward4-Forth_ward4.csv",
@@ -1929,32 +1928,6 @@
                 "SFP": 1
             }
         },
-        "raw_data/scotland/processed_data/n-ayrshire22/Ward08-IrvineEast_Preference-Profile-Irvine-East_copy.csv": {
-            "changes": {
-                "borda-om": {
-                    "numCands": 6,
-                    "baseline_winner": "['Nairn MCDONALD (Labour and Co-operative Party)']",
-                    "top4": "['Marie BURNS (SNP)']"
-                }
-            },
-            "candidates": {
-                "Ross COLLINS (Grn)": "Grn",
-                "\fBarry Keith JACKSON (LD)": "LD",
-                "Nairn MCDONALD (Labour and Co-operative Party)": "Labour and Co-operative Party",
-                "Susan JOHNSON (SNP)": "SNP",
-                "Angela STEPHEN (Con)": "Con",
-                "Marie BURNS (SNP)": "SNP",
-                "Karin CRAIG (SFP)": "SFP"
-            },
-            "parties": {
-                "Grn": 1,
-                "LD": 1,
-                "Labour and Co-operative Party": 1,
-                "SNP": 2,
-                "Con": 1,
-                "SFP": 1
-            }
-        },
         "raw_data/scotland/processed_data/n-ayrshire22/Ward01-NorthCoast_Preference-Profile-North-Coast_copy.csv": {
             "changes": {
                 "borda-pm": {
@@ -2749,33 +2722,6 @@
                 "Lab": 1
             }
         },
-        "raw_data/scotland/processed_data/renfs22/for_Ward_9_Johnstone_North_Kilbarchan_Howwood_and_Lochwinnoch_copy.csv": {
-            "changes": {
-                "top-two": {
-                    "numCands": 6,
-                    "baseline_winner": "['Chris GILMOUR (Lab)']",
-                    "top4": "['Andy DOIG (Ind)']"
-                }
-            },
-            "candidates": {
-                "Chris GILMOUR (Lab)": "Lab",
-                "Gillian GRAHAM (Lab)": "Lab",
-                "Andy DOIG (Ind)": "Andy DOIG (Ind)",
-                "Emma RODDEN (SNP)": "SNP",
-                "Andrew JACKSON (LD)": "LD",
-                "Graeme STOCKTON (SNP)": "SNP",
-                "Heather HUDSON (Grn)": "Grn",
-                "\fLouise REID (Con)": "Con"
-            },
-            "parties": {
-                "Lab": 2,
-                "Ind": 1,
-                "SNP": 2,
-                "LD": 1,
-                "Grn": 1,
-                "Con": 1
-            }
-        },
         "raw_data/scotland/processed_data/argyll-bute17-ballots/Dunoon_argyll-bute17-07.csv": {
             "changes": {
                 "borda-om": {
@@ -3000,49 +2946,6 @@
                 "UNKNOWN": 1,
                 "SFP": 1,
                 "Grn": 1
-            }
-        },
-        "raw_data/scotland/processed_data/aberdeenshire22/Ward1-BanffandDistrict_ward1.csv": {
-            "changes": {
-                "borda-pm": {
-                    "numCands": 8,
-                    "baseline_winner": "[' John Barclay COX(Ind) ']",
-                    "top4": "[' Glen David REYNOLDS (SNP) ']"
-                },
-                "borda-om": {
-                    "numCands": 8,
-                    "baseline_winner": "[' Glen David REYNOLDS (SNP) ']",
-                    "top4": "[' John Barclay COX(Ind) ']"
-                },
-                "borda-avg": {
-                    "numCands": 8,
-                    "baseline_winner": "[' Glen David REYNOLDS (SNP) ']",
-                    "top4": "[' John Barclay COX(Ind) ']"
-                },
-                "top-3-truncation": {
-                    "numCands": 8,
-                    "baseline_winner": "[' Glen David REYNOLDS (SNP) ']",
-                    "top4": "[' John Barclay COX(Ind) ']"
-                }
-            },
-            "candidates": {
-                " Glen David REYNOLDS (SNP) ": "SNP",
-                " Stewart ADAMS(Con) ": "Con",
-                " John Barclay COX(Ind) ": " John Barclay COX(Ind) ",
-                " Neil WOODWARD(Grn) ": "Grn",
-                " James Andrew LOW(Lab) ": "Lab",
-                " Sandy LESLIES cottish (LD) ": "LD",
-                " Iain Ronald Mc La chlan CAMERON (Alba) ": "Alba",
-                " Mike ROY(Ind) ": " Mike ROY(Ind) "
-            },
-            "parties": {
-                "SNP": 1,
-                "Con": 1,
-                "Ind": 2,
-                "Grn": 1,
-                "Lab": 1,
-                "LD": 1,
-                "Alba": 1
             }
         },
         "raw_data/scotland/processed_data/aberdeenshire22/preferenceprofile_v0001_ward-4-central-buchan_06052022_172124.csv": {
@@ -7284,6 +7187,97 @@
                 "Con": 1,
                 "SNP": 2
             }
+        },
+        "raw_data/scotland/processed_data/n-ayrshire22/Ward08-IrvineEast_Preference-Profile-Irvine-East_copy.csv": {
+            "changes": {
+                "borda-om": {
+                    "numCands": 6,
+                    "baseline_winner": "['Nairn MCDONALD (Labour and Co-operative Party)']",
+                    "top4": "['Marie BURNS (SNP)']"
+                }
+            },
+            "candidates": {
+                "Ross COLLINS (Grn)": "Grn",
+                "\fBarry Keith JACKSON (LD)": "LD",
+                "Nairn MCDONALD (Labour and Co-operative Party)": "Labour and Co-operative Party",
+                "Susan JOHNSON (SNP)": "SNP",
+                "Angela STEPHEN (Con)": "Con",
+                "Marie BURNS (SNP)": "SNP",
+                "Karin CRAIG (SFP)": "SFP"
+            },
+            "parties": {
+                "Grn": 1,
+                "LD": 1,
+                "Labour and Co-operative Party": 1,
+                "SNP": 2,
+                "Con": 1,
+                "SFP": 1
+            }
+        },
+        "raw_data/scotland/processed_data/renfs22/for_Ward_9_Johnstone_North_Kilbarchan_Howwood_and_Lochwinnoch_copy.csv": {
+            "changes": {
+                "top-two": {
+                    "numCands": 6,
+                    "baseline_winner": "['Chris GILMOUR (Lab)']",
+                    "top4": "['Andy DOIG (Ind)']"
+                }
+            },
+            "candidates": {
+                "Chris GILMOUR (Lab)": "Lab",
+                "Gillian GRAHAM (Lab)": "Lab",
+                "Andy DOIG (Ind)": "Andy DOIG (Ind)",
+                "Emma RODDEN (SNP)": "SNP",
+                "Andrew JACKSON (LD)": "LD",
+                "Graeme STOCKTON (SNP)": "SNP",
+                "Heather HUDSON (Grn)": "Grn",
+                "\fLouise REID (Con)": "Con"
+            },
+            "parties": {
+                "Lab": 2,
+                "Ind": 1,
+                "SNP": 2,
+                "LD": 1,
+                "Grn": 1,
+                "Con": 1
+            }
+        },
+        "raw_data/scotland/processed_data/aberdeenshire22/Ward1-BanffandDistrict_ward1.csv": {
+            "changes": {
+                "borda-pm": {
+                    "numCands": 8,
+                    "baseline_winner": "[' John Barclay COX(Ind) ']",
+                    "top4": "[' Glen David REYNOLDS (SNP) ']"
+                },
+                "borda-om": {
+                    "numCands": 8,
+                    "baseline_winner": "[' Glen David REYNOLDS (SNP) ']",
+                    "top4": "[' John Barclay COX(Ind) ']"
+                },
+                "borda-avg": {
+                    "numCands": 8,
+                    "baseline_winner": "[' Glen David REYNOLDS (SNP) ']",
+                    "top4": "[' John Barclay COX(Ind) ']"
+                }
+            },
+            "candidates": {
+                " Glen David REYNOLDS (SNP) ": "SNP",
+                " Stewart ADAMS(Con) ": "Con",
+                " John Barclay COX(Ind) ": " John Barclay COX(Ind) ",
+                " Neil WOODWARD(Grn) ": "Grn",
+                " James Andrew LOW(Lab) ": "Lab",
+                " Sandy LESLIES cottish (LD) ": "LD",
+                " Iain Ronald Mc La chlan CAMERON (Alba) ": "Alba",
+                " Mike ROY(Ind) ": " Mike ROY(Ind) "
+            },
+            "parties": {
+                "SNP": 1,
+                "Con": 1,
+                "Ind": 2,
+                "Grn": 1,
+                "Lab": 1,
+                "LD": 1,
+                "Alba": 1
+            }
         }
     },
     "stable_elections": [
@@ -8124,7 +8118,6 @@
         "raw_data/scotland/processed_data/w-duns22/Ward1-Lomond_west dunbartonshire,2022,ward 1.csv",
         "raw_data/scotland/processed_data/w-duns22/Ward3-Dumbarton_west dunbartonshire,2022,ward 3.csv",
         "raw_data/scotland/processed_data/w-duns22/Ward4-Kilpatrick_west dunbartonshire,2022,ward 4.csv",
-        "raw_data/scotland/processed_data/e-renfs22/Ward5\u2010NewtonMearnsSouthandEaglesham_ward5_copy.csv",
         "raw_data/scotland/processed_data/e-renfs22/Ward3\u2010GiffnockandThornliebank_ward3_copy.csv",
         "raw_data/scotland/processed_data/e-renfs22/Ward1\u2010BarrheadLibosideandUplawmoor_ward1_copy.csv",
         "raw_data/scotland/processed_data/w-duns17-ballots/Kilpatrick_w-duns17-04.csv",
@@ -8169,14 +8162,15 @@
         "raw_data/scotland/processed_data/w-lothian12-ballots/Broxburn,UphallandWinchburgh_w-lothian12-02.csv",
         "raw_data/scotland/processed_data/w-lothian12-ballots/Linlithgow_w-lothian12-01.csv",
         "raw_data/scotland/processed_data/w-lothian12-ballots/ArmadaleandBlackridge_w-lothian12-09.csv",
-        "raw_data/scotland/processed_data/e-ayrshire22/Ward6-IrvineValley_Ward6.csv",
         "raw_data/scotland/processed_data/e-ayrshire22/Ward3-KilmarnockWestandCrosshouse_Ward3.csv",
+        "raw_data/scotland/processed_data/e-ayrshire22/Ward2-KilmarnockNorth_Ward2.csv",
+        "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv",
+        "raw_data/scotland/processed_data/e-renfs22/Ward5\u2010NewtonMearnsSouthandEaglesham_ward5_copy.csv",
+        "raw_data/scotland/processed_data/e-ayrshire22/Ward6-IrvineValley_Ward6.csv",
         "raw_data/scotland/processed_data/e-ayrshire22/Ward4-KilmarnockEastandHurlford_Ward4.csv",
         "raw_data/scotland/processed_data/e-ayrshire22/Ward7-Ballochmyle_Ward7.csv",
         "raw_data/scotland/processed_data/e-ayrshire22/Ward8-CumnockandNewCumnock_Ward8.csv",
         "raw_data/scotland/processed_data/e-ayrshire22/Ward9-DoonValley_Ward9.csv",
-        "raw_data/scotland/processed_data/e-ayrshire22/Ward2-KilmarnockNorth_Ward2.csv",
-        "raw_data/scotland/processed_data/e-ayrshire22/Ward5-KilmarnockSouth_Ward5.csv",
-        "raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv"
+        "raw_data/scotland/processed_data/e-ayrshire22/Ward5-KilmarnockSouth_Ward5.csv"
     ]
 }

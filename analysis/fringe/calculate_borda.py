@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal')
+sys.path.append('./ranked_choice_voting/rcv_proposal')
 from main_methods import v_profile, Borda_AVG_Return_Full, Borda_OM_Return_Full, Borda_PM_Return_Full
 # from david_methods import Borda_AVG_Return_Full
 import os

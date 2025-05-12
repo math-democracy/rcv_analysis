@@ -85,7 +85,7 @@ def run(country):
     plt.xticks(r + width/2,methods,rotation=40) 
     plt.title("Num Elections with Spoiler Effect After Condensed by Various Methods")
     plt.legend() 
-    plt.savefig(f'{country}.png')
+    plt.savefig(f'{country}_spoiler_graph_all_methods.png')
 
 # run('america')
 # run('australia')

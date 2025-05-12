@@ -4,9 +4,13 @@ import re
 from collections import defaultdict
 import ast
 
-METHOD = 'keep_last'
-file_path = f'/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/{METHOD}/spoiler/scotland_results.csv'  # Replace with your actual file path
-og = f'/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/{METHOD}/scotland_current.csv'
+METHOD = 'mention'
+file_path = f'/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/{METHOD}_score/spoiler/scotland_results.csv'
+og = f'/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/{METHOD}_score/scotland_current.csv'
+
+# METHOD = 'keep_last'
+# file_path = f'/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/{METHOD}/spoiler/scotland_results.csv'  # Replace with your actual file path
+# og = f'/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/{METHOD}/scotland_current.csv'
 
 #METHOD = 'borda'
 #file_path = f'/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/tiebreaker/{METHOD}/spoiler/scotland_results.csv'
