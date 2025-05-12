@@ -516,6 +516,80 @@ def Smith(
 
     return elected
 
+def Condorcet_Loser(
+    prof: Union[PreferenceProfile, str],
+    cands_to_keep: Optional[list] = None,
+    tiebreak: Optional[str] = None
+):
+    if type(prof)==str:
+        prof = v_profile(prof)
+
+    if not cands_to_keep:
+        cands_to_keep = prof.candidates
+    if 'skipped' in cands_to_keep:## remove 'skipped' from cands_to_keep
+        cands_to_keep = list(filter(lambda c: c != 'skipped', cands_to_keep))
+
+    prof = process_cands(prof, cands_to_keep)
+    
+    cands = prof.candidates
+    cand_pairs = combinations(cands, 2)
+    
+    def head2head_count(cand_a: str, cand_b: str):
+        count = 0
+        bal = prof.ballots
+        for b in bal:
+            rank_list = b.ranking
+            for s in rank_list:
+                if cand_a in s:
+                    count += b.weight
+                    break
+                elif cand_b in s:
+                    break
+        return count
+
+    pairwise_dict = { a:{c:0 for c in cands if c!=a} for a in cands}
+    for (a,c) in cand_pairs:
+        if head2head_count(a,c)<head2head_count(c,a):##a beats c
+            pairwise_dict[a][c] = 1
+        elif head2head_count(a,c)==head2head_count(c,a): ##a and c are tied
+            pairwise_dict[a][c] = 0.5
+            pairwise_dict[c][a] = 0.5
+        else:
+            pairwise_dict[c][a] = 1 ##c beats a
+    
+    
+    copeland_scores = {a: sum(pairwise_dict[a].values()) for a in cands}
+    copeland_order = [a for (a,_) in sorted(copeland_scores.items(), key = lambda x: x[1], reverse = True)]
+    
+    loser = copeland_order[0]
+
+    if copeland_scores[loser] == len(cands) - 1:
+        return set([loser])
+    
+    return None
+    # max_copeland = copeland_scores[copeland_order[0]]
+    # first_non_smith = len(copeland_order)
+    # l = len(copeland_order)
+    # first_non_smith = 1
+    # while first_non_smith<l:
+    #     if copeland_scores[copeland_order[first_non_smith]]!=max_copeland:
+    #         break
+    #     first_non_smith=first_non_smith+1
+        
+    # while first_non_smith<l:
+    #     lower_rows = [k for k in range(first_non_smith,l) if sum(pairwise_dict[copeland_order[k]][copeland_order[i]] for i in range(first_non_smith))!=0]##k is in this set if and only if kth candidate is at least tied with someone in the current smith set
+    #     if lower_rows == []:
+    #         break
+    #     else:
+    #         j = max(lower_rows)
+    #         first_non_smith = max([i for i in range(j,l) if copeland_scores[copeland_order[i]]==copeland_scores[copeland_order[j]]])+1
+    # elected = set(copeland_order[:first_non_smith])
+
+
+    # if len(elected)>1:
+    #     elected = set()
+    # return elected
+
 #Smith Plurality
 def Smith_Plurality(
     #filename: str
