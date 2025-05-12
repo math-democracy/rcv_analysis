@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal')
+sys.path.append('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal')
 import main_methods as mm
 import votekit.elections as vk
 import pandas as pd
@@ -9,11 +9,11 @@ import os
 
 num_cands_to_keep = 4
 
-data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_last/scotland_results_top{num_cands_to_keep}.csv'
-root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_last/processed_data'
+data_file = f'/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_last/scotland_results_top{num_cands_to_keep}.csv'
+root_dir = '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/condensed_elections/keep_last_mentioned/processed_data'
 
-error_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_last/supporting_files/scotland_error.txt'
-processed_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_last/supporting_files/scotland_processed.txt'
+error_file = '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_last/supporting_files/scotland_error.txt'
+processed_file = '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_last/supporting_files/scotland_processed.txt'
 all_data = []
 
 processed = []
@@ -57,7 +57,7 @@ def run_voting_methods(full_path):
     candidates = list(v.candidates)
     num_cands = len([x for x in candidates if x != 'skipped'])
 
-    data = {'file': full_path.replace('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/', '')}
+    data = {'file': full_path.replace('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/', '')}
     grouped_data = []
 
     data['numCands'] = num_cands

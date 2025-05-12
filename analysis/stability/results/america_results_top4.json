@@ -1,7 +1,7 @@
 {
     "metadata": {
         "total_elections": 577,
-        "elections_with_changes": 36,
+        "elections_with_changes": 37,
         "method_counts": {
             "plurality": 9,
             "IRV": 0,
@@ -9,9 +9,10 @@
             "borda-pm": 10,
             "borda-om": 9,
             "borda-avg": 6,
-            "top-3-truncation": 12,
+            "top-3-truncation": 8,
             "condorcet": 0,
             "minimax": 0,
+            "smith": 0,
             "smith_plurality": 0,
             "smith_irv": 0,
             "smith-minimax": 0,
@@ -70,21 +71,18 @@
                 "raw_data/america/processed_data/New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv"
             ],
             "top-3-truncation": [
-                "raw_data/america/processed_data/Alaska/Alaska_11052024_US_House.csv",
                 "raw_data/america/processed_data/Minneapolis/Minneapolis_11072017_ParkBoardAtLarge.csv",
-                "raw_data/america/processed_data/Portland, ME/Portland_06082021_charter_commission_at_large.csv",
-                "raw_data/america/processed_data/Utah cities/Moab_11022021_CityCouncil.csv",
-                "raw_data/america/processed_data/APA/APA 2009.csv",
+                "raw_data/america/processed_data/Alameda County/Oakland_11082022_Mayor.csv",
+                "raw_data/america/processed_data/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict11.csv",
+                "raw_data/america/processed_data/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict1.csv",
                 "raw_data/america/processed_data/New York City/NewYorkCity_06222021_DEMComptrollerCitywide.csv",
-                "raw_data/america/processed_data/New York City/NewYorkCity_06222021_DEMCouncilMember9thCouncilDistrict.csv",
-                "raw_data/america/processed_data/New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv",
                 "raw_data/america/processed_data/Cambridge, MA/Cambridge_11072017_CityCouncil.csv",
-                "raw_data/america/processed_data/Cambridge, MA/Cambridge_11032015_CityCouncil.csv",
                 "raw_data/america/processed_data/Cambridge, MA/Cambridge_11082005_CityCouncil.csv",
                 "raw_data/america/processed_data/Cambridge, MA/Cambridge_11082005_SchoolCommittee.csv"
             ],
             "condorcet": [],
             "minimax": [],
+            "smith": [],
             "smith_plurality": [],
             "smith_irv": [],
             "smith-minimax": [],
@@ -1086,11 +1084,6 @@
         "raw_data/america/processed_data/Alaska/Alaska_11052024_US_House.csv": {
             "changes": {
                 "borda-avg": {
-                    "numCands": 5,
-                    "baseline_winner": "['Begich, Nick']",
-                    "top4": "['Peltola, Mary S.']"
-                },
-                "top-3-truncation": {
                     "numCands": 5,
                     "baseline_winner": "['Begich, Nick']",
                     "top4": "['Peltola, Mary S.']"
@@ -2110,11 +2103,6 @@
                     "baseline_winner": "['Sheikh-Yousef, Nasreen A.']",
                     "top4": "['Chann, Marpheen S.']"
                 },
-                "top-3-truncation": {
-                    "numCands": 11,
-                    "baseline_winner": "['Sheikh-Yousef, Nasreen A.']",
-                    "top4": "['Chann, Marpheen S.']"
-                },
                 "bucklin": {
                     "numCands": 11,
                     "baseline_winner": "['Sheikh-Yousef, Nasreen A.']",
@@ -2366,13 +2354,7 @@
             }
         },
         "raw_data/america/processed_data/Utah cities/Moab_11022021_CityCouncil.csv": {
-            "changes": {
-                "top-3-truncation": {
-                    "numCands": 6,
-                    "baseline_winner": "['JASON TAYLOR']",
-                    "top4": "['LUKE WOJCIECHOWSKI']"
-                }
-            },
+            "changes": {},
             "candidates": {
                 "JASON TAYLOR": 696,
                 "JOSIE KOVASH": 458,
@@ -2773,11 +2755,6 @@
         },
         "raw_data/america/processed_data/APA/APA 2009.csv": {
             "changes": {
-                "top-3-truncation": {
-                    "numCands": 5,
-                    "baseline_winner": "['Cand 4']",
-                    "top4": "['Cand 0']"
-                },
                 "bucklin": {
                     "numCands": 5,
                     "baseline_winner": "['Cand 0']",
@@ -3009,6 +2986,11 @@
         "raw_data/america/processed_data/Alameda County/Oakland_11082022_Mayor.csv": {
             "changes": {
                 "borda-pm": {
+                    "numCands": 11,
+                    "baseline_winner": "['SHENG THAO']",
+                    "top4": "['LOREN MANUEL TAYLOR']"
+                },
+                "top-3-truncation": {
                     "numCands": 11,
                     "baseline_winner": "['SHENG THAO']",
                     "top4": "['LOREN MANUEL TAYLOR']"
@@ -4340,7 +4322,13 @@
             }
         },
         "raw_data/america/processed_data/San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict11.csv": {
-            "changes": {},
+            "changes": {
+                "top-3-truncation": {
+                    "numCands": 5,
+                    "baseline_winner": "['AHSHA SAFAI']",
+                    "top4": "['KIM ALVARENGA']"
+                }
+            },
             "candidates": {
                 "AHSHA SAFAI": 9466,
                 "KIM ALVARENGA": 8670,
@@ -4903,7 +4891,13 @@
             }
         },
         "raw_data/america/processed_data/San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict1.csv": {
-            "changes": {},
+            "changes": {
+                "top-3-truncation": {
+                    "numCands": 10,
+                    "baseline_winner": "['ERIC MAR']",
+                    "top4": "['SUE LEE']"
+                }
+            },
             "candidates": {
                 "ERIC MAR": 11649,
                 "SUE LEE": 9753,
@@ -5469,11 +5463,6 @@
                     "numCands": 14,
                     "baseline_winner": "['Kristin Richardson Jordan']",
                     "top4": "['Bill Perkins']"
-                },
-                "top-3-truncation": {
-                    "numCands": 14,
-                    "baseline_winner": "['Bill Perkins']",
-                    "top4": "['Kristin Richardson Jordan']"
                 }
             },
             "candidates": {
@@ -5532,11 +5521,6 @@
         "raw_data/america/processed_data/New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv": {
             "changes": {
                 "borda-avg": {
-                    "numCands": 6,
-                    "baseline_winner": "['Marko Kepi']",
-                    "top4": "['David M. Carr']"
-                },
-                "top-3-truncation": {
                     "numCands": 6,
                     "baseline_winner": "['Marko Kepi']",
                     "top4": "['David M. Carr']"
@@ -6105,11 +6089,6 @@
                     "numCands": 24,
                     "baseline_winner": "['Simmons, E. Denise']",
                     "top4": "['Mazen, Nadeem A.']"
-                },
-                "top-3-truncation": {
-                    "numCands": 24,
-                    "baseline_winner": "['Mazen, Nadeem A.']",
-                    "top4": "['Simmons, E. Denise']"
                 }
             },
             "candidates": {
@@ -6237,24 +6216,6 @@
                 "Write-In 1": 1
             }
         },
-        "raw_data/america/processed_data/Corvallis, OR/Corvallis_11082022_CityCouncilWard9.csv": {
-            "changes": {},
-            "candidates": {
-                "Tony Cadena": 1065,
-                "Nyssa Towsley": 806,
-                "Cliff Feldman": 543,
-                "Write-in": 15
-            }
-        },
-        "raw_data/america/processed_data/Corvallis, OR/Corvallis_11082022_Mayor.csv": {
-            "changes": {},
-            "candidates": {
-                "Charles Maughan": 7886,
-                "Andrew Struthers": 7123,
-                "Roen Hogg": 5508,
-                "Write-in": 175
-            }
-        },
         "raw_data/america/processed_data/New Mexico/LasCruces_11052019_COUNCILORPOSITION2CITYOFLASCRUCESDISTRICT2COUNCILOR.csv": {
             "changes": {},
             "candidates": {
@@ -6309,6 +6270,24 @@
                 "JESUSITA DOLORES LUCERO": 426,
                 "JORGE SANCHEZ": 210,
                 "ALEXANDER PAIGE FRESQUEZ": 106
+            }
+        },
+        "raw_data/america/processed_data/Corvallis, OR/Corvallis_11082022_CityCouncilWard9.csv": {
+            "changes": {},
+            "candidates": {
+                "Tony Cadena": 1065,
+                "Nyssa Towsley": 806,
+                "Cliff Feldman": 543,
+                "Write-in": 15
+            }
+        },
+        "raw_data/america/processed_data/Corvallis, OR/Corvallis_11082022_Mayor.csv": {
+            "changes": {},
+            "candidates": {
+                "Charles Maughan": 7886,
+                "Andrew Struthers": 7123,
+                "Roen Hogg": 5508,
+                "Write-in": 175
             }
         }
     }
