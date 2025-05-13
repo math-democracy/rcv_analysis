@@ -3,6 +3,10 @@ from typing import Optional, Union
 import networkx as nx
 from itertools import combinations
 import random
+import sys
+import pandas as pd
+import pickle
+from fractions import Fraction
 #-------------------------------------------------------------------------------------------
 #import os
 #import sys
@@ -44,6 +48,49 @@ def v_profile(
         to_remove: list = ["undervote", "overvote", "UWI","uwi"]
     )-> PreferenceProfile:
     return remove_noncands(new_loader(filename)[0], to_remove)
+
+# to process parquet file
+
+def v_profile_from_parq(df):
+    ## THE FOLLOWING IS TAKEN DIRECTLY FROM HELPER?NEW_CSV_LOADER
+    # check if df is empty
+    if df.empty:
+        sys.exit("Dataset cannot be empty")
+
+    ranks = list(x for x in df.columns if str(x)[:4] == "rank")
+    # num_seats = 1
+
+    # if seats_col:
+    #     num_seats = df.iloc[0,seats_col] ##might need to change based on the num seats column 
+    
+    df = df.loc[:,ranks]
+    grouped = df.groupby(ranks, dropna=False)
+    ballots = []
+
+    for group, group_df in grouped:
+        ranking = tuple(
+            [frozenset({None}) if pd.isnull(c) else frozenset({str(c)}) for c in group]
+        )
+        voter_set = None
+        # if id_col is not None:
+        #     voter_set = set(str(group_df.iloc[:, id_col]))
+        weight = len(group_df)
+        # if weight_col is not None:
+        #     weight = sum(group_df.iloc[:, weight_col])
+        b = Ballot(ranking=ranking, weight=Fraction(weight), voter_set=voter_set)
+        ballots.append(b)
+
+    # remove noncads and return profile
+    to_remove = ["undervote", "overvote", "UWI","uwi"]  
+    return remove_noncands(PreferenceProfile(ballots=tuple(ballots)), to_remove)
+
+def process_parquet(file, model_to_select):
+    df = pd.read_parquet(file, engine='pyarrow')
+    filtered_df = df[df['model'] == model_to_select].copy()
+    filtered_df['profile'] = filtered_df['profile'].apply(lambda x: pickle.loads(x) if isinstance(x, bytes) else x)
+    filtered_df.reset_index(inplace=True)
+
+    return filtered_df
 
 #pref_voting
 #def p_profile(filename):
