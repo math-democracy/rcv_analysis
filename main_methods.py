@@ -7,6 +7,8 @@ import sys
 import pandas as pd
 import pickle
 from fractions import Fraction
+import re
+import csv
 #-------------------------------------------------------------------------------------------
 #import os
 #import sys
@@ -42,6 +44,7 @@ def process_cands(
 #profile conversion for both votekit and pref_voting packages
 #--------------------------------------------------------------------------------------------------------------------------------------------------#
 
+
 #votekit
 def v_profile(
         filename: str, 
@@ -49,8 +52,7 @@ def v_profile(
     )-> PreferenceProfile:
     return remove_noncands(new_loader(filename)[0], to_remove)
 
-# to process parquet file
-
+# helper methods to process parquet file
 def v_profile_from_parq(df):
     ## THE FOLLOWING IS TAKEN DIRECTLY FROM HELPER?NEW_CSV_LOADER
     # check if df is empty
@@ -84,6 +86,58 @@ def v_profile_from_parq(df):
     to_remove = ["undervote", "overvote", "UWI","uwi"]  
     return remove_noncands(PreferenceProfile(ballots=tuple(ballots)), to_remove)
 
+# matt's code for processing parquet file
+def get_cces(path, model):
+    cand_names=['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+                'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
+                'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
+                'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+    num_cands = int(path[path.find('cands')-1])
+    
+    # print('reading parquet')
+
+    df = pd.read_parquet(path, engine='pyarrow')
+
+    # print('getting model df')
+
+    model_to_select=model
+    #Now filter the dataframe by the model you want, and unpickle the preference profiles
+    model_df = df[df['model'] == model_to_select].copy()
+    model_df['profile'] = model_df['profile'].apply(lambda x: pickle.loads(x) if isinstance(x, bytes) else x)
+    model_df.reset_index(inplace=True)
+
+    # print('getting profile')
+
+    lxn_list = []
+    for i in range(len(model_df)):
+    # for i in range(100):
+        lxn_df = model_df.at[i, 'profile']
+        ballot_list = []
+        count_list = []
+        for j in range(len(lxn_df)):
+            count_list.append(lxn_df.at[j, 'Count'])
+            ballot = ''
+            for k in range(1,6):
+                try:
+                    if lxn_df.at[j, 'rank'+str(k)]=='skipped':
+                        # print('break1')
+                        # print(k)
+                        break
+                    else:
+                        ballot += cand_names[int(lxn_df.at[j, 'rank'+str(k)])]
+                except:
+                    # print('break2')
+                    # print(k)
+                    break
+            ballot_list.append(ballot)
+
+        df_dict = {'ballot': ballot_list, 'Count': count_list}
+        profile = pd.DataFrame(df_dict)
+
+        lxn_list.append([i, profile, num_cands])
+        
+    return lxn_list
+
 def process_parquet(file, model_to_select):
     df = pd.read_parquet(file, engine='pyarrow')
     filtered_df = df[df['model'] == model_to_select].copy()
@@ -91,6 +145,58 @@ def process_parquet(file, model_to_select):
     filtered_df.reset_index(inplace=True)
 
     return filtered_df
+
+def parquet_df_to_scotland_files(df, filename):
+    candidates = sorted(set("".join(df['ballot'].tolist())))
+
+    with open(filename, 'w') as f:
+        f.write(f"{len(candidates)} 1\n")  
+        for _, row in df.iterrows():
+            count = row['Count']
+            ranks = " ".join(row['ballot'])  
+            f.write(f"{count} {ranks} 0\n")
+        f.write("0\n")
+
+def scotland_to_america(filename, out_filename):
+    with open(filename, 'r') as file:
+        lines = [line.strip() for line in file if line.strip()]
+
+
+    lines = [re.sub(r',\s*$', '', line) for line in lines] #to deal with , at the end of csv files
+    
+    metadata = lines[0].split()
+    num_candidates, num_positions = int(metadata[0]), int(metadata[1])
+    
+    ballots = []
+    i = 1
+    while lines[i].strip() != "0":
+        ballot_line = lines[i].strip()
+        ballots.append(list(map(str, ballot_line.split())))
+        i += 1
+    
+    ranks = ["rank" + str(i + 1) for i in range(num_candidates)]
+
+    voter_id = 0
+    all_votes = []
+    for ballot in ballots:
+        for voter in range(int(ballot[0])):
+            c = {"voterId": voter_id}
+            c.update({rank: "skipped" for rank in ranks})
+            for index, vote in enumerate(ballot[1:-1]):
+                c[ranks[index]] = vote
+            c['numSeats'] = num_positions
+            c['numCands'] = num_candidates
+            voter_id += 1
+            all_votes.append(c)
+    
+    keys = all_votes[0].keys()
+
+    with open(out_filename, mode='w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(keys)
+        for vote in all_votes:
+            row = [vote.get(key, '') for key in keys]
+            writer.writerow(row)
 
 #pref_voting
 #def p_profile(filename):
