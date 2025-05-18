@@ -53,8 +53,9 @@ def v_profile(
     return remove_noncands(new_loader(filename)[0], to_remove)
 
 # helper methods to process parquet file
+# helper methods to process parquet file
 def v_profile_from_parq(df):
-    ## THE FOLLOWING IS TAKEN DIRECTLY FROM HELPER?NEW_CSV_LOADER
+    ## THE FOLLOWING IS TAKEN DIRECTLY FROM HELPER/NEW_CSV_LOADER
     # check if df is empty
     if df.empty:
         sys.exit("Dataset cannot be empty")
@@ -65,7 +66,7 @@ def v_profile_from_parq(df):
     # if seats_col:
     #     num_seats = df.iloc[0,seats_col] ##might need to change based on the num seats column 
     
-    df = df.loc[:,ranks]
+    #df = df.loc[:,ranks]
     grouped = df.groupby(ranks, dropna=False)
     ballots = []
 
@@ -76,13 +77,17 @@ def v_profile_from_parq(df):
         voter_set = None
         # if id_col is not None:
         #     voter_set = set(str(group_df.iloc[:, id_col]))
-        weight = len(group_df)
+        if len(group_df) == 1:
+            weight = list(group_df['Count'])[0]
+        else:
+            sys.exit(f'something is wrong... expected 1 row in pref profile, but got {len(group_df)}')
+
         # if weight_col is not None:
         #     weight = sum(group_df.iloc[:, weight_col])
         b = Ballot(ranking=ranking, weight=Fraction(weight), voter_set=voter_set)
         ballots.append(b)
 
-    # remove noncads and return profile
+    # remove noncands and return profile
     to_remove = ["undervote", "overvote", "UWI","uwi"]  
     return remove_noncands(PreferenceProfile(ballots=tuple(ballots)), to_remove)
 
