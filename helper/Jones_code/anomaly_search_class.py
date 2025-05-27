@@ -24,6 +24,17 @@ from ballot_modifications_class import *
 ## 
 
 
+
+def remove_zero_values(input_dict): #written by Gemini
+  """
+  Removes key-value pairs from a dictionary where the value is 0.
+  Args:
+    input_dict: A dictionary with letter keys and numerical values.
+  Returns:
+    A new dictionary with key-value pairs where the value is not 0.
+  """
+  return {key: value for key, value in input_dict.items() if value != 0}
+
 ###############################################################################
 ##### Anomaly search algorithms
 ##### general_search works with all election methods
@@ -543,9 +554,248 @@ def frac_noShowPR(profile, num_cands, vote_frac, diagnostic=False):
 ###############################################################################
 ###############################################################################
 
-def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamlined version (really only works for IRV)
+def frac_downMonoPR(profile, num_cands, vote_frac, diagnostic=False): # (for Plurality Runoff)
     """inputs: name of election, dataframe of election, voting method
     runs election to find winners/hopefuls/losers, then identifies and makes vote swaps to find 
+    downward monotonicity anomalies connected to change in dropout order.  
+    Returns if an anomaly exists, and how anomaly happens"""
+    
+    # profileX, cands = prefProfileInput1(filename)
+    
+    if vote_frac != 1:
+        print('##########################')
+        print('WARNING:')
+        print('downMonoPR only works for vote_frac of 1 right now')
+        print('##########################')
+    
+    n = num_cands 
+    cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+                  'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
+                  'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
+                  'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+    cands = cand_names[:num_cands]
+    
+    profile1 = profile.copy(deep=True)
+    
+    winners = plurality_runoff(profile1, cands, diagnostic=False) [0]
+    
+    W = winners[0]
+    
+    r1scores = {cand: 0.0 for cand in cands}
+    
+    for k in range(len(profile)):
+        ballot = profile.at[k, 'ballot']
+        if (len(ballot)>0) and (ballot[0] in cands):
+            r1scores[ballot[0]] += profile.at[k, 'Count']
+    
+    ## keep two candidates with highest scores
+    cands.sort(key=lambda cand: r1scores[cand], reverse = True)
+    top_three_cands = cands[:3]
+    #print("top three cands are " + str(top_three_cands))
+    if (n == 2) or (n == 1) or (W not in top_three_cands):
+        if diagnostic:
+            print(n)
+            print(W)
+            print(top_three_cands)
+            print("Not enough candidates or Winner not in top three, something went wrong in election ")
+    else:
+        C = cands[2]
+        for x in top_three_cands:
+            if (x != W) and (x != C):
+                B = x
+        if (r1scores[W]-r1scores[C])>=(r1scores[B]-r1scores[W]):
+            if diagnostic:
+                print(" No downward anomaly because W-C >= B-W." )
+        else:
+            gap = r1scores[W]-r1scores[C]
+            profile2 = profile.copy(deep=True)
+            newFrameThird = downwardIndivCheck(profile2, gap, B, C)
+            newWins = plurality_runoff(newFrameThird, cands, diagnostic=False)[0]
+            if B in newWins:
+                if diagnostic:
+                    print("")
+                    print(" DOWNWARD MONOTONICITY ANOMALY for " + B +". "  + 
+                          "Change " + str(gap +1) + B+ C + "__ and maybe bullet votes to " + 
+                          C + B + "__ and " + B + " becomes a winner." )
+                    print("Original winner was " + str(W))
+                    print("New winner is " + str(B))
+                    print("")
+                    print("")
+                
+                return [W, B, []]
+
+            else:
+                if diagnostic:
+                    print("No anomaly for " + B+" after modifying "+ str(gap +1) + " votes from "+ 
+                          B+ C + "__ to " + C + B+"__. ")
+                if len(cands)>3:
+                    if diagnostic:
+                        print("trying 4th")
+                    D = cands[3]
+                    if (r1scores[W]-r1scores[D])>=(r1scores[B]-r1scores[W]):
+                        if diagnostic:
+                            print(" No downward anomaly because W-D > B-W." )
+                    else:
+                        gap = r1scores[W]-r1scores[D]
+                        newFrameFourth = downwardIndivCheck(profile, gap, B, D)
+                        newWins = plurality_runoff(newFrameFourth, cands, diagnostic=False)[0] 
+                        if B in newWins:
+                            if diagnostic:
+                                print("")
+                                print(" DOWNWARD MONOTONICITY ANOMALY for " + B +". "  + 
+                                      "Change " + str(gap +1) + B+ D + "__ and maybe bullet votes to " + 
+                                      D + B + "__ and " + B + " becomes a winner." )
+                                print("Original winner was " + str(W))
+                                print("New winner is " + str(B))
+                                print("")
+                                print("")
+                            return [W, B, []]
+                        else:
+                            if len(cands)>4:
+                                if diagnostic:
+                                    print("trying 5th")
+                                E = cands[4]
+                                if (r1scores[W]-r1scores[E])<=(r1scores[B]-r1scores[W]):
+                                    if diagnostic:
+                                        print(" No downward anomaly because W-E > B-W." )
+                                else:
+                                    gap = r1scores[W]-r1scores[E]
+                                    profile4 = profile.copy(deep=True)
+                                    newFrameFifth = downwardIndivCheck(profile4, gap, B, E)
+                                    newWins = plurality_runoff(newFrameFifth, cands, diagnostic=False)[0]
+                                    if B in newWins:
+                                        if diagnostic:
+                                            print("")
+                                            print(" DOWNWARD MONOTONICITY ANOMALY for " + B +". "  + 
+                                                  "Change " + str(gap +1) + B+ E + "__ and maybe bullet votes to " + 
+                                                  E + B + "__ and " + B + " becomes a winner." )
+                                            print("Original winner was " + str(W))
+                                            print("New winner is " + str(B))
+                                            print("")
+                                            print("")
+                                        return [W, B, []]
+                                    else:
+                                        if len(cands)>5:
+                                            F = cands[5]
+                                            if (r1scores[W]-r1scores[F])<(r1scores[B]-r1scores[W]):
+                                                if diagnostic:
+                                                    print(" No downward anomaly because W-F > B-W." )
+                                            else:
+                                                if diagnostic:
+                                                    print("")
+                                                    print("")
+                                                    print("")
+                                                    print(" OMG I never thought that this would happen.  ")
+                                                    print("We are on the 6th candidate!!!!!")
+                                                    print("")
+                                                    print("")
+                                                gap = r1scores[W]-r1scores[F]
+                                                newFrameSixth = downwardIndivCheck(profile, gap, B, F)
+                                                newWins = plurality_runoff(newFrameSixth, cands, diagnostic=False)[0]
+                                                if B in newWins:
+                                                    if diagnostic:
+                                                        print("")
+                                                        print(" DOWNWARD MONOTONICITY ANOMALY for " + B +". "  + 
+                                                              "Change " + str(gap +1) + B+ F + "__ and maybe bullet votes to " + 
+                                                              F + B + "__ and " + B + " becomes a winner." )
+                                                        print("Original winner was " + str(W))
+                                                        print("New winner is " + str(B))
+                                                        print("")
+                                                        print("")
+                                                    return [W, B, []]
+                        
+    return []
+    
+
+#### helper function for downMonoPR
+def downwardIndivCheck(frame1, gap, winnerB, loser): 
+    """Inputs preference profile, vote gap, 2nd-place winnerB, 
+    and loser.  Program makes ballot modifications to move winnerB below loser, returns modified profile"""
+
+    tempFrame1 = frame1.copy(deep=True)
+    modifiableVotes1 = 0 #modifiableVotes= sum of all ballots that start with C_k L
+    for z in range(len(tempFrame1)):
+        currentBallot = tempFrame1.at[z,'ballot']
+        try:
+            currentBallot[1]
+        except: 
+            continue
+        else:
+            if currentBallot[0]==winnerB and currentBallot[1]==loser:
+                modifiableVotes1 += tempFrame1.at[z,'Count']
+    #print("Modifiable votes are " + str(modifiableVotes1) + " and gap is " + str(gap))
+    if modifiableVotes1 > gap:
+        check = copy.deepcopy(gap)
+        for z in range(len(tempFrame1)):
+            if check>=0:
+                currentBallot = tempFrame1.at[z,'ballot']
+                try:
+                    currentBallot[1]
+                except: 
+                    continue
+                else:
+                    if currentBallot[0]==winnerB and currentBallot[1]==loser:
+                        if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
+                            tempFrame1.at[z,'ballot'] = swapOneTwo(tempFrame1.at[z,'ballot'])
+                            check = check - tempFrame1.at[z,'Count']
+                        else: #modify only check+1 such ballots
+                            tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)
+                            #now add new line to frame with modified ballot
+                            tempFrame1.loc[len(tempFrame1)] = [swapOneTwo(tempFrame1.at[z,'ballot']), check+1]
+                            check = -1
+                    else:
+                        pass
+        return tempFrame1
+    else: # modify all modifiableVotes C_k L votes in reduced_df to become L C_k 
+        for z in range(len(tempFrame1)):
+            currentBallot = tempFrame1.at[z,'ballot']
+            try:
+                currentBallot[1]
+            except: 
+                continue
+            else:
+                if currentBallot[0]== winnerB and currentBallot[1]== loser:
+                    tempFrame1.at[z,'ballot'] = swapOneTwo(tempFrame1.at[z,'ballot'])
+                    gap = gap - tempFrame1.at[z,'Count']
+
+        #CHECK THE BULLET VOTES
+        modifiableVotesBullet1 = 0 # = sum of all bullet votes w/ length 1
+        for z in range(len(tempFrame1)):
+            currentBallot = tempFrame1.at[z,'ballot']
+            if len(currentBallot) == 1:
+                if currentBallot[0]==winnerB:
+                    modifiableVotesBullet1 += tempFrame1.at[z,'Count']  
+
+        if modifiableVotesBullet1 > gap: 
+            check = copy.deepcopy(gap)
+            for z in range(len(tempFrame1)):
+                if check>=0:
+                    currentBallot = tempFrame1.at[z,'ballot']
+                    if len(currentBallot) == 1:
+                        if currentBallot[0]==winnerB:
+                            if check - tempFrame1.at[z,'Count']>=0: #modify all such ballots
+                                tempFrame1.at[z,'ballot'] = swapOneLoser(tempFrame1.at[z,'ballot'], loser)
+                                check = check - tempFrame1.at[z,'Count']
+
+                            else: #modify only check+1 such ballots
+                                #take check+1 ballots from current ballot
+                                tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
+                                #make new ballot with winner moved up, add line to election frame with check+1 as count
+                                tempFrame1.loc[len(tempFrame1)] = [swapOneLoser(tempFrame1.at[z,'ballot'], loser), check+1]
+                                check = -1
+                        else:
+                            pass
+            return tempFrame1
+        else: 
+            print("No downward anomaly because not enough votes to modify.")
+            return tempFrame1
+        
+###############################################################################
+###############################################################################
+
+def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamlined version (really only works for IRV)
+    """inputs: name of election, dataframe of election, voting method
+    runs election to find winners/hopefuls/losers, then identifies and makes vote swaps to find
     downward monotonicity anomalies connected to change in dropout order.  
     Returns if an anomaly exists, and how anomaly happens"""
     # cand_List1=[] #make list of all candidates, only candidates listed in top 4 ranks
@@ -561,32 +811,32 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
                   'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
     cands = cand_names[:num_cands]
 
-    quota=math.floor(sum(profile['Count'])/(2))+1 #calculate quota   
-    
+    quota=math.floor(sum(profile['Count'])/(2))+1 #calculate quota  
+   
     winners, losers, elimFrames=IRV(profile, cands) #note that losers is list in order of dropout
     if diagnostic:
         print(winners)
         print(losers)
-        
+       
     if len(winners)>1:
         print('##### Multiple winners #####')
         return []
-        
+       
     for i in range(len(losers)):
-        #function removes i losers from original data frame, 
-        # then searches for all possible anomalies at a given level<=n, right before each "loser" is 
+        #function removes i losers from original data frame,
+        # then searches for all possible anomalies at a given level<=n, right before each "loser" is
         # eliminated.  outputs if anomaly occurs, and if so, how...could also output other information
         #print("")
         #print("Results at the " +str(n-i)+"-candidate level for Elimination Order anomaly:")
-        
+       
         #now have temporary dataframe with i losers removed, check for anomaly at (n-i)-cand level
-        tempFrame = elimFrames[i].copy(deep=True) #actual data before ith cand is removed 
+        tempFrame = elimFrames[i].copy(deep=True) #actual data before ith cand is removed
         loser = losers[i]
         removed_cands = losers[:i]
-        
+       
         if diagnostic:
             print(loser)
-        
+       
         # vote_counts={}
         vote_counts = {cand:0 for cand in cands}
         for k in range(len(tempFrame)):
@@ -595,23 +845,25 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
                     vote_counts[tempFrame.at[k,'ballot'][0]]+=tempFrame.iloc[k]['Count']
                 else:
                     vote_counts[tempFrame.at[k,'ballot'][0]]=tempFrame.iloc[k]['Count']
+        vote_counts = remove_zero_values(vote_counts)
         if diagnostic:
             print(vote_counts)
-                    
+                   
         checkables = list(vote_counts.keys())
         checkables.remove(winners[0])
         checkables.remove(loser)
+       
         if diagnostic:
             print(checkables)
-        
-        loser_gap = {} 
-        
+       
+        loser_gap = {}
+       
         for x in range(len(vote_counts)):
-            loser_gap[list(vote_counts.keys())[x]]=vote_counts[list(vote_counts.keys())[x]]-vote_counts[loser]                                                                           
+            loser_gap[list(vote_counts.keys())[x]]=vote_counts[list(vote_counts.keys())[x]]-vote_counts[loser]                                                                          
         second = get_secondLow(loser_gap) #lowest should be loser: 0
-        
+       
         gap = vote_counts[second]-vote_counts[loser]
-        
+        #print("gap is " +str(gap))
         for k in range(len(checkables)):
             if diagnostic:
                 print(checkables[k])
@@ -628,12 +880,12 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
                     currentBallot = tempFrame1.at[z,'ballot']
                     try:
                         currentBallot[1]
-                    except: 
+                    except:
                         continue
                     else:
                         if currentBallot[0]==checkables[k] and currentBallot[1]==loser:
                             modifiableVotes1 += int(tempFrame1.at[z,'Count']*vote_frac)
-                #print("Modifiable votes are " + str(modifiableVotes1) + " and gap is " + str(gap))
+                #print("Modifiable NOT bullet votes are " + str(modifiableVotes1) + " and gap is " + str(gap))
                 if modifiableVotes1 > gap:
                     check = copy.deepcopy(gap)
                     for z in range(len(tempFrame1)):
@@ -641,11 +893,12 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
                             currentBallot = tempFrame1.at[z,'ballot']
                             try:
                                 currentBallot[1]
-                            except: 
+                            except:
                                 continue
                             else:
                                 if currentBallot[0]==checkables[k] and currentBallot[1]==loser:
                                     if check - int(tempFrame1.at[z,'Count']*vote_frac)>=0: #modify all such ballots
+                                        # print('does first part')
                                         newBallot = swapOneTwo(tempFrame1.at[z,'ballot'])
                                         count = int(tempFrame1.at[z, 'Count']*vote_frac)
                                         modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
@@ -665,7 +918,7 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
                     # Run STV election on modifed election.  Check to see if W_j is in new winners list
                     # if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate level.
                     # votes modified to 1 ranking"
-                    win1, foo1, foo2 = IRV(tempFrame1, cands)#win1 = IRV_check(tempFrame1) #also try win1, thing1, thing2 = IRV(tempFrame1) 
+                    win1, foo1, foo2 = IRV(tempFrame1, cands)#win1 = IRV_check(tempFrame1) #also try win1, thing1, thing2 = IRV(tempFrame1)
                     if len(win1)>1:
                         print('##### Multiple winners #####')
                         continue
@@ -673,8 +926,8 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
                     #print("Checkable is " + str(checkables[k]))
                     if checkables[k] in win1:
                         if diagnostic:
-                            print("DOWNWARD MONOTONICITY ANOMALY for " + checkables[k]+". "  + "Change " + str(gap+1) +" "+ checkables[k]+loser + 
-                            "__ votes to " +loser + checkables[k]+ "__ and " + checkables[k] + 
+                            print("DOWNWARD MONOTONICITY ANOMALY for " + checkables[k]+". "  + "Change " + str(gap+1) +" "+ checkables[k]+loser +
+                            "__ votes to " +loser + checkables[k]+ "__ and " + checkables[k] +
                               " becomes a winner." )
                             print("Original winner was " + str(winners))
                             print("New winner is " + str(win1))
@@ -683,16 +936,17 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
                         return [winners[0], win1[0], modified_ballot_list]
                     else:
                         if diagnostic:
-                            print("No anomaly for " + checkables[k]+" after modifying "+ str(gap +1) + " votes from "+ 
+                            print("No anomaly for " + checkables[k]+" after modifying "+ str(gap +1) + " votes from "+
                                   checkables[k]+loser + "__ to " +loser + checkables[k]+"__. ")
-                        
+                       
                 else:
-                        # modify all modifiableVotes C_k L votes in reduced_df to become L C_k 
+                        # modify all modifiableVotes C_k L votes in reduced_df to become L C_k
+                    gap1 = copy.deepcopy(gap)
                     for z in range(len(tempFrame1)):
                         currentBallot = tempFrame1.at[z,'ballot']
                         try:
                             currentBallot[1]
-                        except: 
+                        except:
                             continue
                         else:
                             if currentBallot[0]==checkables[k] and currentBallot[1]==loser:
@@ -702,8 +956,21 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
                                 # tempFrame1.at[z,'ballot'] = newBallot
                                 tempFrame1.at[z, 'Count'] -= count
                                 tempFrame1 = pd.concat([tempFrame1, pd.DataFrame({'ballot': [newBallot], 'Count': [count]})], ignore_index=True)
-                                gap = gap - count
-
+                                gap1 = gap1 - count
+                    #print("now checking bullet votes")
+                    #print("gap is now " +str(gap1))
+                   
+#                     vote_counts2 = {cand:0 for cand in cands}
+#                     for m in range(len(tempFrame1)):
+#                         if tempFrame1.at[m,'ballot']!='':
+#                             if tempFrame1.at[m,'ballot'][0] in vote_counts2.keys():
+#                                 vote_counts2[tempFrame1.at[m,'ballot'][0]]+=tempFrame1.iloc[m]['Count']
+#                             else:
+#                                 vote_counts2[tempFrame1.at[m,'ballot'][0]]=tempFrame1.iloc[m]['Count']
+#                     #print('new vote count is ')
+#                     if diagnostic:
+#                         print(vote_counts2)
+                   
                     #CHECK THE BULLET VOTES
                     modifiableVotesBullet1 = 0 # = sum of all bullet votes w/ length 1
                     for z in range(len(tempFrame1)):
@@ -712,8 +979,8 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
                             if currentBallot[0]==checkables[k]:
                                 modifiableVotesBullet1 += int(tempFrame1.at[z,'Count']*vote_frac)  
                     #print("Modifiable bullet votes are " + str(modifiableVotesBullet1) + " and gap is " + str(gap))
-                    if modifiableVotesBullet1 > gap: 
-                        check = copy.deepcopy(gap)
+                    if modifiableVotesBullet1 > gap1:
+                        check = copy.deepcopy(gap1)
                         for z in range(len(tempFrame1)):
                             if check>=0:
                                 currentBallot = tempFrame1.at[z,'ballot']
@@ -730,24 +997,36 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
 
                                         else: #modify only check+1 such ballots
                                             #take check+1 ballots from current ballot
+                                            # print('does second part')
                                             tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
                                             #make new ballot with winner moved up, add line to election frame with check+1 as count
                                             newBallot = swapOneLoser(tempFrame1.at[z,'ballot'], loser)
                                             modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
                                             tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
                                             check = -1
+                                           
                                     else:
                                         pass
+#                         vote_counts1 = {cand:0 for cand in cands}
+#                         for n in range(len(tempFrame1)):
+#                             if tempFrame1.at[n,'ballot']!='':
+#                                 if tempFrame1.at[n,'ballot'][0] in vote_counts1.keys():
+#                                     vote_counts1[tempFrame1.at[n,'ballot'][0]]+=tempFrame1.iloc[n]['Count']
+#                                 else:
+#                                     vote_counts1[tempFrame1.at[n,'ballot'][0]]=tempFrame1.iloc[n]['Count']
+#                         print('new vote count is ')
+                       
+                       
                         # Run STV election on modifed election.  Check to see if C_k is in new winners list
                         # if yes, report anomaly "
-                        win1, foo1, foo2  = IRV(tempFrame1, cands)#win1 = IRV_check(tempFrame1) 
+                        win1, foo1, foo2  = IRV(tempFrame1, cands)#win1 = IRV_check(tempFrame1)
                         if len(win1)>1:
                             print('##### Multiple winners #####')
                             continue
                         if checkables[k] in win1:
                             if diagnostic:
-                                print("DOWNWARD MONOTONICITY ANOMALY for " + checkables[k]+". "  + "Change all "+ checkables[k]+loser + 
-                                "__ and  "  + str(gap+1) + " "+ checkables[k]+ " votes to " +loser + checkables[k]+ "__ and " + checkables[k] + 
+                                print("DOWNWARD MONOTONICITY ANOMALY for " + checkables[k]+". "  + "Change all "+ checkables[k]+loser +
+                                "__ and  "  + str(gap1+1) + " "+ checkables[k]+ " votes to " +loser + checkables[k]+ "__ and " + checkables[k] +
                                   " becomes a winner." )
                                 print("Original winner was " + str(winners))
                                 print("New winner is " + str(win1))
@@ -756,7 +1035,7 @@ def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamli
                             return [winners[0], win1[0], modified_ballot_list]
                         else:
                             if diagnostic:
-                                print("No anomaly for " + checkables[k] + " after modifying "+ str(gap+1) + " votes from "+ 
+                                print("No anomaly for " + checkables[k] + " after modifying "+ str(gap+1) + " votes from "+
                                       checkables[k]+loser + "__ or " +checkables[k]+ " to " +loser + checkables[k]+"__. ")
                     else:
                         if diagnostic:
