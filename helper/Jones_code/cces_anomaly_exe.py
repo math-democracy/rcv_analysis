@@ -44,9 +44,9 @@ from anomaly_search_class import *
 ###############################################################################
 ##### parameters
 ## github repo version
-# data_path = './CCES_data'
+data_path = './CCES_data'
 ## HPC version
-data_path = '/home/aschult2/Desktop/CCES_data'
+# data_path = '/home/aschult2/Desktop/CCES_data'
 frac = 1
 mp_pool_size = 6
 ###############################################################################
@@ -80,6 +80,7 @@ def get_cces(path, model):
     model_df.reset_index(inplace=True)
 
     # print('getting profile')
+    # print(len(model_df))    
 
     lxn_list = []
     for i in range(len(model_df)):

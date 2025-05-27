@@ -45,7 +45,7 @@ from anomaly_search_class import *
 ###############################################################################
 ###############################################################################
 ##### parameters
-election_group = 'civs'
+election_group = 'scotland'
 frac = 1
 mp_pool_size = 6
 ###############################################################################
@@ -125,9 +125,9 @@ def createBallotDF(list_profile, diagnostic=False):
 def get_election_data(election_location, specific_lxn=-1, diagnostic=False):
     lxns = []
     ## version for github repo
-    # base_name = '../../raw_data/preference_profiles/' + election_location
+    base_name = '../../raw_data/preference_profiles/' + election_location
     ## version for HPC
-    base_name = './data/' + election_location
+    # base_name = './data/' + election_location
 
     lxn_count = 0
     for folder_name in os.listdir(base_name):
@@ -228,6 +228,15 @@ def PR_upMonoSearch(params):
             return ['plurality_runoff', 'upMono', file_path, num_cands] + data
     
     return ['plurality_runoff', 'upMono', file_path, num_cands]
+
+def PR_downMonoSearch(params):
+    foo1, foo2, file_path, profile, num_cands = params
+    for vote_frac in vote_fracs:
+        data = frac_downMonoPR(profile, num_cands, vote_frac)
+        if data:
+            return ['plurality_runoff', 'downMono', file_path, num_cands] + data
+    
+    return ['plurality_runoff', 'downMono', file_path, num_cands]
     
 def PR_noShowSearch(params):
     foo1, foo2, file_path, profile, num_cands = params
@@ -284,6 +293,8 @@ def sort_search(params):
                 return IRV_noShowSearch(params)
             if params[0]=='plurality_runoff' and params[1]=='upMono':
                 return PR_upMonoSearch(params)
+            if params[0]=='plurality_runoff' and params[1]=='downMono':
+                return PR_downMonoSearch(params)
             if params[0]=='plurality_runoff' and params[1]=='noShow':
                 return PR_noShowSearch(params)
             if params[0]=='bucklin' and params[1]=='noShow':
@@ -334,11 +345,12 @@ for lxn_method in lxn_methods:
         combo_name = lxn_method.__name__ + '_' + ballot_mod.__name__
         ## list is file_names, num_cands, old_winner, new_winner, modified_ballots
         search_combos[combo_name] = [[], [], [], [], []]
-## adding the eight odd anomalies
+## adding the nine odd anomalies
 search_combos['IRV_upMono'] = [[], [], [], [], []]
 search_combos['IRV_downMono'] = [[], [], [], [], []]
 search_combos['IRV_noShow'] = [[], [], [], [], []]
 search_combos['plurality_runoff_upMono'] = [[], [], [], [], []]
+search_combos['plurality_runoff_downMono'] = [[], [], [], [], []]
 search_combos['plurality_runoff_noShow'] = [[], [], [], [], []]
 search_combos['bucklin_noShow'] = [[], [], [], [], []]
 search_combos['smith_plurality_noShow'] = [[], [], [], [], []]
@@ -359,6 +371,7 @@ if __name__ == '__main__':
         gen_lxn_list.append(['IRV', 'downMono']+lxn)
         gen_lxn_list.append(['IRV', 'noShow']+lxn)
         gen_lxn_list.append(['plurality_runoff', 'upMono']+lxn)
+        gen_lxn_list.append(['plurality_runoff', 'downMono']+lxn)
         gen_lxn_list.append(['plurality_runoff', 'noShow']+lxn)
         gen_lxn_list.append(['bucklin', 'noShow']+lxn)
         gen_lxn_list.append(['smith_plurality', 'noShow']+lxn)
@@ -382,6 +395,7 @@ if __name__ == '__main__':
     summary_results['IRV']['downMono'] = 0
     summary_results['IRV']['noShow'] = 0
     summary_results['plurality_runoff']['upMono'] = 0
+    summary_results['plurality_runoff']['downMono'] = 0
     summary_results['plurality_runoff']['noShow'] = 0
     summary_results['bucklin']['noShow'] = 0
     summary_results['smith_plurality']['noShow'] = 0
@@ -458,8 +472,8 @@ if __name__ == '__main__':
 # nums_times = []
 
 # anomaly_data = []
-# for i in range(len(lxn_list)):
-# # for i in [2]:
+# # for i in range(len(lxn_list)):
+# for i in [107]:
     
 #     sys.stdout.write('\r')
 #     sys.stdout.write('\r')
@@ -471,9 +485,9 @@ if __name__ == '__main__':
 #     lxn_start = time.time()
     
 #     # data = frac_general_search(profile, num_cands, plurality_runoff, strat_compromise, 1)
-#     data = frac_noShowBucklin(profile, num_cands, 1)
+#     # data = frac_noShowBucklin(profile, num_cands, 1)
 #     # data = noShowIRV(profile, num_cands)
-#     # data = frac_upMonoIRV(profile, num_cands, 1)
+#     data = frac_downMonoPR(profile, num_cands, 1)
     
 #     nums_times.append([num_cands, time.time()-lxn_start])
     
@@ -483,9 +497,6 @@ if __name__ == '__main__':
 # print(time.time()-start_time)    
 # print(len(anomaly_data))
 # print('###################################')
-
-
-
 
 
 
