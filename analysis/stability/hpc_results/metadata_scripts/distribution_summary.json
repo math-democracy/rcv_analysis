@@ -1,0 +1,47 @@
+{
+    "distribution1": {
+        "TTFF": [
+            "condorcet",
+            "minimax",
+            "smith-minimax"
+        ],
+        "FTFF": [],
+        "TFFF": [],
+        "TTTF": [
+            "condorcet"
+        ],
+        "TTFT": [],
+        "FFTF": [
+            "condorcet"
+        ],
+        "FFTT": [
+            "condorcet"
+        ]
+    },
+    "distribution2": {
+        "TTFF": [],
+        "FTFF": [],
+        "TFFF": [],
+        "TTTF": [
+            "condorcet"
+        ],
+        "TTFT": [],
+        "FFTF": [
+            "condorcet"
+        ],
+        "FFTT": []
+    },
+    "distribution3": {
+        "TTFF": [],
+        "FTFF": [],
+        "TFFF": [],
+        "TTTF": [
+            "condorcet"
+        ],
+        "TTFT": [],
+        "FFTF": [],
+        "FFTT": [
+            "condorcet"
+        ]
+    }
+}

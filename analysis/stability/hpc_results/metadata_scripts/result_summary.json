@@ -1,0 +1,751 @@
+{
+    "distribution1": {
+        "TTFF": {
+            "California": [
+                "condorcet",
+                "minimax",
+                "smith",
+                "smith-minimax"
+            ],
+            "Colorado": [
+                "borda-pm",
+                "borda-om",
+                "borda-avg",
+                "top-3-truncation",
+                "condorcet",
+                "minimax",
+                "smith-minimax",
+                "ranked-pairs",
+                "approval"
+            ],
+            "Indiana": null,
+            "Delaware": [
+                "condorcet",
+                "minimax",
+                "smith",
+                "smith_irv",
+                "smith-minimax"
+            ],
+            "Michigan": null,
+            "New York": null,
+            "Pennsylvania": null,
+            "Alabama": [
+                "condorcet",
+                "minimax",
+                "smith",
+                "smith-minimax"
+            ],
+            "North Carolina": [
+                "condorcet",
+                "minimax",
+                "smith",
+                "smith-minimax"
+            ],
+            "Nebraska": null,
+            "Washington": null,
+            "Arizona": null,
+            "Florida": null,
+            "Alaska": null,
+            "Tennessee": [],
+            "Massachusetts": [
+                "condorcet",
+                "minimax",
+                "smith",
+                "smith-minimax"
+            ],
+            "Wisconsin": [
+                "condorcet",
+                "minimax",
+                "smith",
+                "smith-minimax",
+                "ranked-pairs",
+                "approval"
+            ],
+            "North Dakota": null,
+            "Illinois": null,
+            "South Dakota": null,
+            "South Carolina": [
+                "condorcet",
+                "minimax",
+                "smith",
+                "smith-minimax"
+            ],
+            "Kentucky": null
+        },
+        "FTFF": {
+            "California": [],
+            "Colorado": [],
+            "Indiana": null,
+            "Delaware": [],
+            "Michigan": null,
+            "New York": null,
+            "Pennsylvania": null,
+            "Alabama": [],
+            "North Carolina": [],
+            "Nebraska": null,
+            "Washington": null,
+            "Arizona": null,
+            "Florida": null,
+            "Alaska": null,
+            "Tennessee": [],
+            "Massachusetts": [],
+            "Wisconsin": [],
+            "North Dakota": null,
+            "Illinois": null,
+            "South Dakota": null,
+            "South Carolina": [],
+            "Kentucky": null
+        },
+        "TFFF": {
+            "California": [],
+            "Colorado": [],
+            "Indiana": null,
+            "Delaware": [],
+            "Michigan": null,
+            "New York": null,
+            "Pennsylvania": null,
+            "Alabama": [],
+            "North Carolina": [],
+            "Nebraska": null,
+            "Washington": null,
+            "Arizona": null,
+            "Florida": null,
+            "Alaska": null,
+            "Tennessee": [],
+            "Massachusetts": [],
+            "Wisconsin": [],
+            "North Dakota": null,
+            "Illinois": null,
+            "South Dakota": null,
+            "South Carolina": [],
+            "Kentucky": null
+        },
+        "TTTF": {
+            "California": [
+                "condorcet"
+            ],
+            "Colorado": [
+                "condorcet"
+            ],
+            "Indiana": null,
+            "Delaware": [
+                "condorcet"
+            ],
+            "Michigan": null,
+            "New York": null,
+            "Pennsylvania": null,
+            "Alabama": [
+                "condorcet"
+            ],
+            "North Carolina": [
+                "condorcet"
+            ],
+            "Nebraska": null,
+            "Washington": null,
+            "Arizona": null,
+            "Florida": null,
+            "Alaska": null,
+            "Tennessee": [
+                "condorcet"
+            ],
+            "Massachusetts": [
+                "condorcet"
+            ],
+            "Wisconsin": [
+                "condorcet"
+            ],
+            "North Dakota": null,
+            "Illinois": null,
+            "South Dakota": null,
+            "South Carolina": [
+                "condorcet"
+            ],
+            "Kentucky": null
+        },
+        "TTFT": {
+            "California": [],
+            "Colorado": [],
+            "Indiana": null,
+            "Delaware": [],
+            "Michigan": null,
+            "New York": null,
+            "Pennsylvania": null,
+            "Alabama": [],
+            "North Carolina": [],
+            "Nebraska": null,
+            "Washington": null,
+            "Arizona": null,
+            "Florida": null,
+            "Alaska": null,
+            "Tennessee": [],
+            "Massachusetts": [],
+            "Wisconsin": [],
+            "North Dakota": null,
+            "Illinois": null,
+            "South Dakota": null,
+            "South Carolina": [],
+            "Kentucky": null
+        },
+        "FFTF": {
+            "California": [],
+            "Colorado": [
+                "condorcet"
+            ],
+            "Indiana": null,
+            "Delaware": [],
+            "Michigan": null,
+            "New York": null,
+            "Pennsylvania": null,
+            "Alabama": [],
+            "North Carolina": [],
+            "Nebraska": null,
+            "Washington": null,
+            "Arizona": null,
+            "Florida": null,
+            "Alaska": null,
+            "Tennessee": [],
+            "Massachusetts": [],
+            "Wisconsin": [],
+            "North Dakota": null,
+            "Illinois": null,
+            "South Dakota": null,
+            "South Carolina": [
+                "condorcet"
+            ],
+            "Kentucky": null
+        },
+        "FFTT": {
+            "California": [],
+            "Colorado": [],
+            "Indiana": null,
+            "Delaware": [],
+            "Michigan": null,
+            "New York": null,
+            "Pennsylvania": null,
+            "Alabama": [],
+            "North Carolina": [
+                "condorcet"
+            ],
+            "Nebraska": null,
+            "Washington": null,
+            "Arizona": null,
+            "Florida": null,
+            "Alaska": null,
+            "Tennessee": [],
+            "Massachusetts": [],
+            "Wisconsin": [],
+            "North Dakota": null,
+            "Illinois": null,
+            "South Dakota": null,
+            "South Carolina": [],
+            "Kentucky": null
+        }
+    },
+    "distribution2": {
+        "TTFF": {
+            "California": [
+                "borda-pm",
+                "borda-om",
+                "borda-avg",
+                "top-3-truncation",
+                "condorcet",
+                "minimax",
+                "smith",
+                "smith_plurality",
+                "smith-minimax",
+                "ranked-pairs",
+                "approval"
+            ],
+            "Colorado": [
+                "condorcet"
+            ],
+            "Indiana": null,
+            "Delaware": [],
+            "Michigan": null,
+            "New York": null,
+            "Pennsylvania": [
+                "condorcet",
+                "smith_irv"
+            ],
+            "Alabama": null,
+            "North Carolina": null,
+            "Nebraska": [
+                "condorcet",
+                "ranked-pairs",
+                "approval"
+            ],
+            "Washington": null,
+            "Arizona": null,
+            "Florida": [
+                "top-3-truncation"
+            ],
+            "Alaska": [
+                "condorcet"
+            ],
+            "Tennessee": null,
+            "Massachusetts": [
+                "condorcet",
+                "minimax",
+                "smith",
+                "smith-minimax"
+            ],
+            "Wisconsin": null,
+            "North Dakota": null,
+            "Illinois": null,
+            "South Dakota": [
+                "condorcet",
+                "minimax",
+                "smith",
+                "smith_irv",
+                "smith-minimax"
+            ],
+            "South Carolina": null,
+            "Kentucky": [
+                "borda-pm",
+                "borda-om",
+                "borda-avg",
+                "top-3-truncation",
+                "condorcet",
+                "minimax",
+                "smith",
+                "smith_irv",
+                "smith-minimax",
+                "ranked-pairs",
+                "approval"
+            ]
+        },
+        "FTFF": {
+            "California": [],
+            "Colorado": [],
+            "Indiana": null,
+            "Delaware": [],
+            "Michigan": null,
+            "New York": null,
+            "Pennsylvania": [],
+            "Alabama": null,
+            "North Carolina": null,
+            "Nebraska": [],
+            "Washington": null,
+            "Arizona": null,
+            "Florida": [],
+            "Alaska": [],
+            "Tennessee": null,
+            "Massachusetts": [],
+            "Wisconsin": null,
+            "North Dakota": null,
+            "Illinois": null,
+            "South Dakota": [],
+            "South Carolina": null,
+            "Kentucky": []
+        },
+        "TFFF": {
+            "California": [],
+            "Colorado": [],
+            "Indiana": null,
+            "Delaware": [],
+            "Michigan": null,
+            "New York": null,
+            "Pennsylvania": [],
+            "Alabama": null,
+            "North Carolina": null,
+            "Nebraska": [],
+            "Washington": null,
+            "Arizona": null,
+            "Florida": [],
+            "Alaska": [],
+            "Tennessee": null,
+            "Massachusetts": [],
+            "Wisconsin": null,
+            "North Dakota": null,
+            "Illinois": null,
+            "South Dakota": [],
+            "South Carolina": null,
+            "Kentucky": []
+        },
+        "TTTF": {
+            "California": [
+                "condorcet"
+            ],
+            "Colorado": [
+                "condorcet"
+            ],
+            "Indiana": null,
+            "Delaware": [
+                "condorcet"
+            ],
+            "Michigan": null,
+            "New York": null,
+            "Pennsylvania": [
+                "condorcet"
+            ],
+            "Alabama": null,
+            "North Carolina": null,
+            "Nebraska": [
+                "condorcet"
+            ],
+            "Washington": null,
+            "Arizona": null,
+            "Florida": [
+                "condorcet"
+            ],
+            "Alaska": [
+                "condorcet"
+            ],
+            "Tennessee": null,
+            "Massachusetts": [
+                "condorcet"
+            ],
+            "Wisconsin": null,
+            "North Dakota": null,
+            "Illinois": null,
+            "South Dakota": [
+                "condorcet"
+            ],
+            "South Carolina": null,
+            "Kentucky": [
+                "condorcet"
+            ]
+        },
+        "TTFT": {
+            "California": [],
+            "Colorado": [],
+            "Indiana": null,
+            "Delaware": [],
+            "Michigan": null,
+            "New York": null,
+            "Pennsylvania": [],
+            "Alabama": null,
+            "North Carolina": null,
+            "Nebraska": [],
+            "Washington": null,
+            "Arizona": null,
+            "Florida": [],
+            "Alaska": [],
+            "Tennessee": null,
+            "Massachusetts": [],
+            "Wisconsin": null,
+            "North Dakota": null,
+            "Illinois": null,
+            "South Dakota": [],
+            "South Carolina": null,
+            "Kentucky": []
+        },
+        "FFTF": {
+            "California": [],
+            "Colorado": [
+                "condorcet"
+            ],
+            "Indiana": null,
+            "Delaware": [
+                "condorcet"
+            ],
+            "Michigan": null,
+            "New York": null,
+            "Pennsylvania": [],
+            "Alabama": null,
+            "North Carolina": null,
+            "Nebraska": [],
+            "Washington": null,
+            "Arizona": null,
+            "Florida": [
+                "condorcet"
+            ],
+            "Alaska": [
+                "condorcet"
+            ],
+            "Tennessee": null,
+            "Massachusetts": [],
+            "Wisconsin": null,
+            "North Dakota": null,
+            "Illinois": null,
+            "South Dakota": [],
+            "South Carolina": null,
+            "Kentucky": [
+                "condorcet"
+            ]
+        },
+        "FFTT": {
+            "California": [],
+            "Colorado": [],
+            "Indiana": null,
+            "Delaware": [],
+            "Michigan": null,
+            "New York": null,
+            "Pennsylvania": [],
+            "Alabama": null,
+            "North Carolina": null,
+            "Nebraska": [],
+            "Washington": null,
+            "Arizona": null,
+            "Florida": [],
+            "Alaska": [],
+            "Tennessee": null,
+            "Massachusetts": [],
+            "Wisconsin": null,
+            "North Dakota": null,
+            "Illinois": null,
+            "South Dakota": [],
+            "South Carolina": null,
+            "Kentucky": []
+        }
+    },
+    "distribution3": {
+        "TTFF": {
+            "California": null,
+            "Colorado": null,
+            "Indiana": [
+                "condorcet",
+                "minimax",
+                "smith",
+                "smith-minimax",
+                "ranked-pairs",
+                "approval"
+            ],
+            "Delaware": null,
+            "Michigan": [
+                "condorcet",
+                "minimax",
+                "smith-minimax"
+            ],
+            "New York": [
+                "condorcet",
+                "minimax",
+                "smith",
+                "smith-minimax"
+            ],
+            "Pennsylvania": null,
+            "Alabama": null,
+            "North Carolina": null,
+            "Nebraska": null,
+            "Washington": [
+                "top-3-truncation"
+            ],
+            "Arizona": [
+                "borda-pm",
+                "borda-om",
+                "borda-avg",
+                "top-3-truncation",
+                "condorcet",
+                "minimax",
+                "smith",
+                "smith_plurality",
+                "smith_irv",
+                "smith-minimax"
+            ],
+            "Florida": null,
+            "Alaska": null,
+            "Tennessee": null,
+            "Massachusetts": [
+                "borda-pm",
+                "borda-om",
+                "borda-avg",
+                "top-3-truncation",
+                "condorcet",
+                "minimax",
+                "smith",
+                "smith_plurality",
+                "smith_irv",
+                "smith-minimax"
+            ],
+            "Wisconsin": null,
+            "North Dakota": [
+                "condorcet",
+                "minimax",
+                "smith",
+                "smith-minimax"
+            ],
+            "Illinois": [],
+            "South Dakota": [
+                "borda-pm",
+                "borda-om",
+                "borda-avg",
+                "top-3-truncation",
+                "condorcet",
+                "minimax",
+                "smith",
+                "smith-minimax",
+                "ranked-pairs",
+                "approval"
+            ],
+            "South Carolina": null,
+            "Kentucky": [
+                "condorcet",
+                "minimax",
+                "smith",
+                "smith_plurality",
+                "smith_irv",
+                "smith-minimax",
+                "ranked-pairs",
+                "approval"
+            ]
+        },
+        "FTFF": {
+            "California": null,
+            "Colorado": null,
+            "Indiana": [],
+            "Delaware": [],
+            "Michigan": [],
+            "New York": [],
+            "Pennsylvania": null,
+            "Alabama": null,
+            "North Carolina": null,
+            "Nebraska": null,
+            "Washington": [],
+            "Arizona": [],
+            "Florida": null,
+            "Alaska": null,
+            "Tennessee": null,
+            "Massachusetts": [],
+            "Wisconsin": null,
+            "North Dakota": [],
+            "Illinois": [],
+            "South Dakota": [],
+            "South Carolina": null,
+            "Kentucky": []
+        },
+        "TFFF": {
+            "California": null,
+            "Colorado": null,
+            "Indiana": [],
+            "Delaware": [],
+            "Michigan": [],
+            "New York": [],
+            "Pennsylvania": null,
+            "Alabama": null,
+            "North Carolina": null,
+            "Nebraska": null,
+            "Washington": [],
+            "Arizona": [],
+            "Florida": null,
+            "Alaska": null,
+            "Tennessee": null,
+            "Massachusetts": [],
+            "Wisconsin": null,
+            "North Dakota": [],
+            "Illinois": [],
+            "South Dakota": [],
+            "South Carolina": null,
+            "Kentucky": []
+        },
+        "TTTF": {
+            "California": null,
+            "Colorado": null,
+            "Indiana": [
+                "condorcet"
+            ],
+            "Delaware": [
+                "condorcet"
+            ],
+            "Michigan": [
+                "condorcet"
+            ],
+            "New York": [
+                "condorcet"
+            ],
+            "Pennsylvania": null,
+            "Alabama": null,
+            "North Carolina": null,
+            "Nebraska": null,
+            "Washington": [
+                "condorcet"
+            ],
+            "Arizona": [
+                "condorcet"
+            ],
+            "Florida": null,
+            "Alaska": null,
+            "Tennessee": null,
+            "Massachusetts": [
+                "condorcet"
+            ],
+            "Wisconsin": null,
+            "North Dakota": [
+                "condorcet"
+            ],
+            "Illinois": [
+                "condorcet"
+            ],
+            "South Dakota": [
+                "condorcet"
+            ],
+            "South Carolina": null,
+            "Kentucky": [
+                "condorcet"
+            ]
+        },
+        "TTFT": {
+            "California": null,
+            "Colorado": null,
+            "Indiana": [],
+            "Delaware": [],
+            "Michigan": [],
+            "New York": [],
+            "Pennsylvania": null,
+            "Alabama": null,
+            "North Carolina": null,
+            "Nebraska": null,
+            "Washington": [],
+            "Arizona": [],
+            "Florida": null,
+            "Alaska": null,
+            "Tennessee": null,
+            "Massachusetts": [],
+            "Wisconsin": null,
+            "North Dakota": [],
+            "Illinois": [],
+            "South Dakota": [],
+            "South Carolina": null,
+            "Kentucky": []
+        },
+        "FFTF": {
+            "California": null,
+            "Colorado": null,
+            "Indiana": [],
+            "Delaware": [],
+            "Michigan": [],
+            "New York": [],
+            "Pennsylvania": null,
+            "Alabama": null,
+            "North Carolina": null,
+            "Nebraska": null,
+            "Washington": [],
+            "Arizona": [],
+            "Florida": null,
+            "Alaska": null,
+            "Tennessee": null,
+            "Massachusetts": [],
+            "Wisconsin": null,
+            "North Dakota": [],
+            "Illinois": [],
+            "South Dakota": [],
+            "South Carolina": null,
+            "Kentucky": []
+        },
+        "FFTT": {
+            "California": null,
+            "Colorado": null,
+            "Indiana": [],
+            "Delaware": [],
+            "Michigan": [],
+            "New York": [],
+            "Pennsylvania": null,
+            "Alabama": null,
+            "North Carolina": null,
+            "Nebraska": null,
+            "Washington": [],
+            "Arizona": [],
+            "Florida": null,
+            "Alaska": null,
+            "Tennessee": null,
+            "Massachusetts": [
+                "condorcet"
+            ],
+            "Wisconsin": null,
+            "North Dakota": [],
+            "Illinois": [],
+            "South Dakota": [],
+            "South Carolina": null,
+            "Kentucky": []
+        }
+    }
+}

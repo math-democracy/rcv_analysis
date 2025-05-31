@@ -1,0 +1,4399 @@
+{
+    "Eastpointe, MI/Eastpointe_11022021_CityCouncil.csv": {
+        "Cardi DeMonaco Jr.": 0.24750589515690186,
+        "Rob Baker": 0.21086522764375112,
+        "Michael Jones": 0.1538182477779793,
+        "Sylvia L. Moore": 0.15363685833484492,
+        "Shenita Lloyd": 0.1266098313078179,
+        "Tonia Gladney": 0.10756393977870488
+    },
+    "Eastpointe, MI/Eastpointe_11052019_CityCouncil.csv": {
+        "Sarah A. Lucido": 0.2879385509653311,
+        "Harvey Curley": 0.2663483495951837,
+        "Mary Hall-Rayford": 0.23430904435679192,
+        "Larry Edwards": 0.21140405508269325,
+        "writein": 0.0
+    },
+    "St Louis Park/StLouisPark_11022021_CityCouncilWard3.csv": {
+        "Jim Leuthner": 0.3586595885865959,
+        "Sue Budd": 0.3493696084936961,
+        "Saul Eugene": 0.291970802919708,
+        "writein": 0.0
+    },
+    "St Louis Park/StLouisPark_11022021_CityCouncilWard2.csv": {
+        "Lynette Lungay Dumalag": 0.6257668711656442,
+        "John Basill": 0.37423312883435583,
+        "writein": 0.0
+    },
+    "St Louis Park/StLouisPark_11022021_CityCouncilWard1.csv": {
+        "Margaret Rog": 1.0,
+        "writein": 0.0
+    },
+    "St Louis Park/StLouisPark_11022021_CityCouncilWard4.csv": {
+        "Tim Brausen": 1.0,
+        "writein": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict23.csv": {
+        "Allard, Jamie": 0.5478054811456831,
+        "Branson, Roger L.": 0.45219451885431694,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict37.csv": {
+        "Edgmon, Bryce": 1.0,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict36.csv": {
+        "Cronk, Mike": 0.6236402377481216,
+        "Fowler, Angela K. \"Fitch\"": 0.37635976225187845,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict22.csv": {
+        "Wright, Stanley A.": 0.515281042957897,
+        "Eischeid, Ted J.": 0.484718957042103,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_08162022_HouseofRepresentativesSpecial.csv": {
+        "Begich, Nick": 0.3854166378171485,
+        "Palin, Sarah": 0.3093037618848475,
+        "Peltola, Mary S.": 0.305279600298004,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict34.csv": {
+        "Tomaszewski, Frank J.": 0.3961726384364821,
+        "Hopkins, Grier H.": 0.3182410423452769,
+        "DeMars, Nate": 0.28558631921824107,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict20.csv": {
+        "Gray, Andrew T.": 0.3282286881061766,
+        "Bauer, Paul A.": 0.25370086778968864,
+        "Harary, Jordan I.": 0.23848902501276162,
+        "Kohlhaas, Scott A.": 0.17958141909137315,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict21.csv": {
+        "Wolfe, Forrest M.": 0.5067814600778394,
+        "Mears, Donna C.": 0.49321853992216064,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict35.csv": {
+        "Carrick, Ashley E.": 0.33280869938474744,
+        "McKinley, Kevin": 0.28895407068250106,
+        "McNeill, Ruben A. Jr.": 0.23908999856918015,
+        "Brown, Kieran C.": 0.13914723136357132,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict19.csv": {
+        "Mina, Genevieve G.": 0.5851952155269691,
+        "Wyatt, Russell O.": 0.41480478447303093,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict31.csv": {
+        "LeBon, Barton S.": 0.35618279569892475,
+        "Dibert, Maxine L.": 0.3527105734767025,
+        "Nash, Kelly": 0.29110663082437277,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict25.csv": {
+        "Johnson, DeLena M.": 0.646080519217118,
+        "Wood, Lawrence D.": 0.35391948078288205,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict24.csv": {
+        "Saddler, Dan": 0.43632218844984805,
+        "Jackson, Sharon": 0.3580547112462006,
+        "Nelson, Daryl W.": 0.20562310030395137,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict30.csv": {
+        "McCabe, Kevin J.": 0.4070467141726049,
+        "Holmes, Doyle E.": 0.395249406175772,
+        "Mindiola, L. Joy": 0.19770387965162312,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict18.csv": {
+        "Nelson, David": 0.3483595625500133,
+        "Groh, Cliff": 0.3424913310216058,
+        "Franks, Lyn D.": 0.3091491064283809,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict26.csv": {
+        "Tilton, Cathy L.": 0.7338832487309644,
+        "Stokes, Daniel L.": 0.26611675126903556,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict32.csv": {
+        "Stapp, Will B.": 0.41787310098302055,
+        "Givens, Timothy W.": 0.31563896336014297,
+        "Lawrence, Van": 0.2664879356568365,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD40.csv": {
+        "Burke, Robyn \"Niayuq\"": 0.3874714394516375,
+        "Chase, Saima \"Ikrik\"": 0.3154988575780655,
+        "Baker, Thomas C. \"Ikaaq\"": 0.297029702970297,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict33.csv": {
+        "Prax, Glenn M. \"Mike\"": 1.0,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict27.csv": {
+        "Eastman, David": 0.38214587440157705,
+        "Graham, Stuart R. \"Stu\"": 0.3099596357833474,
+        "Carpenter, Brendan R.": 0.30789448981507556,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict40.csv": {
+        "Patkotak, Josiah B. \"Aullaqsruaq\"": 1.0,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD33.csv": {
+        "Prax, Glenn \"Mike\"": 1.0,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD27.csv": {
+        "Underwood, Jubilee L.": 0.5065691883873702,
+        "Eastman, David": 0.4934308116126298,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict1.csv": {
+        "Ortiz, Daniel H. \"Dan\"": 0.5022727272727273,
+        "Bynum, Jeremy T.": 0.49772727272727274,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD26.csv": {
+        "Tilton, Cathy": 1.0,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD32.csv": {
+        "Stapp, Will": 0.6326602282704127,
+        "Damron, Gary K.": 0.36733977172958737,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD1.csv": {
+        "Bynum, Jeremy T.": 0.4316868744405566,
+        "Moran, Agnes C.": 0.2903409553259012,
+        "Echohawk, Grant": 0.2779721702335422,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_SenateDistrictA.csv": {
+        "Stedman, Bert K.": 0.6141946150212565,
+        "Sheldon, Mike": 0.3858053849787435,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateSenateJ.csv": {
+        "Dunbar, Forrest": 0.6359223300970874,
+        "Smith, Cheronda L.": 0.3640776699029126,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateSenateH.csv": {
+        "Claman, Matt": 0.5311849808874051,
+        "Vazquez, Liz": 0.46881501911259493,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_SenateDistrictC.csv": {
+        "Stevens, Gary": 0.42670730136927504,
+        "Smith, Heath": 0.3363093960595785,
+        "Jones, Walter H.": 0.2369833025711465,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD3.csv": {
+        "Story, Andrea \"Andi\"": 1.0,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD24.csv": {
+        "Saddler, Dan": 1.0,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD30.csv": {
+        "McCabe, Kevin J.": 0.5219253328367935,
+        "Holmes, Doyle E.": 0.4780746671632064,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD18.csv": {
+        "Nelson, David": 0.5112540192926045,
+        "Groh, Cliff": 0.4887459807073955,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict2.csv": {
+        "Himschoot, Rebecca": 0.5492957746478874,
+        "Skaflestad, Kenny": 0.4507042253521127,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict3.csv": {
+        "Story, Andrea \"Andi\"": 1.0,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD19.csv": {
+        "Mina, Genevieve G.": 0.4860271286157869,
+        "Anderson, Kaylee M.": 0.3109985291714332,
+        "Wyatt, Russell O.": 0.20297434221277988,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD31.csv": {
+        "Dibert, Maxine L.": 0.5127837203235064,
+        "LeBon, Bart": 0.4872162796764936,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD25.csv": {
+        "Johnson, DeLena M.": 1.0,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD2.csv": {
+        "Himschoot, Rebecca": 1.0,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_SenateDistrictB.csv": {
+        "Kiehl, Jesse": 1.0,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_GovernorLieutenantGovernor.csv": {
+        "Dunleavy/Dahlstrom": 0.3197033269142829,
+        "Walker/Drygas": 0.24553323361639098,
+        "Gara/Cook": 0.23307711787672145,
+        "Pierce/Grunwald": 0.20168632159260466,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_SenateDistrictQ.csv": {
+        "Myers, Robert H. Jr.": 0.4850111856823266,
+        "Bennett, John D.": 0.3099179716629381,
+        "Serkov, Arthur P.": 0.20507084265473527,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_SenateDistrictF.csv": {
+        "Kaufman, James D.": 0.5465319943951424,
+        "Park, Janice L.": 0.45346800560485756,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD6.csv": {
+        "Vance, Sarah L.": 0.40373025439319926,
+        "Johnson, Brent": 0.3650954767493497,
+        "Slaughter, Dawson R.": 0.231174268857451,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD21.csv": {
+        "Mears, Donna C.": 0.5274205165140446,
+        "Sims, Aim\u00e9e": 0.47257948348595535,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD35.csv": {
+        "Carrick, Ashley E.": 0.5313009299204295,
+        "McNeill, Ruben A. Jr.": 0.4686990700795705,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict7.csv": {
+        "Ruffridge, Justin": 0.5257161458333334,
+        "Gillham, Ronald D. \"Ron\"": 0.4742838541666667,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict6.csv": {
+        "Vance, Sarah L.": 0.4103316500614167,
+        "Flora, Louis A. \"Louie\"": 0.3626996042036304,
+        "Bryant, Ginger": 0.2269687457349529,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD34.csv": {
+        "Tomaszewski, Frank": 0.540538024760309,
+        "Cottle, Joy \"Joy Beth\"": 0.45946197523969096,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD20.csv": {
+        "Gray, Andrew T.": 0.5895694689664539,
+        "Kohlhaas, Scott A.": 0.4104305310335461,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD7.csv": {
+        "Ruffridge, Justin M.": 0.5656458313206454,
+        "Gillham, Ronald D. \"Ron\"": 0.43435416867935467,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_SenateDistrictG.csv": {
+        "Gray-Jackson, Elvi": 0.5299214332917248,
+        "Sanders, Marcus D.": 0.4700785667082752,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_SenateDistrictP.csv": {
+        "Matherly, Jim": 0.37541754720839865,
+        "Kawasaki, Scott": 0.3620560365396414,
+        "Jafre, Alex N.": 0.26252641625195994,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateSenateL.csv": {
+        "Merrick, Kelly R.": 0.4211855901996747,
+        "Goecker, Jared D.": 0.3835346229712427,
+        "Hammermeister, Lee E.": 0.1952797868290826,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateSenateN.csv": {
+        "Yundt, Robert": 0.4403194113466282,
+        "Wilson, David S.": 0.3085831347464359,
+        "Wright, Stephen": 0.2510974539069359,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_SenateDistrictR.csv": {
+        "Bishop, Click": 0.4482955007729233,
+        "Verhagen, Elijah M.": 0.31807826865185906,
+        "Williams, Robert \"Bert\"": 0.23362623057521764,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_SenateDistrictE.csv": {
+        "Giessel, Cathy": 0.37636275258662594,
+        "Holland, Roger": 0.33240747170335394,
+        "Cacy, Roselynn": 0.2912297757100201,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD5.csv": {
+        "Stutes, Louise B.": 0.7116392443631931,
+        "Radner, Leighton": 0.2883607556368068,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD36.csv": {
+        "Schwanke, Rebecca A.": 0.32723189983669027,
+        "Goode, Pamela": 0.27619760479041916,
+        "Kowalski, Brandon P. \"Putuuqti\"": 0.2517691888949374,
+        "Fields, James": 0.1448013064779532,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD22.csv": {
+        "Eischeid, Ted J.": 0.503121919158725,
+        "Wright, Stanley A.": 0.49687808084127505,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict4.csv": {
+        "Hannan, Sara": 0.6944976076555024,
+        "Harmon, Darrell J.": 0.3055023923444976,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict5.csv": {
+        "Stutes, Louise B.": 0.5719153769700411,
+        "Vincent, Benjamin T.": 0.4280846230299588,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD23.csv": {
+        "Allard, Jamie": 0.60465322009908,
+        "Arlington, Jim": 0.39534677990092004,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD37.csv": {
+        "Edgmon, Bryce": 0.6552981552981553,
+        "Deacon, Darren M.": 0.34470184470184473,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD4.csv": {
+        "Hannan, Sara": 1.0,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_SenateDistrictD.csv": {
+        "Bjorkman, Jesse J.": 0.42561474595797083,
+        "Babcock, Tuckerman": 0.39093473165693404,
+        "Cizek, Andy": 0.18345052238509515,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_SenateDistrictS.csv": {
+        "Hoffman, Lyman F.": 0.5609168934477705,
+        "Keppel, Willy": 0.43908310655222943,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateSenateB.csv": {
+        "Kiehl, Jesse": 1.0,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_SenateDistrictI.csv": {
+        "Tobin, L\u00f6ki G.": 0.5983347386172007,
+        "Herndon, Heather": 0.40166526138279934,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD9.csv": {
+        "Holland, Ky": 0.5254978524014057,
+        "Bauer, Lucy": 0.4745021475985943,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD12.csv": {
+        "Schrage, Calvin R.": 0.5696284329563812,
+        "Lurtsema, Joseph M. \"Joe\"": 0.43037156704361873,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict8.csv": {
+        "Carpenter, Ben": 1.0,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict9.csv": {
+        "Shaw, Laddie H.": 0.5450081833060556,
+        "Schaff, David L.": 0.45499181669394434,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD13.csv": {
+        "Josephson, Andrew L. \"Andy\"": 0.515539968557262,
+        "Gottshall, Heather": 0.4844600314427379,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD8.csv": {
+        "Elam, Bill": 0.5090233545647559,
+        "Hillyer, John": 0.49097664543524416,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_SenateDistrictH.csv": {
+        "Claman, Matt": 0.5000272020020674,
+        "Costello, Mia": 0.49997279799793265,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_USRepresentative.csv": {
+        "Begich, Nick": 0.2995252212846074,
+        "Peltola, Mary S.": 0.2751865837642763,
+        "Palin, Sarah": 0.26111939581383264,
+        "Bye, Chris": 0.16416879913728366,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateSenateT.csv": {
+        "Olson, Donald C. \"Donny\"": 1.0,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_SenateDistrictJ.csv": {
+        "Dunbar, Forrest": 0.38038231318787413,
+        "Tarr, Geran": 0.33211044603205253,
+        "Satterfield, Andrew E.": 0.2875072407800734,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD11.csv": {
+        "Coulombe, Julie": 0.5351315665377723,
+        "Featherly, Walter T.": 0.46486843346222767,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD39.csv": {
+        "Foster, Neal W.": 0.5451059167275384,
+        "Ivanoff, Tyler": 0.45489408327246167,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD38.csv": {
+        "Jimmie, Nellie D. \"Unangik\"": 0.2907448618929179,
+        "McCormick, C.J.": 0.2805341013221626,
+        "Keppel, Willy": 0.24924728367587382,
+        "Sosa, Victoria B.": 0.17947375310904568,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD10.csv": {
+        "Kopp, Charles M. \"Chuck\"": 0.5682223387519665,
+        "Johnson, Craig W.": 0.4317776612480336,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_SenateDistrictK.csv": {
+        "Wielechowski, Bill": 0.5335555218906226,
+        "Cunningham, John W.": 0.4664444781093774,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateSenateD.csv": {
+        "Bjorkman, Jesse J.": 0.43819080860965676,
+        "Carpenter, Ben": 0.39863292611983714,
+        "Wegener, Tina": 0.1631762652705061,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_SenateDistrictO.csv": {
+        "Shower, Michael K.": 0.5176624290236671,
+        "Massie, Doug A.": 0.48233757097633284,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD28.csv": {
+        "Moore, Elexie": 0.36106750392464676,
+        "Menard, Steve": 0.34652565479633146,
+        "Wright, Jessica": 0.2924068412790217,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD14.csv": {
+        "Galvin, Alyse S.": 0.6833161688980433,
+        "Kamdem, Harry Winner": 0.31668383110195675,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD15.csv": {
+        "Costello, Mia": 0.44385542168674696,
+        "Wells, Denny": 0.38385542168674697,
+        "Darden, Dustin T.": 0.172289156626506,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD29.csv": {
+        "Rauscher, George": 1.0,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_SenateDistrictN.csv": {
+        "Wilson, David S.": 0.372878367059031,
+        "Wright, Stephen": 0.3223559493894106,
+        "Clayton, Scott D.": 0.3047656835515584,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateSenateR.csv": {
+        "Cronk, Mike": 0.4442317459077236,
+        "Fletcher, Savannah": 0.3625815525256866,
+        "Williams, Robert \"Bert\"": 0.19318670156658985,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateSenateP.csv": {
+        "Hajdukovich, Leslie W.": 0.5073577860751153,
+        "Kawasaki, Scott": 0.49264221392488466,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_SenateDistrictL.csv": {
+        "Merrick, Kelly R.": 0.5230769230769231,
+        "McCarty, Ken": 0.47692307692307695,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_USSenator.csv": {
+        "Murkowski, Lisa": 0.3128835487787327,
+        "Tshibaka, Kelly C.": 0.2816756399706261,
+        "Chesbro, Patricia R.": 0.21019118857222988,
+        "Kelley, Buzz A.": 0.1952496226784113,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD17.csv": {
+        "Fields, William Z. \"Zack\"": 1.0,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateHouseD16.csv": {
+        "Hall, Carolyn": 0.5404694652771014,
+        "Moe, Nick": 0.4595305347228986,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_SenateDistrictM.csv": {
+        "Hughes, Shelley": 0.7031438588424622,
+        "Cooper, Jim": 0.2968561411575378,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_StateSenateF.csv": {
+        "Kaufman, James D.": 0.4234750235241173,
+        "Park, Janice L.": 0.36808084114061285,
+        "Borbridge, Harold": 0.20844413533526981,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_President.csv": {
+        "Trump/Vance": 0.2822714920415822,
+        "Harris/Walz": 0.22055385411724107,
+        "Kennedy/Shanahan": 0.11042286733094653,
+        "Oliver/Maat": 0.08804727602122245,
+        "Stein/Ware": 0.0880113301413392,
+        "West/Abdullah": 0.07251002890048742,
+        "Terry/Broden": 0.07066528634487915,
+        "Sonski/Onak": 0.06751786510230197
+    },
+    "Alaska/Alaska_11082022_HouseDistrict16.csv": {
+        "Armstrong, Jennifer \"Jennie\"": 0.5338771071234366,
+        "Vazquez, Liz": 0.46612289287656333,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict17.csv": {
+        "Fields, William Z. \"Zack\"": 0.5210230817217717,
+        "Drummond, Harriet A.": 0.4789769182782283,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict15.csv": {
+        "McKay, Thomas W. \"Tom\"": 0.3580327868852459,
+        "Wells, Denny": 0.33729508196721314,
+        "Eibeck, David": 0.304672131147541,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict29.csv": {
+        "Rauscher, George": 0.6732097817743173,
+        "Haase, Elijah D.": 0.32679021822568266,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict28.csv": {
+        "Sumner, Jesse M.": 0.2987414440273791,
+        "Allen, Rachel M.": 0.24022963126517996,
+        "Menard, Steve": 0.23794803856627658,
+        "Wright, Jessica": 0.22308088614116434,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict14.csv": {
+        "Galvin, Alyse S.": 0.6032370953630796,
+        "Danger, Nicholas": 0.3967629046369204,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict38.csv": {
+        "McCormick, Conrad J. \"C.J.\"": 1.0,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict10.csv": {
+        "Johnson, Craig W.": 0.416543438077634,
+        "Storm, Caroline": 0.34168207024029573,
+        "Insalaco, Mikel E.": 0.24177449168207024,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict11.csv": {
+        "Coulombe, Julie": 0.3647454445921639,
+        "Featherly, Walter T.": 0.33964182372722296,
+        "Bieling, Ross P.": 0.29561273168061314,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict39.csv": {
+        "Foster, Neal W.": 0.5071115973741794,
+        "Ivanoff, Tyler L.": 0.49288840262582057,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11052024_US_House.csv": {
+        "Begich, Nick": 0.3687360809696648,
+        "Peltola, Mary S.": 0.32978080192568304,
+        "Howe, John Wayne": 0.1578112413642782,
+        "Hafner, Eric": 0.14367187574037396,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict13.csv": {
+        "Josephson, Andy": 0.5031120331950207,
+        "Henslee, Katherine J. \"Kathy\"": 0.49688796680497926,
+        "Write-in": 0.0
+    },
+    "Alaska/Alaska_11082022_HouseDistrict12.csv": {
+        "Schrage, Calvin R.": 0.5401515151515152,
+        "McDonald, Jay": 0.45984848484848484,
+        "Write-in": 0.0
+    },
+    "Minneapolis/Minneapolis_11072023_CityCouncilWard12.csv": {
+        "Aurin Chowdhury": 0.355946266297906,
+        "Luther Ranheim": 0.3437376531015409,
+        "Nancy Ford": 0.30031608060055315,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_BoardofEstimateandTaxation.csv": {
+        "Carol Becker": 0.5304162407923025,
+        "David B. Wheeler": 0.4494589927043316,
+        "John Edwards": 0.020124766503365876,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_ParkBoardAtLarge.csv": {
+        "Meg Forney": 0.19411700771685753,
+        "Latrisha Vetaw": 0.1925311490311935,
+        "Londel French": 0.1533540170146334,
+        "Mike Derus": 0.12321776161727943,
+        "Russ Henry": 0.1195964705998597,
+        "Devin Hogan": 0.10967126779768198,
+        "Charlie Casserly": 0.04612823223690061,
+        "Jonathan Honerbrink": 0.035936249468910254,
+        "Bob Sullentrop": 0.02540832155878546,
+        "Scott Vreeland": 3.95229578981691e-05,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_Ward6CityCouncil.csv": {
+        "Abdi Warsame": 0.4802149487054226,
+        "Mohamud Noor": 0.419247679531021,
+        "Fadumo Yusuf": 0.09946262823644357,
+        "Tiffini Forslund": 0.0010747435271128481,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_Mayor.csv": {
+        "Jacob Frey": 0.2029383429672447,
+        "Betsy Hodges": 0.18490069660589892,
+        "Tom Hoch": 0.17417741218319252,
+        "Raymond Dehn": 0.16338743145101525,
+        "Nekima Levy-Pounds": 0.16285756632577442,
+        "Al Flowers": 0.01992737512968727,
+        "Aswar Rahman": 0.0197309915518008,
+        "Captain Jack Sparrow": 0.015555061508818734,
+        "Charlie Gers": 0.011267970950051874,
+        "Gregg A. Iverson": 0.010223062101674818,
+        "David Rosenfeld": 0.009270787016451756,
+        "L.A. Nik": 0.008696457684896991,
+        "David John Wilson": 0.006165703275529865,
+        "Ronald Lischeid": 0.004831777086112346,
+        "Ian Simpson": 0.003160663998814288,
+        "Troy Benjegerdes": 0.002893878760930784,
+        "Christopher Zimmerman": 1.1116051578479325e-05,
+        "Theron Preston Washington": 3.7053505261597746e-06,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_PRBoardDistrict6.csv": {
+        "Brad Bourn": 0.3665220684431591,
+        "Meg Forney": 0.36314810989464985,
+        "Steven Jecha": 0.17881980307099085,
+        "Geneva Hanvik": 0.09151001859120017,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_Ward10CityCouncil.csv": {
+        "Meg Tuthill": 0.4646712463199215,
+        "Matthew Dowgwillo": 0.21344455348380764,
+        "Kim Vlaisavljevich": 0.17517173699705593,
+        "Dan Alvin": 0.1467124631992149,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072023_CityCouncilWard13.csv": {
+        "Linea Palmisano": 0.41840310664898656,
+        "Kate Mortenson": 0.32212540253835953,
+        "Zach Metzger": 0.20879901496495548,
+        "Bob \"Again\" Carney Jr.": 0.05067247584769843,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11022021_BoardofEstimateandTaxationAtLarge.csv": {
+        "Steve Brandt": 0.35535402822227896,
+        "Samantha \"Sam\" Pree-Stinson": 0.2786148588071007,
+        "Pine Salica": 0.24752362271040376,
+        "Kevin Nikiforakis": 0.11850749026021659,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_Ward1CityCouncil.csv": {
+        "Kevin Reich": 0.39126632781330273,
+        "Jillia Pessenda": 0.3666174782751271,
+        "John Hayden": 0.24211619391157022,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_PRBoardDistrict5.csv": {
+        "Carol Kummer": 0.329267461669506,
+        "Jason Stone": 0.29519591141396934,
+        "Steve Barland": 0.24729131175468483,
+        "Dan W. Peterson": 0.08402044293015332,
+        "McClain Looney": 0.04422487223168654,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_PRBoardDistrict4.csv": {
+        "Anita Tabb": 1.0,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_Ward9CityCouncil.csv": {
+        "Alondra Cano": 0.33369393359407507,
+        "Mohamed Farah": 0.3166347674128318,
+        "Gary Schiff": 0.30365315802612963,
+        "Ronald W. Peterson": 0.04601814096696347,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072023_CityCouncilWard10.csv": {
+        "Aisha Chughtai": 0.3908035947997557,
+        "Bruce Dachis": 0.2949131838408516,
+        "Nasri Warsame": 0.24491754646191433,
+        "Greg Kline": 0.0693656748974784,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_BoardofEstimateandTaxation.csv": {
+        "Carol Becker": 0.3652051853686731,
+        "David Wheeler": 0.2102055982164974,
+        "Phil Willkie": 0.13239204029394766,
+        "DeWayne Townsend": 0.12614978119065312,
+        "R. Michael Martens": 0.11396251341755428,
+        "James Elliot Swartwood": 0.05208488151267443,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_Ward8CityCouncil.csv": {
+        "Andrea Jenkins": 0.42093092202786836,
+        "Terry White": 0.25704120960569227,
+        "April Kane": 0.2555588496887044,
+        "David Holsinger": 0.06646901867773496,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11022021_Mayor.csv": {
+        "Jacob Frey": 0.2557844741314949,
+        "Kate Knuth": 0.21870919574920972,
+        "Sheila Nezhad": 0.18906168093657172,
+        "AJ Awed": 0.08998141470620939,
+        "Clint Conner": 0.0564675233904659,
+        "Laverne Turner": 0.03392689784442362,
+        "Bob \"Again\" Carney Jr": 0.02531730020809175,
+        "Marcus Harcus": 0.022667704477943862,
+        "Mark Globus": 0.021152288215017554,
+        "Perry, Jerrell": 0.017810112306006067,
+        "Nate \"Honey Badger\" Atkins": 0.01527171064127206,
+        "Doug Nelson": 0.015173224469048337,
+        "Christopher W David": 0.013540260194113068,
+        "Mike Winter": 0.00938160214763395,
+        "Kevin \"No Body\" Ward": 0.006712944577700824,
+        "Paul E. Johnson": 0.004736867186631296,
+        "Troy Benjegerdes": 0.004282560005083157,
+        "Christopher Robin \"CRZ\" Zimmerman": 2.223881308277604e-05,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_PRBoardDistrict1.csv": {
+        "Liz Wielinski": 0.5432871896286531,
+        "Bernie Kunza": 0.25302131399692374,
+        "John Malone": 0.20369149637442321,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11022021_ParkBoardAtLarge.csv": {
+        "Meg Forney": 0.22157528707747048,
+        "Alicia D. Smith": 0.16986194569891805,
+        "Mary McKelvey": 0.15426914990233767,
+        "Tom Olsen": 0.1513620887711135,
+        "Londel French": 0.11025267793826746,
+        "Charles Rucker": 0.10718803004101403,
+        "Katherine Kelly": 0.0854908205708788,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_Ward11CityCouncil.csv": {
+        "John Quincy": 0.49573820395738205,
+        "Gregg A Iverson": 0.33744292237442924,
+        "David A. Alvarado": 0.16681887366818873,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11052013_PRBoardDistrict6.csv": {
+        "BRAD BOURN": 0.5663513039995995,
+        "JOSH NEIMAN": 0.43364869600040046,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_PRBoardDistrict3.csv": {
+        "Scott Vreeland": 0.6645183175033921,
+        "Mike Wendorf": 0.33548168249660787,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_PRBoardDistrict2.csv": {
+        "Jon Olson": 0.5428278087415664,
+        "Michael Guest": 0.45717219125843356,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_Ward7CityCouncil.csv": {
+        "Lisa Goodman": 0.37590861889927313,
+        "Janne Flisrand": 0.3092419522326064,
+        "Teqen Z\u00e9a-Aida": 0.2387331256490135,
+        "Joe Kovacs": 0.07611630321910695,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11022021_CityCouncilWard4.csv": {
+        "LaTrisha Vetaw": 0.4551670551670552,
+        "Phillipe M. Cunningham": 0.32626262626262625,
+        "Leslie Davis": 0.21857031857031858,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_Ward13CityCouncil.csv": {
+        "Betsy Hodges": 0.5002118195297607,
+        "Kris Broberg": 0.27801313281084516,
+        "Joseph Henry": 0.2217750476593942,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_Ward5CityCouncil.csv": {
+        "Jeremiah Ellison": 0.33213682432432434,
+        "Blong Yang": 0.29803631756756754,
+        "Raeisha (RA) Williams": 0.22930743243243243,
+        "Cathy Spann": 0.14051942567567569,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11022021_CityCouncilWard10.csv": {
+        "Aisha Chughtai": 0.24276989038547103,
+        "Katie Jones": 0.22934109938114305,
+        "Alicia Gibson": 0.20009707559762166,
+        "Chris Parsons": 0.14605832625490434,
+        "David Wheeler": 0.11410427537111192,
+        "Ubah Nur": 0.06762933300974801,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11022021_CityCouncilWard12.csv": {
+        "Andrew Johnson": 0.5098281108643803,
+        "Nancy Ford": 0.31815938810757466,
+        "David Rosenfeld": 0.17201250102804508,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11022021_CityCouncilWard7.csv": {
+        "Lisa Goodman": 0.4253178226083542,
+        "Nick Kor": 0.24723899278456782,
+        "Teqen Z\u00e9a-Aida": 0.18745398321307613,
+        "Joanna Diaz": 0.13998920139400187,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11022021_CityCouncilWard6.csv": {
+        "Jamal Osman": 0.5544002028911996,
+        "A. Bihi": 0.44559979710880043,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_Ward2CityCouncil.csv": {
+        "Cam Gordon": 1.0,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11022021_CityCouncilWard13.csv": {
+        "Linea Palmisano": 0.45396080032666397,
+        "Mike Norton": 0.2668436096365864,
+        "Kati Medford": 0.11957261467265551,
+        "Bob Reuer": 0.08357152579284062,
+        "Ken Salway": 0.07605144957125358,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_Ward3CityCouncil.csv": {
+        "Steve Fletcher": 0.31166141377757767,
+        "Tim Bildsoe": 0.2474561008554705,
+        "Ginger Jentzen": 0.23471409275101307,
+        "Samantha Pree-Stinson": 0.20616839261593878,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11022021_CityCouncilWard2.csv": {
+        "Yusra Arab": 0.28026384473022353,
+        "Cam Gordon": 0.2614245717268543,
+        "Robin Wonsley Worlobah": 0.24438855407393348,
+        "Tom Anderson": 0.17240070232050492,
+        "Guy T Gaskin": 0.04152232714848384,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11022021_CityCouncilWard3.csv": {
+        "Michael Rainville": 0.36543715846994534,
+        "Steve Fletcher": 0.29938122790099647,
+        "Merv Moorhead": 0.2302716168434587,
+        "Hope Hennessey": 0.10490999678559948,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_Ward4CityCouncil.csv": {
+        "Phillipe M. Cunningham": 0.32082601054481547,
+        "Barbara A. \"Barb\" Johnson": 0.3069420035149385,
+        "Stephanie Gasca": 0.2719683655536028,
+        "Dana Hansen": 0.10026362038664323,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11022021_CityCouncilWard1.csv": {
+        "Elliott Payne": 0.3748690101933886,
+        "Kevin Reich": 0.37167762217776507,
+        "Thomas E Wortman": 0.1793845860722111,
+        "Calvin L Carpenter": 0.07406878155663522,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11052013_Mayor.csv": {
+        "BETSY HODGES": 0.24078665806188648,
+        "MARK ANDREW": 0.19819784848146657,
+        "DON SAMUELS": 0.16188308821031894,
+        "JACKIE CHERRYHOMES": 0.08664787201521687,
+        "CAM WINTON": 0.07249365559205578,
+        "BOB FINE": 0.049789651943111406,
+        "DAN COHEN": 0.029303158374861103,
+        "STEPHANIE WOODRUFF": 0.027798939282924203,
+        "DOUG MANN": 0.014188182660720958,
+        "MARK V ANDERSON": 0.0137951447689568,
+        "CAPTAIN JACK SPARROW": 0.01100020864974501,
+        "OLE SAVIOR": 0.009971516883646227,
+        "ALICIA K. BENNETT": 0.008763289290445297,
+        "JAMES EVERETT": 0.0081421923750649,
+        "CHRISTOPHER CLARK": 0.005604429197377806,
+        "MIKE GOULD": 0.0053181423379446546,
+        "CHRISTOPHER ROBIN ZIMMERMAN": 0.004934809085483315,
+        "JAYMIE KELLY": 0.00490084284792345,
+        "NEAL BAXTER": 0.0047018977422156666,
+        "ABDUL M RAHAMAN \"THE ROCK\"": 0.004464134079296608,
+        "TONY LANE": 0.004216665777074731,
+        "KURTIS W. HANNA": 0.0041681425805606374,
+        "JEFFREY ALAN WAGNER": 0.003940083556944397,
+        "GREGG A. IVERSON": 0.0038042186067049353,
+        "TROY BENJEGERDES": 0.003348100559472456,
+        "JOSHUA REA": 0.0026590711689723273,
+        "JOHN LESLIE HARTWIG": 0.0025377631776870935,
+        "MERRILL ANDERSON": 0.002450421423961725,
+        "BILL KAHN": 0.002135020646620117,
+        "RAHN V. WORKCUFF": 0.0016400840421763624,
+        "BOB \"AGAIN\" CARNEY JR": 0.001567299247405222,
+        "JAMES \"JIMMY\" L. STROUD, JR.": 0.0015042190919369004,
+        "CYD GORMAN": 0.0013052739862291168,
+        "JOHN CHARLES WILSON": 0.0010383964054016023,
+        "EDMUND BERNARD BRUYERE": 0.0009995778481903274,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072023_CityCouncilWard8.csv": {
+        "Andrea Jenkins": 0.36252248201438847,
+        "Soren Stevenson": 0.327619154676259,
+        "Terry White": 0.25477742805755393,
+        "Bob Sullentrop": 0.05508093525179856,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_Ward12CityCouncil.csv": {
+        "Sandy Colvin Roy": 0.4450916150952554,
+        "Charley Underwood": 0.2600412571289892,
+        "Rick L. Nyhlen": 0.20555757796383933,
+        "Brent Perry": 0.08930954981191604,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072023_CityCouncilWard5.csv": {
+        "Jeremiah Bey Ellison": 0.38833068922968444,
+        "Victor Martinez": 0.3534285210646924,
+        "Phillip \"OMac\" Peterson": 0.25824078970562314,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_PRBoardDistrict3.csv": {
+        "AK Hassan": 0.39553102809509105,
+        "Abdi Gurhan Mohamed": 0.3719898116702686,
+        "Charles Exner": 0.23247916023464033,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_PRBoardDistrict2.csv": {
+        "Kale Severson": 0.5211940298507463,
+        "Mike Talley Tate": 0.47880597014925375,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_08112020_Ward6CityCouncilSpecialElection.csv": {
+        "Jamal Osman": 0.2076997511750069,
+        "AJ Awed": 0.17148189106994746,
+        "AK Hassan": 0.1342963782139895,
+        "Abdirizak Bihi": 0.10644180259883881,
+        "Alex Palacios": 0.08280342825546033,
+        "Saciido Shaie": 0.07160630356649157,
+        "Nebiha Mohammed": 0.060685651092065244,
+        "Michael P. Dougherty": 0.047829693115841856,
+        "Sara Mae Engberg": 0.0344899087641692,
+        "Joshua Scheunemann": 0.03055017970693945,
+        "Mohamoud Hassan": 0.028131047829693116,
+        "Suud Olat": 0.023983964611556538,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072023_CityCouncilWard4.csv": {
+        "LaTrisha M. Vetaw": 0.4730577448930352,
+        "Marvina Haynes": 0.33488820974746664,
+        "Angela Williams": 0.12224545600772077,
+        "Leslie Davis": 0.06980858935177739,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_Ward7CityCouncil.csv": {
+        "Lisa Goodman": 0.5161683953630263,
+        "Michael J. Katch": 0.27471018913971934,
+        "Jeffrey Alan Wagner": 0.20912141549725444,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11052013_ParkRecBoardAtLarge.csv": {
+        "JOHN ERWIN": 0.19007259541266475,
+        "ANNIE YOUNG": 0.17658852225270152,
+        "MEG FORNEY": 0.1310698233246238,
+        "TOM NORDYKE": 0.12013346554432083,
+        "JASON STONE": 0.11595000108567417,
+        "MARY LYNN MCPHERSON": 0.07389822166571369,
+        "ISHMAEL ISRAEL": 0.05982788445531727,
+        "STEVE BARLAND": 0.056512959330645686,
+        "HASHIM YONIS": 0.046647800062245316,
+        "CASPER HILL": 0.029298726866092948,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072023_CityCouncilWard6.csv": {
+        "Jamal Osman": 0.406559877955759,
+        "Kayseh Magan": 0.2948131197559115,
+        "Tiger Worku": 0.25336892957030255,
+        "Guy T Gaskin": 0.045258072718026954,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_Ward8CityCouncil.csv": {
+        "Elizabeth Glidden": 0.46679219445395415,
+        "Jeanine Estime": 0.2764464224580623,
+        "Gregory McDonald": 0.12067785005135227,
+        "Michael J. Cavlan": 0.08695652173913043,
+        "David Regan": 0.049127011297500855,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_Mayor.csv": {
+        "R.T. Rybak": 0.46390122713242493,
+        "Al Flowers": 0.12221134783808879,
+        "Papa John Kolstad": 0.1212828427313107,
+        "Dick Franson": 0.12056764285176541,
+        "Christopher Clark": 0.043853045245802906,
+        "Joey Lombard": 0.03914778288037341,
+        "Tom Fiske": 0.03686416221235163,
+        "James R. Everett": 0.016863660317699314,
+        "Bob Carney Jr.": 0.014893723807372833,
+        "Bill McGaughey": 0.014027955532133806,
+        "John Charles Wilson": 0.006386609450676303,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_Ward12CityCouncil.csv": {
+        "Andrew Johnson": 0.5751379227632526,
+        "Will Jaeger": 0.22733269369153275,
+        "Harrison Bullard": 0.19752938354521468,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11052013_Ward9CityCouncil.csv": {
+        "ALONDRA CANO": 0.3161969650046454,
+        "TY MOORE": 0.27180757716527304,
+        "ABDI ABDULLE": 0.1303809228863425,
+        "CHARLES CURTIS": 0.11407040363373594,
+        "PAT FLEETHAM": 0.10643129967998348,
+        "GREGORY MCDONALD": 0.06111283163001961,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_PRBoardDistrict1.csv": {
+        "Chris Meyer": 0.36793266411397424,
+        "Billy Menz": 0.3593431991445031,
+        "Mohamed Issa Barre": 0.2727241367415226,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072023_CityCouncilWard7.csv": {
+        "Scott Graham": 0.3872697451425688,
+        "Katie Cashman": 0.3719404491546808,
+        "Kenneth C. Foxworth": 0.24078980570275044,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_PRBoardDistrict5.csv": {
+        "Steffanie Musich": 0.4122650655158395,
+        "Bill Shroyer": 0.3140069424899146,
+        "Andrea Fahrenkrug": 0.27372799199424586,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_Ward1CityCouncil.csv": {
+        "Kevin Reich": 0.35406091370558374,
+        "Susan Howitz Hanna": 0.23794416243654823,
+        "Larry Ranallo": 0.2368020304568528,
+        "Mark Fox": 0.08756345177664974,
+        "Thomas Alessi": 0.08362944162436549,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_Ward9CityCouncil.csv": {
+        "Gary Schiff": 0.41586538461538464,
+        "Dave Bicking": 0.3167925824175824,
+        "Khalif Jama": 0.1509271978021978,
+        "Todd J. Eberhardy": 0.11641483516483517,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_PRBoardDistrict4.csv": {
+        "Tom Nordyke": 0.5071814671814672,
+        "Jono Cowgill": 0.49281853281853283,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_MinneapolisParkRecBoard.csv": {
+        "Annie Young": 0.1950351078133559,
+        "Mary Merrill Anderson": 0.16520591604003784,
+        "John Erwin": 0.16000199193267267,
+        "Bob Fine": 0.15825905084408148,
+        "Tom Nordyke": 0.14802549673821025,
+        "Nancy Bernard": 0.07472237438374583,
+        "David Wahstedt": 0.060517404511727504,
+        "John Butler": 0.03823265773616852,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_Ward13CityCouncil.csv": {
+        "Linea Palmisano": 0.7131405668479817,
+        "Bob Reuer": 0.28685943315201834,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11022021_CityCouncilWard8.csv": {
+        "Andrea Jenkins": 0.8275678079146287,
+        "Robert \"Bob\" Sullentrop": 0.17243219208537128,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_Ward6CityCouncil.csv": {
+        "Robert Lilligren": 0.32063492063492066,
+        "Laura Jean": 0.178998778998779,
+        "Michael Tupper": 0.15604395604395604,
+        "Andy Exley": 0.1492063492063492,
+        "M. Cali": 0.10476190476190476,
+        "Bruce Lundeen": 0.09035409035409035,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_PRBoardDistrict6.csv": {
+        "Bob Fine": 0.35915451378638485,
+        "Brad Bourn": 0.34203223711401076,
+        "Jennifer Zielinski": 0.19507586939835864,
+        "Robert M Schlosser \"Bob\"": 0.10373737970124579,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11022021_CityCouncilWard9.csv": {
+        "Jason Chavez": 0.35278576423964564,
+        "Yussuf Haji": 0.17460564146398322,
+        "Mickey Moore": 0.12914756391327997,
+        "Brenda Short": 0.10078483176626,
+        "Alfred \"AJ\" Flowers Jr.": 0.09557852202968374,
+        "Carmen Means": 0.08291242520786386,
+        "Ross Tenneson": 0.03667728650244774,
+        "Jon Randall Denison": 0.027507964876835808,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11052013_Ward13CityCouncil.csv": {
+        "MATT PERRY": 0.32788367066221263,
+        "LINEA PALMISANO": 0.3200235802711731,
+        "MISSY DURANT": 0.2498722735311456,
+        "BOB REUER": 0.06842208685399882,
+        "DAVID REGAN": 0.03379838868146984,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_Ward4CityCouncil.csv": {
+        "Barbara A. Johnson": 0.343579341550944,
+        "Troy Parker": 0.28709627086909034,
+        "Marcus Harcus": 0.20954907161803712,
+        "Grant Cermak": 0.15977531596192854,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11052013_Ward5CityCouncil.csv": {
+        "BLONG YANG": 0.351129363449692,
+        "IAN ALEXANDER": 0.28298254620123203,
+        "BRETT BUCKNER": 0.26013860369609854,
+        "KALE R. SEVERSON": 0.10574948665297741,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11022021_ParkBoardDistrict3.csv": {
+        "Becky Alper": 0.46127070664709585,
+        "AK Hassan": 0.28236527573914866,
+        "Mohamoud Hassan": 0.2563640176137555,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_Ward3CityCouncil.csv": {
+        "Diane Hofstede": 0.4984485190409027,
+        "Allen Kathir": 0.2947813822284908,
+        "Jeffery Cobia": 0.11283497884344147,
+        "Raymond Wilson Rolfe": 0.09393511988716502,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11022021_ParkBoardDistrict1.csv": {
+        "Billy Menz": 1.0,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis 2013-board of estimation and taxation cvr.csv": {
+        "CAROL J. BECKER": 0.3878695258582929,
+        "DAVID B WHEELER": 0.3209484780936992,
+        "DAVID PASCOE": 0.18092531124370942,
+        "DOUGLAS SEMBLA": 0.11025668480429852,
+        "UWI": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_Ward11CityCouncil.csv": {
+        "Jeremy Schroeder": 0.34671655394061496,
+        "John Quincy": 0.3351561375737516,
+        "Erica Mauter": 0.3181273084856334,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11072017_Ward10CityCouncil.csv": {
+        "Lisa Bender": 0.379796397807361,
+        "Saralyn Romanishan": 0.2937172459490392,
+        "David Schorn": 0.27299560267453765,
+        "Bruce Lundeen": 0.053490753569062105,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11022021_ParkBoardDistrict4.csv": {
+        "Elizabeth Shaffer": 0.5693167406467977,
+        "Jono Cowgill": 0.4306832593532023,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_Ward2CityCouncil.csv": {
+        "Cam Gordon": 0.7677419354838709,
+        "Allen A. Aigbogun": 0.23225806451612904,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11022021_ParkBoardDistrict5.csv": {
+        "Steffanie Musich": 0.46255803908865134,
+        "Charles Rodgers": 0.32277831767627685,
+        "Justin Cermak": 0.2146636432350718,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11062009_Ward5CityCouncil.csv": {
+        "Don Samuels": 0.31069266980497645,
+        "Natalie Johnson Lee": 0.28468953149518045,
+        "Kenya McKnight": 0.23559739968616902,
+        "Lennie Chism": 0.1136516476126429,
+        "Roger Smithrud": 0.05536875140103116,
+        "writein": 0.0
+    },
+    "Minneapolis/Minneapolis_11022021_ParkBoardDistrict6.csv": {
+        "Cathy Abene": 0.2855119098213021,
+        "Barb Schlaefer": 0.2677837815959363,
+        "Bob Fine": 0.2242324894258596,
+        "Risa Hustad": 0.22247181915690203,
+        "writein": 0.0
+    },
+    "Pierce County, WA/PierceCounty_11042008_CountyExecutiveMember.csv": {
+        "Pat McCarthy": 0.2647624559292736,
+        "Calvin Goings": 0.2632410164251502,
+        "Shawn Bunney": 0.24387654866245823,
+        "Mike Lonergan": 0.22811997898311795,
+        "writein": 0.0
+    },
+    "Pierce County, WA/PierceCounty_11032009_CountyAuditor.csv": {
+        "Julie Anderson": 0.37877397270512264,
+        "Jan Shabro": 0.3641040972211842,
+        "Will Baker": 0.25712193007369316,
+        "writein": 0.0
+    },
+    "Pierce County, WA/PierceCounty_11042008_CountyAssessorTreasurer.csv": {
+        "Jan Shabro": 0.20547387906002249,
+        "Terry Lee": 0.19322325228968232,
+        "Dale Washam": 0.190082196332101,
+        "Barbara Gelman": 0.18461882701138613,
+        "Beverly Davidson": 0.13690122031634316,
+        "Bernardo Tuma": 0.08970062499046495,
+        "writein": 0.0
+    },
+    "Pierce County, WA/PierceCounty_11042008_CountyCouncilDistrict2.csv": {
+        "Joyce McDonald": 0.37569438403320615,
+        "Al Rose": 0.3269539065703953,
+        "Carolyn Merrival": 0.29735170939639854,
+        "writein": 0.0
+    },
+    "Portland, OR/Portland_D1_2024.csv": {
+        "Candace Avalos": 0.12575110689437066,
+        "Steph Routh": 0.11543327008222644,
+        "Jamie Dunphy": 0.10430785217312731,
+        "Loretta Smith": 0.1015632059275323,
+        "Timur Ender": 0.09520421071654468,
+        "Terrence Hayes": 0.09017235926628717,
+        "Noah Ernst": 0.06554395951929158,
+        "David Linn": 0.05265654648956357,
+        "Cayle Tern": 0.05117127496159754,
+        "Doug Clove": 0.042880862022228246,
+        "Deian Salazar": 0.029716725399837354,
+        "Michael (Mike) Sands": 0.02934399566278124,
+        "Joe Allen": 0.027982967380500587,
+        "Joe Furi": 0.022985000451793622,
+        "Peggy Sue Owens": 0.021849868979850005,
+        "Thomas Shervey": 0.01980550284629981,
+        "Uncertified Write In": 0.0036312912261678865
+    },
+    "Portland, OR/Portland_D3_2024.csv": {
+        "Steve Novick": 0.13222450966970348,
+        "Angelita Morillo": 0.12263617272438439,
+        "Tiffany Koyama Lane": 0.11850068580373356,
+        "Jesse Cornett": 0.08108757364963824,
+        "Rex Burkholder": 0.07577420913010123,
+        "Chris Flanary": 0.053541769451124537,
+        "Cristal Azul Otero": 0.053265381505771855,
+        "Philippe Knab": 0.050449840754048306,
+        "Kezia Wanner": 0.05020186652270385,
+        "Ahlam K Osman": 0.0313403265510659,
+        "Daniel DeMelo": 0.030950283749680344,
+        "Harrison Kass": 0.023823607663436976,
+        "Jonathan (Jon) Walker": 0.02256565505234581,
+        "Luke Zak": 0.022165279991320903,
+        "Sandeep Bali": 0.018727220596326366,
+        "Brian Conley": 0.01615190488121776,
+        "Melodie Beirwagen": 0.015924595169152005,
+        "Matthew (Matt) Anderson": 0.011639290483730566,
+        "Heart Free Pham": 0.009665828892614243,
+        "Theo Hathaway Saner": 0.00910530380717937,
+        "Dan Gilk": 0.008084993167793313,
+        "Terry Parker": 0.007229998682636896,
+        "Kelly Janes (KJ)": 0.006932946218005513,
+        "Christopher Brummer": 0.004943986237430161,
+        "Kenneth (Kent) R Landgraver III": 0.00457460795532331,
+        "John Sweeney": 0.0041019070768229336,
+        "Patrick Hilton": 0.0037764408981833305,
+        "Jaclyn Smith-Moore": 0.0037092812105275394,
+        "David O'Connor": 0.002601146364206986,
+        "Clifford Higgins": 0.002577898780018443,
+        "Uncertified Write In": 0.0017254873597718637
+    },
+    "Portland, OR/Portland_D2_2024.csv": {
+        "Elana Pirtle-Guiney": 0.09724149477441892,
+        "Dan Ryan": 0.09681016796206594,
+        "Michelle DePass": 0.09254230266088916,
+        "Sameer Kanal": 0.08844469794353592,
+        "Nat West": 0.08702018439221228,
+        "Tiffani Penson": 0.0855502680185357,
+        "Jonathan Tasini": 0.06282615543088697,
+        "Marnie Glickman": 0.05879097959426903,
+        "Mariah Hudson": 0.05689824943743065,
+        "Michael (Mike) Marshall": 0.04450611661147386,
+        "James Armstrong": 0.03831998206588517,
+        "Jennifer Park": 0.03156631224088467,
+        "Bob Simril": 0.03139037630426701,
+        "Debbie Kitchin": 0.025788803096472485,
+        "Chris Olson": 0.021308112065516274,
+        "Nabil Zaghloul": 0.018393818405736645,
+        "Laura Streib": 0.013757055172942187,
+        "Liz Taylor": 0.012863187107868592,
+        "Will Mespelt": 0.011021535126177281,
+        "Reuben Berlin": 0.010737767486471378,
+        "Sam Sachs": 0.008013598145294707,
+        "Antonio Jamal PettyJohnBlue": 0.004628250203603281,
+        "Uncertified Write In": 0.001580585753161881
+    },
+    "Portland, OR/PortlandOR_110524_Mayor.csv": {
+        "Keith Wilson": 0.2076009047787205,
+        "Carmen Rubio": 0.17280319154012808,
+        "Mingus Mapps": 0.16251181079817134,
+        "Rene Gonzalez": 0.12419901314219724,
+        "Liv (Viva) Osthus": 0.1159424301134791,
+        "Josh Leake": 0.03722859024404211,
+        "Sharon Nasset": 0.02550846082632639,
+        "Michael Hayes": 0.02473539040056501,
+        "Durrell Kinsey Bey": 0.02313007625719385,
+        "Alexander Landry Neely": 0.023088082308140145,
+        "Michael O'Callaghan": 0.020700153659677218,
+        "Shei'Meka (BeUtee) As-Salaam": 0.011293509071647403,
+        "Martin Ward": 0.00896379930709984,
+        "Saadiq Ali": 0.00815446137988299,
+        "James Macdonald": 0.0075846798438588625,
+        "Yao Jun He": 0.007552229974135545,
+        "Dustin Witherspoon": 0.007145652194661042,
+        "James Atkinson IV": 0.005252106855512183,
+        "Michael Necula": 0.0036105252106855513,
+        "UWI Entered candidate": 0.002993023278009487,
+        "James A Zehren": 1.908815866077479e-06,
+        "UWI": 0.0
+    },
+    "Portland, OR/Portland_D4_2024.csv": {
+        "Olivia Clark": 0.13037070790385935,
+        "Eric Zimmerman": 0.10593178789993712,
+        "Eli Arnold": 0.09988983163274134,
+        "Mitch Green": 0.0952956376787352,
+        "Sarah Silkie": 0.09240011305235593,
+        "Chad Lykins": 0.07331964400043836,
+        "Lisa Freeman": 0.06242105081011242,
+        "Bob Weinstein": 0.06037341885321074,
+        "Tony Morse": 0.038201313945238825,
+        "Ben Hufford": 0.03540096094502541,
+        "Stanley Penkin": 0.0275997715880972,
+        "John Toran": 0.02495226998748349,
+        "Andra Vltavin": 0.018757462320688003,
+        "Bob Callahan": 0.017895149707851946,
+        "Chloe Mason": 0.017733646342237168,
+        "Kevin Goldsmith": 0.01649929919075278,
+        "Ciatta R Thompson": 0.015686014385335494,
+        "Moses Ross": 0.015106332662325302,
+        "Chris Henry": 0.0092258797607443,
+        "Mike DiNapoli": 0.008654850003749185,
+        "Michael Trimble": 0.005352682974661275,
+        "Joseph (Joe) Alfone": 0.004651873727439999,
+        "Raquel Coyote": 0.004429806599719676,
+        "John J Goldsmith": 0.004219275426686124,
+        "Kelly Doyle": 0.004063540038414729,
+        "Brandon Farley": 0.002497534189685703,
+        "Tony Schwartz": 0.002468694302968778,
+        "Patrick Cashman": 0.0021860634131429134,
+        "Lee Odell": 0.001842868761211506,
+        "Uncertified Write In": 0.0015746578147441037,
+        "Christopher Regis": 0.0009978600804056042
+    },
+    "Portland, ME/Portland_06142022_SchoolboardAL-1.csv": {
+        "Grant, Benjamin K.": 0.2293747816975201,
+        "Lentz, Sarah M.": 0.22221446035626966,
+        "Albert, Stephanie G.": 0.1432762836185819,
+        "Hang, Stacey L.": 0.1259867272092211,
+        "Mancini, Kimberly A.": 0.11945511701012923,
+        "Schertz, Amber J.": 0.11030387705204331,
+        "Ward, Richard L.": 0.04938875305623472
+    },
+    "Portland, ME/Portland_06142022_Schoolboarddistrict5-1.csv": {
+        "Brydon, Sarah M.": 0.302185030218503,
+        "Capone-Newton, Elizabeth": 0.20571827057182707,
+        "Haefele, Joshua W.": 0.17526731752673175,
+        "Goglin, Barbara E.": 0.1599256159925616,
+        "Viola, Lou A.": 0.15550906555090654,
+        "Capone-Newton, Elizabeth A.": 0.001394700139470014
+    },
+    "Portland, ME/Portland_06082021_charter_commission_at_large.csv": {
+        "Chann, Marpheen S.": 0.12889403304848918,
+        "Buxton, Catherine A.": 0.1267515453000714,
+        "Sheikh-Yousef, Nasreen A.": 0.12438742088802424,
+        "Grant, Benjamin K.": 0.1110645947743,
+        "Washburn, Patricia J.": 0.10308567488364075,
+        "DiMillo, Steven A.": 0.08909793877902825,
+        "Emerson, Anthony M.": 0.08789125027704583,
+        "Condrey, Lawson T.": 0.08030635112172778,
+        "Houseal, Ian P.": 0.06530893688280345,
+        "Bailey, William M.": 0.06392986430910927,
+        "Rovelto, Hope R.": 0.019282389735759846
+    },
+    "Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict90.csv": {
+        "Crafts, Lydia V.": 0.4198266522210184,
+        "Pieh, Wendy": 0.37757313109425783,
+        "Levesque, David J.": 0.20260021668472372
+    },
+    "Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict47.csv": {
+        "Bell, Arthur L.": 0.380806310254163,
+        "Abbott, Heather": 0.34574934268185803,
+        "Fromuth, Peter J.": 0.27344434706397897
+    },
+    "Maine/Maine_11082022_CongressionalDistrict2.csv": {
+        "Golden, Jared Forrest": 0.3617934683451925,
+        "Poliquin, Bruce": 0.35143222039773764,
+        "Bond, Tiffany": 0.28677431125706987,
+        "Write-in": 0.0
+    },
+    "Maine/Maine_11062018_CongressionalDistrict2.csv": {
+        "DEM Golden, Jared F.": 0.2902706861579352,
+        "REP Poliquin, Bruce": 0.27945317935672925,
+        "Bond, Tiffany L.": 0.22894387118387,
+        "Hoar, William R.S.": 0.20133226330146553
+    },
+    "Maine/Maine_06122018_DemocraticPrimaryforCD2.csv": {
+        "Golden, Jared F.": 0.34561646238088745,
+        "St. Clair, Lucas R.": 0.31879299257555976,
+        "Olson, Craig R.": 0.22545160473137557,
+        "Fulford, Jonathan S.": 0.11013894031217725
+    },
+    "Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict41.csv": {
+        "Zager, Samuel Lewis": 0.41161290322580646,
+        "Grant, Benjamin K.": 0.37548387096774194,
+        "Davis, Laurie J.": 0.2129032258064516
+    },
+    "Maine/Maine_07142020_RepublicanCandidateforUSHouseofRepresentativesDistrict2.csv": {
+        "Crafts, Dale John": 0.40730811010700996,
+        "Bennett, Adrienne": 0.33087572514849656,
+        "Brakey, Eric L.": 0.2618161647444935
+    },
+    "Maine/Maine_07142020_DemocraticCandidateforMaineStateSenateDistrict11.csv": {
+        "Curry, Glenn Chip": 0.3866306268842915,
+        "Stanicki, Robyn M.": 0.33381848424992205,
+        "Pattavina, Charles F.": 0.27955088886578644
+    },
+    "Maine/Maine_06122018_DemocraticPrimaryforGovernor.csv": {
+        "Mills, Janet T.": 0.1855307680457052,
+        "Cote, Adam Roland": 0.17238940746941572,
+        "Sweet, Elizabeth A.": 0.16407397026859977,
+        "Eves, Mark W.": 0.16176680767024837,
+        "Dion, Mark N.": 0.1189961336929265,
+        "Russell, Diane Marie": 0.10236897154004496,
+        "Dion, Donna J.": 0.09487394131305951,
+        "writein": 0.0
+    },
+    "Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict49.csv": {
+        "Arford, Poppy": 0.36914460285132383,
+        "Perreault, Corinne Ann": 0.32535641547861505,
+        "Wilson, Katherine E.": 0.3054989816700611
+    },
+    "Takoma Park, MD/TakomaPark_11082022_Mayor.csv": {
+        "Talisha Searcy": 0.3659125188536953,
+        "Seth Grimes": 0.3394419306184012,
+        "Jarrett Smith": 0.2946455505279035,
+        "writein": 0.0
+    },
+    "Takoma Park, MD/TakomaPark_11082022_CityCouncilWard4.csv": {
+        "Terry Seamens": 1.0,
+        "writein": 0.0
+    },
+    "Takoma Park, MD/TakomaPark_11082022_CityCouncilWard5.csv": {
+        "Cara Honzak": 0.41746411483253587,
+        "A. J. Campbell": 0.3444976076555024,
+        "Yared Tebabu": 0.23803827751196172,
+        "writein": 0.0
+    },
+    "Takoma Park, MD/TakomaPark_11082022_CityCouncilWard6.csv": {
+        "Jason Small": 0.29344073647871116,
+        "Mike Moore": 0.2928653624856157,
+        "Ambroise Agosse": 0.2186421173762946,
+        "Raju Charles": 0.19505178365937859,
+        "writein": 0.0
+    },
+    "Takoma Park, MD/TakomaPark_11082022_CityCouncilWard2.csv": {
+        "Cindy Dyballa": 1.0,
+        "writein": 0.0
+    },
+    "Takoma Park, MD/TakomaPark_11082022_CityCouncilWard3.csv": {
+        "Randy Gibson": 0.3568949195329757,
+        "Mimi Diez": 0.33796150205112024,
+        "Alex Hadden": 0.30514357841590406,
+        "writein": 0.0
+    },
+    "Takoma Park, MD/TakomaPark_11082022_CityCouncilWard1.csv": {
+        "Shana Fulcher": 0.3931128537333788,
+        "Elizabeth Wallace": 0.31878622570746673,
+        "Mark Sherman": 0.2881009205591544,
+        "writein": 0.0
+    },
+    "Bloomington/Bloomington_11072023_SpecialCityCouncilAtLarge.csv": {
+        "Chao Moua": 0.410125788628081,
+        "Jonathan A. Minks": 0.3502096477134684,
+        "Maxwell Collins": 0.23966456365845057
+    },
+    "Bloomington/Bloomington_11072023_CityCouncilDistrict4.csv": {
+        "Victor Rivas": 0.45443069931835395,
+        "Isaak Rooble": 0.37263317344105024,
+        "Luqman Abdi": 0.17293612724059582
+    },
+    "Utah cities/Springville_11022021_Mayor.csv": {
+        "MATT PACKARD": 0.4908380615756674,
+        "RYAN MILLER": 0.2752302111431495,
+        "MATTHEW NORMAN BRADLEY": 0.23393172728118314
+    },
+    "Utah cities/WoodlandHills_11022021_CityCouncil.csv": {
+        "JANET LUNT": 0.3000590667454223,
+        "DOREL B. KYNASTON": 0.26520968694624925,
+        "CODY CHAMBERLAIN": 0.22681630242173656,
+        "TOBY M. HARDING": 0.20791494388659185
+    },
+    "Utah cities/Springville_11022021_CityCouncil4yr.csv": {
+        "MICHAEL SNELSON": 0.16896551724137931,
+        "CRAIG JENSEN": 0.16248791492104414,
+        "CRAIG CONOVER": 0.147115694489204,
+        "MARCIA CONOVER-HARRIS": 0.14221720915243313,
+        "XIMENA M. BISHOP": 0.1399613277473413,
+        "DALE WATSON": 0.12333225910409282,
+        "AMANDA MILLER": 0.11592007734450532
+    },
+    "Utah cities/WoodlandHills_11022021_Mayor.csv": {
+        "BRENT WINDER": 0.377326565143824,
+        "BENJAMIN J HILLYARD": 0.37478849407783416,
+        "MIKE LAURITZEN": 0.2478849407783418
+    },
+    "Utah cities/Vineyard_11022021_CityCouncil.csv": {
+        "MARDI SIFUENTES": 0.2909456740442656,
+        "AMBER RASMUSSEN": 0.2607645875251509,
+        "NEF PACHECO": 0.2511066398390342,
+        "KRISTAL C. PRICE": 0.15995975855130784,
+        "uwi": 0.03722334004024145
+    },
+    "Utah cities/Genola_11022021_CityCouncil.csv": {
+        "HALE ROBISON": 0.38535911602209943,
+        "GRANT LUNDBERG": 0.3342541436464088,
+        "DARON S. HUGHES": 0.2803867403314917
+    },
+    "Utah cities/Vineyard_11052019_CityCouncil.csv": {
+        "CRISTY WELSH": 0.17861823628533982,
+        "G. TYCE FLAKE": 0.1728140797603445,
+        "DAVID LAURET": 0.15895899644261374,
+        "ANTHONY JENKINS": 0.14285714285714285,
+        "HECTOR RAFAEL HERNANDEZ": 0.13255944579666729,
+        "TAY GUDMUNDSON": 0.1306871372402172,
+        "KEITH KUDER": 0.0835049616176746
+    },
+    "Utah cities/Moab_11022021_CityCouncil.csv": {
+        "JASON TAYLOR": 0.22376329172445678,
+        "LUKE WOJCIECHOWSKI": 0.217753120665742,
+        "JOSIE KOVASH": 0.2017259978425027,
+        "MIKE MCCURDY": 0.19432886423177687,
+        "ANTHONY CHARLES": 0.15056249036831562,
+        "RANDALL FOX": 0.011866235167206042
+    },
+    "Utah cities/Payson_11052019_CityCouncil.csv": {
+        "DOUG WELTON": 0.24564514446646502,
+        "BRIAN V. HULET": 0.23239803901116093,
+        "LINDA CARTER": 0.2119536872848649,
+        "CARY KENNETH STOCKWELL": 0.17794930635235215,
+        "SCOTT PINKHAM": 0.132053822885157
+    },
+    "Utah cities/ElkRidge_11022021_Mayor.csv": {
+        "ROBERT HADDOCK": 0.4253486464315012,
+        "GORDON REYNOLDS": 0.32116488925348646,
+        "GEORGE D. POTTER": 0.2534864643150123
+    },
+    "Utah cities/Lehi_11022021_CityCouncil.csv": {
+        "PAUL HANCOCK": 0.12320460515285307,
+        "CHRIS CONDIE": 0.12191918627396188,
+        "NICOLE KUNZE": 0.12140222433353826,
+        "MICHELLE MILES": 0.12136030850053094,
+        "AARON BULLEN": 0.11996311406695356,
+        "LORI MCINTOSH LE": 0.11778349075057284,
+        "CAMI PURTSCHERT": 0.10871569887665568,
+        "MONTANE C HAMILTON": 0.10451014363158777,
+        "ETHAN M. ERICKSON": 0.061141228413346
+    },
+    "Utah cities/Vineyard_11022021_Mayor.csv": {
+        "JULIE FULLMER": 0.5224963715529753,
+        "MARC BRIMHALL": 0.3327285921625544,
+        "MARIA GUADALUPE CANE": 0.14477503628447025
+    },
+    "Minnetonka/Minnetonka_11022021_CityCouncilAtLargeSeatA.csv": {
+        "Deb Calvert": 0.32755137888635166,
+        "Karen Ahlbrecht": 0.184480941507114,
+        "Iola Kostrzewski": 0.17332689267521517,
+        "Wyn Ray": 0.1676620411031091,
+        "Marshall Glynn": 0.14697874582821008
+    },
+    "Minnetonka/Minnetonka_11022021_CityCouncilAtLargeSeatB.csv": {
+        "Kimberly Wilburn": 0.2616540655874577,
+        "Stacy Cranbrook": 0.19611299225381512,
+        "Ash Patel": 0.1841458323669929,
+        "Daniel Kral": 0.1840530636856997,
+        "Jim Hadley": 0.1740340461060346
+    },
+    "Minnetonka/Minnetonka_11072023_CityCouncilWard4.csv": {
+        "Ted Nearman": 0.3702064896755162,
+        "Kissy C. Coakley": 0.3523434939364143,
+        "David G. Larson": 0.2774500163880695,
+        "writein": 0.0
+    },
+    "Minnetonka/Minnetonka_11072023_CityCouncilWard1.csv": {
+        "Patsy Foster-Bolton": 0.3272212035339223,
+        "Bonnie Burton": 0.3060510085014169,
+        "Dana Minion": 0.27387897982997167,
+        "Reed Gilkey": 0.09284880813468911,
+        "writein": 0.0
+    },
+    "Minnetonka/Minnetonka_11072023_CityCouncilWard3.csv": {
+        "David Haeg": 0.35683084801928,
+        "Paula Ramaley": 0.3459858412411508,
+        "Ryan Ness": 0.2971833107395692,
+        "writein": 0.0
+    },
+    "Minnetonka/Minnetonka_11022021_Mayor.csv": {
+        "Brad Wiersum": 0.6271571298819255,
+        "John Kuhl": 0.3728428701180745
+    },
+    "Burlington/Burlington_03072023_CityCouncilEastDistrict.csv": {
+        "TIMOTHY C. DOHERTY,JR": 0.5550807217473884,
+        "JAKE SCHUMANN": 0.44491927825261157,
+        "Write-in": 0.0
+    },
+    "Burlington/Burlington_03052024_Mayor.csv": {
+        "EMMA MULVANEY-STANAK": 0.3622118218062056,
+        "JOAN SHANNON": 0.349523314265904,
+        "CHRISTOPHER HAESSLY": 0.15326746403189462,
+        "WILLIAM EMMONS": 0.13499739989599585,
+        "Write-in": 0.0
+    },
+    "Burlington/Burlington_03072006_Mayor.csv": {
+        "Bob Kiss": 0.265552460538533,
+        "Hinda Miller": 0.26537390186415255,
+        "Kevin Curley": 0.21366330976358833,
+        "Louie the Cowman Beaudin": 0.12202699807156632,
+        "Loyal Ploof": 0.11306335261767017,
+        "Write-Ins": 0.02031997714448968
+    },
+    "Burlington/Burlington_03072023_CityCouncilSouthDistrict.csv": {
+        "JOAN SHANNON": 0.4564820450395618,
+        "FARIED MUNARSYAH": 0.2790626902008521,
+        "WILL \"BILLY\" ANDERSON": 0.26445526475958614,
+        "Write-in": 0.0
+    },
+    "Burlington/Burlington_03072023_CityCouncilCentralDistrict.csv": {
+        "MELO GRANT": 0.5317632475983886,
+        "AVERY MUZIKAR": 0.4682367524016114,
+        "Write-in": 0.0
+    },
+    "Burlington/Burlington_03072023_CityCouncilNorthDistrict.csv": {
+        "MARK BARLOW": 1.0,
+        "Write-in": 0.0
+    },
+    "Burlington/Burlington_03032009_Mayor.csv": {
+        "Andy Montroll": 0.2355774301283178,
+        "Bob Kiss": 0.21726138161364036,
+        "Dan Smith": 0.214132536473897,
+        "Kurt Wright": 0.21392160309368957,
+        "James Simpson": 0.11910704869045527,
+        "Write-in": 0.0
+    },
+    "APA/APA 2002.csv": {
+        "Cand 4": 0.2295385404830847,
+        "Cand 3": 0.21901916944617528,
+        "Cand 0": 0.20252538210607338,
+        "Cand 1": 0.19862185243558259,
+        "Cand 2": 0.15029505552908404
+    },
+    "APA/APA 2003.csv": {
+        "Cand 3": 0.2836739627694196,
+        "Cand 1": 0.23774012980492068,
+        "Cand 4": 0.21999888419838953,
+        "Cand 2": 0.21730236363974487,
+        "Cand 0": 0.041284659587525335
+    },
+    "APA/APA 2001.csv": {
+        "Cand 4": 0.23186893648178655,
+        "Cand 2": 0.2049606443346147,
+        "Cand 0": 0.20188541094636647,
+        "Cand 1": 0.19723595094270546,
+        "Cand 3": 0.16404905729452682
+    },
+    "APA/APA 2000.csv": {
+        "Cand 4": 0.2462786893211746,
+        "Cand 1": 0.20803705923322374,
+        "Cand 0": 0.2080046647985876,
+        "Cand 2": 0.1841623609063963,
+        "Cand 3": 0.15351722574061777
+    },
+    "APA/APA 2004.csv": {
+        "Cand 3": 0.24985514196087835,
+        "Cand 0": 0.22767687666087236,
+        "Cand 4": 0.19195188715059242,
+        "Cand 2": 0.17672680772842614,
+        "Cand 1": 0.15378928649923077
+    },
+    "APA/APA 2018 President.csv": {
+        "Sandra L. Shullman PhD": 0.24028525066188403,
+        "Susan Krauss Whitbourne PhD": 0.22252113758647193,
+        "Jean Lau Chin EdD": 0.2053121530446665,
+        "Armand R. Cerbone PhD": 0.17204714322316167,
+        "Steven D. Hollon PhD": 0.15983431548381588
+    },
+    "APA/APA 2005.csv": {
+        "Cand 1": 0.2396765809991337,
+        "Cand 0": 0.23301272795930608,
+        "Cand 3": 0.19478442435416157,
+        "Cand 4": 0.1716164286190275,
+        "Cand 2": 0.16090983806837114
+    },
+    "APA/APA 2021 President.csv": {
+        "Thema S. Bryant-Davis PhD": 0.2399275924489268,
+        "Mary Ann McCabe PhD ABPP": 0.23754848719937938,
+        "Diana L. Prescott PhD": 0.1944142746314973,
+        "Beth N. Rom-Rymer PhD": 0.1886733902249806,
+        "Kirk J. Schneider PhD": 0.13943625549521593
+    },
+    "APA/APA 2007.csv": {
+        "Cand 2": 0.22930100593242198,
+        "Cand 1": 0.22883203976833072,
+        "Cand 3": 0.2119023612446362,
+        "Cand 4": 0.19150233310666637,
+        "Cand 0": 0.13846225994794475
+    },
+    "APA/APA 2006.csv": {
+        "Cand 2": 0.25821216002410907,
+        "Cand 1": 0.2146086039327959,
+        "Cand 0": 0.1998794545317562,
+        "Cand 3": 0.1720786559180291,
+        "Cand 4": 0.15522112559330972
+    },
+    "APA/APA 1999.csv": {
+        "Cand 3": 0.2224066989099834,
+        "Cand 2": 0.21917635169277414,
+        "Cand 1": 0.21110950696600014,
+        "Cand 0": 0.1995957554320364,
+        "Cand 4": 0.14771168699920595
+    },
+    "APA/APA 1998.csv": {
+        "Cand 2": 0.24818707304256438,
+        "Cand 1": 0.20646347871781398,
+        "Cand 3": 0.1982133473462953,
+        "Cand 0": 0.19012086179716237,
+        "Cand 4": 0.15701523909616394
+    },
+    "APA/APA 2021 BOD race1.csv": {
+        "Debra M. Kawahara PhD": 0.387524207522169,
+        "M. Nicole Coleman PhD": 0.32269901131383144,
+        "Nancy M. Sidun PsyD ABPP": 0.2897767811639996
+    },
+    "APA/APA 2018 BOD race1.csv": {
+        "Pamela E. Scott-Johnson PhD": 0.44933285250631083,
+        "Dennis L. Molfese PhD": 0.28020194734944104,
+        "Wayne J. Camara PhD": 0.27046520014424813
+    },
+    "APA/APA 2021 BOD race2.csv": {
+        "Tamara S. Lyn PhD": 0.4412532637075718,
+        "John R. Fraser PhD": 0.3233420365535248,
+        "Jeffrey J. McHenry PhD": 0.2354046997389034
+    },
+    "APA/APA 2018 BOD race2.csv": {
+        "Kim E. Dixon PhD": 0.35373966199208917,
+        "Shannon L. Wiltsey Stirman PhD": 0.34582883854728513,
+        "Barry A. Hong PhD": 0.3004314994606257
+    },
+    "APA/APA 2019 BOD race1.csv": {
+        "Anthony L. Chambers PhD ABPP": 0.4497790277219767,
+        "Ronald H. Rozensky PhD ABPP": 0.31950582563278423,
+        "Randall P. White PhD": 0.23071514664523904
+    },
+    "APA/APA 2020 BOD race1.csv": {
+        "Candice Hargons PhD": 0.46952296819787986,
+        "John A. Nelson PsyD": 0.2948763250883392,
+        "Justin E. Karr PhD": 0.23560070671378092
+    },
+    "APA/APA 2019 BOD race2.csv": {
+        "Susan D. Clayton PhD": 0.4283847622876671,
+        "Guillermo Bernal PhD": 0.334707005729219,
+        "Eugene Borgida PhD": 0.2369082319831139
+    },
+    "APA/APA 2020 BOD race2.csv": {
+        "M. Lynne Cooper PhD": 0.40840108401084013,
+        "Erica H. Wise PhD": 0.37741644083107495,
+        "Jeremy M. Wolfe PhD": 0.21418247515808492
+    },
+    "APA/APA 2017 President.csv": {
+        "Rosie Phillips Bingham PhD": 0.2760662208091218,
+        "Steven D. Hollon PhD": 0.22106494170960786,
+        "Raymond A. DiGiuseppe PhD": 0.21269597631838613,
+        "Jack Kitaeff PhD JD": 0.18550597522201512,
+        "Todd E. Finnerty PsyD": 0.10466688594086905
+    },
+    "APA/APA 2020 President.csv": {
+        "Frank C. Worrell PhD": 0.2621035058430718,
+        "Susan Krauss Whitbourne PhD ABPP": 0.24841402337228716,
+        "Steven D. Hollon PhD": 0.16823276890054853,
+        "Thomas G. Plante PhD ABPP": 0.16651562127355116,
+        "Kirk J. Schneider PhD": 0.1547340806105414
+    },
+    "APA/APA 2019 President.csv": {
+        "Jennifer F. Kelly PhD ABPP": 0.2457458670674359,
+        "Susan Krauss Whitbourne PhD ABPP": 0.23391671110680176,
+        "Jean Lau Chin EdD ABPP": 0.2130702477335531,
+        "Steven D. Hollon PhD": 0.18044310854704998,
+        "Robert H. Woody PhD JD": 0.12682406554515926
+    },
+    "APA/APA 2008.csv": {
+        "Cand 1": 0.23791140717864004,
+        "Cand 0": 0.23193219973784857,
+        "Cand 3": 0.20361625338911532,
+        "Cand 4": 0.16650207386924748,
+        "Cand 2": 0.1600380658251486
+    },
+    "APA/APA 2009.csv": {
+        "Cand 0": 0.21780145029840212,
+        "Cand 4": 0.21651800038503496,
+        "Cand 2": 0.2137799739031851,
+        "Cand 1": 0.18167233523711737,
+        "Cand 3": 0.17022824017626045
+    },
+    "APA/APA 2017 BOD race2.csv": {
+        "Mitchell J. Prinstein PhD": 0.37438298949500065,
+        "Michael J. Lawler PhD": 0.32616124541197317,
+        "Richard J. Cohen PhD": 0.2994557650930262
+    },
+    "APA/APA 2017 BOD race1.csv": {
+        "Le Ondra Clark Harvey PhD": 0.38362338800550894,
+        "Jennifer M. Taylor PhD": 0.33466883685989735,
+        "Amy C. Fineburg PhD": 0.2817077751345937
+    },
+    "Easthampton, MA/Easthampton_11022021_Mayor.csv": {
+        "NICOLE M. LACHAPELLE": 0.46238088465367655,
+        "KEITH M. ROUTHIER": 0.20864741857488267,
+        "ERIC K. BERZINS": 0.1878822358128289,
+        "DONALD W. TORREY": 0.12942682406485564,
+        "HOMAR GOMEZ": 0.0007111363959607452,
+        "AVERY LAVALLEY": 0.0005689091167685962,
+        "OWEN ZARET": 0.00042668183757644715,
+        "THOMAS W. PEAKE": 0.00042668183757644715,
+        "DAVID MEUNIER": 0.00042668183757644715,
+        "WILLIAM TORREY": 0.0002844545583842981,
+        "DANIEL CAREY": 0.0002844545583842981,
+        "BARNABY BREWIN": 0.0002844545583842981,
+        "JOY WINNIE": 0.0002844545583842981,
+        "RON TORREY": 0.0002844545583842981,
+        "JOHN HAYDEN": 0.0002844545583842981,
+        "KERRIANN COLLINS": 0.0002844545583842981,
+        "CHRISTOPHER MADSEN": 0.00014222727919214906,
+        "DAN GILBERT": 0.00014222727919214906,
+        "DONALD TRYON": 0.00014222727919214906,
+        "DAVID RANNIKKO": 0.00014222727919214906,
+        "JUSTIN PAYNE": 0.00014222727919214906,
+        "DONALD POLONIS": 0.00014222727919214906,
+        "LEWIS CLARK": 0.00014222727919214906,
+        "TYLER R. MULLALY": 0.00014222727919214906,
+        "MARK SMITH": 0.00014222727919214906,
+        "SARAH HUNTINGTON": 0.00014222727919214906,
+        "JEFFREY ROWLAND": 0.00014222727919214906,
+        "MATTHEW DUBE": 0.00014222727919214906,
+        "WILL BUNDY": 0.00014222727919214906,
+        "RUSSELL BRAEN": 0.00014222727919214906,
+        "DAVID SULLIVAN": 0.00014222727919214906,
+        "FRANK PADELLARO": 0.00014222727919214906,
+        "JOSEPH DICARLO III": 0.00014222727919214906,
+        "BROOKE REGNIER": 0.00014222727919214906,
+        "MEGAN WARD HARVEY": 0.00014222727919214906,
+        "DAN TOONEY": 0.00014222727919214906,
+        "JAMES LINDLEY III": 0.00014222727919214906,
+        "ROBERT TORREY": 0.00014222727919214906,
+        "ZACHARY C.": 0.00014222727919214906,
+        "TRAVIS CONNOLLY": 0.00014222727919214906,
+        "ROBERT PEIRENT": 0.00014222727919214906,
+        "DON CARREY": 0.00014222727919214906,
+        "EVAN LEBEAU": 0.00014222727919214906,
+        "FARLIN BLACK": 0.00014222727919214906,
+        "DUSTIN CHRISTENSEN": 0.00014222727919214906,
+        "KRISTIN ROTAS": 0.00014222727919214906,
+        "TYLER MARTIN": 0.00014222727919214906,
+        "ALLISON BUTLER": 0.00014222727919214906,
+        "TROY GRAY": 0.00014222727919214906,
+        "DONAL CARBAUGH": 0.00014222727919214906,
+        "MEGAN FALLER": 0.00014222727919214906,
+        "BARBARA LABOMBARD": 0.00014222727919214906,
+        "MATT PIKE": 0.00014222727919214906,
+        "BURNS MAXEY": 0.00014222727919214906,
+        "ADA LOVELACE": 0.00014222727919214906,
+        "JEFF BAGG": 0.00014222727919214906,
+        "MARGIE PHILLIPS": 0.00014222727919214906,
+        "KYLE SILVA": 0.00014222727919214906,
+        "JEFF ZYGO": 0.00014222727919214906,
+        "JOHN STEWART": 0.00014222727919214906,
+        "NOAH PHILLIPS": 0.00014222727919214906,
+        "PATRICK BROUGH": 0.00014222727919214906,
+        "CHARLIE MAKAR": 0.00014222727919214906,
+        "NANCY DIROCCO": 0.00014222727919214906,
+        "MICHAEL F. BRAID": 0.00014222727919214906,
+        "JOHN A. PAVAR": 0.00014222727919214906,
+        "UWI": 0.0
+    },
+    "Alameda County/Oakland_11042014_SchoolDirectorDistrict2.csv": {
+        "AIMEE ENG": 0.7606319385140905,
+        "WILLIAM ''BO'' GHIRARDELLI": 0.23936806148590947
+    },
+    "Alameda County/Berkeley_11032020_MemberCityCouncilDist2BerkeleyRCV.csv": {
+        "TERRY TAPLIN": 0.29551826961591526,
+        "ALEX SHARENKO": 0.2589790377853932,
+        "CHERYL DAVILA": 0.24758556233032178,
+        "TIMOTHY W. CARTER": 0.19791713026836977,
+        "Write-in": 0.0
+    },
+    "Alameda County/Berkeley_11042014_CityAuditor.csv": {
+        "ANN-MARIE HOGAN": 1
+    },
+    "Alameda County/Berkeley_11042014_CityCouncilDistrict8.csv": {
+        "LORI DROSTE": 0.2848847596926925,
+        "GEORGE BEIER": 0.26505270680721815,
+        "MIKE ALVAREZ COHEN": 0.24164731105949616,
+        "JACQUELYN MCCORMICK": 0.20841522244059318
+    },
+    "Alameda County/Oakland_11082016_CouncilAtLrg.csv": {
+        "REBECCA KAPLAN": 0.3322563016961922,
+        "PEGGY MOORE": 0.24608581236304986,
+        "BRUCE QUAN": 0.24025233312641592,
+        "FRANCIS ''MATT'' HUMMEL": 0.09550564778412678,
+        "NANCY SIDEBOTHAM": 0.08589990503021525
+    },
+    "Alameda County/Berkeley_11062018_CityCouncilDistrict1.csv": {
+        "IGOR A. TREGUB": 0.3052965991354617,
+        "RASHI KESARWANI": 0.3035779386490287,
+        "MARGO SCHUELER": 0.2740482266548617,
+        "MARY BEHM-STEINBERG": 0.11707723556064788
+    },
+    "Alameda County/Oakland_11062012_CityAttorney.csv": {
+        "BARBARA PARKER": 0.5896682746834053,
+        "JANE BRUNNER": 0.4103317253165946,
+        "writein": 0.0
+    },
+    "Alameda County/Berkeley_11082016_Mayor.csv": {
+        "JESSE ARREGU\u00cdN": 0.31224188038545864,
+        "LAURIE CAPITELLI": 0.24562425796301288,
+        "KRISS WORTHINGTON": 0.19445557247015463,
+        "BEN GOULD": 0.07548928917409008,
+        "ZACHARY RUNNINGWOLF": 0.05864914670298854,
+        "GUY ''MIKE'' LEE": 0.05209372792098535,
+        "BERNT RAINER WAHL": 0.04641964877522926,
+        "NAOMI D. PETE": 0.015026476608080647
+    },
+    "Alameda County/SanLeandro_11062018_Mayor.csv": {
+        "PAULINE RUSSO CUTTER": 0.335529984285497,
+        "BENNY LEE": 0.285666007671381,
+        "JEROMEY SHAFER": 0.22184484885351718,
+        "DAN DILLMAN": 0.15695915918960476
+    },
+    "Alameda County/Oakland_11022010_SchoolDirectorDistrict6.csv": {
+        "CHRISTOPHER DOBBINS": 1.0,
+        "writein": 0.0
+    },
+    "Alameda County/Oakland_11022010_SchoolDirectorDistrict4.csv": {
+        "GARY D. YEE": 0.5653081476918865,
+        "BENJAMIN VISNICK": 0.43469185230811347,
+        "writein": 0.0
+    },
+    "Alameda County/Berkeley_11032020_MemberCityCouncilDist5BerkeleyRCV.csv": {
+        "SOPHIE HAHN": 0.5206113941639648,
+        "TODD ANDREW": 0.2898911533117184,
+        "PAUL DARWIN PICKLESIMER": 0.18949745252431682,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11042014_SchoolDirectorDistrict4.csv": {
+        "NINA SENN": 0.31234959527455697,
+        "KARL DEBRO": 0.2981295121417633,
+        "SALEEM SHAKIR-GILMORE": 0.25032815576460293,
+        "CHERI SPIGNER": 0.1391927368190768
+    },
+    "Alameda County/Oakland_11082022_CityAuditor.csv": {
+        "COURTNEY RUBY": 1.0,
+        "Write-in": 0.0
+    },
+    "Alameda County/Berkeley_11062018_CityCouncilDistrict7.csv": {
+        "RIGEL ROBINSON": 0.4659202514240817,
+        "CECILIA ''CES'' ROSALES": 0.3954036535061874,
+        "AIDAN HILL": 0.1386760950697309
+    },
+    "Alameda County/Oakland_11022010_Mayor.csv": {
+        "JEAN QUAN": 0.243777750953442,
+        "REBECCA KAPLAN": 0.2266467876589206,
+        "DON PERATA": 0.21391356546533516,
+        "JOE TUMAN": 0.1505997957725572,
+        "MARCIE HODGE": 0.05484452941234043,
+        "TERENCE CANDELL": 0.034686041086907586,
+        "LARRY LIONEL ''LL'' YOUNG JR.": 0.021636364229530768,
+        "DON MACLEAY": 0.020501042342938983,
+        "GREG HARLAND": 0.018034653416894763,
+        "ARNOLD FIELDS": 0.015359469661132516,
+        "writein": 0.0
+    },
+    "Alameda County/Berkeley_11052024_Mayor.csv": {
+        "ADENA ISHII": 0.2864310180644978,
+        "SOPHIE HAHN": 0.2781449423670035,
+        "KATE HARRISON": 0.2439204650435623,
+        "NAOMI D. PETE": 0.0960502565414517,
+        "LOGAN BOWIE": 0.0954533179834847,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11022010_SchoolDirectorDistrict2.csv": {
+        "DAVID KAKISHIBA": 1.0,
+        "writein": 0.0
+    },
+    "Alameda County/Oakland_11032020_MemberCityCouncilDist5OaklandRCV.csv": {
+        "NOEL GALLO": 0.3543228749605688,
+        "RICHARD SANTOS RAYA": 0.3399577782630851,
+        "ZOE LOPEZ-MERAZ": 0.3057193467763461,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11082022_Mayor.csv": {
+        "SHENG THAO": 0.19200076274014397,
+        "LOREN MANUEL TAYLOR": 0.19078037850979646,
+        "TREVA D. REID": 0.13483577251275206,
+        "ALLYSSA VICTORY VILLANUEVA": 0.12240787529198646,
+        "GREGORY HODGE": 0.11879677742289174,
+        "IGNACIO DE LA FUENTE": 0.10372550889068981,
+        "SENECA SCOTT": 0.05674786671115984,
+        "TYRON C. JORDAN": 0.033684511607951564,
+        "JOHN REIMANN": 0.02601420603518139,
+        "PETER Y. LIU": 0.021006340277446727,
+        "Write-in": 0.0
+    },
+    "Alameda County/Berkeley_11062018_CityCouncilDistrict4.csv": {
+        "KATE HARRISON": 0.40620810559967,
+        "BEN GOULD": 0.38156130762091367,
+        "GREGORY MAGOFNA": 0.2122305867794163
+    },
+    "Alameda County/Oakland_11052024_CityAttorney.csv": {
+        "RYAN RICHARDSON": 0.5562584572095727,
+        "BRENDA HARBIN-FORTE": 0.44374154279042727,
+        "Write-in": 0.0
+    },
+    "Alameda County/Berkeley_03072017_CityCouncilDistrict4.csv": {
+        "KATE HARRISON": 0.6179861644888547,
+        "BEN GOULD": 0.38201383551114526
+    },
+    "Alameda County/Berkeley_11032020_MemberCityCouncilDist3BerkeleyRCV.csv": {
+        "BEN BARTLETT": 0.44678499447370135,
+        "DEBORAH MATTHEWS": 0.3209154151225538,
+        "ORLANDO MARTINEZ": 0.23229959040374487,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11032020_MemberCityCouncilDist1OaklandRCV.csv": {
+        "DAN KALB": 0.3892642417405705,
+        "STEPH DOMINGUEZ WALTON": 0.3143443459059871,
+        "TRI NGO": 0.29639141235344235,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11042014_SchoolDirectorDistrict6.csv": {
+        "SHANTHI GONZALES": 0.5853235747303543,
+        "RENATO ALMANZOR": 0.4146764252696456
+    },
+    "Alameda County/Oakland_11082016_SchoolDirectorDistrict3.csv": {
+        "JUMOKE HINTON HODGE": 0.30797511874242334,
+        "KHARYSHI ''MS. K'' WIGINTON": 0.3055505872533238,
+        "BENJAMIN LANG": 0.28514080168524814,
+        "LUCKY NARAIN": 0.10028021224587134,
+        "MISTY CROSS": 0.0010532800731334088
+    },
+    "Alameda County/Oakland_11032020_SchoolDirectorDist3OaklandRCV.csv": {
+        "VANCEDRIC WILLIAMS": 0.2543942890417754,
+        "CHERISSE GASH": 0.21216598011516813,
+        "MAIYA EDGERLY": 0.20370090797334311,
+        "MAXIMO SANTANA": 0.1653978044730088,
+        "MARK HURTY": 0.16434101839670456,
+        "Write-in": 0.0
+    },
+    "Alameda County/Berkeley_11052024_CityCouncilD6.csv": {
+        "BRENT BLACKABY": 0.5483811114203544,
+        "ANDY KATZ": 0.4516188885796456,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11032020_SchoolDirectorDist7OaklandRCV.csv": {
+        "CLIFFORD THOMPSON": 0.21618540440085582,
+        "BEN \"COACH\" TAPSCOTT": 0.21465494354473474,
+        "KRISTINA MOLINA": 0.1945871659925351,
+        "VICTOR JAVIER VALERIO": 0.18823106835537926,
+        "BRONCH\u00c9 TAYLOR": 0.1863414177064951,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11062012_SchoolDirectorDistrict1.csv": {
+        "JODY LONDON": 0.6041666666666666,
+        "THEARSE PECOT": 0.3958333333333333,
+        "writein": 0.0
+    },
+    "Alameda County/Oakland_11062018_SchoolDirectorDistrict6.csv": {
+        "SHANTHI GONZALES": 0.9840039461630611,
+        "ANTHONY WILSON": 0.015996053836938903
+    },
+    "Alameda County/Oakland_11062018_CityCouncilDistrict2.csv": {
+        "NIKKI FORTUNATO BAS": 0.45394643009955216,
+        "ABEL GUILL\u00c9N": 0.376871951393445,
+        "KENZIE DONTE SMITH": 0.1691816185070029
+    },
+    "Alameda County/SanLeandro_11042014_CountyCouncilDistrict5.csv": {
+        "CORINA LOPEZ": 0.41706217843895826,
+        "MIA OUSLEY": 0.30857894946755476,
+        "LEAH HALL": 0.274358872093487
+    },
+    "Alameda County/Berkeley_11052024_CityCouncilD5.csv": {
+        "SHOSHANA O'KEEFE": 0.4682194028908666,
+        "TODD ANDREW": 0.3136400934166509,
+        "NILANG GOR": 0.21814050369248247,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11062018_SchoolDirectorDistrict4.csv": {
+        "GARY D. YEE": 0.5899017777416998,
+        "CLARISSA DOUTHERD": 0.41009822225830017
+    },
+    "Alameda County/Oakland_11062012_SchoolDirectorDistrict3.csv": {
+        "JUMOKE HINTON HODGE": 0.36652152444224984,
+        "RICHARD FUENTES": 0.3237868653768461,
+        "BENJAMIN LANG": 0.3096916101809041,
+        "writein": 0.0
+    },
+    "Alameda County/SanLeandro_11032020_MemberCityCouncilDist4SanLeandroRCV.csv": {
+        "FRED SIMON": 0.5489257444402563,
+        "CHRISTOPHER BAMMER": 0.4510742555597437,
+        "Write-in": 0.0
+    },
+    "Alameda County/Berkeley_11032020_MemberCityCouncilDist6BerkeleyRCV.csv": {
+        "SUSAN WENGRAF": 0.6113193745999818,
+        "RICHARD ILLGEN": 0.3886806254000183,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11082016_SchoolDirectorDistrict1.csv": {
+        "JODY LONDON": 0.7539699049996533,
+        "DON MACLEAY": 0.24603009500034673
+    },
+    "Alameda County/Oakland_11042014_Mayor.csv": {
+        "LIBBY SCHAAF": 0.21795949271247397,
+        "REBECCA KAPLAN": 0.16159379140639787,
+        "JOE TUMAN": 0.13579784213515048,
+        "JEAN QUAN": 0.12787052810902896,
+        "DAN SIEGEL": 0.12608366458451636,
+        "BRYAN PARKER": 0.08957410562180579,
+        "COURTNEY RUBY": 0.059174711338254776,
+        "JASON ANDERSON": 0.016009842892296042,
+        "CHARLES R. WILLIAMS": 0.013692977474919554,
+        "SAIED KARAMOOZ": 0.01028582244936589,
+        "PETER LIU": 0.009994321408290744,
+        "ERIC WILSON": 0.009475676698845354,
+        "KEN HOUSTON": 0.008097671777399205,
+        "PAT MCCULLOUGH": 0.0078137421919364,
+        "NANCY SIDEBOTHAM": 0.00622373651334469,
+        "SAMMUEL WASHINGTON": 0.0003520726859738785
+    },
+    "Alameda County/Berkeley_11022010_CityCouncilDistrict8.csv": {
+        "GORDON WOZNIAK": 0.3782731431908887,
+        "STEWART JONES": 0.3117881826146208,
+        "JACQUELYN McCORMICK": 0.3099386741944904,
+        "writein": 0.0
+    },
+    "Alameda County/Oakland_11082016_SchoolDirectorDistrict5.csv": {
+        "ROSIE TORRES": 0.3199617617901147,
+        "HUBER TRENADO": 0.30877354482367936,
+        "MIKE HASSID": 0.1984846339045461,
+        "MIKE HUTCHINSON": 0.1727800594816598
+    },
+    "Alameda County/Oakland_11062012_SchoolDirectorDistrict7.csv": {
+        "JAMES HARRIS": 0.5283503927636277,
+        "ALICE A. SPEARMAN": 0.4716496072363723,
+        "writein": 0.0
+    },
+    "Alameda County/SanLeandro_11042014_CountyCouncilDistrict1.csv": {
+        "DEBORAH COX": 0.3223790660045751,
+        "KENNETH PON": 0.25855046588182784,
+        "MIKE KATZ-LACABE": 0.2476426937454667,
+        "DAVID L. ANDERSON, SR.": 0.17142777436813034
+    },
+    "Alameda County/Oakland_11032020_CityAttorneyOaklandRCV.csv": {
+        "BARBARA PARKER": 0.5682371673152835,
+        "ELI FERRAN": 0.43176283268471644,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11062018_CityCouncilDistrict4.csv": {
+        "PAM HARRIS": 0.26540669778638,
+        "SHENG THAO": 0.25973033196168044,
+        "NAYELI MAXSON": 0.22484263942878518,
+        "CHARLIE MICHELSON": 0.091309792950897,
+        "MATT HUMMEL": 0.06374119675357416,
+        "JOSEPH E. SIMMONS": 0.05308784542068539,
+        "JOSEPH TANIOS": 0.041881495697997824
+    },
+    "Alameda County/Oakland_11062018_CityCouncilDistrict6.csv": {
+        "LOREN TAYLOR": 0.2679058584177186,
+        "MYA WHITAKER": 0.22155176399870533,
+        "NATASHA MIDDLETON": 0.19917233088269293,
+        "DESLEY BROOKS": 0.16125676238035788,
+        "MARLO RODRIGUEZ": 0.15011328432052526
+    },
+    "Alameda County/SanLeandro_11042014_CountyCouncilDistrict3.csv": {
+        "LEE THOMAS": 0.4294056740525989,
+        "VICTOR AGUILAR": 0.4014909919237937,
+        "ALLEN SCHOENFELD": 0.16910333402360736
+    },
+    "Alameda County/Oakland_11022010_CityAuditor.csv": {
+        "COURTNEY RUBY": 0.5571831206963073,
+        "MICHAEL KILIAN": 0.44281687930369273,
+        "writein": 0.0
+    },
+    "Alameda County/Oakland_11062018_SchoolDirectorDistrict2.csv": {
+        "AIMEE ENG": 1
+    },
+    "Alameda County/Berkeley_11052024_CityCouncilD3.csv": {
+        "BEN BARTLETT": 0.40355482225888706,
+        "JOHN \"CHIP\" MOORE": 0.2982600869956502,
+        "DEBORAH MATTHEWS": 0.29818509074546273,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11062012_SchoolDirectorDistrict5.csv": {
+        "ROSIE TORRES": 0.5281542631838344,
+        "MIKE HUTCHINSON": 0.4718457368161656,
+        "writein": 0.0
+    },
+    "Alameda County/Berkeley_11052024_CityCouncilD2.csv": {
+        "TERRY TAPLIN": 0.5761491418425725,
+        "JENNY GUARINO": 0.4238508581574275,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11082016_CityAttorney.csv": {
+        "BARBARA J. PARKER": 1
+    },
+    "Alameda County/Oakland_11062018_CityAuditor.csv": {
+        "COURTNEY RUBY": 0.6534987452621546,
+        "BRENDA ROBERTS": 0.34650125473784543
+    },
+    "Alameda County/Oakland_11082016_SchoolDirectorDistrict7.csv": {
+        "JAMES HARRIS": 0.6674480910917615,
+        "CHRIS JACKSON": 0.33255190890823844
+    },
+    "Alameda County/Berkeley_11022010_CityCouncilDistrict7.csv": {
+        "KRISS WORTHINGTON": 0.3636914990397251,
+        "GEORGE BEIER": 0.3224502173253816,
+        "CECILIA ''CES'' ROSALES": 0.3138582836348934,
+        "writein": 0.0
+    },
+    "Alameda County/SanLeandro_11082016_CountyCouncilDistrict4.csv": {
+        "BENNY LEE": 1
+    },
+    "Alameda County/SanLeandro_11042014_Mayor.csv": {
+        "PAULINE RUSSO CUTTER": 0.37079927967862586,
+        "DIANA SOUZA": 0.3415154453525419,
+        "DAN DILLMAN": 0.28123008726970494,
+        "GREGG DALY": 0.006455187699127303
+    },
+    "Alameda County/Oakland_11052024_CityCouncilD3.csv": {
+        "CARROLL FIFE": 0.26232564684361426,
+        "WARREN MITCHELL LOGAN": 0.22890612632578755,
+        "BABA AFOLABI": 0.14094243047860272,
+        "MICHELLE D. HAILEY": 0.14041475383884755,
+        "MERON SEMEDAR": 0.12768015759942308,
+        "SHAN M. HIRSCH": 0.09973088491372487,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11082016_CityCouncilDistrict3.csv": {
+        "LYNETTE GIBSON MCELHANEY": 0.5653407869275424,
+        "NONI D. SESSION": 0.43465921307245753
+    },
+    "Alameda County/Berkeley_11032020_MayorBerkeleyRCV.csv": {
+        "JESSE ARREGU\u00cdN": 0.36998062282732547,
+        "WAYNE HSIUNG": 0.2546465298894703,
+        "AIDAN HILL": 0.2215311595096922,
+        "NAOMI D. PETE": 0.15384168777351206,
+        "Write-in": 0.0
+    },
+    "Alameda County/SanLeandro_11062012_CountyCouncilDistrict6.csv": {
+        "JIM PROLA": 0.5210596581241329,
+        "HERMY B. ALMONTE": 0.47894034187586715,
+        "writein": 0.0
+    },
+    "Alameda County/Oakland_11062012_CityCouncilDistrict3.csv": {
+        "LYNETTE GIBSON-MCELHANEY": 0.23381574564163304,
+        "SEAN SULLIVAN": 0.20059592108672317,
+        "NYEISHA DEWITT": 0.19898582374060778,
+        "DERRICK MUHAMMAD": 0.14452011696339342,
+        "ALEX MILLER-COLE": 0.11825887404226969,
+        "LARRY LIONEL YOUNG, JR.": 0.10382351852537292,
+        "writein": 0.0
+    },
+    "Alameda County/Oakland_11082022_Schoolboarddistrict2.csv": {
+        "JENNIFER BROUHARD": 0.39345834880554525,
+        "DAVID KAKISHIBA": 0.3274229483847011,
+        "MAX OROZCO": 0.2791187028097537,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11042014_CityCouncilDistrict2.csv": {
+        "ABEL GUILLEN": 0.28093232415998987,
+        "DANA KING": 0.2591126452797923,
+        "ANDREW PARK": 0.23206764417139056,
+        "KEVIN BLACKBURN": 0.17506412895461887,
+        "KEN MAXEY": 0.052823257434208445
+    },
+    "Alameda County/Berkeley_11022010_CityCouncilDistrict4.csv": {
+        "JESSE ARREGUIN": 0.34501931957402693,
+        "JIM NOVOSEL": 0.28819149938742816,
+        "BERNT RAINER WAHL": 0.213457732541702,
+        "ERIC PANZER": 0.1533314484968429,
+        "writein": 0.0
+    },
+    "Alameda County/Oakland_11062012_CityCouncilDistrict1.csv": {
+        "DAN KALB": 0.2540400307259736,
+        "AMY LEMLEY": 0.23577836717538445,
+        "RICHARD RAYA": 0.19515341246720871,
+        "GORDON ''DON'' LINK": 0.08898937634969636,
+        "LEN RAPHAEL": 0.07959766366653623,
+        "CRAIG BRANDT": 0.07878603417539894,
+        "DONALD MACLEAY": 0.06765511543980172,
+        "writein": 0.0
+    },
+    "Alameda County/SanLeandro_11062012_CountyCouncilDistrict4.csv": {
+        "BENNY LEE": 0.30447673780153006,
+        "CHRIS CROW": 0.2659138328635748,
+        "DARLENE DAEVU": 0.258538013836524,
+        "JUSTIN HUTCHISON": 0.1710714154983711,
+        "writein": 0.0
+    },
+    "Alameda County/Berkeley_05282024_Citycouncildistrict4specialelection.csv": {
+        "IGOR A. TREGUB": 0.2658410138248848,
+        "RUBEN STORY": 0.26152073732718895,
+        "SOLI ALPERT": 0.23732718894009217,
+        "ELANA AUERBACH": 0.2353110599078341,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11032020_SchoolDirectorDist5OaklandRCV.csv": {
+        "MIKE HUTCHINSON": 0.2878553392522603,
+        "LEROY ROCHES GAINES": 0.25505009367109227,
+        "SHEILA POPE-LAWRENCE": 0.23800602753115582,
+        "JORGE C. LERMA": 0.21908853954549157,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11082016_CityCouncilDistrict1.csv": {
+        "DAN KALB": 0.8092459460330765,
+        "KEVIN M. CORBETT": 0.1907540539669235
+    },
+    "Alameda County/Oakland_11052024_CityCouncilD1.csv": {
+        "ZAC UNGER": 0.49416609471516815,
+        "EDWARD C. FRANK": 0.2540006502185457,
+        "LEN RAPHAEL": 0.2518332550662862,
+        "Write-in": 0.0
+    },
+    "Alameda County/SanLeandro_11082016_CountyCouncilDistrict6.csv": {
+        "PETE BALLEW": 1
+    },
+    "Alameda County/Oakland_11032020_SchoolDirectorDist1OaklandRCV.csv": {
+        "SAM DAVIS": 0.38671200893310326,
+        "STACY THOMAS": 0.309879707643894,
+        "AUSTIN DANNHAUS": 0.30340828342300274,
+        "Write-in": 0.0
+    },
+    "Alameda County/Berkeley_11022010_CityCouncilDistrict1.csv": {
+        "LINDA MAIO": 0.4017129901754975,
+        "JASPER KINGETER": 0.28566630279620453,
+        "MERRILIE MITCHELL": 0.2163909648165253,
+        "ANTHONY Di DONATO": 0.0962297422117726,
+        "writein": 0.0
+    },
+    "Alameda County/SanLeandro_11082016_CountyCouncilDistrict2.csv": {
+        "ED HERNANDEZ": 0.5439287040475307,
+        "BRYAN AZEVEDO": 0.45607129595246937
+    },
+    "Alameda County/Berkeley_11062018_CityAuditor.csv": {
+        "JENNY WONG": 0.9203893137352269,
+        "VLADISLAV S. DAVIDZON": 0.07961068626477306
+    },
+    "Alameda County/Oakland_11052024_CityCouncilD5.csv": {
+        "NOEL GALLO": 0.377331965500209,
+        "ERIN ARMSTRONG": 0.3356130552072647,
+        "DOMINIC PRADO": 0.2870549792925263,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11082016_CityCouncilDistrict5.csv": {
+        "NOEL GALLO": 0.5642502339644374,
+        "VIOLA GONZALES": 0.4357497660355626
+    },
+    "Alameda County/Oakland_11032020_MemberCityCouncilAtLargeOaklandRCV.csv": {
+        "REBECCA KAPLAN": 0.3726327933517157,
+        "DERRECK B. JOHNSON": 0.34749588311887253,
+        "NANCY SIDEBOTHAM": 0.27987132352941174,
+        "Write-in": 0.0
+    },
+    "Alameda County/Berkeley_11022010_CityAuditor.csv": {
+        "ANN-MARIE HOGAN": 1.0,
+        "writein": 0.0
+    },
+    "Alameda County/Oakland_11062012_CityCouncilDistrict5.csv": {
+        "NOEL GALLO": 0.3150319829424307,
+        "MARIO JUAREZ": 0.28616532721010335,
+        "DAWN MCMAHAN": 0.2223634574380843,
+        "ARACELY ''SHELLY'' GARZA": 0.17643923240938167,
+        "writein": 0.0
+    },
+    "Alameda County/Oakland_11042014_CityCouncilDistrict4.csv": {
+        "ANNIE CAMPBELL WASHINGTON": 0.4910708268751264,
+        "JILL BROADHURST": 0.39153581777747826,
+        "PAUL LIM": 0.11739335534739538
+    },
+    "Alameda County/Oakland_11082022_Schoolboarddistrict4.csv": {
+        "MIKE HUTCHINSON": 0.33879153330621914,
+        "PECOLIA MANIGO": 0.33421159661190786,
+        "NICK RESNICK": 0.326996870081873,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11042014_CityCouncilDistrict6.csv": {
+        "SHEREDA F. NOSAKHARE": 0.2773731439378697,
+        "DESLEY BROOKS": 0.2706530924308881,
+        "MICHAEL V. JOHNSON": 0.2368113959196813,
+        "JAMES MOORE": 0.21093718562633296,
+        "VICENTE CRUZ": 0.0042251820852279584
+    },
+    "Alameda County/Oakland_11082022_Schoolboarddistrict6.csv": {
+        "VALARIE BACHELOR": 0.37269081378090757,
+        "KYRA MUNGIA": 0.33947011084093853,
+        "JOEL VELASQUEZ": 0.2878390753781539,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11062012_CityCouncilDistrict7.csv": {
+        "LARRY E. REID": 0.3924781172849402,
+        "SHERYL WALTON": 0.33133476546218216,
+        "BEVERLY WILLIAMS": 0.2761871172528776,
+        "writein": 0.0
+    },
+    "Alameda County/SanLeandro_11062012_CountyCouncilDistrict2.csv": {
+        "URSULA REED": 0.3533317564371156,
+        "MORGAN MACK-ROSE": 0.34444481989592485,
+        "DAN DILLMAN": 0.30222342366695953,
+        "writein": 0.0
+    },
+    "Alameda County/Oakland_11052024_CityCouncil_AtLarge.csv": {
+        "CHARLENE WANG": 0.1950457342563794,
+        "ROWENA BROWN": 0.1942639878264941,
+        "LERONNE L. ARMSTRONG": 0.15993612253770778,
+        "KANITHA MATOURY": 0.1019552021671516,
+        "SHAWN DANINO": 0.0991772850406341,
+        "CRISTINA \"TINA\" TOSTADO": 0.06870589612387545,
+        "MINDY RUTH PECHENUK": 0.0656917828835156,
+        "NANCY SIDEBOTHAM": 0.044572087890037124,
+        "FABIAN ROBINSON": 0.037231196281060835,
+        "SELIKA THOMAS": 0.03342070499314404,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11082016_CityCouncilDistrict7.csv": {
+        "LARRY E. REID": 0.41817342463645457,
+        "MARCIE HODGE": 0.3360775563591598,
+        "NEHANDA IMARA": 0.24574901900438562
+    },
+    "Alameda County/Oakland_11052024_CityCouncilD7.csv": {
+        "KEN HOUSTON": 0.28003977680791114,
+        "IRIS MERRIOUNS": 0.27537152643500357,
+        "MARCIE HODGE": 0.23051212640185625,
+        "MERIKA GOOLSBY": 0.214076570355229,
+        "Write-in": 0.0
+    },
+    "Alameda County/Berkeley_11042014_CityCouncilDistrict1.csv": {
+        "LINDA MAIO": 0.4664850136239782,
+        "ALEJANDRO SOTO-VIGIL": 0.41809264305177113,
+        "MERRILIE MITCHELL": 0.11542234332425068
+    },
+    "Alameda County/SanLeandro_11032020_MemberCityCouncilDist6SanLeandroRCV.csv": {
+        "PETE BALLEW": 1.0,
+        "Write-in": 0.0
+    },
+    "Alameda County/Berkeley_11062018_CityCouncilDistrict8.csv": {
+        "LORI DROSTE": 0.35078361648887135,
+        "MARY KAY LACEY": 0.31035163966811535,
+        "ALFRED TWU": 0.20051363097589886,
+        "RUSS TILLEMAN": 0.13835111286711443
+    },
+    "Alameda County/SanLeandro_11062018_CountyCouncilDistrict5.csv": {
+        "CORINA N. LOPEZ": 0.7048089308716187,
+        "MAXINE OLIVER-BENSON": 0.2951910691283813
+    },
+    "Alameda County/SanLeandro_11022010_CountyCouncilDistrict5.csv": {
+        "PAULINE RUSSO CUTTER": 0.5039900408580184,
+        "CORINA N. LOPEZ": 0.4960099591419816,
+        "writein": 0.0
+    },
+    "Alameda County/Oakland_11052024_School_Director_D3.csv": {
+        "VANCEDRIC WILLIAMS": 0.5431458030586118,
+        "DWAYNE AIKENS JR.": 0.4568541969413881,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11062012_CityCouncilAtLarge.csv": {
+        "REBECCA KAPLAN": 0.30395459583980977,
+        "IGNACIO DE LA FUENTE": 0.2398209099409845,
+        "CAROL LEE TOLBERT": 0.2322132979942161,
+        "THERESA ANDERSON": 0.13927781871775977,
+        "MICK STORM": 0.08473337750722987,
+        "writein": 0.0
+    },
+    "Alameda County/Oakland_11022010_CityCouncilDistrict4.csv": {
+        "LIBBY SCHAAF": 0.27749018382137486,
+        "JILL BROADHURST": 0.22800882967709168,
+        "DANIEL SWAFFORD": 0.14383387704869996,
+        "MELANIE SHELBY": 0.1364497665605282,
+        "CLINTON KILLIAN": 0.09493856341935106,
+        "RALPH KANZ": 0.06753140200425856,
+        "JASON GILLEN": 0.05174737746869567,
+        "writein": 0.0
+    },
+    "Alameda County/Oakland_11082022_CityCouncilmemberDistrict6.csv": {
+        "KEVIN JENKINS": 0.36276219013892674,
+        "YAKPASUA MICHAEL GBAGBA ZAZABOI": 0.22397166984472897,
+        "KENNY SESSION": 0.20664669027512939,
+        "NANCY SIDEBOTHAM": 0.20661944974121493,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11082022_CityCouncilmemberDistrict4.csv": {
+        "JANANI RAMACHANDRAN": 0.5638908829863604,
+        "NENNA JOINER": 0.43610911701363964,
+        "Write-in": 0.0
+    },
+    "Alameda County/Berkeley_11082016_CityCouncilDistrict2.csv": {
+        "CHERYL DAVILA": 0.3614448117390954,
+        "NANCI IRA ARMSTRONG-TEMPLE": 0.3291139240506329,
+        "DARRYL MOORE": 0.3094412642102717
+    },
+    "Alameda County/Oakland_11022010_CityCouncilDistrict6.csv": {
+        "DESLEY BROOKS": 0.3866648068070861,
+        "JOSE DORADO": 0.3086901938903613,
+        "NANCY SIDEBOTHAM": 0.3046449993025527,
+        "writein": 0.0
+    },
+    "Alameda County/Berkeley_11062012_CityCouncilDistrict3.csv": {
+        "MAX ANDERSON": 0.5422418553285477,
+        "DMITRI BELSER": 0.45775814467145226,
+        "writein": 0.0
+    },
+    "Alameda County/Oakland_11052024_School_Director_D1.csv": {
+        "RACHEL LATTA": 0.6287257549717653,
+        "BENJAMIN SALOP": 0.3712742450282347,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11062018_Mayor.csv": {
+        "LIBBY SCHAAF": 0.3076171229708597,
+        "PAMELA PRICE": 0.24759917182440916,
+        "CAT BROOKS": 0.2382601704808264,
+        "SAIED KARAMOOZ": 0.057410629721812295,
+        "MARCHON TATMON": 0.04503755423889342,
+        "NANCY SIDEBOTHAM": 0.028330873769300234,
+        "KEN HOUSTON": 0.02538215017290368,
+        "CEDRIC A. TROUPE": 0.02069888328450915,
+        "JESSE A.J. SMITH": 0.015839408823594196,
+        "PETER YUAN LIU": 0.013824034712891786
+    },
+    "Alameda County/Berkeley_11062012_Mayor.csv": {
+        "TOM BATES": 0.32786899242676504,
+        "KRISS WORTHINGTON": 0.23299437343647278,
+        "JACQUELYN MCCORMICK": 0.17159738053157791,
+        "KAHLIL ''DA MAYOR'' JACOBS-FANTAUZZI": 0.0927315727909975,
+        "BERNT RAINER WAHL": 0.09167285674034989,
+        "ZACHARY RUNNINGWOLF": 0.08290429719184106,
+        "MARK SCHWARTZ": 0.0002305268819958505,
+        "writein": 0.0
+    },
+    "Alameda County/Berkeley_11062012_CityCouncilDistrict2.csv": {
+        "DARRYL MOORE": 0.38914473684210527,
+        "DENISHA DELANE": 0.3248355263157895,
+        "ADOLFO CABRAL": 0.28601973684210524,
+        "writein": 0.0
+    },
+    "Alameda County/Oakland_11042014_CityAuditor.csv": {
+        "BRENDA ROBERTS": 0.7689785210690278,
+        "LEN RAPHAEL": 0.2310214789309723
+    },
+    "Alameda County/Berkeley_11082016_CityCouncilDistrict3.csv": {
+        "BEN BARTLETT": 0.3660852833467817,
+        "MARK A. COPLAN": 0.28042952020358763,
+        "DEBORAH MATTHEWS": 0.2420085655763143,
+        "AL G. MURRAY": 0.11147663087331637
+    },
+    "Alameda County/Berkeley_11042014_CityCouncilDistrict7.csv": {
+        "KRISS WORTHINGTON": 0.5542248835662009,
+        "SEAN BARRY": 0.4457751164337991
+    },
+    "Alameda County/Berkeley_11062012_CityCouncilDistrict6.csv": {
+        "SUSAN WENGRAF": 0.9456612606587527,
+        "PHOEBE SORGEN": 0.054338739341247284,
+        "writein": 0.0
+    },
+    "Alameda County/SanLeandro_11062018_CountyCouncilDistrict3.csv": {
+        "VICTOR AGUILAR, JR.": 0.5116938950988822,
+        "LEE THOMAS": 0.4883061049011178
+    },
+    "Alameda County/Oakland_11032020_MemberCityCouncilDist3OaklandRCV.csv": {
+        "CARROLL FIFE": 0.2519416615410277,
+        "LYNETTE GIBSON MCELHANEY": 0.20192237523847253,
+        "SENECA SCOTT": 0.16002418606590704,
+        "MERON SEMEDAR": 0.1546969965493156,
+        "ALEXUS TAYLOR": 0.12451653930756962,
+        "FAYE TAYLOR": 0.10689824129770753,
+        "Write-in": 0.0
+    },
+    "Alameda County/Oakland_11052024_School_Director_D5.csv": {
+        "PATRICE BERRY": 0.5087164902301575,
+        "SASHA RITZIE-HERNANDEZ": 0.49128350976984253,
+        "Write-in": 0.0
+    },
+    "Alameda County/SanLeandro_11022010_CountyCouncilDistrict3.csv": {
+        "DIANA M. SOUZA": 1.0,
+        "writein": 0.0
+    },
+    "Alameda County/Oakland_11022010_CityCouncilDistrict2.csv": {
+        "PATRICIA KERNIGHAN": 0.5513184981864523,
+        "JENNIFER S. PAE": 0.4486815018135477,
+        "writein": 0.0
+    },
+    "Alameda County/Oakland_11032020_MemberCityCouncilDist7OaklandRCV.csv": {
+        "TREVA REID": 0.2216352644244879,
+        "ROBERT \"BOB\" JACKSON": 0.20644773140811176,
+        "AARON CLAY": 0.1985678229735282,
+        "MARCIE HODGE": 0.19174443857486648,
+        "MARCHON TATMON": 0.1816047426190057,
+        "Write-in": 0.0
+    },
+    "Alameda County/Berkeley_11082016_CityCouncilDistrict6.csv": {
+        "SUSAN WENGRAF": 0.4529184795993761,
+        "FRED DODSWORTH": 0.32452179624004596,
+        "ISABELLE GASTON": 0.22255972416057795
+    },
+    "Alameda County/SanLeandro_11022010_Mayor.csv": {
+        "STEPHEN H. CASSIDY": 0.27671893390029995,
+        "ANTHONY B. ''TONY'' SANTOS": 0.26441778351493983,
+        "JOYCE RUTLEDGE STAROSCIAK": 0.2602035005125479,
+        "SARA M. MESTAS": 0.12584000911196325,
+        "JOHN R. PALAU": 0.0724780743384335,
+        "LOU FILIPOVICH": 0.00034169862181555866,
+        "writein": 0.0
+    },
+    "Alameda County/Berkeley_11062012_CityCouncilDistrict5.csv": {
+        "LAURIE CAPITELLI": 0.5197247706422018,
+        "SOPHIE HAHN": 0.48027522935779815,
+        "writein": 0.0
+    },
+    "Alameda County/SanLeandro_11022010_CountyCouncilDistrict1.csv": {
+        "MICHAEL J. GREGORY": 0.535171709434444,
+        "DAVID L. ANDERSON, SR.": 0.4600089365504915,
+        "CAROL LIBBRECHT": 0.004819354015064471,
+        "writein": 0.0
+    },
+    "Alameda County/Oakland_11052024_School_Director_D7.csv": {
+        "CLIFFORD THOMPSON": 0.5439349333865575,
+        "DOMONIC WARE": 0.4560650666134424,
+        "Write-in": 0.0
+    },
+    "Alameda County/SanLeandro_11062018_CountyCouncilDistrict1.csv": {
+        "DEBORAH COX": 0.46838645606734136,
+        "KENNETH PON": 0.26872694599451435,
+        "EVA ARCE": 0.26288659793814434
+    },
+    "Alameda County/Berkeley_11082016_CityCouncilDistrict5.csv": {
+        "SOPHIE HAHN": 0.6243698380349673,
+        "STEPHEN MURPHY": 0.37563016196503274
+    },
+    "Alameda County/SanLeandro_11032020_MemberCityCouncilDist2SanLeandroRCV.csv": {
+        "BRYAN AZEVEDO": 0.5079423977383161,
+        "ED HERNANDEZ": 0.4920576022616839,
+        "Write-in": 0.0
+    },
+    "San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict6.csv": {
+        "JANE KIM": 0.2438319355101376,
+        "DEBRA WALKER": 0.20798387753440273,
+        "THERESA SPARKS": 0.15381483592541323,
+        "GLENDON ''ANNA CONDA'' HYDE": 0.07413891376923704,
+        "JAMES KEYS": 0.05883071411122873,
+        "ELAINE ZAMORA": 0.0524590831365524,
+        "MATT DRAKE": 0.04920201937952935,
+        "DEAN CLARK": 0.042016122465597265,
+        "JIM MEKO": 0.038718345411611434,
+        "H. BROWN": 0.019908802214803355,
+        "GEORGE VAZHAPPALLY": 0.016020682354857096,
+        "FORTUNATE ''NATE'' PAYNE": 0.015043563227750183,
+        "GEORGE DAVIS": 0.014758570149010667,
+        "MATT ASHE": 0.013272534809868904,
+        "writein": 0.0
+    },
+    "San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict7.csv": {
+        "NORMAN YEE": 0.2516768979166173,
+        "BEN MATRANGA": 0.21912256168377142,
+        "JOEL ENGARDIO": 0.2140859424995852,
+        "JOHN FARRELL": 0.1845417269085824,
+        "MIKE YOUNG": 0.13057287099144368
+    },
+    "San Francisco/SanFrancisco_11052024_BoS_D7.csv": {
+        "MYRNA MELGAR": 0.3379727198220349,
+        "MATT BOSCHETTO": 0.3274206767357452,
+        "STEPHEN MARTIN-PINTO": 0.23748682824025288,
+        "EDWARD S. YEE": 0.09711977520196698
+    },
+    "San Francisco/SanFrancisco_06052018_Mayor.csv": {
+        "MARK LENO": 0.2590576958906297,
+        "LONDON BREED": 0.2463179747961128,
+        "JANE KIM": 0.22888755634394897,
+        "ANGELA ALIOTO": 0.12042065973499752,
+        "AMY FARAH WEISS": 0.05491059336695313,
+        "ELLEN LEE ZHOU": 0.04306329466691508,
+        "RICHIE GREENBERG": 0.032827053236909966,
+        "MICHELLE BRAVO": 0.0144885558570308,
+        "WRITE-IN ANTOINE R. ROGERS": 2.6616106502001687e-05
+    },
+    "San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT9.csv": {
+        "HILLARY RONEN": 0.9978479931682323,
+        "BUD RYERSON": 0.00215200683176772
+    },
+    "San Francisco/SanFrancisco_11052024_BoS_D11.csv": {
+        "CHYANNE CHEN": 0.2196246999233312,
+        "MICHAEL LAI": 0.2049822153513568,
+        "ERNEST \"EJ\" JONES": 0.1964983723590111,
+        "ADLAH CHISTI": 0.11470155725651371,
+        "OSCAR FLORES": 0.1100134484622249,
+        "ROGER K. MARENCO": 0.08520292095572063,
+        "JOSE MORALES": 0.06897678569184168
+    },
+    "San Francisco/SanFrancisco_11052024_BoS_D5.csv": {
+        "BILAL MAHMOOD": 0.30744675782552766,
+        "DEAN PRESTON": 0.27187256817062905,
+        "SCOTTY JACOBS": 0.1765369161624343,
+        "AUTUMN HOPE LOOIJEN": 0.16073498816840567,
+        "ALLEN JONES": 0.08340876967300331
+    },
+    "San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict5.csv": {
+        "LONDON BREED": 0.521812285108147,
+        "DEAN PRESTON": 0.478187714891853
+    },
+    "San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict10.csv": {
+        "SHAMANN WALTON": 0.2945232137892688,
+        "THEO ELLINGTON": 0.23350940598647021,
+        "TONY KELLY": 0.20859975905847467,
+        "UZURI PEASE-GREENE": 0.13010842368640535,
+        "GLORIA BERRY": 0.07711982207395052,
+        "ASALE CHANDLER": 0.055027337596144935,
+        "WRITE-IN NEO VEAVEA": 0.0011120378092855157
+    },
+    "San Francisco/SanFrancisco_11082005_AssessorRecorder.csv": {
+        "Phil Ting": 0.3731447263399263,
+        "Gerardo Sandoval": 0.3260114326841894,
+        "Ronald Chun": 0.3007515674957439,
+        "Anthony Faber": 9.227348014044024e-05
+    },
+    "San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict8.csv": {
+        "RAFAEL MANDELMAN": 0.9143414912865442,
+        "LAWRENCE ''STARK'' DAGESSE": 0.08565850871345586
+    },
+    "San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict1.csv": {
+        "SANDRA LEE FEWER": 0.2762899635108611,
+        "MARJAN PHILHOUR": 0.2606009510887463,
+        "DAVID LEE": 0.17954764006164953,
+        "JONATHAN LYENS": 0.055721681398442954,
+        "RICHIE GREENBERG": 0.05010999433562104,
+        "SAMUEL KWONG": 0.04893759962061834,
+        "BRIAN J. LARKIN": 0.041731982664365785,
+        "SHERMAN R. D'SILVA": 0.03385454401749371,
+        "JASON JUNGREIS": 0.030113419308945767,
+        "ANDY THORNLEY": 0.023092223993255438
+    },
+    "San Francisco/SanFrancisco_11052019_CityAttorney.csv": {
+        "DENNIS J. HERRERA": 1.0,
+        "writein": 0.0
+    },
+    "San Francisco/SanFrancisco_11052024_BoS_D1.csv": {
+        "CONNIE CHAN": 0.3292167977788061,
+        "MARJAN PHILHOUR": 0.3229841508560852,
+        "JEN NOSSOKOFF": 0.13623611753817677,
+        "SHERMAN D'SILVA": 0.1088471772327626,
+        "JEREMIAH BOEHNER": 0.10271575659416937
+    },
+    "San Francisco/SanFrancisco_11052024_Treasurer.csv": {
+        "JOS\u00c9 CISNEROS": 1
+    },
+    "San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict9.csv": {
+        "DAVID CAMPOS": 0.2823994147768837,
+        "MARK SANCHEZ": 0.27325530358449157,
+        "ERIC QUEZADA": 0.23979517190929042,
+        "EVA ROYALE": 0.08997805413313825,
+        "TOM VALTIN": 0.0545427944403804,
+        "ERIC STOREY": 0.03445501097293343,
+        "VERN MATHEWS": 0.025574250182882223,
+        "writein": 0.0
+    },
+    "San Francisco/SanFrancisco_11052024_BoS_D3.csv": {
+        "DANNY SAUTER": 0.25595399555145665,
+        "SHARON LAI": 0.23034774589052243,
+        "MOE JAMIL": 0.19892312700048825,
+        "MATTHEW SUSK": 0.12245700645581295,
+        "WENDY HA CHAU": 0.10563934248358922,
+        "EDUARD NAVARRO": 0.08667878261813053
+    },
+    "San Francisco/SanFrancisco_11082022_PublicDefender.csv": {
+        "MANO RAJU": 0.7182843713278496,
+        "REBECCA SUSAN FENG YOUNG": 0.2817156286721504
+    },
+    "San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict3.csv": {
+        "AARON PESKIN": 0.7206467101808087,
+        "TIM E. DONNELLY": 0.2793532898191912
+    },
+    "San Francisco/SanFrancisco_11052019_Treasurer.csv": {
+        "JOS\u00c9 CISNEROS": 1.0,
+        "writein": 0.0
+    },
+    "San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict2.csv": {
+        "MARK FARRELL": 0.29880445463478544,
+        "JANET REILLY": 0.28701277432034067,
+        "ABRAHAM SIMMONS": 0.15816410088437602,
+        "KAT ANDERSON": 0.15187929905011463,
+        "BARBARA BERWICK": 0.07943006878480184,
+        "VILMA B. GUINTO PEORO": 0.024709302325581394,
+        "writein": 0.0
+    },
+    "San Francisco/SanFrancisco_11082022_BoardofSupervisorsD8.csv": {
+        "RAFAEL MANDELMAN": 0.7745264348317783,
+        "KATE STOIA": 0.22547356516822165
+    },
+    "San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict5.csv": {
+        "LONDON BREED": 0.20443947875457458,
+        "CHRISTINA OLAGUE": 0.17105788195592445,
+        "JOHN RIZZO": 0.17045363857124943,
+        "THEA SELBY": 0.16378415970266666,
+        "JULIAN DAVIS": 0.15869939461653346,
+        "DANIEL EVERETT": 0.05540797829284143,
+        "ANDREW ''ELLARD'' RESIGNATO": 0.040826331330589535,
+        "HOPE JOHNSON": 0.03533113677562049
+    },
+    "San Francisco/SanFrancisco_11052019_DistrictAttorney.csv": {
+        "SUZY LOFTUS": 0.275830172971973,
+        "CHESA BOUDIN": 0.27336795415604037,
+        "NANCY TUNG": 0.22785875056710317,
+        "LEIF DAUTCH": 0.22294312230488347,
+        "writein": 0.0
+    },
+    "San Francisco/SanFrancisco_11052019_PublicDefender.csv": {
+        "MANOHAR \"MANO\" RAJU": 1.0,
+        "writein": 0.0
+    },
+    "San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict2.csv": {
+        "Michela Alioto-pier": 0.3462035984477284,
+        "Steve Braccini": 0.2068127474422798,
+        "David Pascal": 0.19240066376595716,
+        "Roger E. Schulke": 0.13372009459971515,
+        "Jay R. Shah": 0.12086289574431944
+    },
+    "San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict3.csv": {
+        "Arron Peskin": 0.34050628733621574,
+        "Brian Murphy 0'flynn": 0.25680715535166176,
+        "Eugene Chi-ching Wong": 0.2045777088352751,
+        "Sal Busalacchi": 0.19810884847684743
+    },
+    "San Francisco/SanFrancisco_11052024_DistrictAttorney.csv": {
+        "BROOKE JENKINS": 0.6592289578379499,
+        "RYAN KHOJASTEH": 0.3407710421620501
+    },
+    "San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict8.csv": {
+        "Bevan Dufty": 0.4651392866441031,
+        "Alix Amelia Rosenthal": 0.339807341838063,
+        "Starchild": 0.1950533715178339,
+        "Write-In": 0.0
+    },
+    "San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict7.csv": {
+        "NORMAN YEE": 0.2158544778047646,
+        "F. X. FRANCIS XAVIER CROWLEY": 0.21536354710350886,
+        "MICHAEL GARCIA": 0.1633636504573407,
+        "JOEL ENGARDIO": 0.1405612113069092,
+        "ROBERT J. SQUERI": 0.08015089659449125,
+        "JULIAN P. LAGOS": 0.05935093793602398,
+        "ANDREW BLEY": 0.04557903984290217,
+        "LYNN GAVIN": 0.04324065939744716,
+        "GLENN ROGERS": 0.03653557955661206
+    },
+    "San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict11.csv": {
+        "KIM ALVARENGA": 0.24951911220715167,
+        "AHSHA SAFAI": 0.24146321413892313,
+        "FRANCISCO HERRERA": 0.18456226880394574,
+        "MAGDALENA DE GUZMAN": 0.1746321413892314,
+        "BERTA HERNANDEZ": 0.14982326346074804
+    },
+    "San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict5.csv": {
+        "Ross Mirkarimi": 0.1740281939813447,
+        "Robert Haaland": 0.14522221753260456,
+        "Lisa Feldstein": 0.1316211539273203,
+        "Nick Waugh": 0.08394884565061411,
+        "Dan Kalb": 0.061410543198413034,
+        "Bill Barnes": 0.05797070864812392,
+        "Andrew Sullivan": 0.05725319714683662,
+        "Susan C. King": 0.042459798252648465,
+        "Jim Siegel": 0.040412780146034694,
+        "Brett Wheeler": 0.02928080023635673,
+        "Michael E. O'connor": 0.02673785506267674,
+        "Tys Sniffen": 0.026073101760013505,
+        "Phoenix Streets": 0.02569324272992023,
+        "Joseph Blue": 0.02132486388384755,
+        "Julian Davis": 0.016872071919976365,
+        "Emmett Gilman": 0.0145085046216182,
+        "Francis Somesel": 0.01382264803950534,
+        "Rob Anderson": 0.012778035706748828,
+        "Vivian Wilder": 0.007934833073059554,
+        "Patrick M. Ciocca": 0.004452791963871185,
+        "H. Brown": 0.003176043557168784,
+        "Phillip House": 0.0030177689612965854
+    },
+    "San Francisco/SanFrancisco_11082005_Treasurer.csv": {
+        "Jose Cisneros": 0.3832321808188397,
+        "Calvin Louie": 0.27118970777754525,
+        "Isaac Wang": 0.19840946391003117,
+        "Manuel B. Valle": 0.14716864749358388
+    },
+    "San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict7.csv": {
+        "Sean R. Elsbernd": 0.20805720918042608,
+        "Christine Linnenbach": 0.18475669874074907,
+        "Milton `Rennie` O`Brien": 0.10400988430866,
+        "Gregory Corrales": 0.08669986396595405,
+        "Vernon C. Grigg III": 0.082880926529135,
+        "Isaac Wang": 0.07569233841276973,
+        "Shawn Reifsteck": 0.06262558188875161,
+        "Michael Patrick Mallen": 0.050507319630087234,
+        "Pat Lakey": 0.04476643328715664,
+        "Art Belenson": 0.028354986458996343,
+        "David Parker": 0.02506021690566226,
+        "Sheela Kini": 0.023624995319929613,
+        "Svelana Kaff": 0.02296354537172239
+    },
+    "San Francisco/SanFrancisco_11062007_Mayor.csv": {
+        "Gavin Newsom": 0.4524072387011102,
+        "Wilma Pang": 0.10187915939656902,
+        "Harold M. Hoogasian": 0.08276330620879206,
+        "Quintin Mecke": 0.07625496039405216,
+        "Ahimsa Porter Sumchai": 0.07147213686827356,
+        "John Rinaldi": 0.045983045874959466,
+        "Josh Wolf": 0.04004987415654,
+        "Lonnie S. Holmes": 0.03908481694794867,
+        "Grasshopper Alec Kaplan": 0.03148016614424903,
+        "H. Brown": 0.023022404768154658,
+        "George Davis": 0.018324506276732086,
+        "Michael Powers": 0.0171432762534163,
+        "Write-In Rodney Hauge": 3.474205950928771e-05,
+        "Write-In Lea Sherman": 3.474205950928771e-05,
+        "Write-In Patrick Monette-Shaw": 3.088183067492241e-05,
+        "Write-In Kenneth Kahn": 1.5440915337461203e-05,
+        "Write-In Robert McCullough": 1.1580686503095904e-05,
+        "Write-In Robert Kully": 7.720457668730602e-06
+    },
+    "San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict10.csv": {
+        "Sophie Maxwell": 0.34284284284284283,
+        "Espanola Jackson": 0.14611277944611278,
+        "Marie L. Harrison": 0.14591257924591258,
+        "Rodney Hampton Jr.": 0.13443443443443442,
+        "Dwayne Jusino": 0.11988655321988655,
+        "Charlie Walker": 0.060193526860193525,
+        "Sala Chandler": 0.050617283950617285
+    },
+    "San Francisco/SanFrancisco_11082011_Mayor.csv": {
+        "ED LEE": 0.1790877173316893,
+        "DENNIS HERRERA": 0.14061155125685074,
+        "JOHN AVALOS": 0.1251646376370646,
+        "DAVID CHIU": 0.12442802182624674,
+        "LELAND YEE": 0.10068417196776505,
+        "JEFF ADACHI": 0.0852532717351706,
+        "BEVAN DUFTY": 0.06427573451405375,
+        "MICHELA ALIOTO-PIER": 0.0528201576517969,
+        "TONY HALL": 0.031055962784888168,
+        "JOANNA REES": 0.02685044697366999,
+        "PHIL TING": 0.026229928219991913,
+        "TERRY JOAN BAUM": 0.018341333354684516,
+        "WILMA PANG": 0.009998358627812851,
+        "CESAR ASCARRUNZ": 0.007718452626395667,
+        "EMIL LAWRENCE": 0.004021361858513718,
+        "PAUL CURRIER": 0.0033287828624730276,
+        "WRITE-IN PATRICK MONETTE-SHAW": 3.402844778234604e-05,
+        "WRITE-IN HAROLD MILLER": 2.201840738857685e-05,
+        "WRITE-IN RODNEY HAUGE": 2.001673398961532e-05,
+        "WRITE-IN LEA SHERMAN": 1.8015060590653788e-05,
+        "WRITE-IN ROBERT 'BOBBY' JORDAN": 1.4011713792730723e-05,
+        "WRITE-IN DAVID VILLA-LOBOS": 1.2010040393769191e-05,
+        "WRITE-IN GILBERT LOUIS FRANCIS": 1.000836699480766e-05
+    },
+    "San Francisco/SanFrancisco_11082011_DistrictAttorney.csv": {
+        "GEORGE GASC\u00d3N": 0.27468467074208774,
+        "SHARMIN BOCK": 0.27310318811421497,
+        "DAVID ONEK": 0.20380813278650467,
+        "BILL FAZIO": 0.18438539812736982,
+        "VU VUONG TRINH": 0.0640186102298228
+    },
+    "San Francisco/SanFrancisco_11052019_Sheriff.csv": {
+        "PAUL MIYAMOTO": 1.0,
+        "writein": 0.0
+    },
+    "San Francisco/SanFrancisco_11062018_PublicDefender.csv": {
+        "JEFF ADACHI": 1
+    },
+    "San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict9.csv": {
+        "Tom Ammiano": 0.30567041234940245,
+        "Renee Saucedo": 0.269008123753466,
+        "Miguel Bustos": 0.21512542361888085,
+        "Lucrecia Bermudez": 0.11227319161356229,
+        "Steve Zeltzer": 0.052877365374325046,
+        "James Boris Perez": 0.045045483290363376,
+        "Write-In": 0.0
+    },
+    "San Francisco/SanFrancisco_11052004_BoardofSupervisorsDistrict1.csv": {
+        "Jake McGoldrick": 0.24144066500785388,
+        "Lillian Sing": 0.22558000528225303,
+        "Matt Tuchow": 0.19367797717510668,
+        "David Heller": 0.11319312195054143,
+        "Rose Tsui": 0.10438009980678074,
+        "Leanna Dawydiak": 0.10171117196513713,
+        "Jeffrey S. Freebairn": 0.02001695881232711
+    },
+    "San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict2.csv": {
+        "Michela Alioto-pier": 0.7153469258732417,
+        "Vilma Guinto Peoro": 0.28465307412675833,
+        "Write-In": 0.0
+    },
+    "San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict6.csv": {
+        "Chris Daly": 0.3038748012385974,
+        "Rob Black": 0.27904706112087485,
+        "Matt Drake": 0.11141797082043128,
+        "Davy Jones": 0.08477696878399867,
+        "Manuel Jimenez, Jr.": 0.0769938907021508,
+        "Viliam Dugovic": 0.06357575250369626,
+        "George Dias": 0.05127346779367869,
+        "Robert Jordan": 0.0290400870365721
+    },
+    "San Francisco/SanFrancisco_11032015_BoardofSupervisorsDistrict3.csv": {
+        "AARON PESKIN": 0.412191464353747,
+        "JULIE CHRISTENSEN": 0.3783488023345357,
+        "WILMA PANG": 0.20945973331171727
+    },
+    "San Francisco/SanFrancisco_11082022_AssessorRecorder.csv": {
+        "JOAQU\u00cdN TORRES": 1
+    },
+    "San Francisco/SanFrancisco_11082022_BoardofSupervisorsD10.csv": {
+        "SHAMANN WALTON": 0.7263001485884101,
+        "BRIAN SAM ADAM": 0.2736998514115899
+    },
+    "San Francisco/SanFrancisco_11032015_Mayor.csv": {
+        "ED LEE": 0.3135408605684119,
+        "AMY FARAH WEISS": 0.20413853052484285,
+        "FRANCISCO HERRERA": 0.1873257502676688,
+        "STUART SCHUFFMAN": 0.1509731483150117,
+        "KENT GRAHAM": 0.08284746589210562,
+        "REED MARTIN": 0.06091982657182534,
+        "WRITE-IN - MICHAEL PETRELIS": 0.00013250930215301114,
+        "WRITE-IN - DANIEL C KAPPLER": 4.505316273202379e-05,
+        "WRITE-IN - ROBERT L. JORDAN, JR.": 2.3851674387542005e-05,
+        "WRITE-IN - KARLA GOTTSCHALK (a.k.a BELLE STARR)": 2.3851674387542005e-05,
+        "WRITE-IN - JOHN E. FITCH": 2.120148834448178e-05,
+        "WRITE-IN - IGNACIO L. NUNEZ": 7.950558129180668e-06
+    },
+    "San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT11.csv": {
+        "AHSHA SAFAI": 0.35759031787241186,
+        "JOHN AVALOS": 0.3480451040415391,
+        "MARCELO COLUSSI": 0.29397708632024905,
+        "JASON CHUYUAN ZENG": 0.00038749176579997677
+    },
+    "San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict11.csv": {
+        "JOHN AVALOS": 0.20985368273125568,
+        "AHSHA SAFAI": 0.19305612961891377,
+        "JULIO RAMOS": 0.18655865090518312,
+        "MYRNA LIM": 0.16442093080929157,
+        "RANDY KNOX": 0.12905679093990247,
+        "ADRIAN BERMUDEZ": 0.04711912044308506,
+        "MARY GOODNATURE": 0.040555509630486895,
+        "ELI M. HORN": 0.029362651897164586,
+        "A. JACKSON MATTESON": 1.653302471687195e-05,
+        "writein": 0.0
+    },
+    "San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict4.csv": {
+        "Ed Jew": 0.2225545726468529,
+        "Jaynry Mak": 0.217675385561849,
+        "Doug Chan": 0.2062835444112094,
+        "Ron Dudum": 0.18910032032923907,
+        "David Ferguson": 0.11385476993572201,
+        "Houston Zheng": 0.0505314071151276,
+        "Write-In": 0.0
+    },
+    "San Francisco/SanFrancisco_11022004_BoardofSupervisorsDistrict11.csv": {
+        "Gerardo Sandoval": 0.2119280205655527,
+        "Myrna Viray Lim": 0.16215938303341904,
+        "Jose Medina": 0.16214224507283634,
+        "Anita Grier": 0.14246786632390745,
+        "Rolando A. Bonialla": 0.11120822622107969,
+        "Rebecca Reynolds Silverberg": 0.10671808054841474,
+        "Tom Yuen": 0.07741216795201371,
+        "Fil M. Silverio": 0.02596401028277635
+    },
+    "San Francisco/SanFrancisco_11062018_AssessorRecorder.csv": {
+        "CARMEN CHU": 0.7462639039523797,
+        "PAUL BELLAR": 0.25373609604762026
+    },
+    "San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict5.csv": {
+        "ROSS MIRKARIMI": 0.44222478108346946,
+        "OWEN P. O''DONNELL": 0.29613314409661784,
+        "ROB ANDERSON": 0.2616420748199127,
+        "writein": 0.0
+    },
+    "San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT1.csv": {
+        "MARJAN PHILHOUR": 0.20000608730720357,
+        "CONNIE CHAN": 0.19696243370542,
+        "DAVID E. LEE": 0.17279582410725836,
+        "VERONICA SHINZATO": 0.13620349867981524,
+        "SHERMAN R. D'SILVA": 0.11015743298255226,
+        "AMANDA INOCENCIO": 0.10734205340090244,
+        "ANDREW N. MAJALYA": 0.07653266981684814
+    },
+    "San Francisco/SanFrancisco_11052024_Sheriff.csv": {
+        "PAUL MIYAMOTO": 0.7974744651659129,
+        "MICHAEL JUAN": 0.20252553483408708
+    },
+    "San Francisco/SanFrancisco_11082022_DistrictAttorney.csv": {
+        "BROOKE JENKINS": 0.3163776486576437,
+        "JOHN HAMASAKI": 0.30097972598180606,
+        "JOE ALIOTO VERONESE": 0.2528115986243621,
+        "MAURICE CHENIER": 0.12983102673618815
+    },
+    "San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict4.csv": {
+        "CARMEN CHU": 0.3707111544836346,
+        "RON DUDUM": 0.3457874436544449,
+        "DAVE FERGUSON": 0.28350140186192047,
+        "writein": 0.0
+    },
+    "San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict6.csv": {
+        "MATT HANEY": 0.4113626853875122,
+        "CHRISTINE JOHNSON": 0.3168208656841322,
+        "SONJA TRAUSS": 0.27181644892835555
+    },
+    "San Francisco/SanFrancisco_11052024_Mayor.csv": {
+        "DANIEL LURIE": 0.18524512489880632,
+        "LONDON BREED": 0.1752638302881967,
+        "MARK FARRELL": 0.14727769000795016,
+        "AARON PESKIN": 0.13817934209933477,
+        "AHSHA SAFA\u00cd ": 0.0842236682038902,
+        "ELLEN LEE ZHOU": 0.04859840386490843,
+        "DYLAN HIRSCH-SHELL": 0.03808225429737064,
+        "KEITH FREEDMAN": 0.03763896418361222,
+        "SHAHRAM SHARIATI": 0.03574589738633242,
+        "NELSON MEI": 0.034670373831639865,
+        "HENRY FLYNN": 0.029924262794006718,
+        "PAUL YBARRA ROBERTSON": 0.023619369307173888,
+        "JON SODERSTROM": 0.021517011439791754,
+        "MICHAEL LIN": 7.267051045219952e-06,
+        "MARC ROTH": 6.540345940697957e-06
+    },
+    "San Francisco/SanFrancisco_11082022_BoardofSupervisorsD4.csv": {
+        "JOEL ENGARDIO": 0.5086758666617337,
+        "GORDON MAR": 0.4913241333382663
+    },
+    "San Francisco/SanFrancisco_11082022_BoardofSupervisorsD6.csv": {
+        "MATT DORSEY": 0.3501333255193835,
+        "HONEY MAHOGANY": 0.33518914642365283,
+        "CHERELLE JACKSON": 0.17549154628300173,
+        "MS BILLIE COOPER": 0.13918598177396196
+    },
+    "San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict4.csv": {
+        "GORDON MAR": 0.24498622507924284,
+        "JESSICA HO": 0.20542406019492254,
+        "TREVOR MCNEIL": 0.15251651509316586,
+        "ARTHUR TOM": 0.11609443967177178,
+        "LOU ANN BASSAN": 0.09220309861658323,
+        "MIKE MURPHY": 0.08460467458601179,
+        "TUAN NGUYEN": 0.05415173149272744,
+        "ADAM KIM": 0.05001925526557455
+    },
+    "San Francisco/SanFrancisco_11042014_BoardofSupervisorsDistrict10.csv": {
+        "MALIA COHEN": 0.31946745383897107,
+        "TONY KELLY": 0.24157354137172807,
+        "MARLENE TRAN": 0.18596945691135275,
+        "SHAWN M. RICHARD": 0.1369920780746408,
+        "ED DONALDSON": 0.11599746980330733
+    },
+    "San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT3.csv": {
+        "AARON PESKIN": 0.3229876138747593,
+        "DANNY SAUTER": 0.31962525505072276,
+        "SPENCER SIMONSEN": 0.22045003879644798,
+        "STEPHEN (LULU) SCHWARTZ": 0.13693709227806994
+    },
+    "San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict7.csv": {
+        "SEAN R. ELSBERND": 0.4547450402230698,
+        "JULIAN P. LAGOS": 0.2817858401974296,
+        "BILLY BOB WHITMER": 0.26346911957950064,
+        "writein": 0.0
+    },
+    "San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict3.csv": {
+        "DAVID CHIU": 0.23025067849534536,
+        "JOSEPH ALIOTO, JR.": 0.17315493039950974,
+        "DENISE MCCARTHY": 0.16361222167099543,
+        "CLAUDINE CHENG": 0.12418653515043628,
+        "LYNN JEFFERSON": 0.08184258907987277,
+        "TONY GANTNER": 0.07931829456911897,
+        "WILMA PANG": 0.07691073044036537,
+        "MIKE DENUNZIO": 0.054002392972831006,
+        "MARK QUESSEY": 0.016721627221525082,
+        "writein": 0.0
+    },
+    "San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT7.csv": {
+        "MYRNA MELGAR": 0.17561599331980768,
+        "JOEL ENGARDIO": 0.16468239730182857,
+        "VILASKA NGUYEN": 0.15782606710200994,
+        "EMILY MURASE": 0.14358499305233904,
+        "BEN MATRANGA": 0.14250859487634468,
+        "STEPHEN W. MARTIN-PINTO": 0.12069359184285891,
+        "KEN PIPER": 0.09508836250481117
+    },
+    "San Francisco/SanFrancisco_11052024_BoS_D9.csv": {
+        "JACKIE FIELDER": 0.2414233140018458,
+        "ROBERTO HERNANDEZ": 0.20606834003668806,
+        "TREVOR CHANDLER": 0.19058416033361059,
+        "STEPHEN JON TORRES": 0.16311369877060855,
+        "JAIME GUTIERREZ": 0.0818189068784395,
+        "JULIAN BERMUDEZ": 0.06434081146672439,
+        "H. BROWN": 0.052650768512083126
+    },
+    "San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict9.csv": {
+        "HILLARY RONEN": 0.36152173615764355,
+        "JOSHUA ARCE": 0.28507938244424086,
+        "MELISSA SAN MIGUEL": 0.26544231268888374,
+        "ISWARI ESPA\u00d1A": 0.08795656870923188
+    },
+    "San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict10.csv": {
+        "MALIA COHEN": 0.10794517967315029,
+        "LYNETTE SWEET": 0.10144586257241087,
+        "TONY KELLY": 0.09730137050817124,
+        "STEVE MOSS": 0.09497009372203645,
+        "CHRIS JACKSON": 0.08922432063297697,
+        "DEWITT M. LACY": 0.08877690387604201,
+        "MARLENE TRAN": 0.08390241605048745,
+        "TERESA DUQUE": 0.06800734705411388,
+        "ERIC SMITH": 0.04311684641831112,
+        "KRISTINE ENEA": 0.034521735035086897,
+        "JAMES M. CALLOWAY": 0.028281448688362455,
+        "DIANE WESLEY SMITH": 0.027622097678142513,
+        "GEOFFREA MORRIS": 0.02058117081900815,
+        "STEPHEN WEBER": 0.020063109310978194,
+        "RODNEY HAMPTON, JR.": 0.01978053030659822,
+        "ED DONALDSON": 0.01744925352046343,
+        "JACKIE NORMAN": 0.01568313474308859,
+        "ASHLEY H RHODES": 0.014929590731408657,
+        "NYESE JOSHUA": 0.010808646917534028,
+        "M.J. MARIE FRANKLIN": 0.008971883389064192,
+        "ELLSWORTH ''ELL'' JENNISON": 0.006617058352564404,
+        "writein": 0.0
+    },
+    "San Francisco/SanFrancisco_11032015_Sheriff.csv": {
+        "VICKI HENNESSY": 0.5106540637255788,
+        "ROSS MIRKARIMI": 0.2965968444452477,
+        "JOHN ROBINSON": 0.19274909182917352
+    },
+    "San Francisco/SanFrancisco_11082011_Sheriff.csv": {
+        "ROSS MIRKARIMI": 0.3085481050187342,
+        "PAUL MIYAMOTO": 0.29046202136691474,
+        "CHRIS CUNNIE": 0.2877784354319047,
+        "DAVID WONG": 0.11321143818244635
+    },
+    "San Francisco/SanFrancisco_06052018_BoardofSupervisorsDistrict8.csv": {
+        "RAFAEL MANDELMAN": 0.49414599931658365,
+        "JEFF SHEEHY": 0.42686545689980754,
+        "LAWRENCE ''STARK'' DAGESSE": 0.0789885437836088
+    },
+    "San Francisco/SanFrancisco_11082022_BoardofSupervisorsD2.csv": {
+        "CATHERINE STEFANI": 1
+    },
+    "San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict8.csv": {
+        "SCOTT WIENER": 0.32252327106079687,
+        "REBECCA PROZAN": 0.29995975437184363,
+        "RAFAEL MANDELMAN": 0.286016591584769,
+        "BILL HEMENGER": 0.09150038298259051,
+        "writein": 0.0
+    },
+    "San Francisco/SanFrancisco_11062018_BoardofSupervisorsDistrict2.csv": {
+        "CATHERINE STEFANI": 0.3326829882308515,
+        "NICK JOSEFOWITZ": 0.3006608345396186,
+        "SCHUYLER HUDAK": 0.2418906161495374,
+        "JOHN DENNIS": 0.12476556107999245
+    },
+    "San Francisco/SanFrancisco_11052024_CityAttorney.csv": {
+        "DAVID CHIU": 0.8289141912787765,
+        "RICHARD T. WOON": 0.17108580872122342
+    },
+    "San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT5.csv": {
+        "DEAN PRESTON": 0.3108618951612903,
+        "VALLIE BROWN": 0.2752791563275434,
+        "DANIEL LANDRY": 0.2553601892059553,
+        "NOMVULA O'MEARA": 0.15849875930521093
+    },
+    "San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict1.csv": {
+        "SUE LEE": 0.2732245337159254,
+        "ERIC MAR": 0.257382831181253,
+        "ALICIA WANG": 0.242168818747011,
+        "BRIAN J. LARKIN": 0.0587039693926351,
+        "NICHOLAS C. BELLONI": 0.045836322333811574,
+        "JASON JUNGREIS": 0.040755021520803444,
+        "FIDEL CHRYS GAKUBA": 0.032475490196078434,
+        "GEORGE FLAMIK": 0.02890363462458154,
+        "SHERMAN R. D''SILVA": 0.020549378287900526,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_REPCouncilMember23rdCouncilDistrict.csv": {
+        "James F. Reilly": 0.5542806707855251,
+        "Alex Amoroso": 0.4457193292144748,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember27thCouncilDistrict.csv": {
+        "Nantasha M. Williams": 0.1982684479100969,
+        "James J. Johnson": 0.11538902585860902,
+        "Rene A. Hill": 0.11272289432945358,
+        "Jason Myles Clark": 0.09235422280832521,
+        "Marie M. Adam-Ovide": 0.08300842841580185,
+        "Harold C. Miller Jr.": 0.08121667335588556,
+        "Kerryanne C. Burke": 0.07903789920302735,
+        "Al-Hassan Kanu": 0.06444584599506908,
+        "Jermaine Sean Smith": 0.053709649676050686,
+        "Anthony Rivers": 0.05229057966859699,
+        "Leroy Gadsden": 0.03746918181296944,
+        "Linda Guillebeaux": 0.030087150966114327,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember33rdCouncilDistrict.csv": {
+        "Lincoln Restler": 0.2674720589185348,
+        "Elizabeth E. Adams": 0.19768718909490277,
+        "Victoria E. Cambranes": 0.12588668518638155,
+        "April Somboun": 0.09522578977970153,
+        "Stu Sherman": 0.09282253375541055,
+        "Sabrina N. Gates": 0.08705988758963758,
+        "Toba Potosky": 0.07594805866012017,
+        "Ben Solotaire": 0.057897797015311066,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_REPBoroughPresidentRichmond.csv": {
+        "Vito Fossella": 0.326952649819826,
+        "Steven Matteo": 0.3085450664463265,
+        "Leticia M. Remauro": 0.20613280084463725,
+        "Jhong U. Kim": 0.1583694828892102,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember10thCouncilDistrict.csv": {
+        "Carmen N. De La Rosa": 0.25999330058061637,
+        "Johanna Garcia": 0.22070864969480422,
+        "Angela Fernandez": 0.19097067143069824,
+        "Francesca M. Castellanos": 0.09111210361768647,
+        "Josue Perez": 0.08497096918267083,
+        "James E. Behr": 0.05400476403156171,
+        "Thomas A. Leon": 0.04968736042876284,
+        "Tirso S. Pina": 0.048552181033199346,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember28thCouncilDistrict.csv": {
+        "Adrienne E. Adams": 0.39646622341402493,
+        "Ruben Wills": 0.30687286485692244,
+        "Japneet Singh": 0.2966609117290526,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember15thCouncilDistrict.csv": {
+        "Oswald Feliz": 0.2206904915912031,
+        "Ischia J. Bravo": 0.16959087968952136,
+        "John E. Sanchez": 0.16045439844760673,
+        "Bernadette Ferrara": 0.1349450194049159,
+        "Troy Blackwell": 0.10834411384217335,
+        "Kenny G. Agosto": 0.07458764553686933,
+        "Lillithe Lozano": 0.07385996119016817,
+        "Latchmi Devi Gopal": 0.05752749029754205,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMMayorCitywide.csv": {
+        "Eric L. Adams": 0.15487744189493405,
+        "Kathryn A. Garcia": 0.15409850481936377,
+        "Maya D. Wiley": 0.1468530796551245,
+        "Andrew Yang": 0.11990069207467197,
+        "Scott M. Stringer": 0.10800785168572175,
+        "Shaun Donovan": 0.08632777613901711,
+        "Dianne Morales": 0.0721537420865089,
+        "Raymond J. McGuire": 0.06958951035287451,
+        "Art Chang": 0.02516301624236678,
+        "Joycelyn Taylor": 0.022376023064690796,
+        "Paperboy Love Prince": 0.019246297573763886,
+        "Isaac Wright Jr.": 0.010862313917756475,
+        "Aaron S. Foldenauer": 0.010543750493205484,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember46thCouncilDistrict.csv": {
+        "Mercedes Narcisse": 0.21381728582259288,
+        "Shirley S. Paul": 0.16510614101592117,
+        "Gardy Brazela": 0.14643669446550417,
+        "Judy D. Newton": 0.12970053070507961,
+        "Donald J. Cranston": 0.10612206216830933,
+        "R. Dimple Willabus": 0.0969294920394238,
+        "Tiffany Pryor": 0.07996588324488249,
+        "Zuri S. Jackson": 0.06192191053828658,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMBoroughPresidentKings.csv": {
+        "Jo Anne Simon": 0.16750363818701414,
+        "Antonio Reynoso": 0.16728119980998485,
+        "Robert E. Cornegy Jr.": 0.13771951651699202,
+        "Khari O. Edwards": 0.0941894571749572,
+        "Kim Council": 0.09335122894061523,
+        "Mathieu Eugene": 0.06694515448785135,
+        "Pearlene S. Fields": 0.056916576811616056,
+        "Trisha N. Ocona": 0.051046465743233224,
+        "Anthony T. Jones": 0.04927826915294963,
+        "Robert Ramos Jr.": 0.048112038566039066,
+        "Robert A. Elstein": 0.03628635987764633,
+        "Lamor Miller-Whitehead": 0.0313700947311009,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember31stCouncilDistrict.csv": {
+        "Selvena N. Brooks-Powers": 0.4477017498041264,
+        "Nancy J. Martinez": 0.2847675633324628,
+        "Nicole S. Lee": 0.2675306868634108,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember35thCouncilDistrict.csv": {
+        "Crystal Hudson": 0.2572742622152705,
+        "Michael Hollingsworth": 0.2263644744610986,
+        "Renee T. Collymore": 0.16903013289965713,
+        "Curtis M. Harris": 0.10597789494401226,
+        "Deirdre M. Levy": 0.08607920115186608,
+        "Regina A. Kinsey": 0.07889039662726981,
+        "Hector Robertson": 0.07638363770082557,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember32ndCouncilDistrict.csv": {
+        "Michael G. Scala": 0.238075281926242,
+        "Felicia Singh": 0.23799908564462055,
+        "Kaled A. Alamarie": 0.14488722950320024,
+        "Helal A. Sheikh": 0.142677537336178,
+        "Bella A. Matias": 0.13616275525754343,
+        "Shaeleigh Severino": 0.10019811033221579,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember30thCouncilDistrict.csv": {
+        "Robert F. Holden": 0.5266597593050132,
+        "Juan D. Ardila": 0.47334024069498687,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember49thCouncilDistrict.csv": {
+        "Kamillah Hanks": 0.18895599654874892,
+        "Amoy Barnes": 0.15417101857318014,
+        "Kelvin Richards": 0.12742382271468145,
+        "Selina Grey": 0.12465373961218837,
+        "Ranti Ogunleye": 0.1160029063166977,
+        "David Hernandez": 0.08673538894691431,
+        "Troy McGhie": 0.08589528177648609,
+        "Michael P. Schnall": 0.06725398483265974,
+        "John F. McBeth Sr.": 0.048907860678443306,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember29thCouncilDistrict.csv": {
+        "Lynn C. Schulman": 0.18213401408856217,
+        "David Aronov": 0.14205646941400027,
+        "Aleda F. Gagarin": 0.12656672872799862,
+        "Donghui Zang": 0.1086009328394019,
+        "Edwin K. Wong": 0.10606729495767674,
+        "Douglas J. Shapiro": 0.10570260465651932,
+        "Avi Cyperstein": 0.10243958617247932,
+        "Eliseo Dorion Labayen": 0.06476131979500566,
+        "Sheryl Ann Fetik": 0.061671049348356016,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember11thCouncilDistrict.csv": {
+        "Eric Dinowitz": 0.2389504419823207,
+        "Mino Lora": 0.18851245950161993,
+        "Abigail Martin": 0.1782128714851406,
+        "Jessica Haller": 0.1451541938322467,
+        "Daniel Padernacht": 0.12225510979560818,
+        "Marcos Sierra": 0.06839726410943563,
+        "Carlton Berkley": 0.05851765929362825,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember1stCouncilDistrict.csv": {
+        "Christopher Marte": 0.21117502054231718,
+        "Jenny L. Low": 0.17589056986804583,
+        "Gigi Li": 0.16311405416727084,
+        "Susan Lee": 0.1295696585947444,
+        "Maud Maron": 0.10248602316851145,
+        "Tiffany Johnson-Winbush": 0.07079446404691704,
+        "Sean C. Hayes": 0.05830795752976622,
+        "Susan Damplo": 0.05078383037685082,
+        "Denny R. Salas": 0.03787842170557623,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember14thCouncilDistrict.csv": {
+        "Pierina Ana Sanchez": 0.22981833817048264,
+        "Yudelka Tapia": 0.19029703679816545,
+        "Adolfo Abreu": 0.1783654018416998,
+        "Fernando A. Aquino": 0.16629044394281414,
+        "Haile Rivera": 0.13730337883836755,
+        "Socrates S. Solano": 0.09792540040847039,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember5thCouncilDistrict.csv": {
+        "Julie Menin": 0.2187512878631774,
+        "Tricia M. Shimamura": 0.20059069991070816,
+        "Kim Moscaritolo": 0.15904938525997664,
+        "Rebecca N. Lamorte": 0.14227625523731025,
+        "Billy Freeland": 0.13094305927604918,
+        "Christopher  A. Sosa": 0.0924239302149873,
+        "Marco A. Tamayo": 0.05596538223779106,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember2ndCouncilDistrict.csv": {
+        "Carlina Rivera": 0.6186391042204996,
+        "Erin Hussein": 0.38136089577950044,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember26thCouncilDistrict.csv": {
+        "Julie Won": 0.1449042579994961,
+        "Amit S. Bagga": 0.11060720584530108,
+        "Julia L. Forman": 0.09303350970017636,
+        "Brent O'Leary": 0.08561665406903503,
+        "Hailie Kim": 0.08388447971781306,
+        "Ebony R. Young": 0.07160178886369363,
+        "Jonathan Bailey": 0.06355505165028974,
+        "Jesse Laymon": 0.06070483749055178,
+        "Emily E. Sharpe": 0.05514613252708491,
+        "Denise M. Keehan-Smith": 0.052138447971781306,
+        "Badrun Khan": 0.046847442680776015,
+        "Steven B. Raga": 0.04662698412698413,
+        "Glennis E. Gomez": 0.039005416981607456,
+        "Sultan Al Maruf": 0.025856638951877047,
+        "Lorenzo Brea": 0.020471151423532376,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember34thCouncilDistrict.csv": {
+        "Jennifer Gutierrez": 0.4502519273963455,
+        "Scott Murphy": 0.200783099617556,
+        "Andy J. Marte": 0.1848782856795969,
+        "Lutchi Gayot": 0.16408668730650156,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember48thCouncilDistrict.csv": {
+        "Steven Saperstein": 0.268664232657686,
+        "Mariya Markh": 0.22476813966175668,
+        "Amber L. Adler": 0.20240043644298963,
+        "Binyomin Zev Bendet": 0.17827017499685258,
+        "Heshy Tischler": 0.1258970162407151,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember47thCouncilDistrict.csv": {
+        "Ari Kagan": 0.32097854467022363,
+        "Steven D. Patzer": 0.2856737427630832,
+        "Alec Brook-Krasny": 0.19758201839028267,
+        "Joseph Packer": 0.1957656941764105,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMBoroughPresidentQueens.csv": {
+        "Donovan J. Richards Jr.": 0.3674316900202842,
+        "Elizabeth S. Crowley": 0.36193005846618354,
+        "James G. Van Bramer": 0.2706382515135323,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember3rdCouncilDistrict.csv": {
+        "Erik D. Bottcher": 0.27311171632292763,
+        "Leslie Boghosian Murphy": 0.16962049569584914,
+        "Arthur Z. Schwartz": 0.16700652807620195,
+        "Aleta A. LaFargue": 0.144000875884438,
+        "Marni Halasa": 0.12727695739643352,
+        "Phelan D. Fitzpatrick": 0.11898342662414978,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_REPCouncilMember24thCouncilDistrict.csv": {
+        "Timothy Rosen": 0.5273972602739726,
+        "Angelo King": 0.4726027397260274,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_REPCouncilMember19thCouncilDistrict.csv": {
+        "Vickie Paladino": 0.5146763168476075,
+        "John-Alexander Sakelos": 0.48532368315239244,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMPublicAdvocateCitywide.csv": {
+        "Jumaane D. Williams": 0.4852596704921298,
+        "Anthony L. Herbert": 0.2901168678518028,
+        "Theo Bruce Chino Tavarez": 0.2246234616560674,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_REPMayorCitywide.csv": {
+        "Curtis A. Sliwa": 0.58004158004158,
+        "Fernando Mateo": 0.41995841995842,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMComptrollerCitywide.csv": {
+        "Corey D. Johnson": 0.18929153178843355,
+        "Brad Lander": 0.17671666659758692,
+        "Michelle Caruso-Cabrera": 0.12672847923669628,
+        "Brian A. Benjamin": 0.10464589023778635,
+        "Kevin S. Parker": 0.08922604417512549,
+        "Reshma Patel": 0.08883643432379894,
+        "David I. Weprin": 0.0797676433163259,
+        "Zach Iscol": 0.058796271350827094,
+        "Terri Liftin": 0.044107150998686104,
+        "Alex Pan": 0.041883887974733386,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember38thCouncilDistrict.csv": {
+        "Alexa Aviles": 0.24546174560430856,
+        "Rodrigo G. Camarena": 0.18653571994297483,
+        "Jacqui Painter": 0.16660858545857754,
+        "Cesar Zuniga": 0.1599239664185015,
+        "Yu Lin": 0.15872010137810866,
+        "Victor Swinton": 0.08274988119752891,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember23rdCouncilDistrict.csv": {
+        "Linda Lee": 0.21401892958702942,
+        "Jaslin Kaur": 0.1795764186579517,
+        "Debra Markell": 0.15012096260769917,
+        "Steve Behar": 0.1456007809515725,
+        "Sanjeev Kumar Jindal": 0.1253342387844319,
+        "Harpreet S. Toor": 0.09507236534951827,
+        "Koshy O. Thomas": 0.09027630406179704,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMBoroughPresidentRichmond.csv": {
+        "Mark S. Murphy": 0.27658397241237326,
+        "Lorraine A. Honor": 0.21498790467857326,
+        "Cesar A. Vargas": 0.1824463430953729,
+        "Brandon P. Stradford": 0.1666838231509599,
+        "Radhakrishna Mohan": 0.15929795666272067,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_REPCouncilMember15thCouncilDistrict.csv": {
+        "Ariel Rivera-Diaz": 0.536697247706422,
+        "Aramis Ocasio": 0.463302752293578,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember37thCouncilDistrict.csv": {
+        "Sandy Nurse": 0.2679083094555874,
+        "Darma V. Diaz": 0.21140540918303166,
+        "Heriberto Mateo": 0.14536305821510936,
+        "Rick Echevarria": 0.14302187434481795,
+        "Misba Abdin": 0.1341812845062548,
+        "Christopher Durosinmi": 0.09812006429519883,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv": {
+        "Vanessa L. Gibson": 0.2535963988793716,
+        "Fernando Cabrera": 0.23609095137997488,
+        "Nathalia Fernandez": 0.19766290908709352,
+        "Luis R. Sepulveda": 0.17876891760023225,
+        "Sammy Ravelo": 0.1338808230533278,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember22ndCouncilDistrict.csv": {
+        "Tiffany Caban": 0.26730341776887695,
+        "Evie Hantzopoulos": 0.24428354497238056,
+        "Catherina Gioino": 0.14364312594907458,
+        "Leonardo T. Bullaro": 0.14014392922379454,
+        "Nick Velkov": 0.10411760822201192,
+        "John J. Ciafone": 0.10050837386386144,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember25thCouncilDistrict.csv": {
+        "Yi Andy Chen": 0.181013772269927,
+        "Shekar Krishnan": 0.18006232011607717,
+        "Carolyn Tran": 0.16419685545063153,
+        "Alfonso Quiroz": 0.1319188411312766,
+        "Fatima Baryab": 0.10948835660426726,
+        "Liliana C. Melo": 0.10530196712732809,
+        "Manuel F. Perez": 0.08080207416569539,
+        "William H. Salgado": 0.04721581313479698,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember6thCouncilDistrict.csv": {
+        "Gale A. Brewer": 0.312714741803071,
+        "Sara Lind": 0.17650635990472813,
+        "Jeffrey Omura": 0.15774590787006537,
+        "Maria Danzilo": 0.14936400952718795,
+        "David Gold": 0.12111691075862768,
+        "Zachary Tov Weiner": 0.08255207013631986,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember18thCouncilDistrict.csv": {
+        "Amanda Farias": 0.20078667709435524,
+        "William Rivera": 0.1952891383355569,
+        "Darlene Jackson": 0.1474674518102774,
+        "Michael Beltzer": 0.12835257855269816,
+        "Mohammed Mujumder": 0.0962184294060818,
+        "William Russell Moore": 0.09596540460965175,
+        "Mirza M. Rashid": 0.08092193034917422,
+        "Eliu A. Lara": 0.05499838984220454,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMBoroughPresidentNewYork.csv": {
+        "Mark D. Levine": 0.21755307337177215,
+        "Brad M. Hoylman": 0.19182970555944637,
+        "Ben Kallos": 0.13972920972658537,
+        "Lindsey C. Boylan": 0.1375986657701404,
+        "Elizabeth R. Caputo": 0.13439819121166147,
+        "Kimberly R. Watkins": 0.09894140538257395,
+        "Guillermo A. Perez": 0.0799497489778203,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember20thCouncilDistrict.csv": {
+        "Sandra Ung": 0.19321665815022995,
+        "Ellen Young": 0.17332013285641287,
+        "Neng Wang": 0.14438553909044455,
+        "Hailing Chen": 0.1287046499744507,
+        "John Choe": 0.11842105263157894,
+        "Dao Yin": 0.11375830352580481,
+        "Anthony Miranda": 0.09996167603474707,
+        "Ming-Kang Low": 0.028231987736331118,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_REPCouncilMember32ndCouncilDistrict.csv": {
+        "Joann Ariola": 0.6436236585974544,
+        "Stephen A. Sirgiovanni": 0.35637634140254554,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember9thCouncilDistrict.csv": {
+        "Kristin Richardson Jordan": 0.12544561701725807,
+        "Athena Moore": 0.12295488349033218,
+        "Bill Perkins": 0.1220459428193687,
+        "Cordell Cleare": 0.08959558042354275,
+        "Mario Rosser": 0.08241849045022075,
+        "Keith Taylor": 0.07774393842812286,
+        "Ruth L. McDaniels": 0.07384847840970796,
+        "Joshua Albert Clennon": 0.07029534669594163,
+        "William A. Allen": 0.06713176098401681,
+        "Sheba T. Simpson-Amsterdam": 0.050168803267464646,
+        "Pierre A. Gooding": 0.04595462379299762,
+        "Bernadette McNear": 0.038730316122482705,
+        "Billy Council": 0.03366621809854333,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember17thCouncilDistrict.csv": {
+        "Rafael Salamanca Jr.": 0.548233544068427,
+        "Helen Hines": 0.45176645593157305,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_CONCouncilMember19thCouncilDistrict.csv": {
+        "John-Alexander Sakelos": 0.7018633540372671,
+        "Dawn A. Anatra": 0.2981366459627329,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember21stCouncilDistrict.csv": {
+        "Francisco P. Moya": 0.2946917132058442,
+        "Ingrid P. Gomez": 0.20934168217972585,
+        "David Aiken": 0.19202346702769788,
+        "George Onuorah": 0.15761268122073674,
+        "Talea E. Wufka": 0.14633045636599537,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember12thCouncilDistrict.csv": {
+        "Kevin Riley": 0.3778773407737297,
+        "Pamela A. Hamilton-Johnson": 0.3208402639909857,
+        "Shanequa Moore": 0.30128239523528466,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv": {
+        "Marko Kepi": 0.2611150317572336,
+        "David M. Carr": 0.24674866417985683,
+        "Sam T. Pirozzolo": 0.21937695332190746,
+        "Kathleen Sforza": 0.1470914406694223,
+        "Jordan Hafizi": 0.1256679100715798,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember41stCouncilDistrict.csv": {
+        "Darlene Mealy": 0.5179216933060407,
+        "Alicka Tani Ampry-Samuel": 0.48207830669395935,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember36thCouncilDistrict.csv": {
+        "Chi A. Osse": 0.24879982960038013,
+        "Tahirah A. Moore": 0.24041092523716678,
+        "Henry L. Butler": 0.2051513115855357,
+        "Robert Waterman": 0.18896334769714745,
+        "Reginald Swiney": 0.11667458587976996,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember40thCouncilDistrict.csv": {
+        "Rita C. Joseph": 0.1868754985135233,
+        "Josue Pierre": 0.15366543397868174,
+        "Kenya Handy-Hilliard": 0.1469074033790153,
+        "Cecilia Cortez": 0.0999347400478573,
+        "Edwin K. Raymond": 0.099050105141034,
+        "Blake Morris": 0.07127836995141759,
+        "Harriet L. Hines": 0.06433181060111667,
+        "Maxi Eugene": 0.053020085563048366,
+        "Vivia M. Morgan": 0.048770937567979115,
+        "John Williams": 0.040330650424189686,
+        "Victor Jordan": 0.0358349648321369,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember39thCouncilDistrict.csv": {
+        "Shahana K. Hanif": 0.2076443983094832,
+        "Brandon West": 0.19175873062949506,
+        "Justin M. Krebs": 0.19085971676429153,
+        "Douglas M. Schneider": 0.1385593534514718,
+        "Briget Rein": 0.11534255208719507,
+        "Jessica Simmons": 0.07919663379550679,
+        "Mamnun M. Haq": 0.07663861496255654,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember42ndCouncilDistrict.csv": {
+        "Charles Barron": 0.31399472098541603,
+        "Nikki Lucas": 0.29383848348308317,
+        "Wilfredo Florentino": 0.20990748393633188,
+        "Gena M. Watson": 0.1822593115951689,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember45thCouncilDistrict.csv": {
+        "Farah N. Louis": 0.48953615045008886,
+        "Anthony Beckford": 0.29186973224012386,
+        "Cyril F. Joseph": 0.21859411730978728,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember16thCouncilDistrict.csv": {
+        "Althea V. Stevens": 0.3147014097242201,
+        "Ahmadou T. Diallo": 0.24569479265135014,
+        "Abdourahamane Diallo": 0.24195470798569726,
+        "Yves T. Filius": 0.19764908963873248,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember8thCouncilDistrict.csv": {
+        "Diana I. Ayala": 0.35095501704732923,
+        "Tamika Mapp": 0.26843127909960773,
+        "Antoinette D. Glover": 0.20211166917182974,
+        "Manuel Onativia": 0.17850203468123327,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember13thCouncilDistrict.csv": {
+        "Marjorie Velazquez": 0.29912762277205385,
+        "Monique S. Johnson": 0.22136572159133638,
+        "Marilyn Soto": 0.16402195984056553,
+        "Irene Estrada": 0.1601865082349402,
+        "John Perez": 0.155298187561104,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_REPBoroughPresidentQueens.csv": {
+        "219566": 0.5179489621024567,
+        "217580": 0.48205103789754333,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember24thCouncilDistrict.csv": {
+        "James F. Gennaro": 0.36855071443654536,
+        "Moumita Ahmed": 0.22495952699373548,
+        "Saifur R. Khan": 0.20405433941014992,
+        "Mohammed Uddin": 0.20243541915956922,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember19thCouncilDistrict.csv": {
+        "Tony Avella": 0.2593802917322718,
+        "Richard J. Lee": 0.22592911678203262,
+        "Austin I. Shafran": 0.20257865185229196,
+        "Adriana Aviles": 0.14957963221532336,
+        "Francis E. Spangenberg": 0.0956596654882505,
+        "Nabaraj KC": 0.06687264192982978,
+        "writein": 0.0
+    },
+    "New York City/NewYorkCity_06222021_DEMCouncilMember7thCouncilDistrict.csv": {
+        "Shaun Abreu": 0.16982148034627015,
+        "Maria Ordonez": 0.12514324372834085,
+        "Stacy R. Lynch": 0.11168178492040481,
+        "Daniel M. Cohen": 0.10784354333209074,
+        "Marti Gould  Allen-Cummings": 0.09918678982175648,
+        "Luis Tejada": 0.07916718441508236,
+        "Corey Ortega": 0.07752419610929324,
+        "Keith L. Harris": 0.05261704565850695,
+        "Carmen R. Quinones": 0.05200955418409753,
+        "Raymond Sanchez Jr.": 0.0442640378853774,
+        "Lena Melendez": 0.04277292244819064,
+        "Miguel Estrella": 0.03796821715058885,
+        "writein": 0.0
+    },
+    "Cambridge, MA/Cambridge_11082011_CityCouncil.csv": {
+        "Cheung, Leland": 0.10141422939396717,
+        "Davis, Henrietta": 0.08769597506188687,
+        "Simmons, E. Denise": 0.08334097368662327,
+        "Maher, David P.": 0.08042999908315761,
+        "Decker, Marjorie C.": 0.07652195837535528,
+        "Toomey, Jr., Timothy J.": 0.07011552214174384,
+        "Reeves, Kenneth E.": 0.06971440359402219,
+        "Seidel, Sam": 0.06871733748968552,
+        "Kelley, Craig A.": 0.06287246722288439,
+        "vanBeuzekom, Minka Y.": 0.06014486109837719,
+        "Ward, Larry W.": 0.055732557073439076,
+        "Nelson, Matthew P.": 0.0369372879801962,
+        "Stohlman, Jr., Thomas J.": 0.03485147153204364,
+        "Marquardt, Charles J.": 0.033900247547446596,
+        "Mello, Gary W.": 0.02201567800495095,
+        "Williamson, James M.": 0.02094984872100486,
+        "Pascual, Jamake": 0.017660676629687358,
+        "Moree, Gregg J.": 0.0169615843036582,
+        "Write-In 1": 2.292105986980838e-05,
+        "UWI": 0.0
+    },
+    "Cambridge, MA/Cambridge_11152019_CityCouncil.csv": {
+        "Siddiqui, Sumbul": 0.07846968938052473,
+        "Zondervan, Quinton Y.": 0.07070243881791054,
+        "Simmons, E. Denise": 0.07051196128367748,
+        "Mallon, Alanna M.": 0.06557365484059852,
+        "Nolan, Patricia M.": 0.06507276947280051,
+        "McGovern, Marc C.": 0.06499516751440927,
+        "Carlone, Dennis J.": 0.061234999894179146,
+        "Kelley, Craig A.": 0.060727059802891024,
+        "Williams, Nicola A.": 0.054335480320848825,
+        "Toomey, Jr., Timothy J.": 0.0503566162724252,
+        "Sobrinho-Wheeler, Jivan": 0.04872697514620915,
+        "Musgrave, Adriane": 0.0459474140911047,
+        "Azeem, Burhan": 0.03964754601443397,
+        "Mednick, Risa": 0.03564046307204989,
+        "Pitkin, John": 0.03455403565457252,
+        "Kopon, Derek Andrew": 0.03413075224516575,
+        "Simon, Ben": 0.03345349879011492,
+        "Franklin, Charles J.": 0.03149228565986356,
+        "Akiba, Sukia": 0.024063661824774776,
+        "Levy, Ilan": 0.012000084656681882,
+        "McNary, Jeffery": 0.010532702170738418,
+        "Moree, Gregg J.": 0.0078025241800647625,
+        "Write-In 1": 2.1164170470338416e-05,
+        "Write-In 2": 7.054723490112805e-06,
+        "UWI": 0.0
+    },
+    "Cambridge, MA/Cambridge_11072017_CityCouncil.csv": {
+        "Siddiqui, Sumbul": 0.07831718625310796,
+        "Simmons, E. Denise": 0.07720260903401109,
+        "McGovern, Marc C.": 0.07153079596641759,
+        "Devereux, Jan": 0.06959182731307749,
+        "Carlone, Dennis J.": 0.060233335751548205,
+        "Mallon, Alanna M.": 0.05634220818192011,
+        "Zondervan, Quinton Y.": 0.056263066604232755,
+        "Sivongxay, Vatsady": 0.052187275353334166,
+        "Kelley, Craig A.": 0.047076048461026074,
+        "Tierney, Sean": 0.04563171466823191,
+        "Toomey, Jr., Timothy J.": 0.0437784827240531,
+        "Gebru, Samuel": 0.04091619566436057,
+        "Harding, Jr., Richard": 0.03970928660462846,
+        "Toner, Paul F.": 0.03603579837364058,
+        "Musgrave, Adriane B.": 0.035771993114682744,
+        "Okamoto, Nadya T.": 0.03221721725022588,
+        "D'Ambrosio, Olivia": 0.024085420142850547,
+        "Volmar, Gwen Thomas": 0.0209197570353565,
+        "Santos, Jeff": 0.020306409808279528,
+        "Burgin, Josh M.": 0.017404551959743317,
+        "Levy, Ilan": 0.016402091975703536,
+        "Pillai, Hari I.": 0.014931377657013592,
+        "Benjamin, Ronald": 0.014357601218780297,
+        "Sutton, Bryan": 0.011172152716864411,
+        "Moree, Gregg J.": 0.008850666438035443,
+        "Lenke, Dan": 0.008666002756764955,
+        "Write-In 1": 9.8926972109189e-05,
+        "UWI": 0.0
+    },
+    "Cambridge, MA/Cambridge_11062001_CityCouncil.csv": {
+        "Galluccio, Anthony D.": 0.10054858345231833,
+        "Davis, Henrietta": 0.09070414067783873,
+        "Decker, Marjorie C.": 0.08656024219261613,
+        "Simmons, Denise": 0.08194398222203136,
+        "Sullivan, Michael A.": 0.07843347754672621,
+        "Murphy, Brian": 0.07391383697087461,
+        "Maher, David P.": 0.07270072679255817,
+        "Reeves, Kenneth E.": 0.06814887975179551,
+        "Toomey, Timothy J., Jr.": 0.06693576957347905,
+        "Pitkin, John": 0.060279766825194044,
+        "King, Ethridge A.": 0.055180409880943436,
+        "Horowitz, Jacob": 0.0375956800395066,
+        "Iskovitz, Steve": 0.024122642218381302,
+        "Hall, Robert L.": 0.020901995727275656,
+        "Peixoto, Helder": 0.01836842048760588,
+        "Dixon, Vincent Lawrence": 0.017584729841436837,
+        "Jens, Steven E.": 0.01719825226250416,
+        "Condit, James E., III": 0.01469688348774544,
+        "Williamson, James M.": 0.014160109072561166,
+        "Write-In 1": 2.1470976607370985e-05,
+        "UWI": 0.0
+    },
+    "Cambridge, MA/Cambridge_11032009_CityCouncil.csv": {
+        "Davis, Henrietta": 0.0944529992705885,
+        "Simmons, E. Denise": 0.0920216276296442,
+        "Maher, David P.": 0.07450417385465029,
+        "Toomey, Jr., Timothy J.": 0.07407578932743629,
+        "Seidel, Sam": 0.07303377290988873,
+        "Reeves, Kenneth E.": 0.06652695928031399,
+        "Kelley, Craig A.": 0.06590174942978547,
+        "Ward, Larry W.": 0.06401454191800489,
+        "Cheung, Leland": 0.05185768371328339,
+        "Sullivan, Edward J.": 0.04846534137615635,
+        "vanBeuzekom, Minka Y.": 0.046670757545935554,
+        "Decker, Marjorie C.": 0.036134813768510264,
+        "Stohlman, Jr., Thomas J.": 0.034583367102383904,
+        "Glick, Silvia P.": 0.032013059939099926,
+        "Marquardt, Charles J.": 0.029153303770941635,
+        "Leavitt, Neal W.": 0.02459158745412233,
+        "Flanagan, Mark F.": 0.020504567505296917,
+        "Adkins, Lawrence J.": 0.020087760938277893,
+        "Podgers, Kathy": 0.01946255108774936,
+        "Williamson, James M.": 0.01706591332738998,
+        "Moree, Gregg J.": 0.014761899248590383,
+        "Write-In 3": 9.26236815597828e-05,
+        "Write-In 2": 2.31559203899457e-05,
+        "UWI": 0.0
+    },
+    "Cambridge, MA/Cambridge_11062007_SchoolCommittee.csv": {
+        "McGovern, Marc C.": 0.1397774548639449,
+        "Nolan, Patricia M.": 0.13135736608475826,
+        "Fantini, Alfred B.": 0.12140454246869838,
+        "Harding, Richard, Jr.": 0.12100642952405598,
+        "Schuster, Luc": 0.1207277504628063,
+        "Grassi, Joseph G.": 0.11740350737504229,
+        "Tauber, Nancy": 0.10665445786969763,
+        "Lemily Wiggins, Gail": 0.09363616457989131,
+        "Malner, Stefan": 0.047992515476640726,
+        "Write-In 1": 3.981129446423951e-05,
+        "UWI": 0.0
+    },
+    "Cambridge, MA/Cambridge_11052013_SchoolCommittee.csv": {
+        "Nolan, Patricia M.": 0.16440272648891346,
+        "Harding, Jr., Richard": 0.133721592295554,
+        "Fantini, Alfred B.": 0.129150331050414,
+        "Kelly, Kathleen M.": 0.12088627157521432,
+        "Osborne, Mervan F.": 0.11403751362431065,
+        "Cronin, Fran Albin": 0.10780693335068568,
+        "Gerber, Joyce C.": 0.09820891151925298,
+        "Kadete, Elechi M.": 0.06622635063688569,
+        "Holland, John J.": 0.0653966911226432,
+        "Write-In 1": 9.760700167558686e-05,
+        "Write-In 3": 3.253566722519562e-05,
+        "Write-In 6": 1.626783361259781e-05,
+        "Write-In 2": 1.626783361259781e-05,
+        "UWI": 0.0
+    },
+    "Cambridge, MA/Cambridge_11072023_CityCouncil.csv": {
+        "Sumbul Siddiqui": 0.07699382705131153,
+        "Marc C. McGovern": 0.0742876346463378,
+        "Burhan Azeem": 0.06501347200358468,
+        "Patricia M. Nolan": 0.06481301330691995,
+        "Ayesha M. Wilson": 0.06164694506842127,
+        "E. Denise Simmons": 0.05823914722512101,
+        "Jivan G. Sobrinho-Wheeler": 0.05590439299337897,
+        "Paul F. Toner": 0.05326895071663984,
+        "Adrienne Klein": 0.04318116159918873,
+        "Dan J. Totten": 0.04066953204686017,
+        "Ayah A. Al-Zubi": 0.040663636202840615,
+        "Joe McGuirk": 0.040628261138723316,
+        "Vernon K. Walker": 0.040085843488924654,
+        "Catherine Zusy": 0.036165107215923496,
+        "Douglas P. Brown": 0.03163120316488907,
+        "Frantz Pierre": 0.031318723431852886,
+        "Joan F. Pickett": 0.030841160066269288,
+        "Hao Wang": 0.02705602820571779,
+        "Federico Muchnik": 0.02684967366503352,
+        "John Hanratty": 0.02610679731857014,
+        "Peter Hsu": 0.023595167766241577,
+        "Robert Winters": 0.022451374026448756,
+        "Carrie E. Pasquarello": 0.02232166545801864,
+        "Gregg J. Moree": 0.006267282192782307,
+        "Write-In": 0.0,
+        "UWI": 0.0
+    },
+    "Cambridge, MA/Cambridge_11062007_CityCouncil.csv": {
+        "Davis, Henrietta": 0.09569800417357804,
+        "Simmons, E. Denise": 0.08937075284926962,
+        "Decker, Marjorie C.": 0.08814008240141259,
+        "Murphy, Brian": 0.08272245706030285,
+        "Maher, David P.": 0.07694365669645246,
+        "Toomey, Timothy J., Jr.": 0.07335866017443415,
+        "Seidel, Sam": 0.07115147947990796,
+        "Kelley, Craig A.": 0.07010808496976831,
+        "Reeves, Kenneth E.": 0.06687088661779657,
+        "Ward, Larry W.": 0.05892503611750227,
+        "Sullivan, Edward J.": 0.054684573813473164,
+        "Galluccio, Anthony D.": 0.051313606934560434,
+        "Moore, M. Kevin": 0.037522071806945265,
+        "Janik, Jonathan S.": 0.03622451709561774,
+        "Podgers, Kathy": 0.024386002461340896,
+        "Moree, Gregg J.": 0.022513243084167158,
+        "Write-In 1": 5.350741077639253e-05,
+        "Write-In 6": 1.3376852694098132e-05,
+        "UWI": 0.0
+    },
+    "Cambridge, MA/Cambridge_11152019_SchoolCommittee.csv": {
+        "Dexter, Emily R.": 0.12930832081142,
+        "Bowman, Mannika L.": 0.11817947032306536,
+        "Wilson, Ayesha": 0.11363636363636363,
+        "Fantini, Alfred B.": 0.10513711495116454,
+        "Weinstain, Rachel": 0.10229620586025545,
+        "Rojas Villareal, Jose Luis": 0.08292637114951165,
+        "Weinstein, David J.": 0.07808978211870773,
+        "Lim, Christopher": 0.07175056348610068,
+        "Kadete, Elechi M.": 0.0698018407212622,
+        "Dawson, Bernette J.": 0.06887443651389932,
+        "Allen, Ruth Ryan": 0.05989387678437265,
+        "Write-In 1": 5.869646882043576e-05,
+        "Write-In 2": 3.5217881292261456e-05,
+        "Write-In 6": 1.1739293764087153e-05,
+        "UWI": 0.0
+    },
+    "Cambridge, MA/Cambridge_11032015_SchoolCommittee.csv": {
+        "Nolan, Patricia M.": 0.13999940728447383,
+        "Kelly, Kathleen M.": 0.11812820436831342,
+        "Harding, Jr., Richard": 0.11111934327119699,
+        "Fantini, Alfred B.": 0.10605162552233056,
+        "Cronin, Fran Albin": 0.0994280295172332,
+        "Bowman, Manikka L.": 0.08998903476276561,
+        "Dexter, Emily R.": 0.08441750881664345,
+        "Crutchfield, Jake W.": 0.06859200426755178,
+        "Cisternino, Pia": 0.06659158936668345,
+        "Weinstein, David J.": 0.06423554515010521,
+        "Kadete, Elechi M.": 0.051403254008238745,
+        "Write-In 1": 2.963577630916042e-05,
+        "Write-In 6": 1.481788815458021e-05,
+        "UWI": 0.0
+    },
+    "Cambridge, MA/Cambridge_11082011_SchoolCommittee.csv": {
+        "Turkel, Alice L.": 0.12539276343493894,
+        "Nolan, Patricia M.": 0.12322244177383304,
+        "McGovern, Marc C.": 0.12184574519775841,
+        "Tauber, Nancy": 0.12098733439150011,
+        "Harding, Jr., Richard": 0.10738233293382139,
+        "Fantini, Alfred B.": 0.10247481455087298,
+        "Osborne, Mervan F.": 0.10106572511418484,
+        "Gerber, Joyce C.": 0.0575297204496129,
+        "Holland, John J.": 0.048346344465679765,
+        "Forster, Bill": 0.046856272877457805,
+        "Stead, Sr., Charles Lewis": 0.04484791551941952,
+        "Write-In 1": 3.239286061352078e-05,
+        "Write-In 6": 1.619643030676039e-05,
+        "UWI": 0.0
+    },
+    "Cambridge, MA/Cambridge_11072023_SchoolBoard.csv": {
+        "Rachel B. Weinstein": 0.13641988566052016,
+        "Jose Luis Rojas Villarreal": 0.12272573865553953,
+        "David J. Weinstein": 0.12160075271786375,
+        "Caroline M. Hunter": 0.110606571963305,
+        "Elizabeth Clark Polner Hudson": 0.10056351568332668,
+        "Richard Harding, Jr.": 0.08565233843667863,
+        "Eugenia Schraa Huh": 0.08410803955859643,
+        "Andrew R. King": 0.0833410036919993,
+        "Robert Vincent Travers, Jr.": 0.06144468648687346,
+        "Frantz Pierre": 0.04955051698217409,
+        "Alborz Bejnood": 0.04398695016312296,
+        "Write-In": 0.0,
+        "UWI": 0.0
+    },
+    "Cambridge, MA/Cambridge_11052013_CityCouncil.csv": {
+        "Cheung, Leland": 0.09036923745055277,
+        "Simmons, E. Denise": 0.07133618451487429,
+        "Maher, David P.": 0.06298090086007496,
+        "vanBeuzekom, Minka Y.": 0.06286760887831497,
+        "McGovern, Marc C.": 0.0599881043419152,
+        "Kelley, Craig A.": 0.05724077378423542,
+        "Toomey, Jr., Timothy J.": 0.056579903890635476,
+        "Reeves, Kenneth E.": 0.05546586606999556,
+        "Seidel, Sam": 0.05416300827975567,
+        "Benzan, Dennis A.": 0.05261468452903579,
+        "Mazen, Nadeem A.": 0.049074310099036074,
+        "Carlone, Dennis J.": 0.044561512825596436,
+        "House, Janneke Ann": 0.03885914974367689,
+        "Smith, Jefferson R.": 0.03838709981967693,
+        "Von Hoffmann, Kristen Lane": 0.036517782120637075,
+        "Vasquez, Luis": 0.027057901643677836,
+        "Mirza, Mushtaque A.": 0.021440507548078285,
+        "Leslie, Logan Edward": 0.01926907789767846,
+        "Phillips, Lesley Rebecca": 0.017815164131758574,
+        "Lee, James": 0.017730195145438582,
+        "Yarden, Elie": 0.015275535540638778,
+        "Mello, Gary W.": 0.01450137366527884,
+        "Williamson, James M.": 0.013198515875038943,
+        "Peden, Ronald": 0.012292180020959017,
+        "Moree, Gregg J.": 0.010300129341679176,
+        "Write-In 1": 7.552798783999395e-05,
+        "Write-In 2": 2.8322995439997735e-05,
+        "Write-In 3": 9.440998479999244e-06,
+        "UWI": 0.0
+    },
+    "Cambridge, MA/Cambridge_11042003_SchoolCommittee.csv": {
+        "Walser, Nancy": 0.15371411932384177,
+        "Harding, Richard, Jr.": 0.14041164120090113,
+        "Lummis, Ben": 0.13310140840753398,
+        "McGovern, Marc C.": 0.1316914683299873,
+        "Fantini, Alfred B.": 0.12456514076412623,
+        "Price, Alan C.": 0.12448851358599868,
+        "Grassi, Joseph G.": 0.12054987663024322,
+        "Craig, Christopher": 0.0712939265298616,
+        "Write-In 1": 0.00012260348500406124,
+        "Write-In 2": 6.130174250203062e-05,
+        "UWI": 0.0
+    },
+    "Cambridge, MA/Cambridge_11072017_SchoolCommittee.csv": {
+        "Nolan, Patricia M.": 0.13263970539299422,
+        "Dexter, Emily R.": 0.11979501741464604,
+        "Bowman, Manikka L.": 0.11274042194467244,
+        "Kelly, Kathleen M.": 0.10111586840295494,
+        "Fantini, Alfred B.": 0.09052288306675245,
+        "Cronin, Fran A.": 0.08062870199880205,
+        "Kimbrough, Laurance V.": 0.07498280719657476,
+        "Crutchfield, Jake W.": 0.06326951660492047,
+        "Kadete, Elechi M.": 0.061383854293764,
+        "Weinstein, David J.": 0.061162011668922066,
+        "MacArthur, William": 0.055549393260421055,
+        "Mitros, Piotr Flawiusz": 0.046143265967122926,
+        "Write-In 02": 3.327639372629057e-05,
+        "Write-In 06": 1.1092131242096856e-05,
+        "Write-In 03": 1.1092131242096856e-05,
+        "Write-In 01": 1.1092131242096856e-05,
+        "UWI": 0.0
+    },
+    "Cambridge, MA/Cambridge_11032015_CityCouncil.csv": {
+        "Simmons, E. Denise": 0.07989303025238174,
+        "Mazen, Nadeem A.": 0.07755306702323249,
+        "Cheung, Leland": 0.0740431221795086,
+        "McGovern, Marc C.": 0.07128530837372556,
+        "Maher, David P.": 0.06892677400783702,
+        "Benzan, Dennis A.": 0.06601110553977009,
+        "Kelley, Craig A.": 0.06316043605029063,
+        "Carlone, Dennis J.": 0.05915835608297584,
+        "Toomey, Jr., Timothy J.": 0.057737664122420936,
+        "vanBeuzekom, Minka Y.": 0.05615911749958215,
+        "Devereux, Jan": 0.05434843166750237,
+        "Connolly, Mike": 0.05301130982227422,
+        "Davidson, Mariko": 0.04835924006908463,
+        "Waite, Romaine": 0.03874867680650733,
+        "Mahoney, Jr., Paul F.": 0.01889613163221721,
+        "Levy, Ilan S.": 0.018125429457537097,
+        "Courtney, Kim": 0.01588760748045388,
+        "Williamson, James M.": 0.014299775289245455,
+        "Mello, Gary W.": 0.014086207216743737,
+        "Degoes, Jr., Plinio T.": 0.013417646294129663,
+        "Moree, Gregg J.": 0.013417646294129663,
+        "Dietrich, Xavier": 0.01176481512433376,
+        "Sanzone, John": 0.011644102735528442,
+        "Write-In 1": 6.499897858747934e-05,
+        "UWI": 0.0
+    },
+    "Cambridge, MA/Cambridge_11082005_CityCouncil.csv": {
+        "Decker, Marjorie C.": 0.09060259378301229,
+        "Galluccio, Anthony D.": 0.0901081117529388,
+        "Davis, Henrietta": 0.08798408666921399,
+        "Sullivan, Michael A.": 0.08759074869074644,
+        "Simmons, Denise": 0.08538805601132814,
+        "Murphy, Brian": 0.07497021869591602,
+        "Reeves, Kenneth E.": 0.07285743184014745,
+        "Maher, David P.": 0.07005911307904969,
+        "Toomey, Timothy J., Jr.": 0.06641792722123575,
+        "Seidel, Sam": 0.05415702052100425,
+        "Kelley, Craig A.": 0.05121260479647569,
+        "Gordon, Jesse A.": 0.04323346294756243,
+        "Adkins, Lawrence J.": 0.025724303791778112,
+        "Green, Andre Lerone": 0.022566361736081456,
+        "Hees, Bill": 0.020925580454473937,
+        "LaTremouille, Robert J.": 0.02037490728461936,
+        "Hall, Robert Lee, Sr.": 0.019296037400822637,
+        "Condit, James E., III": 0.016508956867681106,
+        "Write-In 1": 2.247645591243173e-05,
+        "UWI": 0.0
+    },
+    "Cambridge, MA/Cambridge_11042003_CityCouncil.csv": {
+        "Galluccio, Anthony D.": 0.09086946465742701,
+        "Davis, Henrietta": 0.0796253135730425,
+        "Sullivan, Michael A.": 0.0781397334851531,
+        "Decker, Marjorie C.": 0.07547102674044158,
+        "Simmons, Denise": 0.07075631149145124,
+        "Maher, David P.": 0.06907502624228298,
+        "Murphy, Brian": 0.06880815556781184,
+        "Toomey, Timothy J., Jr.": 0.0671535573860907,
+        "Reeves, Kenneth E.": 0.06492963509883111,
+        "Bellew, Carole K.": 0.047084882665860125,
+        "Pitkin, John": 0.04397139146369669,
+        "Kelley, Craig A.": 0.03993274859003327,
+        "DeBergalis, Matt S.": 0.03778888750511502,
+        "King, Ethridge A., Jr.": 0.03720177202127849,
+        "Taymorberry, Laurie": 0.031757610262067006,
+        "Smith, Aimee Louise": 0.028403935452879534,
+        "Hall, Robert L., Sr.": 0.019205792872773852,
+        "LaTremouille, Robert J.": 0.017826961054672904,
+        "Dixon, Vincent Lawrence": 0.017399967975519064,
+        "Greenwood, Dan J.": 0.014526660380379667,
+        "Write-In 1": 4.447844574519188e-05,
+        "Write-In 2": 2.6687067447115127e-05,
+        "UWI": 0.0
+    },
+    "Cambridge, MA/Cambridge_11082005_SchoolCommittee.csv": {
+        "Walser, Nancy": 0.13918005442893513,
+        "Nolan, Patricia M.": 0.1274163813537003,
+        "Harding, Richard, Jr.": 0.12724080414362215,
+        "McGovern, Marc C.": 0.12660872618734087,
+        "Lummis, Ben": 0.12430866473531736,
+        "Grassi, Joseph G.": 0.12242998858748134,
+        "Fantini, Alfred B.": 0.12097269774383285,
+        "Schuster, Luc": 0.11170222105170749,
+        "Write-In 1": 8.778860503906593e-05,
+        "Write-In 2": 3.511544201562637e-05,
+        "Write-In 6": 1.7557721007813185e-05,
+        "UWI": 0.0
+    },
+    "New Mexico/LasCruces_11052019_COUNCILORPOSITION2CITYOFLASCRUCESDISTRICT2COUNCILOR.csv": {
+        "TESSA ABEYTA STUVE": 0.31417140450621184,
+        "PHILIP A VANVEEN": 0.2785849652558433,
+        "JACK L VALENCIA, JR": 0.2545799115603285,
+        "JASON D ESTRADA": 0.15266371867761633
+    },
+    "New Mexico/SantaFe_03062018_Mayor.csv": {
+        "Alan Webber": 0.23430209597917184,
+        "Kate I. Noble": 0.2209919700449034,
+        "Joseph M. Maestas": 0.20105603416753207,
+        "Peter N. Ives": 0.19072971668446226,
+        "Ronald S. Trujillo": 0.15292018312393044
+    },
+    "New Mexico/LasCruces_11052019_COUNCILORPOSITION4CITYOFLASCRUCESDISTRICT4COUNCILOR.csv": {
+        "JOHANA BENCOMO": 0.4036144578313253,
+        "ANTOINETTE M REYES": 0.30384036144578314,
+        "ROBERT J PALACIOS": 0.29254518072289154
+    },
+    "New Mexico/SantaFe_03062018_CityCouncilDistrict4.csv": {
+        "JoAnne Vigil Coppler": 0.37149747358750573,
+        "Greg Scargall": 0.32831878732200276,
+        "Eric John Holmes": 0.3001837390904915
+    },
+    "New Mexico/LasCruces_11052019_MAYORCITYOFLASCRUCES.csv": {
+        "KEN MIYAGISHIMA": 0.13910528525446658,
+        "WILLIAM BILL MATTIACE": 0.13133056553311254,
+        "GREGORY Z SMITH": 0.11491035748161278,
+        "MIKE A TELLEZ": 0.10037163160268073,
+        "ISABELLA SOLIS": 0.09779042465519118,
+        "EUGENIA (GINA) MONTOYA ORTEGA": 0.09614218407426413,
+        "JESUSITA DOLORES LUCERO": 0.09045108923823296,
+        "BEV COURTNEY": 0.08443345617390494,
+        "JORGE SANCHEZ": 0.07316011257794157,
+        "ALEXANDER PAIGE FRESQUEZ": 0.07230489340859263
+    },
+    "Corvallis, OR/Corvallis_11082022_CityCouncilWard9.csv": {
+        "Tony Cadena": 0.3442773857011353,
+        "Cliff Feldman": 0.33277078858545567,
+        "Nyssa Towsley": 0.322951825713409,
+        "Write-in": 0.0
+    },
+    "Corvallis, OR/Corvallis_11082022_Mayor.csv": {
+        "Andrew Struthers": 0.3385001423690205,
+        "Charles Maughan": 0.3333214692482916,
+        "Roen Hogg": 0.3281783883826879,
+        "Write-in": 0.0
+    }
+}
