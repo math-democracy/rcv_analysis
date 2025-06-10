@@ -79,65 +79,65 @@ def get_num_ranks(file_name):
 
 
 lxn_names = []
-##### Scottish data
-base_name = '../../../raw_data/scotland/processed_data'
-destination_base = '../../../raw_data/preference_profiles/scotland'
-##### Australia data
-# base_name = '../australia/processed_data'
-# destination_base = '../preference_profiles/australia'
-##### American data
-# base_name = '../american'
-# destination_base = '../preference_profiles/american'
-##### Scottish condensed
-# base_name = '../../../analysis/mimic_single_party/condensed_elections/borda_tiebreaker/processed_data'
-# destination_base = '../../../raw_data/preference_profiles/scotland_condensed'
-base_name = 'C:/Users/mattf/Box/CloudDocs/rcv_proposal_jones_fork/analysis/mimic_single_party/condensed_elections/borda_tiebreaker/processed_data'
-destination_base = 'C:/Users/mattf/Box/CloudDocs/rcv_proposal_jones_fork/raw_data/preference_profiles/scotland_condensed'
+# ##### Scottish data
+# base_name = '../../../raw_data/scotland/processed_data'
+# destination_base = '../../../raw_data/preference_profiles/scotland'
+# ##### Australia data
+# # base_name = '../australia/processed_data'
+# # destination_base = '../preference_profiles/australia'
+# ##### American data
+# # base_name = '../american'
+# # destination_base = '../preference_profiles/american'
+# ##### Scottish condensed
+# # base_name = '../../../analysis/mimic_single_party/condensed_elections/borda_tiebreaker/processed_data'
+# # destination_base = '../../../raw_data/preference_profiles/scotland_condensed'
+# base_name = 'C:/Users/mattf/Box/CloudDocs/rcv_proposal_jones_fork/analysis/mimic_single_party/condensed_elections/borda_tiebreaker/processed_data'
+# destination_base = 'C:/Users/mattf/Box/CloudDocs/rcv_proposal_jones_fork/raw_data/preference_profiles/scotland_condensed'
 
-for folder_name in os.listdir(base_name):
-# for folder_name in ['New Mexico']:
-    destination_folder_name = destination_base + '/' + folder_name
-    if not os.path.exists(destination_folder_name):
-        os.makedirs(destination_folder_name)
+# for folder_name in os.listdir(base_name):
+# # for folder_name in ['New Mexico']:
+#     destination_folder_name = destination_base + '/' + folder_name
+#     if not os.path.exists(destination_folder_name):
+#         os.makedirs(destination_folder_name)
     
-    for file_name in os.listdir(base_name+'/'+folder_name):
-        file_path = base_name+'/'+folder_name+'/'+file_name
-        lxn_names.append(file_path)
-        destination_path = destination_base+'/'+folder_name+'/'+file_name    
+#     for file_name in os.listdir(base_name+'/'+folder_name):
+#         file_path = base_name+'/'+folder_name+'/'+file_name
+#         lxn_names.append(file_path)
+#         destination_path = destination_base+'/'+folder_name+'/'+file_name    
     
-        sys.stdout.write('\r')
-        sys.stdout.write(f'Election {len(lxn_names)}'+'         ')
-        sys.stdout.flush()
+#         sys.stdout.write('\r')
+#         sys.stdout.write(f'Election {len(lxn_names)}'+'         ')
+#         sys.stdout.flush()
 
-        num_ranks = get_num_ranks(file_path)
-        rankings, rcounts, cands_with_inds, seat_num = process_csv(file_path)
+#         num_ranks = get_num_ranks(file_path)
+#         rankings, rcounts, cands_with_inds, seat_num = process_csv(file_path)
         
-        rows = [[str(len(cands_with_inds))+' '+str(seat_num)]]
+#         rows = [[str(len(cands_with_inds))+' '+str(seat_num)]]
         
-        ballot_list = []
-        for i in range(len(rankings)):
-            cand_list = [cand+1 for cand in rankings[i].keys()]
-            # cand_list = list(rankings[i].keys())
-            ballot_list.append([rcounts[i], cand_list])
+#         ballot_list = []
+#         for i in range(len(rankings)):
+#             cand_list = [cand+1 for cand in rankings[i].keys()]
+#             # cand_list = list(rankings[i].keys())
+#             ballot_list.append([rcounts[i], cand_list])
         
-        ballot_list.sort(key = lambda x: x[1])
+#         ballot_list.sort(key = lambda x: x[1])
         
-        for ballot in ballot_list:
-            string = str(ballot[0])
-            for cand in ballot[1]:
-                string += ' '+str(cand)
-            string += ' 0'
-            rows.append([string])
+#         for ballot in ballot_list:
+#             string = str(ballot[0])
+#             for cand in ballot[1]:
+#                 string += ' '+str(cand)
+#             string += ' 0'
+#             rows.append([string])
         
-        rows.append(['0'])
+#         rows.append(['0'])
         
-        for name in cands_with_inds.values():
-            rows.append([name])
+#         for name in cands_with_inds.values():
+#             rows.append([name])
             
         
-        with open(destination_path, 'w', newline='') as csvfile:
-            writer = csv.writer(csvfile)
-            writer.writerows(rows)
+#         with open(destination_path, 'w', newline='') as csvfile:
+#             writer = csv.writer(csvfile)
+#             writer.writerows(rows)
 
         
         
@@ -146,48 +146,48 @@ for folder_name in os.listdir(base_name):
         
         
         
-##### CIVS data (no subfolders for this data)
-# base_name = '../civs'
-# destination_base = '../preference_profiles/civs'
+#### CIVS data (no subfolders for this data)
+base_name = '../../../raw_data/civs/processed_data'
+destination_base = '../../../raw_data/preference_profiles/civs/civs_subfolder2'
 
-# for file_name in os.listdir(base_name):
-#     file_path = base_name+'/'+file_name
-#     lxn_names.append(file_path)
-#     destination_path = destination_base+'/'+file_name    
+for file_name in os.listdir(base_name):
+    file_path = base_name+'/'+file_name
+    lxn_names.append(file_path)
+    destination_path = destination_base+'/'+file_name    
 
-#     sys.stdout.write('\r')
-#     sys.stdout.write(f'Election {len(lxn_names)}'+'         ')
-#     sys.stdout.flush()
+    sys.stdout.write('\r')
+    sys.stdout.write(f'Election {len(lxn_names)}'+'         ')
+    sys.stdout.flush()
 
-#     num_ranks = get_num_ranks(file_path)
-#     rankings, rcounts, cands_with_inds, seat_num = process_csv(file_path)
+    num_ranks = get_num_ranks(file_path)
+    rankings, rcounts, cands_with_inds, seat_num = process_csv(file_path)
     
-#     rows = [[str(len(cands_with_inds))+' '+str(seat_num)]]
+    rows = [[str(len(cands_with_inds))+' '+str(seat_num)]]
     
-#     ballot_list = []
-#     for i in range(len(rankings)):
-#         cand_list = [cand+1 for cand in rankings[i].keys()]
-#         # cand_list = list(rankings[i].keys())
-#         ballot_list.append([rcounts[i], cand_list])
+    ballot_list = []
+    for i in range(len(rankings)):
+        cand_list = [cand+1 for cand in rankings[i].keys()]
+        # cand_list = list(rankings[i].keys())
+        ballot_list.append([rcounts[i], cand_list])
     
-#     ballot_list.sort(key = lambda x: x[1])
+    ballot_list.sort(key = lambda x: x[1])
     
-#     for ballot in ballot_list:
-#         string = str(ballot[0])
-#         for cand in ballot[1]:
-#             string += ' '+str(cand)
-#         string += ' 0'
-#         rows.append([string])
+    for ballot in ballot_list:
+        string = str(ballot[0])
+        for cand in ballot[1]:
+            string += ' '+str(cand)
+        string += ' 0'
+        rows.append([string])
     
-#     rows.append(['0'])
+    rows.append(['0'])
     
-#     for name in cands_with_inds.values():
-#         rows.append([name])
+    for name in cands_with_inds.values():
+        rows.append([name])
         
     
-#     with open(destination_path, 'w', newline='') as csvfile:
-#         writer = csv.writer(csvfile)
-#         writer.writerows(rows)
+    with open(destination_path, 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerows(rows)
 
         
         
