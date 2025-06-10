@@ -146,7 +146,7 @@ def IRV(frame3, cands, diagnostic=False):
     #     for i in range(len(frame2.at[k,'ballot'])):
     #         if frame2.at[k,'ballot'][i] not in list1:
     #             list1.append(frame2.at[k,'ballot'][i])
-    list1 = cands
+    list1 = list(cands)
     
     cand_dict={}
     n = len(list1)
