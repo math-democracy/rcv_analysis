@@ -1,4 +1,4 @@
-file,numCands,plurality,IRV,top-two,borda-pm,borda-om-no-uwi,borda-avg-no-uwi,top-3-truncation,condorcet,minimax,smith,smith_plurality,smith_irv,smith-minimax,ranked-pairs,bucklin,approval
+file,numCands,plurality,IRV,top-two,borda-pm,borda-om,borda-avg,top-3-truncation,condorcet,minimax,smith,smith_plurality,smith_irv,smith-minimax,ranked-pairs,bucklin,approval
 0_results/Kentucky_distribution2_5cands_FTFF,5.0,['B'],['B'],['E'],['B'],['A'],['E'],['E'],['E'],['E'],['E'],['E'],['E'],['E'],['E'],['E'],['E']
 1_results/Kentucky_distribution2_5cands_FTFF,5.0,['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B']
 2_results/Kentucky_distribution2_5cands_FTFF,5.0,['B'],['C'],['C'],['B'],['A'],['B'],['B'],[],['B'],"['A', 'B', 'C']",['B'],['C'],['B'],['B'],['B'],['B']

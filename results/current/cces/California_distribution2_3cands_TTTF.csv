@@ -1,4 +1,4 @@
-file,numCands,plurality,IRV,top-two,borda-pm,borda-om-no-uwi,borda-avg-no-uwi,top-3-truncation,condorcet,minimax,smith,smith_plurality,smith_irv,smith-minimax,ranked-pairs,bucklin,approval
+file,numCands,plurality,IRV,top-two,borda-pm,borda-om,borda-avg,top-3-truncation,condorcet,minimax,smith,smith_plurality,smith_irv,smith-minimax,ranked-pairs,bucklin,approval
 0_results/California_distribution2_3cands_TTTF,3.0,['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C']
 1_results/California_distribution2_3cands_TTTF,3.0,['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B']
 2_results/California_distribution2_3cands_TTTF,3.0,['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B'],['B']

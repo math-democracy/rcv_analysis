@@ -1,4 +1,4 @@
-file,numCands,plurality,IRV,top-two,borda-pm,borda-om-no-uwi,borda-avg-no-uwi,top-3-truncation,condorcet,minimax,smith,smith_plurality,smith_irv,smith-minimax,ranked-pairs,bucklin,approval
+file,numCands,plurality,IRV,top-two,borda-pm,borda-om,borda-avg,top-3-truncation,condorcet,minimax,smith,smith_plurality,smith_irv,smith-minimax,ranked-pairs,bucklin,approval
 0_results/Arizona_distribution3_5cands_FTFF,5.0,['B'],['E'],['B'],['B'],['C'],['B'],['B'],[],['C'],"['C', 'E', 'B']",['B'],['B'],['C'],['C'],['E'],['C']
 1_results/Arizona_distribution3_5cands_FTFF,5.0,['B'],['E'],['E'],['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C']
 2_results/Arizona_distribution3_5cands_FTFF,5.0,['E'],['E'],['E'],['E'],['E'],['E'],['E'],['E'],['E'],['E'],['E'],['E'],['E'],['E'],['E'],['E']

@@ -1,4 +1,4 @@
-file,numCands,plurality,IRV,top-two,borda-pm,borda-om-no-uwi,borda-avg-no-uwi,top-3-truncation,condorcet,minimax,smith,smith_plurality,smith_irv,smith-minimax,ranked-pairs,bucklin,approval
+file,numCands,plurality,IRV,top-two,borda-pm,borda-om,borda-avg,top-3-truncation,condorcet,minimax,smith,smith_plurality,smith_irv,smith-minimax,ranked-pairs,bucklin,approval
 0_results/Illinois_distribution3_5cands_TTTF,5.0,['E'],['E'],['E'],['E'],['E'],['E'],['E'],['A'],['A'],['A'],['A'],['A'],['A'],['A'],['E'],['A']
 1_results/Illinois_distribution3_5cands_TTTF,5.0,['D'],['D'],['D'],['D'],['D'],['D'],['D'],['D'],['D'],['D'],['D'],['D'],['D'],['D'],['D'],['D']
 2_results/Illinois_distribution3_5cands_TTTF,5.0,['E'],['B'],['B'],['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C'],['C']
