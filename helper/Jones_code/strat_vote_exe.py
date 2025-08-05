@@ -45,7 +45,7 @@ from strat_vote_class import *
 ###############################################################################
 ###############################################################################
 ##### parameters
-election_group = 'america'
+election_group = 'scotland'
 vote_frac = 1
 mp_pool_size = 6
 ###############################################################################
@@ -126,9 +126,9 @@ def createBallotDF(list_profile, diagnostic=False):
 def get_election_data(election_location, specific_lxn=-1, diagnostic=False):
     lxns = []
     ## version for github repo
-    # base_name = '../../raw_data/preference_profiles/' + election_location
+    base_name = '../../raw_data/preference_profiles/' + election_location
     ## version for HPC
-    base_name = './data/' + election_location
+    # base_name = './data/' + election_location
 
     lxn_count = 0
     for folder_name in os.listdir(base_name):

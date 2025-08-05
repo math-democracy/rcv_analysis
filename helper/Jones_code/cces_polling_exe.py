@@ -84,8 +84,8 @@ def get_cces(path, model):
     # print('getting profile')
 
     lxn_list = []
-    for i in range(len(model_df)):
-    # for i in range(100):
+    # for i in range(len(model_df)):
+    for i in range(10000):
         lxn_df = model_df.at[i, 'profile']
         ballot_list = []
         count_list = []
