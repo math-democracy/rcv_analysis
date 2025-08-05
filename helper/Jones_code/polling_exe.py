@@ -43,7 +43,7 @@ from ballot_modifications_class import *
 ###############################################################################
 ###############################################################################
 ##### parameters
-election_group = 'america'
+election_group = 'scotland'
 frac = 1
 mp_pool_size = 6
 compromise_n = 4
@@ -125,9 +125,9 @@ def createBallotDF(list_profile, diagnostic=False):
 def get_election_data(election_location, specific_lxn=-1, diagnostic=False):
     lxns = []
     ## version for github repo
-    # base_name = '../../raw_data/preference_profiles/' + election_location
+    base_name = '../../raw_data/preference_profiles/' + election_location
     ## version for HPC
-    base_name = './data/' + election_location
+    # base_name = './data/' + election_location
 
     lxn_count = 0
     for folder_name in os.listdir(base_name):
@@ -475,8 +475,8 @@ if not os.path.exists(election_group+'_polling'):
 #                 smith_minimax, ranked_pairs, plurality, condorcet_plurality,
 #                 plurality_runoff, bucklin]
 lxn_methods = [plurality, plurality_runoff, IRV, smith_irv, smith_plurality, 
-               minimax, smith_minimax, ranked_pairs, 
-               Borda_PM, Borda_OM, Borda_AVG, bucklin]
+                minimax, smith_minimax, ranked_pairs, 
+                Borda_PM, Borda_OM, Borda_AVG, bucklin]
 
 voter_strategies = [voters_compromise, voters_bullet, voters_protect, voters_score]
 
@@ -549,7 +549,7 @@ if __name__ == '__main__':
 
 
 # print('##### Collecting election data #####')
-# lxn_list = get_election_data('scotland')
+# lxn_list = get_election_data('australia')
 
 # print('##### Measuring outcomes #####')
 # changed_elections = []
@@ -562,9 +562,8 @@ if __name__ == '__main__':
     
 #     lxn, profile, num_cands = lxn_list[i]
     
-#     data = voters_score(profile, IRV, num_cands)
+#     data = voters_compromise(profile, plurality_runoff, num_cands, 4)
     
 #     if data:
 #         changed_elections.append([lxn]+data)
-        
 

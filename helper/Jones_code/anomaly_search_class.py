@@ -404,12 +404,13 @@ def frac_upMonoPR(profile, num_cands, vote_frac, diagnostic=False):
                         new_profile = pd.concat([new_profile, pd.DataFrame({'ballot': [newBal], 'Count': [count]})], ignore_index=True)
                         modified_ballot_list.append([oldBal, newBal, count])
                         gaps[cur_lead] -= count
-                    elif (upstart in ballot and winner in ballot and ballot.find(upstart)<ballot.find(winner)) or (winner not in ballot and upstart not in ballot):
+                    elif (upstart in oldBal and winner in oldBal and oldBal.find(upstart)<oldBal.find(winner)) or (winner not in oldBal):
                         risky_ballots[cur_lead] += new_profile.at[k, 'Count']
             
             if diagnostic:
                 print(gaps)
                 print(modified_ballot_list)
+                print(risky_ballots)
             if max(gaps.values()) < 0:
                 ## upstart should advance to second round and beat winner
                 ## check election
@@ -420,29 +421,63 @@ def frac_upMonoPR(profile, num_cands, vote_frac, diagnostic=False):
                     print(new_win[0])
                     print('##### Error with safe ballots #####')
             else:
-                ## check if risky ballots can be removed
-                upstart_can_advance = True
-                for cand in need_to_lose:
-                    if gaps[cand]>risky_ballots[cand]:
-                        upstart_can_advance = False
-                        break
+                ## try removing risky ballots
                 
                 ballots_to_change = {}
                 for cand in need_to_lose:
                     if gaps[cand] >= 0:
                         ballots_to_change[cand] = gaps[cand]
-                if 2*(sum(ballots_to_change.values()) + len(ballots_to_change)) > upstart_win_margin:
-                    upstart_can_advance = False
                 
                 if diagnostic:
                     print(ballots_to_change)
-                if upstart_can_advance:
-                    ## remove just enough risky ballots
+                    print(upstart_win_margin)
+                    
+                ## first change ballots that don't rank upstart
+                for k in range(len(profile)):
+                    oldBal = new_profile.at[k, 'ballot']
+                    cur_lead = oldBal[0]
+                    if cur_lead in ballots_to_change.keys():
+                        if winner not in oldBal and upstart not in oldBal:
+                            if ballots_to_change[cur_lead] < 0:
+                                ## already removed enough ballots, no need to remove more
+                                pass
+                            elif ballots_to_change[cur_lead] >= (int(new_profile.at[k, 'Count']*vote_frac)+1):
+                                ## change all ballots
+                                newBal = modifyUp(oldBal, winner)
+                                count = int(new_profile.at[k, 'Count']*vote_frac)
+                                # new_profile.at[k, 'ballot'] = newBal
+                                new_profile.at[k, 'Count'] -= count
+                                new_profile = pd.concat([new_profile, pd.DataFrame({'ballot': [newBal], 'Count': [count]})], ignore_index=True)
+                                modified_ballot_list.append([oldBal, newBal, count])
+                                ballots_to_change[cur_lead] -= count
+                                # new_profile.at[k, 'Count'] = 0
+                            else:
+                                ## only change enough ballots
+                                ## add new row to new_profile
+                                newBal = modifyUp(oldBal, winner)
+                                new_profile.at[k, 'Count'] -= (ballots_to_change[cur_lead] + 1)
+                                modified_ballot_list.append([oldBal, newBal, ballots_to_change[cur_lead]+1])
+                                row={'Count':[ballots_to_change[cur_lead]+1], 'ballot':[newBal]}
+                                df2=pd.DataFrame(row)
+                                new_profile = pd.concat([new_profile, df2], ignore_index=True)
+                                ballots_to_change[cur_lead] = -1
+                                
+                ## test election having removed the less risky ballots
+                new_win = plurality_runoff(new_profile, cands)[0]
+                if diagnostic:
+                    print(new_win)
+                    print(new_profile)
+                if new_win[0] == upstart:   
+                    return [winner, upstart, modified_ballot_list]
+                
+                else:
+                    
+                    ## now change ballots that rank upstart above winner
                     for k in range(len(profile)):
                         oldBal = new_profile.at[k, 'ballot']
                         cur_lead = oldBal[0]
                         if cur_lead in ballots_to_change.keys():
-                            if (upstart in oldBal and winner in oldBal and oldBal.find(upstart)<oldBal.find(winner)) or (winner not in oldBal and upstart not in oldBal):
+                            if (upstart in oldBal and winner in oldBal and oldBal.find(upstart)<oldBal.find(winner)) or (upstart in oldBal and winner not in oldBal):
                                 if ballots_to_change[cur_lead] < 0:
                                     ## already removed enough ballots, no need to remove more
                                     pass
@@ -466,23 +501,19 @@ def frac_upMonoPR(profile, num_cands, vote_frac, diagnostic=False):
                                     df2=pd.DataFrame(row)
                                     new_profile = pd.concat([new_profile, df2], ignore_index=True)
                                     ballots_to_change[cur_lead] = -1
-                                
-                    ## test election having removed the risky ballots
+                                    
+                    ## test election having removed the less risky ballots
                     new_win = plurality_runoff(new_profile, cands)[0]
-                    if new_win[0] == upstart:        
+                    if diagnostic:
+                        print(new_win)
+                        print(new_profile)
+                    if new_win[0] == upstart:   
                         return [winner, upstart, modified_ballot_list]
                     
-                    else:
-                        if diagnostic:
-                            print(winner)
-                            print(upstart)
-                            print(new_win)
-                            print(need_to_lose)
-                            print(upstart_win_margin)
-                            print(gaps)
-                            print(ballots_to_change)
-                            print(modified_ballot_list)
-                        print('##### Error with risky ballots #####')
+                    
+                    if diagnostic:
+                        print(modified_ballot_list)
+                    # print('##### Error with risky ballots #####')
                 
     return []
 
@@ -590,6 +621,12 @@ def frac_noShowPR(profile, num_cands, vote_frac, diagnostic=False):
                 print(upstart)
             ## check if upstart can make it to second round and defeat winner
             need_to_lose = ranked_cands[:ranked_cands.index(upstart)]
+            ballots_to_change = {}
+            for cand in need_to_lose:
+                ballots_to_change[cand] = scores[cand]-scores[upstart]
+            if diagnostic:
+                print(ballots_to_change)
+            
             
             new_profile = profile.copy(deep = True)
             for k in range(len(profile)):
@@ -598,10 +635,22 @@ def frac_noShowPR(profile, num_cands, vote_frac, diagnostic=False):
                 if cur_lead in need_to_lose:
                     if (upstart in ballot and winner not in ballot) or (upstart in ballot and winner in ballot and ballot.find(upstart)<ballot.find(winner)):
                         count = int(new_profile.at[k, 'Count']*vote_frac)
-                        new_profile.at[k, 'Count'] -= count
                         
-                        remove_ballots.append([ballot, count])
-                        # new_profile.at[k, 'Count'] = 0
+                        
+                        if ballots_to_change[cur_lead] < 0:
+                            ## already removed enough ballots, no need to remove more
+                            pass
+                        elif ballots_to_change[cur_lead] >= (int(new_profile.at[k, 'Count']*vote_frac)+1):
+                            ## remove all ballots
+                            remove_ballots.append([ballot, count])
+                            ballots_to_change[cur_lead] -= count
+                            new_profile.at[k, 'Count'] = 0
+                        else:
+                            ## only remove enough ballots
+                            new_profile.at[k, 'Count'] -= (ballots_to_change[cur_lead] + 1)
+                            remove_ballots.append([ballot, ballots_to_change[cur_lead]+1])
+                            ballots_to_change[cur_lead] = -1
+                        
                         
             
             new_win = plurality_runoff(new_profile, cands)[0]
@@ -852,258 +901,584 @@ def downwardIndivCheck(frame1, gap, winnerB, loser):
 ###############################################################################
 ###############################################################################
 
-def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamlined version (really only works for IRV)
-    """inputs: name of election, dataframe of election, voting method
-    runs election to find winners/hopefuls/losers, then identifies and makes vote swaps to find
-    downward monotonicity anomalies connected to change in dropout order.  
-    Returns if an anomaly exists, and how anomaly happens"""
-    # cand_List1=[] #make list of all candidates, only candidates listed in top 4 ranks
-    # for k in range(len(profile)):
-    #     for i in range(len(profile.at[k,'ballot'])):
-    #         if profile.at[k,'ballot'][i] not in cand_List1:
-    #             cand_List1.append(profile.at[k,'ballot'][i])
-    # n = len(cand_List1)
+##### old downward monotonicity IRV code
+##### replaced by demikiller subset code
+
+# def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False): #streamlined version (really only works for IRV)
+#     """inputs: name of election, dataframe of election, voting method
+#     runs election to find winners/hopefuls/losers, then identifies and makes vote swaps to find
+#     downward monotonicity anomalies connected to change in dropout order.  
+#     Returns if an anomaly exists, and how anomaly happens"""
+#     # cand_List1=[] #make list of all candidates, only candidates listed in top 4 ranks
+#     # for k in range(len(profile)):
+#     #     for i in range(len(profile.at[k,'ballot'])):
+#     #         if profile.at[k,'ballot'][i] not in cand_List1:
+#     #             cand_List1.append(profile.at[k,'ballot'][i])
+#     # n = len(cand_List1)
+
+#     cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+#                   'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
+#                   'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
+#                   'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+#     cands = cand_names[:num_cands]
+
+#     quota=math.floor(sum(profile['Count'])/(2))+1 #calculate quota  
+   
+#     winners, losers, elimFrames=IRV(profile, cands) #note that losers is list in order of dropout
+#     if diagnostic:
+#         print(winners)
+#         print(losers)
+       
+#     if len(winners)>1:
+#         print('##### Multiple winners #####')
+#         return []
+       
+#     for i in range(len(losers)):
+#         #function removes i losers from original data frame,
+#         # then searches for all possible anomalies at a given level<=n, right before each "loser" is
+#         # eliminated.  outputs if anomaly occurs, and if so, how...could also output other information
+#         #print("")
+#         #print("Results at the " +str(n-i)+"-candidate level for Elimination Order anomaly:")
+       
+#         #now have temporary dataframe with i losers removed, check for anomaly at (n-i)-cand level
+#         tempFrame = elimFrames[i].copy(deep=True) #actual data before ith cand is removed
+#         loser = losers[i]
+#         removed_cands = losers[:i]
+       
+#         if diagnostic:
+#             print(loser)
+       
+#         # vote_counts={}
+#         vote_counts = {cand:0 for cand in cands}
+#         for k in range(len(tempFrame)):
+#             if tempFrame.at[k,'ballot']!='':
+#                 if tempFrame.at[k,'ballot'][0] in vote_counts.keys():
+#                     vote_counts[tempFrame.at[k,'ballot'][0]]+=tempFrame.iloc[k]['Count']
+#                 else:
+#                     vote_counts[tempFrame.at[k,'ballot'][0]]=tempFrame.iloc[k]['Count']
+#         vote_counts = remove_zero_values(vote_counts)
+#         if diagnostic:
+#             print(vote_counts)
+                   
+#         checkables = list(vote_counts.keys())
+#         checkables.remove(winners[0])
+#         checkables.remove(loser)
+       
+#         if diagnostic:
+#             print(checkables)
+       
+#         loser_gap = {}
+       
+#         for x in range(len(vote_counts)):
+#             loser_gap[list(vote_counts.keys())[x]]=vote_counts[list(vote_counts.keys())[x]]-vote_counts[loser]                                                                          
+#         second = get_secondLow(loser_gap) #lowest should be loser: 0
+       
+#         gap = vote_counts[second]-vote_counts[loser]
+#         #print("gap is " +str(gap))
+#         for k in range(len(checkables)):
+#             if diagnostic:
+#                 print(checkables[k])
+#             # search for C_j anomalies by modifying gap+1 C_j L or C_j votes to L C_j votes
+#             if (vote_counts[checkables[k]]-vote_counts[second]) <= (loser_gap[second]+1):
+#                 if diagnostic:
+#                     print("No anomaly for " + checkables[k] + ".  Will be eliminated if modify enough votes.")
+#                 #the above should eliminate loser and second from options
+#             else: #modify loser_gap+1 C_j L to L C_j votes
+#                 tempFrame1 = tempFrame.copy(deep=True)
+#                 modified_ballot_list = [removed_cands]
+#                 modifiableVotes1 = 0 #modifiableVotes= sum of all ballots that start with C_k L
+#                 for z in range(len(tempFrame1)):
+#                     currentBallot = tempFrame1.at[z,'ballot']
+#                     try:
+#                         currentBallot[1]
+#                     except:
+#                         continue
+#                     else:
+#                         if currentBallot[0]==checkables[k] and currentBallot[1]==loser:
+#                             modifiableVotes1 += int(tempFrame1.at[z,'Count']*vote_frac)
+#                 #print("Modifiable NOT bullet votes are " + str(modifiableVotes1) + " and gap is " + str(gap))
+#                 if modifiableVotes1 > gap:
+#                     check = copy.deepcopy(gap)
+#                     for z in range(len(tempFrame1)):
+#                         if check>=0:
+#                             currentBallot = tempFrame1.at[z,'ballot']
+#                             try:
+#                                 currentBallot[1]
+#                             except:
+#                                 continue
+#                             else:
+#                                 if currentBallot[0]==checkables[k] and currentBallot[1]==loser:
+#                                     if check - int(tempFrame1.at[z,'Count']*vote_frac)>=0: #modify all such ballots
+#                                         # print('does first part')
+#                                         newBallot = swapOneTwo(tempFrame1.at[z,'ballot'])
+#                                         count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                         modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
+#                                         # tempFrame1.at[z,'ballot'] = newBallot
+#                                         tempFrame1.at[z, 'Count'] -= count
+#                                         tempFrame1 = pd.concat([tempFrame1, pd.DataFrame({'ballot': [newBallot], 'Count': [count]})], ignore_index=True)
+#                                         check = check - count
+#                                     else: #modify only check+1 such ballots
+#                                         tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)
+#                                         #now add new line to frame with modified ballot
+#                                         newBallot = swapOneTwo(tempFrame1.at[z,'ballot'])
+#                                         modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
+#                                         tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
+#                                         check = -1
+#                                 else:
+#                                     pass
+#                     # Run STV election on modifed election.  Check to see if W_j is in new winners list
+#                     # if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate level.
+#                     # votes modified to 1 ranking"
+#                     win1, foo1, foo2 = IRV(tempFrame1, cands)#win1 = IRV_check(tempFrame1) #also try win1, thing1, thing2 = IRV(tempFrame1)
+#                     if len(win1)>1:
+#                         print('##### Multiple winners #####')
+#                         continue
+#                     #print("New winner is " + str(win1))
+#                     #print("Checkable is " + str(checkables[k]))
+#                     if checkables[k] in win1:
+#                         if diagnostic:
+#                             print("DOWNWARD MONOTONICITY ANOMALY for " + checkables[k]+". "  + "Change " + str(gap+1) +" "+ checkables[k]+loser +
+#                             "__ votes to " +loser + checkables[k]+ "__ and " + checkables[k] +
+#                               " becomes a winner." )
+#                             print("Original winner was " + str(winners))
+#                             print("New winner is " + str(win1))
+#                             print('Modified election is')
+#                             # display(tempFrame1)
+#                         return [winners[0], win1[0], modified_ballot_list]
+#                     else:
+#                         if diagnostic:
+#                             print("No anomaly for " + checkables[k]+" after modifying "+ str(gap +1) + " votes from "+
+#                                   checkables[k]+loser + "__ to " +loser + checkables[k]+"__. ")
+                       
+#                 else:
+#                         # modify all modifiableVotes C_k L votes in reduced_df to become L C_k
+#                     gap1 = copy.deepcopy(gap)
+#                     for z in range(len(tempFrame1)):
+#                         currentBallot = tempFrame1.at[z,'ballot']
+#                         try:
+#                             currentBallot[1]
+#                         except:
+#                             continue
+#                         else:
+#                             if currentBallot[0]==checkables[k] and currentBallot[1]==loser:
+#                                 newBallot = swapOneTwo(tempFrame1.at[z,'ballot'])
+#                                 count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                 modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
+#                                 # tempFrame1.at[z,'ballot'] = newBallot
+#                                 tempFrame1.at[z, 'Count'] -= count
+#                                 tempFrame1 = pd.concat([tempFrame1, pd.DataFrame({'ballot': [newBallot], 'Count': [count]})], ignore_index=True)
+#                                 gap1 = gap1 - count
+#                     #print("now checking bullet votes")
+#                     #print("gap is now " +str(gap1))
+                   
+# #                     vote_counts2 = {cand:0 for cand in cands}
+# #                     for m in range(len(tempFrame1)):
+# #                         if tempFrame1.at[m,'ballot']!='':
+# #                             if tempFrame1.at[m,'ballot'][0] in vote_counts2.keys():
+# #                                 vote_counts2[tempFrame1.at[m,'ballot'][0]]+=tempFrame1.iloc[m]['Count']
+# #                             else:
+# #                                 vote_counts2[tempFrame1.at[m,'ballot'][0]]=tempFrame1.iloc[m]['Count']
+# #                     #print('new vote count is ')
+# #                     if diagnostic:
+# #                         print(vote_counts2)
+                   
+#                     #CHECK THE BULLET VOTES
+#                     modifiableVotesBullet1 = 0 # = sum of all bullet votes w/ length 1
+#                     for z in range(len(tempFrame1)):
+#                         currentBallot = tempFrame1.at[z,'ballot']
+#                         if len(currentBallot) == 1:
+#                             if currentBallot[0]==checkables[k]:
+#                                 modifiableVotesBullet1 += int(tempFrame1.at[z,'Count']*vote_frac)  
+#                     #print("Modifiable bullet votes are " + str(modifiableVotesBullet1) + " and gap is " + str(gap))
+#                     if modifiableVotesBullet1 > gap1:
+#                         check = copy.deepcopy(gap1)
+#                         for z in range(len(tempFrame1)):
+#                             if check>=0:
+#                                 currentBallot = tempFrame1.at[z,'ballot']
+#                                 if len(currentBallot) == 1:
+#                                     if currentBallot[0]==checkables[k]:
+#                                         if check - int(tempFrame1.at[z,'Count']*vote_frac)>=0: #modify all such ballots
+#                                             newBallot = swapOneLoser(tempFrame1.at[z,'ballot'], loser)
+#                                             count = int(tempFrame1.at[z, 'Count']*vote_frac)
+#                                             modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
+#                                             # tempFrame1.at[z,'ballot'] = newBallot
+#                                             tempFrame1.at[z, 'Count'] -= count
+#                                             tempFrame1 = pd.concat([tempFrame1, pd.DataFrame({'ballot': [newBallot], 'Count': [count]})], ignore_index=True)
+#                                             check = check - count
+
+#                                         else: #modify only check+1 such ballots
+#                                             #take check+1 ballots from current ballot
+#                                             # print('does second part')
+#                                             tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
+#                                             #make new ballot with winner moved up, add line to election frame with check+1 as count
+#                                             newBallot = swapOneLoser(tempFrame1.at[z,'ballot'], loser)
+#                                             modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
+#                                             tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
+#                                             check = -1
+                                           
+#                                     else:
+#                                         pass
+# #                         vote_counts1 = {cand:0 for cand in cands}
+# #                         for n in range(len(tempFrame1)):
+# #                             if tempFrame1.at[n,'ballot']!='':
+# #                                 if tempFrame1.at[n,'ballot'][0] in vote_counts1.keys():
+# #                                     vote_counts1[tempFrame1.at[n,'ballot'][0]]+=tempFrame1.iloc[n]['Count']
+# #                                 else:
+# #                                     vote_counts1[tempFrame1.at[n,'ballot'][0]]=tempFrame1.iloc[n]['Count']
+# #                         print('new vote count is ')
+                       
+                       
+#                         # Run STV election on modifed election.  Check to see if C_k is in new winners list
+#                         # if yes, report anomaly "
+#                         win1, foo1, foo2  = IRV(tempFrame1, cands)#win1 = IRV_check(tempFrame1)
+#                         if len(win1)>1:
+#                             print('##### Multiple winners #####')
+#                             continue
+#                         if checkables[k] in win1:
+#                             if diagnostic:
+#                                 print("DOWNWARD MONOTONICITY ANOMALY for " + checkables[k]+". "  + "Change all "+ checkables[k]+loser +
+#                                 "__ and  "  + str(gap1+1) + " "+ checkables[k]+ " votes to " +loser + checkables[k]+ "__ and " + checkables[k] +
+#                                   " becomes a winner." )
+#                                 print("Original winner was " + str(winners))
+#                                 print("New winner is " + str(win1))
+#                                 print('Modified election is')
+#                                 # display(tempFrame1)
+#                             return [winners[0], win1[0], modified_ballot_list]
+#                         else:
+#                             if diagnostic:
+#                                 print("No anomaly for " + checkables[k] + " after modifying "+ str(gap+1) + " votes from "+
+#                                       checkables[k]+loser + "__ or " +checkables[k]+ " to " +loser + checkables[k]+"__. ")
+#                     else:
+#                         if diagnostic:
+#                             print("No anomaly for " + checkables[k] +". Not enough votes to change dropout order." )
+
+#     return []
+
+
+
+
+
+
+###############################################################################
+###############################################################################
+
+##### new downward monotonicity IRV code
+##### modifies killer subset idea into demikiller subsets
+
+def frac_downMonoIRV(profile, num_cands, vote_frac, diagnostic=False):
+# def killerSubsetSearchDownward_all(election, diagnostic = False):
+    # profile, cands = prefProfileInput1(election)
+    #maybe do a vote count here, and remove from profile anyone with 0 first-place votes? NEED for civs
 
     cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
                   'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
                   'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
                   'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
     cands = cand_names[:num_cands]
-
-    quota=math.floor(sum(profile['Count'])/(2))+1 #calculate quota  
-   
-    winners, losers, elimFrames=IRV(profile, cands) #note that losers is list in order of dropout
+    winners, foo1, foo2 = IRV(profile, cands)
+    W = winners[0][0]
+    
     if diagnostic:
-        print(winners)
-        print(losers)
-       
-    if len(winners)>1:
-        print('##### Multiple winners #####')
-        return []
-       
-    for i in range(len(losers)):
-        #function removes i losers from original data frame,
-        # then searches for all possible anomalies at a given level<=n, right before each "loser" is
-        # eliminated.  outputs if anomaly occurs, and if so, how...could also output other information
-        #print("")
-        #print("Results at the " +str(n-i)+"-candidate level for Elimination Order anomaly:")
-       
-        #now have temporary dataframe with i losers removed, check for anomaly at (n-i)-cand level
-        tempFrame = elimFrames[i].copy(deep=True) #actual data before ith cand is removed
-        loser = losers[i]
-        removed_cands = losers[:i]
-       
+        print("Winner is " + W)
+    demi_killer_subs = findDemiKillerSubsets(profile, num_cands, diagnostic=False) 
+    #this is a list of lists.  killer_subs[0][0]=first ks, [1][0]=2nd ks, etc
+    #print(demi_killer_subs)
+    if len(demi_killer_subs)!=0:
+        
+        for dks2 in demi_killer_subs:
+            dks = dks2[0]
+            #ks_dict = ks2[1]
+            #maxNSremovable = calcMaxRemove(ks_dict, W)
+#             print(" ")
+#             print(" ")
+#             print(dks)
+            if W not in dks:
+                print("Error: DemiKiller subset without winner, something is wrong.")
+            else:
+                dksnw = copy.deepcopy(dks)
+                dksnw.remove(W) #because W wins IRV, they will never be in last place
+#                 print("DKSNW is " + str(dksnw))
+                modifiedVotesList = []
+                modifiedVotesDict = {}
+                #Make new profile with only ks, run IRV to find winner
+                #ks_winners = findKSwinner(profile, cands, ks)
+                
+                for DK in dksnw:
+                    profile1 = profile.copy(deep=True)
+                    go = True
+                    while go == True:
+                        profile1, modifiedVotesList, modifiedVotesDict, go, anomFound = runAroundDown_all(profile1, dksnw, W, DK, modifiedVotesList, modifiedVotesDict, go)
+                        if anomFound:
+                            return [W, DK, modifiedVotesList]
+                        #print("1. Now go is " + str(go))
+                        
+    else:
         if diagnostic:
-            print(loser)
-       
-        # vote_counts={}
-        vote_counts = {cand:0 for cand in cands}
-        for k in range(len(tempFrame)):
-            if tempFrame.at[k,'ballot']!='':
-                if tempFrame.at[k,'ballot'][0] in vote_counts.keys():
-                    vote_counts[tempFrame.at[k,'ballot'][0]]+=tempFrame.iloc[k]['Count']
-                else:
-                    vote_counts[tempFrame.at[k,'ballot'][0]]=tempFrame.iloc[k]['Count']
-        vote_counts = remove_zero_values(vote_counts)
-        if diagnostic:
-            print(vote_counts)
-                   
-        checkables = list(vote_counts.keys())
-        checkables.remove(winners[0])
-        checkables.remove(loser)
-       
-        if diagnostic:
-            print(checkables)
-       
-        loser_gap = {}
-       
-        for x in range(len(vote_counts)):
-            loser_gap[list(vote_counts.keys())[x]]=vote_counts[list(vote_counts.keys())[x]]-vote_counts[loser]                                                                          
-        second = get_secondLow(loser_gap) #lowest should be loser: 0
-       
-        gap = vote_counts[second]-vote_counts[loser]
-        #print("gap is " +str(gap))
-        for k in range(len(checkables)):
-            if diagnostic:
-                print(checkables[k])
-            # search for C_j anomalies by modifying gap+1 C_j L or C_j votes to L C_j votes
-            if (vote_counts[checkables[k]]-vote_counts[second]) <= (loser_gap[second]+1):
-                if diagnostic:
-                    print("No anomaly for " + checkables[k] + ".  Will be eliminated if modify enough votes.")
-                #the above should eliminate loser and second from options
-            else: #modify loser_gap+1 C_j L to L C_j votes
-                tempFrame1 = tempFrame.copy(deep=True)
-                modified_ballot_list = [removed_cands]
-                modifiableVotes1 = 0 #modifiableVotes= sum of all ballots that start with C_k L
-                for z in range(len(tempFrame1)):
-                    currentBallot = tempFrame1.at[z,'ballot']
-                    try:
-                        currentBallot[1]
-                    except:
-                        continue
-                    else:
-                        if currentBallot[0]==checkables[k] and currentBallot[1]==loser:
-                            modifiableVotes1 += int(tempFrame1.at[z,'Count']*vote_frac)
-                #print("Modifiable NOT bullet votes are " + str(modifiableVotes1) + " and gap is " + str(gap))
-                if modifiableVotes1 > gap:
-                    check = copy.deepcopy(gap)
-                    for z in range(len(tempFrame1)):
-                        if check>=0:
-                            currentBallot = tempFrame1.at[z,'ballot']
-                            try:
-                                currentBallot[1]
-                            except:
-                                continue
-                            else:
-                                if currentBallot[0]==checkables[k] and currentBallot[1]==loser:
-                                    if check - int(tempFrame1.at[z,'Count']*vote_frac)>=0: #modify all such ballots
-                                        # print('does first part')
-                                        newBallot = swapOneTwo(tempFrame1.at[z,'ballot'])
-                                        count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                        modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                        # tempFrame1.at[z,'ballot'] = newBallot
-                                        tempFrame1.at[z, 'Count'] -= count
-                                        tempFrame1 = pd.concat([tempFrame1, pd.DataFrame({'ballot': [newBallot], 'Count': [count]})], ignore_index=True)
-                                        check = check - count
-                                    else: #modify only check+1 such ballots
-                                        tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)
-                                        #now add new line to frame with modified ballot
-                                        newBallot = swapOneTwo(tempFrame1.at[z,'ballot'])
-                                        modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
-                                        tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
-                                        check = -1
-                                else:
-                                    pass
-                    # Run STV election on modifed election.  Check to see if W_j is in new winners list
-                    # if yes, report "no anomaly for W_j with C_k under L at (n-i)-candidate level.
-                    # votes modified to 1 ranking"
-                    win1, foo1, foo2 = IRV(tempFrame1, cands)#win1 = IRV_check(tempFrame1) #also try win1, thing1, thing2 = IRV(tempFrame1)
-                    if len(win1)>1:
-                        print('##### Multiple winners #####')
-                        continue
-                    #print("New winner is " + str(win1))
-                    #print("Checkable is " + str(checkables[k]))
-                    if checkables[k] in win1:
-                        if diagnostic:
-                            print("DOWNWARD MONOTONICITY ANOMALY for " + checkables[k]+". "  + "Change " + str(gap+1) +" "+ checkables[k]+loser +
-                            "__ votes to " +loser + checkables[k]+ "__ and " + checkables[k] +
-                              " becomes a winner." )
-                            print("Original winner was " + str(winners))
-                            print("New winner is " + str(win1))
-                            print('Modified election is')
-                            # display(tempFrame1)
-                        return [winners[0], win1[0], modified_ballot_list]
-                    else:
-                        if diagnostic:
-                            print("No anomaly for " + checkables[k]+" after modifying "+ str(gap +1) + " votes from "+
-                                  checkables[k]+loser + "__ to " +loser + checkables[k]+"__. ")
-                       
-                else:
-                        # modify all modifiableVotes C_k L votes in reduced_df to become L C_k
-                    gap1 = copy.deepcopy(gap)
-                    for z in range(len(tempFrame1)):
-                        currentBallot = tempFrame1.at[z,'ballot']
-                        try:
-                            currentBallot[1]
-                        except:
-                            continue
-                        else:
-                            if currentBallot[0]==checkables[k] and currentBallot[1]==loser:
-                                newBallot = swapOneTwo(tempFrame1.at[z,'ballot'])
-                                count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                # tempFrame1.at[z,'ballot'] = newBallot
-                                tempFrame1.at[z, 'Count'] -= count
-                                tempFrame1 = pd.concat([tempFrame1, pd.DataFrame({'ballot': [newBallot], 'Count': [count]})], ignore_index=True)
-                                gap1 = gap1 - count
-                    #print("now checking bullet votes")
-                    #print("gap is now " +str(gap1))
-                   
-#                     vote_counts2 = {cand:0 for cand in cands}
-#                     for m in range(len(tempFrame1)):
-#                         if tempFrame1.at[m,'ballot']!='':
-#                             if tempFrame1.at[m,'ballot'][0] in vote_counts2.keys():
-#                                 vote_counts2[tempFrame1.at[m,'ballot'][0]]+=tempFrame1.iloc[m]['Count']
-#                             else:
-#                                 vote_counts2[tempFrame1.at[m,'ballot'][0]]=tempFrame1.iloc[m]['Count']
-#                     #print('new vote count is ')
-#                     if diagnostic:
-#                         print(vote_counts2)
-                   
-                    #CHECK THE BULLET VOTES
-                    modifiableVotesBullet1 = 0 # = sum of all bullet votes w/ length 1
-                    for z in range(len(tempFrame1)):
-                        currentBallot = tempFrame1.at[z,'ballot']
-                        if len(currentBallot) == 1:
-                            if currentBallot[0]==checkables[k]:
-                                modifiableVotesBullet1 += int(tempFrame1.at[z,'Count']*vote_frac)  
-                    #print("Modifiable bullet votes are " + str(modifiableVotesBullet1) + " and gap is " + str(gap))
-                    if modifiableVotesBullet1 > gap1:
-                        check = copy.deepcopy(gap1)
-                        for z in range(len(tempFrame1)):
-                            if check>=0:
-                                currentBallot = tempFrame1.at[z,'ballot']
-                                if len(currentBallot) == 1:
-                                    if currentBallot[0]==checkables[k]:
-                                        if check - int(tempFrame1.at[z,'Count']*vote_frac)>=0: #modify all such ballots
-                                            newBallot = swapOneLoser(tempFrame1.at[z,'ballot'], loser)
-                                            count = int(tempFrame1.at[z, 'Count']*vote_frac)
-                                            modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, count])
-                                            # tempFrame1.at[z,'ballot'] = newBallot
-                                            tempFrame1.at[z, 'Count'] -= count
-                                            tempFrame1 = pd.concat([tempFrame1, pd.DataFrame({'ballot': [newBallot], 'Count': [count]})], ignore_index=True)
-                                            check = check - count
-
-                                        else: #modify only check+1 such ballots
-                                            #take check+1 ballots from current ballot
-                                            # print('does second part')
-                                            tempFrame1.at[z,'Count'] = tempFrame1.at[z,'Count']-(check+1)  
-                                            #make new ballot with winner moved up, add line to election frame with check+1 as count
-                                            newBallot = swapOneLoser(tempFrame1.at[z,'ballot'], loser)
-                                            modified_ballot_list.append([tempFrame1.at[z,'ballot'], newBallot, check+1])
-                                            tempFrame1.loc[len(tempFrame1)] = [newBallot, check+1]
-                                            check = -1
-                                           
-                                    else:
-                                        pass
-#                         vote_counts1 = {cand:0 for cand in cands}
-#                         for n in range(len(tempFrame1)):
-#                             if tempFrame1.at[n,'ballot']!='':
-#                                 if tempFrame1.at[n,'ballot'][0] in vote_counts1.keys():
-#                                     vote_counts1[tempFrame1.at[n,'ballot'][0]]+=tempFrame1.iloc[n]['Count']
-#                                 else:
-#                                     vote_counts1[tempFrame1.at[n,'ballot'][0]]=tempFrame1.iloc[n]['Count']
-#                         print('new vote count is ')
-                       
-                       
-                        # Run STV election on modifed election.  Check to see if C_k is in new winners list
-                        # if yes, report anomaly "
-                        win1, foo1, foo2  = IRV(tempFrame1, cands)#win1 = IRV_check(tempFrame1)
-                        if len(win1)>1:
-                            print('##### Multiple winners #####')
-                            continue
-                        if checkables[k] in win1:
-                            if diagnostic:
-                                print("DOWNWARD MONOTONICITY ANOMALY for " + checkables[k]+". "  + "Change all "+ checkables[k]+loser +
-                                "__ and  "  + str(gap1+1) + " "+ checkables[k]+ " votes to " +loser + checkables[k]+ "__ and " + checkables[k] +
-                                  " becomes a winner." )
-                                print("Original winner was " + str(winners))
-                                print("New winner is " + str(win1))
-                                print('Modified election is')
-                                # display(tempFrame1)
-                            return [winners[0], win1[0], modified_ballot_list]
-                        else:
-                            if diagnostic:
-                                print("No anomaly for " + checkables[k] + " after modifying "+ str(gap+1) + " votes from "+
-                                      checkables[k]+loser + "__ or " +checkables[k]+ " to " +loser + checkables[k]+"__. ")
-                    else:
-                        if diagnostic:
-                            print("No anomaly for " + checkables[k] +". Not enough votes to change dropout order." )
+            print("No demikiller subsets in " + str(election))
 
     return []
+   
+    
+
+def runAroundDown_all(profile, dksnw, W, DK, modifiedVotesList, modifiedVotesDict, go, diagnostic=False):
+    """ takes in profile, list of killers without winner, winner, killer, and modified votes.
+    Runs a round of Killer Subset code, returns updated profile, mod votes, whether or not to go on"""
+    #vote_counts={cand:0 for cand in hopefuls}
+    if go == False:
+        return profile, modifiedVotesList, modifiedVotesDict, False, False
+    quota=math.floor(sum(profile['Count'])/(2))+1
+    vote_counts = {} #may need to fix for CIVS elections...input candidate list and do like above.
+    for j in range(len(profile)):
+        if profile.at[j,'ballot']!='':
+            if profile.at[j,'ballot'][0] in vote_counts.keys():
+                vote_counts[profile.at[j,'ballot'][0]]+=profile.iloc[j]['Count']
+            else:
+                vote_counts[profile.at[j,'ballot'][0]]=profile.iloc[j]['Count']
+    cands1 = vote_counts.keys()
+    cands1Set = set(cands1)
+    cands1SetNoW = cands1Set -{W}
+    
+    max_count=max(vote_counts.values())
+    min_count=min(vote_counts.values())
+    
+    if W in cands1: #this should always happen
+        if (vote_counts[W] == max_count) and (max_count > quota): #if W wins, no anomaly
+            #print("No anomaly because Winner has majority.")
+            return profile, modifiedVotesList, modifiedVotesDict, False, False #go on to next demikiller subset
+        if (vote_counts[W] == min_count): #W has lowest, run election to check for new winner
+            win1, foo1, foo2 = IRV(profile, cands1)
+            if win1[0]== W:
+                #print("No anomaly: This should be impossible.")
+                return profile, modifiedVotesList, modifiedVotesDict, False, False
+            elif win1[0]== DK:
+                # data1.write("\n")
+                # data1.write("\n")
+                # data1.write(str(filename) + "\n" + " : Downward anomaly!!! Modified votes are " +
+                #     str(modifiedVotesList)+ str(modifiedVotesDict) + " and now " + DK + " is the winner.")
+                if diagnostic:
+                    print("Downward anomaly!!! Modified votes are " + str(modifiedVotesList)+
+                          str(modifiedVotesDict) + " and now " + DK + " is the winner.")
+                return profile, modifiedVotesList, modifiedVotesDict, False, True
+            else:
+                #print("No anomaly, but different winner: wanted " + DK + "to win but " + win1[0]+ " won.")
+                return profile, modifiedVotesList, modifiedVotesDict, False, False
+        else: #winner not in last place
+            for key, value in vote_counts.items(): #find last-place cand
+                if value == min_count:
+                    eliminated_cand = key
+            if eliminated_cand not in dksnw: #run round, return
+                frame2 = profile.copy(deep = True)
+                for k in range(len(frame2)):
+                    if eliminated_cand in frame2.iloc[k]['ballot']:
+                        frame2.at[k,'ballot']=frame2.at[k,'ballot'].replace(eliminated_cand,'')
+                for k in range(len(frame2)):
+                    if frame2.at[k,'ballot']=='':
+                        frame2.drop(k)
+                #print("Eliminated candidate " + eliminated_cand)
+                return frame2, modifiedVotesList, modifiedVotesDict, True, False
+            else: #modify ballots, return
+                frame2 = profile.copy(deep = True)
+                return downMods_all(frame2, DK, W, dksnw, modifiedVotesList, modifiedVotesDict, go)
+                 
+        
+    else:
+        if diagnostic:
+            print("Winner not in round. This should maybe not ever happen")
+        win1, foo1, foo2 = IRV(profile, cands1)
+        if win1[0]== W:
+            #print("No anomaly: This should be REALLY impossible.")
+            return profile, modifiedVotesList, modifiedVotesDict, False, False
+        elif win1[0]== DK:
+            # data1.write("\n")
+            # data1.write("\n")
+            # data1.write(str(filename) + "\n" + " : Downward anomaly!!! Modified votes are " +
+            #     str(modifiedVotesList)+ str(modifiedVotesDict) + " and now " + DK + " is the winner.")
+            if diagnostic:
+                print("Downward anomaly!!! Modified votes are " + str(modifiedVotesList)+
+                      str(modifiedVotesDict) + " and now " + DK + " is the winner.")
+            return profile, modifiedVotesList, modifiedVotesDict, False, True
+        else:
+            #print("No anomaly, but different winner: wanted " + DK + "to win but " + win1[0]+ " won.")
+            return profile, modifiedVotesList, modifiedVotesDict, False, False
+        
+    return profile, modifiedVotesList, modifiedVotesDict, False, False
+    
+
+def downMods_all(frame, DK, W, dksnw, modifiedVotesList, modifiedVotesDict, go): #don't need maxRemovable
+    """given profile, killer K, winner W, ksnw, and list, modifies just enough 
+    Kk2 or K ballots to make L drop out next, returns modified frame, removedVotesList, go"""
+    dks1 = copy.deepcopy(dksnw)
+    dks1.append(W)  #full killer subset, as a list
+    dksSet = set(dks1) #full killer subset, as a set
+    #print("Killer subset in Run modifications is " + str(ksSet))
+    vote_counts = {} #may need to fix for CIVS elections...input candidate list and do like above.
+    for j in range(len(frame)):
+        if frame.at[j,'ballot']!='':
+            if frame.at[j,'ballot'][0] in vote_counts.keys():
+                vote_counts[frame.at[j,'ballot'][0]]+=frame.iloc[j]['Count']
+            else:
+                vote_counts[frame.at[j,'ballot'][0]]=frame.iloc[j]['Count']
+    sorted_items = sorted(vote_counts.items(), key=lambda item: item[1]) #sorted lowest votes to highest
+    sorted_cands = [item[0] for item in sorted_items] #K should be first
+    nCands = len(vote_counts)
+    
+    DK2 = sorted_cands[0] #killer with lowest points, cannot be DK
+    L = sorted_cands[1] #L could be in the killer subset
+    
+    #######new code to add in
+    if (L in dksnw) and (DK2 in dksnw): #and (L != W)
+        print("Bottom two candidates are both non-winner demiKillers, don't do anomaly check")
+        return frame, modifiedVotesList, modifiedVotesDict, False, False
+    #######
+    
+    if L == DK2:
+        #print("No Downward anomaly, DemiKiller K is second-to-last place")
+        return frame, modifiedVotesList, modifiedVotesDict, False, False
+    if DK2 == DK:
+        #print("Something weird, DemiKiller K is in last place")
+        return frame, modifiedVotesList, modifiedVotesDict, False, False
+    tempframe = frame.copy(deep=True)
+    go = True
+    gap = vote_counts[L]-vote_counts[DK2]
+    downwardableVotes = 0
+    for k in range(len(tempframe)):
+        ballot = tempframe.at[k,'ballot']
+        if (tempframe.at[k,'Count'] != 0) and (len(ballot)!=0) and (ballot[0]==DK) and (len(ballot)==1 or ballot[1]==DK2):
+            downwardableVotes += tempframe.at[k,'Count']
+    if downwardableVotes <= gap:
+        #print("Not enough Downwardable votes to make the next dropout be " + L)
+        return tempframe, modifiedVotesList, modifiedVotesDict, False, False
+    else:
+        check = copy.deepcopy(gap) #change all DK L ballots to L DK
+        for z in range(len(tempframe)):
+            if check >= 0:
+                ballot = tempframe.at[z,'ballot']
+                if (tempframe.at[z,'Count'] != 0) and (len(ballot) > 1) and (ballot[0]==DK) and (ballot[1]==DK2):
+                    if check - tempframe.at[z,'Count']>=-1: #modify all such ballots
+                        modifiedVotesList.append(str(tempframe.at[z,'Count'])+ " " + ballot)
+                        if ballot in modifiedVotesDict.keys():
+                            modifiedVotesDict[ballot]+=tempframe.iloc[z]['Count']
+                        else:
+                            modifiedVotesDict[ballot]=tempframe.iloc[z]['Count']
+                        tempframe.at[z,'ballot'] = swapOneTwo(tempframe.at[z,'ballot'])
+                        check = check - tempframe.at[z,'Count']
+                    else: #modify only check+1 such ballots
+                        modifiedVotesList.append(str(check+1)+ " " + ballot)
+                        if ballot in modifiedVotesDict.keys():
+                            modifiedVotesDict[ballot]+=(check+1)
+                        else:
+                            modifiedVotesDict[ballot]=(check+1)
+                        tempframe.at[z,'Count'] = tempframe.at[z,'Count']-(check+1)
+                        #now add new line to frame with modified ballot
+                        tempframe.loc[len(tempframe)] = [swapOneTwo(tempframe.at[z,'ballot']), check+1]
+                        check = -1
+                        
+        if check >= 0: #if need to change bullet votes, do here
+            check2 = copy.deepcopy(check)
+            for z in range(len(tempframe)):
+                if check2 >= 0:
+                    ballot = tempframe.at[z,'ballot']
+                    if (tempframe.at[z,'Count'] != 0) and (len(ballot) == 1) and (ballot[0]==DK):
+                        if check2 - tempframe.at[z,'Count']>=-1: #modify all such ballots
+                            modifiedVotesList.append(str(tempframe.at[z,'Count'])+ " " + ballot)
+                            if ballot in modifiedVotesDict.keys():
+                                modifiedVotesDict[ballot]+=tempframe.iloc[z]['Count']
+                            else:
+                                modifiedVotesDict[ballot]=tempframe.iloc[z]['Count']
+                            tempframe.at[z,'ballot'] = swapOneLoser(tempframe.at[z,'ballot'], DK2)
+                            check2 = check2 - tempframe.at[z,'Count']
+                        else: #modify only check+1 such ballots
+                            modifiedVotesList.append(str(check2+1)+ " " + ballot)
+                            if ballot in modifiedVotesDict.keys():
+                                modifiedVotesDict[ballot]+=(check2+1)
+                            else:
+                                modifiedVotesDict[ballot]=(check2+1)
+                            tempframe.at[z,'Count'] = tempframe.at[z,'Count']-(check2+1)
+                            #now add new line to frame with modified ballot
+                            tempframe.loc[len(tempframe)] = [swapOneLoser(tempframe.at[z,'ballot'], DK2), check2+1]
+                            check2 = -1
+
+        while go == True:
+            tempframe, modifiedVotesList, modifiedVotesDict, go, anomFound = runAroundDown_all(tempframe, dksnw, W, DK, modifiedVotesList, modifiedVotesDict, go)
+            if anomFound:
+                return tempframe, modifiedVotesList, modifiedVotesDict, go, True
+
+    return tempframe, modifiedVotesList, modifiedVotesDict, False, False
+
+
+
+
+
+def findDemiKillerSubsets(profile, num_cands, diagnostic=False): 
+    cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+                  'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
+                  'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
+                  'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+    cands = cand_names[:num_cands]
+    
+    demi_killer_subsets = []
+    winners, foo1, foo2 =IRV(profile, cands) #get election data from IRV
+    if len(winners)>1:
+        print('##### Multiple initial winners #####')
+        return []
+    winner = winners[0]
+    if diagnostic:
+        print(winners)
+        
+    ##### search for killer subsets
+    losers = cands.copy()
+    losers.remove(winner)
+    
+    ## only eliminate in round of three or two
+    cand_subsets = list(combinations(losers, 2))
+    cand_subsets3 = list(combinations(losers, 3))
+    #for loser in losers:   #don't need these because they become two cand subset
+        #cand_subsets.append((loser))
+    for thing in cand_subsets3:
+        cand_subsets.append(thing)
+    if len(losers)>= 4:
+        cand_subsets4 = list(combinations(losers, 4))
+        for thing in cand_subsets4:
+            cand_subsets.append(thing)
+    if len(losers)>= 5:
+        cand_subsets5 = list(combinations(losers, 5))
+        for thing in cand_subsets5:
+            cand_subsets.append(thing)
+    
+    
+    ## test if each subset has winner in second to last place
+    for cand_tuple in cand_subsets:
+        subset = list(cand_tuple)
+        subset.append(winner)
+        
+        scores = {cand: 0 for cand in subset}
+        for k in range(len(profile)):
+            ballot = profile.at[k, 'ballot']
+            for c in ballot: 
+                if c in subset:
+                    scores[c]+=profile.at[k, 'Count']
+                    break
+        
+        S = get_secondLow(scores)
+        # if scores[winner] == min(scores.values()) and min(scores.values())!=max(scores.values()):
+        if S == winner:
+            # print(lxn + ' : ', winner, subset)
+            # print(subset)
+            # killer_subset_count += 1
+            # break
+            demi_killer_subsets.append([subset, scores])
+    return demi_killer_subsets
+
+
+
+
+
 
 ###############################################################################
 ###############################################################################
+
+##### new upward monotonicity IRV code
+##### uses killer subset idea
 
 def frac_upMonoIRV(profile, num_cands, vote_frac, diagnostic=False): 
     cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
@@ -1290,6 +1665,8 @@ def frac_upMonoIRV(profile, num_cands, vote_frac, diagnostic=False):
             ## its over, old winner is eliminated
             elif elim_cand == winner:
                 win_found = True
+                new_winners, foo1, foo2 = IRV(new_profile, cands)
+                new_win = new_winners[0]
                 return [winner, new_win, []]
                 # anomaly_list.append(lxn)
                 # print('Anomaly in ' + lxn)
@@ -1322,13 +1699,50 @@ def frac_upMonoIRV(profile, num_cands, vote_frac, diagnostic=False):
                     
                     if need_to_change > 0:
                         ## not enough ballots to change
-                        print('###########################################')
-                        print('There were not enough ballots to change')
-                        # print(lxn)
-                        win_found = True
-                        break
-                if diagnostic:  
-                    print('Lowered score for ' + need_lose)
+                        
+                        ###Adam changes start here
+                        if ((2*need_to_change) < win_gap): #modify enough NL...EC...W ballots
+                            for k in range(len(new_profile)):
+                                bal = new_profile.at[k, 'ballot']
+                                if (new_profile.at[k, 'ballot'][0] == need_lose) and (((winner in bal) and (elim_cand in bal) and (bal.index(winner)>bal.index(elim_cand))) or ((winner not in bal) and (elim_cand in bal))): #new_profile.at[k, 'ballot'] == (need_lose + elim_cand + winner): #
+                                    if new_profile.at[k, 'Count'] <= need_to_change:
+                                        new_profile.at[k, 'ballot'] = modifyUp(winner, new_profile.at[k, 'ballot'])
+                                        need_to_change -= new_profile.at[k, 'Count']
+                                        win_gap -= (2 * new_profile.at[k, 'Count'])
+                                        ### new change below
+                                        new_profile.at[k, 'Count'] = 0
+                                    else:
+                                        new_profile.at[k, 'Count'] -= need_to_change
+                                        new_profile = pd.concat([new_profile, pd.DataFrame({'ballot': [modifyUp(new_profile.at[k, 'ballot'], winner)], 'Count': [need_to_change]})], ignore_index=True)
+                                        win_gap -= (2 * need_to_change)
+                                        need_to_change = 0
+                            new_winners2, foo1, foo2 = IRV(new_profile, cands)
+                            if len(new_winners2)>1:
+                                print('##### Multiple new winners #####')
+                                # return []
+                            new_win2 = new_winners2[0]
+
+                            if new_win2 != winner:
+                                if new_win2 != elim_cand:
+                                    print("something weird happened")
+                                if diagnostic:
+                                    print("Upward Mono anomaly")
+                                win_found = True
+                                return [winner, new_win2, []]
+                                # anomaly_list.append(lxn)
+                                # print('Anomaly in ' + lxn)
+                                #break
+                        
+                        else:
+                            ###Adam changes end here
+
+                            print('###########################################')
+                            print('There were not enough ballots to change')
+                            # print(lxn)
+                            win_found = True
+                            break
+                    if diagnostic:  
+                        print('Lowered score for ' + need_lose)
                                 
             ##this should not happen
             else:
@@ -1348,6 +1762,9 @@ def frac_upMonoIRV(profile, num_cands, vote_frac, diagnostic=False):
 
 ###############################################################################
 ###############################################################################
+
+##### old upward monotonicity IRV code
+##### replaced by killer subset code
 
 # def frac_upMonoIRV(frame, num_cands, vote_frac, diagnostic=False): 
 #     """inputs: dataframe of election, n= number of candidates, S= number of seats
@@ -2103,6 +2520,9 @@ def frac_upMonoIRV(profile, num_cands, vote_frac, diagnostic=False):
 ###############################################################################
 ###############################################################################
 
+##### new no show IRV code that uses killer subset idea
+##### currently does not work on some CIVS elections!!
+
 def frac_noShowIRV(frame, num_cands, vote_frac, diagnostic=False): 
 # def killerSubsetSearchNoShow_all(election, diagnostic = False): #multiple elections version
 
@@ -2116,11 +2536,11 @@ def frac_noShowIRV(frame, num_cands, vote_frac, diagnostic=False):
 
     winners, foo1, foo2 = IRV(profile, cands)
     W = winners[0][0]
-    #print("Winner is "+ str(W))
+    # print("Winner is "+ str(W))
     numCands = len(cands)
     killer_subs = findKillerSubsets(profile, numCands, diagnostic=False) 
     #this is a list of lists.  killer_subs[0][0]=first ks, [1][0]=2nd ks, etc
-    #print(killer_subs)
+    # print(killer_subs)
     if len(killer_subs)!=0:
         for ks2 in killer_subs:
             ks = ks2[0]
@@ -2527,6 +2947,8 @@ def runNoShowModificationsOrderedEasy_all(frame, K, W, ksnw, modifiedVotesList, 
                                     check = -1
             # print(len(modifiedVotesList))
             # print(modifiedVotesList)
+            if len(modifiedVotesList)>sum(vote_counts.values()):
+                somethingIsWrong
             while go == True:
                 # print('running runAround inside NoShowMod')
                 tempframe, modifiedVotesList, modifiedVotesDict, go, anomFound = runAround_all(tempframe, ksnw, W, K, modifiedVotesList, modifiedVotesDict, maxNSremovable, go)
@@ -2608,6 +3030,9 @@ def runNoShowModificationsOrderedEasyFor_all(frame, K, W, ksnw, modifiedVotesLis
                                         modifiedVotesDict[ballot]=(check+1)
                                     tempframe.at[z,'Count'] = tempframe.at[z,'Count']-(check+1)
                                     check = -1
+                                    
+            if len(modifiedVotesList)>sum(vote_counts.values()):
+                somethingIsWrong
             while goFor == True:
                 tempframe, modifiedVotesList, modifiedVotesDict, goFor, anomFound = runAroundFor_all(tempframe, ksnw, W, K, modifiedVotesList, modifiedVotesDict, maxNSremovable, goFor)
                 if anomFound:
@@ -2617,6 +3042,10 @@ def runNoShowModificationsOrderedEasyFor_all(frame, K, W, ksnw, modifiedVotesLis
 
 ###############################################################################
 ###############################################################################
+
+##### old no show IRV code
+##### supposed to be replaced by new killer subset code
+##### but that doesn't work yet
 
 # def frac_noShowIRV(frame, num_cands, vote_frac, diagnostic=False): 
 #     """inputs: dataframe of election, n= number of candidates, S= number of seats

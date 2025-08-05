@@ -39,7 +39,7 @@ from ballot_modifications_class import *
 ###############################################################################
 ###############################################################################
 ##### parameters
-election_group = 'america'
+election_group = 'scotland'
 frac = 1
 mp_pool_size = 6
 ###############################################################################
@@ -170,9 +170,9 @@ def check_anomaly(params):
     lxn_method, ballot_mod, file_name, winner1, winner2, cands, modified_ballots = params
     
     ## use with github repo test
-    # file_path = file_name.replace('./data', '../../raw_data/preference_profiles')
+    file_path = file_name.replace('./data', '../../raw_data/preference_profiles')
     ## use with HPC
-    file_path = file_name
+    # file_path = file_name
     
     profile = get_profile(file_path)
     mod_profile = profile.copy(deep = True)

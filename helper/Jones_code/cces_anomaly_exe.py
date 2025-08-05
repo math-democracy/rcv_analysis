@@ -44,9 +44,9 @@ from anomaly_search_class import *
 ###############################################################################
 ##### parameters
 ## github repo version
-data_path = './CCES_data'
+# data_path = './CCES_data'
 ## HPC version
-# data_path = '/home/aschult2/Desktop/CCES_data'
+data_path = '/home/aschult2/Desktop/CCES_data'
 frac = 1
 mp_pool_size = 6
 ###############################################################################
@@ -83,8 +83,8 @@ def get_cces(path, model):
     # print(len(model_df))    
 
     lxn_list = []
-    for i in range(len(model_df)):
-    # for i in range(100):
+    # for i in range(len(model_df)):
+    for i in range(10000):
         lxn_df = model_df.at[i, 'profile']
         ballot_list = []
         count_list = []
@@ -168,6 +168,15 @@ def PR_upMonoSearch(params):
             return ['plurality_runoff', 'upMono', file_path, num_cands] + data
     
     return ['plurality_runoff', 'upMono', file_path, num_cands]
+
+def PR_downMonoSearch(params):
+    foo1, foo2, file_path, profile, num_cands = params
+    for vote_frac in vote_fracs:
+        data = frac_downMonoPR(profile, num_cands, vote_frac)
+        if data:
+            return ['plurality_runoff', 'downMono', file_path, num_cands] + data
+    
+    return ['plurality_runoff', 'downMono', file_path, num_cands]
     
 def PR_noShowSearch(params):
     foo1, foo2, file_path, profile, num_cands = params
@@ -224,6 +233,8 @@ def sort_search(params):
                 return IRV_noShowSearch(params)
             if params[0]=='plurality_runoff' and params[1]=='upMono':
                 return PR_upMonoSearch(params)
+            if params[0]=='plurality_runoff' and params[1]=='downMono':
+                return PR_downMonoSearch(params)
             if params[0]=='plurality_runoff' and params[1]=='noShow':
                 return PR_noShowSearch(params)
             if params[0]=='bucklin' and params[1]=='noShow':
@@ -299,8 +310,9 @@ if __name__=='__main__':
             ##### testing singlethreaded
             # for lxn in lxn_list:
             #     print(lxn[0])
-            #     data = frac_upMonoPR(lxn[1], 3, 1)
-    
+            #     data = frac_noShowPR(lxn[1], 3, 1)
+            #     if data:
+            #         print(data)
             
             ##### prepare to search for anomalies
             lxn_methods = [plurality, plurality_runoff, IRV, smith_irv, smith_plurality, 
@@ -321,11 +333,12 @@ if __name__=='__main__':
             search_combos['IRV_downMono'] = [[], [], [], [], []]
             search_combos['IRV_noShow'] = [[], [], [], [], []]
             search_combos['plurality_runoff_upMono'] = [[], [], [], [], []]
+            search_combos['plurality_runoff_downMono'] = [[], [], [], [], []]
             search_combos['plurality_runoff_noShow'] = [[], [], [], [], []]
             search_combos['bucklin_noShow'] = [[], [], [], [], []]
             search_combos['smith_plurality_noShow'] = [[], [], [], [], []]
             search_combos['smith_irv_noShow'] = [[], [], [], [], []]
-    
+
             gen_lxn_list = []
             for lxn in lxn_list:
                 for lxn_method in lxn_methods:
@@ -336,6 +349,7 @@ if __name__=='__main__':
                 gen_lxn_list.append(['IRV', 'downMono']+lxn)
                 gen_lxn_list.append(['IRV', 'noShow']+lxn)
                 gen_lxn_list.append(['plurality_runoff', 'upMono']+lxn)
+                gen_lxn_list.append(['plurality_runoff', 'downMono']+lxn)
                 gen_lxn_list.append(['plurality_runoff', 'noShow']+lxn)
                 gen_lxn_list.append(['bucklin', 'noShow']+lxn)
                 gen_lxn_list.append(['smith_plurality', 'noShow']+lxn)
@@ -357,6 +371,7 @@ if __name__=='__main__':
             summary_results['IRV']['downMono'] = 0
             summary_results['IRV']['noShow'] = 0
             summary_results['plurality_runoff']['upMono'] = 0
+            summary_results['plurality_runoff']['downMono'] = 0
             summary_results['plurality_runoff']['noShow'] = 0
             summary_results['bucklin']['noShow'] = 0
             summary_results['smith_plurality']['noShow'] = 0

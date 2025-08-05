@@ -445,26 +445,29 @@ def plurality_runoff(profile, cands, diagnostic=False):
     if len(cands)==1:
         return cands
     
-    ## Initialize scores for candidates to 0
-    r1scores = {cand: 0.0 for cand in cands}
-    
-    for k in range(len(profile)):
-        ballot = profile.at[k, 'ballot']
-        if ballot[0] in cands:
-            r1scores[ballot[0]] += profile.at[k, 'Count']
-    
-    ## keep two candidates with highest scores
-    cands.sort(key=lambda cand: r1scores[cand], reverse = True)
-    second_round_cands = cands[:2]
-    
-    if r1scores[cands[1]] == r1scores[cands[2]]:
-        print('##### Plurality runoff tie #####')
-        return [cands[:3]]
-    
-    if diagnostic:
-        print(r1scores)
-        print(second_round_cands)
-    
+    if len(cands)==2:
+        second_round_cands = cands
+    else:
+        ## Initialize scores for candidates to 0
+        r1scores = {cand: 0.0 for cand in cands}
+        
+        for k in range(len(profile)):
+            ballot = profile.at[k, 'ballot']
+            if ballot[0] in cands:
+                r1scores[ballot[0]] += profile.at[k, 'Count']
+        
+        ## keep two candidates with highest scores
+        cands.sort(key=lambda cand: r1scores[cand], reverse = True)
+        second_round_cands = cands[:2]
+        
+        if r1scores[cands[1]] == r1scores[cands[2]]:
+            print('##### Plurality runoff tie #####')
+            return [cands[:3]]
+        
+        if diagnostic:
+            print(r1scores)
+            print(second_round_cands)
+        
     ## run two candidate election
     c1, c2 = second_round_cands
     r2scores = {cand: 0.0 for cand in second_round_cands}

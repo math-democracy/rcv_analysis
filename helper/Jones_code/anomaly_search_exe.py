@@ -45,7 +45,7 @@ from anomaly_search_class import *
 ###############################################################################
 ###############################################################################
 ##### parameters
-election_group = 'civs'
+election_group = 'scotland'
 frac = 1
 mp_pool_size = 6
 ###############################################################################
@@ -148,10 +148,10 @@ def get_election_data(election_location, specific_lxn=-1, diagnostic=False):
             if file_name in american_ban_list:
                 continue
             
-            if file_name in civs_ban_list:
-                continue
+            # if file_name in civs_ban_list:
+            #     continue
             
-            # if '1a3300430' in file_path:
+            # if 'banchory' not in  file_path:
             #     continue
             
             # print(file_path)
@@ -342,8 +342,8 @@ def sort_search(params):
 #     os.makedirs(election_group+'_anomalies')
 
 # lxn_methods = [plurality, plurality_runoff, IRV, smith_irv, smith_plurality, 
-#                minimax, smith_minimax, ranked_pairs, 
-#                Borda_PM, Borda_OM, Borda_AVG, bucklin]
+#                 minimax, smith_minimax, ranked_pairs, 
+#                 Borda_PM, Borda_OM, Borda_AVG, bucklin]
 
 # ballot_mod_methods = [laterNoHarm, strat_compromise, strat_truncate_L, strat_truncate_W, strat_bury_shallow, strat_bury_deep]
 # full_anomaly_types = ['upMono', 'downMono', 'noShow'] + [ballot_mod.__name__ for ballot_mod in ballot_mod_methods]
@@ -458,6 +458,12 @@ def sort_search(params):
 ##### run searches, no multiprocessing
 ##############################################################
 
+
+cand_names = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+              'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
+              'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
+              'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+
 start_time = time.time()
 
 print('##### Collecting election data #####')
@@ -481,8 +487,8 @@ start_time = time.time()
 nums_times = []
 
 anomaly_data = []
-# for i in range(len(lxn_list)):
-for i in range(2190, len(lxn_list)):
+for i in range(len(lxn_list)):
+# for i in range(2190, len(lxn_list)):
     
     # start_time = time.time()
     sys.stdout.write('\r')
@@ -496,8 +502,10 @@ for i in range(2190, len(lxn_list)):
     
     # data = frac_general_search(profile, num_cands, plurality_runoff, strat_compromise, 1)
     # data = frac_noShowBucklin(profile, num_cands, 1)
-    data = frac_noShowIRV(profile, num_cands, 1)
+    # data = broken_frac_noShowIRV(profile, num_cands, 1)
+    # data = frac_downMonoIRV(profile, num_cands, 1)
     # data = find_killer_subsets(profile, num_cands)
+    data = frac_noShowPR(profile, num_cands, 1)
     
     nums_times.append([num_cands, time.time()-lxn_start])
 
@@ -505,6 +513,7 @@ for i in range(2190, len(lxn_list)):
         anomaly_data.append(data)
         
     # print(time.time()-start_time)
+
         
 print(time.time()-start_time)    
 print(len(anomaly_data))
