@@ -1,19 +1,19 @@
 import sys
-sys.path.append('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal')
+import os
+sys.path.append(os.getcwd())
 import main_methods as mm
 import votekit.elections as vk
 import pandas as pd
 import multiprocessing
 import csv
-import os
 
 num_cands_to_keep = 4
 
-data_file = f'/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/scotland_results_top{num_cands_to_keep}.csv'
-root_dir = '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data'
+data_file = f'analysis/stability/scotland_results_top{num_cands_to_keep}.csv'
+root_dir = 'raw_data/scotland/processed_data'
 
-error_file = '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/supporting_files/scotland_error.txt'
-processed_file = '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/supporting_files/scotland_processed.txt'
+error_file = 'analysis/stability/results/supporting_files/scotland_error.txt'
+processed_file = 'analysis/stability/results/supporting_files/scotland_processed.txt'
 all_data = []
 
 processed = []
@@ -57,7 +57,7 @@ def run_voting_methods(full_path):
     candidates = list(v.candidates)
     num_cands = len([x for x in candidates if x != 'skipped'])
 
-    data = {'file': full_path.replace('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/', '')}
+    data = {'file': full_path.replace('', '')}
     grouped_data = []
 
     data['numCands'] = num_cands

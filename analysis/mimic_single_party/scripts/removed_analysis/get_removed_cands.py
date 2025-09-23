@@ -1,5 +1,6 @@
 import sys
-sys.path.append('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal')
+import os
+sys.path.append(os.getcwd())
 import main_methods as mm
 import votekit.elections as vk
 import pandas as pd
@@ -8,9 +9,9 @@ import csv
 import os
 import json
 
-root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_first/processed_data'
+root_dir = 'analysis/mimic_single_party/methods/first_last_mentioned/keep_first/processed_data'
 
-with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/scotland_first_place_ranks.json') as file:
+with open('analysis/first_place_analysis/scotland_first_place_ranks.json') as file:
     first_place_ranks = json.load(file)
 
 def get_cands_to_keep(profile, num_cands, num_cands_to_keep):

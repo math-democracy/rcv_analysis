@@ -1,21 +1,23 @@
+"""This script generates metadata to compare unstable elections between different 
+    condensation methods"""
 import json
 import os
 
-with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/scotland_results_top4.json') as file:
+with open('analysis/stability/scotland_results_top4.json') as file:
     stability = json.load(file)
 
-with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/borda_score/scotland_results_top4.json') as file:
+with open('analysis/mimic_single_party/methods/borda_score/scotland_results_top4.json') as file:
     borda = json.load(file)
 
-with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_place_score/scotland_results_top4.json') as file:
+with open('analysis/mimic_single_party/methods/first_place_score/scotland_results_top4.json') as file:
     first_place = json.load(file)
 
-with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/mention_score/scotland_results_top4.json') as file:
+with open('analysis/mimic_single_party/methods/mention_score/scotland_results_top4.json') as file:
     mention = json.load(file)
 
 unstable_elections = stability['changes']
 
-root_dir = "/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data"
+root_dir = "raw_data/scotland/processed_data"
 methods = ['plurality','IRV','top-two','borda-pm','borda-om','borda-avg','top-3-truncation','condorcet','minimax','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','approval']
 
 files = {}
@@ -23,7 +25,7 @@ for dirpath, dirnames, filenames in os.walk(root_dir):
         for filename in filenames:
             if filename.endswith('.csv'):
                 full_path = os.path.join(dirpath, filename)
-                file_key = full_path.replace('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/','')
+                file_key = full_path.replace('','')
                 print(filename)
                 stable = {m: {} for m in methods}
                 for method in methods:
@@ -71,6 +73,7 @@ for dirpath, dirnames, filenames in os.walk(root_dir):
 
                 files[file_key] = stable
 
-output_file = f"/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/metadata/stable_elections.json"
+output_file = f"analysis/mimic_single_party/metadata/stable_elections.json"
+
 with open(output_file, "w") as f:
     json.dump(files, f, indent=4)

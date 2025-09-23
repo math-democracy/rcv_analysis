@@ -1,19 +1,20 @@
 import sys
-sys.path.append('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal')
+import os
+sys.path.append(os.getcwd())
 import main_methods as mm
 import votekit.elections as v
 import pandas as pd
 import multiprocessing
 import csv
-import os
+
 
 num_cands_to_keep = 4
 
-data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/civs_results_top{num_cands_to_keep}.csv'
-root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/civs/processed_data'
+data_file = f'analysis/stability/results/civs_results_top{num_cands_to_keep}.csv'
+root_dir = 'raw_data/civs/processed_data'
 
-error_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/supporting_files/civs_error.txt'
-processed_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/supporting_files/civs_processed.txt'
+error_file = 'analysis/stability/results/supporting_files/civs_error.txt'
+processed_file = 'analysis/stability/results/supporting_files/civs_processed.txt'
 all_data = []
 
 processed = []
@@ -53,7 +54,7 @@ def run_voting_methods(full_path):
     candidates = list(v.candidates)
     num_cands = len([x for x in candidates if x != 'skipped'])
 
-    data = {'file': full_path.replace('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/', '')}
+    data = {'file': full_path.replace('', '')}
     grouped_data = []
 
     data['numCands'] = num_cands
@@ -106,17 +107,6 @@ def run_voting_methods(full_path):
     data[f'top{num_cands_to_keep}_bucklin'] = list(mm.Bucklin(prof=v, cands_to_keep=cands_to_keep, tiebreak='random'))
     data[f'top{num_cands_to_keep}_approval'] = list(mm.Ranked_Pairs(prof=v, cands_to_keep=cands_to_keep, tiebreak='random'))
     
-    # column_order = ['file','plurality',
-    #                 f'top{num_cands_to_keep}_plurality','IRV',f'top{num_cands_to_keep}_IRV',
-    #                 'top-two',f'top{num_cands_to_keep}_top-two',
-    #                 'borda-pm',f'top{num_cands_to_keep}_borda-pm',
-    #                 'top-3-truncation',f'top{num_cands_to_keep}_top-3-truncation',
-    #                 'condorcet',f'top{num_cands_to_keep}_condorcet',
-    #                 'minimax',f'top{num_cands_to_keep}_minimax',
-    #                 'smith',f'top{num_cands_to_keep}_smith',
-    #                 'smith-minimax',f'top{num_cands_to_keep}_smith-minimax',
-    #                 'ranked-pairs',f'top{num_cands_to_keep}_ranked-pairs']
-    # grouped_data = {k:grouped_data[k] for k in column_order}
     grouped_data.append(data)
     
     return grouped_data

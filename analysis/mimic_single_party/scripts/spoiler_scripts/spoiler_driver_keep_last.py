@@ -1,5 +1,6 @@
 import sys
-sys.path.append('/Users/student/Desktop/MyPythonCode/rcv_proposal')
+import os
+sys.path.append(os.getcwd())
 import main_methods as mm
 import multiprocessing
 import csv
@@ -7,13 +8,11 @@ import os
 
 METHOD = 'keep_last'
 
-root = '/Users/student/Desktop/MyPythonCode/rcv_proposal'
+data_file = f'analysis/mimic_single_party/methods/first_last_mentioned/{METHOD}/spoiler/scotland_results.csv'
+root_dir = f'analysis/mimic_single_party/condensed_elections/{METHOD}_mentioned/processed_data'
 
-data_file = f'{root}/analysis/mimic_single_party/methods/first_last_mentioned/{METHOD}/spoiler/scotland_results.csv'
-root_dir = f'{root}/analysis/mimic_single_party/condensed_elections/{METHOD}_mentioned/processed_data'
-
-error_file = f'{root}/analysis/mimic_single_party/methods/first_last_mentioned/{METHOD}/supporting_files/spoiler_scotland_error.txt'
-processed_file = f'{root}/analysis/mimic_single_party/methods/first_last_mentioned/{METHOD}/supporting_files/spoiler_scotland_processed.txt'
+error_file = f'analysis/mimic_single_party/methods/first_last_mentioned/{METHOD}/supporting_files/spoiler_scotland_error.txt'
+processed_file = f'analysis/mimic_single_party/methods/first_last_mentioned/{METHOD}/supporting_files/spoiler_scotland_processed.txt'
 all_data = []
 
 def run_voting_methods(full_path):

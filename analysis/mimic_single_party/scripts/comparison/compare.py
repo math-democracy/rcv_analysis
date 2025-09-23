@@ -1,18 +1,16 @@
 import pandas as pd
 
 METHOD = 'borda_score'
-filepath = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/{METHOD}/stability/scotland_results_top4.csv'
+filepath = f'analysis/mimic_single_party/methods/{METHOD}/stability/scotland_results_top4.csv'
 
-filepath = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_last/scotland_results_top4.csv'
+filepath = 'analysis/mimic_single_party/methods/first_last_mentioned/keep_last/scotland_results_top4.csv'
 
 single_party = pd.read_csv(filepath)
 single_party['merge_key'] = single_party['file'].apply(lambda x: x.replace('analysis/mimic_single_party/methods/first_last_mentioned/keep_last','raw_data/scotland'))
 
-multi_party = pd.read_csv('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/results/current/scotland.csv')
+multi_party = pd.read_csv('results/current/scotland.csv')
 multi_party['merge_key'] = multi_party['file'].apply(lambda x: 'raw_data/scotland/processed_data/' + x)
 
-# print(multi_party['merge_key'].head())
-# print(single_party['merge_key'].head())
 merged = single_party.merge(multi_party, on='merge_key', suffixes=['_single','_multi'])
 
 columns = merged.columns
@@ -35,4 +33,3 @@ output_filepath = filepath[:-25] + 'single_v_multi_comparison.csv'
 if len(merged) == 0:
     print('EMPTY DATAFRAME')
 merged.to_csv(output_filepath, index=False)
-#print(merged.columns)

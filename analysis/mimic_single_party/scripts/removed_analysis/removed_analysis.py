@@ -85,7 +85,7 @@ def get_comparisons(filepath):
 
 def main():
     METHOD = 'first_place_score'
-    filepath = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/{METHOD}/stability/single_v_multi_comparison.json'
+    filepath = f'analysis/mimic_single_party/methods/{METHOD}/stability/single_v_multi_comparison.json'
     output_data = get_comparisons(filepath)
 
     # write to output file

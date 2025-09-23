@@ -1,9 +1,9 @@
 import pandas as pd
 
 METHOD = 'borda'
-filepath = f'/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/{METHOD}_score/stability/scotland_results_top4.csv'
-#filepath = '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_last/scotland_results_top4.csv'
-#filepath = f'/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/tiebreaker/{METHOD}/scotland_results_top4.csv'
+filepath = f'analysis/mimic_single_party/methods/{METHOD}_score/stability/scotland_results_top4.csv'
+#filepath = 'analysis/mimic_single_party/methods/first_last_mentioned/keep_last/scotland_results_top4.csv'
+#filepath = f'analysis/mimic_single_party/methods/tiebreaker/{METHOD}/scotland_results_top4.csv'
 
 df = pd.read_csv(filepath)
 

@@ -1,13 +1,14 @@
 import sys
-sys.path.append('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal')
+import os
+sys.path.append(os.getcwd())
 import main_methods as mm
 import json
 from itertools import groupby
 from typing import Optional
 
-borda_file = './analysis/fringe/borda_scores/scotland_borda_scores.json'
-mention_file =  './analysis/fringe/mention_scores/scotland_mention_scores.json'
-first_place_file = './analysis/first_place_analysis/scotland_first_place_ranks.json'
+borda_file = 'analysis/fringe/borda_scores/scotland_borda_scores.json'
+mention_file =  'analysis/fringe/mention_scores/scotland_mention_scores.json'
+first_place_file = 'analysis/first_place_analysis/scotland_first_place_ranks.json'
 
 def gen_party_dict(candidates):
     party_dict = {}

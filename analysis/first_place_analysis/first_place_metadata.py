@@ -6,7 +6,7 @@ import ast
 country = 'america'
 
 def gen_metadata_for_country(country):
-    file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/new/{country}.csv'  # Replace with file path
+    file_path = f'analysis/first_place_analysis/new/{country}.csv'  # Replace with file path
     df = pd.read_csv(file_path)
     print(df.columns)
 
@@ -30,7 +30,7 @@ def gen_metadata_for_country(country):
 
     places = set()
 
-    with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/first_place_ranks.json') as fp_file:
+    with open('analysis/first_place_analysis/first_place_ranks.json') as fp_file:
         first_place_ranks = json.load(fp_file)
 
     for _, row in df.iterrows():
@@ -101,7 +101,7 @@ def gen_metadata_for_country(country):
     }
 
     # write to output file
-    output_file = f"/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/new/{country}.json"
+    output_file = f"analysis/first_place_analysis/new/{country}.json"
     with open(output_file, "w") as f:
         json.dump(output_data, f, indent=4)
 

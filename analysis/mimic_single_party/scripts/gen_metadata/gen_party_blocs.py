@@ -1,8 +1,8 @@
 import sys
-sys.path.append('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal')
+import os
+sys.path.append(os.getcwd())
 import main_methods as mm
 import votekit.elections as v
-import os
 import pandas as pd
 import json
 from collections import Counter
@@ -11,9 +11,9 @@ from itertools import groupby
 with open('./rcv_proposal/analysis/mimic_single_party/metadata/party_breakdown.json') as file:
     party_breakdown = json.load(file)
 
-borda_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/fringe/borda_scores/scotland_borda_scores.json'
-mention_file =  '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/fringe/mention_scores/scotland_mention_scores.json'
-first_place_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/scotland_first_place_ranks.json'
+borda_file = 'analysis/fringe/borda_scores/scotland_borda_scores.json'
+mention_file =  'analysis/fringe/mention_scores/scotland_mention_scores.json'
+first_place_file = 'analysis/first_place_analysis/scotland_first_place_ranks.json'
 
 
 files = {}
@@ -47,9 +47,9 @@ def party_blocs(root_dir):
 
                     parties.append(party)
             
-                borda_cands = get_condensed_cands(full_path.replace('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/',''), filename, 'borda')
-                mention_cands = get_condensed_cands(full_path.replace('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/',''), filename, 'mention')
-                first_place_cands = get_condensed_cands(full_path.replace('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/',''), filename, 'first_place')
+                borda_cands = get_condensed_cands(full_path.replace('',''), filename, 'borda')
+                mention_cands = get_condensed_cands(full_path.replace('',''), filename, 'mention')
+                first_place_cands = get_condensed_cands(full_path.replace('',''), filename, 'first_place')
                 prof =  mm.v_profile(full_path)
                 plurality_cands = get_cands_to_keep(prof,len(prof.candidates),4)
 
@@ -63,7 +63,7 @@ def party_blocs(root_dir):
                         'first_place_cands': first_place_cands,
                         'plurality_cands': plurality_cands}
                 
-                files[full_path.replace('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/', '')] = info
+                files[full_path.replace('', '')] = info
 
     return files
 
@@ -91,7 +91,7 @@ def get_condensed_cands(filepath, filename, method):
     else:
         cands_to_keep = []
         if method == 'borda':
-            with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/metadata/no_borda_score.txt', "a") as no_borda:
+            with open('analysis/mimic_single_party/metadata/no_borda_score.txt', "a") as no_borda:
                 no_borda.write(f"'{filepath}',\n")
 
     return list(cands_to_keep)
@@ -107,14 +107,14 @@ def get_cands_to_keep(profile, num_cands, num_to_keep):
 
     return cands_to_keep
 
-root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data'
+root_dir = 'raw_data/scotland/processed_data'
 method = 'party_blocs'
 
 def main():
     if method == 'party_blocs':
         party_blocs(root_dir)
 
-    output_file = f"/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/metadata/{method}.json"
+    output_file = f"analysis/mimic_single_party/metadata/{method}.json"
     with open(output_file, "w") as f:
         json.dump(files, f, indent=4)
 

@@ -1,31 +1,31 @@
 import sys
-sys.path.append('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal')
+import os
+sys.path.append(os.getcwd())
 import main_methods as mm
 import votekit.elections as vk
 import pandas as pd
 import multiprocessing
 import csv
-import os
 import json
 from itertools import groupby
 
 num_cands_to_keep = 4
 METHOD = 'borda'
-data_file = f'/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/borda_score/stability/scotland_results_top{num_cands_to_keep}.csv'
-root_dir = '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data'
+data_file = f'analysis/mimic_single_party/methods/borda_score/stability/scotland_results_top{num_cands_to_keep}.csv'
+root_dir = 'raw_data/scotland/processed_data'
 
-error_file = '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/borda_score/supporting_files/scotland_error.txt'
-processed_file = '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/borda_score/supporting_files/scotland_processed.txt'
+error_file = 'analysis/mimic_single_party/methods/borda_score/supporting_files/scotland_error.txt'
+processed_file = 'analysis/mimic_single_party/methods/borda_score/supporting_files/scotland_processed.txt'
 all_data = []
 
 processed = []
 error_d = []
 
-borda_file = '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/fringe/borda_scores/scotland_borda_scores.json'
-mention_file =  '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/fringe/mention_scores/scotland_mention_scores.json'
-first_place_file = '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/scotland_first_place_ranks.json'
+borda_file = 'analysis/fringe/borda_scores/scotland_borda_scores.json'
+mention_file =  'analysis/fringe/mention_scores/scotland_mention_scores.json'
+first_place_file = 'analysis/first_place_analysis/scotland_first_place_ranks.json'
 
-with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/metadata/party_breakdown.json') as file:
+with open('analysis/mimic_single_party/metadata/party_breakdown.json') as file:
     party_breakdown = json.load(file)
 
 # method options: 'borda','mention','first_place' 
@@ -86,27 +86,17 @@ def get_cands_to_keep(profile, condensed_cands, num_cands, num_cands_to_keep):
     return cands_to_keep
     
 def run_voting_methods(full_path, filename):
-    condensed_cands = get_condensed_cands(full_path.replace('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/',''), filename, METHOD)
+    condensed_cands = get_condensed_cands(full_path.replace('',''), filename, METHOD)
     print(condensed_cands)
     if condensed_cands:
         num_cands = len([x for x in condensed_cands if x != 'skipped'])
-        
-        # # create david-readable profile
-        # columns = [c for c in df.columns if 'rank' in c]
-        # d_profile = df[columns]
-        # d_profile = d_profile.value_counts().reset_index(name='Count')
         
         # create votekit profile
         v =  mm.v_profile(full_path)
         print('num cands ', str(len(v.candidates)), str(num_cands))
         print('condensed_cands', condensed_cands)
         
-
-        # get total candidate information
-        # candidates = list(v.candidates)
-        
-
-        data = {'file': full_path.replace('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/', '')}
+        data = {'file': full_path.replace('', '')}
         grouped_data = []
 
         data['numCands'] = num_cands
@@ -221,15 +211,4 @@ def main():
                         print("\n")
 
 if __name__ == '__main__':
-    #process_file('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data/midlothian22/dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv','Ward6-MidlothianSouth_ward_6_midlothian_south_dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv')
     main()
-#     files = ["/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data/midlothian22/dalkeith_preference_profile_open_from_within_ms_word_or_similar.csv",
-# "/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data/n-lanarks12-ballots/Ward2CumbernauldNorth_n-lanarks12-02.csv",
-# "/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data/eilean-siar12-ballots/SgireAnRubha_eilean-siar12-05.csv",
-# "/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data/glasgow17-ballots/Ward21NorthEast_glasgow17-021.csv",
-# "/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/scotland/processed_data/n-ayrshire12-ballots/Ward03-Kilwinning_n-ayrshire12-03.csv"]
-    
-#     for file in files:
-#         filename = file.split('/')[-1]
-#         print(filename)
-#         process_file(file, filename)

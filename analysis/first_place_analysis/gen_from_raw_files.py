@@ -1,19 +1,19 @@
 import sys
-sys.path.append('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal')
+import os
+sys.path.append(os.getcwd())
 import main_methods as mm
 import david_methods as dm
 import multiprocessing
 import csv
-import os
 import pandas as pd
 
 num_cands_to_keep = 4
 
-data_file = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/results/american.csv' # output file
-root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/american/processed_data' # data (ex: /Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/australia/processed_data)
+data_file = f'analysis/first_place_analysis/results/american.csv' # output file
+root_dir = 'raw_data/american/processed_data' # data (ex: australia/processed_data)
 
-error_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/results/supporting_files/american_error.txt'
-processed_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/results/supporting_files/american_processed.txt'
+error_file = 'analysis/first_place_analysis/results/supporting_files/american_error.txt'
+processed_file = 'analysis/first_place_analysis/results/supporting_files/american_processed.txt'
 all_data = []
 processed = []
 error_d = []
@@ -47,7 +47,7 @@ def run_voting_methods(full_path):
 
     num_cands = len(candidates)
 
-    data = {'file': full_path.replace('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/', '')}
+    data = {'file': full_path.replace('', '')}
 
     value_counts = get_top3(df)
     

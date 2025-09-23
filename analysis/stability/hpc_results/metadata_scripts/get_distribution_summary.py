@@ -22,7 +22,7 @@ def get_metadata(file, distribution, model):
 
 
 def main():
-    full_path = '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/hpc_results/metadata_scripts/result_summary.json'
+    full_path = 'analysis/stability/hpc_results/metadata_scripts/result_summary.json'
     with open(full_path) as file:
         data = json.load(file)
     metadata = {}
@@ -38,7 +38,7 @@ def main():
 
             metadata[d][m] = stable_methods
 
-    with open("/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/hpc_results/metadata_scripts/distribution_summary.json", "w") as f:
+    with open("analysis/stability/hpc_results/metadata_scripts/distribution_summary.json", "w") as f:
        json.dump(metadata, f, indent=4)
 
 if __name__ == '__main__':

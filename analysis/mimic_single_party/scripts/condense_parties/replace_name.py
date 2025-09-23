@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/condensed_elections/keep_last_mentioned/raw_processed_data'
+root_dir = 'analysis/mimic_single_party/condensed_elections/keep_last_mentioned/raw_processed_data'
 
 def get_party(candidate):
     if candidate == '[]':

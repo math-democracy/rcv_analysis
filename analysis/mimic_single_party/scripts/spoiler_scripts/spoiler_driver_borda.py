@@ -1,5 +1,6 @@
 import sys
-sys.path.append('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal')
+import os
+sys.path.append(os.getcwd())
 import main_methods as mm
 import multiprocessing
 import csv
@@ -9,13 +10,12 @@ from itertools import groupby
 
 METHOD = 'borda'
 
-root = '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal'
 
-data_file = f'{root}/analysis/mimic_single_party/methods/{METHOD}_score/spoiler/scotland_results.csv'
+data_file = f'analysis/mimic_single_party/methods/{METHOD}_score/spoiler/scotland_results.csv'
 root_dir = './raw_data/scotland/processed_data'
 
-error_file = f'{root}/analysis/mimic_single_party/methods/{METHOD}_score/supporting_files/spoiler_scotland_error.txt'
-processed_file = f'{root}/analysis/mimic_single_party/methods/{METHOD}_score/supporting_files/spoiler_scotland_processed.txt'
+error_file = f'analysis/mimic_single_party/methods/{METHOD}_score/supporting_files/spoiler_scotland_error.txt'
+processed_file = f'analysis/mimic_single_party/methods/{METHOD}_score/supporting_files/spoiler_scotland_processed.txt'
 all_data = []
 
 borda_file = './analysis/fringe/borda_scores/scotland_borda_scores.json'
@@ -64,7 +64,7 @@ def get_condensed_cands(filepath, method):
     return list(cands_to_keep)
 
 def run_voting_methods(full_path):
-    condensed_cands = get_condensed_cands(full_path.replace(f'{root}/',''), METHOD)
+    condensed_cands = get_condensed_cands(full_path, METHOD)
     
     if condensed_cands:
         # create profile + candidate list

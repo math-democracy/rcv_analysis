@@ -4,31 +4,31 @@ import matplotlib.cm as cm
 import numpy as np
 
 def run(country):
-    with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/tiebreaker/borda/spoiler/winners_with_metadata.json') as file:
+    with open('analysis/mimic_single_party/methods/tiebreaker/borda/spoiler/winners_with_metadata.json') as file:
         new_borda_data = json.load(file)
 
-    with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/tiebreaker/first_place/spoiler/winners_with_metadata.json') as file:
+    with open('analysis/mimic_single_party/methods/tiebreaker/first_place/spoiler/winners_with_metadata.json') as file:
         new_first_place_data = json.load(file)
 
-    with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/tiebreaker/mention/spoiler/winners_with_metadata.json') as file:
+    with open('analysis/mimic_single_party/methods/tiebreaker/mention/spoiler/winners_with_metadata.json') as file:
         new_mention_data = json.load(file)
 
-    with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/borda_score/spoiler/winners_with_metadata.json') as file:
+    with open('analysis/mimic_single_party/methods/borda_score/spoiler/winners_with_metadata.json') as file:
         borda_data = json.load(file)
 
-    with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_place_score/spoiler/winners_with_metadata.json') as file:
+    with open('analysis/mimic_single_party/methods/first_place_score/spoiler/winners_with_metadata.json') as file:
         first_place_data = json.load(file)
 
-    with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/mention_score/spoiler/winners_with_metadata.json') as file:
+    with open('analysis/mimic_single_party/methods/mention_score/spoiler/winners_with_metadata.json') as file:
         mention_data = json.load(file)
 
-    with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/spoiler/scotland.json') as file:
+    with open('analysis/spoiler/scotland.json') as file:
         original_data = json.load(file)
 
-    with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_first/spoiler/winners_with_metadata.json') as file:
+    with open('analysis/mimic_single_party/methods/first_last_mentioned/keep_first/spoiler/winners_with_metadata.json') as file:
         keep_first = json.load(file)
 
-    with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_last/spoiler/winners_with_metadata.json') as file:
+    with open('analysis/mimic_single_party/methods/first_last_mentioned/keep_last/spoiler/winners_with_metadata.json') as file:
         keep_last = json.load(file)
 
     borda_data = borda_data["metadata"]["method_counts"]

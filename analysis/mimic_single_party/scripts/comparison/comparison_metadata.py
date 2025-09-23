@@ -2,7 +2,7 @@ import pandas as pd
 import json
 import ast
 
-with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/metadata/party_blocs.json', 'r') as file:
+with open('analysis/mimic_single_party/metadata/party_blocs.json', 'r') as file:
     party_info = json.load(file)
 
 def get_party(candidate):
@@ -26,7 +26,7 @@ def get_party(candidate):
         return candidate
 
 def gen_scoreless_metadata():
-    file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_last/single_v_multi_comparison.csv'  # Replace with file path
+    file_path = f'analysis/mimic_single_party/methods/first_last_mentioned/keep_last/single_v_multi_comparison.csv'  # Replace with file path
 
     score_info = None
 
@@ -143,18 +143,18 @@ def gen_scoreless_metadata():
     print(f"Grouped changes with metadata have been exported to {output_file}")
 
 def gen_metadata(METHOD):
-    file_path = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/{METHOD}/stability/single_v_multi_comparison.csv'  # Replace with file path
+    file_path = f'analysis/mimic_single_party/methods/{METHOD}/stability/single_v_multi_comparison.csv'  # Replace with file path
     if 'mention_score' in file_path:
         score = 'mention_cands'
-        with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/fringe/mention_scores/scotland_mention_scores.json', 'r') as file:
+        with open('analysis/fringe/mention_scores/scotland_mention_scores.json', 'r') as file:
             score_info = json.load(file)
     elif 'borda' in file_path:
         score = 'borda_cands'
-        with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/fringe/borda_scores/scotland_borda_scores.json', 'r') as file:
+        with open('analysis/fringe/borda_scores/scotland_borda_scores.json', 'r') as file:
             score_info = json.load(file)
     elif 'first_place' in file_path:
         score = 'first_place_cands'
-        with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/scotland_first_place_ranks.json', 'r') as file:
+        with open('analysis/first_place_analysis/scotland_first_place_ranks.json', 'r') as file:
             score_info = json.load(file)
     else:
         score_info = None
@@ -172,7 +172,7 @@ def gen_metadata(METHOD):
     elections_with_changes = 0
 
     # # Open and read the JSON file
-    # with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/first_place_analysis/first_place_ranks.json', 'r') as file:
+    # with open('analysis/first_place_analysis/first_place_ranks.json', 'r') as file:
     #     candidates = json.load(file)
 
     #print(candidates['scotland'])

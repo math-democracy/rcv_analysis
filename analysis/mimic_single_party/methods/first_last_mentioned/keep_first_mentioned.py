@@ -1,3 +1,5 @@
+"""This file generates condensed elections data for the following condensation methods:
+    keep_first_mentioned, keep_last_mentioned"""
 import pandas as pd
 import numpy as np
 import csv
@@ -51,8 +53,6 @@ def get_ballots_cands(filepath):
         party = get_party(lines[candidate_start_index + i])
         candidate_parties[i+1] = party
         candidates.append(lines[candidate_start_index + i])
-
-    #party_groups = {i: [j[0] for j in j] for i, j in groupby(sorted(candidates.items(), key = lambda x : x[1]), lambda x : x[1])}
 
     return ballots, candidates, candidate_parties
 
@@ -120,7 +120,6 @@ def keep_last(filepath, output):
 
 
 def parse_to_csv(data, outfilepath):
-    #candidates = [normalize_parties(c) for c in data['candidates']]
     candidates = data['candidates']
     ranks = ["rank" + str(i + 1) for i in range(len(candidates))]
     ballots = [b for b in data['ballots']]
@@ -149,9 +148,9 @@ def parse_to_csv(data, outfilepath):
             writer.writerow(row)
 
 def main():
-    root_dir = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/preference_profiles/scotland' # UPDATE TO WHERE BLT DATA IS STORED eg. /Users/belle/Downloads/Scotland data, LEAP parties
+    root_dir = 'raw_data/preference_profiles/scotland' # UPDATE TO WHERE BLT DATA IS STORED eg. /Users/belle/Downloads/Scotland data, LEAP parties
     method = 'last'
-    output_folder = f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_{method}/processed_data' # UPDATE TO WHERE CSV DATA SHOULD BE SAVED eg. /Users/belle/Desktop/build/rcv_proposal/data
+    output_folder = f'analysis/mimic_single_party/methods/first_last_mentioned/keep_{method}/processed_data' # UPDATE TO WHERE CSV DATA SHOULD BE SAVED eg. /Users/belle/Desktop/build/rcv_proposal/data
 
     for dirpath, dirnames, filenames in os.walk(root_dir):
         for filename in filenames:
@@ -171,13 +170,11 @@ def main():
                         print(f"RUNNING KEEP FIRST: {filename}")
                         keep_first(full_path, output)
 
-                    with open(f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_{method}/supporting_files/keep_{method}_PROCESSED.txt', mode='a') as processed_file:
+                    with open(f'analysis/mimic_single_party/methods/first_last_mentioned/keep_{method}/supporting_files/keep_{method}_PROCESSED.txt', mode='a') as processed_file:
                         processed_file.write(f'"{filename}",\n')
                 except Exception as e:
-                    with open(f'/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_{method}/supporting_files/keep_{method}_ERROR.txt', mode='a') as error_file:
+                    with open(f'analysis/mimic_single_party/methods/first_last_mentioned/keep_{method}/supporting_files/keep_{method}_ERROR.txt', mode='a') as error_file:
                         error_file.write(f'"{filename}",\n')
                 
 if __name__ == '__main__':
-    #filepath = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/raw_data/preference_profiles/scotland/aberdeen2012/Ward1-Dyce-Bucksburn-Danestone_aberdeen12-01.csv'
-    #keep_first(filepath, '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_first/processed_data/aberdeen2012')
     main()

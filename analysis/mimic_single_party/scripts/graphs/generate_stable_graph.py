@@ -4,31 +4,31 @@ import matplotlib.cm as cm
 import numpy as np
 
 def run(country):
-    with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/borda_score/stability/scotland_results_top4.json') as file:
+    with open('analysis/mimic_single_party/methods/borda_score/stability/scotland_results_top4.json') as file:
         borda_data = json.load(file)
 
-    with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_place_score/stability/scotland_results_top4.json') as file:
+    with open('analysis/mimic_single_party/methods/first_place_score/stability/scotland_results_top4.json') as file:
         first_place_data = json.load(file)
 
-    with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/mention_score/stability/scotland_results_top4.json') as file:
+    with open('analysis/mimic_single_party/methods/mention_score/stability/scotland_results_top4.json') as file:
         mention_data = json.load(file)
 
-    with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/tiebreaker/borda/scotland_results_top4.json') as file:
+    with open('analysis/mimic_single_party/methods/tiebreaker/borda/scotland_results_top4.json') as file:
         borda_tb_data = json.load(file)
 
-    with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/tiebreaker/first_place/scotland_results_top4.json') as file:
+    with open('analysis/mimic_single_party/methods/tiebreaker/first_place/scotland_results_top4.json') as file:
         first_place_tb_data = json.load(file)
 
-    with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/tiebreaker/mention/scotland_results_top4.json') as file:
+    with open('analysis/mimic_single_party/methods/tiebreaker/mention/scotland_results_top4.json') as file:
         mention_tb_data = json.load(file)
 
-    with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/results/scotland_results_top4.json') as file:
+    with open('analysis/stability/results/scotland_results_top4.json') as file:
         original_data = json.load(file)
 
-    with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_first/scotland_results_top4.json') as file:
+    with open('analysis/mimic_single_party/methods/first_last_mentioned/keep_first/scotland_results_top4.json') as file:
         keep_first = json.load(file)
 
-    with open('/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/methods/first_last_mentioned/keep_last/scotland_results_top4.json') as file:
+    with open('analysis/mimic_single_party/methods/first_last_mentioned/keep_last/scotland_results_top4.json') as file:
         keep_last = json.load(file)
 
     borda_data = borda_data["metadata"]["method_counts"]

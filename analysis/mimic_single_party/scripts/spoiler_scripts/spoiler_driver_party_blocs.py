@@ -1,19 +1,18 @@
 import sys
-sys.path.append('/Users/student/Desktop/MyPythonCode/rcv_proposal')
+import os
+sys.path.append(os.getcwd())
 import main_methods as mm
 import multiprocessing
 import csv
-import os
 
 METHOD = 'party_blocs'
 
-root = '/Users/student/Desktop/MyPythonCode/rcv_proposal'
 
-data_file = f'{root}/analysis/mimic_single_party/methods/party_blocs/results/spoiler/scotland_results.csv'
-root_dir = f'{root}/analysis/mimic_single_party/methods/party_blocs/processed_data'
+data_file = f'analysis/mimic_single_party/methods/party_blocs/results/spoiler/scotland_results.csv'
+root_dir = f'analysis/mimic_single_party/methods/party_blocs/processed_data'
 
-error_file = f'{root}/analysis/mimic_single_party/methods/party_blocs/supporting_files/spoiler_scotland_error.txt'
-processed_file = f'{root}/analysis/mimic_single_party/methods/party_blocs/supporting_files/spoiler_scotland_processed.txt'
+error_file = f'analysis/mimic_single_party/methods/party_blocs/supporting_files/spoiler_scotland_error.txt'
+processed_file = f'analysis/mimic_single_party/methods/party_blocs/supporting_files/spoiler_scotland_processed.txt'
 all_data = []
 
 def run_voting_methods(full_path):

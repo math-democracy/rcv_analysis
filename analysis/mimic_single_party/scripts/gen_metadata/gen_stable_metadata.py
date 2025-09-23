@@ -1,6 +1,6 @@
 import json
 
-with open('/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/metadata/stable_elections.json') as file:
+with open('analysis/mimic_single_party/metadata/stable_elections.json') as file:
     stable_metadata = json.load(file)
 
 methods = ['plurality','IRV','top-two','borda-pm','borda-om','borda-avg','top-3-truncation','condorcet','minimax','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','approval']
@@ -34,6 +34,6 @@ output_data = {'total_elections': len(stable_metadata.keys()),
                 'completely_stable_elections': completely_stable_elections,
                 'stable_metadata_KEY': {'bool,bool,bool,bool': 'top4plurality_isStable,borda_isStable,mention_isStable,first_place_isStable'},
                 'stable_metadata': method_counts}
-output_file = '/Users/xiaokaren/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/mimic_single_party/metadata/stable_elections_metadata.json'
+output_file = 'analysis/mimic_single_party/metadata/stable_elections_metadata.json'
 with open(output_file, "w") as f:
     json.dump(output_data, f, indent=4)

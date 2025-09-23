@@ -26,7 +26,7 @@ def main():
     metadata = {d: {m: {s: None for s in states} for m in models} for d in distributions}
 
     states = set()
-    root_dir = '/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/hpc_results/metadata'
+    root_dir = 'analysis/stability/hpc_results/metadata'
     for dirpath, dirnames, filenames in os.walk(root_dir):
         for filename in filenames:
             #print(filename)
@@ -40,7 +40,7 @@ def main():
 
                 metadata[distribution][model][state] = stable_methods
 
-    with open("/Users/karenxiao/MyPythonCode/ranked_choice_voting/rcv_proposal/analysis/stability/hpc_results/metadata_scripts/result_summary.json", "w") as f:
+    with open("analysis/stability/hpc_results/metadata_scripts/result_summary.json", "w") as f:
        json.dump(metadata, f, indent=4)
 
 if __name__ == '__main__':
