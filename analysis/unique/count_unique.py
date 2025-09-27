@@ -1,12 +1,8 @@
 import pandas as pd
 import json
 
-data_file = '/Users/belle/Desktop/build/rcv_proposal/results/current/australia.csv'
-results_file = './unique.json'
-
-
-# file,numCands,irv,plurality,plurality_runoff,borda_pm,borda_om_no_uwi,borda_avg_no_uwi,borda_trunc_points_scheme,condorcet,minimax,smith_set
-# file,plurality,plurality_with_runoff_put,instant_runoff_for_truncated_linear_orders,bottom_two_runoff_instant_runoff_put,instant_runoff_put,borda_for_profile_with_ties,condorcet,minimax,top_cycle
+data_file = '' #election results data file
+results_file = '' #output file
 
 def read_data(data_file):
     data = pd.read_csv(data_file, header=None)
@@ -17,10 +13,11 @@ def read_data(data_file):
     data = data[['file','plurality','IRV','top-two','borda-pm','borda-om','borda-avg','top-3-truncation','condorcet','minimax','smith_plurality','smith_irv','smith-minimax','ranked-pairs','bucklin','approval','smith']]
     return data
 
+# group the results so winners are the keys and methods that elected the winner are in an array as the value
 def find_not_unanimous_results(data):
     count = 0
     results = {}
-    for index, row in data.iterrows():
+    for _, row in data.iterrows():
         if 'Skipped' not in row.values and 'ERROR' not in row.values and 'NULL' not in row.values and 'Write-in' not in row.values:
             count += 1
             file_name = row[0]

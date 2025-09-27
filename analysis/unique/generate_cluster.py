@@ -10,6 +10,8 @@ from sklearn.cluster import SpectralClustering
 from sklearn.cluster import AffinityPropagation
 import networkx as nx
 
+num_of_samples = 2015 #2015 is the number of samples. change this is data is different. this helps create percentage values.
+
 with open('analysis.json', 'r') as f:
     data = json.load(f)
 
@@ -31,27 +33,15 @@ for entry in data:
             matrix[idx_j, idx_i] += elections  # Since it's symmetric
 
     for i in range(len(methods)):
-        matrix[method_to_idx[methods[i]], method_to_idx[methods[i]]] = 2015
+        matrix[method_to_idx[methods[i]], method_to_idx[methods[i]]] = num_of_samples
             
-matrix /= 2015
-# matrix = np.log1p(matrix)  
-# similarity_matrix = cosine_similarity(matrix.T)
-# plt.figure(figsize=(10, 8))
-# sns.heatmap(matrix, xticklabels=all_methods, yticklabels=all_methods, cmap='coolwarm', annot=True)
-# plt.title("Similarity Between Voting Methods")
-# plt.show()
-
-#### FOR GROUP COMPARISON
-# matrix = np.zeros((len(all_methods), len(all_methods)))
-# for entry in data:
-#     methods = entry["methods"]
-#     elections = entry["elections"]
-#     indices = [method_to_idx[m] for m in methods]
-#     for i in indices:
-#         for j in indices:
-#             matrix[i, j] += elections
-
-# print(matrix)
+matrix /= num_of_samples
+matrix = np.log1p(matrix)  
+similarity_matrix = cosine_similarity(matrix.T)
+plt.figure(figsize=(10, 8))
+sns.heatmap(matrix, xticklabels=all_methods, yticklabels=all_methods, cmap='coolwarm', annot=True)
+plt.title("Similarity Between Voting Methods")
+plt.show()
 
 #### For denodogram
 distance_matrix = 1 - (matrix / np.max(matrix))  
@@ -66,32 +56,4 @@ sch.dendrogram(linkage, labels=all_methods, leaf_rotation=90, leaf_font_size=10)
 plt.title("Hierarchical Clustering of Voting Methods")
 plt.xlabel("Voting Methods")
 plt.ylabel("Distance")
-plt.show()
-
-sc = SpectralClustering(n_clusters=2, affinity='precomputed')
-# labels = sc.fit_predict(matrix)
-ap = AffinityPropagation(affinity='precomputed')
-labels = ap.fit_predict(matrix)
-
-sorted_indices = np.argsort(labels)
-sorted_matrix = matrix[np.ix_(sorted_indices, sorted_indices)]
-
-sns.heatmap(sorted_matrix, cmap="coolwarm", xticklabels=sorted_indices, yticklabels=sorted_indices)
-plt.title("Clustered Similarity Matrix")
-plt.show()
-
-
-G = nx.Graph()
-
-for i in range(len(matrix)):
-    G.add_node(i, cluster=labels[i])
-
-for i in range(len(matrix)):
-    for j in range(i + 1, len(matrix)):
-        if matrix[i, j] > 0.3:  
-            G.add_edge(i, j, weight=matrix[i, j])
-
-pos = nx.spring_layout(G) 
-nx.draw(G, pos, with_labels=True, node_color=labels, cmap=plt.cm.Set1, node_size=500)
-plt.title("Spectral Clustering Graph")
 plt.show()
