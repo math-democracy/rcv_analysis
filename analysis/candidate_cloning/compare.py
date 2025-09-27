@@ -1,44 +1,22 @@
 import pandas as pd
 import json
-import re
 from collections import defaultdict
 import ast
-import math
-file_path = '/Users/belle/Desktop/build/rcv/analysis/candidate_cloning/updated_results.csv'  # Replace with your actual file path
 
-def extract_party(candidate_name):
-    party_regex = r"\((.*?)\)"
-    match = re.search(party_regex, candidate_name)
-    return match.group(1) if match else None
-
-def normalize(value):
-    try:
-        # Convert numeric strings to floats first
-        value = float(value)
-        # Convert to int if it has no decimal part
-        if value.is_integer():
-            return int(value)
-        return value
-    except ValueError:
-        # Handle non-numeric strings
-        return str(value)
+file_path = ''  # Filepath to the merged cloning results
 
 def main(country):
     # Get row where no candidates were removed
     df = pd.read_csv(file_path)
 
     df = df[df['country'] == country].iloc[:, 1:]
-    # df = df[df['file'] == "Eastpointe, MI/Eastpointe_11022021_CityCouncil"]
     original_row = df[df['percentage'] == 'ORIGINAL']
 
-    # print(original_row)
-    # Store original winners
     original_winners = {}
     for _, row in original_row.iterrows():
         file = row['file'].split('/')[-1]
         original_winners[file] = {col: row[col] for col in df.columns if col not in ['file', 'candidate_cloned', 'country', 'percentage', 'Unnamed: 0', 'numCands']}
 
-    # print(original_winners)
     winners = {}
     total_files = set()
 
@@ -61,21 +39,15 @@ def main(country):
                 for method in original_winners[file]:
 
                     if method == "approval" and (pd.notna(row[method]) and pd.notna(original_winners[file][method])):
-                        # baseline = re.sub(r"(?<=[a-zA-Z])'(?=[a-zA-Z])", "", original_winners[file][method])
-                        # new = re.sub(r"(?<=[a-zA-Z])'(?=[a-zA-Z])", "", row[method])
-                        # candidate_cloned = re.sub(r"(?<=[a-zA-Z])'(?=[a-zA-Z])", "", candidate_cloned)
-                        # print(original_winners[file][method])
-                        baseline_winner = original_winners[file][method].strip("{}").replace("' ", "").replace(" '", "'").replace("''", "").replace('""', '"').replace('/', "").replace(" (UNKNOWN)", "").replace('\"', '') #.replace("' ", "").replace(" '", "'")
-                            
-                        new_winner = row[method].strip("{}").replace(" (UNKNOWN)", "").replace("' ", "").replace(" '", "'").replace("''", "").replace('""', '"').replace('/', "").replace('\"', '')#.replace("' ", "").replace(" '", "'")
-                        # print(baseline_winner)
+                        baseline_winner = original_winners[file][method].strip("{}").replace("' ", "").replace(" '", "'").replace("''", "").replace('""', '"').replace('/', "").replace(" (UNKNOWN)", "").replace('\"', '')
+                        new_winner = row[method].strip("{}").replace(" (UNKNOWN)", "").replace("' ", "").replace(" '", "'").replace("''", "").replace('""', '"').replace('/', "").replace('\"', '')
                         baseline_arr = ast.literal_eval(baseline_winner)
-                        # print(new_winner)
-                        # print(row, new_winner)
                         new_arr = ast.literal_eval(new_winner)
-
-                        # candidate_cloned not in baseline_arr
-                        if baseline_winner != new_winner and baseline_winner != "['Sandy AITCHISON (Scottish Borders)']" and not (candidate_cloned in baseline_arr and 'Cloned_Candidate' in new_arr and str(percentage) == "0.5"):
+                        
+                        # winner changed AND
+                        # candidate_cloned not original winner AND
+                        # if 50 percent, and new winner is NOT the cloned candidate 
+                        if baseline_winner != new_winner and candidate_cloned not in baseline_arr and not ('Cloned_Candidate' in new_arr and str(percentage) == "0.5"):
                             
                             file_changes['changes'][method] = {
                                 'baseline_winner': baseline_winner,
@@ -95,6 +67,7 @@ def main(country):
                 del winners[file]
         
 
+    #calculate metadata
     election_with_changes = len(winners)
     method_counts = defaultdict(set)
     method_combinations = defaultdict(set)
@@ -116,7 +89,7 @@ def main(country):
                 percentage_per_method[m][perc].add(election)
 
 
-            all_methods.update(change['changes'].keys())  # Add all methods to a set for the election
+            all_methods.update(change['changes'].keys())
             for m in change['changes'].values():
                 if m['common_winner']:
                     num_common_winner.add(election)
@@ -152,8 +125,8 @@ def main(country):
         "cloned candidate is new winner": len(num_cloned_is_winner),
         "percentage_counts": dict(sorted(final_percentage_counts.items(), key=lambda x: x[1], reverse=True)),
         "method_counts": dict(sorted(final_method_counts.items(), key=lambda x: x[1], reverse=True)),
-        "method_counts_by_percentage": final_method_percentage_counts
-        # "method_combinations": dict(sorted(final_combination_counts.items(), key=lambda x: x[1], reverse=True))
+        "method_counts_by_percentage": final_method_percentage_counts,
+        "method_combinations": dict(sorted(final_combination_counts.items(), key=lambda x: x[1], reverse=True))
     }
 
     output_data = {
@@ -167,9 +140,6 @@ def main(country):
 
     print(f"Grouped changes with metadata have been exported to {output_file}")
 
-
-# countries = ['scotland', 'america', 'australia']
-# for country in countries:
-#     main(country)
-
-main('america')
+countries = ['scotland', 'america', 'australia']
+for country in countries:
+    main(country)

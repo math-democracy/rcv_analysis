@@ -10,9 +10,9 @@ from raw_data.scotland.scotland_parser import parse_file, parse_to_csv
 import os
 import re
 
-root_dir = '../../raw_data/preference_profiles/australia'
-output_folder = './files2'
-country = "australia"
+root_dir = '' #root directory with preference profiles
+output_folder = '' #location to write results to
+country = "" #country for file naming purposes
 
 def clean_path(path):
     return re.sub(r"/0\.[0-5]/", "/", path)  # Remove /0.x/ where x is 0-5
@@ -45,6 +45,7 @@ def run_voting_methods(full_path):
     data['bucklin'] = list(mm.Bucklin(prof=v_profile))
     data['approval'] = list(mm.Ranked_Pairs(prof=v_profile))
 
+    # add code below to delete the intermediate files 
     # if os.path.exists(full_path):
     #     os.remove(full_path)
     #     print("file deleted successfully")
@@ -53,6 +54,8 @@ def run_voting_methods(full_path):
      
     return data
 
+# logic for creating new ballot with x inserted after or below candidate n,
+# split percent of the times
 def insert_after_n(arr, n, x, percent):
     result = []
     
@@ -86,13 +89,14 @@ def insert_after_n(arr, n, x, percent):
 
 def process_data(file, filename, output_folder, results, percent):
     data = parse_file(file)
-    print(f'processing {file}')
     num_candidates = data['num_candidates'] + 1
     candidates = []
     for c in data['candidates']:
         candidates.append(c.replace('/', ''))
     candidates.append('Cloned_Candidate')
 
+    # for each candidate, manipulate ballot, create new election files, run the election
+    # and write winners to a shared file
     for index, c in enumerate(data['candidates']):
         ballots = insert_after_n(data['ballots'],  index + 1, num_candidates, percent)
 
@@ -108,20 +112,14 @@ def process_data(file, filename, output_folder, results, percent):
         if not os.path.exists(new_output_folder):
             os.mkdir(new_output_folder)
         outfilepath = f'{new_output_folder}/{filename}_{c}.csv'
-        print('start processing')
         parse_to_csv(new_election, outfilepath)
-        print('done parsing')
         d = run_voting_methods(outfilepath)
-        print('done running voting method')
 
         with open(results, mode='a', newline='') as file:
             writer = csv.writer(file)
-
-            # write header if the file is empty
             if os.stat(results).st_size == 0:
                 header = d.keys()
                 writer.writerow(header)
-            print(d)
             keys = d.keys()
             row = [d.get(key, '') for key in keys]
             writer.writerow(row)
@@ -138,7 +136,7 @@ def main(percent):
                 full_path = os.path.join(dirpath, filename)
                 lowest_folder = os.path.basename(os.path.dirname(full_path))
                 output = os.path.join(output_folder, lowest_folder)
-                results = f'./results3/{country}_{percent}.csv'
+                results = f'./results/{country}_{percent}.csv'
                 if not os.path.exists(output):
                     os.makedirs(output)
 
@@ -166,8 +164,3 @@ if __name__ == '__main__':
     else:
         print("Please add an argument for what percent of the cloned candidate should go above the candidate")
         sys.exit(1)
-
-# arr = [[1, 2, 3, 4, 5, 6, 7, 8], [1, 2, 4, 5, 6, 7, 8]]
-
-# for i in range(20):
-#     process_data('/Users/belle/Desktop/build/rcv_proposal/raw_data/preference_profiles/scotland/glasgow12/Ward7Langside_glasgow12-07-recalc.csv', 'Ward7Langside_glasgow12-07-recalc', './temp_files', 'results2.csv', 0.5)

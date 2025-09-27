@@ -27,8 +27,6 @@ def graph(country):
     plt.subplots_adjust(left=0.1, right=0.7, top=0.8, bottom=0.2) 
     plt.savefig(f'{country}.png')
     plt.close()
-    # plt.show()
 
-graph('america')
-# graph('australia')
-# graph('scotland')
+for country in ['scotland', 'america', 'australia']:
+    graph(country)

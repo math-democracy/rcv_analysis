@@ -1,6 +1,7 @@
 import pandas as pd
-import json
 import os
+
+# merge all the individual country/percentage cloned files into one big file to be processed
 
 def load_and_compare(folder_path):
     dataframes = []
