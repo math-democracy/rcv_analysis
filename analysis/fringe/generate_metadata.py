@@ -3,6 +3,12 @@ import os
 import json
 import csv 
 
+'''
+this combines all the interesting parts of each of the results to generate 1 metadata file
+'''
+
+folder_path = "" #folder with the individual results like australia_borda_scores_0.1.json
+
 def extract_method_counts(folder_path):
     result = {}
     
@@ -34,7 +40,6 @@ def extract_method_counts(folder_path):
             
     return result
 
-folder_path = "/Users/belle/Desktop/build/rcv_proposal/analysis/fringe/results"
 method_counts_list = extract_method_counts(folder_path)
 
 methods = set()
@@ -54,11 +59,3 @@ with open("sorted_by_country.csv", "w", newline="") as csvfile:
     for file, methods_dict in method_counts_list.items():
         row = [file] + [methods_dict.get(method, "") for method in columns]
         writer.writerow(row)
-
-
-df = pd.read_csv("sorted_by_country.csv")
-
-df = df.sort_values(by="elections_with_changes")
-
-df.to_csv("sorted_by_elections.csv")
-print("CSV file generated: output.csv")

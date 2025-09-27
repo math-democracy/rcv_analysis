@@ -18,7 +18,8 @@ def get_majority_favourite(country, filename):
             return None
     return None
 
-def check_borda_winner(country):
+# compare majority winner to the winner of different methods
+def check_winner(country):
     
     file = f"/Users/belle/Desktop/build/rcv/results/current/{country}.csv"
     df = pd.read_csv(file)
@@ -33,18 +34,10 @@ def check_borda_winner(country):
         winners = ""
         for m in methods:
             r = ast.literal_eval(row[m])
-        # borda_pm = ast.literal_eval(row['borda-pm'])
-        # borda_om = ast.literal_eval(row['borda-om'])
-        # borda_avg = ast.literal_eval(row['borda-avg'])
             res[m] = majority_fav in r
 
             if majority_fav not in r:
-                if m == "ranked-pairs" or m == "top-two":
-                    winners += f"{m}-{r[0]}"
-                
-        
-        
-            
+                winners += f"{m}-{r[0]}"
 
         if majority_fav == None:
             result[file] = None
@@ -57,7 +50,7 @@ def check_borda_winner(country):
 def run_all():
     all_result = {}
     for c in ['america', 'scotland', 'australia']:
-        res = check_borda_winner(c)
+        res = check_winner(c)
         all_result[c] = res
     
     with open("output.json", "w") as f:

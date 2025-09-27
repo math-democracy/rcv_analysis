@@ -1,15 +1,13 @@
-import sys
-sys.path.append('/Users/belle/Desktop/build/rcv_proposal')
 import main_methods as mm
 import multiprocessing
 import csv
 import os
 
-data_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/new_mexico_results.csv'
-root_dir = '/Users/belle/Desktop/build/rcv/raw_data/america/processed_data/New Mexico'
+data_file = '' #location to write to
+root_dir = '' #data folder with elections
 
-error_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/new_mexico_error.txt'
-processed_file = '/Users/belle/Desktop/build/rcv_proposal/analysis/spoiler/new_mexico_processed.txt'
+error_file = '' #txt file to write elections that failed to
+processed_file = '' #txt file to write processed elections to
 all_data = []
 
 def run_voting_methods(full_path):
@@ -114,5 +112,3 @@ def main():
             
 if __name__ == '__main__':
     main()
-            
-# process_file('/Users/belle/Desktop/build/rcv_proposal/test.csv', 'test.csv')

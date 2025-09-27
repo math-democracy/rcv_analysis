@@ -1,145 +1,392 @@
 {
     "metadata": {
-        "total_elections": 537,
-        "election_with_changes": 51,
+        "total_elections": 512,
+        "election_with_changes": 80,
         "spoiler_counts": {
-            "1": 25,
-            "4": 2,
-            "2": 11,
-            "5": 2,
-            "3": 9,
-            "14": 1,
-            "11": 1
+            "1": 32,
+            "2": 22,
+            "3": 10,
+            "4": 5,
+            "5": 5,
+            "6": 2,
+            "7": 2,
+            "9": 1,
+            "8": 1
         },
         "method_counts": {
-            "plurality": 51,
+            "approval": 38,
+            "borda-om": 34,
+            "plurality": 29,
+            "bucklin": 19,
+            "top-3-truncation": 11,
+            "borda-avg": 10,
+            "borda-pm": 9,
             "IRV": 5,
-            "top-two": 18,
-            "borda-pm": 30,
-            "top-3-truncation": 26,
-            "condorcet": 17,
-            "minimax": 6,
-            "smith-minimax": 6,
-            "ranked-pairs": 6,
-            "smith": 11
+            "top-two": 5,
+            "smith_plurality": 2,
+            "smith_irv": 2,
+            "minimax": 2,
+            "smith-minimax": 2,
+            "condorcet": 2,
+            "ranked-pairs": 2,
+            "smith": 2
         },
         "method_combinations": {
-            "IRV, plurality, top-two": 1,
-            "plurality": 39,
-            "borda-pm, top-3-truncation": 11,
-            "plurality, top-3-truncation": 2,
-            "top-3-truncation": 8,
-            "borda-pm, plurality, top-3-truncation": 3,
-            "condorcet": 5,
-            "IRV, top-two": 3,
-            "minimax, ranked-pairs, smith-minimax": 3,
-            "condorcet, smith": 8,
-            "borda-pm": 14,
-            "IRV, borda-pm, plurality, top-3-truncation, top-two": 1,
-            "top-3-truncation, top-two": 1,
-            "condorcet, plurality": 1,
-            "condorcet, minimax, ranked-pairs, smith, smith-minimax": 2,
-            "condorcet, minimax, ranked-pairs, smith-minimax": 1,
-            "smith": 1,
-            "top-two": 9,
-            "borda-pm, plurality": 1,
-            "plurality, top-two": 3
-        }
+            "approval": 15,
+            "borda-om": 13,
+            "plurality": 13,
+            "approval, bucklin": 3,
+            "borda-om, bucklin": 3,
+            "IRV, plurality, top-two": 2,
+            "borda-avg, borda-om, top-3-truncation": 2,
+            "approval, borda-om": 2,
+            "approval, borda-om, bucklin": 2,
+            "approval, borda-pm": 2,
+            "approval, borda-om, top-3-truncation": 2,
+            "approval, plurality": 2,
+            "approval, bucklin, plurality": 2,
+            "approval, borda-pm, plurality": 1,
+            "borda-pm": 1,
+            "approval, borda-avg, borda-om, plurality, top-3-truncation": 1,
+            "IRV, approval, borda-om, condorcet, minimax, plurality, ranked-pairs, smith, smith-minimax, smith_irv, smith_plurality, top-two": 1,
+            "approval, borda-avg, borda-om, borda-pm, bucklin": 1,
+            "borda-pm, bucklin, plurality": 1,
+            "bucklin": 1,
+            "IRV, approval, borda-avg, borda-om, bucklin, plurality, top-3-truncation, top-two": 1,
+            "approval, borda-avg, borda-pm, top-3-truncation": 1,
+            "borda-avg, borda-om, bucklin, plurality, top-3-truncation": 1,
+            "bucklin, plurality": 1,
+            "bucklin, top-3-truncation": 1,
+            "borda-om, bucklin, plurality": 1,
+            "IRV, approval, borda-avg, borda-om, borda-pm, condorcet, minimax, plurality, ranked-pairs, smith, smith-minimax, smith_irv, smith_plurality, top-3-truncation, top-two": 1,
+            "borda-om, plurality": 1,
+            "approval, borda-avg, borda-om": 1,
+            "borda-avg, borda-om, borda-pm, bucklin, top-3-truncation": 1
+        },
+        "baseline_winner_irv_count": 0,
+        "baseline_winner_irv_ranks": {},
+        "new_winner_irv_count": 0,
+        "new_winner_irv_ranks": {}
     },
     "winners": {
-        "american/Alaska/Alaska_08162022_HouseofRepresentativesSpecial.csv": [
+        "St Louis Park/StLouisPark_11022021_CityCouncilWard3.csv": [
+            {
+                "candidate_removed": "Saul Eugene",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Jim Leuthner']",
+                        "new_winner": "['Sue Budd']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "writein",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Jim Leuthner']",
+                        "new_winner": "['Sue Budd']"
+                    }
+                }
+            }
+        ],
+        "Alaska/Alaska_08162022_HouseofRepresentativesSpecial.csv": [
             {
                 "candidate_removed": "Palin, Sarah",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "Peltola, Mary S.",
-                        "new_winner": "Begich, Nick"
+                        "baseline_winner": "['Peltola, Mary S.']",
+                        "new_winner": "['Begich, Nick']"
                     },
                     "IRV": {
-                        "baseline_winner": "Peltola, Mary S.",
-                        "new_winner": "Begich, Nick"
+                        "baseline_winner": "['Peltola, Mary S.']",
+                        "new_winner": "['Begich, Nick']"
                     },
                     "top-two": {
-                        "baseline_winner": "Peltola, Mary S.",
-                        "new_winner": "Begich, Nick"
+                        "baseline_winner": "['Peltola, Mary S.']",
+                        "new_winner": "['Begich, Nick']"
                     }
                 }
             }
         ],
-        "american/Alaska/Alaska_11082022_HouseDistrict18.csv": [
+        "Alaska/Alaska_11082022_HouseDistrict21.csv": [
+            {
+                "candidate_removed": "Write-in",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Wolfe, Forrest M.']",
+                        "new_winner": "['Mears, Donna C.']"
+                    }
+                }
+            }
+        ],
+        "Alaska/Alaska_11082022_HouseDistrict35.csv": [
+            {
+                "candidate_removed": "Brown, Kieran C.",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['Carrick, Ashley E.']",
+                        "new_winner": "['McKinley, Kevin']"
+                    }
+                }
+            }
+        ],
+        "Alaska/Alaska_11082022_HouseDistrict31.csv": [
+            {
+                "candidate_removed": "Write-in",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['LeBon, Barton S.']",
+                        "new_winner": "['Dibert, Maxine L.']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Nash, Kelly",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['LeBon, Barton S.']",
+                        "new_winner": "['Dibert, Maxine L.']"
+                    }
+                }
+            }
+        ],
+        "Alaska/Alaska_11082022_HouseDistrict18.csv": [
+            {
+                "candidate_removed": "Write-in",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Nelson, David']",
+                        "new_winner": "['Groh, Cliff']"
+                    }
+                }
+            },
             {
                 "candidate_removed": "Franks, Lyn D.",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "Nelson, David",
-                        "new_winner": "Groh, Cliff"
+                        "baseline_winner": "['Nelson, David']",
+                        "new_winner": "['Groh, Cliff']"
+                    },
+                    "borda-pm": {
+                        "baseline_winner": "['Nelson, David']",
+                        "new_winner": "['Groh, Cliff']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['Nelson, David']",
+                        "new_winner": "['Groh, Cliff']"
                     }
                 }
             }
         ],
-        "american/Alaska/Alaska_11082022_HouseDistrict6.csv": [
+        "Alaska/Alaska_11052024_StateHouseD6.csv": [
+            {
+                "candidate_removed": "Slaughter, Dawson R.",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['Johnson, Brent']",
+                        "new_winner": "['Vance, Sarah L.']"
+                    }
+                }
+            }
+        ],
+        "Alaska/Alaska_11082022_HouseDistrict6.csv": [
+            {
+                "candidate_removed": "Write-in",
+                "changes": {
+                    "borda-avg": {
+                        "baseline_winner": "['Vance, Sarah L.']",
+                        "new_winner": "['Flora, Louis A. \"Louie\"']"
+                    },
+                    "top-3-truncation": {
+                        "baseline_winner": "['Vance, Sarah L.']",
+                        "new_winner": "['Flora, Louis A. \"Louie\"']"
+                    }
+                }
+            },
             {
                 "candidate_removed": "Bryant, Ginger",
                 "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "Flora, Louis A. \"Louie\"",
-                        "new_winner": "Vance, Sarah L."
-                    },
-                    "top-3-truncation": {
-                        "baseline_winner": "Flora, Louis A. \"Louie\"",
-                        "new_winner": "Vance, Sarah L."
+                    "borda-om": {
+                        "baseline_winner": "['Flora, Louis A. \"Louie\"']",
+                        "new_winner": "['Vance, Sarah L.']"
                     }
                 }
             }
         ],
-        "american/Alaska/Alaska_11082022_HouseDistrict15.csv": [
+        "Alaska/Alaska_11082022_SenateDistrictP.csv": [
+            {
+                "candidate_removed": "Write-in",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Matherly, Jim']",
+                        "new_winner": "['Kawasaki, Scott']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Jafre, Alex N.",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['Matherly, Jim']",
+                        "new_winner": "['Kawasaki, Scott']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['Matherly, Jim']",
+                        "new_winner": "['Kawasaki, Scott']"
+                    }
+                }
+            }
+        ],
+        "Alaska/Alaska_11082022_SenateDistrictH.csv": [
+            {
+                "candidate_removed": "Write-in",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Costello, Mia']",
+                        "new_winner": "['Claman, Matt']"
+                    }
+                }
+            }
+        ],
+        "Alaska/Alaska_11082022_USRepresentative.csv": [
+            {
+                "candidate_removed": "Bye, Chris",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['Peltola, Mary S.']",
+                        "new_winner": "['Begich, Nick']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['Begich, Nick']",
+                        "new_winner": "['Peltola, Mary S.']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Palin, Sarah",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "['Begich, Nick']",
+                        "new_winner": "['Peltola, Mary S.']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['Begich, Nick']",
+                        "new_winner": "['Peltola, Mary S.']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Write-in",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Begich, Nick']",
+                        "new_winner": "['Peltola, Mary S.']"
+                    }
+                }
+            }
+        ],
+        "Alaska/Alaska_11052024_StateHouseD15.csv": [
+            {
+                "candidate_removed": "Darden, Dustin T.",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['Wells, Denny']",
+                        "new_winner": "['Costello, Mia']"
+                    }
+                }
+            }
+        ],
+        "Alaska/Alaska_11052024_StateSenateP.csv": [
+            {
+                "candidate_removed": "Write-in",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Hajdukovich, Leslie W.']",
+                        "new_winner": "['Kawasaki, Scott']"
+                    }
+                }
+            }
+        ],
+        "Alaska/Alaska_11082022_HouseDistrict15.csv": [
             {
                 "candidate_removed": "Eibeck, David",
                 "changes": {
-                    "plurality": {
-                        "baseline_winner": "Wells, Denny",
-                        "new_winner": "McKay, Thomas W. \"Tom\""
+                    "borda-pm": {
+                        "baseline_winner": "['Wells, Denny']",
+                        "new_winner": "['McKay, Thomas W. \"Tom\"']"
                     }
                 }
             }
         ],
-        "american/Alaska/Alaska_11082022_HouseDistrict11.csv": [
+        "Alaska/Alaska_11082022_HouseDistrict11.csv": [
             {
                 "candidate_removed": "Bieling, Ross P.",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "Featherly, Walter T.",
-                        "new_winner": "Coulombe, Julie"
+                        "baseline_winner": "['Featherly, Walter T.']",
+                        "new_winner": "['Coulombe, Julie']"
                     }
                 }
             }
         ],
-        "american/Alaska/Alaska_11052024_US_House.csv": [
+        "Alaska/Alaska_11052024_US_House.csv": [
+            {
+                "candidate_removed": "Write-in",
+                "changes": {
+                    "borda-avg": {
+                        "baseline_winner": "['Begich, Nick']",
+                        "new_winner": "['Peltola, Mary S.']"
+                    },
+                    "top-3-truncation": {
+                        "baseline_winner": "['Begich, Nick']",
+                        "new_winner": "['Peltola, Mary S.']"
+                    }
+                }
+            },
             {
                 "candidate_removed": "Hafner, Eric",
                 "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "Peltola, Mary S.",
-                        "new_winner": "Begich, Nick"
-                    },
-                    "top-3-truncation": {
-                        "baseline_winner": "Peltola, Mary S.",
-                        "new_winner": "Begich, Nick"
+                    "borda-om": {
+                        "baseline_winner": "['Peltola, Mary S.']",
+                        "new_winner": "['Begich, Nick']"
                     }
                 }
             }
         ],
-        "american/Minneapolis/Minneapolis_11072017_ParkBoardAtLarge.csv": [
+        "Minneapolis/Minneapolis_11072017_ParkBoardAtLarge.csv": [
             {
-                "candidate_removed": "Russ Henry",
+                "candidate_removed": "Mike Derus",
                 "changes": {
-                    "plurality": {
-                        "baseline_winner": "Meg Forney",
-                        "new_winner": "Latrisha Vetaw"
-                    },
-                    "top-3-truncation": {
-                        "baseline_winner": "Meg Forney",
-                        "new_winner": "Latrisha Vetaw"
+                    "approval": {
+                        "baseline_winner": "['Meg Forney']",
+                        "new_winner": "['Latrisha Vetaw']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Scott Vreeland",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Meg Forney']",
+                        "new_winner": "['Latrisha Vetaw']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Bob Sullentrop",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Meg Forney']",
+                        "new_winner": "['Latrisha Vetaw']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "writein",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Meg Forney']",
+                        "new_winner": "['Latrisha Vetaw']"
                     }
                 }
             },
@@ -147,21 +394,51 @@
                 "candidate_removed": "Devin Hogan",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "Meg Forney",
-                        "new_winner": "Latrisha Vetaw"
+                        "baseline_winner": "['Meg Forney']",
+                        "new_winner": "['Latrisha Vetaw']"
                     },
                     "top-3-truncation": {
-                        "baseline_winner": "Meg Forney",
-                        "new_winner": "Latrisha Vetaw"
+                        "baseline_winner": "['Meg Forney']",
+                        "new_winner": "['Latrisha Vetaw']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['Meg Forney']",
+                        "new_winner": "['Latrisha Vetaw']"
                     }
                 }
             },
             {
-                "candidate_removed": "Scott Vreeland",
+                "candidate_removed": "Charlie Casserly",
                 "changes": {
+                    "approval": {
+                        "baseline_winner": "['Meg Forney']",
+                        "new_winner": "['Latrisha Vetaw']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Jonathan Honerbrink",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Meg Forney']",
+                        "new_winner": "['Latrisha Vetaw']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Russ Henry",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "['Meg Forney']",
+                        "new_winner": "['Latrisha Vetaw']"
+                    },
                     "top-3-truncation": {
-                        "baseline_winner": "Meg Forney",
-                        "new_winner": "Latrisha Vetaw"
+                        "baseline_winner": "['Meg Forney']",
+                        "new_winner": "['Latrisha Vetaw']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['Meg Forney']",
+                        "new_winner": "['Latrisha Vetaw']"
                     }
                 }
             },
@@ -169,71 +446,114 @@
                 "candidate_removed": "Londel French",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "Meg Forney",
-                        "new_winner": "Latrisha Vetaw"
+                        "baseline_winner": "['Meg Forney']",
+                        "new_winner": "['Latrisha Vetaw']"
                     },
-                    "borda-pm": {
-                        "baseline_winner": "Latrisha Vetaw",
-                        "new_winner": "Meg Forney"
+                    "borda-om": {
+                        "baseline_winner": "['Latrisha Vetaw']",
+                        "new_winner": "['Meg Forney']"
+                    },
+                    "borda-avg": {
+                        "baseline_winner": "['Latrisha Vetaw']",
+                        "new_winner": "['Meg Forney']"
                     },
                     "top-3-truncation": {
-                        "baseline_winner": "Meg Forney",
-                        "new_winner": "Latrisha Vetaw"
+                        "baseline_winner": "['Meg Forney']",
+                        "new_winner": "['Latrisha Vetaw']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['Meg Forney']",
+                        "new_winner": "['Latrisha Vetaw']"
                     }
                 }
             }
         ],
-        "american/Minneapolis/Minneapolis_11072017_Ward6CityCouncil.csv": [
-            {
-                "candidate_removed": "Mohamud Noor",
-                "changes": {
-                    "condorcet": {
-                        "baseline_winner": "Fadumo Yusuf",
-                        "new_winner": "Abdi Warsame"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "Tiffini Forslund",
-                "changes": {
-                    "condorcet": {
-                        "baseline_winner": "Fadumo Yusuf",
-                        "new_winner": "Mohamud Noor"
-                    }
-                }
-            }
-        ],
-        "american/Minneapolis/Minneapolis_11072017_Ward3CityCouncil.csv": [
-            {
-                "candidate_removed": "Steve Fletcher",
-                "changes": {
-                    "plurality": {
-                        "baseline_winner": "Ginger Jentzen",
-                        "new_winner": "Tim Bildsoe"
-                    }
-                }
-            },
+        "Minneapolis/Minneapolis_11072017_Ward3CityCouncil.csv": [
             {
                 "candidate_removed": "Tim Bildsoe",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "Ginger Jentzen",
-                        "new_winner": "Steve Fletcher"
+                        "baseline_winner": "['Ginger Jentzen']",
+                        "new_winner": "['Steve Fletcher']"
                     }
                 }
             }
         ],
-        "american/Minneapolis/Minneapolis_11022021_CityCouncilWard2.csv": [
+        "Minneapolis/Minneapolis_11022021_CityCouncilWard2.csv": [
+            {
+                "candidate_removed": "Guy T Gaskin",
+                "changes": {
+                    "smith": {
+                        "baseline_winner": "['Robin Wonsley Worlobah', 'Yusra Arab', 'Cam Gordon']",
+                        "new_winner": "['Robin Wonsley Worlobah', 'Cam Gordon', 'Yusra Arab']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Robin Wonsley Worlobah",
+                "changes": {
+                    "condorcet": {
+                        "baseline_winner": "['']",
+                        "new_winner": "['Yusra Arab']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Cam Gordon",
+                "changes": {
+                    "condorcet": {
+                        "baseline_winner": "['']",
+                        "new_winner": "['Robin Wonsley Worlobah']"
+                    },
+                    "minimax": {
+                        "baseline_winner": "['Yusra Arab']",
+                        "new_winner": "['Robin Wonsley Worlobah']"
+                    },
+                    "smith_plurality": {
+                        "baseline_winner": "['Yusra Arab']",
+                        "new_winner": "['Robin Wonsley Worlobah']"
+                    },
+                    "smith-minimax": {
+                        "baseline_winner": "['Yusra Arab']",
+                        "new_winner": "['Robin Wonsley Worlobah']"
+                    },
+                    "ranked-pairs": {
+                        "baseline_winner": "['Yusra Arab']",
+                        "new_winner": "['Robin Wonsley Worlobah']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['Yusra Arab']",
+                        "new_winner": "['Robin Wonsley Worlobah']"
+                    }
+                }
+            },
             {
                 "candidate_removed": "Yusra Arab",
                 "changes": {
                     "IRV": {
-                        "baseline_winner": "Robin Wonsley Worlobah",
-                        "new_winner": "Cam Gordon"
+                        "baseline_winner": "['Robin Wonsley Worlobah']",
+                        "new_winner": "['Cam Gordon']"
                     },
                     "top-two": {
-                        "baseline_winner": "Robin Wonsley Worlobah",
-                        "new_winner": "Cam Gordon"
+                        "baseline_winner": "['Robin Wonsley Worlobah']",
+                        "new_winner": "['Cam Gordon']"
+                    },
+                    "condorcet": {
+                        "baseline_winner": "['']",
+                        "new_winner": "['Cam Gordon']"
+                    },
+                    "smith_irv": {
+                        "baseline_winner": "['Robin Wonsley Worlobah']",
+                        "new_winner": "['Cam Gordon']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "writein",
+                "changes": {
+                    "smith": {
+                        "baseline_winner": "['Robin Wonsley Worlobah', 'Yusra Arab', 'Cam Gordon']",
+                        "new_winner": "['Robin Wonsley Worlobah', 'Cam Gordon', 'Yusra Arab']"
                     }
                 }
             },
@@ -241,157 +561,190 @@
                 "candidate_removed": "Tom Anderson",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "Robin Wonsley Worlobah",
-                        "new_winner": "Yusra Arab"
+                        "baseline_winner": "['Robin Wonsley Worlobah']",
+                        "new_winner": "['Yusra Arab']"
+                    },
+                    "borda-om": {
+                        "baseline_winner": "['Yusra Arab']",
+                        "new_winner": "['Robin Wonsley Worlobah']"
+                    },
+                    "smith": {
+                        "baseline_winner": "['Robin Wonsley Worlobah', 'Yusra Arab', 'Cam Gordon']",
+                        "new_winner": "['Robin Wonsley Worlobah', 'Cam Gordon', 'Yusra Arab']"
                     }
                 }
             }
         ],
-        "american/Minneapolis/Minneapolis_11072017_Ward4CityCouncil.csv": [
+        "Minneapolis/Minneapolis_11072017_Ward4CityCouncil.csv": [
             {
                 "candidate_removed": "Stephanie Gasca",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "Barbara A. \"Barb\" Johnson",
-                        "new_winner": "Phillipe M. Cunningham"
+                        "baseline_winner": "['Barbara A. \"Barb\" Johnson']",
+                        "new_winner": "['Phillipe M. Cunningham']"
                     }
                 }
             }
         ],
-        "american/Minneapolis/Minneapolis_11062009_MinneapolisParkRecBoard.csv": [
+        "Minneapolis/Minneapolis_11072023_CityCouncilWard7.csv": [
+            {
+                "candidate_removed": "writein",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Scott Graham']",
+                        "new_winner": "['Katie Cashman']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Kenneth C. Foxworth",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "['Katie Cashman']",
+                        "new_winner": "['Scott Graham']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['Scott Graham']",
+                        "new_winner": "['Katie Cashman']"
+                    }
+                }
+            }
+        ],
+        "Minneapolis/Minneapolis_11072017_PRBoardDistrict4.csv": [
+            {
+                "candidate_removed": "writein",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "['Tom Nordyke']",
+                        "new_winner": "['Jono Cowgill']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['Tom Nordyke']",
+                        "new_winner": "['Jono Cowgill']"
+                    }
+                }
+            }
+        ],
+        "Minneapolis/Minneapolis_11062009_MinneapolisParkRecBoard.csv": [
             {
                 "candidate_removed": "John Erwin",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "Bob Fine",
-                        "new_winner": "Annie Young"
+                        "baseline_winner": "['Bob Fine']",
+                        "new_winner": "['Annie Young']"
                     }
                 }
             }
         ],
-        "american/Minneapolis/Minneapolis_11022021_CityCouncilWard9.csv": [
+        "Minneapolis/Minneapolis_11072017_PRBoardDistrict6.csv": [
             {
-                "candidate_removed": "Mickey Moore",
+                "candidate_removed": "Robert M Schlosser \"Bob\"",
                 "changes": {
-                    "minimax": {
-                        "baseline_winner": "Jason Chavez",
-                        "new_winner": "Ross Tenneson"
-                    },
-                    "smith-minimax": {
-                        "baseline_winner": "Jason Chavez",
-                        "new_winner": "Ross Tenneson"
-                    },
-                    "ranked-pairs": {
-                        "baseline_winner": "Jason Chavez",
-                        "new_winner": "Ross Tenneson"
+                    "approval": {
+                        "baseline_winner": "['Bob Fine']",
+                        "new_winner": "['Brad Bourn']"
                     }
                 }
             },
             {
-                "candidate_removed": "Ross Tenneson",
+                "candidate_removed": "Jennifer Zielinski",
                 "changes": {
-                    "condorcet": {
-                        "baseline_winner": "Mickey Moore",
-                        "new_winner": "Jason Chavez"
-                    },
-                    "smith": {
-                        "baseline_winner": "Mickey Moore",
-                        "new_winner": "Jason Chavez"
+                    "approval": {
+                        "baseline_winner": "['Bob Fine']",
+                        "new_winner": "['Brad Bourn']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "writein",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Bob Fine']",
+                        "new_winner": "['Brad Bourn']"
                     }
                 }
             }
         ],
-        "american/Minneapolis/Minneapolis 2013-board of estimation and taxation cvr.csv": [
+        "Minneapolis/Minneapolis_11052013_Ward13CityCouncil.csv": [
             {
-                "candidate_removed": "DAVID PASCOE",
+                "candidate_removed": "writein",
                 "changes": {
                     "borda-pm": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "CAROL J. BECKER"
+                        "baseline_winner": "['MATT PERRY']",
+                        "new_winner": "['LINEA PALMISANO']"
                     },
-                    "top-3-truncation": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "CAROL J. BECKER"
+                    "approval": {
+                        "baseline_winner": "['MATT PERRY']",
+                        "new_winner": "['LINEA PALMISANO']"
                     }
                 }
             },
             {
-                "candidate_removed": "CAROL J. BECKER",
+                "candidate_removed": "MISSY DURANT",
                 "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "DAVID B WHEELER"
+                    "borda-om": {
+                        "baseline_winner": "['LINEA PALMISANO']",
+                        "new_winner": "['MATT PERRY']"
                     },
-                    "top-3-truncation": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "DAVID B WHEELER"
+                    "borda-avg": {
+                        "baseline_winner": "['LINEA PALMISANO']",
+                        "new_winner": "['MATT PERRY']"
+                    },
+                    "bucklin": {
+                        "baseline_winner": "['LINEA PALMISANO']",
+                        "new_winner": "['MATT PERRY']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['MATT PERRY']",
+                        "new_winner": "['LINEA PALMISANO']"
                     }
                 }
             },
             {
-                "candidate_removed": "DAVID B WHEELER",
+                "candidate_removed": "BOB REUER",
                 "changes": {
                     "borda-pm": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "CAROL J. BECKER"
+                        "baseline_winner": "['MATT PERRY']",
+                        "new_winner": "['LINEA PALMISANO']"
                     },
-                    "top-3-truncation": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "CAROL J. BECKER"
+                    "approval": {
+                        "baseline_winner": "['MATT PERRY']",
+                        "new_winner": "['LINEA PALMISANO']"
                     }
                 }
             },
             {
-                "candidate_removed": "UWI",
+                "candidate_removed": "DAVID REGAN",
                 "changes": {
                     "borda-pm": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "CAROL J. BECKER"
+                        "baseline_winner": "['MATT PERRY']",
+                        "new_winner": "['LINEA PALMISANO']"
                     },
-                    "top-3-truncation": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "CAROL J. BECKER"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "DOUGLAS SEMBLA",
-                "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "CAROL J. BECKER"
-                    },
-                    "top-3-truncation": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "CAROL J. BECKER"
+                    "approval": {
+                        "baseline_winner": "['MATT PERRY']",
+                        "new_winner": "['LINEA PALMISANO']"
                     }
                 }
             }
         ],
-        "american/Minneapolis/Minneapolis_11022021_ParkBoardDistrict6.csv": [
+        "Minneapolis/Minneapolis_11062009_Ward5CityCouncil.csv": [
+            {
+                "candidate_removed": "Roger Smithrud",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['Don Samuels']",
+                        "new_winner": "['Natalie Johnson Lee', 'Don Samuels']"
+                    }
+                }
+            }
+        ],
+        "Minneapolis/Minneapolis_11022021_ParkBoardDistrict6.csv": [
             {
                 "candidate_removed": "Bob Fine",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "Risa Hustad",
-                        "new_winner": "Cathy Abene"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "Cathy Abene",
-                "changes": {
-                    "minimax": {
-                        "baseline_winner": "Risa Hustad",
-                        "new_winner": "Bob Fine"
-                    },
-                    "smith-minimax": {
-                        "baseline_winner": "Risa Hustad",
-                        "new_winner": "Bob Fine"
-                    },
-                    "ranked-pairs": {
-                        "baseline_winner": "Risa Hustad",
-                        "new_winner": "Bob Fine"
+                        "baseline_winner": "['Risa Hustad']",
+                        "new_winner": "['Cathy Abene']"
                     }
                 }
             },
@@ -399,32 +752,37 @@
                 "candidate_removed": "Barb Schlaefer",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "Risa Hustad",
-                        "new_winner": "Cathy Abene"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "Risa Hustad",
-                "changes": {
-                    "condorcet": {
-                        "baseline_winner": "Bob Fine",
-                        "new_winner": "Cathy Abene"
-                    },
-                    "smith": {
-                        "baseline_winner": "Bob Fine",
-                        "new_winner": "Cathy Abene"
+                        "baseline_winner": "['Risa Hustad']",
+                        "new_winner": "['Cathy Abene']"
                     }
                 }
             }
         ],
-        "american/Pierce County, WA/PierceCounty_11042008_CountyExecutiveMember.csv": [
+        "Pierce County, WA/PierceCounty_11042008_CountyExecutiveMember.csv": [
+            {
+                "candidate_removed": "writein",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "['Pat McCarthy']",
+                        "new_winner": "['Shawn Bunney']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Mike Lonergan",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "['Pat McCarthy']",
+                        "new_winner": "['Calvin Goings']"
+                    }
+                }
+            },
             {
                 "candidate_removed": "Pat McCarthy",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "Shawn Bunney",
-                        "new_winner": "Calvin Goings"
+                        "baseline_winner": "['Shawn Bunney']",
+                        "new_winner": "['Calvin Goings']"
                     }
                 }
             },
@@ -432,68 +790,184 @@
                 "candidate_removed": "Calvin Goings",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "Shawn Bunney",
-                        "new_winner": "Pat McCarthy"
+                        "baseline_winner": "['Shawn Bunney']",
+                        "new_winner": "['Pat McCarthy']"
                     }
                 }
             }
         ],
-        "american/Pierce County, WA/PierceCounty_11042008_CountyAssessorTreasurer.csv": [
+        "Pierce County, WA/PierceCounty_11042008_CountyAssessorTreasurer.csv": [
             {
-                "candidate_removed": "Terry Lee",
+                "candidate_removed": "writein",
                 "changes": {
-                    "top-3-truncation": {
-                        "baseline_winner": "Dale Washam",
-                        "new_winner": "Jan Shabro"
+                    "approval": {
+                        "baseline_winner": "['Jan Shabro']",
+                        "new_winner": "['Dale Washam']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Dale Washam",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Jan Shabro']",
+                        "new_winner": "['Terry Lee']"
                     }
                 }
             },
             {
                 "candidate_removed": "Beverly Davidson",
                 "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "Jan Shabro",
-                        "new_winner": "Dale Washam"
+                    "approval": {
+                        "baseline_winner": "['Jan Shabro']",
+                        "new_winner": "['Dale Washam']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Terry Lee",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['Dale Washam']",
+                        "new_winner": "['Jan Shabro']"
+                    },
+                    "top-3-truncation": {
+                        "baseline_winner": "['Dale Washam']",
+                        "new_winner": "['Jan Shabro']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['Jan Shabro']",
+                        "new_winner": "['Dale Washam']"
                     }
                 }
             },
             {
                 "candidate_removed": "Bernardo Tuma",
                 "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "Jan Shabro",
-                        "new_winner": "Dale Washam"
-                    }
-                }
-            }
-        ],
-        "american/Maine/Maine_11062018_CongressionalDistrict2.csv": [
-            {
-                "candidate_removed": "Bond, Tiffany L.",
-                "changes": {
-                    "plurality": {
-                        "baseline_winner": "REP Poliquin, Bruce",
-                        "new_winner": "DEM Golden, Jared F."
-                    }
-                }
-            }
-        ],
-        "american/Utah cities/Moab_11022021_CityCouncil.csv": [
-            {
-                "candidate_removed": "LUKE WOJCIECHOWSKI",
-                "changes": {
-                    "plurality": {
-                        "baseline_winner": "JASON TAYLOR",
-                        "new_winner": "JOSIE KOVASH"
+                    "approval": {
+                        "baseline_winner": "['Jan Shabro']",
+                        "new_winner": "['Dale Washam']"
                     }
                 }
             },
             {
-                "candidate_removed": "RANDALL FOX",
+                "candidate_removed": "Barbara Gelman",
                 "changes": {
+                    "approval": {
+                        "baseline_winner": "['Jan Shabro']",
+                        "new_winner": "['Dale Washam']"
+                    }
+                }
+            }
+        ],
+        "Portland, ME/Portland_06142022_SchoolboardAL-1.csv": [
+            {
+                "candidate_removed": "Mancini, Kimberly A.",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Grant, Benjamin K.']",
+                        "new_winner": "['Lentz, Sarah M.']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Schertz, Amber J.",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Grant, Benjamin K.']",
+                        "new_winner": "['Lentz, Sarah M.']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Albert, Stephanie G.",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Grant, Benjamin K.']",
+                        "new_winner": "['Lentz, Sarah M.']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Hang, Stacey L.",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Grant, Benjamin K.']",
+                        "new_winner": "['Lentz, Sarah M.']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Ward, Richard L.",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Grant, Benjamin K.']",
+                        "new_winner": "['Lentz, Sarah M.']"
+                    }
+                }
+            }
+        ],
+        "Maine/Maine_07142020_DemocraticCandidateforMaineStateHouseDistrict90.csv": [
+            {
+                "candidate_removed": "Levesque, David J.",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Pieh, Wendy']",
+                        "new_winner": "['Crafts, Lydia V.']"
+                    }
+                }
+            }
+        ],
+        "Maine/Maine_11062018_CongressionalDistrict2.csv": [
+            {
+                "candidate_removed": "Bond, Tiffany L.",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "['REP Poliquin, Bruce']",
+                        "new_winner": "['DEM Golden, Jared F.']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['REP Poliquin, Bruce']",
+                        "new_winner": "['DEM Golden, Jared F.']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Hoar, William R.S.",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['REP Poliquin, Bruce']",
+                        "new_winner": "['DEM Golden, Jared F.']"
+                    }
+                }
+            }
+        ],
+        "Takoma Park, MD/TakomaPark_11082022_CityCouncilWard6.csv": [
+            {
+                "candidate_removed": "Ambroise Agosse",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "['Jason Small']",
+                        "new_winner": "['Mike Moore']"
+                    }
+                }
+            }
+        ],
+        "Utah cities/Moab_11022021_CityCouncil.csv": [
+            {
+                "candidate_removed": "MIKE MCCURDY",
+                "changes": {
+                    "top-two": {
+                        "baseline_winner": "['JASON TAYLOR']",
+                        "new_winner": "['LUKE WOJCIECHOWSKI']"
+                    },
                     "top-3-truncation": {
-                        "baseline_winner": "JASON TAYLOR",
-                        "new_winner": "LUKE WOJCIECHOWSKI"
+                        "baseline_winner": "['JASON TAYLOR']",
+                        "new_winner": "['LUKE WOJCIECHOWSKI']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['JASON TAYLOR']",
+                        "new_winner": "['LUKE WOJCIECHOWSKI']"
                     }
                 }
             },
@@ -501,37 +975,49 @@
                 "candidate_removed": "JOSIE KOVASH",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "JASON TAYLOR",
-                        "new_winner": "LUKE WOJCIECHOWSKI"
+                        "baseline_winner": "['JASON TAYLOR']",
+                        "new_winner": "['LUKE WOJCIECHOWSKI']"
                     },
                     "IRV": {
-                        "baseline_winner": "JASON TAYLOR",
-                        "new_winner": "LUKE WOJCIECHOWSKI"
+                        "baseline_winner": "['JASON TAYLOR']",
+                        "new_winner": "['LUKE WOJCIECHOWSKI']"
                     },
                     "top-two": {
-                        "baseline_winner": "JASON TAYLOR",
-                        "new_winner": "LUKE WOJCIECHOWSKI"
+                        "baseline_winner": "['JASON TAYLOR']",
+                        "new_winner": "['LUKE WOJCIECHOWSKI']"
                     },
-                    "borda-pm": {
-                        "baseline_winner": "LUKE WOJCIECHOWSKI",
-                        "new_winner": "JASON TAYLOR"
+                    "borda-om": {
+                        "baseline_winner": "['LUKE WOJCIECHOWSKI']",
+                        "new_winner": "['JASON TAYLOR']"
+                    },
+                    "borda-avg": {
+                        "baseline_winner": "['LUKE WOJCIECHOWSKI']",
+                        "new_winner": "['JASON TAYLOR']"
                     },
                     "top-3-truncation": {
-                        "baseline_winner": "JASON TAYLOR",
-                        "new_winner": "LUKE WOJCIECHOWSKI"
+                        "baseline_winner": "['JASON TAYLOR']",
+                        "new_winner": "['LUKE WOJCIECHOWSKI']"
+                    },
+                    "bucklin": {
+                        "baseline_winner": "['LUKE WOJCIECHOWSKI']",
+                        "new_winner": "['JASON TAYLOR']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['JASON TAYLOR']",
+                        "new_winner": "['LUKE WOJCIECHOWSKI']"
                     }
                 }
             },
             {
-                "candidate_removed": "MIKE MCCURDY",
+                "candidate_removed": "RANDALL FOX",
                 "changes": {
-                    "top-two": {
-                        "baseline_winner": "JASON TAYLOR",
-                        "new_winner": "LUKE WOJCIECHOWSKI"
-                    },
                     "top-3-truncation": {
-                        "baseline_winner": "JASON TAYLOR",
-                        "new_winner": "LUKE WOJCIECHOWSKI"
+                        "baseline_winner": "['JASON TAYLOR']",
+                        "new_winner": "['LUKE WOJCIECHOWSKI']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['JASON TAYLOR']",
+                        "new_winner": "['LUKE WOJCIECHOWSKI']"
                     }
                 }
             },
@@ -539,113 +1025,286 @@
                 "candidate_removed": "ANTHONY CHARLES",
                 "changes": {
                     "top-3-truncation": {
-                        "baseline_winner": "JASON TAYLOR",
-                        "new_winner": "LUKE WOJCIECHOWSKI"
-                    }
-                }
-            }
-        ],
-        "american/Burlington/Burlington_03032009_Mayor.csv": [
-            {
-                "candidate_removed": "Bob Kiss",
-                "changes": {
-                    "plurality": {
-                        "baseline_winner": "Kurt Wright",
-                        "new_winner": "Andy Montroll"
+                        "baseline_winner": "['JASON TAYLOR']",
+                        "new_winner": "['LUKE WOJCIECHOWSKI']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['JASON TAYLOR']",
+                        "new_winner": "['LUKE WOJCIECHOWSKI']"
                     }
                 }
             },
             {
+                "candidate_removed": "LUKE WOJCIECHOWSKI",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "['JASON TAYLOR']",
+                        "new_winner": "['JOSIE KOVASH']"
+                    }
+                }
+            }
+        ],
+        "Utah cities/ElkRidge_11022021_Mayor.csv": [
+            {
+                "candidate_removed": "GEORGE D. POTTER",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['ROBERT HADDOCK', 'GORDON REYNOLDS']",
+                        "new_winner": "['ROBERT HADDOCK']"
+                    }
+                }
+            }
+        ],
+        "Minnetonka/Minnetonka_11022021_CityCouncilAtLargeSeatB.csv": [
+            {
+                "candidate_removed": "Ash Patel",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['Kimberly Wilburn']",
+                        "new_winner": "['Stacy Cranbrook']"
+                    }
+                }
+            }
+        ],
+        "Minnetonka/Minnetonka_11072023_CityCouncilWard4.csv": [
+            {
+                "candidate_removed": "David G. Larson",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "['Ted Nearman']",
+                        "new_winner": "['Kissy C. Coakley']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['Ted Nearman']",
+                        "new_winner": "['Kissy C. Coakley']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "writein",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Ted Nearman']",
+                        "new_winner": "['Kissy C. Coakley']"
+                    }
+                }
+            }
+        ],
+        "Minnetonka/Minnetonka_11072023_CityCouncilWard3.csv": [
+            {
+                "candidate_removed": "Ryan Ness",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['David Haeg']",
+                        "new_winner": "['Paula Ramaley']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "writein",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "['David Haeg']",
+                        "new_winner": "['Paula Ramaley']"
+                    },
+                    "borda-avg": {
+                        "baseline_winner": "['David Haeg']",
+                        "new_winner": "['Paula Ramaley']"
+                    },
+                    "top-3-truncation": {
+                        "baseline_winner": "['David Haeg']",
+                        "new_winner": "['Paula Ramaley']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['David Haeg']",
+                        "new_winner": "['Paula Ramaley']"
+                    }
+                }
+            }
+        ],
+        "Burlington/Burlington_03032009_Mayor.csv": [
+            {
                 "candidate_removed": "Kurt Wright",
                 "changes": {
                     "IRV": {
-                        "baseline_winner": "Bob Kiss",
-                        "new_winner": "Andy Montroll"
+                        "baseline_winner": "['Bob Kiss']",
+                        "new_winner": "['Andy Montroll']"
                     },
                     "top-two": {
-                        "baseline_winner": "Bob Kiss",
-                        "new_winner": "Andy Montroll"
+                        "baseline_winner": "['Bob Kiss']",
+                        "new_winner": "['Andy Montroll']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Bob Kiss",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "['Kurt Wright']",
+                        "new_winner": "['Andy Montroll']"
                     }
                 }
             }
         ],
-        "american/APA/APA 2005.csv": [
+        "APA/APA 2005.csv": [
             {
                 "candidate_removed": "Cand 3",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "Cand 0",
-                        "new_winner": "Cand 1"
+                        "baseline_winner": "['Cand 0']",
+                        "new_winner": "['Cand 1']"
                     },
-                    "borda-pm": {
-                        "baseline_winner": "Cand 1",
-                        "new_winner": "Cand 0"
+                    "borda-om": {
+                        "baseline_winner": "['Cand 1']",
+                        "new_winner": "['Cand 0']"
+                    },
+                    "borda-avg": {
+                        "baseline_winner": "['Cand 1']",
+                        "new_winner": "['Cand 0']"
                     },
                     "top-3-truncation": {
-                        "baseline_winner": "Cand 1",
-                        "new_winner": "Cand 0"
+                        "baseline_winner": "['Cand 1']",
+                        "new_winner": "['Cand 0']"
+                    },
+                    "bucklin": {
+                        "baseline_winner": "['Cand 1']",
+                        "new_winner": "['Cand 0']"
                     }
                 }
             }
         ],
-        "american/APA/APA 2007.csv": [
+        "APA/APA 2007.csv": [
             {
-                "candidate_removed": "Cand 3",
+                "candidate_removed": "Cand 4",
                 "changes": {
-                    "plurality": {
-                        "baseline_winner": "Cand 1",
-                        "new_winner": "Cand 2"
-                    }
-                }
-            }
-        ],
-        "american/APA/APA 1999.csv": [
-            {
-                "candidate_removed": "Cand 2",
-                "changes": {
-                    "plurality": {
-                        "baseline_winner": "Cand 3",
-                        "new_winner": "Cand 0"
+                    "approval": {
+                        "baseline_winner": "['Cand 2']",
+                        "new_winner": "['Cand 1']"
                     }
                 }
             },
             {
                 "candidate_removed": "Cand 0",
                 "changes": {
-                    "plurality": {
-                        "baseline_winner": "Cand 3",
-                        "new_winner": "Cand 2"
-                    }
-                }
-            }
-        ],
-        "american/APA/APA 2020 BOD race2.csv": [
-            {
-                "candidate_removed": "Jeremy M. Wolfe PhD",
-                "changes": {
-                    "plurality": {
-                        "baseline_winner": "Erica H. Wise PhD",
-                        "new_winner": "M. Lynne Cooper PhD"
-                    }
-                }
-            }
-        ],
-        "american/APA/APA 2009.csv": [
-            {
-                "candidate_removed": "Cand 1",
-                "changes": {
-                    "top-3-truncation": {
-                        "baseline_winner": "Cand 4",
-                        "new_winner": "Cand 0"
+                    "approval": {
+                        "baseline_winner": "['Cand 2']",
+                        "new_winner": "['Cand 1']"
                     }
                 }
             },
             {
                 "candidate_removed": "Cand 3",
                 "changes": {
+                    "plurality": {
+                        "baseline_winner": "['Cand 1']",
+                        "new_winner": "['Cand 2']"
+                    },
+                    "bucklin": {
+                        "baseline_winner": "['Cand 2']",
+                        "new_winner": "['Cand 1']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['Cand 2']",
+                        "new_winner": "['Cand 1']"
+                    }
+                }
+            }
+        ],
+        "APA/APA 1999.csv": [
+            {
+                "candidate_removed": "Cand 0",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "['Cand 3']",
+                        "new_winner": "['Cand 2']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Cand 4",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "['Cand 3']",
+                        "new_winner": "['Cand 2']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Cand 2",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "['Cand 3']",
+                        "new_winner": "['Cand 0']"
+                    }
+                }
+            }
+        ],
+        "APA/APA 2018 BOD race2.csv": [
+            {
+                "candidate_removed": "Barry A. Hong PhD",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['Kim E. Dixon PhD']",
+                        "new_winner": "['Shannon L. Wiltsey Stirman PhD']"
+                    },
+                    "bucklin": {
+                        "baseline_winner": "['Kim E. Dixon PhD']",
+                        "new_winner": "['Shannon L. Wiltsey Stirman PhD']"
+                    }
+                }
+            }
+        ],
+        "APA/APA 2020 BOD race2.csv": [
+            {
+                "candidate_removed": "Jeremy M. Wolfe PhD",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "['Erica H. Wise PhD']",
+                        "new_winner": "['M. Lynne Cooper PhD']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['Erica H. Wise PhD']",
+                        "new_winner": "['M. Lynne Cooper PhD']"
+                    }
+                }
+            }
+        ],
+        "APA/APA 2008.csv": [
+            {
+                "candidate_removed": "Cand 2",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Cand 0']",
+                        "new_winner": "['Cand 1']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Cand 4",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Cand 0']",
+                        "new_winner": "['Cand 1']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Cand 3",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Cand 0']",
+                        "new_winner": "['Cand 1']"
+                    }
+                }
+            }
+        ],
+        "APA/APA 2009.csv": [
+            {
+                "candidate_removed": "Cand 1",
+                "changes": {
                     "top-3-truncation": {
-                        "baseline_winner": "Cand 4",
-                        "new_winner": "Cand 0"
+                        "baseline_winner": "['Cand 4']",
+                        "new_winner": "['Cand 0']"
                     }
                 }
             },
@@ -653,271 +1312,471 @@
                 "candidate_removed": "Cand 2",
                 "changes": {
                     "top-3-truncation": {
-                        "baseline_winner": "Cand 4",
-                        "new_winner": "Cand 0"
+                        "baseline_winner": "['Cand 4']",
+                        "new_winner": "['Cand 0']"
+                    },
+                    "bucklin": {
+                        "baseline_winner": "['Cand 0']",
+                        "new_winner": "['Cand 4']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Cand 3",
+                "changes": {
+                    "top-3-truncation": {
+                        "baseline_winner": "['Cand 4']",
+                        "new_winner": "['Cand 0']"
+                    },
+                    "bucklin": {
+                        "baseline_winner": "['Cand 0']",
+                        "new_winner": "['Cand 4']"
                     }
                 }
             }
         ],
-        "american/Alameda County/Berkeley_11042014_CityCouncilDistrict8.csv": [
+        "Alameda County/Berkeley_11042014_CityCouncilDistrict8.csv": [
             {
                 "candidate_removed": "MIKE ALVAREZ COHEN",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "LORI DROSTE",
-                        "new_winner": "GEORGE BEIER"
-                    },
-                    "condorcet": {
-                        "baseline_winner": "JACQUELYN MCCORMICK",
-                        "new_winner": "GEORGE BEIER"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "LORI DROSTE",
-                "changes": {
-                    "condorcet": {
-                        "baseline_winner": "JACQUELYN MCCORMICK",
-                        "new_winner": "MIKE ALVAREZ COHEN"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "GEORGE BEIER",
-                "changes": {
-                    "condorcet": {
-                        "baseline_winner": "JACQUELYN MCCORMICK",
-                        "new_winner": "LORI DROSTE"
-                    },
-                    "minimax": {
-                        "baseline_winner": "MIKE ALVAREZ COHEN",
-                        "new_winner": "LORI DROSTE"
-                    },
-                    "smith": {
-                        "baseline_winner": "MIKE ALVAREZ COHEN",
-                        "new_winner": "LORI DROSTE"
-                    },
-                    "smith-minimax": {
-                        "baseline_winner": "MIKE ALVAREZ COHEN",
-                        "new_winner": "LORI DROSTE"
-                    },
-                    "ranked-pairs": {
-                        "baseline_winner": "MIKE ALVAREZ COHEN",
-                        "new_winner": "LORI DROSTE"
+                        "baseline_winner": "['LORI DROSTE']",
+                        "new_winner": "['GEORGE BEIER']"
                     }
                 }
             }
         ],
-        "american/Alameda County/Oakland_11082016_SchoolDirectorDistrict5.csv": [
+        "Alameda County/Berkeley_11062018_CityCouncilDistrict1.csv": [
+            {
+                "candidate_removed": "MARY BEHM-STEINBERG",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['IGOR A. TREGUB']",
+                        "new_winner": "['RASHI KESARWANI']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "MARGO SCHUELER",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['IGOR A. TREGUB']",
+                        "new_winner": "['RASHI KESARWANI']"
+                    }
+                }
+            }
+        ],
+        "Alameda County/Oakland_11082016_SchoolDirectorDistrict5.csv": [
             {
                 "candidate_removed": "MIKE HUTCHINSON",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "HUBER TRENADO",
-                        "new_winner": "ROSIE TORRES"
+                        "baseline_winner": "['HUBER TRENADO']",
+                        "new_winner": "['ROSIE TORRES']"
+                    },
+                    "bucklin": {
+                        "baseline_winner": "['ROSIE TORRES']",
+                        "new_winner": "['HUBER TRENADO']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "MIKE HASSID",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['HUBER TRENADO']",
+                        "new_winner": "['ROSIE TORRES']"
                     }
                 }
             }
         ],
-        "american/Alameda County/Oakland_11062018_CityCouncilDistrict4.csv": [
-            {
-                "candidate_removed": "PAM HARRIS",
-                "changes": {
-                    "condorcet": {
-                        "baseline_winner": "JOSEPH TANIOS",
-                        "new_winner": "CHARLIE MICHELSON"
-                    },
-                    "minimax": {
-                        "baseline_winner": "SHENG THAO",
-                        "new_winner": "CHARLIE MICHELSON"
-                    },
-                    "smith-minimax": {
-                        "baseline_winner": "SHENG THAO",
-                        "new_winner": "CHARLIE MICHELSON"
-                    },
-                    "ranked-pairs": {
-                        "baseline_winner": "SHENG THAO",
-                        "new_winner": "CHARLIE MICHELSON"
-                    }
-                }
-            },
+        "Alameda County/Oakland_11062018_CityCouncilDistrict4.csv": [
             {
                 "candidate_removed": "CHARLIE MICHELSON",
                 "changes": {
-                    "condorcet": {
-                        "baseline_winner": "JOSEPH TANIOS",
-                        "new_winner": "SHENG THAO"
-                    },
-                    "smith": {
-                        "baseline_winner": "PAM HARRIS",
-                        "new_winner": "SHENG THAO"
+                    "approval": {
+                        "baseline_winner": "['PAM HARRIS']",
+                        "new_winner": "['SHENG THAO']"
                     }
                 }
             },
             {
-                "candidate_removed": "SHENG THAO",
+                "candidate_removed": "MATT HUMMEL",
                 "changes": {
-                    "condorcet": {
-                        "baseline_winner": "JOSEPH TANIOS",
-                        "new_winner": "PAM HARRIS"
+                    "approval": {
+                        "baseline_winner": "['PAM HARRIS']",
+                        "new_winner": "['SHENG THAO']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "JOSEPH E. SIMMONS",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['PAM HARRIS']",
+                        "new_winner": "['SHENG THAO']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "NAYELI MAXSON",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "['SHENG THAO']",
+                        "new_winner": "['PAM HARRIS']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['PAM HARRIS']",
+                        "new_winner": "['SHENG THAO']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "JOSEPH TANIOS",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['PAM HARRIS']",
+                        "new_winner": "['SHENG THAO']"
                     }
                 }
             }
         ],
-        "american/Alameda County/Oakland_11062012_CityCouncilDistrict3.csv": [
+        "Alameda County/Oakland_11062012_CityCouncilDistrict3.csv": [
             {
                 "candidate_removed": "NYEISHA DEWITT",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "SEAN SULLIVAN",
-                        "new_winner": "LYNETTE GIBSON-MCELHANEY"
+                        "baseline_winner": "['SEAN SULLIVAN']",
+                        "new_winner": "['LYNETTE GIBSON-MCELHANEY']"
                     }
                 }
             }
         ],
-        "american/Alameda County/Oakland_11062012_CityCouncilDistrict1.csv": [
+        "Alameda County/Berkeley_05282024_Citycouncildistrict4specialelection.csv": [
             {
-                "candidate_removed": "DAN KALB",
-                "changes": {
-                    "condorcet": {
-                        "baseline_winner": "LEN RAPHAEL",
-                        "new_winner": "RICHARD RAYA"
-                    },
-                    "minimax": {
-                        "baseline_winner": "AMY LEMLEY",
-                        "new_winner": "RICHARD RAYA"
-                    },
-                    "smith": {
-                        "baseline_winner": "LEN RAPHAEL",
-                        "new_winner": "RICHARD RAYA"
-                    },
-                    "smith-minimax": {
-                        "baseline_winner": "AMY LEMLEY",
-                        "new_winner": "RICHARD RAYA"
-                    },
-                    "ranked-pairs": {
-                        "baseline_winner": "AMY LEMLEY",
-                        "new_winner": "RICHARD RAYA"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "DONALD MACLEAY",
-                "changes": {
-                    "smith": {
-                        "baseline_winner": "LEN RAPHAEL",
-                        "new_winner": "DAN KALB"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "RICHARD RAYA",
-                "changes": {
-                    "condorcet": {
-                        "baseline_winner": "LEN RAPHAEL",
-                        "new_winner": "AMY LEMLEY"
-                    },
-                    "smith": {
-                        "baseline_winner": "LEN RAPHAEL",
-                        "new_winner": "AMY LEMLEY"
-                    }
-                }
-            }
-        ],
-        "american/Alameda County/Berkeley_05282024_Citycouncildistrict4specialelection.csv": [
-            {
-                "candidate_removed": "ELANA AUERBACH",
+                "candidate_removed": "SOLI ALPERT",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "RUBEN STORY",
-                        "new_winner": "IGOR A. TREGUB"
+                        "baseline_winner": "['IGOR A. TREGUB']",
+                        "new_winner": "['RUBEN STORY']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Write-in",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "['IGOR A. TREGUB']",
+                        "new_winner": "['RUBEN STORY']"
                     }
                 }
             }
         ],
-        "american/Alameda County/Oakland_11082022_Schoolboarddistrict4.csv": [
-            {
-                "candidate_removed": "PECOLIA MANIGO",
-                "changes": {
-                    "plurality": {
-                        "baseline_winner": "NICK RESNICK",
-                        "new_winner": "MIKE HUTCHINSON"
-                    },
-                    "borda-pm": {
-                        "baseline_winner": "NICK RESNICK",
-                        "new_winner": "MIKE HUTCHINSON"
-                    },
-                    "top-3-truncation": {
-                        "baseline_winner": "NICK RESNICK",
-                        "new_winner": "MIKE HUTCHINSON"
-                    }
-                }
-            },
+        "Alameda County/Oakland_11082022_Schoolboarddistrict4.csv": [
             {
                 "candidate_removed": "NICK RESNICK",
                 "changes": {
                     "IRV": {
-                        "baseline_winner": "MIKE HUTCHINSON",
-                        "new_winner": "PECOLIA MANIGO"
+                        "baseline_winner": "['MIKE HUTCHINSON']",
+                        "new_winner": "['PECOLIA MANIGO']"
+                    },
+                    "borda-om": {
+                        "baseline_winner": "['MIKE HUTCHINSON']",
+                        "new_winner": "['PECOLIA MANIGO']"
+                    },
+                    "condorcet": {
+                        "baseline_winner": "['']",
+                        "new_winner": "['PECOLIA MANIGO']"
+                    },
+                    "minimax": {
+                        "baseline_winner": "['MIKE HUTCHINSON']",
+                        "new_winner": "['PECOLIA MANIGO']"
+                    },
+                    "smith_irv": {
+                        "baseline_winner": "['MIKE HUTCHINSON']",
+                        "new_winner": "['PECOLIA MANIGO']"
+                    },
+                    "smith-minimax": {
+                        "baseline_winner": "['MIKE HUTCHINSON']",
+                        "new_winner": "['PECOLIA MANIGO']"
+                    },
+                    "ranked-pairs": {
+                        "baseline_winner": "['MIKE HUTCHINSON']",
+                        "new_winner": "['PECOLIA MANIGO']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['MIKE HUTCHINSON']",
+                        "new_winner": "['PECOLIA MANIGO']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "PECOLIA MANIGO",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "['NICK RESNICK']",
+                        "new_winner": "['MIKE HUTCHINSON']"
                     },
                     "top-two": {
-                        "baseline_winner": "MIKE HUTCHINSON",
-                        "new_winner": "PECOLIA MANIGO"
+                        "baseline_winner": "['NICK RESNICK']",
+                        "new_winner": "['MIKE HUTCHINSON']"
+                    },
+                    "borda-pm": {
+                        "baseline_winner": "['NICK RESNICK']",
+                        "new_winner": "['MIKE HUTCHINSON']"
+                    },
+                    "condorcet": {
+                        "baseline_winner": "['']",
+                        "new_winner": "['MIKE HUTCHINSON']"
+                    },
+                    "smith_plurality": {
+                        "baseline_winner": "['NICK RESNICK']",
+                        "new_winner": "['MIKE HUTCHINSON']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Write-in",
+                "changes": {
+                    "top-two": {
+                        "baseline_winner": "['NICK RESNICK']",
+                        "new_winner": "['MIKE HUTCHINSON']"
+                    },
+                    "borda-avg": {
+                        "baseline_winner": "['MIKE HUTCHINSON']",
+                        "new_winner": "['NICK RESNICK']"
+                    },
+                    "top-3-truncation": {
+                        "baseline_winner": "['MIKE HUTCHINSON']",
+                        "new_winner": "['NICK RESNICK']"
+                    },
+                    "smith": {
+                        "baseline_winner": "['MIKE HUTCHINSON', 'PECOLIA MANIGO', 'NICK RESNICK']",
+                        "new_winner": "['MIKE HUTCHINSON', 'NICK RESNICK', 'PECOLIA MANIGO']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "MIKE HUTCHINSON",
+                "changes": {
+                    "condorcet": {
+                        "baseline_winner": "['']",
+                        "new_winner": "['NICK RESNICK']"
                     }
                 }
             }
         ],
-        "american/Alameda County/Berkeley_11082016_CityCouncilDistrict2.csv": [
+        "Alameda County/Oakland_11042014_CityCouncilDistrict6.csv": [
+            {
+                "candidate_removed": "VICENTE CRUZ",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['SHEREDA F. NOSAKHARE']",
+                        "new_winner": "['DESLEY BROOKS']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "JAMES MOORE",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['SHEREDA F. NOSAKHARE']",
+                        "new_winner": "['DESLEY BROOKS']"
+                    },
+                    "bucklin": {
+                        "baseline_winner": "['DESLEY BROOKS']",
+                        "new_winner": "['SHEREDA F. NOSAKHARE']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['SHEREDA F. NOSAKHARE']",
+                        "new_winner": "['DESLEY BROOKS']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "MICHAEL V. JOHNSON",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "['DESLEY BROOKS']",
+                        "new_winner": "['SHEREDA F. NOSAKHARE']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['SHEREDA F. NOSAKHARE']",
+                        "new_winner": "['DESLEY BROOKS']"
+                    }
+                }
+            }
+        ],
+        "Alameda County/SanLeandro_11062012_CountyCouncilDistrict2.csv": [
+            {
+                "candidate_removed": "DAN DILLMAN",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['MORGAN MACK-ROSE']",
+                        "new_winner": "['URSULA REED']"
+                    },
+                    "bucklin": {
+                        "baseline_winner": "['MORGAN MACK-ROSE']",
+                        "new_winner": "['URSULA REED']"
+                    }
+                }
+            }
+        ],
+        "Alameda County/Berkeley_11082016_CityCouncilDistrict2.csv": [
             {
                 "candidate_removed": "NANCI IRA ARMSTRONG-TEMPLE",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "DARRYL MOORE",
-                        "new_winner": "CHERYL DAVILA"
+                        "baseline_winner": "['DARRYL MOORE']",
+                        "new_winner": "['CHERYL DAVILA']"
                     }
                 }
             }
         ],
-        "american/Alameda County/SanLeandro_11022010_Mayor.csv": [
+        "Alameda County/SanLeandro_11022010_Mayor.csv": [
             {
                 "candidate_removed": "JOYCE RUTLEDGE STAROSCIAK",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "ANTHONY B. ''TONY'' SANTOS",
-                        "new_winner": "STEPHEN H. CASSIDY"
+                        "baseline_winner": "[\"ANTHONY B. ''TONY'' SANTOS\"]",
+                        "new_winner": "['STEPHEN H. CASSIDY']"
                     }
                 }
             }
         ],
-        "american/San Francisco/SanFrancisco_06052018_Mayor.csv": [
+        "San Francisco/SanFrancisco_11052024_BoS_D7.csv": [
+            {
+                "candidate_removed": "STEPHEN MARTIN-PINTO",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['MATT BOSCHETTO']",
+                        "new_winner": "['MYRNA MELGAR']"
+                    }
+                }
+            }
+        ],
+        "San Francisco/SanFrancisco_06052018_Mayor.csv": [
+            {
+                "candidate_removed": "MICHELLE BRAVO",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['MARK LENO']",
+                        "new_winner": "['LONDON BREED']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "WRITE-IN ANTOINE R. ROGERS",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['MARK LENO']",
+                        "new_winner": "['LONDON BREED']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "AMY FARAH WEISS",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['MARK LENO']",
+                        "new_winner": "['LONDON BREED']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['MARK LENO']",
+                        "new_winner": "['LONDON BREED']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "ANGELA ALIOTO",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['MARK LENO']",
+                        "new_winner": "['LONDON BREED']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "RICHIE GREENBERG",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['MARK LENO']",
+                        "new_winner": "['LONDON BREED']"
+                    }
+                }
+            },
             {
                 "candidate_removed": "JANE KIM",
                 "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['MARK LENO']",
+                        "new_winner": "['LONDON BREED']"
+                    },
                     "top-3-truncation": {
-                        "baseline_winner": "LONDON BREED",
-                        "new_winner": "MARK LENO"
+                        "baseline_winner": "['LONDON BREED']",
+                        "new_winner": "['MARK LENO']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['MARK LENO']",
+                        "new_winner": "['LONDON BREED']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "ELLEN LEE ZHOU",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['MARK LENO']",
+                        "new_winner": "['LONDON BREED']"
                     }
                 }
             }
         ],
-        "american/San Francisco/SanFrancisco_11052024_BoS_D11.csv": [
+        "San Francisco/SanFrancisco_11052024_BoS_D11.csv": [
+            {
+                "candidate_removed": "JOSE MORALES",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['MICHAEL LAI']",
+                        "new_winner": "['CHYANNE CHEN']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "OSCAR FLORES",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['MICHAEL LAI']",
+                        "new_winner": "['CHYANNE CHEN']"
+                    }
+                }
+            },
             {
                 "candidate_removed": "ERNEST \"EJ\" JONES",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "MICHAEL LAI",
-                        "new_winner": "CHYANNE CHEN"
+                        "baseline_winner": "['MICHAEL LAI']",
+                        "new_winner": "['CHYANNE CHEN']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "ROGER K. MARENCO",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['MICHAEL LAI']",
+                        "new_winner": "['CHYANNE CHEN']"
                     }
                 }
             }
         ],
-        "american/San Francisco/SanFrancisco_11052024_BoS_D5.csv": [
+        "San Francisco/SanFrancisco_11052024_BoS_D5.csv": [
             {
                 "candidate_removed": "SCOTTY JACOBS",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "DEAN PRESTON",
-                        "new_winner": "BILAL MAHMOOD"
+                        "baseline_winner": "['DEAN PRESTON']",
+                        "new_winner": "['BILAL MAHMOOD']"
                     }
                 }
             },
@@ -925,138 +1784,488 @@
                 "candidate_removed": "AUTUMN HOPE LOOIJEN",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "DEAN PRESTON",
-                        "new_winner": "BILAL MAHMOOD"
+                        "baseline_winner": "['DEAN PRESTON']",
+                        "new_winner": "['BILAL MAHMOOD']"
                     }
                 }
             }
         ],
-        "american/San Francisco/SanFrancisco_11082005_AssessorRecorder.csv": [
+        "San Francisco/SanFrancisco_11052024_BoS_D1.csv": [
             {
-                "candidate_removed": "Ronald Chun",
+                "candidate_removed": "SHERMAN D'SILVA",
                 "changes": {
-                    "condorcet": {
-                        "baseline_winner": "Gerardo Sandoval",
-                        "new_winner": "Anthony Faber"
-                    },
-                    "smith": {
-                        "baseline_winner": "Gerardo Sandoval",
-                        "new_winner": "Anthony Faber"
+                    "borda-om": {
+                        "baseline_winner": "['MARJAN PHILHOUR']",
+                        "new_winner": "['CONNIE CHAN']"
                     }
                 }
             },
             {
-                "candidate_removed": "Anthony Faber",
+                "candidate_removed": "JEREMIAH BOEHNER",
                 "changes": {
-                    "condorcet": {
-                        "baseline_winner": "Gerardo Sandoval",
-                        "new_winner": "Phil Ting"
-                    },
-                    "smith": {
-                        "baseline_winner": "Gerardo Sandoval",
-                        "new_winner": "Phil Ting"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "Phil Ting",
-                "changes": {
-                    "minimax": {
-                        "baseline_winner": "Anthony Faber",
-                        "new_winner": "Gerardo Sandoval"
-                    },
-                    "smith-minimax": {
-                        "baseline_winner": "Anthony Faber",
-                        "new_winner": "Gerardo Sandoval"
-                    },
-                    "ranked-pairs": {
-                        "baseline_winner": "Anthony Faber",
-                        "new_winner": "Gerardo Sandoval"
+                    "borda-om": {
+                        "baseline_winner": "['MARJAN PHILHOUR']",
+                        "new_winner": "['CONNIE CHAN']"
                     }
                 }
             }
         ],
-        "american/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict2.csv": [
+        "San Francisco/SanFrancisco_11052024_BoS_D3.csv": [
+            {
+                "candidate_removed": "MATTHEW SUSK",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['DANNY SAUTER']",
+                        "new_winner": "['SHARON LAI']"
+                    }
+                }
+            }
+        ],
+        "San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict2.csv": [
             {
                 "candidate_removed": "KAT ANDERSON",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "JANET REILLY",
-                        "new_winner": "MARK FARRELL"
+                        "baseline_winner": "['JANET REILLY']",
+                        "new_winner": "['MARK FARRELL']"
                     }
                 }
             }
         ],
-        "american/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT11.csv": [
+        "San Francisco/SanFrancisco_11052019_DistrictAttorney.csv": [
             {
-                "candidate_removed": "JASON CHUYUAN ZENG",
+                "candidate_removed": "writein",
                 "changes": {
-                    "condorcet": {
-                        "baseline_winner": "JOHN AVALOS",
-                        "new_winner": "AHSHA SAFAI"
+                    "borda-avg": {
+                        "baseline_winner": "['SUZY LOFTUS']",
+                        "new_winner": "['CHESA BOUDIN']"
                     },
-                    "smith": {
-                        "baseline_winner": "JOHN AVALOS",
-                        "new_winner": "AHSHA SAFAI"
+                    "approval": {
+                        "baseline_winner": "['SUZY LOFTUS']",
+                        "new_winner": "['CHESA BOUDIN']"
                     }
                 }
             },
             {
-                "candidate_removed": "MARCELO COLUSSI",
+                "candidate_removed": "NANCY TUNG",
                 "changes": {
-                    "condorcet": {
-                        "baseline_winner": "JOHN AVALOS",
-                        "new_winner": "JASON CHUYUAN ZENG"
+                    "borda-om": {
+                        "baseline_winner": "['SUZY LOFTUS']",
+                        "new_winner": "['CHESA BOUDIN']"
                     },
-                    "smith": {
-                        "baseline_winner": "JOHN AVALOS",
-                        "new_winner": "JASON CHUYUAN ZENG"
+                    "borda-avg": {
+                        "baseline_winner": "['SUZY LOFTUS']",
+                        "new_winner": "['CHESA BOUDIN']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['SUZY LOFTUS']",
+                        "new_winner": "['CHESA BOUDIN']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "LEIF DAUTCH",
+                "changes": {
+                    "borda-avg": {
+                        "baseline_winner": "['SUZY LOFTUS']",
+                        "new_winner": "['CHESA BOUDIN']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['SUZY LOFTUS']",
+                        "new_winner": "['CHESA BOUDIN']"
                     }
                 }
             }
         ],
-        "american/San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict4.csv": [
+        "San Francisco/SanFrancisco_11062012_BoardofSupervisorsDistrict7.csv": [
+            {
+                "candidate_removed": "LYNN GAVIN",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['NORMAN YEE']",
+                        "new_winner": "['F. X. FRANCIS XAVIER CROWLEY']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "JULIAN P. LAGOS",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['NORMAN YEE']",
+                        "new_winner": "['F. X. FRANCIS XAVIER CROWLEY']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "ANDREW BLEY",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['NORMAN YEE']",
+                        "new_winner": "['F. X. FRANCIS XAVIER CROWLEY']"
+                    }
+                }
+            }
+        ],
+        "San Francisco/SanFrancisco_11082016_BoardofSupervisorsDistrict11.csv": [
+            {
+                "candidate_removed": "MAGDALENA DE GUZMAN",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['KIM ALVARENGA']",
+                        "new_winner": "['AHSHA SAFAI']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "BERTA HERNANDEZ",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['KIM ALVARENGA']",
+                        "new_winner": "['AHSHA SAFAI']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "FRANCISCO HERRERA",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['KIM ALVARENGA']",
+                        "new_winner": "['AHSHA SAFAI']"
+                    }
+                }
+            }
+        ],
+        "San Francisco/SanFrancisco_11072006_BoardofSupervisorsDistrict4.csv": [
             {
                 "candidate_removed": "David Ferguson",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "Ed Jew",
-                        "new_winner": "Ron Dudum"
+                        "baseline_winner": "['Ed Jew']",
+                        "new_winner": "['Ron Dudum']"
                     }
                 }
             }
         ],
-        "american/New York City/NewYorkCity_06222021_DEMBoroughPresidentQueens.csv": [
+        "San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT1.csv": [
             {
-                "candidate_removed": "James G. Van Bramer",
+                "candidate_removed": "SHERMAN R. D'SILVA",
                 "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "Elizabeth S. Crowley",
-                        "new_winner": "Donovan J. Richards Jr."
-                    },
-                    "top-3-truncation": {
-                        "baseline_winner": "Elizabeth S. Crowley",
-                        "new_winner": "Donovan J. Richards Jr."
-                    }
-                }
-            }
-        ],
-        "american/New York City/NewYorkCity_06222021_DEMCouncilMember25thCouncilDistrict.csv": [
-            {
-                "candidate_removed": "Alfonso Quiroz",
-                "changes": {
-                    "plurality": {
-                        "baseline_winner": "Yi Andy Chen",
-                        "new_winner": "Shekar Krishnan"
+                    "approval": {
+                        "baseline_winner": "['MARJAN PHILHOUR']",
+                        "new_winner": "['CONNIE CHAN']"
                     }
                 }
             },
             {
+                "candidate_removed": "ANDREW N. MAJALYA",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['MARJAN PHILHOUR']",
+                        "new_winner": "['CONNIE CHAN']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "AMANDA INOCENCIO",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "['MARJAN PHILHOUR']",
+                        "new_winner": "['CONNIE CHAN']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['MARJAN PHILHOUR']",
+                        "new_winner": "['CONNIE CHAN']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "VERONICA SHINZATO",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['MARJAN PHILHOUR']",
+                        "new_winner": "['CONNIE CHAN']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "DAVID E. LEE",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['MARJAN PHILHOUR']",
+                        "new_winner": "['CONNIE CHAN']"
+                    }
+                }
+            }
+        ],
+        "San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT3.csv": [
+            {
+                "candidate_removed": "SPENCER SIMONSEN",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['DANNY SAUTER']",
+                        "new_winner": "['AARON PESKIN']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "STEPHEN (LULU) SCHWARTZ",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['DANNY SAUTER']",
+                        "new_winner": "['AARON PESKIN']"
+                    }
+                }
+            }
+        ],
+        "San Francisco/SanFrancisco_11082011_Sheriff.csv": [
+            {
+                "candidate_removed": "CHRIS CUNNIE",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['PAUL MIYAMOTO']",
+                        "new_winner": "['ROSS MIRKARIMI']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "DAVID WONG",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['PAUL MIYAMOTO']",
+                        "new_winner": "['ROSS MIRKARIMI']"
+                    }
+                }
+            }
+        ],
+        "San Francisco/SanFrancisco_11042008_BoardofSupervisorsDistrict1.csv": [
+            {
+                "candidate_removed": "ALICIA WANG",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['SUE LEE']",
+                        "new_winner": "['ERIC MAR']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "BRIAN J. LARKIN",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['SUE LEE']",
+                        "new_winner": "['ERIC MAR']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "GEORGE FLAMIK",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['SUE LEE']",
+                        "new_winner": "['ERIC MAR']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "SHERMAN R. D''SILVA",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['SUE LEE']",
+                        "new_winner": "['ERIC MAR']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "writein",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['SUE LEE']",
+                        "new_winner": "['ERIC MAR']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "JASON JUNGREIS",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['SUE LEE']",
+                        "new_winner": "['ERIC MAR']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "NICHOLAS C. BELLONI",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['SUE LEE']",
+                        "new_winner": "['ERIC MAR']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "FIDEL CHRYS GAKUBA",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['SUE LEE']",
+                        "new_winner": "['ERIC MAR']"
+                    }
+                }
+            }
+        ],
+        "New York City/NewYorkCity_06222021_REPBoroughPresidentRichmond.csv": [
+            {
+                "candidate_removed": "Leticia M. Remauro",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['Steven Matteo']",
+                        "new_winner": "['Vito Fossella']"
+                    }
+                }
+            }
+        ],
+        "New York City/NewYorkCity_06222021_DEMCouncilMember32ndCouncilDistrict.csv": [
+            {
+                "candidate_removed": "Helal A. Sheikh",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Michael G. Scala']",
+                        "new_winner": "['Felicia Singh']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Kaled A. Alamarie",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Michael G. Scala']",
+                        "new_winner": "['Felicia Singh']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Bella A. Matias",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Michael G. Scala']",
+                        "new_winner": "['Felicia Singh']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Shaeleigh Severino",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Michael G. Scala']",
+                        "new_winner": "['Felicia Singh']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "writein",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Michael G. Scala']",
+                        "new_winner": "['Felicia Singh']"
+                    }
+                }
+            }
+        ],
+        "New York City/NewYorkCity_06222021_DEMBoroughPresidentQueens.csv": [
+            {
+                "candidate_removed": "James G. Van Bramer",
+                "changes": {
+                    "borda-pm": {
+                        "baseline_winner": "['Elizabeth S. Crowley']",
+                        "new_winner": "['Donovan J. Richards Jr.']"
+                    },
+                    "borda-om": {
+                        "baseline_winner": "['Elizabeth S. Crowley']",
+                        "new_winner": "['Donovan J. Richards Jr.']"
+                    },
+                    "borda-avg": {
+                        "baseline_winner": "['Elizabeth S. Crowley']",
+                        "new_winner": "['Donovan J. Richards Jr.']"
+                    },
+                    "top-3-truncation": {
+                        "baseline_winner": "['Elizabeth S. Crowley']",
+                        "new_winner": "['Donovan J. Richards Jr.']"
+                    },
+                    "bucklin": {
+                        "baseline_winner": "['Elizabeth S. Crowley']",
+                        "new_winner": "['Donovan J. Richards Jr.']"
+                    }
+                }
+            }
+        ],
+        "New York City/NewYorkCity_06222021_DEMBoroughPresidentBronx.csv": [
+            {
+                "candidate_removed": "Luis R. Sepulveda",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['Fernando Cabrera']",
+                        "new_winner": "['Vanessa L. Gibson']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Sammy Ravelo",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['Fernando Cabrera']",
+                        "new_winner": "['Vanessa L. Gibson']"
+                    }
+                }
+            }
+        ],
+        "New York City/NewYorkCity_06222021_DEMCouncilMember25thCouncilDistrict.csv": [
+            {
                 "candidate_removed": "Fatima Baryab",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "Yi Andy Chen",
-                        "new_winner": "Shekar Krishnan"
+                        "baseline_winner": "['Yi Andy Chen']",
+                        "new_winner": "['Shekar Krishnan']"
+                    },
+                    "bucklin": {
+                        "baseline_winner": "['Yi Andy Chen']",
+                        "new_winner": "['Shekar Krishnan']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['Yi Andy Chen']",
+                        "new_winner": "['Shekar Krishnan']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "William H. Salgado",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Yi Andy Chen']",
+                        "new_winner": "['Shekar Krishnan']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Liliana C. Melo",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "['Yi Andy Chen']",
+                        "new_winner": "['Shekar Krishnan']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['Yi Andy Chen']",
+                        "new_winner": "['Shekar Krishnan']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Manuel F. Perez",
+                "changes": {
+                    "bucklin": {
+                        "baseline_winner": "['Yi Andy Chen']",
+                        "new_winner": "['Shekar Krishnan']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['Yi Andy Chen']",
+                        "new_winner": "['Shekar Krishnan']"
                     }
                 }
             },
@@ -1064,376 +2273,124 @@
                 "candidate_removed": "Carolyn Tran",
                 "changes": {
                     "plurality": {
-                        "baseline_winner": "Yi Andy Chen",
-                        "new_winner": "Shekar Krishnan"
+                        "baseline_winner": "['Yi Andy Chen']",
+                        "new_winner": "['Shekar Krishnan']"
+                    },
+                    "bucklin": {
+                        "baseline_winner": "['Yi Andy Chen']",
+                        "new_winner": "['Shekar Krishnan']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['Yi Andy Chen']",
+                        "new_winner": "['Shekar Krishnan']"
                     }
                 }
-            }
-        ],
-        "american/New York City/NewYorkCity_06222021_DEMCouncilMember20thCouncilDistrict.csv": [
+            },
             {
-                "candidate_removed": "John Choe",
+                "candidate_removed": "writein",
                 "changes": {
-                    "condorcet": {
-                        "baseline_winner": "Ming-Kang Low",
-                        "new_winner": "Sandra Ung"
+                    "approval": {
+                        "baseline_winner": "['Yi Andy Chen']",
+                        "new_winner": "['Shekar Krishnan']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Alfonso Quiroz",
+                "changes": {
+                    "plurality": {
+                        "baseline_winner": "['Yi Andy Chen']",
+                        "new_winner": "['Shekar Krishnan']"
+                    },
+                    "approval": {
+                        "baseline_winner": "['Yi Andy Chen']",
+                        "new_winner": "['Shekar Krishnan']"
                     }
                 }
             }
         ],
-        "american/New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv": [
+        "New York City/NewYorkCity_06222021_REPCouncilMember50thCouncilDistrict.csv": [
+            {
+                "candidate_removed": "Sam T. Pirozzolo",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Marko Kepi']",
+                        "new_winner": "['David M. Carr']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "writein",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Marko Kepi']",
+                        "new_winner": "['David M. Carr']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Kathleen Sforza",
+                "changes": {
+                    "approval": {
+                        "baseline_winner": "['Marko Kepi']",
+                        "new_winner": "['David M. Carr']"
+                    }
+                }
+            },
             {
                 "candidate_removed": "Jordan Hafizi",
                 "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "Marko Kepi",
-                        "new_winner": "David M. Carr"
-                    },
-                    "top-3-truncation": {
-                        "baseline_winner": "Marko Kepi",
-                        "new_winner": "David M. Carr"
+                    "approval": {
+                        "baseline_winner": "['Marko Kepi']",
+                        "new_winner": "['David M. Carr']"
                     }
                 }
             }
         ],
-        "american/Corvallis, OR/Corvallis_11082022_Mayor.csv": [
+        "New York City/NewYorkCity_06222021_DEMCouncilMember36thCouncilDistrict.csv": [
+            {
+                "candidate_removed": "Henry L. Butler",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['Tahirah A. Moore']",
+                        "new_winner": "['Chi A. Osse']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Reginald Swiney",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['Tahirah A. Moore']",
+                        "new_winner": "['Chi A. Osse']"
+                    },
+                    "bucklin": {
+                        "baseline_winner": "['Tahirah A. Moore']",
+                        "new_winner": "['Chi A. Osse']"
+                    }
+                }
+            }
+        ],
+        "Corvallis, OR/Corvallis_11082022_Mayor.csv": [
             {
                 "candidate_removed": "Roen Hogg",
                 "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "Andrew Struthers",
-                        "new_winner": "Charles Maughan"
+                    "approval": {
+                        "baseline_winner": "['Andrew Struthers']",
+                        "new_winner": "['Charles Maughan']"
+                    }
+                }
+            },
+            {
+                "candidate_removed": "Write-in",
+                "changes": {
+                    "borda-om": {
+                        "baseline_winner": "['Andrew Struthers']",
+                        "new_winner": "['Charles Maughan']"
                     },
-                    "top-3-truncation": {
-                        "baseline_winner": "Andrew Struthers",
-                        "new_winner": "Charles Maughan"
-                    }
-                }
-            }
-        ],
-        "american/Portland, ME/Portland_06082021_charter_commission_at_large.csv": [
-            {
-                "candidate_removed": "Washburn, Patricia J.",
-                "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "Sheikh-Yousef, Nasreen A.",
-                        "new_winner": "Chann, Marpheen S."
-                    }
-                }
-            },
-            {
-                "candidate_removed": "DiMillo, Steven A.",
-                "changes": {
-                    "top-two": {
-                        "baseline_winner": "Sheikh-Yousef, Nasreen A.",
-                        "new_winner": "Chann, Marpheen S."
-                    }
-                }
-            },
-            {
-                "candidate_removed": "Bailey, William M.",
-                "changes": {
-                    "plurality": {
-                        "baseline_winner": "Sheikh-Yousef, Nasreen A.",
-                        "new_winner": "DiMillo, Steven A."
-                    }
-                }
-            }
-        ],
-        "american/Alameda County/Oakland_11082022_Mayor.csv": [
-            {
-                "candidate_removed": "ALLYSSA VICTORY VILLANUEVA",
-                "changes": {
-                    "plurality": {
-                        "baseline_winner": "LOREN MANUEL TAYLOR",
-                        "new_winner": "SHENG THAO"
-                    },
-                    "borda-pm": {
-                        "baseline_winner": "SHENG THAO",
-                        "new_winner": "LOREN MANUEL TAYLOR"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "GREGORY HODGE",
-                "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "SHENG THAO",
-                        "new_winner": "LOREN MANUEL TAYLOR"
-                    },
-                    "top-3-truncation": {
-                        "baseline_winner": "SHENG THAO",
-                        "new_winner": "LOREN MANUEL TAYLOR"
-                    }
-                }
-            }
-        ],
-        "american/San Francisco/SanFrancisco_11032020_BOARDOFSUPERVISORSDISTRICT7.csv": [
-            {
-                "candidate_removed": "MYRNA MELGAR",
-                "changes": {
-                    "plurality": {
-                        "baseline_winner": "JOEL ENGARDIO",
-                        "new_winner": "VILASKA NGUYEN"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "EMILY MURASE",
-                "changes": {
-                    "top-two": {
-                        "baseline_winner": "JOEL ENGARDIO",
-                        "new_winner": "MYRNA MELGAR"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "VILASKA NGUYEN",
-                "changes": {
-                    "plurality": {
-                        "baseline_winner": "JOEL ENGARDIO",
-                        "new_winner": "MYRNA MELGAR"
-                    },
-                    "top-two": {
-                        "baseline_winner": "JOEL ENGARDIO",
-                        "new_winner": "MYRNA MELGAR"
-                    }
-                }
-            }
-        ],
-        "american/San Francisco/SanFrancisco_11022010_BoardofSupervisorsDistrict10.csv": [
-            {
-                "candidate_removed": "CHRIS JACKSON",
-                "changes": {
-                    "plurality": {
-                        "baseline_winner": "LYNETTE SWEET",
-                        "new_winner": "TONY KELLY"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "DEWITT M. LACY",
-                "changes": {
-                    "plurality": {
-                        "baseline_winner": "LYNETTE SWEET",
-                        "new_winner": "MALIA COHEN"
-                    },
-                    "top-two": {
-                        "baseline_winner": "LYNETTE SWEET",
-                        "new_winner": "MALIA COHEN"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "STEVE MOSS",
-                "changes": {
-                    "plurality": {
-                        "baseline_winner": "LYNETTE SWEET",
-                        "new_winner": "TONY KELLY"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "JACKIE NORMAN",
-                "changes": {
-                    "top-two": {
-                        "baseline_winner": "LYNETTE SWEET",
-                        "new_winner": "MALIA COHEN"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "GEOFFREA MORRIS",
-                "changes": {
-                    "top-two": {
-                        "baseline_winner": "LYNETTE SWEET",
-                        "new_winner": "MALIA COHEN"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "RODNEY HAMPTON, JR.",
-                "changes": {
-                    "top-two": {
-                        "baseline_winner": "LYNETTE SWEET",
-                        "new_winner": "MALIA COHEN"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "TERESA DUQUE",
-                "changes": {
-                    "plurality": {
-                        "baseline_winner": "LYNETTE SWEET",
-                        "new_winner": "MARLENE TRAN"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "ED DONALDSON",
-                "changes": {
-                    "top-two": {
-                        "baseline_winner": "LYNETTE SWEET",
-                        "new_winner": "MALIA COHEN"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "ERIC SMITH",
-                "changes": {
-                    "plurality": {
-                        "baseline_winner": "LYNETTE SWEET",
-                        "new_winner": "TONY KELLY"
-                    },
-                    "top-two": {
-                        "baseline_winner": "LYNETTE SWEET",
-                        "new_winner": "MALIA COHEN"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "DIANE WESLEY SMITH",
-                "changes": {
-                    "top-two": {
-                        "baseline_winner": "LYNETTE SWEET",
-                        "new_winner": "MALIA COHEN"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "JAMES M. CALLOWAY",
-                "changes": {
-                    "top-two": {
-                        "baseline_winner": "LYNETTE SWEET",
-                        "new_winner": "MALIA COHEN"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "TONY KELLY",
-                "changes": {
-                    "plurality": {
-                        "baseline_winner": "LYNETTE SWEET",
-                        "new_winner": "STEVE MOSS"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "ASHLEY H RHODES",
-                "changes": {
-                    "top-two": {
-                        "baseline_winner": "LYNETTE SWEET",
-                        "new_winner": "MALIA COHEN"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "MARLENE TRAN",
-                "changes": {
-                    "plurality": {
-                        "baseline_winner": "LYNETTE SWEET",
-                        "new_winner": "TERESA DUQUE"
-                    }
-                }
-            }
-        ],
-        "american/Cambridge, MA/Cambridge_11042003_SchoolCommittee.csv": [
-            {
-                "candidate_removed": "Write-In 1",
-                "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "Walser, Nancy"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "Grassi, Joseph G.",
-                "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "Walser, Nancy"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "Price, Alan C.",
-                "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "Walser, Nancy"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "Lummis, Ben",
-                "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "Walser, Nancy"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "Craig, Christopher",
-                "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "Walser, Nancy"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "UWI",
-                "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "Walser, Nancy"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "Walser, Nancy",
-                "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "Harding, Richard, Jr."
-                    }
-                }
-            },
-            {
-                "candidate_removed": "McGovern, Marc C.",
-                "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "Walser, Nancy"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "Write-In 2",
-                "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "Walser, Nancy"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "Fantini, Alfred B.",
-                "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "Walser, Nancy"
-                    }
-                }
-            },
-            {
-                "candidate_removed": "Harding, Richard, Jr.",
-                "changes": {
-                    "borda-pm": {
-                        "baseline_winner": "skipped",
-                        "new_winner": "Walser, Nancy"
+                    "approval": {
+                        "baseline_winner": "['Andrew Struthers']",
+                        "new_winner": "['Charles Maughan']"
                     }
                 }
             }
