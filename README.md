@@ -18,7 +18,7 @@ American voters are used to the winner being the candidate with the number of fi
 ## [Top 4 stability](./analysis/stability/)
 Top-k voting methods --- where one voting method is used to winnow down the candidate pool, and a second is used to select the winner --- have some appeal in voting reform circles. We determined the number of elections where the winner would change if you reduced the candidate pool to the top four plurality winners. Note that Scotland has a large number of such elections since their elections are actually multi-winner, and so a single party will often be represented by a number of candidates on the ballot (and, therefore, voters aligned with that party might have ballots that rank those candidates differently).
 
-## [Majority winner/Condorcet Loser](./analysis/majority_fav/)
+## [Majority winner](./analysis/majority_fav/)/[Condorcet Loser](./analysis/condorcet_loser/)
 Majority winner: when a majority winner exists, the method does not elect the majority winner. Condorcet loser: the method elects a condorcet loser (candidate that is defeated in a head to head compairson with every other candidate). These graphs show the number of elections where a particular method was susceptible to these failures.
 
 ## [Cloning](./analysis/candidate_cloning/)
